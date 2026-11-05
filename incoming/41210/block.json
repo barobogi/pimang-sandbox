@@ -1,0 +1,73 @@
+{
+  "block_code": "41210",
+  "block_name": "경기도 광명시",
+  "bbox": [
+    126.826079,
+    37.401506,
+    126.899926,
+    37.49516
+  ],
+  "center": [
+    37.448333,
+    126.863002
+  ],
+  "landmarks": [
+    {
+      "name": "광명동굴",
+      "lat": 37.4268147,
+      "lng": 126.8655162,
+      "category": "관광/동굴",
+      "description": "폐광을 테마 관광지로 재탄생한 대표 동굴 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "name": "광명사거리 상권",
+      "lat": 37.479,
+      "lng": 126.864,
+      "category": "상권",
+      "description": "광명의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+    },
+    {
+      "name": "철산동 상권",
+      "lat": 37.476,
+      "lng": 126.87,
+      "category": "상권",
+      "description": "철산동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+    },
+    {
+      "name": "오리공원",
+      "lat": 37.434113,
+      "lng": 126.8761072,
+      "category": "공원",
+      "description": "광명의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+    },
+    {
+      "name": "하안근린공원",
+      "lat": 37.465,
+      "lng": 126.87,
+      "category": "공원",
+      "description": "하안동 일대의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+    }
+  ],
+  "history_summary": "광명시는 서울 남서쪽 관문의 위성 도시로 광명동굴과 철산동 상권이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
