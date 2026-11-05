@@ -1,0 +1,73 @@
+{
+  "block_code": "26710",
+  "block_name": "부산광역시 기장군",
+  "bbox": [
+    129.10929,
+    35.124344,
+    129.488953,
+    35.389224
+  ],
+  "center": [
+    35.256784,
+    129.299122
+  ],
+  "landmarks": [
+    {
+      "name": "청사포",
+      "lat": 35.1612578,
+      "lng": 129.1913842,
+      "category": "해안/관광",
+      "description": "기장의 대표 해안 전망 명소로 절벽 절경이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0"
+    },
+    {
+      "name": "장안사",
+      "lat": 35.3743156,
+      "lng": 129.2329808,
+      "category": "사찰/문화유산",
+      "description": "원효대사가 창건한 사찰로 보물 대웅전이 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%AC"
+    },
+    {
+      "name": "임랑해수욕장",
+      "lat": 35.3213997,
+      "lng": 129.2677023,
+      "category": "해수욕장",
+      "description": "기장 8경의 하나로 임랑만의 조용한 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0"
+    },
+    {
+      "name": "해동용궁사",
+      "lat": 35.1884335,
+      "lng": 129.2229764,
+      "category": "사찰/해안",
+      "description": "바다 위 바위에 지어진 대표 해안 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC"
+    },
+    {
+      "name": "오시리아관광단지",
+      "lat": 35.1894127,
+      "lng": 129.2126703,
+      "category": "테마파크/관광",
+      "description": "롯데월드 어드벤처 부산과 프리미엄아울렛이 자리한 동부산 관광단지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0"
+    }
+  ],
+  "history_summary": "부산 기장군은 기장읍과 장안·일광·정관·철마가 함께한 부산 동부의 해안 군으로 청사포와 해동용궁사 등 해안 명소가 있다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
