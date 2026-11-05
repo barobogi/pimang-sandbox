@@ -18,15 +18,27 @@
       "lng": 128.2611673,
       "category": "사당/역사",
       "description": "충익사은(는) 경상남도 의령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%9D%B5%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%9D%B5%EC%82%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 358.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg/1280px-%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg"
     },
     {
       "name": "정암나루",
-      "lat": 35.38550395,
-      "lng": 128.25850335,
+      "lat": 35.314246,
+      "lng": 128.29447,
       "category": "나루/경승지",
       "description": "정암나루은(는) 경상남도 의령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 337.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/1280px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg"
     },
     {
       "name": "한우산",
@@ -34,7 +46,13 @@
       "lng": 128.1923631,
       "category": "산/자연",
       "description": "한우산은(는) 경상남도 의령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%9A%B0%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%9A%B0%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 100.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/UR-HUmt1.jpg/1280px-UR-HUmt1.jpg"
     },
     {
       "name": "의령군청",
@@ -42,15 +60,27 @@
       "lng": 128.2615077,
       "category": "행정/랜드마크",
       "description": "의령군청은(는) 경상남도 의령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 357.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/1280px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg"
     },
     {
       "name": "의령시장",
-      "lat": 35.38550395,
-      "lng": 128.25850335,
+      "lat": 35.3190574,
+      "lng": 128.261514,
       "category": "시장/먹거리",
       "description": "의령시장은(는) 경상남도 의령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 357.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Uiryeong-eup.jpg/1280px-Panoramic_view_of_Uiryeong-eup.jpg"
     }
   ],
   "history_summary": "의령군은 홍의장군 곽재우 유적과 정암나루, 한우산이 자리한 경남 중부의 군이다.",
