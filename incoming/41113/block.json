@@ -18,7 +18,13 @@
       "lng": 127.002,
       "category": "연구/농업",
       "description": "국내 농업 연구의 중심기관으로 서둔동에 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 231.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
     },
     {
       "name": "권선동 상권",
@@ -26,7 +32,13 @@
       "lng": 127.02,
       "category": "상권",
       "description": "권선동에 형성된 권선구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 275.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Gwonseon_il-dong_Community_service_center.jpeg/1280px-Gwonseon_il-dong_Community_service_center.jpeg"
     },
     {
       "name": "세류역 상권",
@@ -34,7 +46,13 @@
       "lng": 127.027,
       "category": "상권",
       "description": "세류역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 281.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
     },
     {
       "name": "서둔공원",
@@ -42,7 +60,13 @@
       "lng": 127.005,
       "category": "공원",
       "description": "서둔동 일대의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 240.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
     },
     {
       "name": "서둔천",
@@ -50,7 +74,13 @@
       "lng": 127.01,
       "category": "하천/자연",
       "description": "수원을 지나는 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 253.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
     }
   ],
   "history_summary": "수원 권선구는 국립식량과학원과 세류역 상권이 자리한 수원 서부의 구이다.",
