@@ -1,0 +1,73 @@
+{
+  "block_code": "44131",
+  "block_name": "충청남도 천안시 동남구",
+  "bbox": [
+    127.009358,
+    36.61975,
+    127.420417,
+    36.892081
+  ],
+  "center": [
+    36.755915,
+    127.214887
+  ],
+  "landmarks": [
+    {
+      "name": "독립기념관",
+      "lat": 36.783045,
+      "lng": 127.224876,
+      "category": "기념관/역사",
+      "description": "독립운동과 자주정신을 기리는 국가 기념관으로 천안 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EA%B8%B0%EB%85%90%EA%B4%80"
+    },
+    {
+      "name": "천안흥타령난장",
+      "lat": 36.815,
+      "lng": 127.15,
+      "category": "문화/공연",
+      "description": "흥타령 문화를 상징하는 전통 시장형 복합문화 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29"
+    },
+    {
+      "name": "광덕산",
+      "lat": 36.8015194,
+      "lng": 127.3428833,
+      "category": "산/자연",
+      "description": "해발 699m의 산으로 광덕사와 함께한 천안 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8D%95%EC%82%B0"
+    },
+    {
+      "name": "태조산",
+      "lat": 36.8120774,
+      "lng": 127.1674463,
+      "category": "산/자연",
+      "description": "천안 시내 북쪽에 자리한 산으로 등산로가 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29"
+    },
+    {
+      "name": "천안 남산공원",
+      "lat": 36.805,
+      "lng": 127.14,
+      "category": "도시공원",
+      "description": "천안 시내 남쪽에 조성된 대표 도시공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "동남구는 천안 시내의 원도심 구로 독립기념관과 유관순열사 기념? 아니라 흥타령 문화와 광덕산 등이 함께한 천안 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
