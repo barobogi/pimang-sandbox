@@ -83,6 +83,40 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Seoksu_1-dong_Community_Service_Center.jpg/1280px-Seoksu_1-dong_Community_Service_Center.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "만안 자연 힐링 시그니처 에어리얼 투어",
+      "description": "안양예술공원 → 삼막사 → 석수동 상권 → 안양천 → 안양역 상권 순으로 이어지는 경기도 안양시 만안구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "안양예술공원",
+        "삼막사",
+        "석수동 상권",
+        "안양천",
+        "안양역 상권"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "만안 산하 절경 에어리얼 투어",
+      "description": "안양천 → 안양예술공원 → 삼막사 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 만안의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "안양천",
+        "안양예술공원",
+        "삼막사"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "만안 도심 활력 에어리얼 코스",
+      "description": "안양역 상권 → 안양천 → 석수동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 만안의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "안양역 상권",
+        "안양천",
+        "석수동 상권"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "안양 만안구는 안양역 상권과 안양예술공원이 함께한 안양 서부의 구이다.",
   "data_sources": [
     {
