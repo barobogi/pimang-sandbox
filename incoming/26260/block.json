@@ -1,0 +1,73 @@
+{
+  "block_code": "26260",
+  "block_name": "부산광역시 동래구",
+  "bbox": [
+    129.043421,
+    35.182684,
+    129.116447,
+    35.225884
+  ],
+  "center": [
+    35.204284,
+    129.079934
+  ],
+  "landmarks": [
+    {
+      "name": "동래읍성",
+      "lat": 35.209171,
+      "lng": 129.087844,
+      "category": "읍성/문화유산",
+      "description": "조선 시대 동래부의 읍성으로 임진왜란 역사가 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EC%9D%8D%EC%84%B1"
+    },
+    {
+      "name": "충렬사",
+      "lat": 35.2005449,
+      "lng": 129.0960165,
+      "category": "사당/문화유산",
+      "description": "임진왜란 동래성 전투에서 순절한 충신들을 기리는 사적지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EB%A0%AC%EC%82%AC"
+    },
+    {
+      "name": "온천천벚꽃길",
+      "lat": 35.199,
+      "lng": 129.083,
+      "category": "꽃길/계절",
+      "description": "온천천을 따라 펼쳐지는 벚꽃·유채꽃 산책로로 부산 대표 봄꽃 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC"
+    },
+    {
+      "name": "복천동고분군",
+      "lat": 35.21,
+      "lng": 129.089,
+      "category": "고분/문화유산",
+      "description": "삼국시대 가야 무덤 유적으로 복천박물관이 함께 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC"
+    },
+    {
+      "name": "금강공원",
+      "lat": 35.2207289,
+      "lng": 129.0743306,
+      "category": "공원/온천",
+      "description": "동래온천 온천동 일대의 공원으로 금강식물원이 함께 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC"
+    }
+  ],
+  "history_summary": "부산 동래구는 조선 시대 동래부였던 유서 깊은 지역으로 동래읍성과 충렬사, 온천천 벚꽃길이 자리한 부산 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
