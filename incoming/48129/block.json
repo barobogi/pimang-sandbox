@@ -18,15 +18,27 @@
       "lng": 128.6605519,
       "category": "하천/벚꽃",
       "description": "여좌천은(는) 경상남도 창원시 진해구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 138.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Jinhae_City_20090405.JPG/1280px-Jinhae_City_20090405.JPG"
     },
     {
       "name": "진해해군기지",
-      "lat": 35.10806985,
-      "lng": 128.7213293,
+      "lat": 35.1536124,
+      "lng": 128.6543472,
       "category": "군사/랜드마크",
       "description": "진해해군기지은(는) 경상남도 창원시 진해구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%ED%95%B4%EA%B5%B0%EA%B8%B0%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%ED%95%B4%EA%B5%B0%EA%B8%B0%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 129.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Midshipmen_at_the_ROK_Naval_Academy_graduation..jpg/1280px-Midshipmen_at_the_ROK_Naval_Academy_graduation..jpg"
     },
     {
       "name": "진해구청",
@@ -34,7 +46,13 @@
       "lng": 128.7101186,
       "category": "행정/랜드마크",
       "description": "진해구청은(는) 경상남도 창원시 진해구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 159.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Jinhae_City_20090405.JPG/1280px-Jinhae_City_20090405.JPG"
     },
     {
       "name": "경화역",
@@ -42,15 +60,27 @@
       "lng": 128.686471,
       "category": "철도/벚꽃",
       "description": "경화역은(는) 경상남도 창원시 진해구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%ED%99%94%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%ED%99%94%EC%97%AD",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 150.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Korail0gyeonghwa2.jpg"
     },
     {
       "name": "진해만",
-      "lat": 35.10806985,
-      "lng": 128.7213293,
+      "lat": 35.0796701,
+      "lng": 128.6695449,
       "category": "해양/자연",
       "description": "진해만은(는) 경상남도 창원시 진해구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 56.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Jinhae_City_20090405.JPG/1280px-Jinhae_City_20090405.JPG"
     }
   ],
   "history_summary": "진해구는 해군기지와 벚꽃 명소로 유명한 창원 남부의 구로 진해만과 여좌천이 자리한다.",
