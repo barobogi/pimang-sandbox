@@ -18,7 +18,12 @@
       "lng": 128.6783359,
       "category": "생태/철새",
       "description": "겨울철 두루미 무리가 찾는 국내 유명 철새 도래지로 생태탐방로가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EB%82%A8%EC%A0%80%EC%88%98%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EB%82%A8%EC%A0%80%EC%88%98%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 270.4
+      }
     },
     {
       "name": "남산공원",
@@ -26,7 +31,13 @@
       "lng": 128.6186816,
       "category": "도시공원",
       "description": "의창구 서상동에 조성된 근린공원으로 맨발길과 산책로가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 35.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Seoul_Aerial_Shot_13.jpg/1280px-Seoul_Aerial_Shot_13.jpg"
     },
     {
       "name": "사화공원",
@@ -34,7 +45,13 @@
       "lng": 128.6326035,
       "category": "근린공원",
       "description": "사화동에 조성된 근린공원으로 의창구 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 23.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Uichang-gu_office.JPG/1280px-Uichang-gu_office.JPG"
     },
     {
       "name": "덕정공원",
@@ -42,7 +59,13 @@
       "lng": 128.578,
       "category": "근린공원",
       "description": "대원동에 조성된 근린공원으로 대원지구 생활권 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 53.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Uichang-gu_office.JPG/1280px-Uichang-gu_office.JPG"
     },
     {
       "name": "소계체육공원",
@@ -50,7 +73,13 @@
       "lng": 128.5944644,
       "category": "체육/공원",
       "description": "소계동에 조성된 체육공원으로 맨발길과 운동시설이 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 50.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Uichang-gu_office.JPG/1280px-Uichang-gu_office.JPG"
     }
   ],
   "history_summary": "의창구는 2010년 창원시 통합과 함께 설치된 창원 북부의 구로 주남저수지 두루미 도래지와 대원동 택지지구 등이 함께한 창원의 관문 지역이다.",
