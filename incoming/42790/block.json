@@ -117,6 +117,36 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "화천 동네밥집",
+      "lat": 38.1043,
+      "lng": 127.704917,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "화천 할매집",
+      "lat": 38.10381,
+      "lng": 127.705477,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "화천 솥뚜껑가게",
+      "lat": 38.1043,
+      "lng": 127.704987,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "화천 가마솥밥가",
+      "lat": 38.10451,
+      "lng": 127.705477,
+      "specialty": "산채정식",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "화천군은 파로호와 화천어죽, 산천어축제로 유명한 강원 영서 북부의 군이다.",
   "data_sources": [
     {
