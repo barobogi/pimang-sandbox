@@ -18,7 +18,13 @@
       "lng": 126.8253904,
       "category": "호수/공원",
       "description": "국내 최대 규모의 도심 호수 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 246.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
     },
     {
       "name": "대부도",
@@ -26,7 +32,13 @@
       "lng": 126.5883196,
       "category": "섬/관광",
       "description": "갯벌과 해변이 유명한 대형 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%B6%80%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%B6%80%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 206.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Daebudo_NASA-WW.jpg"
     },
     {
       "name": "반월국가산업단지",
@@ -34,7 +46,13 @@
       "lng": 126.7602155,
       "category": "산업/단지",
       "description": "이주노동 문화가 형성된 대표 산업단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%EC%9B%94%EA%B3%B5%EC%97%85%EB%8B%A8%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%EC%9B%94%EA%B3%B5%EC%97%85%EB%8B%A8%EC%A7%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 237.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1979%EB%85%84_12%EC%9B%94_%EC%B4%AC%EC%98%81%ED%95%9C_%EB%B0%98%EC%9B%94%EA%B3%B5%EB%8B%A8_%EC%A0%84%EA%B2%BD.jpg/1280px-1979%EB%85%84_12%EC%9B%94_%EC%B4%AC%EC%98%81%ED%95%9C_%EB%B0%98%EC%9B%94%EA%B3%B5%EB%8B%A8_%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "와동 상권",
@@ -42,7 +60,13 @@
       "lng": 126.81,
       "category": "상권",
       "description": "와동에 형성된 단원구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 243.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Danwon-gu_Ansan.PNG"
     },
     {
       "name": "선감도",
@@ -50,7 +74,13 @@
       "lng": 126.6378667,
       "category": "섬/관광",
       "description": "단원구 해안의 대표 섬 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 258.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Daedongyeojido_%28Gyujanggak%29_14-06.jpg/1280px-Daedongyeojido_%28Gyujanggak%29_14-06.jpg"
     }
   ],
   "history_summary": "안산 단원구는 안산호수공원과 대부도, 반월국가산업단지가 함께한 안산 서부의 구이다.",
