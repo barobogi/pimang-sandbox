@@ -18,7 +18,13 @@
       "lng": 127.525144,
       "category": "관광/섬",
       "description": "북한강 댐 건설로 형성된 섬 관광지로 전국 최고 대표 유원지 중 하나다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9D%B4%EC%84%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9D%B4%EC%84%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 65.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nami_island_winter.jpg"
     },
     {
       "name": "의암호",
@@ -26,7 +32,13 @@
       "lng": 127.7000523,
       "category": "호수/자연",
       "description": "춘천 도심 한가운데 자리한 호수로 유명한 레고 랜드마크 의암별장과 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%95%94%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%95%94%ED%98%B8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 87.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%EC%97%90%EC%84%9C_%EB%82%A8%EC%AA%BD%EC%9C%BC%EB%A1%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%9D%98%EC%95%94%ED%98%B8.jpg/1280px-%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4%EC%97%90%EC%84%9C_%EB%82%A8%EC%AA%BD%EC%9C%BC%EB%A1%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%9D%98%EC%95%94%ED%98%B8.jpg"
     },
     {
       "name": "삼악산",
@@ -34,7 +46,13 @@
       "lng": 127.6603714,
       "category": "산/자연",
       "description": "해발 636m의 산으로 삼악산케이블카와 통나무정자 길이 조성된 도심 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 64.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%82%BC%EC%95%85%EC%82%B0_%EC%A0%95%EC%83%81_1.jpg/1280px-%EC%82%BC%EC%95%85%EC%82%B0_%EC%A0%95%EC%83%81_1.jpg"
     },
     {
       "name": "춘천 명동",
@@ -42,7 +60,13 @@
       "lng": 127.7245358,
       "category": "상권/먹거리",
       "description": "닭갈비 골목으로 유명한 춘천 도심 상업 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%98%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%98%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 84.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Chuncheon-01.jpg/1280px-Chuncheon-01.jpg"
     },
     {
       "name": "춘천인형극장",
@@ -50,7 +74,13 @@
       "lng": 127.7201749,
       "category": "공연장/문화",
       "description": "국내 유일 인형극 전문 극장으로 춘천인형극제의 거점이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%98%EC%B2%9C%EC%9D%B8%ED%98%95%EA%B7%B9%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%98%EC%B2%9C%EC%9D%B8%ED%98%95%EA%B7%B9%EC%9E%A5",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 137.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Chuncheon-01.jpg/1280px-Chuncheon-01.jpg"
     }
   ],
   "history_summary": "춘천시는 의암호와 삼악산, 춘천호가 어우러진 호수 도시로 국토 남이섬과 마임축제, 닭갈비 먹거리 문화로 전국에 알려진 강원 도청 소재지이다.",
