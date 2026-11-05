@@ -18,7 +18,13 @@
       "lng": 127.087934,
       "category": "산/도립공원",
       "description": "동두천의 진산으로 도립공원이 조성된 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%9A%94%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%9A%94%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 352.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Soyosan.jpg/1280px-Soyosan.jpg"
     },
     {
       "name": "동두천폭포",
@@ -26,7 +32,13 @@
       "lng": 127.066,
       "category": "폭포/자연",
       "description": "동두천의 대표 자연 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 172.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%EB%8F%99%EB%91%90%EC%B2%9C53%EB%B2%88_8038%ED%98%B8.png/1280px-%EB%8F%99%EB%91%90%EC%B2%9C53%EB%B2%88_8038%ED%98%B8.png"
     },
     {
       "name": "한탄강",
@@ -34,7 +46,13 @@
       "lng": 127.09,
       "category": "하천/자연",
       "description": "현무암 협곡이 아름다운 국가지질공원 강이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 183.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/1280px-Hantan_River_nearby_Goseokjeong.jpg"
     },
     {
       "name": "보산동 상권",
@@ -42,7 +60,13 @@
       "lng": 127.062,
       "category": "상권",
       "description": "동두천의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 135.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jihaeng_Station_-_Looking_North.JPG/1280px-Jihaeng_Station_-_Looking_North.JPG"
     },
     {
       "name": "소요산 전망대",
@@ -50,7 +74,13 @@
       "lng": 127.086,
       "category": "전망대",
       "description": "소요산 정상의 대표 전망 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 185.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jihaeng_Station_-_Looking_North.JPG/1280px-Jihaeng_Station_-_Looking_North.JPG"
     }
   ],
   "history_summary": "동두천시는 소요산과 한탄강 국가지질공원이 함께한 경기 북부의 도시이다.",
