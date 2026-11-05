@@ -18,7 +18,13 @@
       "lng": 126.9747254,
       "category": "전망대/관광",
       "description": "정남진전망대은(는) 전라남도 장흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 345.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jangheung-gun_office.JPG/1280px-Jangheung-gun_office.JPG"
     },
     {
       "name": "천관산",
@@ -26,15 +32,26 @@
       "lng": 126.91966,
       "category": "산/자연",
       "description": "천관산은(는) 전라남도 장흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EA%B4%80%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EA%B4%80%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 5.4
+      }
     },
     {
       "name": "장흥토요시장",
-      "lat": 34.647489199999995,
-      "lng": 126.93288480000001,
+      "lat": 34.6772948,
+      "lng": 126.9031482,
       "category": "시장/먹거리",
       "description": "장흥토요시장은(는) 전라남도 장흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 140.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jangheung-gun_office.JPG/1280px-Jangheung-gun_office.JPG"
     },
     {
       "name": "장흥군청",
@@ -42,15 +59,27 @@
       "lng": 126.9070982,
       "category": "행정/랜드마크",
       "description": "장흥군청은(는) 전라남도 장흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 148.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jangheung-gun_office.JPG/1280px-Jangheung-gun_office.JPG"
     },
     {
-      "name": "탐진강? 아니라 장흥댐? 아니라 장흥? 아니라 장흥호",
-      "lat": 34.647489199999995,
-      "lng": 126.93288480000001,
+      "name": "장흥댐",
+      "lat": 34.782568,
+      "lng": 126.8822319,
       "category": "호수/자연",
-      "description": "탐진강? 아니라 장흥댐? 아니라 장흥? 아니라 장흥호은(는) 전라남도 장흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0"
+      "description": "장흥댐은(는) 전라남도 장흥군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 162.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jangheung-gun_office.JPG/1280px-Jangheung-gun_office.JPG"
     }
   ],
   "history_summary": "장흥군은 정남진 전망대와 천관산, 토요시장이 자리한 전남 남해안의 군이다.",
