@@ -18,7 +18,13 @@
       "lng": 126.88141,
       "category": "산업/IT",
       "description": "서울 남부 최대 IT 산업 단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%82%B0%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%82%B0%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 137.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg/1280px-%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg"
     },
     {
       "name": "시흥동",
@@ -26,7 +32,13 @@
       "lng": 126.9085555,
       "category": "지명/문화",
       "description": "옛 시흥 지역의 중심지였던 금천구 시흥동이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 325.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Siheung_1-dong_Community_Service_Center_20140604_090427.jpg/1280px-Siheung_1-dong_Community_Service_Center_20140604_090427.jpg"
     },
     {
       "name": "독산공원",
@@ -34,7 +46,13 @@
       "lng": 126.895,
       "category": "공원",
       "description": "금천구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 55.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Geumcheon-gu_Office_20140604_072109.JPG/1280px-Geumcheon-gu_Office_20140604_072109.JPG"
     },
     {
       "name": "안양천",
@@ -42,7 +60,13 @@
       "lng": 126.8858394,
       "category": "하천/자연",
       "description": "금천구 서쪽 경계를 흐르는 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 103.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg/1280px-230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg"
     },
     {
       "name": "가산동 상권",
@@ -50,7 +74,13 @@
       "lng": 126.882,
       "category": "상권",
       "description": "가산역 중심의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 145.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gasan-dong_Community_Service_Center_20140604_082034.jpg/1280px-Gasan-dong_Community_Service_Center_20140604_082034.jpg"
     }
   ],
   "history_summary": "금천구는 가산동 디지털 산업단지가 자리한 서울 남서부 자치구로 과천과 안산의 관문이다.",
