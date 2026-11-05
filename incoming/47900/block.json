@@ -117,6 +117,29 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "예천 골목식당",
+      "lat": 36.654264,
+      "lng": 128.449832,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "예천 큰마당식당",
+      "lat": 36.653704,
+      "lng": 128.450252,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "예천 솥뚜껑가게",
+      "lat": 36.654614,
+      "lng": 128.449832,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "예천군은 회룡포와 초간정, 예천천문우주센터가 자리한 경북 중서부의 군이다.",
   "data_sources": [
     {
