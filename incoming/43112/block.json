@@ -18,7 +18,13 @@
       "lng": 127.4822105,
       "category": "하천/자연",
       "description": "무심천은(는) 충청북도 청주시 서원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%8B%AC%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%8B%AC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 201.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Musim_River.jpg/1280px-Musim_River.jpg"
     },
     {
       "name": "서원대학교",
@@ -26,7 +32,13 @@
       "lng": 127.481457,
       "category": "교육/캠퍼스",
       "description": "서원대학교은(는) 충청북도 청주시 서원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 205.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Seowon_Univ_HQ_Building.jpg/1280px-Seowon_Univ_HQ_Building.jpg"
     },
     {
       "name": "청주고인쇄박물관",
@@ -34,7 +46,13 @@
       "lng": 127.43564505,
       "category": "박물관/문화",
       "description": "청주고인쇄박물관은(는) 충청북도 청주시 서원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B3%A0%EC%9D%B8%EC%87%84%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B3%A0%EC%9D%B8%EC%87%84%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 186.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cheongju_City_Printing_Museum_2.JPG/1280px-Cheongju_City_Printing_Museum_2.JPG"
     },
     {
       "name": "서원구청",
@@ -42,7 +60,13 @@
       "lng": 127.4698969,
       "category": "행정/랜드마크",
       "description": "서원구청은(는) 충청북도 청주시 서원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 197.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Seowon-gu_office.JPG/1280px-Seowon-gu_office.JPG"
     },
     {
       "name": "청주시립미술관",
@@ -50,7 +74,13 @@
       "lng": 127.4783356,
       "category": "미술관/문화",
       "description": "청주시립미술관은(는) 충청북도 청주시 서원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 201.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cheongju_City_Hall.JPG/1280px-Cheongju_City_Hall.JPG"
     }
   ],
   "history_summary": "청주 서원구는 청주 동남부의 구로 청주대교와 무심천, 서원대학교가 자리한 주거 교육 지역이다.",
