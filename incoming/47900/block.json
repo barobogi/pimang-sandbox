@@ -1,0 +1,73 @@
+{
+  "block_code": "47900",
+  "block_name": "경상북도 예천군",
+  "bbox": [
+    128.260789,
+    36.457326,
+    128.6116,
+    36.850152
+  ],
+  "center": [
+    36.653739,
+    128.436195
+  ],
+  "landmarks": [
+    {
+      "name": "회룡포",
+      "lat": 36.6537394,
+      "lng": 128.4361946,
+      "category": "경승지/자연",
+      "description": "회룡포은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%8C%EB%A3%A1%ED%8F%AC"
+    },
+    {
+      "name": "초간정",
+      "lat": 36.7013824,
+      "lng": 128.3817699,
+      "category": "누정/문화유산",
+      "description": "초간정은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B0%84%EC%A0%95"
+    },
+    {
+      "name": "예천천문우주센터",
+      "lat": 36.6537394,
+      "lng": 128.4361946,
+      "category": "과학/천문",
+      "description": "예천천문우주센터은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "name": "예천군청",
+      "lat": 36.6469504,
+      "lng": 128.4373911,
+      "category": "행정/랜드마크",
+      "description": "예천군청은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "예천시장",
+      "lat": 36.6537394,
+      "lng": 128.4361946,
+      "category": "시장/먹거리",
+      "description": "예천시장은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0"
+    }
+  ],
+  "history_summary": "예천군은 회룡포와 초간정, 예천천문우주센터가 자리한 경북 중서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
