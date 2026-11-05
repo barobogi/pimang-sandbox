@@ -18,7 +18,13 @@
       "lng": 127.3845703,
       "category": "공연장/문화",
       "description": "대전 대표 공연·전시 종합 문화 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 201.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/59254-Daejon.jpg/1280px-59254-Daejon.jpg"
     },
     {
       "name": "한밭수목원",
@@ -26,7 +32,13 @@
       "lng": 127.3884273,
       "category": "수목원/공원",
       "description": "전국 최대의 도심 인공 수목원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 202.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/b/ba/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg"
     },
     {
       "name": "둔산동 상권",
@@ -34,7 +46,13 @@
       "lng": 127.379,
       "category": "상권",
       "description": "대전 서부 최대 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 202.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/20250816_%EB%91%94%EC%82%B0%EB%8F%99_%EC%9C%A0%EC%A0%81_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC.jpg/1280px-20250816_%EB%91%94%EC%82%B0%EB%8F%99_%EC%9C%A0%EC%A0%81_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC.jpg"
     },
     {
       "name": "장태산",
@@ -42,7 +60,13 @@
       "lng": 127.3402937,
       "category": "산/자연",
       "description": "서구 남쪽의 산으로 장태산 자연휴양림이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 1.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png/1280px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png"
     },
     {
       "name": "갑천",
@@ -50,7 +74,13 @@
       "lng": 127.3545556,
       "category": "하천/자연",
       "description": "대전을 관통하는 대표 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%91%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 187.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%84%9C%EA%B5%AC_%EA%B0%91%EC%B2%9C_2025%EB%85%84_%EA%B2%A8%EC%9A%B8_%ED%92%8D%EA%B2%BD_02.jpg/1280px-%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%84%9C%EA%B5%AC_%EA%B0%91%EC%B2%9C_2025%EB%85%84_%EA%B2%A8%EC%9A%B8_%ED%92%8D%EA%B2%BD_02.jpg"
     }
   ],
   "history_summary": "대전 서구는 둔산신도시와 대전예술의전당, 한밭수목원이 자리한 대전 서부의 대표 주거 문화 구이다.",
