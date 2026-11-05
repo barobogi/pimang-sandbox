@@ -1,0 +1,73 @@
+{
+  "block_code": "45790",
+  "block_name": "전북특별자치도 고창군",
+  "bbox": [
+    126.273901,
+    35.300787,
+    126.774175,
+    35.583589
+  ],
+  "center": [
+    35.442188,
+    126.524038
+  ],
+  "landmarks": [
+    {
+      "name": "고창읍성",
+      "lat": 35.4295641,
+      "lng": 126.7048009,
+      "category": "읍성/문화유산",
+      "description": "고창읍성은(는) 전북특별자치도 고창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1"
+    },
+    {
+      "name": "고창고인돌유적",
+      "lat": 35.448299,
+      "lng": 126.6497648,
+      "category": "유네스코/유적",
+      "description": "고창고인돌유적은(는) 전북특별자치도 고창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0"
+    },
+    {
+      "name": "선운사",
+      "lat": 35.4969069,
+      "lng": 126.5784721,
+      "category": "사찰/문화유산",
+      "description": "선운사은(는) 전북특별자치도 고창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%9A%B4%EC%82%AC"
+    },
+    {
+      "name": "고창군청",
+      "lat": 35.4358084,
+      "lng": 126.7020971,
+      "category": "행정/랜드마크",
+      "description": "고창군청은(는) 전북특별자치도 고창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "고창시장",
+      "lat": 35.442188200000004,
+      "lng": 126.52403815,
+      "category": "시장/먹거리",
+      "description": "고창시장은(는) 전북특별자치도 고창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0"
+    }
+  ],
+  "history_summary": "고창군은 고창읍성과 고인돌 유적, 선운사가 자리한 유네스코 세계유산의 고장이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
