@@ -18,7 +18,13 @@
       "lng": 126.8243096,
       "category": "산성/문화유산",
       "description": "한강변의 대표 산성으로 행주대첩의 역사가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%96%89%EC%A3%BC%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%96%89%EC%A3%BC%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 35.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Haengjusanseong-Toseong.jpg/1280px-Haengjusanseong-Toseong.jpg"
     },
     {
       "name": "화정동 상권",
@@ -26,7 +32,13 @@
       "lng": 126.834,
       "category": "상권",
       "description": "화정동에 형성된 덕양구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 50.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%ED%99%94%EC%A0%95%EB%8F%99_A_%28242010717%29.jpeg"
     },
     {
       "name": "고양시청",
@@ -34,7 +46,13 @@
       "lng": 126.8318519,
       "category": "행정/랜드마크",
       "description": "고양시의 행정 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 83.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ILSAN%2CGOYANGCITY.jpg"
     },
     {
       "name": "창릉천",
@@ -42,7 +60,12 @@
       "lng": 126.9094234,
       "category": "하천/자연",
       "description": "덕양구를 지나는 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%A6%89%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%A6%89%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 294.8
+      }
     },
     {
       "name": "덕은공원",
@@ -50,7 +73,13 @@
       "lng": 126.84,
       "category": "공원",
       "description": "덕양구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 44.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Deogyang-gu_Office.JPG/1280px-Deogyang-gu_Office.JPG"
     }
   ],
   "history_summary": "고양 덕양구는 행주산성과 화정동 상권이 함께한 고양 중부의 구이다.",
