@@ -18,7 +18,13 @@
       "lng": 127.6531534,
       "category": "천문/자연",
       "description": "좌구산천문대은(는) 충청북도 증평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 331.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Jeungpyeong-gun_office.JPG/1280px-Jeungpyeong-gun_office.JPG"
     },
     {
       "name": "좌구산",
@@ -26,7 +32,13 @@
       "lng": 127.6630747,
       "category": "산/자연",
       "description": "좌구산은(는) 충청북도 증평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 322.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Jeungpyeong-gun_office.JPG/1280px-Jeungpyeong-gun_office.JPG"
     },
     {
       "name": "증평군청",
@@ -34,7 +46,13 @@
       "lng": 127.5815144,
       "category": "행정/랜드마크",
       "description": "증평군청은(는) 충청북도 증평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 106.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Jeungpyeong-gun_office.JPG/1280px-Jeungpyeong-gun_office.JPG"
     },
     {
       "name": "증평시장",
@@ -42,7 +60,13 @@
       "lng": 127.60105525,
       "category": "시장/먹거리",
       "description": "증평시장은(는) 충청북도 증평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 213.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Jeungpyeong-eup_office.JPG/1280px-Jeungpyeong-eup_office.JPG"
     },
     {
       "name": "삼기저수지",
@@ -50,7 +74,13 @@
       "lng": 127.6238573,
       "category": "저수지/자연",
       "description": "삼기저수지은(는) 충청북도 증평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%EC%82%B0%EC%9C%84%EC%97%90_%EC%95%84%ED%8C%8C%ED%8A%B8%EB%93%A4%28AMJ%29.jpg/1280px-%EC%82%B0%EC%9C%84%EC%97%90_%EC%95%84%ED%8C%8C%ED%8A%B8%EB%93%A4%28AMJ%29.jpg"
     }
   ],
   "history_summary": "증평군은 좌구산 천문대와 삼기저수지가 자리한 충북 중부의 군이다.",
