@@ -18,15 +18,26 @@
       "lng": 127.04838,
       "category": "산/자연",
       "description": "강천산은(는) 전북특별자치도 순창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%9C%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%9C%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 50.7
+      }
     },
     {
       "name": "순창고추장민속마을",
-      "lat": 35.42767975,
-      "lng": 127.08700425,
+      "lat": 35.3675082,
+      "lng": 127.1095357,
       "category": "마을/전통",
       "description": "순창고추장민속마을은(는) 전북특별자치도 순창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/2023_SunchangGochuJang_Festival%2C_in_North_Jeolla%2C_South_Korea.jpg"
     },
     {
       "name": "순창군청",
@@ -34,23 +45,41 @@
       "lng": 127.1373526,
       "category": "행정/랜드마크",
       "description": "순창군청은(는) 전북특별자치도 순창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 322.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/%EC%88%9C%EC%B0%BD%EA%B5%B0%EC%B2%AD_%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "순창시장",
-      "lat": 35.42767975,
-      "lng": 127.08700425,
+      "lat": 35.3712722,
+      "lng": 127.1453882,
       "category": "시장/먹거리",
       "description": "순창시장은(는) 전북특별자치도 순창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 319.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sunchang_Bus_Terminal.JPG/1280px-Sunchang_Bus_Terminal.JPG"
     },
     {
-      "name": "채계산? 아니라 회문산",
-      "lat": 35.42767975,
-      "lng": 127.08700425,
+      "name": "회문산",
+      "lat": 35.5047092,
+      "lng": 127.1048233,
       "category": "산/자연",
-      "description": "채계산? 아니라 회문산은(는) 전북특별자치도 순창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0"
+      "description": "회문산은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 190.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hoemunsan_Korea_2005.jpg"
     }
   ],
   "history_summary": "순창군은 고추장의 고장으로 유명하며 강천산과 순창고추장민속마을이 자리한 전북 남부의 군이다.",
