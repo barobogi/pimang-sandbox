@@ -1,0 +1,73 @@
+{
+  "block_code": "41150",
+  "block_name": "경기도 의정부시",
+  "bbox": [
+    127.00161,
+    37.685936,
+    127.147393,
+    37.780365
+  ],
+  "center": [
+    37.733151,
+    127.074502
+  ],
+  "landmarks": [
+    {
+      "name": "의정부역 상권",
+      "lat": 37.738,
+      "lng": 127.05,
+      "category": "상권",
+      "description": "의정부역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+    },
+    {
+      "name": "자작공원",
+      "lat": 37.742,
+      "lng": 127.045,
+      "category": "도시공원",
+      "description": "의정부 도심의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+    },
+    {
+      "name": "의정부 경전철",
+      "lat": 37.74,
+      "lng": 127.048,
+      "category": "교통",
+      "description": "의정부 도심을 잇는 대표 대중교통이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80_%EA%B2%BD%EC%A0%84%EC%B2%A0"
+    },
+    {
+      "name": "호수공원",
+      "lat": 37.737,
+      "lng": 127.055,
+      "category": "공원",
+      "description": "의정부의 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+    },
+    {
+      "name": "회룡역 상권",
+      "lat": 37.73,
+      "lng": 127.044,
+      "category": "상권",
+      "description": "회룡역 중심의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+    }
+  ],
+  "history_summary": "의정부시는 서울 북쪽 관문의 대표 위성 도시로 의정부역 상권과 경전철, 자작공원이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
