@@ -1,0 +1,73 @@
+{
+  "block_code": "50130",
+  "block_name": "제주특별자치도 서귀포시",
+  "bbox": [
+    125.925417,
+    33.0,
+    127.210629,
+    33.484122
+  ],
+  "center": [
+    33.242061,
+    126.568023
+  ],
+  "landmarks": [
+    {
+      "name": "성산일출봉",
+      "lat": 33.4588891,
+      "lng": 126.9408178,
+      "category": "유네스코/자연",
+      "description": "바다 속에 솟아오른 분화구 언덕으로 유네스코 세계자연유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89"
+    },
+    {
+      "name": "천지연폭포",
+      "lat": 33.2469271,
+      "lng": 126.5545282,
+      "category": "폭포/자연",
+      "description": "국내 최고의 폭포로 꼽히는 서귀포 대표 자연 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%A7%80%EC%97%B0%ED%8F%AD%ED%8F%AC"
+    },
+    {
+      "name": "정방폭포",
+      "lat": 33.2448578,
+      "lng": 126.5715451,
+      "category": "폭포/자연",
+      "description": "바다로 직접 떨어지는 국내 유일의 해안 폭포다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC"
+    },
+    {
+      "name": "주상절리 대포지짐지형",
+      "lat": 33.243,
+      "lng": 126.56,
+      "category": "지질/자연",
+      "description": "용암이 식으며 만들어진 대형 주상절리로 대표 지질 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C"
+    },
+    {
+      "name": "외돌개",
+      "lat": 33.241514,
+      "lng": 126.5482027,
+      "category": "해안/자연",
+      "description": "해안 절벽에 서 있는 바위 명소로 서귀포 대표 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C"
+    }
+  ],
+  "history_summary": "서귀포시는 제주도 남부의 관광 도시로 성산일출봉, 천지연폭포, 주상절리 등의 해양·화산 자연 명소가 밀집한 유네스코 생물권보전지역 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
