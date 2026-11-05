@@ -18,7 +18,13 @@
       "lng": 128.5441926,
       "category": "도시공원",
       "description": "서구를 대표하는 도심 속 녹색 휴식 공간으로 전망데크와 물놀이장이 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 65.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/%EC%9D%B4%ED%98%84%ED%99%A9%EC%86%90.jpg"
     },
     {
       "name": "서대구역",
@@ -26,7 +32,13 @@
       "lng": 128.5417368,
       "category": "교통/허브",
       "description": "대경선 광역철도와 KTX가 정차하는 서부 대구의 관문 역이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8C%80%EA%B5%AC%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8C%80%EA%B5%AC%EC%97%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 135.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%EC%84%9C%EB%8C%80%EA%B5%AC_%EA%B3%A0%EC%86%8D%EC%B2%A0%EB%8F%84%EC%97%AD_%EA%B1%B4%EC%84%A4_%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C_2.jpg"
     },
     {
       "name": "와룡산",
@@ -34,7 +46,13 @@
       "lng": 128.5219222,
       "category": "산/자연",
       "description": "서구 북쪽에 자리한 낮은 산으로 와룡산 둘레길로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 116.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%EC%99%80%EB%A3%A1%EC%82%B0_%EC%A0%95%EC%83%81.JPG/1280px-%EC%99%80%EB%A3%A1%EC%82%B0_%EC%A0%95%EC%83%81.JPG"
     },
     {
       "name": "만물백화점",
@@ -42,7 +60,13 @@
       "lng": 128.5715,
       "category": "재래시장",
       "description": "원대동에 자리한 대구 대표 재래시장으로 잡화와 먹거리로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 236.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Smiths_Gully_General_Store.jpg/1280px-Smiths_Gully_General_Store.jpg"
     },
     {
       "name": "초록꽃마당",
@@ -50,7 +74,13 @@
       "lng": 128.5604,
       "category": "근린공원",
       "description": "내당동에 조성된 도심 작은 공원으로 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 319.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Seo-gu_office_Daegu.JPG/1280px-Seo-gu_office_Daegu.JPG"
     }
   ],
   "history_summary": "대구 서구는 이현공원과 서대구역, 와룡산 둘레길이 자리한 대구 서부의 주거 상업 구이다.",
