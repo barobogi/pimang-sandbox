@@ -1,0 +1,73 @@
+{
+  "block_code": "28710",
+  "block_name": "인천광역시 강화군",
+  "bbox": [
+    125.748056,
+    37.561878,
+    126.549084,
+    37.844704
+  ],
+  "center": [
+    37.703291,
+    126.14857
+  ],
+  "landmarks": [
+    {
+      "name": "전등사",
+      "lat": 37.6319717,
+      "lng": 126.4846473,
+      "category": "사찰/문화유산",
+      "description": "마니산 자락에 자리한 고려 시대 사찰로 고려수궁 터에 건립된 강화 대표 절이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%93%B1%EC%82%AC"
+    },
+    {
+      "name": "마니산",
+      "lat": 37.6360116,
+      "lng": 126.4753484,
+      "category": "산/자연",
+      "description": "강화도의 진산으로 등대지기 전설과 마니산국민관광지가 있는 해발 468m의 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%8B%88%EC%82%B0"
+    },
+    {
+      "name": "강화부두리고인돌",
+      "lat": 37.669,
+      "lng": 126.51,
+      "category": "선사/문화유산",
+      "description": "부네 고인돌 유적으로 유네스코 세계문화유산에 등재된 대표적 고인돌 군이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94%EA%B5%B0"
+    },
+    {
+      "name": "강화평화전망대",
+      "lat": 37.82637,
+      "lng": 126.432923,
+      "category": "DMZ/전망대",
+      "description": "북한 강화군과 금강 하구를 바라보는 전망시설로 평화 관광의 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94%EA%B5%B0"
+    },
+    {
+      "name": "강화산성",
+      "lat": 37.7487697,
+      "lng": 126.4900627,
+      "category": "성곽/문화유산",
+      "description": "고려 강도 시기 조성된 도성 테두리 성곽으로 강화읍을 둘러싸고 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94%EA%B5%B0"
+    }
+  ],
+  "history_summary": "강화군은 고려 시대 몽골 침입 때 천도된 강도였던 유서 깊은 섬 군으로 강화산성과 전등사, 부두리고인돌, 마니산 등 풍부한 문화유산과 DMZ 관광 자원이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
