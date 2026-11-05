@@ -18,7 +18,13 @@
       "lng": 129.0591028,
       "category": "상권/번화가",
       "description": "부산 최대 상업 번화가로 서면 지하상가가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%A9%B4_%28%EB%B6%80%EC%82%B0%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%A9%B4_%28%EB%B6%80%EC%82%B0%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 312.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Seomyeon%2C_Busan.jpg"
     },
     {
       "name": "개금벚꽃길",
@@ -26,7 +32,13 @@
       "lng": 129.036,
       "category": "꽃길/계절",
       "description": "엄광산 자락 개금동 마을 언덕의 데크길 벚꽃 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 24.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Seomyeon2.png/1280px-Seomyeon2.png"
     },
     {
       "name": "초읍어린이대공원",
@@ -34,7 +46,13 @@
       "lng": 129.052,
       "category": "공원/가족",
       "description": "성지곡수원지를 품은 벚나무와 숲이 어우러진 대형 어린이 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 330.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Seomyeon2.png/1280px-Seomyeon2.png"
     },
     {
       "name": "부전도서관",
@@ -42,7 +60,13 @@
       "lng": 129.0622723,
       "category": "도서관/문화",
       "description": "부전동에 자리한 부산의 대표 도서관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 311.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Seomyeon2.png/1280px-Seomyeon2.png"
     },
     {
       "name": "엄광산",
@@ -50,7 +74,13 @@
       "lng": 129.0167031,
       "category": "산/자연",
       "description": "개금동과 사하구 경계의 낮은 산으로 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 37.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Seomyeon2.png/1280px-Seomyeon2.png"
     }
   ],
   "history_summary": "부산 부산진구는 서면 상권과 개금벚꽃길이 자리한 부산 도심의 중심 구이다.",
