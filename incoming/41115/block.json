@@ -107,6 +107,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "영동 골목식당",
+      "lat": 37.277591,
+      "lng": 127.019154,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "영동 할매집",
+      "lat": 37.276261,
+      "lng": 127.018104,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "영동 솥뚜껑가게",
+      "lat": 37.276821,
+      "lng": 127.018524,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "영동 동네밥집",
+      "lat": 37.276891,
+      "lng": 127.018874,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "수원 팔달구는 수원 화성과 행궁이 자리한 수원 원도심 구이다.",
   "data_sources": [
     {
