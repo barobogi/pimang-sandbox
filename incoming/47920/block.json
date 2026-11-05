@@ -1,0 +1,73 @@
+{
+  "block_code": "47920",
+  "block_name": "경상북도 봉화군",
+  "bbox": [
+    128.638551,
+    36.747103,
+    129.185409,
+    37.100415
+  ],
+  "center": [
+    36.923759,
+    128.91198
+  ],
+  "landmarks": [
+    {
+      "name": "청량산",
+      "lat": 36.8088641,
+      "lng": 128.9308978,
+      "category": "산/자연",
+      "description": "청량산은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%9F%89%EC%82%B0"
+    },
+    {
+      "name": "닭실마을",
+      "lat": 36.9037515,
+      "lng": 128.7440523,
+      "category": "마을/전통",
+      "description": "닭실마을은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0"
+    },
+    {
+      "name": "봉화군청",
+      "lat": 36.8931284,
+      "lng": 128.732492,
+      "category": "행정/랜드마크",
+      "description": "봉화군청은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "봉화시장",
+      "lat": 36.92375895,
+      "lng": 128.91198020000002,
+      "category": "시장/먹거리",
+      "description": "봉화시장은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0"
+    },
+    {
+      "name": "봉화은어축제장",
+      "lat": 36.92375895,
+      "lng": 128.91198020000002,
+      "category": "축제/관광",
+      "description": "봉화은어축제장은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0"
+    }
+  ],
+  "history_summary": "봉화군은 청량산과 봉화은어축제, 닭실마을이 자리한 경북 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
