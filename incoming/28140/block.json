@@ -1,0 +1,73 @@
+{
+  "block_code": "28140",
+  "block_name": "인천광역시 동구",
+  "bbox": [
+    126.583,
+    37.468414,
+    126.674421,
+    37.502223
+  ],
+  "center": [
+    37.485318,
+    126.62871
+  ],
+  "landmarks": [
+    {
+      "name": "만석공원",
+      "lat": 37.478,
+      "lng": 126.614,
+      "category": "공원/역사",
+      "description": "인천항 옛 항구 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "송월동 골목",
+      "lat": 37.474,
+      "lng": 126.616,
+      "category": "문화/거리",
+      "description": "송월동 일대의 전통 문화 골목이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "동인천역 상권",
+      "lat": 37.475,
+      "lng": 126.64,
+      "category": "상권",
+      "description": "동인천역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "화수진공원",
+      "lat": 37.479,
+      "lng": 126.628,
+      "category": "공원",
+      "description": "동구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "영종대교",
+      "lat": 37.494,
+      "lng": 126.583,
+      "category": "교량",
+      "description": "영종도와 동구를 잇는 대교다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A2%85%EB%8C%80%EA%B5%90"
+    }
+  ],
+  "history_summary": "인천 동구는 만석공원과 동인천역 상권, 영종대교가 자리한 인천 항만 중심의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
