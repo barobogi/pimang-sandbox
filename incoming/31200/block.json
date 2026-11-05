@@ -1,0 +1,73 @@
+{
+  "block_code": "31200",
+  "block_name": "울산광역시 북구",
+  "bbox": [
+    129.289792,
+    35.503,
+    129.720619,
+    35.679399
+  ],
+  "center": [
+    35.591199,
+    129.505205
+  ],
+  "landmarks": [
+    {
+      "name": "대왕암공원",
+      "lat": 35.506,
+      "lng": 129.428,
+      "category": "해안/공원",
+      "description": "동해 해안 절벽의 대왕암이 유명한 대표 해안 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "일산해수욕장",
+      "lat": 35.503,
+      "lng": 129.42,
+      "category": "해수욕장",
+      "description": "대왕암공원과 함께한 울산의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "강동 풍력발전단지",
+      "lat": 35.52,
+      "lng": 129.44,
+      "category": "해상풍력/관광",
+      "description": "강동해안의 해상 풍력발전기 군집이 관광 명소로 꼽힌다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "달천천 수변공원",
+      "lat": 35.566,
+      "lng": 129.376,
+      "category": "수변공원",
+      "description": "달천천을 따라 조성된 수변 공원으로 주민 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "연암공원",
+      "lat": 35.572,
+      "lng": 129.362,
+      "category": "근린공원",
+      "description": "연암동 일대에 조성된 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "울산 북구는 울산의 북부 구로 대왕암공원과 일산해수욕장 등 동해 해안 명소가 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
