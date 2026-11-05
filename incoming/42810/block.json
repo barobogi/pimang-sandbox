@@ -116,6 +116,29 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "인제 동네밥집",
+      "lat": 38.103928,
+      "lng": 128.245193,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "인제 큰마당식당",
+      "lat": 38.104348,
+      "lng": 128.245753,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "인제 골목식당",
+      "lat": 38.104138,
+      "lng": 128.245893,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "인제군은 설악산과 내린천, 방동약수, 빙어호가 자리한 강원 영동 북부의 군이다.",
   "data_sources": [
     {
