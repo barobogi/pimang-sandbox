@@ -18,7 +18,13 @@
       "lng": 127.4940235,
       "category": "산/국립공원",
       "description": "지리산은(는) 전라남도 구례군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 175.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/1280px-Korea-Mountain-Jirisan-15.jpg"
     },
     {
       "name": "화엄사",
@@ -26,7 +32,13 @@
       "lng": 127.4980745,
       "category": "사찰/문화유산",
       "description": "화엄사은(는) 전라남도 구례군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%97%84%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%97%84%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 184.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/%ED%99%94%EC%97%84%EC%82%AC3.jpg"
     },
     {
       "name": "사성암",
@@ -34,7 +46,13 @@
       "lng": 127.4806407,
       "category": "사찰/경승지",
       "description": "사성암은(는) 전라남도 구례군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%84%B1%EC%95%94"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%84%B1%EC%95%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 13.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Korea-Saseongam_11-08000_Main_Hall.JPG"
     },
     {
       "name": "구례군청",
@@ -42,7 +60,13 @@
       "lng": 127.4632268,
       "category": "행정/랜드마크",
       "description": "구례군청은(는) 전라남도 구례군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%80%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%80%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 43.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gurye-gun_office.JPG/1280px-Gurye-gun_office.JPG"
     },
     {
       "name": "구례시장",
@@ -50,7 +74,13 @@
       "lng": 127.4955943,
       "category": "시장/먹거리",
       "description": "구례시장은(는) 전라남도 구례군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%80%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%80%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 292.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gurye-gun_office.JPG/1280px-Gurye-gun_office.JPG"
     }
   ],
   "history_summary": "구례군은 지리산과 화엄사, 사성암이 자리한 전남 동부 산악 관광의 중심 군이다.",
