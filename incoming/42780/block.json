@@ -18,7 +18,13 @@
       "lng": 127.2060309,
       "category": "역사/유적",
       "description": "노동당사은(는) 강원특별자치도 철원군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 94.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg/1280px-%EC%B2%A0%EC%9B%90_%EB%85%B8%EB%8F%99%EB%8B%B9%EC%82%AC_%E9%90%B5%E5%8E%9F_%E5%8B%9E%E5%8B%95%E9%BB%A8%E8%88%8D_front_beeniru.jpg"
     },
     {
       "name": "한탄강",
@@ -26,7 +32,13 @@
       "lng": 127.2857743,
       "category": "하천/자연",
       "description": "한탄강은(는) 강원특별자치도 철원군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 80.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/1280px-Hantan_River_nearby_Goseokjeong.jpg"
     },
     {
       "name": "철원평야",
@@ -34,7 +46,13 @@
       "lng": 127.49220224999999,
       "category": "평야/자연",
       "description": "철원평야은(는) 강원특별자치도 철원군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 203.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Cheorwon-gun_office.JPG/1280px-Cheorwon-gun_office.JPG"
     },
     {
       "name": "철원군청",
@@ -42,7 +60,13 @@
       "lng": 127.3133902,
       "category": "행정/랜드마크",
       "description": "철원군청은(는) 강원특별자치도 철원군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 62.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Cheorwon-gun_office.JPG/1280px-Cheorwon-gun_office.JPG"
     },
     {
       "name": "고석정",
@@ -50,7 +74,13 @@
       "lng": 127.2878604,
       "category": "경승지/자연",
       "description": "고석정은(는) 강원특별자치도 철원군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%9D%EC%A0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%9D%EC%A0%95",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 77.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/1280px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg"
     }
   ],
   "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
