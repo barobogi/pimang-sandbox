@@ -116,6 +116,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "창릉천 솥뚜껑가게",
+      "lat": 37.648797,
+      "lng": 126.909143,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "고양시청 골목식당",
+      "lat": 37.656222,
+      "lng": 126.831992,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "덕은공원 솥뚜껑가게",
+      "lat": 37.62944,
+      "lng": 126.84063,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "화정동 상권 할매집",
+      "lat": 37.63221,
+      "lng": 126.834,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "고양 덕양구는 행주산성과 화정동 상권이 함께한 고양 중부의 구이다.",
   "data_sources": [
     {
