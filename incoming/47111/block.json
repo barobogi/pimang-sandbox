@@ -1,0 +1,73 @@
+{
+  "block_code": "47111",
+  "block_name": "경상북도 포항시 남구",
+  "bbox": [
+    129.277625,
+    35.838371,
+    129.601078,
+    36.123135
+  ],
+  "center": [
+    35.980753,
+    129.439351
+  ],
+  "landmarks": [
+    {
+      "name": "죽도시장",
+      "lat": 36.0350097,
+      "lng": 129.3677506,
+      "category": "전통시장/먹거리",
+      "description": "포항 대표 재래시장으로 과일과 먹거리 골목으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BD%EB%8F%84%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "포스코 포항제철소",
+      "lat": 36.03,
+      "lng": 129.335,
+      "category": "산업/철강",
+      "description": "국내 철강 산업의 요람으로 포항 남구에 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94"
+    },
+    {
+      "name": "오천항",
+      "lat": 35.966,
+      "lng": 129.365,
+      "category": "항구/어촌",
+      "description": "송도해수욕장과 함께한 대표 어항으로 어시장이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%82%A8%EA%B5%AC"
+    },
+    {
+      "name": "형산강",
+      "lat": 36.0051318,
+      "lng": 129.3599759,
+      "category": "하천/자연",
+      "description": "포항 시내를 관통해 영일만으로 흘러드는 강으로 수변 산책로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%95%EC%82%B0%EA%B0%95"
+    },
+    {
+      "name": "상원대공원",
+      "lat": 36.005,
+      "lng": 129.395,
+      "category": "공원/테마",
+      "description": "포항 남구에 조성된 대형 테마 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%82%A8%EA%B5%AC"
+    }
+  ],
+  "history_summary": "포항시 남구는 포항의 산업 심장부로 포스코와 죽도시장, 오천항, 형산강이 자리한 포항 남부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
