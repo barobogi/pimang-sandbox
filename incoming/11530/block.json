@@ -1,0 +1,73 @@
+{
+  "block_code": "11530",
+  "block_name": "서울특별시 구로구",
+  "bbox": [
+    126.813027,
+    37.473113,
+    126.903148,
+    37.517775
+  ],
+  "center": [
+    37.495444,
+    126.858087
+  ],
+  "landmarks": [
+    {
+      "name": "구로디지털단지",
+      "lat": 37.4852761,
+      "lng": 126.9015916,
+      "category": "산업/IT",
+      "description": "옛 공업지대가 IT 산업 중심으로 재탄생한 대표 단지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD"
+    },
+    {
+      "name": "구로공단",
+      "lat": 37.4852761,
+      "lng": 126.9015916,
+      "category": "산업/단지",
+      "description": "1970년대 수출 산업의 진용이었던 국가산업단지이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EA%B5%AC"
+    },
+    {
+      "name": "고척스카이돔",
+      "lat": 37.4981936,
+      "lng": 126.8670731,
+      "category": "체육/야구",
+      "description": "국내 최초의 프로야구 돔 구장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B2%99%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%8F%94"
+    },
+    {
+      "name": "도림천",
+      "lat": 37.4977079,
+      "lng": 126.8935738,
+      "category": "하천/자연",
+      "description": "구로구를 지나는 지천으로 산책로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A6%BC%EC%B2%9C"
+    },
+    {
+      "name": "가산동 상권",
+      "lat": 37.481,
+      "lng": 126.882,
+      "category": "상권",
+      "description": "가산역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EA%B5%AC"
+    }
+  ],
+  "history_summary": "구로구는 대한민국 최초의 국가산업단지가 조성된 대표 공업 도시 구이며 구로디지털단지로 재탄생한 서울 남서부의 산업 중심지다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
