@@ -1,0 +1,73 @@
+{
+  "block_code": "42210",
+  "block_name": "강원특별자치도 속초시",
+  "bbox": [
+    128.42114,
+    38.11896,
+    128.859572,
+    38.323762
+  ],
+  "center": [
+    38.221361,
+    128.640356
+  ],
+  "landmarks": [
+    {
+      "name": "설악산",
+      "lat": 38.1669103,
+      "lng": 128.5172053,
+      "category": "산/국립공원",
+      "description": "설악산은(는) 강원특별자치도 속초시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EC%95%85%EC%82%B0"
+    },
+    {
+      "name": "영랑호",
+      "lat": 38.2174045,
+      "lng": 128.5805088,
+      "category": "호수/자연",
+      "description": "영랑호은(는) 강원특별자치도 속초시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%9E%91%ED%98%B8"
+    },
+    {
+      "name": "속초해수욕장",
+      "lat": 38.1881315,
+      "lng": 128.6056644,
+      "category": "해수욕장",
+      "description": "속초해수욕장은(는) 강원특별자치도 속초시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "청초호",
+      "lat": 38.1967493,
+      "lng": 128.5882465,
+      "category": "호수/공원",
+      "description": "청초호은(는) 강원특별자치도 속초시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%B4%88%ED%98%B8"
+    },
+    {
+      "name": "속초시청",
+      "lat": 38.2073219,
+      "lng": 128.5919679,
+      "category": "행정/랜드마크",
+      "description": "속초시청은(는) 강원특별자치도 속초시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EC%B4%88%EC%8B%9C%EC%B2%AD"
+    }
+  ],
+  "history_summary": "속초시는 설악산과 동해안이 만나는 강원 영동 북부의 관광 도시로 영랑호와 속초해수욕장, 청초호가 대표 명소이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
