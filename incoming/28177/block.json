@@ -18,7 +18,13 @@
       "lng": 126.6770862,
       "category": "산/자연",
       "description": "미추홀구 문학동에 있는 해발 295m의 산으로 등산로와 산책로가 조성된 주민 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%95%99%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%95%99%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 67.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%EC%9D%B8%EC%B2%9C%EB%AC%B8%ED%95%99%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0_2024.jpg/1280px-%EC%9D%B8%EC%B2%9C%EB%AC%B8%ED%95%99%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0_2024.jpg"
     },
     {
       "name": "인천SSG랜더스필드",
@@ -26,7 +32,13 @@
       "lng": 126.6934004,
       "category": "체육/야구",
       "description": "문학동에 위치한 프로야구 인천의 홈구장으로 대형 스포츠 랜드마크다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9CSSG%EB%9E%9C%EB%8D%94%EC%8A%A4%ED%95%84%EB%93%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9CSSG%EB%9E%9C%EB%8D%94%EC%8A%A4%ED%95%84%EB%93%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 67.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/20240504_IncheonSSGLandersField.jpg/1280px-20240504_IncheonSSGLandersField.jpg"
     },
     {
       "name": "인하대학교",
@@ -34,7 +46,13 @@
       "lng": 126.6534446,
       "category": "교육/캠퍼스",
       "description": "용현동에 위치한 사립 종합대학으로 항공·조선 분야로 유명한 인천 대표 명문대다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 84.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_University_Main_Hall.jpg/1280px-Korea_University_Main_Hall.jpg"
     },
     {
       "name": "주안역",
@@ -42,7 +60,13 @@
       "lng": 126.6804067,
       "category": "교통/허브",
       "description": "인천 지하철 1호선과 수도권 전철 1호선이 환승하는 서부 인천의 교통 요충지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%95%88%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%95%88%EC%97%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 96.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Korail_Gyeongin_Line_Juan_Station_Sign.JPG"
     },
     {
       "name": "주안 로데오거리",
@@ -50,7 +74,13 @@
       "lng": 126.883,
       "category": "상권/문화",
       "description": "주안역 남쪽에 형성된 청년 상권 거리로 음식점과 카페가 밀집한 먹거리 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 273.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%EC%B2%AD_2025%EB%85%84_12%EC%9B%94.jpg/1280px-%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%EC%B2%AD_2025%EB%85%84_12%EC%9B%94.jpg"
     }
   ],
   "history_summary": "미추홀구는 2018년 남구에서 개편된 인천의 자치구로 옛 백제 미추홀 도성 유래 이름을 쓰며 주안과 숭의·용현 상권, 문학산과 인천 문학경기장이 자리한다.",
