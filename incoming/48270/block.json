@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "밀양 가마솥밥가",
+      "lat": 35.491242,
+      "lng": 128.799528,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "밀양 본점",
+      "lat": 35.491872,
+      "lng": 128.799528,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "밀양 동네밥집",
+      "lat": 35.491942,
+      "lng": 128.798688,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "밀양시는 영남루와 표충사, 밀양아리랑으로 유명한 경남 북부의 도시이다.",
   "data_sources": [
     {
