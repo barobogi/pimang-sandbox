@@ -18,7 +18,13 @@
       "lng": 127.7175279,
       "category": "숲/공원",
       "description": "상림공원은(는) 경상남도 함양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 35.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamyang_Sangrim.JPG/1280px-Hamyang_Sangrim.JPG"
     },
     {
       "name": "용추계곡",
@@ -26,7 +32,13 @@
       "lng": 127.7875301,
       "category": "계곡/자연",
       "description": "용추계곡은(는) 경상남도 함양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%B6%94%EA%B3%84%EA%B3%A1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%B6%94%EA%B3%84%EA%B3%A1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 200.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hongcheon-gun_office.JPG/1280px-Hongcheon-gun_office.JPG"
     },
     {
       "name": "지리산",
@@ -34,7 +46,13 @@
       "lng": 127.6530198,
       "category": "산/국립공원",
       "description": "지리산은(는) 경상남도 함양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 16.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/1280px-Korea-Mountain-Jirisan-15.jpg"
     },
     {
       "name": "함양군청",
@@ -42,7 +60,13 @@
       "lng": 127.7251841,
       "category": "행정/랜드마크",
       "description": "함양군청은(는) 경상남도 함양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 12.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamyang-gun_Office.JPG/1280px-Hamyang-gun_Office.JPG"
     },
     {
       "name": "함양시장",
@@ -50,7 +74,13 @@
       "lng": 127.73155075,
       "category": "시장/먹거리",
       "description": "함양시장은(는) 경상남도 함양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 103.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hamyang_Eup_Office.JPG/1280px-Hamyang_Eup_Office.JPG"
     }
   ],
   "history_summary": "함양군은 상림공원과 용추계곡, 지리산이 자리한 경남 서부의 군이다.",
