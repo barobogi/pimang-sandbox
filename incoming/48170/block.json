@@ -18,7 +18,13 @@
       "lng": 128.0764813,
       "category": "성곽/문화유산",
       "description": "임진왜란 때 진주대첩이 일어난 역사적인 돌성으로 남강변에 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%A3%BC%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%A3%BC%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 81.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Jinju_castle-Chosuk_gate.jpg/1280px-Jinju_castle-Chosuk_gate.jpg"
     },
     {
       "name": "촉석루",
@@ -26,7 +32,13 @@
       "lng": 128.0818148,
       "category": "누각/문화유산",
       "description": "진주성 안 남강에 면한 누각으로 촉석루 야경이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%89%EC%84%9D%EB%A3%A8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%89%EC%84%9D%EB%A3%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 73.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Choksuk_pavillion_in_Jinju_Castel.JPG/1280px-Choksuk_pavillion_in_Jinju_Castel.JPG"
     },
     {
       "name": "경상국립대학교",
@@ -34,7 +46,13 @@
       "lng": 128.0940914,
       "category": "교육/캠퍼스",
       "description": "경남을 대표하는 국립 종합대학으로 진주에 본교 캠퍼스가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%83%81%EA%B5%AD%EB%A6%BD%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%83%81%EA%B5%AD%EB%A6%BD%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 54.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PKNUMain.jpg"
     },
     {
       "name": "진주혁신도시",
@@ -42,7 +60,13 @@
       "lng": 128.1411759,
       "category": "신도시",
       "description": "경남도청이 이전한 혁신도시로 진주 서부에 조성되었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 337.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Juju_Bus_Terminal_Front_shot.jpg/1280px-Juju_Bus_Terminal_Front_shot.jpg"
     },
     {
       "name": "남강",
@@ -50,7 +74,13 @@
       "lng": 128.0353458,
       "category": "하천/자연",
       "description": "진주를 관통하는 지천으로 유등축제와 남강 램사르습지로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 62.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Korea-Jinju-Festival-Nam.River-01.jpg/1280px-Korea-Jinju-Festival-Nam.River-01.jpg"
     }
   ],
   "history_summary": "진주시는 경상남도 서부의 관문 도시로 조선 시대 진주목이 있던 유서 깊은 도시이며 진주성과 촉석루, 남강 유등축제, 경상국립대학교가 상징이다.",
