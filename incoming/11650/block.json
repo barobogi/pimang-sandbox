@@ -1,0 +1,73 @@
+{
+  "block_code": "11650",
+  "block_name": "서울특별시 서초구",
+  "bbox": [
+    126.980548,
+    37.428542,
+    127.096454,
+    37.525883
+  ],
+  "center": [
+    37.477213,
+    127.038501
+  ],
+  "landmarks": [
+    {
+      "name": "반포한강공원",
+      "lat": 37.5124766,
+      "lng": 127.000102,
+      "category": "한강공원",
+      "description": "반포대교 달빛무지개분수로 유명한 대표 한강 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%8F%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "서래마을",
+      "lat": 37.5001774,
+      "lng": 127.003807,
+      "category": "마을/카페",
+      "description": "국제적 분위기의 카페 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%9E%98%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "양재동 상권",
+      "lat": 37.4845,
+      "lng": 127.0345,
+      "category": "상권",
+      "description": "양재역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC"
+    },
+    {
+      "name": "우면산",
+      "lat": 37.4670146,
+      "lng": 127.0050138,
+      "category": "산/자연",
+      "description": "서초구 남쪽의 산으로 등산로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A9%B4%EC%82%B0"
+    },
+    {
+      "name": "법조타운",
+      "lat": 37.484,
+      "lng": 127.009,
+      "category": "공공/행정",
+      "description": "대법원과 법원·검찰이 밀집한 대한민국 법조의 중심지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC"
+    }
+  ],
+  "history_summary": "서초구는 강남 남부의 대표 고급 주거·상업 구로 서초동과 반포동, 양재동 상권과 법조타운이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
