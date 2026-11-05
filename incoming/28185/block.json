@@ -1,0 +1,73 @@
+{
+  "block_code": "28185",
+  "block_name": "인천광역시 연수구",
+  "bbox": [
+    126.533354,
+    37.331535,
+    126.722371,
+    37.440179
+  ],
+  "center": [
+    37.385857,
+    126.627862
+  ],
+  "landmarks": [
+    {
+      "name": "송도센트럴파크",
+      "lat": 37.3922562,
+      "lng": 126.634755,
+      "category": "도시공원/생태",
+      "description": "송도국제도시 중앙에 조성된 해수와 담수가 어우러진 수변 공원으로 수상 택시와 자전거 체험으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EB%8F%84%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC"
+    },
+    {
+      "name": "송도컨베시아",
+      "lat": 37.3885,
+      "lng": 126.6395,
+      "category": "컨벤션/국제",
+      "description": "송도국제도시의 국제 컨벤션센터로 국제회의와 행사가 열리는 랜드마크 건축물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%88%98%EA%B5%AC"
+    },
+    {
+      "name": "선학국제빙상경기장",
+      "lat": 37.432633,
+      "lng": 126.7035396,
+      "category": "체육/빙상",
+      "description": "2014 인천 아시아경기대회 국제 빙상 경기장으로 현재 복합체육시설로 운영된다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%ED%95%99%EA%B5%AD%EC%A0%9C%EB%B9%99%EC%83%81%EA%B2%BD%EA%B8%B0%EC%9E%A5"
+    },
+    {
+      "name": "동춘근린공원",
+      "lat": 37.4089923,
+      "lng": 126.669956,
+      "category": "근린공원",
+      "description": "동춘동에 조성된 근린공원으로 연수구 주민들의 대표 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%88%98%EA%B5%AC"
+    },
+    {
+      "name": "인천대학교",
+      "lat": 37.3837681,
+      "lng": 126.6534309,
+      "category": "교육/캠퍼스",
+      "description": "연수구 송도캠퍼스에 위치한 인천 대표 국립(시립) 종합대학이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90"
+    }
+  ],
+  "history_summary": "연수구는 동춘동과 선학동의 주거지와 송도국제도시가 함께한 인천의 신도시 자치구로 세계 최고 수준의 센트럴파크와 컨벤션시티, 인천대교가 상징이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
