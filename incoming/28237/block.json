@@ -1,0 +1,73 @@
+{
+  "block_code": "28237",
+  "block_name": "인천광역시 부평구",
+  "bbox": [
+    126.683238,
+    37.464447,
+    126.91,
+    37.52412
+  ],
+  "center": [
+    37.494284,
+    126.796619
+  ],
+  "landmarks": [
+    {
+      "name": "부평공원",
+      "lat": 37.4885012,
+      "lng": 126.7136328,
+      "category": "도시공원",
+      "description": "부평동에 위치한 근린공원으로 음악분수와 산책로가 조성된 주민 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC"
+    },
+    {
+      "name": "부평풍물거리",
+      "lat": 37.487,
+      "lng": 126.895,
+      "category": "시장/먹거리",
+      "description": "부평역 일대 지하상가와 연결된 먹거리 거리로 쫄볶이와 만두가 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC"
+    },
+    {
+      "name": "삼산동 쇼핑거리",
+      "lat": 37.4754,
+      "lng": 126.8963,
+      "category": "상권/문화",
+      "description": "삼산체육관을 중심으로 형성된 청년 상권 거리로 라이브 클럽과 음식점이 밀집해 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%82%B0%EB%8F%99"
+    },
+    {
+      "name": "굴포천",
+      "lat": 37.5231292,
+      "lng": 126.7600986,
+      "category": "하천/자연",
+      "description": "인천을 관통하는 지천으로 부평구를 지나 제부천과 합류해 하천 정비가 진행된 산책로다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B4%ED%8F%AC%EC%B2%9C"
+    },
+    {
+      "name": "만년산근린공원",
+      "lat": 37.48,
+      "lng": 126.91,
+      "category": "근린공원",
+      "description": "만년동에 위치한 산악형 근린공원으로 등산로가 조성된 주민 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC"
+    }
+  ],
+  "history_summary": "부평구는 조선 시대 부평도호부였던 유서 깊은 지역으로 근현대 제조업과 주거지가 발달했고 삼산동 상권과 부평풍물거리가 인천 대표 먹거리 명소다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
