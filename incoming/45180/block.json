@@ -18,7 +18,13 @@
       "lng": 126.8816035,
       "category": "산/국민관광지",
       "description": "전북 대표 명산으로 가을 단풍으로 전국적으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%9E%A5%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%9E%A5%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 24.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg/1280px-%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg"
     },
     {
       "name": "내장사",
@@ -26,7 +32,13 @@
       "lng": 126.9019835,
       "category": "사찰/문화유산",
       "description": "내장산 자락의 유서 깊은 사찰로 극락전이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 5.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%EB%82%B4%EC%9E%A5%EC%82%AC_%EC%A1%B0%EC%84%A0%EB%8F%99%EC%A2%85.jpg"
     },
     {
       "name": "초정약수",
@@ -34,7 +46,13 @@
       "lng": 126.932,
       "category": "약수/관광",
       "description": "전국 유수의 약수터로 음용수 관광 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 338.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%EC%B4%88%EC%A0%95%ED%83%84%EC%82%B0%EC%88%98_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg/1280px-%EC%B4%88%EC%A0%95%ED%83%84%EC%82%B0%EC%88%98_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg"
     },
     {
       "name": "정읍객사",
@@ -42,7 +60,13 @@
       "lng": 126.998,
       "category": "객사/문화유산",
       "description": "조선 시대 정읍부의 객사로 옛 관아 건축이 남아 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 277.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Street_in_central_Jeongeup_-_2009-02-04.JPG/1280px-Street_in_central_Jeongeup_-_2009-02-04.JPG"
     },
     {
       "name": "고부모충사",
@@ -50,7 +74,13 @@
       "lng": 126.926,
       "category": "사당/문화유산",
       "description": "고부 지역의 유서 깊은 사당으로 전봉준과 연관된 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 351.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Street_in_central_Jeongeup_-_2009-02-04.JPG/1280px-Street_in_central_Jeongeup_-_2009-02-04.JPG"
     }
   ],
   "history_summary": "정읍시는 백제 시대 옛 고부 지역으로 내장산과 내장사, 초정약수 등의 명소가 함께한 전북 서부의 도시다.",
