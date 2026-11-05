@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "계양문화예술회관 할매집",
+      "lat": 37.56142,
+      "lng": 126.73242,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "작전동 상권 본점",
+      "lat": 37.553,
+      "lng": 126.72465,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    },
+    {
+      "name": "계양역 신도시 솥뚜껑가게",
+      "lat": 37.57221,
+      "lng": 126.73514,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "계양산 할매집",
+      "lat": 37.557547,
+      "lng": 126.711304,
+      "specialty": "꼬막무침",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "인천 계양구는 계양산과 계양역 신도시가 자리한 인천 북부의 주거 구이다.",
   "data_sources": [
     {
