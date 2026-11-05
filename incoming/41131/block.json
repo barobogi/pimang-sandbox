@@ -18,7 +18,13 @@
       "lng": 127.1432941,
       "category": "시장/먹거리",
       "description": "성남 대표 전통시장 먹거리 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 250.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Sujeong-gu_office.JPG/1280px-Sujeong-gu_office.JPG"
     },
     {
       "name": "산성역 상권",
@@ -26,7 +32,13 @@
       "lng": 127.136,
       "category": "상권",
       "description": "산성역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 238.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Sujeong-gu_office.JPG/1280px-Sujeong-gu_office.JPG"
     },
     {
       "name": "남한산성",
@@ -34,7 +46,13 @@
       "lng": 127.1669954,
       "category": "유네스코/문화유산",
       "description": "조선 시대 산성으로 유네스코 세계문화유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 233.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/1280px-Namhanssanseong.JPG"
     },
     {
       "name": "탄천",
@@ -42,7 +60,13 @@
       "lng": 127.1198272,
       "category": "하천/자연",
       "description": "성남을 지나 한강으로 흘러드는 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%84%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%84%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 232.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/0_dankook_0.jpg"
     },
     {
       "name": "모란역 상권",
@@ -50,7 +74,13 @@
       "lng": 127.129,
       "category": "상권",
       "description": "모란역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 277.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Sujeong-gu_office.JPG/1280px-Sujeong-gu_office.JPG"
     }
   ],
   "history_summary": "성남 수정구는 남한산성 북쪽 자락의 구로 신흥시장과 산성역 상권이 함께한다.",
