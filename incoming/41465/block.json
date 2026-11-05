@@ -1,0 +1,73 @@
+{
+  "block_code": "41465",
+  "block_name": "경기도 용인시 수지구",
+  "bbox": [
+    127.016201,
+    37.293038,
+    127.141975,
+    37.372286
+  ],
+  "center": [
+    37.332662,
+    127.079088
+  ],
+  "landmarks": [
+    {
+      "name": "죽전역 상권",
+      "lat": 37.322,
+      "lng": 127.127,
+      "category": "상권",
+      "description": "수지구 최대 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+    },
+    {
+      "name": "죽전동 카페거리",
+      "lat": 37.325,
+      "lng": 127.124,
+      "category": "카페/문화",
+      "description": "죽전동 일대의 대표 카페 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+    },
+    {
+      "name": "동천동 상권",
+      "lat": 37.332,
+      "lng": 127.105,
+      "category": "상권",
+      "description": "동천동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+    },
+    {
+      "name": "보정동 카페거리",
+      "lat": 37.313,
+      "lng": 127.1,
+      "category": "카페/문화",
+      "description": "수지구 인접의 대표 카페 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99"
+    },
+    {
+      "name": "수지공원",
+      "lat": 37.318,
+      "lng": 127.115,
+      "category": "공원",
+      "description": "수지구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+    }
+  ],
+  "history_summary": "용인 수지구는 죽전동 상권과 대형 주거 지역이 함께한 용인 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
