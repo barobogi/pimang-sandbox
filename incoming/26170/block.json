@@ -18,7 +18,13 @@
       "lng": 129.0398951,
       "category": "교통/허브",
       "description": "KTX가 정차하는 부산의 관문 역이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%97%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 24.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%EB%B6%80%EC%82%B0%EC%97%AD_8%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg/1280px-%EB%B6%80%EC%82%B0%EC%97%AD_8%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg"
     },
     {
       "name": "초량이바구길",
@@ -26,7 +32,13 @@
       "lng": 129.036,
       "category": "문화/산복도로",
       "description": "6·25 피난민들이 형성한 산복도로 골목으로 부산 근대사의 생활 문화 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 42.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Korea-Busan-Street-02.jpg/1280px-Korea-Busan-Street-02.jpg"
     },
     {
       "name": "동구청",
@@ -34,7 +46,13 @@
       "lng": 129.0453138,
       "category": "행정/랜드마크",
       "description": "부산 동구의 행정 중심 청사다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 176.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Dong-gu_office_Daegu.JPG/1280px-Dong-gu_office_Daegu.JPG"
     },
     {
       "name": "부산항 북항",
@@ -42,7 +60,13 @@
       "lng": 129.043,
       "category": "항구/문화",
       "description": "옛 부산항 제1부두 일원으로 항만 문화의 원점이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 7.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Busan-port-from-Busan-tower-2.jpg"
     },
     {
       "name": "범일동 벚꽃길",
@@ -50,7 +74,13 @@
       "lng": 129.054,
       "category": "꽃길/계절",
       "description": "범일동 일대에 형성된 벚꽃 산책 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 303.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Korea-Busan-Street-02.jpg/1280px-Korea-Busan-Street-02.jpg"
     }
   ],
   "history_summary": "부산 동구는 부산역이 자리한 부산의 관문 구로 초량동 등이 있으며 개항기 이후 근대 역사가 함께한다.",
