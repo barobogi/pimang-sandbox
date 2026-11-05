@@ -1,0 +1,73 @@
+{
+  "block_code": "46150",
+  "block_name": "전라남도 순천시",
+  "bbox": [
+    127.176318,
+    34.812112,
+    127.593631,
+    35.188084
+  ],
+  "center": [
+    35.000098,
+    127.384974
+  ],
+  "landmarks": [
+    {
+      "name": "순천만습지",
+      "lat": 34.8866794,
+      "lng": 127.5077461,
+      "category": "생태/습지",
+      "description": "갯벌과 갈대밭이 펼쳐진 국내 대표 습지로 철새 도래지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C"
+    },
+    {
+      "name": "순천만국가정원",
+      "lat": 34.9266193,
+      "lng": 127.510122,
+      "category": "정원/관광",
+      "description": "국내 최대 규모의 국가정원으로 세계정원박람회 개최지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90"
+    },
+    {
+      "name": "낙안읍성",
+      "lat": 34.9058985,
+      "lng": 127.3431748,
+      "category": "읍성/문화유산",
+      "description": "조선 시대 읍성이 그대로 보존된 대표 전통 읍성이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1"
+    },
+    {
+      "name": "선암사",
+      "lat": 34.991867,
+      "lng": 127.3450975,
+      "category": "사찰/문화유산",
+      "description": "조선 시대 조계산 자락의 사찰로 유서 깊은 대표 절이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%95%94%EC%82%AC"
+    },
+    {
+      "name": "송광사",
+      "lat": 35.0053907,
+      "lng": 127.2647268,
+      "category": "사찰/문화유산",
+      "description": "지리산 북쪽 자락의 대표 사찰로 유서 깊은 절이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EA%B4%91%EC%82%AC"
+    }
+  ],
+  "history_summary": "순천시는 순천만습지와 순천만국가정원, 낙안읍성, 선암사, 송광사 등 남해안 대표 자연·문화 관광 자원이 풍부한 전남 동부의 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
