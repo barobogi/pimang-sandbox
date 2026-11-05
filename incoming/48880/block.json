@@ -117,6 +117,36 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "거창 동네밥집",
+      "lat": 35.711846,
+      "lng": 127.887563,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "거창 큰마당식당",
+      "lat": 35.712756,
+      "lng": 127.887423,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "거창 할매집",
+      "lat": 35.712546,
+      "lng": 127.887423,
+      "specialty": "한과",
+      "category": "전통디저트"
+    },
+    {
+      "name": "거창 솥뚜껑가게",
+      "lat": 35.711776,
+      "lng": 127.886933,
+      "specialty": "멸치볶음",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
   "data_sources": [
     {
