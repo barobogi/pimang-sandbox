@@ -1,0 +1,73 @@
+{
+  "block_code": "41430",
+  "block_name": "경기도 의왕시",
+  "bbox": [
+    126.929235,
+    37.300367,
+    127.046845,
+    37.415619
+  ],
+  "center": [
+    37.357993,
+    126.98804
+  ],
+  "landmarks": [
+    {
+      "name": "백운호수",
+      "lat": 37.3807762,
+      "lng": 127.0004135,
+      "category": "호수/관광",
+      "description": "의왕의 대표 호수 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%98"
+    },
+    {
+      "name": "오전동 상권",
+      "lat": 37.375,
+      "lng": 126.976,
+      "category": "상권",
+      "description": "오전동에 형성된 의왕 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C"
+    },
+    {
+      "name": "의왕박물관",
+      "lat": 37.372,
+      "lng": 126.97,
+      "category": "박물관/문화",
+      "description": "의왕의 대표 문화 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C"
+    },
+    {
+      "name": "백운산",
+      "lat": 37.3535546,
+      "lng": 127.0170061,
+      "category": "산/자연",
+      "description": "의왕과 안산 경계의 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0_%28%EA%B2%BD%EA%B8%B0%29"
+    },
+    {
+      "name": "내손동 상권",
+      "lat": 37.38,
+      "lng": 126.975,
+      "category": "상권",
+      "description": "내손동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C"
+    }
+  ],
+  "history_summary": "의왕시는 백운호수와 오전동 상권이 함께한 경기 남부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
