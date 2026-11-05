@@ -1,0 +1,73 @@
+{
+  "block_code": "41190",
+  "block_name": "경기도 부천시",
+  "bbox": [
+    126.7417,
+    37.458241,
+    126.8415,
+    37.554244
+  ],
+  "center": [
+    37.506242,
+    126.7916
+  ],
+  "landmarks": [
+    {
+      "name": "상동호수공원",
+      "lat": 37.5047452,
+      "lng": 126.7451352,
+      "category": "도시공원/호수",
+      "description": "상동에 조성된 호수 공원으로 가족 나들이와 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8F%99%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "부천만화정보박물관",
+      "lat": 37.4895,
+      "lng": 126.8415,
+      "category": "박물관/만화",
+      "description": "대한민국 대표 만화·웹툰 전문 박물관으로 부천만화축제와 함께 만화 도시 부천의 상징이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "원미산",
+      "lat": 37.4897583,
+      "lng": 126.7962778,
+      "category": "산/자연",
+      "description": "원미동 일대에 자리한 낮은 산으로 산책로와 등산 코스가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "부천종합운동장",
+      "lat": 37.5025133,
+      "lng": 126.7989922,
+      "category": "체육/경기장",
+      "description": "프로축구 부천FC 1995의 홈구장으로 다목적 경기장 시설을 갖추고 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5"
+    },
+    {
+      "name": "소사벚꽃길",
+      "lat": 37.476,
+      "lng": 126.812,
+      "category": "꽃길/계절",
+      "description": "소사동 일대에 형성된 벚꽃 명소로 봄철 개화 시기 관광객이 몰린다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C"
+    }
+  ],
+  "history_summary": "부천시는 근현대 섬유·기계·전자 공업 도시로 성장했고 부천만화박물관과 상동호수공원, 국제판타지축제 등 문화 도시로도 명성을 얻은 자치구 없는 시(구 없는 단일 도시)이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
