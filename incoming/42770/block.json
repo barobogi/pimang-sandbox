@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "정선 큰마당식당",
+      "lat": 37.370697,
+      "lng": 128.747468,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "정선 본점",
+      "lat": 37.370207,
+      "lng": 128.747748,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "정선 할매집",
+      "lat": 37.370347,
+      "lng": 128.748518,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "정선군은 아리랑의 고장이자 정암사와 화암동굴, 동강 래프팅이 유명한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
