@@ -1,0 +1,73 @@
+{
+  "block_code": "48270",
+  "block_name": "경상남도 밀양시",
+  "bbox": [
+    128.57244,
+    35.344369,
+    129.025495,
+    35.638814
+  ],
+  "center": [
+    35.491592,
+    128.798968
+  ],
+  "landmarks": [
+    {
+      "name": "영남루",
+      "lat": 35.4914846,
+      "lng": 128.7539139,
+      "category": "누정/문화유산",
+      "description": "영남루은(는) 경상남도 밀양시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%A3%A8"
+    },
+    {
+      "name": "표충사",
+      "lat": 35.5328487,
+      "lng": 128.9594367,
+      "category": "사찰/문화유산",
+      "description": "표충사은(는) 경상남도 밀양시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%91%9C%EC%B6%A9%EC%82%AC"
+    },
+    {
+      "name": "밀양시청",
+      "lat": 35.5036457,
+      "lng": 128.7460822,
+      "category": "행정/랜드마크",
+      "description": "밀양시청은(는) 경상남도 밀양시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "밀양시장",
+      "lat": 35.4915916,
+      "lng": 128.79896774999997,
+      "category": "시장/먹거리",
+      "description": "밀양시장은(는) 경상남도 밀양시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "밀양강",
+      "lat": 35.5177072,
+      "lng": 128.7730668,
+      "category": "하천/자연",
+      "description": "밀양강은(는) 경상남도 밀양시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EA%B0%95"
+    }
+  ],
+  "history_summary": "밀양시는 영남루와 표충사, 밀양아리랑으로 유명한 경남 북부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
