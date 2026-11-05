@@ -18,7 +18,13 @@
       "lng": 126.9850861,
       "category": "상권/번화가",
       "description": "대한민국 대표 패션·미용 관광 번화가이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EB%8F%99",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 105.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_%282020.03%29.jpg/1280px-%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_%282020.03%29.jpg"
     },
     {
       "name": "N서울타워",
@@ -26,7 +32,13 @@
       "lng": 126.9882805,
       "category": "랜드마크/전망대",
       "description": "남산 정상의 전망 타워로 서울의 상징이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/N%EC%84%9C%EC%9A%B8%ED%83%80%EC%9B%8C"
+      "source_url": "https://ko.wikipedia.org/wiki/N%EC%84%9C%EC%9A%B8%ED%83%80%EC%9B%8C",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 55.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Seoul_Tower_%284394893276%29.jpg"
     },
     {
       "name": "덕수궁",
@@ -34,7 +46,13 @@
       "lng": 126.9747926,
       "category": "역사/고궁",
       "description": "근대식 서양 건물과 전통 궁궐이 공존하는 유서 깊은 궁이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%88%98%EA%B6%81"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%88%98%EA%B6%81",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 110.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg/1280px-%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg"
     },
     {
       "name": "명동성당",
@@ -42,7 +60,13 @@
       "lng": 126.9873198,
       "category": "종교/문화유산",
       "description": "대한민국 천주교의 상징이자 민주화 운동의 역사적 현장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EB%8F%99%EC%84%B1%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EB%8F%99%EC%84%B1%EB%8B%B9",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 117.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Myeongdongchurch2025.jpg/1280px-Myeongdongchurch2025.jpg"
     },
     {
       "name": "동대문시장",
@@ -50,7 +74,13 @@
       "lng": 127.0397,
       "category": "시장/패션",
       "description": "24시간 패션 도매 소매 상권의 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A2%85%ED%95%A9%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A2%85%ED%95%A9%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 247.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dongdaemun-korean-food-9.jpg/1280px-Dongdaemun-korean-food-9.jpg"
     }
   ],
   "history_summary": "서울 중구는 명동과 동대문, 남산이 함께한 서울의 원도심 상업 관광 중심지로 개항기 이후 근대 문화유산도 풍부하다.",
