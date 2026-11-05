@@ -1,0 +1,73 @@
+{
+  "block_code": "47820",
+  "block_name": "경상북도 청도군",
+  "bbox": [
+    128.526459,
+    35.566375,
+    129.047198,
+    35.846135
+  ],
+  "center": [
+    35.706255,
+    128.786828
+  ],
+  "landmarks": [
+    {
+      "name": "운문사",
+      "lat": 35.6610955,
+      "lng": 128.9602875,
+      "category": "사찰/문화유산",
+      "description": "운문사은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EB%AC%B8%EC%82%AC"
+    },
+    {
+      "name": "청도소싸움경기장",
+      "lat": 35.6874308,
+      "lng": 128.7243027,
+      "category": "체육/축제",
+      "description": "청도소싸움경기장은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0"
+    },
+    {
+      "name": "청도천",
+      "lat": 35.6616955,
+      "lng": 128.7198428,
+      "category": "하천/자연",
+      "description": "청도천은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0"
+    },
+    {
+      "name": "청도군청",
+      "lat": 35.6479437,
+      "lng": 128.7355698,
+      "category": "행정/랜드마크",
+      "description": "청도군청은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "청도시장",
+      "lat": 35.643196,
+      "lng": 128.74397,
+      "category": "시장/먹거리",
+      "description": "청도시장은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0"
+    }
+  ],
+  "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
