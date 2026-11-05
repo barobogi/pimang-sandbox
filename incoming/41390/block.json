@@ -18,7 +18,13 @@
       "lng": 126.7425,
       "category": "관광/해양",
       "description": "정왕동 오이도에 조성된 해양 전망시설로 시화호 갯벌과 석류꽃이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 19.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/CDC_cuke2.jpg"
     },
     {
       "name": "갯골생태공원",
@@ -26,7 +32,13 @@
       "lng": 126.7801488,
       "category": "생태/공원",
       "description": "조선 시대 조정시절 굴착한 갯골을 복원해 만든 생태공원으로 갯벌 체험이 가능하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 257.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
     },
     {
       "name": "시화호",
@@ -34,7 +46,13 @@
       "lng": 126.6693532,
       "category": "호수/해양",
       "description": "방조제가 건설된 인공 호수로 갯벌과 도요새 이주지로 국제적으로도 중요한 지역이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%99%94%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%99%94%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 37.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sihwa_Lake_World_Wind.jpg/1280px-Sihwa_Lake_World_Wind.jpg"
     },
     {
       "name": "배곧한강공원",
@@ -42,7 +60,13 @@
       "lng": 126.806,
       "category": "근린공원",
       "description": "배곧지구에 조성된 수변 공원으로 시흥 신도시의 대표 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 281.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hangang_Railway_Bridge.jpg/1280px-Hangang_Railway_Bridge.jpg"
     },
     {
       "name": "은계생태공원",
@@ -50,7 +74,13 @@
       "lng": 126.779,
       "category": "생태/공원",
       "description": "은행동 일대에 조성된 생태공원으로 시민 산책 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 234.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%9D%80%EA%B3%84%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90.jpg/1280px-%EC%9D%80%EA%B3%84%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90.jpg"
     }
   ],
   "history_summary": "시흥시는 조선 시대 과천·금천과 함께 관도 중심지였던 유서 깊은 지역으로 화학·금속 산업과 함께 오이도빛거리와 갯골생태공원, 시화호 등 해양 생태 관광이 발달했다.",
