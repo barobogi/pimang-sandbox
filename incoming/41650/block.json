@@ -18,7 +18,13 @@
       "lng": 127.3209633,
       "category": "호수/관광",
       "description": "포천의 대표 호수 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 201.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg/1280px-Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg"
     },
     {
       "name": "한탄강",
@@ -26,7 +32,13 @@
       "lng": 127.2087365,
       "category": "하천/자연",
       "description": "현무암 협곡이 아름다운 국가지질공원 강이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 155.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/1280px-Hantan_River_nearby_Goseokjeong.jpg"
     },
     {
       "name": "일동허브밸리",
@@ -34,7 +46,13 @@
       "lng": 127.2,
       "category": "테마공원",
       "description": "허브 테마의 대표 관광 체험 단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 139.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg/1280px-250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg"
     },
     {
       "name": "포천시청",
@@ -42,7 +60,13 @@
       "lng": 127.2003521,
       "category": "행정/랜드마크",
       "description": "포천시의 행정 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 36.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg/1280px-250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg"
     },
     {
       "name": "운악산",
@@ -50,7 +74,13 @@
       "lng": 127.32288,
       "category": "산/자연",
       "description": "포천의 대표 등산 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 334.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
   "history_summary": "경기 포천시는 산정호수와 한탄강이 함께한 경기 북동부의 도시이다.",
