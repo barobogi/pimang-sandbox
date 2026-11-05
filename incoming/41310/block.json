@@ -117,6 +117,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "갈매 할매집",
+      "lat": 37.5967,
+      "lng": 127.12886,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "갈매 본점",
+      "lat": 37.59586,
+      "lng": 127.1297,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "갈매 솥뚜껑가게",
+      "lat": 37.59628,
+      "lng": 127.12851,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "갈매 옛맛식당",
+      "lat": 37.59593,
+      "lng": 127.12872,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
   "data_sources": [
     {
