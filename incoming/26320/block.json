@@ -1,0 +1,73 @@
+{
+  "block_code": "26320",
+  "block_name": "부산광역시 북구",
+  "bbox": [
+    128.985299,
+    35.187564,
+    129.06017,
+    35.276875
+  ],
+  "center": [
+    35.232219,
+    129.022735
+  ],
+  "landmarks": [
+    {
+      "name": "구포역",
+      "lat": 35.2053084,
+      "lng": 128.9973006,
+      "category": "교통/철도",
+      "description": "경부선의 구포역으로 북구 대표 철도 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%ED%8F%AC%EC%97%AD"
+    },
+    {
+      "name": "화명생태공원",
+      "lat": 35.238469,
+      "lng": 129.0054716,
+      "category": "공원/생태",
+      "description": "화명동에 조성된 대표 생태공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "낙동강",
+      "lat": 35.2109373,
+      "lng": 129.0007237,
+      "category": "하천/자연",
+      "description": "북구 서쪽 경계를 흐르는 대한민국 최대 강이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+    },
+    {
+      "name": "덕천동 상권",
+      "lat": 35.205,
+      "lng": 129.013,
+      "category": "상권",
+      "description": "덕천동에 형성된 북구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "화명신도시",
+      "lat": 35.2253321,
+      "lng": 129.0084153,
+      "category": "신도시",
+      "description": "화명동에 조성된 북구 대표 주거 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "부산 북구는 구포동과 화명동이 자리한 부산 북부의 주거 구로 낙동강과 금정산 사이에 있다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
