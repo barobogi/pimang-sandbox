@@ -1,0 +1,73 @@
+{
+  "block_code": "48129",
+  "block_name": "경상남도 창원시 진해구",
+  "bbox": [
+    128.599305,
+    35.035912,
+    128.843354,
+    35.180228
+  ],
+  "center": [
+    35.10807,
+    128.721329
+  ],
+  "landmarks": [
+    {
+      "name": "여좌천",
+      "lat": 35.1638759,
+      "lng": 128.6605519,
+      "category": "하천/벚꽃",
+      "description": "여좌천은(는) 경상남도 창원시 진해구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC"
+    },
+    {
+      "name": "진해해군기지",
+      "lat": 35.10806985,
+      "lng": 128.7213293,
+      "category": "군사/랜드마크",
+      "description": "진해해군기지은(는) 경상남도 창원시 진해구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%ED%95%B4%EA%B5%B0%EA%B8%B0%EC%A7%80"
+    },
+    {
+      "name": "진해구청",
+      "lat": 35.1330129,
+      "lng": 128.7101186,
+      "category": "행정/랜드마크",
+      "description": "진해구청은(는) 경상남도 창원시 진해구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC"
+    },
+    {
+      "name": "경화역",
+      "lat": 35.1587062,
+      "lng": 128.686471,
+      "category": "철도/벚꽃",
+      "description": "경화역은(는) 경상남도 창원시 진해구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%ED%99%94%EC%97%AD"
+    },
+    {
+      "name": "진해만",
+      "lat": 35.10806985,
+      "lng": 128.7213293,
+      "category": "해양/자연",
+      "description": "진해만은(는) 경상남도 창원시 진해구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%ED%95%B4%EA%B5%AC"
+    }
+  ],
+  "history_summary": "진해구는 해군기지와 벚꽃 명소로 유명한 창원 남부의 구로 진해만과 여좌천이 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
