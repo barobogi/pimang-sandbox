@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "포천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "일동허브밸리 → 한탄강 → 산정호수 → 운악산 → 포천시청 순으로 이어지는 경기도 포천시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "일동허브밸리",
+        "한탄강",
+        "산정호수",
+        "운악산",
+        "포천시청"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "포천 그린 랜드스케이프 플라이트",
+      "description": "산정호수 → 한탄강 → 일동허브밸리 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 포천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "산정호수",
+        "한탄강",
+        "일동허브밸리"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "경기 포천시는 산정호수와 한탄강이 함께한 경기 북동부의 도시이다.",
   "data_sources": [
     {
