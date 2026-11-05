@@ -1,0 +1,73 @@
+{
+  "block_code": "46170",
+  "block_name": "전라남도 나주시",
+  "bbox": [
+    126.51331,
+    34.868134,
+    126.898785,
+    35.114855
+  ],
+  "center": [
+    34.991495,
+    126.706047
+  ],
+  "landmarks": [
+    {
+      "name": "금성관",
+      "lat": 35.0314706,
+      "lng": 126.7158289,
+      "category": "객사/문화유산",
+      "description": "조선 최대 규모의 객사로 보물 제2037호의 대표 역사 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "name": "영산포 등대와 황포돛배",
+      "lat": 35.012,
+      "lng": 126.799,
+      "category": "항구/문화",
+      "description": "현존하는 유일한 내륙 등대와 황포돛배 유람 체험이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "name": "빛가람호수공원",
+      "lat": 35.0174114,
+      "lng": 126.7895727,
+      "category": "호수/공원",
+      "description": "혁신도시 중앙에 조성된 호수 공원으로 빛가람전망대가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "name": "국립나주박물관",
+      "lat": 34.9150965,
+      "lng": 126.6594746,
+      "category": "박물관/고고학",
+      "description": "영산강 유역 고분 문화를 전시하는 고고학 전문 국립박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EB%82%98%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "금성산",
+      "lat": 35.0400976,
+      "lng": 126.7075361,
+      "category": "산/자연",
+      "description": "나주의 진산으로 도심에 가까운 대표 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+    }
+  ],
+  "history_summary": "나주시는 조선 시대 나주목이 있던 호남의 유서 깊은 도시로 금성관과 영산포 황포돛배, 빛가람혁신도시가 함께한 전남 서부의 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
