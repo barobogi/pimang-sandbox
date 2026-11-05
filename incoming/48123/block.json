@@ -18,7 +18,13 @@
       "lng": 128.6837929,
       "category": "사적/유적",
       "description": "초기 철기시대 대규모 패총과 삼국시대 성곽 유적을 보존한 사적 제240호다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%ED%8C%A8%EC%B4%9D"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%ED%8C%A8%EC%B4%9D",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 227.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%EC%B0%BD%EC%9B%90_%EC%84%B1%EC%82%B0_%ED%8C%A8%EC%B4%9D.jpg"
     },
     {
       "name": "불모산",
@@ -26,7 +32,13 @@
       "lng": 128.7249022,
       "category": "산/자연",
       "description": "천선동에 자리한 창원 도심의 산으로 황토곰숲길로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 278.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Naknamjeongmaek.jpg/1280px-Naknamjeongmaek.jpg"
     },
     {
       "name": "중앙체육공원",
@@ -34,7 +46,12 @@
       "lng": 128.6738091,
       "category": "체육/공원",
       "description": "상남동과 중앙동 완충녹지에 조성된 대표 체육 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 194.4
+      }
     },
     {
       "name": "용지호수공원",
@@ -42,7 +59,13 @@
       "lng": 128.612,
       "category": "호수/공원",
       "description": "전국 아름다운 도심 공원 베스트 5에 선정된 대표 호수 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 136.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/e/e5/P110123005.jpg/1280px-P110123005.jpg"
     },
     {
       "name": "상남동 노래교차로",
@@ -50,7 +73,12 @@
       "lng": 128.689,
       "category": "문화/거리",
       "description": "창원 도심 상업 중심지 상남동의 문화적 상징 교차로다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EA%B5%AC_%28%EC%B0%BD%EC%9B%90%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 202.7
+      }
     }
   ],
   "history_summary": "성산구는 창원의 원도심으로 성산패총과 창원국가산업단지가 자리한 창원 중심 구이며 상남동과 중앙동 상권, 용지호수공원 등이 함께한다.",
