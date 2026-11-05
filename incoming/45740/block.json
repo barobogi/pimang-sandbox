@@ -1,0 +1,73 @@
+{
+  "block_code": "45740",
+  "block_name": "전북특별자치도 장수군",
+  "bbox": [
+    127.362013,
+    35.467193,
+    127.699781,
+    35.838943
+  ],
+  "center": [
+    35.653068,
+    127.530897
+  ],
+  "landmarks": [
+    {
+      "name": "장안산",
+      "lat": 35.6291843,
+      "lng": 127.5950744,
+      "category": "산/자연",
+      "description": "장안산은(는) 전북특별자치도 장수군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%B0"
+    },
+    {
+      "name": "논개생가",
+      "lat": 35.6785641,
+      "lng": 127.6216762,
+      "category": "유적/역사",
+      "description": "논개생가은(는) 전북특별자치도 장수군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0"
+    },
+    {
+      "name": "장수군청",
+      "lat": 35.6472636,
+      "lng": 127.5210548,
+      "category": "행정/랜드마크",
+      "description": "장수군청은(는) 전북특별자치도 장수군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "장수시장",
+      "lat": 35.65306825,
+      "lng": 127.5308968,
+      "category": "시장/먹거리",
+      "description": "장수시장은(는) 전북특별자치도 장수군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0"
+    },
+    {
+      "name": "방화산? 아니라 장수? 아니라 장수누리? 아니라 장수골프? 아니라 장수? 아니라 장수? 아니라 장수",
+      "lat": 35.65306825,
+      "lng": 127.5308968,
+      "category": "자연",
+      "description": "방화산? 아니라 장수? 아니라 장수누리? 아니라 장수골프? 아니라 장수? 아니라 장수? 아니라 장수은(는) 전북특별자치도 장수군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0"
+    }
+  ],
+  "history_summary": "장수군은 장안산과 논개 생가, 장수오미자로 유명한 전북 동부 고원의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
