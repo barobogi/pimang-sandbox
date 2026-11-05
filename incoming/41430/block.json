@@ -116,6 +116,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "오전동 상권 동네밥집",
+      "lat": 37.375,
+      "lng": 126.97586,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "의왕박물관 가마솥밥가",
+      "lat": 37.37137,
+      "lng": 126.96937,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "내손동 상권 할매집",
+      "lat": 37.3793,
+      "lng": 126.97521,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "백운호수 옛맛식당",
+      "lat": 37.380986,
+      "lng": 126.999854,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "의왕시는 백운호수와 오전동 상권이 함께한 경기 남부의 도시이다.",
   "data_sources": [
     {
