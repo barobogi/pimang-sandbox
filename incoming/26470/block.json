@@ -1,0 +1,73 @@
+{
+  "block_code": "26470",
+  "block_name": "부산광역시 연제구",
+  "bbox": [
+    129.046527,
+    35.158409,
+    129.11505,
+    35.199489
+  ],
+  "center": [
+    35.178949,
+    129.080788
+  ],
+  "landmarks": [
+    {
+      "name": "부산아시아드주경기장",
+      "lat": 35.173,
+      "lng": 129.06,
+      "category": "체육/경기장",
+      "description": "2002년 월드컵 개최지인 대형 종합 경기장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%95%84%EC%8B%9C%EC%95%84%EB%93%9C%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5"
+    },
+    {
+      "name": "연산동 상권",
+      "lat": 35.18,
+      "lng": 129.087,
+      "category": "상권",
+      "description": "연제구 최대 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC"
+    },
+    {
+      "name": "온천천",
+      "lat": 35.1940949,
+      "lng": 129.0835966,
+      "category": "하천/자연",
+      "description": "연제구를 지나는 지천으로 벚꽃 산책로가 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%B2%9C%EC%B2%9C"
+    },
+    {
+      "name": "배산",
+      "lat": 35.173473,
+      "lng": 129.095751,
+      "category": "산/자연",
+      "description": "연제구 북쪽의 낮은 산으로 산책로가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC"
+    },
+    {
+      "name": "거제동 상권",
+      "lat": 35.167,
+      "lng": 129.07,
+      "category": "상권",
+      "description": "거제동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC"
+    }
+  ],
+  "history_summary": "부산 연제구는 연산동 상권과 부산아시아드주경기장, 온천천이 함께한 부산 중부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
