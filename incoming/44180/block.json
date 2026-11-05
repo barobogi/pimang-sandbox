@@ -18,7 +18,13 @@
       "lng": 126.5127201,
       "category": "해수욕장",
       "description": "대천해수욕장은(는) 충청남도 보령시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%9C%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%9C%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 275.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Korea-Boryeong-Daecheon_Beach-01.jpg"
     },
     {
       "name": "무창포해수욕장",
@@ -26,7 +32,13 @@
       "lng": 126.5360642,
       "category": "해수욕장",
       "description": "무창포해수욕장은(는) 충청남도 보령시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%B0%BD%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%B0%BD%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 286.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Moriya_Beach%2C_Katsuura_-Aug._2010_a.jpg"
     },
     {
       "name": "성주산",
@@ -34,7 +46,13 @@
       "lng": 126.68419,
       "category": "산/자연",
       "description": "성주산은(는) 충청남도 보령시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 266.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%EA%B2%BD%EA%B8%B0%EB%8F%84_%EB%B6%80%EC%B2%9C%EC%8B%9C_%EC%86%8C%EC%82%AC%EA%B5%AC_%EC%84%B1%EC%A3%BC%EB%A1%9C.jpg/1280px-%EA%B2%BD%EA%B8%B0%EB%8F%84_%EB%B6%80%EC%B2%9C%EC%8B%9C_%EC%86%8C%EC%82%AC%EA%B5%AC_%EC%84%B1%EC%A3%BC%EB%A1%9C.jpg"
     },
     {
       "name": "보령시청",
@@ -42,7 +60,13 @@
       "lng": 126.6129313,
       "category": "행정/랜드마크",
       "description": "보령시청은(는) 충청남도 보령시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 270.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Korea-Boryeong-Daecheon_Beach-01.jpg"
     },
     {
       "name": "보령시장",
@@ -50,7 +74,13 @@
       "lng": 126.13123315,
       "category": "시장/먹거리",
       "description": "보령시장은(는) 충청남도 보령시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 196.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Korea-Boryeong-Daecheon_Beach-01.jpg"
     }
   ],
   "history_summary": "보령시는 대천해수욕장과 무창포, 성주산이 자리한 충남 서해안의 대표 관광 도시이다.",
