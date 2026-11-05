@@ -18,7 +18,13 @@
       "lng": 126.5831167,
       "category": "국립공원/자연",
       "description": "서해안의 대표 국립공원으로 절벽과 바다가 어우러졌다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%82%B0%EB%B0%98%EB%8F%84%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%82%B0%EB%B0%98%EB%8F%84%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 266.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Mt._Byeonsan_Peninsula_National_Park_-_panoramio.jpg/1280px-Mt._Byeonsan_Peninsula_National_Park_-_panoramio.jpg"
     },
     {
       "name": "채석강",
@@ -26,7 +32,13 @@
       "lng": 126.4681785,
       "category": "해안/자연",
       "description": "절벽과 파도가 어우러진 변산반도 대표 해안 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EC%84%9D%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EC%84%9D%EA%B0%95",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 272.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Buan_County-Chaeseokgang-01.jpg/1280px-Korea-Buan_County-Chaeseokgang-01.jpg"
     },
     {
       "name": "내소사",
@@ -34,7 +46,13 @@
       "lng": 126.5872515,
       "category": "사찰/문화유산",
       "description": "백제 시대 창건된 유서 깊은 사찰로 대웅보전이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%86%8C%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%86%8C%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 274.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%EB%82%B4%EC%86%8C%EC%82%AC4.jpg"
     },
     {
       "name": "고선재",
@@ -42,7 +60,13 @@
       "lng": 126.736,
       "category": "해안/자연",
       "description": "가파란 절벽과 해안 절경이 어우러진 대표 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 271.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Daedongyeojido_%28Gyujanggak%29_14-06.jpg/1280px-Daedongyeojido_%28Gyujanggak%29_14-06.jpg"
     },
     {
       "name": "선유도",
@@ -50,7 +74,13 @@
       "lng": 126.4245216,
       "category": "섬/관광",
       "description": "선유도국민관광지로 서해의 대표 섬 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 204.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Seonyu_island.JPG/1280px-Seonyu_island.JPG"
     }
   ],
   "history_summary": "부안군은 변산반도국립공원과 채석강, 내소사, 고선재, 선유도 등 서해안 대표 관광 자원이 풍부한 전북 서북부의 군이다.",
