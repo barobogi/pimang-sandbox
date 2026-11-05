@@ -18,7 +18,13 @@
       "lng": 129.423,
       "category": "해변/관광",
       "description": "동해안의 대표 해변으로 미포 철길이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 123.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dong-gu_ULSAN.PNG"
     },
     {
       "name": "정자해수욕장",
@@ -26,7 +32,13 @@
       "lng": 129.43,
       "category": "해수욕장",
       "description": "동해안의 대표 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 130.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jeongja_Beach%2C_Ulsan.jpg/1280px-Jeongja_Beach%2C_Ulsan.jpg"
     },
     {
       "name": "현대자동차 울산공장",
@@ -34,7 +46,13 @@
       "lng": 129.39,
       "category": "산업/자동차",
       "description": "세계 최대 규모의 자동차 생산 공장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 120.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hyundai_Motor_Company_2000.jpg"
     },
     {
       "name": "강동공원",
@@ -42,7 +60,13 @@
       "lng": 129.399,
       "category": "공원",
       "description": "동구 강동 지역의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 129.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dong-gu_ULSAN.PNG"
     },
     {
       "name": "화암공원",
@@ -50,7 +74,13 @@
       "lng": 129.406,
       "category": "공원",
       "description": "동구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 127.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg"
     }
   ],
   "history_summary": "울산 동구는 동해 해안과 현대자동차 울산공장이 자리한 울산 동부의 산업·해양 구이다.",
