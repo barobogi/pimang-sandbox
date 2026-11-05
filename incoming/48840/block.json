@@ -18,7 +18,13 @@
       "lng": 127.814,
       "category": "해수욕장/관광",
       "description": "소나무 숲과 어우러진 남해 최대 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 138.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Sangju_Eunmorae_Beach.jpg/1280px-Sangju_Eunmorae_Beach.jpg"
     },
     {
       "name": "미조항",
@@ -26,7 +32,13 @@
       "lng": 127.786,
       "category": "항구/관광",
       "description": "어시장과 항구 풍경이 어우러진 남해의 대표 관광 항구다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 130.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Namhae_Gun_County_05_%2816515145669%29.jpg/1280px-Namhae_Gun_County_05_%2816515145669%29.jpg"
     },
     {
       "name": "금산보리암",
@@ -34,7 +46,13 @@
       "lng": 127.775,
       "category": "사찰/해안",
       "description": "해안 절벽 위에 자리한 암자로 바다 위 다리가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 127.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Geumsan_of_Namhae%2C_Korea.jpg/1280px-Geumsan_of_Namhae%2C_Korea.jpg"
     },
     {
       "name": "설천약수",
@@ -42,7 +60,13 @@
       "lng": 127.866,
       "category": "약수/자연",
       "description": "바다에서 솟아나는 약수로 유명한 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 145.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Namhae_Gun_County_05_%2816515145669%29.jpg/1280px-Namhae_Gun_County_05_%2816515145669%29.jpg"
     },
     {
       "name": "독일마을",
@@ -50,7 +74,13 @@
       "lng": 128.0401294,
       "category": "마을/문화",
       "description": "독일 거류민들이 돌아와 조성한 마을로 독일식 건축과 문화가 어우러져 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 179.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/German_Village_in_South_Korea_03.jpg/1280px-German_Village_in_South_Korea_03.jpg"
     }
   ],
   "history_summary": "남해군은 남해안 최남단에 자리한 섬 군으로 상주해변과 미조항, 금산보리암, 독일마을 등의 관광 자원과 유서 깊은 해양 문화가 함께한다.",
