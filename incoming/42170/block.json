@@ -1,0 +1,73 @@
+{
+  "block_code": "42170",
+  "block_name": "강원특별자치도 동해시",
+  "bbox": [
+    128.957618,
+    37.426798,
+    129.369978,
+    37.782534
+  ],
+  "center": [
+    37.604666,
+    129.163798
+  ],
+  "landmarks": [
+    {
+      "name": "무릉계곡",
+      "lat": 37.4637692,
+      "lng": 129.0225436,
+      "category": "계곡/관광",
+      "description": "무릉계곡은(는) 강원특별자치도 동해시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1"
+    },
+    {
+      "name": "천곡천연동굴",
+      "lat": 37.5175791,
+      "lng": 129.1101636,
+      "category": "동굴/자연",
+      "description": "천곡천연동굴은(는) 강원특별자치도 동해시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%95%B4%EC%8B%9C"
+    },
+    {
+      "name": "추암촛대바위",
+      "lat": 37.4761188,
+      "lng": 129.1599545,
+      "category": "해안/자연",
+      "description": "추암촛대바위은(는) 강원특별자치도 동해시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%94%EC%95%94%EC%B4%9B%EB%8C%80%EB%B0%94%EC%9C%84"
+    },
+    {
+      "name": "동해시청",
+      "lat": 37.524763,
+      "lng": 129.114492,
+      "category": "행정/랜드마크",
+      "description": "동해시청은(는) 강원특별자치도 동해시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%95%B4%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "묵호항",
+      "lat": 37.539852,
+      "lng": 129.112032,
+      "category": "항구/어촌",
+      "description": "묵호항은(는) 강원특별자치도 동해시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B5%ED%98%B8%ED%95%AD"
+    }
+  ],
+  "history_summary": "동해시는 동해안 무릉계곡과 천곡천연동굴, 추암촛대바위가 자리한 강원 영동의 해안 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
