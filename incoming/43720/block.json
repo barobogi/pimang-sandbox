@@ -18,7 +18,13 @@
       "lng": 127.8349663,
       "category": "사찰/문화유산",
       "description": "법주사은(는) 충청북도 보은군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%A3%BC%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%A3%BC%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 242.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Beopjusa_Temple_Stay_South_Korea.jpg/1280px-Beopjusa_Temple_Stay_South_Korea.jpg"
     },
     {
       "name": "속리산",
@@ -26,7 +32,13 @@
       "lng": 127.7820278,
       "category": "산/국립공원",
       "description": "속리산은(는) 충청북도 보은군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EB%A6%AC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 301.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg/1280px-Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg"
     },
     {
       "name": "정이품송",
@@ -34,7 +46,13 @@
       "lng": 127.8155871,
       "category": "천연기념물/자연",
       "description": "정이품송은(는) 충청북도 보은군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 253.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/1280px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg"
     },
     {
       "name": "보은군청",
@@ -42,7 +60,13 @@
       "lng": 127.7303669,
       "category": "행정/랜드마크",
       "description": "보은군청은(는) 충청북도 보은군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 276.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Beopjusapagoda.jpg/1280px-Beopjusapagoda.jpg"
     },
     {
       "name": "보은시장",
@@ -50,7 +74,13 @@
       "lng": 127.70926125,
       "category": "시장/먹거리",
       "description": "보은시장은(는) 충청북도 보은군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 209.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Beopjusapagoda.jpg/1280px-Beopjusapagoda.jpg"
     }
   ],
   "history_summary": "보은군은 속리산과 법주사, 정이품송이 자리한 충북 남부의 군이다.",
