@@ -18,7 +18,13 @@
       "lng": 128.88,
       "category": "생태/공원",
       "description": "낙동강 하구 철새 도래지로 유네스코 생물권보전지역인 을숙도의 생태공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 181.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Saha-gu_eulsuk-do.jpg/1280px-Saha-gu_eulsuk-do.jpg"
     },
     {
       "name": "벚꽃공원",
@@ -26,7 +32,13 @@
       "lng": 128.95,
       "category": "꽃길/공원",
       "description": "강서구에 조성된 벚꽃 테마 공원으로 봄철 대표 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 201.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Busan_Gangseo-gu.svg/1280px-Busan_Gangseo-gu.svg.png"
     },
     {
       "name": "가덕도",
@@ -34,7 +46,13 @@
       "lng": 128.8346881,
       "category": "섬/해양",
       "description": "부산 최서단의 섬으로 갯벌과 해수욕장, 신공항 부지로 알려졌다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%8D%95%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%8D%95%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 94.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gaduk_Bridge_constructing.jpg/1280px-Gaduk_Bridge_constructing.jpg"
     },
     {
       "name": "지사문화마을",
@@ -42,7 +60,13 @@
       "lng": 128.96,
       "category": "문화/마을",
       "description": "강서구 지사동에 조성된 문화 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 205.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%B0.svg/1280px-%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%B0.svg.png"
     },
     {
       "name": "낙동강하구에코센터",
@@ -50,7 +74,13 @@
       "lng": 128.885,
       "category": "생태/전시",
       "description": "낙동강 하구 생태를 전시하는 환경 학습 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 183.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/The_Intersection_-_Tsolmonchimeg.jpg/1280px-The_Intersection_-_Tsolmonchimeg.jpg"
     }
   ],
   "history_summary": "강서구는 낙동강 하구의 을숙도와 벚꽃공원, 지사문화마을, 가덕도가 자리한 부산 서부의 구로 국제신도시가 개발 중이다.",
