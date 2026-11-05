@@ -18,7 +18,13 @@
       "lng": 127.3204771,
       "category": "산/자연",
       "description": "대둔산은(는) 전북특별자치도 완주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%91%94%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%91%94%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 203.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chilseongbong_at_Daedunsan.jpg/1280px-Chilseongbong_at_Daedunsan.jpg"
     },
     {
       "name": "위봉사",
@@ -26,7 +32,13 @@
       "lng": 127.2568674,
       "category": "사찰/문화유산",
       "description": "위봉사은(는) 전북특별자치도 완주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%84%EB%B4%89%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%84%EB%B4%89%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 237.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%EC%99%84%EC%A3%BC_%EC%9C%84%EB%B4%89%EC%82%AC_%EB%B3%B4%EA%B4%91%EB%AA%85%EC%A0%84_05.jpg"
     },
     {
       "name": "모악산",
@@ -34,7 +46,13 @@
       "lng": 127.0851739,
       "category": "산/자연",
       "description": "모악산은(는) 전북특별자치도 완주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 29.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%AA%A8%EC%95%85%EC%82%B0.jpg/1280px-%EB%AA%A8%EC%95%85%EC%82%B0.jpg"
     },
     {
       "name": "완주군청",
@@ -42,7 +60,13 @@
       "lng": 127.1615315,
       "category": "행정/랜드마크",
       "description": "완주군청은(는) 전북특별자치도 완주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%A3%BC%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%A3%BC%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 145.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Wanju_County_Office.jpg/1280px-Wanju_County_Office.jpg"
     },
     {
       "name": "완주시장",
@@ -50,7 +74,13 @@
       "lng": 127.18721325,
       "category": "시장/먹거리",
       "description": "완주시장은(는) 전북특별자치도 완주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 256.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Wanju_County_Office.jpg/1280px-Wanju_County_Office.jpg"
     }
   ],
   "history_summary": "완주군은 대둔산과 위봉사, 모악산이 자리한 전북 중부의 군으로 전주를 둘러싼 지역이다.",
