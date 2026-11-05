@@ -1,0 +1,73 @@
+{
+  "block_code": "45111",
+  "block_name": "전북특별자치도 전주시 완산구",
+  "bbox": [
+    127.050418,
+    35.728574,
+    127.217163,
+    35.842308
+  ],
+  "center": [
+    35.785441,
+    127.13379
+  ],
+  "landmarks": [
+    {
+      "name": "전주한옥마을",
+      "lat": 35.8181583,
+      "lng": 127.1530505,
+      "category": "전통마을/관광",
+      "description": "한국 최대 규모의 전통 한옥 마을로 비빔밥과 한지 문화로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "경기전",
+      "lat": 35.8122296,
+      "lng": 127.1517811,
+      "category": "문화유산/역사",
+      "description": "조선 태조 이성계 초상화를 모신 유서 깊은 사궁이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EA%B8%B0%EC%A0%84"
+    },
+    {
+      "name": "전동성당",
+      "lat": 35.8133875,
+      "lng": 127.1492033,
+      "category": "종교/문화유산",
+      "description": "한국 3대 성당 중 하나로 한옥마을 옆에 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9"
+    },
+    {
+      "name": "오목대",
+      "lat": 35.8143967,
+      "lng": 127.1544967,
+      "category": "문화/거리",
+      "description": "한옥마을과 전동성당을 잇는 전주 문화의 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%82%B0%EA%B5%AC"
+    },
+    {
+      "name": "남부시장",
+      "lat": 35.81,
+      "lng": 127.156,
+      "category": "전통시장",
+      "description": "청년몰로 재탄생한 전주의 대표 재래시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%82%B0%EA%B5%AC"
+    }
+  ],
+  "history_summary": "완산구는 조선 시대 전주부의 중심으로 전주한옥마을과 경기전, 전동성당 등 유서 깊은 문화유산이 밀집한 전주의 원도심 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
