@@ -1,0 +1,73 @@
+{
+  "block_code": "47250",
+  "block_name": "경상북도 상주시",
+  "bbox": [
+    127.796417,
+    36.23742,
+    128.341169,
+    36.656764
+  ],
+  "center": [
+    36.447092,
+    128.068793
+  ],
+  "landmarks": [
+    {
+      "name": "경천대",
+      "lat": 36.4582774,
+      "lng": 128.2437677,
+      "category": "경승지/자연",
+      "description": "경천대은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%B2%9C%EB%8C%80"
+    },
+    {
+      "name": "낙동강",
+      "lat": 36.4232325,
+      "lng": 128.2392457,
+      "category": "하천/자연",
+      "description": "낙동강은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+    },
+    {
+      "name": "상주자전거박물관",
+      "lat": 36.412474,
+      "lng": 128.11781,
+      "category": "박물관/문화",
+      "description": "상주자전거박물관은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%9E%90%EC%A0%84%EA%B1%B0%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "상주시청",
+      "lat": 36.411013,
+      "lng": 128.1591081,
+      "category": "행정/랜드마크",
+      "description": "상주시청은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "상주시장",
+      "lat": 36.447092049999995,
+      "lng": 128.06879295,
+      "category": "시장/먹거리",
+      "description": "상주시장은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%9E%A5"
+    }
+  ],
+  "history_summary": "상주시는 낙동강과 경천대, 상주자전거박물관이 자리한 경북 서부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
