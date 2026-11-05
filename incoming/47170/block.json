@@ -1,0 +1,73 @@
+{
+  "block_code": "47170",
+  "block_name": "경상북도 안동시",
+  "bbox": [
+    128.429194,
+    36.295066,
+    129.000993,
+    36.823079
+  ],
+  "center": [
+    36.559072,
+    128.715093
+  ],
+  "landmarks": [
+    {
+      "name": "하회마을",
+      "lat": 36.5390268,
+      "lng": 128.5180947,
+      "category": "유네스코/전통마을",
+      "description": "가족 중심 마을과 하회탈로 유명한 유네스코 세계유산 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%ED%9A%8C%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "도산서원",
+      "lat": 36.7272204,
+      "lng": 128.8435309,
+      "category": "서원/유네스코",
+      "description": "퇴계 이황이 세운 서원으로 유네스코 세계유산에 등재되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EC%84%9C%EC%9B%90"
+    },
+    {
+      "name": "봉정사",
+      "lat": 36.6532662,
+      "lng": 128.662725,
+      "category": "사찰/문화유산",
+      "description": "국보 극락전이 있는 유서 깊은 대표 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%EC%A0%95%EC%82%AC"
+    },
+    {
+      "name": "병산서원",
+      "lat": 36.542104,
+      "lng": 128.5567718,
+      "category": "서원/유네스코",
+      "description": "류성룡을 기리는 서원으로 유네스코 세계유산에 등재되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90"
+    },
+    {
+      "name": "월영교",
+      "lat": 36.5766329,
+      "lng": 128.7608879,
+      "category": "교량/문화",
+      "description": "낙동강 위에 복원된 반월형 목교로 야경으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%98%81%EA%B5%90"
+    }
+  ],
+  "history_summary": "안동시는 조선 시대 성리학의 본산이었던 유서 깊은 도시로 하회마을과 도산서원, 병산서원, 봉정사 등 유네스코 세계유산을 품은 경북 북부의 대표 문화 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
