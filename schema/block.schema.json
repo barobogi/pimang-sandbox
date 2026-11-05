@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "KoreaDigitalTwinBlockSchema",
-  "description": "Schema for open community geographic block data in Korea Digital Twin Project",
+  "title": "KoreaDigitalTwinBlockSchema_v1.2",
+  "description": "Comprehensive schema for open community geographic block data in Korea Digital Twin Project (Phases 1-8)",
   "type": "object",
   "required": [
     "block_code",
@@ -73,7 +73,7 @@
     },
     "tours": {
       "type": "array",
-      "description": "Recommended 3D virtual tour courses connecting landmarks",
+      "description": "Recommended 3D virtual tour courses connecting landmarks (Phase 3)",
       "items": {
         "type": "object",
         "required": ["tour_name", "order"],
@@ -87,7 +87,7 @@
     },
     "dining": {
       "type": "array",
-      "description": "Notable local heritage restaurants or culinary spots",
+      "description": "Notable local heritage restaurants or culinary spots (Phase 4)",
       "items": {
         "type": "object",
         "required": ["name", "lat", "lng", "specialty"],
@@ -98,6 +98,177 @@
           "specialty": { "type": "string" },
           "category": { "type": "string" }
         }
+      }
+    },
+    "transit_parking": {
+      "type": "object",
+      "description": "Public transit accessibility and public parking facilities (Phase 5)",
+      "properties": {
+        "nearest_transit": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["station_name", "walk_minutes"],
+            "properties": {
+              "target_landmark": { "type": "string" },
+              "station_name": { "type": "string" },
+              "line": { "type": "string" },
+              "exit_no": { "type": "number" },
+              "walk_minutes": { "type": "number" },
+              "coordinates": { "type": "array", "items": { "type": "number" } }
+            }
+          }
+        },
+        "public_parkings": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "coordinates"],
+            "properties": {
+              "name": { "type": "string" },
+              "coordinates": { "type": "array", "items": { "type": "number" } },
+              "capacity": { "type": "number" },
+              "fee_type": { "type": "string" },
+              "ev_charging": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    },
+    "safety_shelters": {
+      "type": "object",
+      "description": "Disaster emergency shelter infrastructure (Safety Layer)",
+      "properties": {
+        "earthquake_shelters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "coordinates"],
+            "properties": {
+              "name": { "type": "string" },
+              "coordinates": { "type": "array", "items": { "type": "number" } },
+              "capacity": { "type": "number" },
+              "address": { "type": "string" }
+            }
+          }
+        },
+        "flood_shelters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "coordinates"],
+            "properties": {
+              "name": { "type": "string" },
+              "coordinates": { "type": "array", "items": { "type": "number" } },
+              "address": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "accessibility": {
+      "type": "object",
+      "description": "Barrier-free navigation features for strollers and wheelchairs",
+      "properties": {
+        "barrier_free_spots": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["landmark_name"],
+            "properties": {
+              "landmark_name": { "type": "string" },
+              "elevator": { "type": "boolean" },
+              "wheelchair_ramp": { "type": "boolean" },
+              "accessible_restroom": { "type": "boolean" },
+              "braille_guide": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    },
+    "trails": {
+      "type": "object",
+      "description": "Walking and cycling trails with elevation profile",
+      "properties": {
+        "courses": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["trail_name", "distance_km"],
+            "properties": {
+              "trail_name": { "type": "string" },
+              "type": { "type": "string" },
+              "distance_km": { "type": "number" },
+              "elevation_gain_m": { "type": "number" },
+              "difficulty": { "type": "string" },
+              "waypoints": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    "seasonal_night": {
+      "type": "object",
+      "description": "Four-season signature spots and night viewpoints (Phase 6)",
+      "properties": {
+        "seasonal_picks": {
+          "type": "object",
+          "properties": {
+            "spring": { "type": "array", "items": { "type": "string" } },
+            "summer": { "type": "array", "items": { "type": "string" } },
+            "autumn": { "type": "array", "items": { "type": "string" } },
+            "winter": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "night_viewpoints": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "coordinates"],
+            "properties": {
+              "name": { "type": "string" },
+              "coordinates": { "type": "array", "items": { "type": "number" } },
+              "best_time": { "type": "string" },
+              "lighting_hours": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "live_cctv_weather": {
+      "type": "object",
+      "description": "Public CCTV live info links and weather grid codes (Phase 7)",
+      "properties": {
+        "cctv_links": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "coordinates", "stream_info_url"],
+            "properties": {
+              "name": { "type": "string" },
+              "coordinates": { "type": "array", "items": { "type": "number" } },
+              "agency": { "type": "string" },
+              "stream_info_url": { "type": "string", "format": "uri" }
+            }
+          }
+        },
+        "weather_grid": {
+          "type": "object",
+          "properties": {
+            "nx": { "type": "number" },
+            "ny": { "type": "number" },
+            "station_code": { "type": "string" }
+          }
+        }
+      }
+    },
+    "i18n": {
+      "type": "object",
+      "description": "Multilingual translations embedded per block (Phase 8: en, ja, zh)",
+      "properties": {
+        "en": { "type": "object" },
+        "ja": { "type": "object" },
+        "zh": { "type": "object" }
       }
     },
     "data_sources": {
