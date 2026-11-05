@@ -18,7 +18,13 @@
       "lng": 128.9973006,
       "category": "교통/철도",
       "description": "경부선의 구포역으로 북구 대표 철도 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%ED%8F%AC%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%ED%8F%AC%EC%97%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 37.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Busan_Gupo_train_station.jpg/1280px-Busan_Gupo_train_station.jpg"
     },
     {
       "name": "화명생태공원",
@@ -26,7 +32,13 @@
       "lng": 129.0054716,
       "category": "공원/생태",
       "description": "화명동에 조성된 대표 생태공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 113.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Busan_Buk-gu.svg/1280px-Busan_Buk-gu.svg.png"
     },
     {
       "name": "낙동강",
@@ -34,7 +46,13 @@
       "lng": 129.0007237,
       "category": "하천/자연",
       "description": "북구 서쪽 경계를 흐르는 대한민국 최대 강이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 40.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EB%82%99%EB%8F%99%EA%B0%95.jpg/1280px-%EB%82%99%EB%8F%99%EA%B0%95.jpg"
     },
     {
       "name": "덕천동 상권",
@@ -42,7 +60,13 @@
       "lng": 129.013,
       "category": "상권",
       "description": "덕천동에 형성된 북구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 16.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Busan_Buk-gu.svg/1280px-Busan_Buk-gu.svg.png"
     },
     {
       "name": "화명신도시",
@@ -50,7 +74,13 @@
       "lng": 129.0084153,
       "category": "신도시",
       "description": "화명동에 조성된 북구 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 59.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hwamyeong_station_sign_20180506_212045.jpg/1280px-Hwamyeong_station_sign_20180506_212045.jpg"
     }
   ],
   "history_summary": "부산 북구는 구포동과 화명동이 자리한 부산 북부의 주거 구로 낙동강과 금정산 사이에 있다.",
