@@ -107,6 +107,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "신포시장 닭강정골목",
+      "lat": 37.4705,
+      "lng": 126.6215,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "차이나타운 짬뽕집",
+      "lat": 37.473,
+      "lng": 126.604,
+      "specialty": "삼선짬뽕",
+      "category": "한식"
+    },
+    {
+      "name": "월미도 생선구이집",
+      "lat": 37.479,
+      "lng": 126.597,
+      "specialty": "갈치구이",
+      "category": "수산물"
+    },
+    {
+      "name": "신포 큰마당식당",
+      "lat": 37.470624,
+      "lng": 126.628675,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "인천 중구는 인천항 개항장과 차이나타운, 월미도가 자리한 인천의 원도심 관광 중심 구이다.",
   "data_sources": [
     {
