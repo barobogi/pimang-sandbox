@@ -1,0 +1,73 @@
+{
+  "block_code": "41480",
+  "block_name": "경기도 파주시",
+  "bbox": [
+    126.662618,
+    37.688632,
+    127.017132,
+    38.010215
+  ],
+  "center": [
+    37.849423,
+    126.839875
+  ],
+  "landmarks": [
+    {
+      "name": "임진각평화누리",
+      "lat": 37.9084,
+      "lng": 126.7437,
+      "category": "DMZ/관광",
+      "description": "임진강과 한탄강이 만나는 지점의 전망시설로 남북 분단 현실을 보여주는 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A7%84%EA%B0%81%ED%8F%89%ED%99%94%EB%88%84%EB%A6%AC"
+    },
+    {
+      "name": "도라전망대",
+      "lat": 37.9100817,
+      "lng": 126.705522,
+      "category": "DMZ/전망대",
+      "description": "북측 개성시와 도라산을 가장 가까이에서 볼 수 있는 DMZ 대표 전망시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80"
+    },
+    {
+      "name": "헤이리문화마을",
+      "lat": 37.765,
+      "lng": 126.742,
+      "category": "문화예술/마을",
+      "description": "옛 군 부지를 예술 마을로 재조성한 곳으로 건축·예술 체험이 가능한 문화 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%A3%BC%EC%8B%9C"
+    },
+    {
+      "name": "운정호수공원",
+      "lat": 37.7204682,
+      "lng": 126.7624876,
+      "category": "도시공원/호수",
+      "description": "운정신도시 중앙에 조성된 호수 공원으로 파주 대표 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%A0%95%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "감악산",
+      "lat": 37.9378418,
+      "lng": 126.9467765,
+      "category": "산/자연",
+      "description": "해발 688m의 파주 최고봉 산으로 계산읍 일대의 대표 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%95%85%EC%82%B0"
+    }
+  ],
+  "history_summary": "파주시는 조선 시대 파평 윤씨 집성촌과 근현대 군사 요충지였던 지역으로 임진각과 도라전망대 등 DMZ 관광 자원, 헤이리문화마을과 운정신도시가 함께 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
