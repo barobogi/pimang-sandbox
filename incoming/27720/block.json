@@ -18,7 +18,13 @@
       "lng": 128.63,
       "category": "사찰/문화유산",
       "description": "군위의 대표 사찰로 병암산 자락에 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 5.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "화수서원",
@@ -26,7 +32,13 @@
       "lng": 128.57,
       "category": "서원/문화유산",
       "description": "조선 시대 군위 지역의 대표 서원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 20.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "삼형제봉",
@@ -34,7 +46,13 @@
       "lng": 128.57,
       "category": "산/자연",
       "description": "군위의 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 36.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2025-10-30_14.36.31_gunwi.jpg/1280px-2025-10-30_14.36.31_gunwi.jpg"
     },
     {
       "name": "고정산성",
@@ -42,7 +60,13 @@
       "lng": 128.6,
       "category": "산성/문화유산",
       "description": "군위의 옛 산성 유적으로 유서 깊은 관방 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 12.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Korea-Myungbak_sanseong-01.jpg"
     },
     {
       "name": "군위문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 128.5737337,
       "category": "공연장/문화",
       "description": "군위 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 154.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%EA%B5%B0%EC%9C%84_%EB%8C%80%EC%9C%A8%EB%A6%AC_%EC%84%9D%EC%A1%B0%EC%97%AC%EB%9E%98%EC%9E%85%EC%83%81_01.jpg"
     }
   ],
   "history_summary": "대구 군위군은 2023년 경북에서 대구로 편입된 군으로 병암과 화수서원, 삼형제봉 등의 문화·자연 명소가 함께한 내륙 군이다.",
