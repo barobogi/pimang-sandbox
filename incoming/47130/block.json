@@ -18,7 +18,13 @@
       "lng": 129.3308902,
       "category": "사찰/유네스코",
       "description": "신라 시대 창건된 대표 사찰로 석가탑과 다보탑이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B5%AD%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B5%AD%EC%82%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 320.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg/1280px-Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg"
     },
     {
       "name": "석굴암",
@@ -26,7 +32,13 @@
       "lng": 129.3491954,
       "category": "석굴/유네스코",
       "description": "통일 신라 시대 대표 석굴 사원으로 본존불이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EA%B5%B4%EC%95%94"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EA%B5%B4%EC%95%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 311.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/1280px-Front_view_of_Seokguram_from_front_chamber.jpg"
     },
     {
       "name": "첨성대",
@@ -34,7 +46,13 @@
       "lng": 129.2189849,
       "category": "천문대/유네스코",
       "description": "동양 최고(最古)의 천문대로 알려진 신라 시대 석조 건축물이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A8%EC%84%B1%EB%8C%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A8%EC%84%B1%EB%8C%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 58.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Cheomseongdae-1.jpg/1280px-Cheomseongdae-1.jpg"
     },
     {
       "name": "동궁과 월지",
@@ -42,7 +60,13 @@
       "lng": 129.2264375,
       "category": "유적/야경",
       "description": "신라 시대 이궁 터로 월지 야경으로 유명한 대표 문화유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 53.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg/1280px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg"
     },
     {
       "name": "대릉원",
@@ -50,7 +74,13 @@
       "lng": 129.2119324,
       "category": "고분/유적",
       "description": "신라 왕릉들이 밀집한 고분 군락지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A6%89%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A6%89%EC%9B%90",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 66.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%EB%8C%80%EB%A6%89%EC%9B%90.jpg/1280px-%EB%8C%80%EB%A6%89%EC%9B%90.jpg"
     }
   ],
   "history_summary": "경주시는 신라 천년 고도로 불국사와 석굴암, 첨성대, 대릉원 등 유네스코 세계유산을 포함한 국내 최대 문화유산 도시다.",
