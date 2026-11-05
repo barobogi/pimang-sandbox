@@ -1,0 +1,73 @@
+{
+  "block_code": "47850",
+  "block_name": "경상북도 칠곡군",
+  "bbox": [
+    128.285208,
+    35.886474,
+    128.641339,
+    36.125898
+  ],
+  "center": [
+    36.006186,
+    128.463273
+  ],
+  "landmarks": [
+    {
+      "name": "가실성당",
+      "lat": 36.0061862,
+      "lng": 128.46327315000002,
+      "category": "종교/문화유산",
+      "description": "가실성당은(는) 경상북도 칠곡군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8B%A4%EC%84%B1%EB%8B%B9"
+    },
+    {
+      "name": "유학산",
+      "lat": 36.06585,
+      "lng": 128.5041111,
+      "category": "산/자연",
+      "description": "유학산은(는) 경상북도 칠곡군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0"
+    },
+    {
+      "name": "칠곡군청",
+      "lat": 35.9955834,
+      "lng": 128.4017635,
+      "category": "행정/랜드마크",
+      "description": "칠곡군청은(는) 경상북도 칠곡군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "칠곡시장",
+      "lat": 35.9431702,
+      "lng": 128.5506488,
+      "category": "시장/먹거리",
+      "description": "칠곡시장은(는) 경상북도 칠곡군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0"
+    },
+    {
+      "name": "낙동강",
+      "lat": 35.9980457,
+      "lng": 128.3927346,
+      "category": "하천/자연",
+      "description": "낙동강은(는) 경상북도 칠곡군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+    }
+  ],
+  "history_summary": "칠곡군은 가실성당과 유학산, 낙동강이 자리한 경북 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
