@@ -1,0 +1,73 @@
+{
+  "block_code": "42780",
+  "block_name": "강원특별자치도 철원군",
+  "bbox": [
+    127.095937,
+    38.089768,
+    127.888468,
+    38.348858
+  ],
+  "center": [
+    38.219313,
+    127.492202
+  ],
+  "landmarks": [
+    {
+      "name": "노동당사",
+      "lat": 38.2390341,
+      "lng": 127.2060309,
+      "category": "역사/유적",
+      "description": "노동당사은(는) 강원특별자치도 철원군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0"
+    },
+    {
+      "name": "한탄강",
+      "lat": 38.1908248,
+      "lng": 127.2857743,
+      "category": "하천/자연",
+      "description": "한탄강은(는) 강원특별자치도 철원군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95"
+    },
+    {
+      "name": "철원평야",
+      "lat": 38.21931345,
+      "lng": 127.49220224999999,
+      "category": "평야/자연",
+      "description": "철원평야은(는) 강원특별자치도 철원군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0"
+    },
+    {
+      "name": "철원군청",
+      "lat": 38.1467639,
+      "lng": 127.3133902,
+      "category": "행정/랜드마크",
+      "description": "철원군청은(는) 강원특별자치도 철원군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EC%9B%90%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "고석정",
+      "lat": 38.1848963,
+      "lng": 127.2878604,
+      "category": "경승지/자연",
+      "description": "고석정은(는) 강원특별자치도 철원군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%9D%EC%A0%95"
+    }
+  ],
+  "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
