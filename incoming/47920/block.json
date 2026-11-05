@@ -18,7 +18,13 @@
       "lng": 128.9308978,
       "category": "산/자연",
       "description": "청량산은(는) 경상북도 봉화군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%9F%89%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%9F%89%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 352.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg"
     },
     {
       "name": "닭실마을",
@@ -26,7 +32,13 @@
       "lng": 128.7440523,
       "category": "마을/전통",
       "description": "닭실마을은(는) 경상북도 봉화군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 81.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
     },
     {
       "name": "봉화군청",
@@ -34,23 +46,41 @@
       "lng": 128.732492,
       "category": "행정/랜드마크",
       "description": "봉화군청은(는) 경상북도 봉화군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 77.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
     },
     {
       "name": "봉화시장",
-      "lat": 36.92375895,
-      "lng": 128.91198020000002,
+      "lat": 36.8904136,
+      "lng": 128.7358787,
       "category": "시장/먹거리",
       "description": "봉화시장은(는) 경상북도 봉화군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 76.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
     },
     {
       "name": "봉화은어축제장",
-      "lat": 36.92375895,
-      "lng": 128.91198020000002,
+      "lat": 36.8903211,
+      "lng": 128.7379105,
       "category": "축제/관광",
       "description": "봉화은어축제장은(는) 경상북도 봉화군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 76.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
     }
   ],
   "history_summary": "봉화군은 청량산과 봉화은어축제, 닭실마을이 자리한 경북 북부의 군이다.",
