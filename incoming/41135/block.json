@@ -18,7 +18,13 @@
       "lng": 127.1055812,
       "category": "산업/IT",
       "description": "국내 최대 IT 기업 밀집 단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%90%EA%B5%90%ED%85%8C%ED%81%AC%EB%85%B8%EB%B0%B8%EB%A6%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%90%EA%B5%90%ED%85%8C%ED%81%AC%EB%85%B8%EB%B0%B8%EB%A6%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 185.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20240907_%EC%8B%A0%EB%B6%84%EB%8B%B9%EC%84%A0_%ED%8C%90%EA%B5%90%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20240907_%EC%8B%A0%EB%B6%84%EB%8B%B9%EC%84%A0_%ED%8C%90%EA%B5%90%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     },
     {
       "name": "정자동 상권",
@@ -26,7 +32,13 @@
       "lng": 127.108,
       "category": "상권",
       "description": "성남 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 339.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundang-gu_office.JPG/1280px-Bundang-gu_office.JPG"
     },
     {
       "name": "야탑역 상권",
@@ -34,7 +46,13 @@
       "lng": 127.13,
       "category": "상권",
       "description": "야탑역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 213.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundang-gu_office.JPG/1280px-Bundang-gu_office.JPG"
     },
     {
       "name": "분당중앙공원",
@@ -42,7 +60,13 @@
       "lng": 127.1235347,
       "category": "도시공원",
       "description": "분당 신도시 중앙의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 275.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_%283%29.jpg/1280px-%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_%283%29.jpg"
     },
     {
       "name": "수내공원",
@@ -50,7 +74,13 @@
       "lng": 127.1304844,
       "category": "공원",
       "description": "수내동의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%84%EB%8B%B9%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 289.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/20260707_%EC%88%98%EB%82%B4%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20260707_%EC%88%98%EB%82%B4%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     }
   ],
   "history_summary": "성남 분당구는 분당신도시와 판교테크노밸리, 정자동 상권이 함께한 성남 동부의 구이다.",
