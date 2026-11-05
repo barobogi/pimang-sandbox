@@ -1,0 +1,73 @@
+{
+  "block_code": "46870",
+  "block_name": "전라남도 영광군",
+  "bbox": [
+    125.674258,
+    35.158232,
+    126.644799,
+    35.54755
+  ],
+  "center": [
+    35.352891,
+    126.159528
+  ],
+  "landmarks": [
+    {
+      "name": "불갑사",
+      "lat": 35.2010964,
+      "lng": 126.5493743,
+      "category": "사찰/문화유산",
+      "description": "불갑사은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B0%91%EC%82%AC"
+    },
+    {
+      "name": "법성포",
+      "lat": 35.35289085,
+      "lng": 126.1595283,
+      "category": "항구/특산물",
+      "description": "법성포은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%84%B1%ED%8F%AC"
+    },
+    {
+      "name": "백수해안도로",
+      "lat": 35.35289085,
+      "lng": 126.1595283,
+      "category": "해안/드라이브",
+      "description": "백수해안도로은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0"
+    },
+    {
+      "name": "영광군청",
+      "lat": 35.2772832,
+      "lng": 126.5120449,
+      "category": "행정/랜드마크",
+      "description": "영광군청은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "영광시장",
+      "lat": 35.35289085,
+      "lng": 126.1595283,
+      "category": "시장/먹거리",
+      "description": "영광시장은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0"
+    }
+  ],
+  "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
