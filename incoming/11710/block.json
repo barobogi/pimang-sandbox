@@ -18,7 +18,13 @@
       "lng": 127.102679,
       "category": "초고층/전망대",
       "description": "해발 555m의 대한민국 최고층 랜드마크다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 127.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lotte_World_morning_view_8.jpg/1280px-Lotte_World_morning_view_8.jpg"
     },
     {
       "name": "석촌호수",
@@ -26,7 +32,13 @@
       "lng": 127.1040775,
       "category": "호수/공원",
       "description": "잠실 도심 속 대표 호수 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EC%B4%8C%ED%98%B8%EC%88%98"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EC%B4%8C%ED%98%B8%EC%88%98",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 120.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%84%9D%EC%B4%8C_%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%281%29.jpg/1280px-%EC%84%9D%EC%B4%8C_%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%281%29.jpg"
     },
     {
       "name": "몽촌토성",
@@ -34,7 +46,13 @@
       "lng": 127.1126879,
       "category": "유적/문화유산",
       "description": "백제 한성 시대의 토성 유적으로 사적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%BD%EC%B4%8C%ED%86%A0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%BD%EC%B4%8C%ED%86%A0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 174.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/MongchonSoilCastle.jpg/1280px-MongchonSoilCastle.jpg"
     },
     {
       "name": "롯데월드 어드벤처",
@@ -42,7 +60,13 @@
       "lng": 127.0981905,
       "category": "테마파크",
       "description": "실내 테마파크의 대표 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C_%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C_%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 113.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Khitai7.jpg/1280px-Khitai7.jpg"
     },
     {
       "name": "송리단길",
@@ -50,7 +74,13 @@
       "lng": 127.1103285,
       "category": "문화/거리",
       "description": "신천동의 대표 카페·먹거리 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%ED%8C%8C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%ED%8C%8C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 141.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%EC%A0%84%EC%A3%BC%EC%98%81%ED%99%94%EC%9D%98%EA%B1%B0%EB%A6%AC.jpg/1280px-%EC%A0%84%EC%A3%BC%EC%98%81%ED%99%94%EC%9D%98%EA%B1%B0%EB%A6%AC.jpg"
     }
   ],
   "history_summary": "송파구는 롯데월드타워와 석촌호수, 몽촌토성이 함께한 서울 남동부 대표 자치구이다.",
