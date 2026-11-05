@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gyeryong_City_Hall.JPG/1280px-Gyeryong_City_Hall.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "계룡 도심 하이라이트 시그니처 스카이 투어",
+      "description": "계룡시청 → 계룡문화예술의전당 → 계룡시장 → 계룡대 → 계룡산 순으로 이어지는 충청남도 계룡시의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "계룡시청",
+        "계룡문화예술의전당",
+        "계룡시장",
+        "계룡대",
+        "계룡산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "계룡 도심 스카이라인 크루즈",
+      "description": "계룡대 → 계룡시청 → 계룡시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 계룡의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "계룡대",
+        "계룡시청",
+        "계룡시장"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "계룡시는 대한민국 국군의 3군 본부가 자리한 군사 도시로 계룡산 자락의 계획 도시이다.",
   "data_sources": [
     {
