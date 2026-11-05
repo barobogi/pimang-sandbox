@@ -1,0 +1,73 @@
+{
+  "block_code": "27140",
+  "block_name": "대구광역시 동구",
+  "bbox": [
+    128.603783,
+    35.851193,
+    128.762398,
+    36.016493
+  ],
+  "center": [
+    35.933843,
+    128.683091
+  ],
+  "landmarks": [
+    {
+      "name": "팔공산",
+      "lat": 35.9720217,
+      "lng": 128.7264214,
+      "category": "산/자연",
+      "description": "대구의 북쪽을 병풍처럼 둘러싼 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EA%B3%B5%EC%82%B0"
+    },
+    {
+      "name": "동화사",
+      "lat": 35.9927132,
+      "lng": 128.7047054,
+      "category": "사찰/문화유산",
+      "description": "신라 시대 창건된 팔공산 대표 사찰로 비로암과 관봉이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%99%94%EC%82%AC"
+    },
+    {
+      "name": "동촌유원지",
+      "lat": 35.888,
+      "lng": 128.725,
+      "category": "유원지/공원",
+      "description": "금호강 변의 대표 유원지로 여름철 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%B4%8C%EC%9C%A0%EC%9B%90%EC%A7%80"
+    },
+    {
+      "name": "대구오페라하우스",
+      "lat": 35.89,
+      "lng": 128.755,
+      "category": "공연장/문화",
+      "description": "신서동에 조성된 대형 오페라 전문 공연장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "아양교",
+      "lat": 35.8887326,
+      "lng": 128.6416223,
+      "category": "교통/문화",
+      "description": "동구 도심의 대표 교차로로 상권의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "대구 동구는 팔공산과 동화사, 동촌유원지, 대구오페라하우스가 자리한 대구 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
