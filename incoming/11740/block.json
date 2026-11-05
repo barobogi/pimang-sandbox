@@ -18,7 +18,13 @@
       "lng": 127.076,
       "category": "유적/선사",
       "description": "신석기 시대 집터가 보존된 대표 선사 유적지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%94%EC%82%AC%EB%8F%99_%EC%84%A0%EC%82%AC%EC%A3%BC%EA%B1%B0%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%94%EC%82%AC%EB%8F%99_%EC%84%A0%EC%82%AC%EC%A3%BC%EA%B1%B0%EC%A7%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 101.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%97%AD%EC%82%BC%EB%8F%99_%EC%A3%BC%EA%B1%B0%EC%A7%80_%EC%B6%9C%ED%86%A0_%EB%AC%B4%EB%AC%B8%ED%86%A0%EA%B8%B0.jpg/1280px-%EC%97%AD%EC%82%BC%EB%8F%99_%EC%A3%BC%EA%B1%B0%EC%A7%80_%EC%B6%9C%ED%86%A0_%EB%AC%B4%EB%AC%B8%ED%86%A0%EA%B8%B0.jpg"
     },
     {
       "name": "천호역 상권",
@@ -26,7 +32,13 @@
       "lng": 127.054,
       "category": "상권",
       "description": "강동구 최대 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 79.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gangdong-gu_Office_20241102_002.jpg/1280px-Gangdong-gu_Office_20241102_002.jpg"
     },
     {
       "name": "고덕공원",
@@ -34,7 +46,13 @@
       "lng": 127.09,
       "category": "공원",
       "description": "고덕동 일대의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 111.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Godeok_1%28il%29-dong_Community_Service_Center_20151111_160413.jpg/1280px-Godeok_1%28il%29-dong_Community_Service_Center_20151111_160413.jpg"
     },
     {
       "name": "고덕한강공원",
@@ -42,7 +60,13 @@
       "lng": 127.097,
       "category": "한강공원",
       "description": "고덕동 수변의 한강 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 99.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Han_River_aerial_view.jpg"
     },
     {
       "name": "길동공원",
@@ -50,7 +74,13 @@
       "lng": 127.1517334,
       "category": "공원",
       "description": "길동 일대의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 281.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gil-dong_Community_Service_Center_20140621_185538.jpg/1280px-Gil-dong_Community_Service_Center_20140621_185538.jpg"
     }
   ],
   "history_summary": "강동구는 천호동 상권과 암사동 선사 유적이 함께한 서울 동남부 자치구이다.",
