@@ -18,7 +18,12 @@
       "lng": 127.09,
       "category": "카페/문화",
       "description": "용인의 대표 카페 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 149.8
+      }
     },
     {
       "name": "신갈지구",
@@ -26,7 +31,13 @@
       "lng": 127.114,
       "category": "신도시",
       "description": "기흥구의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 163.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Q46209_Singal_A01.JPG/1280px-Q46209_Singal_A01.JPG"
     },
     {
       "name": "기흥역 상권",
@@ -34,7 +45,13 @@
       "lng": 127.128,
       "category": "상권",
       "description": "기흥역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 231.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Q16273_Giheung_A01.JPG/1280px-Q16273_Giheung_A01.JPG"
     },
     {
       "name": "동백지구",
@@ -42,7 +59,13 @@
       "lng": 127.129,
       "category": "신도시",
       "description": "용인의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 186.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Giheung-gu_office.JPG/1280px-Giheung-gu_office.JPG"
     },
     {
       "name": "기흥동 상권",
@@ -50,7 +73,13 @@
       "lng": 127.126,
       "category": "상권",
       "description": "기흥동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 204.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Giheung-gu_office.JPG/1280px-Giheung-gu_office.JPG"
     }
   ],
   "history_summary": "용인 기흥구는 보정동 카페거리와 신갈지구가 함께한 용인 중부의 구이다.",
