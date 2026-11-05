@@ -1,0 +1,73 @@
+{
+  "block_code": "31710",
+  "block_name": "울산광역시 울주군",
+  "bbox": [
+    128.970735,
+    35.186171,
+    129.60721,
+    35.72449
+  ],
+  "center": [
+    35.45533,
+    129.288973
+  ],
+  "landmarks": [
+    {
+      "name": "대곡천암각화",
+      "lat": 35.63,
+      "lng": 129.26,
+      "category": "유네스코/문화유산",
+      "description": "반구대와 함께 유네스코 세계유산으로 등재된 선사시대 암각화 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "천전리각사",
+      "lat": 35.64,
+      "lng": 129.27,
+      "category": "유네스코/문화유산",
+      "description": "신라 시대 각사 유적으로 세계유산 반구대 지구에 속한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "간절감",
+      "lat": 35.5,
+      "lng": 129.233,
+      "category": "해양/관광",
+      "description": "간절목 일대 해안 조약돌 명소로 낚시와 드라이브 코스로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "언양 자수정 동굴나라",
+      "lat": 35.548,
+      "lng": 129.19,
+      "category": "동굴/테마",
+      "description": "자수정 광산 폐갱도를 활용해 조성한 국내 최초의 인공동굴 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "온산항",
+      "lat": 35.43,
+      "lng": 129.31,
+      "category": "항구/어촌",
+      "description": "온산 지역의 대표 어항으로 어시장이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+    }
+  ],
+  "history_summary": "울주군은 울산 서부의 광역 군으로 대곡천 반구대 암각화 등 유네스코 세계유산과 간절감, 언양 자수정 동굴나라 등 해양·내륙 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
