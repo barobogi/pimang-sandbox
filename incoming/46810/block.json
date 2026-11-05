@@ -1,0 +1,73 @@
+{
+  "block_code": "46810",
+  "block_name": "전라남도 강진군",
+  "bbox": [
+    126.657643,
+    34.443867,
+    126.886039,
+    34.786457
+  ],
+  "center": [
+    34.615162,
+    126.771841
+  ],
+  "landmarks": [
+    {
+      "name": "다산초당",
+      "lat": 34.5807765,
+      "lng": 126.7450377,
+      "category": "유적/역사",
+      "description": "다산초당은(는) 전라남도 강진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%82%B0%EC%B4%88%EB%8B%B9"
+    },
+    {
+      "name": "백련사",
+      "lat": 34.5878056,
+      "lng": 126.7477434,
+      "category": "사찰/문화유산",
+      "description": "백련사은(는) 전라남도 강진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%A8%EC%82%AC"
+    },
+    {
+      "name": "강진만",
+      "lat": 34.615161900000004,
+      "lng": 126.77184105,
+      "category": "해양/자연",
+      "description": "강진만은(는) 전라남도 강진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EB%A7%8C"
+    },
+    {
+      "name": "강진군청",
+      "lat": 34.6419723,
+      "lng": 126.7670106,
+      "category": "행정/랜드마크",
+      "description": "강진군청은(는) 전라남도 강진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "강진시장",
+      "lat": 34.615161900000004,
+      "lng": 126.77184105,
+      "category": "시장/먹거리",
+      "description": "강진시장은(는) 전라남도 강진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EA%B5%B0"
+    }
+  ],
+  "history_summary": "강진군은 다산 초당과 백련사, 강진만 갯벌이 자리한 전남 남해안의 역사 문화 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
