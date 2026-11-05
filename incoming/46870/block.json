@@ -18,15 +18,27 @@
       "lng": 126.5493743,
       "category": "사찰/문화유산",
       "description": "불갑사은(는) 전라남도 영광군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B0%91%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B0%91%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 295.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "법성포",
-      "lat": 35.35289085,
-      "lng": 126.1595283,
+      "lat": 35.3613503,
+      "lng": 126.4398866,
       "category": "항구/특산물",
       "description": "법성포은(는) 전라남도 영광군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%84%B1%ED%8F%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%84%B1%ED%8F%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 268.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg"
     },
     {
       "name": "백수해안 전망대",
@@ -34,7 +46,12 @@
       "lng": 126.3787146,
       "category": "해안/드라이브",
       "description": "백수해안도로은(는) 전라남도 영광군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 279.3
+      }
     },
     {
       "name": "영광군청",
@@ -42,15 +59,26 @@
       "lng": 126.5120449,
       "category": "행정/랜드마크",
       "description": "영광군청은(는) 전라남도 영광군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 284.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD.jpg/1280px-%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD.jpg"
     },
     {
       "name": "영광시장",
-      "lat": 35.35289085,
-      "lng": 126.1595283,
+      "lat": 35.2757725,
+      "lng": 126.5030095,
       "category": "시장/먹거리",
       "description": "영광시장은(는) 전라남도 영광군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 285.5
+      }
     }
   ],
   "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
