@@ -18,7 +18,13 @@
       "lng": 126.955,
       "category": "상권",
       "description": "동안구의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 0.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pyeongchon_station_nameplate.jpg/1280px-Pyeongchon_station_nameplate.jpg"
     },
     {
       "name": "관양동 상권",
@@ -26,7 +32,13 @@
       "lng": 126.95,
       "category": "상권",
       "description": "관양동에 형성된 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 23.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Dongan-gu_office%2C_Anyang.JPG/1280px-Dongan-gu_office%2C_Anyang.JPG"
     },
     {
       "name": "호계동 상권",
@@ -34,7 +46,13 @@
       "lng": 126.96,
       "category": "상권",
       "description": "호계동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 300.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hogye_1-dong_Community_Service_Center.jpg/1280px-Hogye_1-dong_Community_Service_Center.jpg"
     },
     {
       "name": "평촌중앙공원",
@@ -42,7 +60,13 @@
       "lng": 126.9591608,
       "category": "공원",
       "description": "평촌신도시 중앙의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 344.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%ED%8F%89%EC%B4%8C%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_2025_%EA%B0%80%EC%9D%84%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "비산공원",
@@ -50,7 +74,13 @@
       "lng": 126.95,
       "category": "공원",
       "description": "동안구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 33.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Dongan-gu_office%2C_Anyang.JPG/1280px-Dongan-gu_office%2C_Anyang.JPG"
     }
   ],
   "history_summary": "안양 동안구는 평촌신도시 상권이 자리한 안양 동부의 구이다.",
