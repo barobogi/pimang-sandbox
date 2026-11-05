@@ -18,7 +18,13 @@
       "lng": 128.3438889,
       "category": "경승지/자연",
       "description": "도담삼봉은(는) 충청북도 단양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 105.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG"
     },
     {
       "name": "구인사",
@@ -26,7 +32,13 @@
       "lng": 128.4796611,
       "category": "사찰/문화유산",
       "description": "구인사은(는) 충청북도 단양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%9D%B8%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%9D%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 214.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Korea-Danyang-Guinsa_Nestled_in_the_Valley_3027-07.JPG"
     },
     {
       "name": "고수동굴",
@@ -34,7 +46,13 @@
       "lng": 128.3816317,
       "category": "동굴/자연",
       "description": "고수동굴은(는) 충청북도 단양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 102.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/1280px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg"
     },
     {
       "name": "단양군청",
@@ -42,7 +60,13 @@
       "lng": 128.3655536,
       "category": "행정/랜드마크",
       "description": "단양군청은(는) 충청북도 단양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 95.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Danyang-gun_office.JPG/1280px-Danyang-gun_office.JPG"
     },
     {
       "name": "단양시장",
@@ -50,7 +74,13 @@
       "lng": 128.43461035,
       "category": "시장/먹거리",
       "description": "단양시장은(는) 충청북도 단양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 330.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Danyang-gun_office.JPG/1280px-Danyang-gun_office.JPG"
     }
   ],
   "history_summary": "단양군은 도담삼봉과 구인사, 고수동굴이 자리한 충북 북부 남한강 유역의 대표 관광 군이다.",
