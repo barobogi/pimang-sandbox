@@ -1,0 +1,73 @@
+{
+  "block_code": "28177",
+  "block_name": "인천광역시 미추홀구",
+  "bbox": [
+    126.629047,
+    37.429981,
+    126.883,
+    37.48407
+  ],
+  "center": [
+    37.457026,
+    126.756023
+  ],
+  "landmarks": [
+    {
+      "name": "문학산",
+      "lat": 37.4315378,
+      "lng": 126.6770862,
+      "category": "산/자연",
+      "description": "미추홀구 문학동에 있는 해발 295m의 산으로 등산로와 산책로가 조성된 주민 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%95%99%EC%82%B0"
+    },
+    {
+      "name": "인천SSG랜더스필드",
+      "lat": 37.4368743,
+      "lng": 126.6934004,
+      "category": "체육/야구",
+      "description": "문학동에 위치한 프로야구 인천의 홈구장으로 대형 스포츠 랜드마크다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9CSSG%EB%9E%9C%EB%8D%94%EC%8A%A4%ED%95%84%EB%93%9C"
+    },
+    {
+      "name": "인하대학교",
+      "lat": 37.4494431,
+      "lng": 126.6534446,
+      "category": "교육/캠퍼스",
+      "description": "용현동에 위치한 사립 종합대학으로 항공·조선 분야로 유명한 인천 대표 명문대다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "주안역",
+      "lat": 37.4633304,
+      "lng": 126.6804067,
+      "category": "교통/허브",
+      "description": "인천 지하철 1호선과 수도권 전철 1호선이 환승하는 서부 인천의 교통 요충지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%95%88%EC%97%AD"
+    },
+    {
+      "name": "주안 로데오거리",
+      "lat": 37.451,
+      "lng": 126.883,
+      "category": "상권/문화",
+      "description": "주안역 남쪽에 형성된 청년 상권 거리로 음식점과 카페가 밀집한 먹거리 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC"
+    }
+  ],
+  "history_summary": "미추홀구는 2018년 남구에서 개편된 인천의 자치구로 옛 백제 미추홀 도성 유래 이름을 쓰며 주안과 숭의·용현 상권, 문학산과 인천 문학경기장이 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
