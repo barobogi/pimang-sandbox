@@ -81,6 +81,40 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gyeongnam_Goseong-gun_office.JPG/1280px-Gyeongnam_Goseong-gun_office.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "고성 역사·문화 시그니처 스카이 트레일",
+      "description": "고성시장 → 고성군청 → 당항포 → 고성공룡박물관 → 상족암 순으로 이어지는 경상남도 고성군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "고성시장",
+        "고성군청",
+        "당항포",
+        "고성공룡박물관",
+        "상족암"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "고성 역사문화 스카이 트레일",
+      "description": "고성공룡박물관 → 상족암 → 고성군청 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 고성의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "고성공룡박물관",
+        "상족암",
+        "고성군청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "고성 해안 절경 드론 플라이트",
+      "description": "상족암 → 고성공룡박물관 → 당항포 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 고성의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "상족암",
+        "고성공룡박물관",
+        "당항포"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
   "history_summary": "고성군은 상족암과 공룡박물관, 당항포가 자리한 경남 남해안의 군이다.",
   "data_sources": [
     {
