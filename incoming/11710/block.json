@@ -1,0 +1,73 @@
+{
+  "block_code": "11710",
+  "block_name": "서울특별시 송파구",
+  "bbox": [
+    127.066592,
+    37.467012,
+    127.161509,
+    37.544033
+  ],
+  "center": [
+    37.505523,
+    127.11405
+  ],
+  "landmarks": [
+    {
+      "name": "롯데월드타워",
+      "lat": 37.5125537,
+      "lng": 127.102679,
+      "category": "초고층/전망대",
+      "description": "해발 555m의 대한민국 최고층 랜드마크다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C"
+    },
+    {
+      "name": "석촌호수",
+      "lat": 37.5100884,
+      "lng": 127.1040775,
+      "category": "호수/공원",
+      "description": "잠실 도심 속 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EC%B4%8C%ED%98%B8%EC%88%98"
+    },
+    {
+      "name": "몽촌토성",
+      "lat": 37.5174716,
+      "lng": 127.1126879,
+      "category": "유적/문화유산",
+      "description": "백제 한성 시대의 토성 유적으로 사적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%BD%EC%B4%8C%ED%86%A0%EC%84%B1"
+    },
+    {
+      "name": "롯데월드 어드벤처",
+      "lat": 37.5110774,
+      "lng": 127.0981905,
+      "category": "테마파크",
+      "description": "실내 테마파크의 대표 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C_%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98"
+    },
+    {
+      "name": "송리단길",
+      "lat": 37.5092302,
+      "lng": 127.1103285,
+      "category": "문화/거리",
+      "description": "신천동의 대표 카페·먹거리 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%ED%8C%8C%EA%B5%AC"
+    }
+  ],
+  "history_summary": "송파구는 롯데월드타워와 석촌호수, 몽촌토성이 함께한 서울 남동부 대표 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
