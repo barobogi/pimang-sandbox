@@ -115,6 +115,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "영암 본점",
+      "lat": 34.801526,
+      "lng": 126.607438,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "영암 옛맛식당",
+      "lat": 34.802366,
+      "lng": 126.607298,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "영암 할매집",
+      "lat": 34.802086,
+      "lng": 126.608208,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "영암 솥뚜껑가게",
+      "lat": 34.801806,
+      "lng": 126.608208,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "영암군은 월출산과 도갑사, 영산호가 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
