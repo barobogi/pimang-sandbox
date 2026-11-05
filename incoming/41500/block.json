@@ -18,7 +18,13 @@
       "lng": 127.425768,
       "category": "공원/경승지",
       "description": "이천의 진산 설봉산 자락의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EB%B4%89%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EB%B4%89%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 148.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%281%29.jpg/1280px-%EC%84%A4%EB%B4%89%EA%B3%B5%EC%9B%90_%281%29.jpg"
     },
     {
       "name": "이천도자기마을",
@@ -26,7 +32,13 @@
       "lng": 127.478,
       "category": "문화/체험",
       "description": "도자기의 고장 이천의 대표 체험 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 176.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%EC%9D%B4%EC%B2%9C_%EB%8F%84%EC%9E%90%EA%B8%B0_%EC%B6%95%EC%A0%9C_%287%29.jpg/1280px-%EC%9D%B4%EC%B2%9C_%EB%8F%84%EC%9E%90%EA%B8%B0_%EC%B6%95%EC%A0%9C_%287%29.jpg"
     },
     {
       "name": "복하천",
@@ -34,7 +46,13 @@
       "lng": 127.4499711,
       "category": "하천/자연",
       "description": "이천을 지나는 대표 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 154.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Icheon_City_Hall.JPG/1280px-Icheon_City_Hall.JPG"
     },
     {
       "name": "이천역 상권",
@@ -42,7 +60,13 @@
       "lng": 127.442,
       "category": "상권",
       "description": "이천역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 141.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dongincheon_Station.JPG/1280px-Dongincheon_Station.JPG"
     },
     {
       "name": "이천시청",
@@ -50,7 +74,13 @@
       "lng": 127.4350167,
       "category": "행정/랜드마크",
       "description": "이천시의 행정 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 151.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Icheon_City_Hall.JPG/1280px-Icheon_City_Hall.JPG"
     }
   ],
   "history_summary": "이천시는 이천쌀과 도자기로 유명한 경기 동부의 도시이며 설봉산이 대표 명소다.",
