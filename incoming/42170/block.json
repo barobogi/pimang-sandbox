@@ -18,7 +18,13 @@
       "lng": 129.0225436,
       "category": "계곡/관광",
       "description": "무릉계곡은(는) 강원특별자치도 동해시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A6%89%EA%B3%84%EA%B3%A1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 38.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Samhwasa_and_murung_velley.jpg/1280px-Samhwasa_and_murung_velley.jpg"
     },
     {
       "name": "천곡천연동굴",
@@ -26,7 +32,13 @@
       "lng": 129.1101636,
       "category": "동굴/자연",
       "description": "천곡천연동굴은(는) 강원특별자치도 동해시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%95%B4%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 26.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/CGC-CEp1.jpg/1280px-CGC-CEp1.jpg"
     },
     {
       "name": "추암촛대바위",
@@ -34,7 +46,13 @@
       "lng": 129.1599545,
       "category": "해안/자연",
       "description": "추암촛대바위은(는) 강원특별자치도 동해시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%94%EC%95%94%EC%B4%9B%EB%8C%80%EB%B0%94%EC%9C%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%94%EC%95%94%EC%B4%9B%EB%8C%80%EB%B0%94%EC%9C%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 1.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%B6%94%EC%95%94%EC%B4%9B%EB%8C%80%EB%B0%94%EC%9C%84_2.jpg/1280px-%EC%B6%94%EC%95%94%EC%B4%9B%EB%8C%80%EB%B0%94%EC%9C%84_2.jpg"
     },
     {
       "name": "동해시청",
@@ -42,7 +60,13 @@
       "lng": 129.114492,
       "category": "행정/랜드마크",
       "description": "동해시청은(는) 강원특별자치도 동해시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%95%B4%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%95%B4%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 26.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%EB%8F%99%ED%95%B4152%EB%B2%88_1057%ED%98%B8.png/1280px-%EB%8F%99%ED%95%B4152%EB%B2%88_1057%ED%98%B8.png"
     },
     {
       "name": "묵호항",
@@ -50,7 +74,13 @@
       "lng": 129.112032,
       "category": "항구/어촌",
       "description": "묵호항은(는) 강원특별자치도 동해시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B5%ED%98%B8%ED%95%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B5%ED%98%B8%ED%95%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 32.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Korail_Mukhohang_Line_Mukhohang_Station.jpg"
     }
   ],
   "history_summary": "동해시는 동해안 무릉계곡과 천곡천연동굴, 추암촛대바위가 자리한 강원 영동의 해안 도시이다.",
