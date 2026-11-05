@@ -117,6 +117,29 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "장수 가마솥밥가",
+      "lat": 35.648964,
+      "lng": 127.518375,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "장수 큰마당식당",
+      "lat": 35.649244,
+      "lng": 127.518235,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "장수 골목식당",
+      "lat": 35.649454,
+      "lng": 127.517185,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "장수군은 장안산과 논개 생가, 장수오미자로 유명한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
