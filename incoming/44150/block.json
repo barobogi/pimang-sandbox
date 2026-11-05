@@ -1,0 +1,73 @@
+{
+  "block_code": "44150",
+  "block_name": "충청남도 공주시",
+  "bbox": [
+    126.884196,
+    36.275149,
+    127.282319,
+    36.679432
+  ],
+  "center": [
+    36.477291,
+    127.083258
+  ],
+  "landmarks": [
+    {
+      "name": "공산성",
+      "lat": 36.4627199,
+      "lng": 127.1271784,
+      "category": "유네스코/성곽",
+      "description": "공산성은(는) 충청남도 공주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%82%B0%EC%84%B1"
+    },
+    {
+      "name": "무령왕릉",
+      "lat": 36.4621427,
+      "lng": 127.11394,
+      "category": "유네스코/왕릉",
+      "description": "무령왕릉은(는) 충청남도 공주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89"
+    },
+    {
+      "name": "마곡사",
+      "lat": 36.5581751,
+      "lng": 127.0125524,
+      "category": "사찰/문화유산",
+      "description": "마곡사은(는) 충청남도 공주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B3%A1%EC%82%AC"
+    },
+    {
+      "name": "공주시청",
+      "lat": 36.4467875,
+      "lng": 127.1191109,
+      "category": "행정/랜드마크",
+      "description": "공주시청은(는) 충청남도 공주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "공주시장",
+      "lat": 36.47729065,
+      "lng": 127.08325780000001,
+      "category": "시장/먹거리",
+      "description": "공주시장은(는) 충청남도 공주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%9E%A5"
+    }
+  ],
+  "history_summary": "공주시는 백제 웅진 도읍이었던 유서 깊은 도시로 공산성과 무령왕릉, 마곡사가 유네스코 세계유산으로 등재되어 있다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
