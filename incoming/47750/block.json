@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "청송 본점",
+      "lat": 36.435894,
+      "lng": 129.05364,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "청송 솥뚜껑가게",
+      "lat": 36.435894,
+      "lng": 129.05252,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "청송 동네밥집",
+      "lat": 36.435964,
+      "lng": 129.05315,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "청송군은 주왕산과 주산지, 청송사과로 유명한 경북 동부의 군이다.",
   "data_sources": [
     {
