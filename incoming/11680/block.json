@@ -1,0 +1,73 @@
+{
+  "block_code": "11680",
+  "block_name": "서울특별시 강남구",
+  "bbox": [
+    127.008376,
+    37.456481,
+    127.123001,
+    37.539981
+  ],
+  "center": [
+    37.498231,
+    127.065688
+  ],
+  "landmarks": [
+    {
+      "name": "강남역",
+      "lat": 37.4976713,
+      "lng": 127.0292882,
+      "category": "상권/번화가",
+      "description": "대한민국 대표 번화가로 강남역 먹자골목이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%82%A8%EC%97%AD"
+    },
+    {
+      "name": "가로수길",
+      "lat": 37.5209114,
+      "lng": 127.0228938,
+      "category": "문화/거리",
+      "description": "신사동의 대표 패션·카페 거리이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%A1%9C%EC%88%98%EA%B8%B8"
+    },
+    {
+      "name": "청담동",
+      "lat": 37.52612,
+      "lng": 127.04637,
+      "category": "패션/상권",
+      "description": "고급 패션 브랜드와 뷰티 상권의 중심지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8B%B4%EB%8F%99"
+    },
+    {
+      "name": "테헤란로",
+      "lat": 37.5017788,
+      "lng": 127.0397121,
+      "category": "상권/비즈니스",
+      "description": "국내 최대 비즈니스 거리 중 하나이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%85%8C%ED%97%A4%EB%9E%80%EB%A1%9C"
+    },
+    {
+      "name": "도산공원",
+      "lat": 37.5242213,
+      "lng": 127.0352168,
+      "category": "도시공원",
+      "description": "신사동 중심에 조성된 대표 도심 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EA%B3%B5%EC%9B%90"
+    }
+  ],
+  "history_summary": "강남구는 대한민국 최고 상업·유행 중심지로 강남역과 가로수길, 청담동 패션 거리가 유명하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
