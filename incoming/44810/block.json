@@ -1,0 +1,73 @@
+{
+  "block_code": "44810",
+  "block_name": "충청남도 태안군",
+  "bbox": [
+    125.288282,
+    36.278209,
+    126.45195,
+    37.064253
+  ],
+  "center": [
+    36.671231,
+    125.870116
+  ],
+  "landmarks": [
+    {
+      "name": "태안해안국립공원",
+      "lat": 36.67123105,
+      "lng": 125.87011575,
+      "category": "국립공원/해안",
+      "description": "태안해안국립공원은(는) 충청남도 태안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "꽃지해수욕장",
+      "lat": 36.4871024,
+      "lng": 126.3355443,
+      "category": "해수욕장",
+      "description": "꽃지해수욕장은(는) 충청남도 태안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EC%A7%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "안면도",
+      "lat": 36.5059622,
+      "lng": 126.370517,
+      "category": "섬/관광",
+      "description": "안면도은(는) 충청남도 태안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%A9%B4%EB%8F%84"
+    },
+    {
+      "name": "태안군청",
+      "lat": 36.7456901,
+      "lng": 126.2980462,
+      "category": "행정/랜드마크",
+      "description": "태안군청은(는) 충청남도 태안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "만리포해수욕장",
+      "lat": 36.7879429,
+      "lng": 126.1439834,
+      "category": "해수욕장",
+      "description": "만리포해수욕장은(는) 충청남도 태안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EB%A6%AC%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    }
+  ],
+  "history_summary": "태안군은 태안해안국립공원과 꽃지해변, 안면도가 자리한 충남 서해안 대표 관광 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
