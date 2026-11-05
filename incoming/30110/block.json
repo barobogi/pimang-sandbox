@@ -18,7 +18,13 @@
       "lng": 127.4322583,
       "category": "교통/허브",
       "description": "경부선의 대표 역으로 대전 도심의 관문이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EC%97%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 110.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Daejeon_Station_2017.JPG/1280px-Daejeon_Station_2017.JPG"
     },
     {
       "name": "대전복합터미널",
@@ -26,7 +32,13 @@
       "lng": 127.4366882,
       "category": "교통/터미널",
       "description": "용전동에 자리한 대전의 대표 시외버스 터미널이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 134.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Daejeon_Terminal_Complex_Main.jpg/1280px-Daejeon_Terminal_Complex_Main.jpg"
     },
     {
       "name": "대청호",
@@ -34,7 +46,13 @@
       "lng": 127.4971066,
       "category": "호수/자연",
       "description": "대청댐 건설로 만들어진 국내 3번째 크기 인공 호수다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 189.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/1280px-Daecheong_Dam.jpg"
     },
     {
       "name": "만인산",
@@ -42,7 +60,13 @@
       "lng": 127.4539266,
       "category": "산/자연",
       "description": "이성계의 태를 묻었다는 전설이 있는 해발 537m의 산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 9.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%EB%8C%80%EC%A0%84_%EB%8F%99%EA%B5%AC%EC%B2%AD.jpg/1280px-%EB%8C%80%EC%A0%84_%EB%8F%99%EA%B5%AC%EC%B2%AD.jpg"
     },
     {
       "name": "식장산",
@@ -50,7 +74,13 @@
       "lng": 127.4811111,
       "category": "산/자연",
       "description": "동구 북부에 펼쳐진 해발 597m의 산으로 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 350.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Sikjang-san_from_Nangwol.JPG/1280px-Sikjang-san_from_Nangwol.JPG"
     }
   ],
   "history_summary": "대전 동구는 대전역과 대전복합터미널이 자리한 대전 동부의 관문 구로 만인산과 식장산, 대청호 등 자연 명소가 함께한다.",
