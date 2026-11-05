@@ -18,7 +18,13 @@
       "lng": 126.809,
       "category": "신도시",
       "description": "광산구의 대표 신도시 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 232.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gwangsan-gu_office.JPG/1280px-Gwangsan-gu_office.JPG"
     },
     {
       "name": "송정역 상권",
@@ -26,7 +32,13 @@
       "lng": 126.831,
       "category": "상권/교통",
       "description": "송정역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 244.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Songjeong_Station_20131207_133846.jpg/1280px-Songjeong_Station_20131207_133846.jpg"
     },
     {
       "name": "백호생태공원",
@@ -34,7 +46,13 @@
       "lng": 126.78,
       "category": "생태/공원",
       "description": "광산구의 대표 생태공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 238.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%EA%B8%B8%EB%8F%99%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90_%ED%91%9C%EC%A7%80%ED%8C%90.jpg/1280px-%EA%B8%B8%EB%8F%99%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90_%ED%91%9C%EC%A7%80%ED%8C%90.jpg"
     },
     {
       "name": "우수영공원",
@@ -42,7 +60,13 @@
       "lng": 126.8,
       "category": "공원",
       "description": "광산구의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 241.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "수완지구",
@@ -50,7 +74,13 @@
       "lng": 126.8140017,
       "category": "신도시",
       "description": "광산구의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 241.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gwangsan-gu_office.JPG/1280px-Gwangsan-gu_office.JPG"
     }
   ],
   "history_summary": "광주 광산구는 첨단지구와 송정역 상권이 자리한 광주 서부의 구이다.",
