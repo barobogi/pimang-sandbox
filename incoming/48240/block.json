@@ -18,7 +18,13 @@
       "lng": 128.0631926,
       "category": "박물관/과학",
       "description": "항공우주박물관은(는) 경상남도 사천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 203.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/KAU_main_building.jpg/1280px-KAU_main_building.jpg"
     },
     {
       "name": "와룡산",
@@ -26,7 +32,13 @@
       "lng": 128.0990438,
       "category": "산/자연",
       "description": "와룡산은(는) 경상남도 사천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%80%EB%A3%A1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%80%EB%A3%A1%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 299.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%EC%99%80%EB%A3%A1%EC%82%B0_%EC%A0%95%EC%83%81.JPG/1280px-%EC%99%80%EB%A3%A1%EC%82%B0_%EC%A0%95%EC%83%81.JPG"
     },
     {
       "name": "사천시청",
@@ -34,23 +46,41 @@
       "lng": 128.0645331,
       "category": "행정/랜드마크",
       "description": "사천시청은(는) 경상남도 사천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 288.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sacheon_City_Hall.JPG/1280px-Sacheon_City_Hall.JPG"
     },
     {
       "name": "사천시장",
-      "lat": 35.012549199999995,
-      "lng": 128.031748,
+      "lat": 35.0841981,
+      "lng": 128.0885469,
       "category": "시장/먹거리",
       "description": "사천시장은(는) 경상남도 사천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 213.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sacheon_City_Hall.JPG/1280px-Sacheon_City_Hall.JPG"
     },
     {
       "name": "삼천포항",
-      "lat": 35.012549199999995,
-      "lng": 128.031748,
+      "lat": 34.9264416,
+      "lng": 128.0699852,
       "category": "항구/어촌",
       "description": "삼천포항은(는) 경상남도 사천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 340.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/NH-N3.jpg/1280px-NH-N3.jpg"
     }
   ],
   "history_summary": "사천시는 항공우주박물관과 와룡산, 삼천포항이 자리한 경남 남해안의 도시이다.",
