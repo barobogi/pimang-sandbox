@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "말이산고분군",
-      "lat": 35.2811109,
-      "lng": 128.43278014999999,
+      "lat": 35.2704699,
+      "lng": 128.4065175,
       "category": "고분/문화유산",
       "description": "말이산고분군은(는) 경상남도 함안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 63.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg/1280px-Maisan%28Mt%29_in_Haman%2C_Gyeongsang-Namdo.jpg"
     },
     {
       "name": "함안박물관",
@@ -26,7 +32,13 @@
       "lng": 128.402916,
       "category": "박물관/역사",
       "description": "함안박물관은(는) 경상남도 함안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 63.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/MG-MGCM-En.jpg/1280px-MG-MGCM-En.jpg"
     },
     {
       "name": "함안군청",
@@ -34,15 +46,27 @@
       "lng": 128.4065084,
       "category": "행정/랜드마크",
       "description": "함안군청은(는) 경상남도 함안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 68.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Masan_Changwon_Jinhae_City_Bus_113-1.jpg"
     },
     {
       "name": "함안시장",
-      "lat": 35.2811109,
-      "lng": 128.43278014999999,
+      "lat": 35.2772623,
+      "lng": 128.4064635,
       "category": "시장/먹거리",
       "description": "함안시장은(는) 경상남도 함안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 79.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Hamangun-County_41_%2816807043060%29.jpg/1280px-Hamangun-County_41_%2816807043060%29.jpg"
     },
     {
       "name": "낙동강",
@@ -50,7 +74,13 @@
       "lng": 128.5128646,
       "category": "하천/자연",
       "description": "낙동강은(는) 경상남도 함안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 211.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EB%82%99%EB%8F%99%EA%B0%95.jpg/1280px-%EB%82%99%EB%8F%99%EA%B0%95.jpg"
     }
   ],
   "history_summary": "함안군은 아라가야의 고도로 말이산고분군과 함안박물관이 자리한 경남 중부의 군이다.",
