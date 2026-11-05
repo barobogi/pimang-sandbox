@@ -18,7 +18,13 @@
       "lng": 127.07796,
       "category": "녹차밭/관광",
       "description": "국내 최대·최초의 다원으로 녹차밭 절경으로 전국적으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 55.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG/1280px-%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG"
     },
     {
       "name": "한국차박물관",
@@ -26,7 +32,13 @@
       "lng": 127.0817643,
       "category": "박물관/차문화",
       "description": "한국 차 문화를 전시하는 대표 차 전문 박물관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 55.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tea_Museum_of_Korea%2C_in_Boseong%2C_South_Jeolla%2C_South_Korea_03.jpg/1280px-Tea_Museum_of_Korea%2C_in_Boseong%2C_South_Jeolla%2C_South_Korea_03.jpg"
     },
     {
       "name": "율포해수욕장",
@@ -34,7 +46,13 @@
       "lng": 127.145,
       "category": "해수욕장/녹차",
       "description": "해수녹차탕으로 유명한 솔밭해변의 대표 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 49.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Geumgog_beach.jpg"
     },
     {
       "name": "태백산맥문학관",
@@ -42,7 +60,13 @@
       "lng": 127.352163,
       "category": "문학관/문화",
       "description": "조정래 작가의 대하소설 태백산맥을 기리는 국내 최대 단일 문학관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 245.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg"
     },
     {
       "name": "득량역",
@@ -50,7 +74,13 @@
       "lng": 127.166,
       "category": "철도/관광",
       "description": "1930년 개통된 옛 역사로 추억의 거리와 함께 복원되었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 89.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EC%82%AC.png/1280px-%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EC%82%AC.png"
     }
   ],
   "history_summary": "보성군은 녹차의 수도로 불리는 전남 남부의 군으로 대한다원 녹차밭과 율포해수욕장, 태백산맥문학관 등의 명소가 함께한다.",
