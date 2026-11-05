@@ -18,7 +18,13 @@
       "lng": 127.1845642,
       "category": "유네스코/문화유산",
       "description": "조선 시대 산성으로 유네스코 세계문화유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 132.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Namhanssanseong.JPG/1280px-Namhanssanseong.JPG"
     },
     {
       "name": "곤지암신도시",
@@ -26,7 +32,13 @@
       "lng": 127.285,
       "category": "신도시",
       "description": "광주의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%8B%9C_%28%EA%B2%BD%EA%B8%B0%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%8B%9C_%28%EA%B2%BD%EA%B8%B0%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 165.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Gonjiam.jpg/1280px-Gonjiam.jpg"
     },
     {
       "name": "광주시청",
@@ -34,7 +46,13 @@
       "lng": 127.2551698,
       "category": "행정/랜드마크",
       "description": "경기 광주의 행정 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%8B%9C_%28%EA%B2%BD%EA%B8%B0%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%8B%9C_%28%EA%B2%BD%EA%B8%B0%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 136.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/KD720-2.jpg/1280px-KD720-2.jpg"
     },
     {
       "name": "경안천",
@@ -42,7 +60,13 @@
       "lng": 127.2392178,
       "category": "하천/자연",
       "description": "광주를 지나는 대표 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%95%88%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%95%88%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 46.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paldang_Dam_and_Lake_Paldang.jpg/1280px-Paldang_Dam_and_Lake_Paldang.jpg"
     },
     {
       "name": "초부지구",
@@ -50,7 +74,13 @@
       "lng": 127.26,
       "category": "신도시",
       "description": "광주의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%8B%9C_%28%EA%B2%BD%EA%B8%B0%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%8B%9C_%28%EA%B2%BD%EA%B8%B0%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 126.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gyeonggi_Gwangju_City_Hall.JPG/1280px-Gyeonggi_Gwangju_City_Hall.JPG"
     }
   ],
   "history_summary": "경기 광주시는 남한산성이 자리한 경기 동부의 도시이자 곤지암신도시가 발달했다.",
