@@ -18,7 +18,13 @@
       "lng": 127.000102,
       "category": "한강공원",
       "description": "반포대교 달빛무지개분수로 유명한 대표 한강 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%8F%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%8F%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 139.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/%EA%B3%A0_%EC%86%90%EC%A0%95%EB%AF%BC_%EC%B6%94%EB%AA%A8_%EA%B3%B5%EA%B0%84.jpg/1280px-%EA%B3%A0_%EC%86%90%EC%A0%95%EB%AF%BC_%EC%B6%94%EB%AA%A8_%EA%B3%B5%EA%B0%84.jpg"
     },
     {
       "name": "서래마을",
@@ -26,7 +32,13 @@
       "lng": 127.003807,
       "category": "마을/카페",
       "description": "국제적 분위기의 카페 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%9E%98%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%9E%98%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 129.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Seorae_Village_scene.jpg"
     },
     {
       "name": "양재동 상권",
@@ -34,7 +46,13 @@
       "lng": 127.0345,
       "category": "상권",
       "description": "양재역 중심의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 156.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Yangjae_1-dong_Comunity_Service_Center_20140613_193838.JPG/1280px-Yangjae_1-dong_Comunity_Service_Center_20140613_193838.JPG"
     },
     {
       "name": "우면산",
@@ -42,7 +60,13 @@
       "lng": 127.0050138,
       "category": "산/자연",
       "description": "서초구 남쪽의 산으로 등산로가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A9%B4%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A9%B4%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 69.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%EC%9A%B0%EB%A9%B4%EC%82%B0_%ED%84%B0%EB%84%90_%EC%A7%80%EB%B6%84_%EB%B3%80%ED%99%94.jpg"
     },
     {
       "name": "법조타운",
@@ -50,7 +74,13 @@
       "lng": 127.009,
       "category": "공공/행정",
       "description": "대법원과 법원·검찰이 밀집한 대한민국 법조의 중심지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 106.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Seoul_Seocho-gu.svg/1280px-Seoul_Seocho-gu.svg.png"
     }
   ],
   "history_summary": "서초구는 강남 남부의 대표 고급 주거·상업 구로 서초동과 반포동, 양재동 상권과 법조타운이 함께한다.",
