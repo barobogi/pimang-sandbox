@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "섬진강기차마을",
-      "lat": 35.203182299999995,
-      "lng": 127.24959609999999,
+      "lat": 35.2795563,
+      "lng": 127.3078677,
       "category": "관광/체험",
       "description": "섬진강기차마을은(는) 전라남도 곡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95%EA%B8%B0%EC%B0%A8%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95%EA%B8%B0%EC%B0%A8%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 211.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Oldgokseongst.jpg/1280px-Oldgokseongst.jpg"
     },
     {
       "name": "태안사",
@@ -26,7 +32,13 @@
       "lng": 127.3865342,
       "category": "사찰/문화유산",
       "description": "태안사은(는) 전라남도 곡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 302.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%EB%B6%80%EC%95%88_%ED%83%9C%EC%95%88%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
     },
     {
       "name": "곡성군청",
@@ -34,15 +46,27 @@
       "lng": 127.2919795,
       "category": "행정/랜드마크",
       "description": "곡성군청은(는) 전라남도 곡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 203.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gokseong-gun_office.JPG/1280px-Gokseong-gun_office.JPG"
     },
     {
       "name": "곡성시장",
-      "lat": 35.203182299999995,
-      "lng": 127.24959609999999,
+      "lat": 35.2796918,
+      "lng": 127.2984108,
       "category": "시장/먹거리",
       "description": "곡성시장은(는) 전라남도 곡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 207.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gokseong-gun_office.JPG/1280px-Gokseong-gun_office.JPG"
     },
     {
       "name": "동악산",
@@ -50,7 +74,13 @@
       "lng": 127.2637556,
       "category": "산/자연",
       "description": "동악산은(는) 전라남도 곡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 188.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gokseong-gun_office.JPG/1280px-Gokseong-gun_office.JPG"
     }
   ],
   "history_summary": "곡성군은 섬진강 기차마을과 태안사, 곡성세계장미축제로 유명한 전남 동부의 군이다.",
