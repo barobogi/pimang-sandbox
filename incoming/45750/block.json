@@ -18,7 +18,12 @@
       "lng": 127.1119581,
       "category": "호수/자연",
       "description": "옥정호은(는) 전북특별자치도 임실군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%A0%95%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%A0%95%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 79.3
+      }
     },
     {
       "name": "임실치즈테마파크",
@@ -26,7 +31,13 @@
       "lng": 127.3019645,
       "category": "테마파크/체험",
       "description": "임실치즈테마파크은(는) 전북특별자치도 임실군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EC%B9%98%EC%A6%88%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EC%B9%98%EC%A6%88%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 247.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/1280px-Imsilgun_County_04_%2816597675160%29.jpg"
     },
     {
       "name": "성수산",
@@ -34,7 +45,12 @@
       "lng": 127.19263,
       "category": "산/자연",
       "description": "성수산은(는) 전북특별자치도 임실군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 28.8
+      }
     },
     {
       "name": "임실군청",
@@ -42,7 +58,13 @@
       "lng": 127.2889117,
       "category": "행정/랜드마크",
       "description": "임실군청은(는) 전북특별자치도 임실군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 272.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Imsil_Hyanggyo.jpg"
     },
     {
       "name": "임실시장",
@@ -50,7 +72,13 @@
       "lng": 127.2830737,
       "category": "시장/먹거리",
       "description": "임실시장은(는) 전북특별자치도 임실군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 282.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Imsil_Hyanggyo.jpg"
     }
   ],
   "history_summary": "임실군은 임실치즈로 유명하며 옥정호와 성수산, 임실치즈테마파크가 자리한 전북 남부의 군이다.",
