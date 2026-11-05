@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg/1280px-Goseokjeong%2C_a_natural_tower_of_granite_rock%2C_at_Hantan_River.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "철원 자연 힐링 시그니처 에어리얼 투어",
+      "description": "철원평야 → 철원군청 → 고석정 → 한탄강 → 노동당사 순으로 이어지는 강원특별자치도 철원군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "철원평야",
+        "철원군청",
+        "고석정",
+        "한탄강",
+        "노동당사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "철원 산하 절경 에어리얼 투어",
+      "description": "한탄강 → 고석정 → 철원평야 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 철원의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "한탄강",
+        "고석정",
+        "철원평야"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
   "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
