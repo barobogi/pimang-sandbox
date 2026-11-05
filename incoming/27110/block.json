@@ -18,7 +18,13 @@
       "lng": 128.5967735,
       "category": "상권/번화가",
       "description": "대구 최대 번화가로 패션과 카페가 밀집한 대표 상업 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%84%B1%EB%A1%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%84%B1%EB%A1%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 219.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/9%EA%B2%BD_%EB%8F%99%EC%84%B1%EB%A1%9C.jpg"
     },
     {
       "name": "약령시장",
@@ -26,7 +32,13 @@
       "lng": 128.6,
       "category": "전통시장/한약재",
       "description": "국내 최대 한약재 시장으로 약전골목이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 249.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Crude-Korean-Drugs-Daegu-Market.JPG/1280px-Crude-Korean-Drugs-Daegu-Market.JPG"
     },
     {
       "name": "서문시장",
@@ -34,7 +46,13 @@
       "lng": 128.5822548,
       "category": "전통시장",
       "description": "대구 대표 재래시장으로 야시장 먹거리로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 104.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg"
     },
     {
       "name": "근대역사골목",
@@ -42,7 +60,13 @@
       "lng": 128.594,
       "category": "문화/골목",
       "description": "개항기 이후 대구 근대사를 보여주는 문화 골목이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 0.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Busan_Modern_History_Museum-01.jpg"
     },
     {
       "name": "북성로",
@@ -50,7 +74,13 @@
       "lng": 128.5938742,
       "category": "역사/도로",
       "description": "대구읍성 옛 터를 따라 조성된 역사 문화 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 179.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jung-gu_office%2C_Daegu.JPG/1280px-Jung-gu_office%2C_Daegu.JPG"
     }
   ],
   "history_summary": "대구 중구는 대구의 원도심으로 동성로와 약령시장, 서문시장, 근대역사골목이 자리한 대구 상업·문화 중심지다.",
