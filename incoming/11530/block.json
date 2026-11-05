@@ -9,13 +9,13 @@
   ],
   "center": [
     37.495444,
-    126.858087
+    126.858088
   ],
   "landmarks": [
     {
       "name": "구로디지털단지",
-      "lat": 37.4852761,
-      "lng": 126.9015916,
+      "lat": 37.4856107,
+      "lng": 126.9007426,
       "category": "산업/IT",
       "description": "옛 공업지대가 IT 산업 중심으로 재탄생한 대표 단지다.",
       "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD"
