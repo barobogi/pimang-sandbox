@@ -18,7 +18,13 @@
       "lng": 127.0005914,
       "category": "산/국립공원",
       "description": "해발 1,187m의 호남 최고봉으로 무등산국립공원의 주봉이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%93%B1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%93%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 273.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Gwangju_Mudeungsan.jpg/1280px-Gwangju_Mudeungsan.jpg"
     },
     {
       "name": "국립아시아문화전당",
@@ -26,7 +32,13 @@
       "lng": 126.9185135,
       "category": "문화/복합시설",
       "description": "옛 광주도청 부지에 조성된 아시아 문화 교류 허브 복합문화시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%95%84%EC%8B%9C%EC%95%84%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%95%84%EC%8B%9C%EC%95%84%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 133.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ministry_of_Culture%2C_Sports_and_Tourism%28South_Korea%29.jpg/1280px-Ministry_of_Culture%2C_Sports_and_Tourism%28South_Korea%29.jpg"
     },
     {
       "name": "증심사",
@@ -34,7 +46,13 @@
       "lng": 126.9695465,
       "category": "사찰/문화유산",
       "description": "무등산 서쪽 기슭의 유서 깊은 사찰로 무등산 등산로의 출발점이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%EC%8B%AC%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%EC%8B%AC%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 228.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%EC%A6%9D%EC%8B%AC%EC%82%AC_%EC%A0%84%EA%B2%BD.JPG/1280px-%EC%A6%9D%EC%8B%AC%EC%82%AC_%EC%A0%84%EA%B2%BD.JPG"
     },
     {
       "name": "동명동",
@@ -42,7 +60,13 @@
       "lng": 126.9253083,
       "category": "상권/카페",
       "description": "광주의 대표 카페 거리로 현대·구 도심 상권의 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 141.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
     },
     {
       "name": "충장로",
@@ -50,7 +74,13 @@
       "lng": 126.9175454,
       "category": "상권/도심",
       "description": "광주 도심의 대표 번화가로 충장축제가 열린다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 132.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Gwangju_Dong-gu_Office.jpg/1280px-Gwangju_Dong-gu_Office.jpg"
     }
   ],
   "history_summary": "동구는 광주의 원도심으로 국립아시아문화전당과 충장로, 동명동이 자리하고 무등산 국립공원 증심사 지구가 함께한 광주 동부의 구이다.",
