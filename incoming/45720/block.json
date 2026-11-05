@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "진안 본점",
+      "lat": 35.824586,
+      "lng": 127.444368,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "진안 가마솥밥가",
+      "lat": 35.823816,
+      "lng": 127.445558,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "진안 솥뚜껑가게",
+      "lat": 35.824796,
+      "lng": 127.444648,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "진안 할매집",
+      "lat": 35.824796,
+      "lng": 127.445488,
+      "specialty": "부추파전",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "진안군은 마이산과 용담호, 진안고원이 자리한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
