@@ -1,0 +1,73 @@
+{
+  "block_code": "48310",
+  "block_name": "경상남도 거제시",
+  "bbox": [
+    128.449874,
+    34.509953,
+    128.948526,
+    35.052791
+  ],
+  "center": [
+    34.781372,
+    128.6992
+  ],
+  "landmarks": [
+    {
+      "name": "저구해수욕장",
+      "lat": 34.862,
+      "lng": 128.639,
+      "category": "해수욕장/관광",
+      "description": "몽돌 해안과 어우러진 거제의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%A0%9C%EC%8B%9C"
+    },
+    {
+      "name": "학동몽돌해안",
+      "lat": 34.828,
+      "lng": 128.7,
+      "category": "해안/자연",
+      "description": "흑진주 몽돌이 어우러진 국내 유일의 몽돌 해안 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%A0%9C%EC%8B%9C"
+    },
+    {
+      "name": "외도전망대",
+      "lat": 34.846,
+      "lng": 128.736,
+      "category": "전망대/관광",
+      "description": "바다와 해안 절경을 한눈에 볼 수 있는 대표 전망 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%A0%9C%EC%8B%9C"
+    },
+    {
+      "name": "가조해수욕장",
+      "lat": 34.855,
+      "lng": 128.71,
+      "category": "해수욕장",
+      "description": "일운면에 자리한 조용한 해수욕장으로 여름철 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%A0%9C%EC%8B%9C"
+    },
+    {
+      "name": "삼성중공업 거제조선소",
+      "lat": 34.90677,
+      "lng": 128.5858895,
+      "category": "산업/조선",
+      "description": "세계적 조선소로 거제 산업의 심장부다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EC%A4%91%EA%B3%B5%EC%97%85"
+    }
+  ],
+  "history_summary": "거제시는 거제도를 중심으로 한 남해안의 섬 도시로 몽돌해안과 해수욕장 등의 자연 명소와 함께 근현대 조선 산업과 포로수용소의 역사가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
