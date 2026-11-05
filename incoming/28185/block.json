@@ -18,7 +18,13 @@
       "lng": 126.634755,
       "category": "도시공원/생태",
       "description": "송도국제도시 중앙에 조성된 해수와 담수가 어우러진 수변 공원으로 수상 택시와 자전거 체험으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EB%8F%84%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EB%8F%84%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 220.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Songdo_Central_Park_in_2021.jpg/1280px-Songdo_Central_Park_in_2021.jpg"
     },
     {
       "name": "송도컨베시아",
@@ -26,7 +32,13 @@
       "lng": 126.6395,
       "category": "컨벤션/국제",
       "description": "송도국제도시의 국제 컨벤션센터로 국제회의와 행사가 열리는 랜드마크 건축물이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%88%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%88%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 254.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%97%B0%EC%88%98%EA%B5%AC%EC%B2%AD_%EC%A0%95%EB%A9%B4_2024.jpg/1280px-%EC%97%B0%EC%88%98%EA%B5%AC%EC%B2%AD_%EC%A0%95%EB%A9%B4_2024.jpg"
     },
     {
       "name": "선학국제빙상경기장",
@@ -34,7 +46,13 @@
       "lng": 126.7035396,
       "category": "체육/빙상",
       "description": "2014 인천 아시아경기대회 국제 빙상 경기장으로 현재 복합체육시설로 운영된다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%ED%95%99%EA%B5%AD%EC%A0%9C%EB%B9%99%EC%83%81%EA%B2%BD%EA%B8%B0%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%ED%95%99%EA%B5%AD%EC%A0%9C%EB%B9%99%EC%83%81%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 232.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%9D%B8%EC%B2%9C%EC%84%A0%ED%95%99%EA%B5%AD%EC%A0%9C%EB%B9%99%EC%83%81%EA%B2%BD%EA%B8%B0%EC%9E%A5_2023.jpg/1280px-%EC%9D%B8%EC%B2%9C%EC%84%A0%ED%95%99%EA%B5%AD%EC%A0%9C%EB%B9%99%EC%83%81%EA%B2%BD%EA%B8%B0%EC%9E%A5_2023.jpg"
     },
     {
       "name": "동춘근린공원",
@@ -42,7 +60,13 @@
       "lng": 126.669956,
       "category": "근린공원",
       "description": "동춘동에 조성된 근린공원으로 연수구 주민들의 대표 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%88%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%88%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 235.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%9D%B8%EC%B2%9C_%EB%B6%80%EC%88%98%EC%A7%80%EA%B3%B5%EC%9B%90_2024.jpg/1280px-%EC%9D%B8%EC%B2%9C_%EB%B6%80%EC%88%98%EC%A7%80%EA%B3%B5%EC%9B%90_2024.jpg"
     },
     {
       "name": "인천대학교",
@@ -50,7 +74,13 @@
       "lng": 126.6534309,
       "category": "교육/캠퍼스",
       "description": "연수구 송도캠퍼스에 위치한 인천 대표 국립(시립) 종합대학이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 275.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%9E%AC%EB%8A%A5%EB%8C%80_%EC%86%A1%EB%A6%BC%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EB%B3%B8%EA%B4%801.jpg/1280px-%EC%9E%AC%EB%8A%A5%EB%8C%80_%EC%86%A1%EB%A6%BC%EC%BA%A0%ED%8D%BC%EC%8A%A4_%EB%B3%B8%EA%B4%801.jpg"
     }
   ],
   "history_summary": "연수구는 동춘동과 선학동의 주거지와 송도국제도시가 함께한 인천의 신도시 자치구로 세계 최고 수준의 센트럴파크와 컨벤션시티, 인천대교가 상징이다.",
