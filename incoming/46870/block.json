@@ -115,6 +115,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "영광 옛맛식당",
+      "lat": 35.275562,
+      "lng": 126.5028,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "영광 동네밥집",
+      "lat": 35.275213,
+      "lng": 126.50322,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "영광 본점",
+      "lat": 35.276473,
+      "lng": 126.503079,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "영광 할매집",
+      "lat": 35.276403,
+      "lng": 126.50252,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
   "data_sources": [
     {
