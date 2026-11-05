@@ -18,7 +18,13 @@
       "lng": 127.6985,
       "category": "종교/문화유산",
       "description": "1896년 설립된 충북 최초의 성당으로 한국의 아름다운 성당 50선에 꼽히는 붉은 벽돌 성당이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 294.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/North_Chungcheong-Eumseong.svg/1280px-North_Chungcheong-Eumseong.svg.png"
     },
     {
       "name": "철박물관",
@@ -26,7 +32,13 @@
       "lng": 127.6495429,
       "category": "박물관/문화",
       "description": "감곡면에 위치한 국내 유일의 철 전문 박물관으로 철의 역사와 문화유산을 전시한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 192.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chikatetsu_Museum.jpg"
     },
     {
       "name": "수안봉온천",
@@ -34,7 +46,13 @@
       "lng": 127.66,
       "category": "온천/관광",
       "description": "음성 대표 온천 관광지로 스파파크와 온천 관광단지가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 330.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/North_Chungcheong-Eumseong.svg/1280px-North_Chungcheong-Eumseong.svg.png"
     },
     {
       "name": "설성공원",
@@ -42,7 +60,13 @@
       "lng": 127.6911637,
       "category": "도시공원",
       "description": "음성읍 중심부의 공원으로 경호정과 연못이 있으며 전국품바축제가 열린다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 317.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%EC%9D%B4%EC%B2%9C_%EC%84%A4%EC%84%B1%EC%82%B0%EC%84%B1.jpg"
     },
     {
       "name": "미타사",
@@ -50,7 +74,13 @@
       "lng": 127.695,
       "category": "사찰/문화유산",
       "description": "금왕읍 백야리의 전통 사찰로 삼층석탑과 마애여래입상 등의 문화유산이 전한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 315.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
   "history_summary": "음성군은 충북 서북부의 군으로 감곡매괴성모순례지성당과 철박물관, 수안봉온천 등의 명소와 함께 근현대 농산물·의약 산업 도시로 성장한 지역이다.",
