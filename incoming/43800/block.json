@@ -1,0 +1,73 @@
+{
+  "block_code": "43800",
+  "block_name": "충청북도 단양군",
+  "bbox": [
+    128.217125,
+    36.800609,
+    128.652096,
+    37.158206
+  ],
+  "center": [
+    36.979408,
+    128.43461
+  ],
+  "landmarks": [
+    {
+      "name": "도담삼봉",
+      "lat": 37.0001167,
+      "lng": 128.3438889,
+      "category": "경승지/자연",
+      "description": "도담삼봉은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89"
+    },
+    {
+      "name": "구인사",
+      "lat": 37.0312898,
+      "lng": 128.4796611,
+      "category": "사찰/문화유산",
+      "description": "구인사은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%9D%B8%EC%82%AC"
+    },
+    {
+      "name": "고수동굴",
+      "lat": 36.9887326,
+      "lng": 128.3816317,
+      "category": "동굴/자연",
+      "description": "고수동굴은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "name": "단양군청",
+      "lat": 36.9846702,
+      "lng": 128.3655536,
+      "category": "행정/랜드마크",
+      "description": "단양군청은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "단양시장",
+      "lat": 36.9794075,
+      "lng": 128.43461035,
+      "category": "시장/먹거리",
+      "description": "단양시장은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0"
+    }
+  ],
+  "history_summary": "단양군은 도담삼봉과 구인사, 고수동굴이 자리한 충북 북부 남한강 유역의 대표 관광 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
