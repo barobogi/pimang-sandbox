@@ -1,0 +1,73 @@
+{
+  "block_code": "41310",
+  "block_name": "경기도 구리시",
+  "bbox": [
+    127.08,
+    37.555636,
+    127.171491,
+    37.646035
+  ],
+  "center": [
+    37.600836,
+    127.125745
+  ],
+  "landmarks": [
+    {
+      "name": "아차산",
+      "lat": 37.5711235,
+      "lng": 127.1043503,
+      "category": "산/역사",
+      "description": "백제 아차산성이 남아 있는 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0"
+    },
+    {
+      "name": "갈매시장",
+      "lat": 37.596,
+      "lng": 127.129,
+      "category": "시장",
+      "description": "구리의 대표 전통시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C"
+    },
+    {
+      "name": "갈매공원",
+      "lat": 37.61,
+      "lng": 127.128,
+      "category": "공원",
+      "description": "갈매동의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C"
+    },
+    {
+      "name": "인창동 상권",
+      "lat": 37.596,
+      "lng": 127.144,
+      "category": "상권",
+      "description": "인창동에 형성된 구리 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C"
+    },
+    {
+      "name": "사패산",
+      "lat": 37.625,
+      "lng": 127.08,
+      "category": "산/자연",
+      "description": "구리와 의정부 경계의 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%8C%A8%EC%82%B0"
+    }
+  ],
+  "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
