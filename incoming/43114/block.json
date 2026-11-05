@@ -18,15 +18,27 @@
       "lng": 127.4974643,
       "category": "교통/항공",
       "description": "청주국제공항은(는) 충청북도 청주시 청원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 262.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cheongju_airport_20090404.jpg"
     },
     {
       "name": "오창과학산업단지",
-      "lat": 36.7125125,
-      "lng": 127.46841695,
+      "lat": 36.7118991,
+      "lng": 127.4243396,
       "category": "산업/과학",
       "description": "오창과학산업단지은(는) 충청북도 청주시 청원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 89.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cheongwon-gu_office.JPG/1280px-Cheongwon-gu_office.JPG"
     },
     {
       "name": "청원구청",
@@ -34,15 +46,27 @@
       "lng": 127.4869422,
       "category": "행정/랜드마크",
       "description": "청원구청은(는) 충청북도 청주시 청원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 346.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cheongwon-gu_office.JPG/1280px-Cheongwon-gu_office.JPG"
     },
     {
       "name": "명암저수지",
-      "lat": 36.7125125,
-      "lng": 127.46841695,
+      "lat": 36.6417234,
+      "lng": 127.5112319,
       "category": "호수/공원",
       "description": "명암저수지은(는) 충청북도 청주시 청원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 334.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cheongwon-gu_office.JPG/1280px-Cheongwon-gu_office.JPG"
     },
     {
       "name": "상당산성",
@@ -50,7 +74,13 @@
       "lng": 127.5400002,
       "category": "산성/문화유산",
       "description": "상당산성은(는) 충청북도 청주시 청원구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 307.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cheongju_Sangdangsangseong.jpg/1280px-Cheongju_Sangdangsangseong.jpg"
     }
   ],
   "history_summary": "청주 청원구는 2014년 청주시 통합으로 만들어진 구로 청주국제공항과 오창과학산업단지가 자리한 지역이다.",
