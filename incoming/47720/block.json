@@ -1,0 +1,73 @@
+{
+  "block_code": "47720",
+  "block_name": "경상북도 군위군",
+  "bbox": [
+    127.796417,
+    35.566375,
+    132.0,
+    37.753374
+  ],
+  "center": [
+    36.659875,
+    129.898208
+  ],
+  "landmarks": [
+    {
+      "name": "군위삼존석굴",
+      "lat": 36.659874650000006,
+      "lng": 129.96001385,
+      "category": "문화유산/불교",
+      "description": "군위삼존석굴은(는) 경상북도 군위군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+    },
+    {
+      "name": "팔공산",
+      "lat": 36.013524,
+      "lng": 128.6968594,
+      "category": "산/자연",
+      "description": "팔공산은(는) 경상북도 군위군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EA%B3%B5%EC%82%B0"
+    },
+    {
+      "name": "화본역",
+      "lat": 36.1246238,
+      "lng": 128.6951909,
+      "category": "철도/관광",
+      "description": "화본역은(는) 경상북도 군위군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EB%B3%B8%EC%97%AD"
+    },
+    {
+      "name": "군위군청",
+      "lat": 36.2430324,
+      "lng": 128.5730127,
+      "category": "행정/랜드마크",
+      "description": "군위군청은(는) 경상북도 군위군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "군위시장",
+      "lat": 36.659874650000006,
+      "lng": 129.96001385,
+      "category": "시장/먹거리",
+      "description": "군위시장은(는) 경상북도 군위군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EA%B5%B0"
+    }
+  ],
+  "history_summary": "군위군은 팔공산과 삼존석굴, 군위 화본? 아니라 화본역이 자리한 경북 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
