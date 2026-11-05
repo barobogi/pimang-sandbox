@@ -18,7 +18,13 @@
       "lng": 126.9766818,
       "category": "역사/고궁",
       "description": "조선 왕조의 법궁으로 근정전과 경회루 등 대표적 전통 건축 유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EB%B3%B5%EA%B6%81"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EB%B3%B5%EA%B6%81",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 21.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/1280px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg"
     },
     {
       "name": "창덕궁",
@@ -26,7 +32,13 @@
       "lng": 126.9912033,
       "category": "유네스코/문화유산",
       "description": "자연과 건축의 조화가 인정된 유네스코 세계문화유산 궁궐이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%8D%95%EA%B6%81"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%8D%95%EA%B6%81",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 349.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/1280px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg"
     },
     {
       "name": "광화문광장",
@@ -34,7 +46,13 @@
       "lng": 126.9768558,
       "category": "도심/공공광장",
       "description": "세종대왕 동상이 있는 대한민국 역사의 중심 보행 광장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%99%94%EB%AC%B8%EA%B4%91%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%99%94%EB%AC%B8%EA%B4%91%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 15.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nightview_of_the_Gwanghwamun_Square_2024.jpg/1280px-Nightview_of_the_Gwanghwamun_Square_2024.jpg"
     },
     {
       "name": "북촌한옥마을",
@@ -42,7 +60,13 @@
       "lng": 126.9858648,
       "category": "전통/주거문화",
       "description": "조선 시대 양반 거주지였던 전통 한옥 밀집 보존 지구이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EC%B4%8C%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EC%B4%8C%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 0.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg/1280px-Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg"
     },
     {
       "name": "인사동",
@@ -50,7 +74,13 @@
       "lng": 126.9864242,
       "category": "문화/거리",
       "description": "전통 공예와 갤러리, 찻집이 밀집한 대표 전통 문화 거리이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%82%AC%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%82%AC%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 359.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Seoul%2C_Jongno_District%2C_Insa-dong%2C_Insadong-gil.jpg/1280px-Seoul%2C_Jongno_District%2C_Insa-dong%2C_Insadong-gil.jpg"
     }
   ],
   "history_summary": "종로구는 조선 건국 이래 600년 한양의 중심지로 궁궐과 전통 한옥 마을, 대학로 문화 예술 공간이 함께한 서울 대표 문화 역사 자치구이다.",
