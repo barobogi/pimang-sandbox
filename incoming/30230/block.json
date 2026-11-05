@@ -1,0 +1,73 @@
+{
+  "block_code": "30230",
+  "block_name": "대전광역시 대덕구",
+  "bbox": [
+    127.387568,
+    36.323,
+    127.504218,
+    36.477829
+  ],
+  "center": [
+    36.400415,
+    127.445893
+  ],
+  "landmarks": [
+    {
+      "name": "계족산황토길",
+      "lat": 36.323,
+      "lng": 127.47,
+      "category": "산길/건강",
+      "description": "계족산 숲속 14.5km 황톳길로 대전 대표 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0"
+    },
+    {
+      "name": "동춘당",
+      "lat": 36.3655089,
+      "lng": 127.4419728,
+      "category": "건축물/문화유산",
+      "description": "동춘당 송준길 선생의 강학 공간으로 보물 제209호다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%B6%98%EB%8B%B9"
+    },
+    {
+      "name": "대청호",
+      "lat": 36.4480794,
+      "lng": 127.469924,
+      "category": "호수/자연",
+      "description": "대덕구와 충북에 걸쳐 있는 대형 인공 호수로 대청호반길이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8"
+    },
+    {
+      "name": "신탄진역",
+      "lat": 36.449376,
+      "lng": 127.4293215,
+      "category": "교통/철도",
+      "description": "대덕구 신탄진동의 철도역으로 옛 신탄진 문화가 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%83%84%EC%A7%84%EC%97%AD"
+    },
+    {
+      "name": "회덕향교",
+      "lat": 36.37,
+      "lng": 127.435,
+      "category": "교육/문화유산",
+      "description": "조선 시대 회덕현의 향교로 유서 깊은 교육 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EA%B5%AC"
+    }
+  ],
+  "history_summary": "대전 대덕구는 계족산과 대청호가 자리한 대전 북부의 구로 동춘당과 계족산황토길 등 역사·자연 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
