@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "서교동 닭발골목",
+      "lat": 37.5564,
+      "lng": 126.9236,
+      "specialty": "우니무침닭발",
+      "category": "향토음식"
+    },
+    {
+      "name": "홍대 씨앗호떡",
+      "lat": 37.557,
+      "lng": 126.925,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "망원시장 할매순대",
+      "lat": 37.556,
+      "lng": 126.91,
+      "specialty": "찹쌀순대",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "마포구는 홍대와 서교동, 서울월드컵경기장이 자리한 대표 청년 문화 자치구이다.",
   "data_sources": [
     {
