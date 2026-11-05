@@ -1,0 +1,73 @@
+{
+  "block_code": "45210",
+  "block_name": "전북특별자치도 김제시",
+  "bbox": [
+    126.478552,
+    35.666143,
+    127.08684,
+    35.917711
+  ],
+  "center": [
+    35.791927,
+    126.782696
+  ],
+  "landmarks": [
+    {
+      "name": "벽골제",
+      "lat": 35.7536934,
+      "lng": 126.8535019,
+      "category": "저수지/문화유산",
+      "description": "벽골제은(는) 전북특별자치도 김제시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%BD%EA%B3%A8%EC%A0%9C"
+    },
+    {
+      "name": "금산사",
+      "lat": 35.7230027,
+      "lng": 127.0536966,
+      "category": "사찰/문화유산",
+      "description": "금산사은(는) 전북특별자치도 김제시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EC%82%AC"
+    },
+    {
+      "name": "만경평야",
+      "lat": 35.7919272,
+      "lng": 126.78269585000001,
+      "category": "평야/자연",
+      "description": "만경평야은(는) 전북특별자치도 김제시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C"
+    },
+    {
+      "name": "김제시청",
+      "lat": 35.7919272,
+      "lng": 126.78269585000001,
+      "category": "행정/랜드마크",
+      "description": "김제시청은(는) 전북특별자치도 김제시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "김제시장",
+      "lat": 35.7919272,
+      "lng": 126.78269585000001,
+      "category": "시장/먹거리",
+      "description": "김제시장은(는) 전북특별자치도 김제시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C%EC%9E%A5"
+    }
+  ],
+  "history_summary": "김제시는 벽골제와 만경평야, 금산사가 자리한 전북 서부의 대표 농업 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
