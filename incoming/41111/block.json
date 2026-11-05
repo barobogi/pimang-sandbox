@@ -18,7 +18,13 @@
       "lng": 127.0194972,
       "category": "유네스코/문화유산",
       "description": "조선 정조 때 조성된 성곽으로 유네스코 세계문화유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 333.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/1280px-Bifyu_8.jpg"
     },
     {
       "name": "파장동 상권",
@@ -26,7 +32,13 @@
       "lng": 127.02,
       "category": "상권",
       "description": "파장동에 형성된 장안구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 307.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
     },
     {
       "name": "율천동 상권",
@@ -34,7 +46,13 @@
       "lng": 127.0,
       "category": "상권",
       "description": "율천동 일대의 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 0.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
     },
     {
       "name": "화서역 상권",
@@ -42,7 +60,13 @@
       "lng": 127.01,
       "category": "상권",
       "description": "화서역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 341.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
     },
     {
       "name": "장안공원",
@@ -50,7 +74,13 @@
       "lng": 127.0128445,
       "category": "공원",
       "description": "장안구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 341.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
     }
   ],
   "history_summary": "수원 장안구는 수원 화성 북쪽 지역으로 파장동과 율천동 상권이 함께한 수원 북부의 구이다.",
