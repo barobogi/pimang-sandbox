@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "남광주역 상권 가마솥밥가",
+      "lat": 35.12563,
+      "lng": 126.90551,
+      "specialty": "양념통닭",
+      "category": "향토음식"
+    },
+    {
+      "name": "백운공원 큰마당식당",
+      "lat": 35.12428,
+      "lng": 126.91165,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "월봉로 상권 옛맛식당",
+      "lat": 35.14356,
+      "lng": 126.91721,
+      "specialty": "오리탕",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "광주 남구는 조선대학교와 백운공원이 자리한 광주 남부의 교육 주거 구이다.",
   "data_sources": [
     {
