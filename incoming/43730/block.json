@@ -18,7 +18,13 @@
       "lng": 127.5815939,
       "category": "문학/유적",
       "description": "정지용 생가은(는) 충청북도 옥천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 94.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "대청호",
@@ -26,7 +32,13 @@
       "lng": 127.4971066,
       "category": "호수/자연",
       "description": "대청호은(는) 충청북도 옥천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 125.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/1280px-Daecheong_Dam.jpg"
     },
     {
       "name": "옥천군청",
@@ -34,7 +46,13 @@
       "lng": 127.5714798,
       "category": "행정/랜드마크",
       "description": "옥천군청은(는) 충청북도 옥천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 89.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Okcheon-gun_office.JPG/1280px-Okcheon-gun_office.JPG"
     },
     {
       "name": "옥천시장",
@@ -42,7 +60,13 @@
       "lng": 127.68871625,
       "category": "시장/먹거리",
       "description": "옥천시장은(는) 충청북도 옥천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 243.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Okcheon-gun_office.JPG/1280px-Okcheon-gun_office.JPG"
     },
     {
       "name": "향수공원",
@@ -50,7 +74,13 @@
       "lng": 127.5726497,
       "category": "공원/문학",
       "description": "향수공원은(는) 충청북도 옥천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 89.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Korea-Yongin-Everland-06.jpg/1280px-Korea-Yongin-Everland-06.jpg"
     }
   ],
   "history_summary": "옥천군은 정지용 생가와 향수, 대청호가 자리한 충북 남부의 군이다.",
