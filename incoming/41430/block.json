@@ -18,7 +18,13 @@
       "lng": 127.0004135,
       "category": "호수/관광",
       "description": "의왕의 대표 호수 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%98"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%98",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 203.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg/1280px-%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg"
     },
     {
       "name": "오전동 상권",
@@ -26,7 +32,13 @@
       "lng": 126.976,
       "category": "상권",
       "description": "오전동에 형성된 의왕 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 150.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/20231012_Citiscape_of_Uiwang_02.jpg/1280px-20231012_Citiscape_of_Uiwang_02.jpg"
     },
     {
       "name": "의왕박물관",
@@ -34,7 +46,13 @@
       "lng": 126.97,
       "category": "박물관/문화",
       "description": "의왕의 대표 문화 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 134.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/20231012_Citiscape_of_Uiwang_02.jpg/1280px-20231012_Citiscape_of_Uiwang_02.jpg"
     },
     {
       "name": "백운산",
@@ -42,7 +60,12 @@
       "lng": 127.0170061,
       "category": "산/자연",
       "description": "의왕과 안산 경계의 대표 산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0_%28%EA%B2%BD%EA%B8%B0%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0_%28%EA%B2%BD%EA%B8%B0%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 280.9
+      }
     },
     {
       "name": "내손동 상권",
@@ -50,7 +73,13 @@
       "lng": 126.975,
       "category": "상권",
       "description": "내손동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 154.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/20231012_Citiscape_of_Uiwang_02.jpg/1280px-20231012_Citiscape_of_Uiwang_02.jpg"
     }
   ],
   "history_summary": "의왕시는 백운호수와 오전동 상권이 함께한 경기 남부의 도시이다.",
