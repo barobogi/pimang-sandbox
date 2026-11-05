@@ -1,0 +1,73 @@
+{
+  "block_code": "41500",
+  "block_name": "경기도 이천시",
+  "bbox": [
+    127.330031,
+    37.043841,
+    127.635366,
+    37.361698
+  ],
+  "center": [
+    37.202769,
+    127.482699
+  ],
+  "landmarks": [
+    {
+      "name": "설봉공원",
+      "lat": 37.2757201,
+      "lng": 127.425768,
+      "category": "공원/경승지",
+      "description": "이천의 진산 설봉산 자락의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EB%B4%89%EC%82%B0"
+    },
+    {
+      "name": "이천도자기마을",
+      "lat": 37.264,
+      "lng": 127.478,
+      "category": "문화/체험",
+      "description": "도자기의 고장 이천의 대표 체험 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "복하천",
+      "lat": 37.2576779,
+      "lng": 127.4499711,
+      "category": "하천/자연",
+      "description": "이천을 지나는 대표 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "이천역 상권",
+      "lat": 37.243,
+      "lng": 127.442,
+      "category": "상권",
+      "description": "이천역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "이천시청",
+      "lat": 37.2723484,
+      "lng": 127.4350167,
+      "category": "행정/랜드마크",
+      "description": "이천시의 행정 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B2%9C%EC%8B%9C"
+    }
+  ],
+  "history_summary": "이천시는 이천쌀과 도자기로 유명한 경기 동부의 도시이며 설봉산이 대표 명소다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
