@@ -1,0 +1,73 @@
+{
+  "block_code": "11170",
+  "block_name": "서울특별시 용산구",
+  "bbox": [
+    126.944581,
+    37.506466,
+    127.01752,
+    37.555644
+  ],
+  "center": [
+    37.531055,
+    126.98105
+  ],
+  "landmarks": [
+    {
+      "name": "이태원",
+      "lat": 37.5345026,
+      "lng": 126.9943705,
+      "category": "상권/문화",
+      "description": "세계 각국의 음식점과 상점이 모인 국제적 문화 거리이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90"
+    },
+    {
+      "name": "국립중앙박물관",
+      "lat": 37.523953,
+      "lng": 126.9803196,
+      "category": "박물관/문화",
+      "description": "국내 최대 규모의 국립 박물관으로 용산공원 내에 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "전쟁기념관",
+      "lat": 37.5359715,
+      "lng": 126.9772916,
+      "category": "기념관/역사",
+      "description": "국내외 전쟁사와 호국 영령을 기리는 기념관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9F%81%EA%B8%B0%EB%85%90%EA%B4%80"
+    },
+    {
+      "name": "남산",
+      "lat": 37.5512692,
+      "lng": 126.9882959,
+      "category": "산/도심산",
+      "description": "서울 도심의 대표 산으로 N서울타워와 남산둘레길이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%82%B0_%28%EC%84%9C%EC%9A%B8%29"
+    },
+    {
+      "name": "해방촌",
+      "lat": 37.5377182,
+      "lng": 126.9865446,
+      "category": "마을/문화",
+      "description": "용산의 고지대 마을로 특색 있는 상권이 형성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90"
+    }
+  ],
+  "history_summary": "용산구는 이태원과 남산, 국립중앙박물관이 자리한 서울 중심부의 자치구로 국제적 문화와 국가 문화시설이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
