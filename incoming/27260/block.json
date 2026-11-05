@@ -18,7 +18,13 @@
       "lng": 128.6179383,
       "category": "호수/공원",
       "description": "대구 도심의 대표 호수 공원으로 산책과 낚시 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EB%AA%BB"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EB%AA%BB",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 78.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/1280px-Suseonglakeducks.JPG"
     },
     {
       "name": "국채보상운동기념공원",
@@ -26,7 +32,13 @@
       "lng": 128.6019555,
       "category": "역사/공원",
       "description": "1907년 국채보상운동을 기념하는 역사 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%B1%84%EB%B3%B4%EC%83%81%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%85%90%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%B1%84%EB%B3%B4%EC%83%81%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%85%90%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 126.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/National_Debt_Repayment_Movement_Park-1.jpg/1280px-National_Debt_Repayment_Movement_Park-1.jpg"
     },
     {
       "name": "아르떼뮤지엄 대구",
@@ -34,7 +46,13 @@
       "lng": 128.64,
       "category": "미디어아트/전시",
       "description": "황금동에 위치한 대형 미디어아트 전시관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 59.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Suseong-gu_office.JPG/1280px-Suseong-gu_office.JPG"
     },
     {
       "name": "수성갯벌체험장",
@@ -42,7 +60,13 @@
       "lng": 128.618,
       "category": "체험/생태",
       "description": "수성못 인근에 조성된 갯벌 체험 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 66.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Suseong-gu_office.JPG/1280px-Suseong-gu_office.JPG"
     },
     {
       "name": "황령산",
@@ -50,7 +74,13 @@
       "lng": 128.63,
       "category": "산/자연",
       "description": "수성구 남쪽에 자리한 낮은 산으로 등산로가 조성된 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 50.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Landscape_of_Busan_from_Hwangryeongsan.jpg/1280px-Landscape_of_Busan_from_Hwangryeongsan.jpg"
     }
   ],
   "history_summary": "수성구는 대구의 대표 고급 주거지로 수성못과 국채보상운동기념공원, 아르떼뮤지엄 등이 자리한 대구 남동부의 구이다.",
