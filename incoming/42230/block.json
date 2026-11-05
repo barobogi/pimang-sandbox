@@ -1,0 +1,73 @@
+{
+  "block_code": "42230",
+  "block_name": "강원특별자치도 삼척시",
+  "bbox": [
+    128.845935,
+    37.038665,
+    129.62438,
+    37.594143
+  ],
+  "center": [
+    37.316404,
+    129.235158
+  ],
+  "landmarks": [
+    {
+      "name": "환선굴",
+      "lat": 37.3236822,
+      "lng": 129.0083356,
+      "category": "동굴/자연",
+      "description": "환선굴은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%98%EC%84%A0%EA%B5%B4"
+    },
+    {
+      "name": "죽서루",
+      "lat": 37.4411896,
+      "lng": 129.1609037,
+      "category": "누정/문화유산",
+      "description": "죽서루은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BD%EC%84%9C%EB%A3%A8"
+    },
+    {
+      "name": "맹방해수욕장",
+      "lat": 37.3905501,
+      "lng": 129.2314907,
+      "category": "해수욕장",
+      "description": "맹방해수욕장은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%99%EC%8B%9C"
+    },
+    {
+      "name": "삼척시청",
+      "lat": 37.4499133,
+      "lng": 129.1651922,
+      "category": "행정/랜드마크",
+      "description": "삼척시청은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%99%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "대금굴",
+      "lat": 37.3195474,
+      "lng": 129.0174405,
+      "category": "동굴/자연",
+      "description": "대금굴은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B8%88%EA%B5%B4"
+    }
+  ],
+  "history_summary": "삼척시는 동해안 최남단의 강원 도시로 환선굴과 대금굴, 죽서루, 맹방해수욕장이 대표 명소이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
