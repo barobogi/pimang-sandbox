@@ -1,0 +1,73 @@
+{
+  "block_code": "42730",
+  "block_name": "강원특별자치도 횡성군",
+  "bbox": [
+    127.759421,
+    37.29878,
+    128.302266,
+    37.68016
+  ],
+  "center": [
+    37.48947,
+    128.030844
+  ],
+  "landmarks": [
+    {
+      "name": "청태산자연휴양림",
+      "lat": 37.525069,
+      "lng": 128.2945736,
+      "category": "숲휴양림",
+      "description": "청태산자연휴양림은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0"
+    },
+    {
+      "name": "횡성호",
+      "lat": 37.5466972,
+      "lng": 128.038822,
+      "category": "호수/자연",
+      "description": "횡성호은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%ED%98%B8"
+    },
+    {
+      "name": "둔내면 상권",
+      "lat": 37.48947005,
+      "lng": 128.03084375,
+      "category": "상권",
+      "description": "둔내면 상권은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0"
+    },
+    {
+      "name": "횡성시장",
+      "lat": 37.48947005,
+      "lng": 128.03084375,
+      "category": "시장/먹거리",
+      "description": "횡성시장은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "횡성군청",
+      "lat": 37.4917396,
+      "lng": 127.9851205,
+      "category": "행정/랜드마크",
+      "description": "횡성군청은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0%EC%B2%AD"
+    }
+  ],
+  "history_summary": "횡성군은 강원 영서 내륙의 군으로 횡성한우와 둔내, 청태산 자연휴양림 등 산림 자원이 풍부한 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
