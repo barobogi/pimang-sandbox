@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Uiryeong-eup.jpg/1280px-Panoramic_view_of_Uiryeong-eup.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "의령 도심 하이라이트 시그니처 스카이 투어",
+      "description": "한우산 → 의령군청 → 의령시장 → 충익사 → 정암나루 순으로 이어지는 경상남도 의령군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "한우산",
+        "의령군청",
+        "의령시장",
+        "충익사",
+        "정암나루"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "의령 도심 하이라이트 스카이 투어",
+      "description": "정암나루 → 의령시장 → 의령군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 의령의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "정암나루",
+        "의령시장",
+        "의령군청"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "의령군은 홍의장군 곽재우 유적과 정암나루, 한우산이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
