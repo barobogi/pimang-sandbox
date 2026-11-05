@@ -18,7 +18,13 @@
       "lng": 128.5585002,
       "category": "하천/자연",
       "description": "동강은(는) 강원특별자치도 영월군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 209.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Dong-gang%28river%29_flows_near_by_Yeongwol_03.jpg/1280px-Dong-gang%28river%29_flows_near_by_Yeongwol_03.jpg"
     },
     {
       "name": "청령포",
@@ -26,7 +32,13 @@
       "lng": 128.4496819,
       "category": "유적/역사",
       "description": "청령포은(는) 강원특별자치도 영월군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%A0%B9%ED%8F%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%A0%B9%ED%8F%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 44.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg/1280px-Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg"
     },
     {
       "name": "한반도지형",
@@ -34,7 +46,13 @@
       "lng": 128.350964,
       "category": "자연/전망",
       "description": "한반도지형은(는) 강원특별자치도 영월군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 90.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg/1280px-Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg"
     },
     {
       "name": "영월군청",
@@ -42,7 +60,13 @@
       "lng": 128.4618391,
       "category": "행정/랜드마크",
       "description": "영월군청은(는) 강원특별자치도 영월군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 47.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/KOCIS_Hanbando-myeon%2C_Yeongwol-gun%2C_Gangwon_Province_%284618109268%29.jpg/1280px-KOCIS_Hanbando-myeon%2C_Yeongwol-gun%2C_Gangwon_Province_%284618109268%29.jpg"
     },
     {
       "name": "고씨동굴",
@@ -50,7 +74,13 @@
       "lng": 128.5357498,
       "category": "동굴/자연",
       "description": "고씨동굴은(는) 강원특별자치도 영월군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%94%A8%EB%8F%99%EA%B5%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%94%A8%EB%8F%99%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 346.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gossi_Cave.jpg"
     }
   ],
   "history_summary": "영월군은 동강과 한반도 지형, 김삿갓 유적, 단종 유배지 청령포가 자리한 강원 영서 남부의 군이다.",
