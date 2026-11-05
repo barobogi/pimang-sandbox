@@ -18,7 +18,13 @@
       "lng": 129.1586091,
       "category": "해수욕장/관광",
       "description": "대한민국 최고의 해수욕장으로 불리는 대표 해변이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 70.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Haeundae_Beach_in_Busan.jpg/1280px-Haeundae_Beach_in_Busan.jpg"
     },
     {
       "name": "센텀시티",
@@ -26,7 +32,13 @@
       "lng": 129.1311985,
       "category": "쇼핑/복합몰",
       "description": "해운대 신도시의 대형 복합쇼핑몰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 92.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Centum_City%2C_Busan%2C_2014-12-28.jpg/1280px-Centum_City%2C_Busan%2C_2014-12-28.jpg"
     },
     {
       "name": "동백섬",
@@ -34,7 +46,13 @@
       "lng": 129.1520862,
       "category": "해안/관광",
       "description": "해운대 해변 옆의 소나무 섬 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%B0%B1%EC%84%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%B0%B1%EC%84%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 64.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dongbaek_Island_20200522_016.jpg/1280px-Dongbaek_Island_20200522_016.jpg"
     },
     {
       "name": "달맞이길",
@@ -42,7 +60,13 @@
       "lng": 129.1840044,
       "category": "드라이브/벚꽃",
       "description": "해운대의 대표 드라이브 코스이자 벚꽃 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%A7%9E%EC%9D%B4%EA%B8%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%A7%9E%EC%9D%B4%EA%B8%B8",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 359.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Oenothera_odorata0.jpg"
     },
     {
       "name": "해운대시장",
@@ -50,7 +74,13 @@
       "lng": 129.1620271,
       "category": "시장/먹거리",
       "description": "해운대 전통시장 먹거리 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 70.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1280px-Haeundae_Market_Busan_%2831877277538%29.jpg"
     }
   ],
   "history_summary": "부산 해운대구는 해운대해수욕장과 센텀시티가 자리한 부산 대표 국제 관광·비즈니스 중심지다.",
