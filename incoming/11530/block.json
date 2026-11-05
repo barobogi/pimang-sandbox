@@ -18,7 +18,13 @@
       "lng": 126.9007426,
       "category": "산업/IT",
       "description": "옛 공업지대가 IT 산업 중심으로 재탄생한 대표 단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 286.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg/1280px-%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg"
     },
     {
       "name": "구로공단",
@@ -26,7 +32,13 @@
       "lng": 126.9015916,
       "category": "산업/단지",
       "description": "1970년대 수출 산업의 진용이었던 국가산업단지이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 286.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg/1280px-%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg"
     },
     {
       "name": "고척스카이돔",
@@ -34,7 +46,13 @@
       "lng": 126.8670731,
       "category": "체육/야구",
       "description": "국내 최초의 프로야구 돔 구장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B2%99%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%8F%94"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B2%99%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%8F%94",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 248.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/4/44/%EA%B3%A0%EC%B2%99%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%8F%94.jpg"
     },
     {
       "name": "도림천",
@@ -42,7 +60,13 @@
       "lng": 126.8935738,
       "category": "하천/자연",
       "description": "구로구를 지나는 지천으로 산책로가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A6%BC%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A6%BC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 265.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Dorimcheon_from_Sindorim_Station_Bridge.jpg/1280px-Dorimcheon_from_Sindorim_Station_Bridge.jpg"
     },
     {
       "name": "가산동 상권",
@@ -50,7 +74,13 @@
       "lng": 126.882,
       "category": "상권",
       "description": "가산역 중심의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 307.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gasan-dong_Community_Service_Center_20140604_082034.jpg/1280px-Gasan-dong_Community_Service_Center_20140604_082034.jpg"
     }
   ],
   "history_summary": "구로구는 대한민국 최초의 국가산업단지가 조성된 대표 공업 도시 구이며 구로디지털단지로 재탄생한 서울 남서부의 산업 중심지다.",
