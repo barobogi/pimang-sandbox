@@ -1,0 +1,73 @@
+{
+  "block_code": "41650",
+  "block_name": "경기도 포천시",
+  "bbox": [
+    127.0903,
+    37.746968,
+    127.447076,
+    38.188321
+  ],
+  "center": [
+    37.967644,
+    127.268688
+  ],
+  "landmarks": [
+    {
+      "name": "산정호수",
+      "lat": 38.0709559,
+      "lng": 127.3209633,
+      "category": "호수/관광",
+      "description": "포천의 대표 호수 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98"
+    },
+    {
+      "name": "한탄강",
+      "lat": 38.0731966,
+      "lng": 127.2087365,
+      "category": "하천/자연",
+      "description": "현무암 협곡이 아름다운 국가지질공원 강이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95"
+    },
+    {
+      "name": "일동허브밸리",
+      "lat": 38.03,
+      "lng": 127.2,
+      "category": "테마공원",
+      "description": "허브 테마의 대표 관광 체험 단지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "포천시청",
+      "lat": 37.8949308,
+      "lng": 127.2003521,
+      "category": "행정/랜드마크",
+      "description": "포천시의 행정 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C"
+    },
+    {
+      "name": "운악산",
+      "lat": 37.87869,
+      "lng": 127.32288,
+      "category": "산/자연",
+      "description": "포천의 대표 등산 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%95%85%EC%82%B0"
+    }
+  ],
+  "history_summary": "경기 포천시는 산정호수와 한탄강이 함께한 경기 북동부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
