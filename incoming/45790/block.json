@@ -18,7 +18,13 @@
       "lng": 126.7048009,
       "category": "읍성/문화유산",
       "description": "고창읍성은(는) 전북특별자치도 고창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 275.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg/1280px-%EA%B3%A0%EC%B0%BD%EC%9D%8D%EC%84%B1%EC%9D%98_%EB%B4%84.jpg"
     },
     {
       "name": "고창고인돌유적",
@@ -26,7 +32,13 @@
       "lng": 126.6497648,
       "category": "유네스코/유적",
       "description": "고창고인돌유적은(는) 전북특별자치도 고창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 266.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg/1280px-Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg"
     },
     {
       "name": "선운사",
@@ -34,7 +46,13 @@
       "lng": 126.5784721,
       "category": "사찰/문화유산",
       "description": "선운사은(는) 전북특별자치도 고창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%9A%B4%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%9A%B4%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 219.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/%EC%84%A0%EC%9A%B4%EC%82%AC_%EC%9D%BC%EC%A3%BC%EB%AC%B8.jpeg"
     },
     {
       "name": "고창군청",
@@ -42,7 +60,13 @@
       "lng": 126.7020971,
       "category": "행정/랜드마크",
       "description": "고창군청은(는) 전북특별자치도 고창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 272.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg/1280px-%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg"
     },
     {
       "name": "고창시장",
@@ -50,7 +74,13 @@
       "lng": 126.52403815,
       "category": "시장/먹거리",
       "description": "고창시장은(는) 전북특별자치도 고창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 211.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg/1280px-%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg"
     }
   ],
   "history_summary": "고창군은 고창읍성과 고인돌 유적, 선운사가 자리한 유네스코 세계유산의 고장이다.",
