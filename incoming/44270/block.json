@@ -18,7 +18,13 @@
       "lng": 126.8361862,
       "category": "호수/관광",
       "description": "삽교호은(는) 충청남도 당진시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BD%EA%B5%90%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BD%EA%B5%90%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 288.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%EC%82%BD%EA%B5%90%EB%B0%A9%EC%A1%B0%EC%A0%9C_2025.jpg"
     },
     {
       "name": "왜목마을",
@@ -26,7 +32,13 @@
       "lng": 126.6064996,
       "category": "마을/일출",
       "description": "왜목마을은(는) 충청남도 당진시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 46.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Carousel.jpg"
     },
     {
       "name": "당진시청",
@@ -34,7 +46,13 @@
       "lng": 126.6457659,
       "category": "행정/랜드마크",
       "description": "당진시청은(는) 충청남도 당진시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 315.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Dangjin_City_Hall.JPG/1280px-Dangjin_City_Hall.JPG"
     },
     {
       "name": "당진시장",
@@ -42,7 +60,13 @@
       "lng": 126.6262114,
       "category": "시장/먹거리",
       "description": "당진시장은(는) 충청남도 당진시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 335.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dangjin_Bus_16-1.JPG"
     },
     {
       "name": "현대제철 당진제철소",
@@ -50,7 +74,13 @@
       "lng": 126.6951681,
       "category": "산업/철강",
       "description": "현대제철 당진제철소은(는) 충청남도 당진시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 232.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/20110201_hyundai_motor_group.JPG"
     }
   ],
   "history_summary": "당진시는 삽교호와 왜목마을, 도비도? 아니라 현대제철이 자리한 충남 서해안 산업·관광 도시이다.",
