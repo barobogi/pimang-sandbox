@@ -1,0 +1,73 @@
+{
+  "block_code": "45800",
+  "block_name": "전북특별자치도 부안군",
+  "bbox": [
+    125.800192,
+    35.444548,
+    126.841129,
+    35.821624
+  ],
+  "center": [
+    35.633086,
+    126.320661
+  ],
+  "landmarks": [
+    {
+      "name": "변산반도국립공원",
+      "lat": 35.647757,
+      "lng": 126.5831167,
+      "category": "국립공원/자연",
+      "description": "서해안의 대표 국립공원으로 절벽과 바다가 어우러졌다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%82%B0%EB%B0%98%EB%8F%84%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "채석강",
+      "lat": 35.6270358,
+      "lng": 126.4681785,
+      "category": "해안/자연",
+      "description": "절벽과 파도가 어우러진 변산반도 대표 해안 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EC%84%9D%EA%B0%95"
+    },
+    {
+      "name": "내소사",
+      "lat": 35.617518,
+      "lng": 126.5872515,
+      "category": "사찰/문화유산",
+      "description": "백제 시대 창건된 유서 깊은 사찰로 대웅보전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%86%8C%EC%82%AC"
+    },
+    {
+      "name": "고선재",
+      "lat": 35.625,
+      "lng": 126.736,
+      "category": "해안/자연",
+      "description": "가파란 절벽과 해안 절경이 어우러진 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0"
+    },
+    {
+      "name": "선유도",
+      "lat": 35.8184605,
+      "lng": 126.4245216,
+      "category": "섬/관광",
+      "description": "선유도국민관광지로 서해의 대표 섬 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0"
+    }
+  ],
+  "history_summary": "부안군은 변산반도국립공원과 채석강, 내소사, 고선재, 선유도 등 서해안 대표 관광 자원이 풍부한 전북 서북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
