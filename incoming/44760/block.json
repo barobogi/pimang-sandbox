@@ -18,7 +18,13 @@
       "lng": 126.9151865,
       "category": "유네스코/성곽",
       "description": "부소산성은(는) 충청남도 부여군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%86%8C%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%86%8C%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 208.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/1280px-Buyeo_198.JPG"
     },
     {
       "name": "낙화암",
@@ -26,7 +32,13 @@
       "lng": 126.9121858,
       "category": "경승지/역사",
       "description": "낙화암은(는) 충청남도 부여군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%ED%99%94%EC%95%94"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%ED%99%94%EC%95%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 205.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%EB%82%99%ED%99%94%EC%95%94.jpg"
     },
     {
       "name": "정림사지",
@@ -34,7 +46,13 @@
       "lng": 126.9144085,
       "category": "유네스코/사지",
       "description": "정림사지은(는) 충청남도 부여군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 212.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80-Jeongnimsa-Temple-Site-6.jpg/1280px-%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80-Jeongnimsa-Temple-Site-6.jpg"
     },
     {
       "name": "부여군청",
@@ -42,7 +60,13 @@
       "lng": 126.9100207,
       "category": "행정/랜드마크",
       "description": "부여군청은(는) 충청남도 부여군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%97%AC%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%97%AC%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 211.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/1280px-Buyeo_198.JPG"
     },
     {
       "name": "궁남지",
@@ -50,7 +74,13 @@
       "lng": 126.9122051,
       "category": "연못/유적",
       "description": "궁남지은(는) 충청남도 부여군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%81%EB%82%A8%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%81%EB%82%A8%EC%A7%80",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 216.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Gungnamji_011.jpg/1280px-Gungnamji_011.jpg"
     }
   ],
   "history_summary": "부여군은 백제 사비 도읍이었던 유서 깊은 고장으로 부소산성과 낙화암, 정림사지가 유네스코 세계유산으로 등재되었다.",
