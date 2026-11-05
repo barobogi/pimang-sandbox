@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Daegupanorama4.jpg/1280px-Daegupanorama4.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "남구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "앞산 → 대덕산성 → 앞산공원 → 안지랑곱창골목 → 물베기거리 순으로 이어지는 대구광역시 남구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "앞산",
+        "대덕산성",
+        "앞산공원",
+        "안지랑곱창골목",
+        "물베기거리"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "남구 그린 랜드스케이프 플라이트",
+      "description": "앞산 → 대덕산성 → 앞산공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 남구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "앞산",
+        "대덕산성",
+        "앞산공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
   "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
   "data_sources": [
     {
