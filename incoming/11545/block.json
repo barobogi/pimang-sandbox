@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gasan-dong_Community_Service_Center_20140604_082034.jpg/1280px-Gasan-dong_Community_Service_Center_20140604_082034.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "금천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "독산공원 → 안양천 → 가산디지털단지 → 가산동 상권 → 시흥동 순으로 이어지는 서울특별시 금천구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "독산공원",
+        "안양천",
+        "가산디지털단지",
+        "가산동 상권",
+        "시흥동"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "금천 산하 절경 에어리얼 투어",
+      "description": "가산디지털단지 → 안양천 → 독산공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 금천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "가산디지털단지",
+        "안양천",
+        "독산공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
   "history_summary": "금천구는 가산동 디지털 산업단지가 자리한 서울 남서부 자치구로 과천과 안산의 관문이다.",
   "data_sources": [
     {
