@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wando-gun_Office.JPG/1280px-Wando-gun_Office.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "완도 해안 절경 시그니처 드론 플라이트",
+      "description": "소안도 → 보길도 → 금등해수욕장 → 신지도 → 청산도 순으로 이어지는 전라남도 완도군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "소안도",
+        "보길도",
+        "금등해수욕장",
+        "신지도",
+        "청산도"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "완도 바다빛 스카이 세일",
+      "description": "신지도 → 소안도 → 보길도 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 완도의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "신지도",
+        "소안도",
+        "보길도"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
   "history_summary": "완도군은 청해진 장보고의 옛 항구였던 완도를 중심으로 한 남해안 최대 섬 군으로 신지도·보길도·소안도 등 아름다운 섬 관광 자원이 풍부하다.",
   "data_sources": [
     {
