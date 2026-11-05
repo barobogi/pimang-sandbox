@@ -18,7 +18,13 @@
       "lng": 126.8801379,
       "category": "사찰/문화유산",
       "description": "운주사은(는) 전라남도 화순군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%A3%BC%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%A3%BC%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 49.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Korea-Unjusa_4507-07_Cilcheung_Seoktap_facing_Unjusa_Seokjo_Bulgam.JPG"
     },
     {
       "name": "화순고인돌유적",
@@ -26,7 +32,13 @@
       "lng": 127.01270345,
       "category": "유네스코/유적",
       "description": "화순고인돌유적은(는) 전라남도 화순군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 247.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg/1280px-Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg"
     },
     {
       "name": "화순적벽",
@@ -34,7 +46,13 @@
       "lng": 127.0876244,
       "category": "경승지/자연",
       "description": "화순적벽은(는) 전라남도 화순군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EC%A0%81%EB%B2%BD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EC%A0%81%EB%B2%BD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 216.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "화순군청",
@@ -42,7 +60,13 @@
       "lng": 126.9864981,
       "category": "행정/랜드마크",
       "description": "화순군청은(는) 전라남도 화순군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 154.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Hwasun-gun_office.JPG/1280px-Hwasun-gun_office.JPG"
     },
     {
       "name": "화순시장",
@@ -50,7 +74,13 @@
       "lng": 126.9826139,
       "category": "시장/먹거리",
       "description": "화순시장은(는) 전라남도 화순군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%88%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 148.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Hwasun-gun_office.JPG/1280px-Hwasun-gun_office.JPG"
     }
   ],
   "history_summary": "화순군은 운주사와 화순고인돌유적, 적벽이 자리한 전남 중부의 군이다.",
