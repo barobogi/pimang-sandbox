@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "옥천 큰마당식당",
+      "lat": 36.30834,
+      "lng": 127.689066,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥천 동네밥집",
+      "lat": 36.30757,
+      "lng": 127.688506,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥천 골목식당",
+      "lat": 36.3075,
+      "lng": 127.688506,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥천 솥뚜껑가게",
+      "lat": 36.30806,
+      "lng": 127.688156,
+      "specialty": "호박엿",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "옥천군은 정지용 생가와 향수, 대청호가 자리한 충북 남부의 군이다.",
   "data_sources": [
     {
