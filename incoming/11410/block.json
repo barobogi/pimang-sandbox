@@ -1,0 +1,73 @@
+{
+  "block_code": "11410",
+  "block_name": "서울특별시 서대문구",
+  "bbox": [
+    126.901948,
+    37.555102,
+    126.969472,
+    37.610751
+  ],
+  "center": [
+    37.582927,
+    126.93571
+  ],
+  "landmarks": [
+    {
+      "name": "독립문",
+      "lat": 37.5724018,
+      "lng": 126.9596112,
+      "category": "문화유산/역사",
+      "description": "대한제국 시대 세워진 대한민국 독립의 상징이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EB%AC%B8"
+    },
+    {
+      "name": "서대문형무소역사관",
+      "lat": 37.5745368,
+      "lng": 126.9563173,
+      "category": "기념관/역사",
+      "description": "일제 강점기 감옥을 보존·전시하는 역사관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8C%80%EB%AC%B8%ED%98%95%EB%AC%B4%EC%86%8C%EC%97%AD%EC%82%AC%EA%B4%80"
+    },
+    {
+      "name": "연세대학교",
+      "lat": 37.5673457,
+      "lng": 126.938905,
+      "category": "교육/캠퍼스",
+      "description": "신촌에 캠퍼스를 둔 대한민국 대표 사립대학이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "이화여자대학교",
+      "lat": 37.5643371,
+      "lng": 126.9468925,
+      "category": "교육/캠퍼스",
+      "description": "세계 최대 규모 여자대학으로 대표적 캠퍼스 랜드마크다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%99%94%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "홍제천",
+      "lat": 37.5893715,
+      "lng": 126.9379476,
+      "category": "하천/자연",
+      "description": "서대문구를 지나는 지천으로 산책로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%A0%9C%EC%B2%9C"
+    }
+  ],
+  "history_summary": "서대문구는 연세대학교와 이화여자대학교가 자리한 학문의 거리이자 독립문과 서대문형무소 등 역사 유적이 함께한 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
