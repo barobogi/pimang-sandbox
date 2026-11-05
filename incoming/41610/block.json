@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gyeonggi_Gwangju_City_Hall.JPG/1280px-Gyeonggi_Gwangju_City_Hall.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "광주 도심 하이라이트 시그니처 스카이 투어",
+      "description": "곤지암신도시 → 초부지구 → 광주시청 → 경안천 → 남한산성 순으로 이어지는 경기도 광주시의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "곤지암신도시",
+        "초부지구",
+        "광주시청",
+        "경안천",
+        "남한산성"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "광주 도심 활력 에어리얼 코스",
+      "description": "곤지암신도시 → 초부지구 → 광주시청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 광주의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "곤지암신도시",
+        "초부지구",
+        "광주시청"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "경기 광주시는 남한산성이 자리한 경기 동부의 도시이자 곤지암신도시가 발달했다.",
   "data_sources": [
     {
