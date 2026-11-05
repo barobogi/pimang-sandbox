@@ -1,0 +1,73 @@
+{
+  "block_code": "45190",
+  "block_name": "전북특별자치도 남원시",
+  "bbox": [
+    127.184002,
+    35.303277,
+    127.673237,
+    35.559043
+  ],
+  "center": [
+    35.43116,
+    127.428619
+  ],
+  "landmarks": [
+    {
+      "name": "광한루",
+      "lat": 35.4039641,
+      "lng": 127.3797612,
+      "category": "누정/문화유산",
+      "description": "춘향전의 배경이 되는 유명한 누정으로 광한루원이 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%95%9C%EB%A3%A8"
+    },
+    {
+      "name": "만인의총",
+      "lat": 35.4194839,
+      "lng": 127.3777197,
+      "category": "기념물/역사",
+      "description": "정유재란 때 순절한 남원 지역 군민을 기리는 대표 기념물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%9D%B8%EC%9D%98%EC%B4%9D"
+    },
+    {
+      "name": "용담댐",
+      "lat": 35.363,
+      "lng": 127.453,
+      "category": "댐/인프라",
+      "description": "섬진강에 건설된 대형 다목적 댐으로 용담호를 만들었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4%EB%8C%90"
+    },
+    {
+      "name": "천왕봉",
+      "lat": 35.4599526,
+      "lng": 127.6061848,
+      "category": "산/국립공원",
+      "description": "지리산의 주봉으로 남원·하동·함양 삼계에 걸쳐 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%99%95%EB%B4%89"
+    },
+    {
+      "name": "이몽룡문화의거리",
+      "lat": 35.412,
+      "lng": 127.389,
+      "category": "문화/거리",
+      "description": "춘향전 이야기를 테마로 조성된 남원 도심 문화 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9B%90%EC%8B%9C"
+    }
+  ],
+  "history_summary": "남원시는 춘향전의 배경이 된 유서 깊은 도시로 광한루와 만인의총, 지리산 천왕봉 등의 명소와 용담댐이 함께한 전북 동부의 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
