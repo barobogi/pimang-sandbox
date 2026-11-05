@@ -18,7 +18,13 @@
       "lng": 128.7539139,
       "category": "누정/문화유산",
       "description": "영남루은(는) 경상남도 밀양시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%A3%A8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%A3%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 89.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Yeongnamru_Miryang_Gyeongsangnamdo.JPG/1280px-Yeongnamru_Miryang_Gyeongsangnamdo.JPG"
     },
     {
       "name": "표충사",
@@ -26,7 +32,13 @@
       "lng": 128.9594367,
       "category": "사찰/문화유산",
       "description": "표충사은(는) 경상남도 밀양시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%91%9C%EC%B6%A9%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%91%9C%EC%B6%A9%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 252.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pyochungsa_Cheondong_Eunipsa_Hyangwan.jpg/1280px-Pyochungsa_Cheondong_Eunipsa_Hyangwan.jpg"
     },
     {
       "name": "밀양시청",
@@ -34,7 +46,13 @@
       "lng": 128.7460822,
       "category": "행정/랜드마크",
       "description": "밀양시청은(는) 경상남도 밀양시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 105.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Miryang_city_hall.jpg/1280px-Miryang_city_hall.jpg"
     },
     {
       "name": "밀양시장",
@@ -42,7 +60,13 @@
       "lng": 128.79896774999997,
       "category": "시장/먹거리",
       "description": "밀양시장은(는) 경상남도 밀양시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 27.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Miryang_March_1st_Movement_miniature.jpg/1280px-Miryang_March_1st_Movement_miniature.jpg"
     },
     {
       "name": "밀양강",
@@ -50,7 +74,13 @@
       "lng": 128.7730668,
       "category": "하천/자연",
       "description": "밀양강은(는) 경상남도 밀양시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 141.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Miryang_bridge25.jpg/1280px-Miryang_bridge25.jpg"
     }
   ],
   "history_summary": "밀양시는 영남루와 표충사, 밀양아리랑으로 유명한 경남 북부의 도시이다.",
