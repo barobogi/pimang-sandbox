@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Goheung-Gun_Office_Air_View.jpg/1280px-Goheung-Gun_Office_Air_View.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "고흥 도심 하이라이트 시그니처 스카이 투어",
+      "description": "고흥시장 → 고흥군청 → 팔영산 → 나로우주센터 → 소록도 순으로 이어지는 전라남도 고흥군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "고흥시장",
+        "고흥군청",
+        "팔영산",
+        "나로우주센터",
+        "소록도"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "고흥 도심 스카이라인 크루즈",
+      "description": "나로우주센터 → 고흥시장 → 고흥군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 고흥의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "나로우주센터",
+        "고흥시장",
+        "고흥군청"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
   "history_summary": "고흥군은 나로우주센터와 팔영산, 금산? 아니라 소록도가 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
