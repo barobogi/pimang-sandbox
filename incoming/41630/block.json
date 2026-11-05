@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "양주공원 큰마당식당",
+      "lat": 37.78972,
+      "lng": 127.06,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "광사동 상권 골목식당",
+      "lat": 37.8057,
+      "lng": 127.06614,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥정지구 동네밥집",
+      "lat": 37.77028,
+      "lng": 127.05563,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "양주역 상권 본점",
+      "lat": 37.81728,
+      "lng": 127.07328,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "경기 양주시는 서울 북부의 대표 위성 도시로 옥정지구와 양주역 상권이 함께한다.",
   "data_sources": [
     {
