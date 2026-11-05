@@ -18,7 +18,13 @@
       "lng": 126.9255584,
       "category": "산/공원",
       "description": "군포의 대표 산으로 수리산공원이 조성된 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%A6%AC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 216.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00359.jpg/1280px-2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00359.jpg"
     },
     {
       "name": "군포문화예술회관",
@@ -26,7 +32,13 @@
       "lng": 126.9290921,
       "category": "공연장/문화",
       "description": "군포의 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 200.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gunpo_montage.jpg"
     },
     {
       "name": "금산동 상권",
@@ -34,7 +46,13 @@
       "lng": 126.936,
       "category": "상권",
       "description": "금산동에 형성된 군포 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 216.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
     },
     {
       "name": "당정동 상권",
@@ -42,7 +60,13 @@
       "lng": 126.941,
       "category": "상권",
       "description": "당정동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 224.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gunpo_montage.jpg"
     },
     {
       "name": "군포공원",
@@ -50,7 +74,13 @@
       "lng": 126.939,
       "category": "공원",
       "description": "군포의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 237.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gunpo_montage.jpg"
     }
   ],
   "history_summary": "군포시는 수리산 공원이 자리한 경기 남부의 주거 도시이며 서울 남부 관문이다.",
