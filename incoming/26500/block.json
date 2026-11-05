@@ -18,7 +18,13 @@
       "lng": 129.1167806,
       "category": "해수욕장/관광",
       "description": "부산 대표 해수욕장으로 광안대교 야경과 부산 불꽃축제로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%95%88%EB%A6%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%95%88%EB%A6%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 56.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/b/b9/P080713002.jpg"
     },
     {
       "name": "수영사적공원",
@@ -26,7 +32,13 @@
       "lng": 129.1140212,
       "category": "공원/역사",
       "description": "조선 시대 수영 진영 터에 조성된 사적 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%98%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%98%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 125.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Fortress_site_of_Jwasuyeong.JPG/1280px-Fortress_site_of_Jwasuyeong.JPG"
     },
     {
       "name": "민락수변공원",
@@ -34,7 +46,13 @@
       "lng": 129.173,
       "category": "수변공원",
       "description": "민락동 해안에 조성된 수변 공원으로 해변 산책 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%98%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%98%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 264.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Suyoung_District_in_Busan.png/1280px-Suyoung_District_in_Busan.png"
     },
     {
       "name": "황령산",
@@ -42,7 +60,13 @@
       "lng": 129.1023374,
       "category": "산/자연",
       "description": "수성구와 수영구 경계에 자리한 산으로 대구? 아니라 부산 도심 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%A0%B9%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%A0%B9%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 62.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Landscape_of_Busan_from_Hwangryeongsan.jpg/1280px-Landscape_of_Busan_from_Hwangryeongsan.jpg"
     },
     {
       "name": "광안대교",
@@ -50,7 +74,13 @@
       "lng": 129.136131,
       "category": "교량/랜드마크",
       "description": "광안리 해안을 지나는 해상 교량으로 야경 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%95%88%EB%8C%80%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%95%88%EB%8C%80%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 338.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Gwangan_Bridge1.jpg/1280px-Gwangan_Bridge1.jpg"
     }
   ],
   "history_summary": "수영구는 조선 시대 동래부 수영 진영이 있던 유서 깊은 지역으로 광안리해수욕장과 수영사적공원, 황령산 등이 함께한 부산 남부의 해안 구이다.",
