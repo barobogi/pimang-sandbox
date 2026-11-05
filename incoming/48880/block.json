@@ -1,0 +1,73 @@
+{
+  "block_code": "48880",
+  "block_name": "경상남도 거창군",
+  "bbox": [
+    127.679079,
+    35.514449,
+    128.095067,
+    35.909944
+  ],
+  "center": [
+    35.712196,
+    127.887073
+  ],
+  "landmarks": [
+    {
+      "name": "수승대",
+      "lat": 35.7597812,
+      "lng": 127.8344671,
+      "category": "경승지/관광",
+      "description": "수승대은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0"
+    },
+    {
+      "name": "덕유산",
+      "lat": 35.8717337,
+      "lng": 127.7701239,
+      "category": "산/국립공원",
+      "description": "덕유산은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0"
+    },
+    {
+      "name": "거창창포원",
+      "lat": 35.6535267,
+      "lng": 127.9414049,
+      "category": "공원/자연",
+      "description": "거창창포원은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0"
+    },
+    {
+      "name": "거창군청",
+      "lat": 35.6860981,
+      "lng": 127.9096955,
+      "category": "행정/랜드마크",
+      "description": "거창군청은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "거창시장",
+      "lat": 35.712196399999996,
+      "lng": 127.88707295,
+      "category": "시장/먹거리",
+      "description": "거창시장은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0"
+    }
+  ],
+  "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
