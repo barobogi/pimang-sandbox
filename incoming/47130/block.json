@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "황남빵 원조집",
+      "lat": 35.841,
+      "lng": 129.209,
+      "specialty": "황남빵",
+      "category": "전통디저트"
+    },
+    {
+      "name": "교리김밥",
+      "lat": 35.85,
+      "lng": 129.225,
+      "specialty": "꼬마김밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "성동 참솔국밥",
+      "lat": 35.858,
+      "lng": 129.224,
+      "specialty": "솔향주물럭",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "경주시는 신라 천년 고도로 불국사와 석굴암, 첨성대, 대릉원 등 유네스코 세계유산을 포함한 국내 최대 문화유산 도시다.",
   "data_sources": [
     {
