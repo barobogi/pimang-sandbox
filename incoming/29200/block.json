@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "백호생태공원 본점",
+      "lat": 35.17772,
+      "lng": 126.77958,
+      "specialty": "양념통닭",
+      "category": "향토음식"
+    },
+    {
+      "name": "우수영공원 할매집",
+      "lat": 35.18458,
+      "lng": 126.80063,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "첨단지구 할매집",
+      "lat": 35.19942,
+      "lng": 126.80907,
+      "specialty": "오리탕",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "광주 광산구는 첨단지구와 송정역 상권이 자리한 광주 서부의 구이다.",
   "data_sources": [
     {
