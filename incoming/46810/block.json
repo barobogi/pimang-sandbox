@@ -117,6 +117,29 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "강진 할매집",
+      "lat": 34.640108,
+      "lng": 126.772391,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "강진 옛맛식당",
+      "lat": 34.640668,
+      "lng": 126.772321,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "강진 골목식당",
+      "lat": 34.640738,
+      "lng": 126.772461,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "강진군은 다산 초당과 백련사, 강진만 갯벌이 자리한 전남 남해안의 역사 문화 군이다.",
   "data_sources": [
     {
