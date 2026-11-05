@@ -1,0 +1,73 @@
+{
+  "block_code": "43760",
+  "block_name": "충청북도 진천군",
+  "bbox": [
+    127.289284,
+    36.748725,
+    127.585159,
+    37.012114
+  ],
+  "center": [
+    36.88042,
+    127.437222
+  ],
+  "landmarks": [
+    {
+      "name": "농다리",
+      "lat": 36.88041955,
+      "lng": 127.43722185,
+      "category": "문화유산/다리",
+      "description": "농다리은(는) 충청북도 진천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%86%8D%EB%8B%A4%EB%A6%AC"
+    },
+    {
+      "name": "백곡저수지",
+      "lat": 36.869998,
+      "lng": 127.4050994,
+      "category": "저수지/자연",
+      "description": "백곡저수지은(는) 충청북도 진천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EA%B3%A1%EC%A0%80%EC%88%98%EC%A7%80"
+    },
+    {
+      "name": "진천군청",
+      "lat": 36.8554267,
+      "lng": 127.4357747,
+      "category": "행정/랜드마크",
+      "description": "진천군청은(는) 충청북도 진천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "생거진천거북이마을",
+      "lat": 36.88041955,
+      "lng": 127.43722185,
+      "category": "마을/관광",
+      "description": "생거진천거북이마을은(는) 충청북도 진천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "name": "진천시장",
+      "lat": 36.88041955,
+      "lng": 127.43722185,
+      "category": "시장/먹거리",
+      "description": "진천시장은(는) 충청북도 진천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0"
+    }
+  ],
+  "history_summary": "진천군은 농다리와 생거진천 거북이 마을, 백곡저수지가 자리한 충북 중서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
