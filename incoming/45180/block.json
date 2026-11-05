@@ -1,0 +1,73 @@
+{
+  "block_code": "45180",
+  "block_name": "전북특별자치도 정읍시",
+  "bbox": [
+    126.715523,
+    35.461085,
+    127.116937,
+    35.758991
+  ],
+  "center": [
+    35.610038,
+    126.91623
+  ],
+  "landmarks": [
+    {
+      "name": "내장산",
+      "lat": 35.5474155,
+      "lng": 126.8816035,
+      "category": "산/국민관광지",
+      "description": "전북 대표 명산으로 가을 단풍으로 전국적으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%9E%A5%EC%82%B0"
+    },
+    {
+      "name": "내장사",
+      "lat": 35.4897388,
+      "lng": 126.9019835,
+      "category": "사찰/문화유산",
+      "description": "내장산 자락의 유서 깊은 사찰로 극락전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C"
+    },
+    {
+      "name": "초정약수",
+      "lat": 35.578,
+      "lng": 126.932,
+      "category": "약수/관광",
+      "description": "전국 유수의 약수터로 음용수 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98"
+    },
+    {
+      "name": "정읍객사",
+      "lat": 35.601,
+      "lng": 126.998,
+      "category": "객사/문화유산",
+      "description": "조선 시대 정읍부의 객사로 옛 관아 건축이 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C"
+    },
+    {
+      "name": "고부모충사",
+      "lat": 35.559,
+      "lng": 126.926,
+      "category": "사당/문화유산",
+      "description": "고부 지역의 유서 깊은 사당으로 전봉준과 연관된 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C"
+    }
+  ],
+  "history_summary": "정읍시는 백제 시대 옛 고부 지역으로 내장산과 내장사, 초정약수 등의 명소가 함께한 전북 서부의 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
