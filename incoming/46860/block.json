@@ -1,0 +1,73 @@
+{
+  "block_code": "46860",
+  "block_name": "전라남도 함평군",
+  "bbox": [
+    126.36054,
+    34.97351,
+    126.672119,
+    35.235582
+  ],
+  "center": [
+    35.104546,
+    126.51633
+  ],
+  "landmarks": [
+    {
+      "name": "함평자연생태공원",
+      "lat": 35.1349181,
+      "lng": 126.5032433,
+      "category": "생태/공원",
+      "description": "함평자연생태공원은(는) 전라남도 함평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EC%9E%90%EC%97%B0%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "함평나비축제장",
+      "lat": 35.10454595,
+      "lng": 126.5163297,
+      "category": "축제/관광",
+      "description": "함평나비축제장은(는) 전라남도 함평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0"
+    },
+    {
+      "name": "함평군청",
+      "lat": 35.0659654,
+      "lng": 126.5166819,
+      "category": "행정/랜드마크",
+      "description": "함평군청은(는) 전라남도 함평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "함평시장",
+      "lat": 35.10454595,
+      "lng": 126.5163297,
+      "category": "시장/먹거리",
+      "description": "함평시장은(는) 전라남도 함평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0"
+    },
+    {
+      "name": "고막원천",
+      "lat": 35.0293533,
+      "lng": 126.5941577,
+      "category": "하천/자연",
+      "description": "고막원천은(는) 전라남도 함평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A7%89%EC%9B%90%EC%B2%9C"
+    }
+  ],
+  "history_summary": "함평군은 함평나비축제와 함평자연생태공원, 고막원천이 자리한 전남 서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
