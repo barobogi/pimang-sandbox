@@ -117,6 +117,36 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "양구 할매집",
+      "lat": 38.10469,
+      "lng": 127.989286,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "양구 동네밥집",
+      "lat": 38.10448,
+      "lng": 127.988306,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "양구 골목식당",
+      "lat": 38.10469,
+      "lng": 127.989006,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "양구 솥뚜껑가게",
+      "lat": 38.10406,
+      "lng": 127.989216,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "양구군은 DMZ 자생식물원과 두타연, 펀치볼이 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
