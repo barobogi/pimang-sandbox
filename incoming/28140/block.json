@@ -18,7 +18,13 @@
       "lng": 126.614,
       "category": "공원/역사",
       "description": "인천항 옛 항구 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 57.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%EB%A7%8C%EC%84%9D%EA%B3%B5%EC%9B%90_%ED%95%9C_%EB%B0%94%ED%80%B4_%282020.09.20%29_01.jpg/1280px-%EB%A7%8C%EC%84%9D%EA%B3%B5%EC%9B%90_%ED%95%9C_%EB%B0%94%ED%80%B4_%282020.09.20%29_01.jpg"
     },
     {
       "name": "송월동 골목",
@@ -26,7 +32,13 @@
       "lng": 126.616,
       "category": "문화/거리",
       "description": "송월동 일대의 전통 문화 골목이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 41.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Songwol-dong_Fairy_Tale_Village.jpg/1280px-Songwol-dong_Fairy_Tale_Village.jpg"
     },
     {
       "name": "동인천역 상권",
@@ -34,7 +46,13 @@
       "lng": 126.64,
       "category": "상권",
       "description": "동인천역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 319.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dongincheon_Station.JPG/1280px-Dongincheon_Station.JPG"
     },
     {
       "name": "화수진공원",
@@ -42,7 +60,13 @@
       "lng": 126.628,
       "category": "공원",
       "description": "동구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 5.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dong-gu_office%2C_Incheon.JPG/1280px-Dong-gu_office%2C_Incheon.JPG"
     },
     {
       "name": "영종대교",
@@ -50,7 +74,13 @@
       "lng": 126.583,
       "category": "교량",
       "description": "영종도와 동구를 잇는 대교다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A2%85%EB%8C%80%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A2%85%EB%8C%80%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 103.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Yeongjong_Bridge2.jpg"
     }
   ],
   "history_summary": "인천 동구는 만석공원과 동인천역 상권, 영종대교가 자리한 인천 항만 중심의 구이다.",
