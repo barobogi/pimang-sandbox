@@ -1,0 +1,73 @@
+{
+  "block_code": "47760",
+  "block_name": "경상북도 영양군",
+  "bbox": [
+    128.983569,
+    36.48952,
+    129.313812,
+    36.881106
+  ],
+  "center": [
+    36.685313,
+    129.14869
+  ],
+  "landmarks": [
+    {
+      "name": "일월산",
+      "lat": 36.8032791,
+      "lng": 129.1029082,
+      "category": "산/자연",
+      "description": "일월산은(는) 경상북도 영양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%9B%94%EC%82%B0"
+    },
+    {
+      "name": "영양반딧불이생태공원",
+      "lat": 36.68531315,
+      "lng": 129.14869034999998,
+      "category": "생태/공원",
+      "description": "영양반딧불이생태공원은(는) 경상북도 영양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%91%EA%B5%B0"
+    },
+    {
+      "name": "두들마을",
+      "lat": 36.68531315,
+      "lng": 129.14869034999998,
+      "category": "마을/전통",
+      "description": "두들마을은(는) 경상북도 영양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%91%EA%B5%B0"
+    },
+    {
+      "name": "영양군청",
+      "lat": 36.6667444,
+      "lng": 129.1124275,
+      "category": "행정/랜드마크",
+      "description": "영양군청은(는) 경상북도 영양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%91%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "영양시장",
+      "lat": 36.6625662,
+      "lng": 129.1153662,
+      "category": "시장/먹거리",
+      "description": "영양시장은(는) 경상북도 영양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%91%EA%B5%B0"
+    }
+  ],
+  "history_summary": "영양군은 일월산과 영양반딧불이생태공원, 두들마을이 자리한 경북 북동부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
