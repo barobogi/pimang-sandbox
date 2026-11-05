@@ -107,6 +107,29 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "봉화 본점",
+      "lat": 36.889854,
+      "lng": 128.736019,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "봉화 솥뚜껑가게",
+      "lat": 36.890064,
+      "lng": 128.735529,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "봉화 골목식당",
+      "lat": 36.889784,
+      "lng": 128.735739,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "봉화군은 청량산과 봉화은어축제, 닭실마을이 자리한 경북 북부의 군이다.",
   "data_sources": [
     {
