@@ -18,7 +18,13 @@
       "lng": 126.9234645,
       "category": "상권/문화",
       "description": "대한민국 인디 음악과 청년 문화의 대표 중심지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 295.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eoulmadangro_z.jpg/1280px-Eoulmadangro_z.jpg"
     },
     {
       "name": "서울월드컵경기장",
@@ -26,7 +32,13 @@
       "lng": 126.8972477,
       "category": "체육/경기장",
       "description": "2002년 월드컵을 위해 조성된 대형 축구 전용 경기장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 123.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/AFC_Champions_League_Final_1st_leg.jpg/1280px-AFC_Champions_League_Final_1st_leg.jpg"
     },
     {
       "name": "망원한강공원",
@@ -34,7 +46,13 @@
       "lng": 126.9021613,
       "category": "한강공원",
       "description": "망원동 수변의 대표 한강 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 23.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Han_River_aerial_view.jpg"
     },
     {
       "name": "연남동",
@@ -42,7 +60,13 @@
       "lng": 126.92196,
       "category": "카페/문화",
       "description": "홍대 인근의 대표 카페·레스토랑 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EB%82%A8%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EB%82%A8%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 268.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Yeonnam-dong_Community_Service_Center_20140524_184843.jpg/1280px-Yeonnam-dong_Community_Service_Center_20140524_184843.jpg"
     },
     {
       "name": "난지한강공원",
@@ -50,7 +74,13 @@
       "lng": 126.8768605,
       "category": "한강공원",
       "description": "월드컵공원 옆 한강변 대형 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%9C%EC%A7%80%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%9C%EC%A7%80%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 99.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/%EB%82%9C%EC%A7%80%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90.jpg"
     }
   ],
   "history_summary": "마포구는 홍대와 서교동, 서울월드컵경기장이 자리한 대표 청년 문화 자치구이다.",
