@@ -1,0 +1,73 @@
+{
+  "block_code": "45770",
+  "block_name": "전북특별자치도 순창군",
+  "bbox": [
+    126.859739,
+    35.299233,
+    127.31427,
+    35.556127
+  ],
+  "center": [
+    35.42768,
+    127.087004
+  ],
+  "landmarks": [
+    {
+      "name": "강천산",
+      "lat": 35.40192,
+      "lng": 127.04838,
+      "category": "산/자연",
+      "description": "강천산은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%9C%EC%82%B0"
+    },
+    {
+      "name": "순창고추장민속마을",
+      "lat": 35.42767975,
+      "lng": 127.08700425,
+      "category": "마을/전통",
+      "description": "순창고추장민속마을은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0"
+    },
+    {
+      "name": "순창군청",
+      "lat": 35.374466,
+      "lng": 127.1373526,
+      "category": "행정/랜드마크",
+      "description": "순창군청은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "순창시장",
+      "lat": 35.42767975,
+      "lng": 127.08700425,
+      "category": "시장/먹거리",
+      "description": "순창시장은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0"
+    },
+    {
+      "name": "채계산? 아니라 회문산",
+      "lat": 35.42767975,
+      "lng": 127.08700425,
+      "category": "산/자연",
+      "description": "채계산? 아니라 회문산은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0"
+    }
+  ],
+  "history_summary": "순창군은 고추장의 고장으로 유명하며 강천산과 순창고추장민속마을이 자리한 전북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
