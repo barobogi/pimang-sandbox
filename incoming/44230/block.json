@@ -1,0 +1,73 @@
+{
+  "block_code": "44230",
+  "block_name": "충청남도 논산시",
+  "bbox": [
+    126.984256,
+    36.063033,
+    127.333816,
+    36.338938
+  ],
+  "center": [
+    36.200986,
+    127.159036
+  ],
+  "landmarks": [
+    {
+      "name": "관촉사",
+      "lat": 36.1884477,
+      "lng": 127.1130246,
+      "category": "사찰/문화유산",
+      "description": "관촉사은(는) 충청남도 논산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%B4%89%EC%82%AC"
+    },
+    {
+      "name": "강경젓갈시장",
+      "lat": 36.2009859,
+      "lng": 127.1590358,
+      "category": "시장/먹거리",
+      "description": "강경젓갈시장은(는) 충청남도 논산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B2%BD%EC%A0%93%EA%B0%88%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "논산시청",
+      "lat": 36.1872353,
+      "lng": 127.0987445,
+      "category": "행정/랜드마크",
+      "description": "논산시청은(는) 충청남도 논산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%BC%EC%82%B0%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "탑정호",
+      "lat": 36.1783768,
+      "lng": 127.1798397,
+      "category": "호수/공원",
+      "description": "탑정호은(는) 충청남도 논산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%91%EC%A0%95%ED%98%B8"
+    },
+    {
+      "name": "휴양림? 아니라 대둔산",
+      "lat": 36.2009859,
+      "lng": 127.1590358,
+      "category": "산/자연",
+      "description": "휴양림? 아니라 대둔산은(는) 충청남도 논산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%BC%EC%82%B0%EC%8B%9C"
+    }
+  ],
+  "history_summary": "논산시는 백제 유적인 관촉사 미륵보살입상과 강경젓갈시장, 딸기 재배로 유명한 충남 남부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
