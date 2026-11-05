@@ -1,0 +1,73 @@
+{
+  "block_code": "30140",
+  "block_name": "대전광역시 중구",
+  "bbox": [
+    127.367632,
+    36.207164,
+    127.457433,
+    36.348966
+  ],
+  "center": [
+    36.278065,
+    127.412533
+  ],
+  "landmarks": [
+    {
+      "name": "대전성황당",
+      "lat": 36.327,
+      "lng": 127.421,
+      "category": "사당/문화유산",
+      "description": "조선 시대 성황당을 복원한 사당으로 대전의 상징 중 하나다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "보문산",
+      "lat": 36.3067814,
+      "lng": 127.399211,
+      "category": "산/자연",
+      "description": "대전 도심에 자리한 산으로 등산로와 산책로가 조성된 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "대전중앙시장",
+      "lat": 36.325,
+      "lng": 127.42,
+      "category": "전통시장",
+      "description": "대전 도심 중앙에 위치한 대표 재래시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "대전근현대사전시관",
+      "lat": 36.3267308,
+      "lng": 127.4209421,
+      "category": "박물관/역사",
+      "description": "대전의 근현대 역사를 전시하는 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "대전 중앙로 지하상가",
+      "lat": 36.325,
+      "lng": 127.421,
+      "category": "상권/쇼핑",
+      "description": "대전 도심 중앙로 아래에 형성된 대형 지하 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "중구는 대전의 원도심으로 성황당과 보문산, 대전 근현대사 전시관 등이 있으며 대전 상업 중심지로 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
