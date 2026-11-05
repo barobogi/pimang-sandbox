@@ -1,0 +1,73 @@
+{
+  "block_code": "26290",
+  "block_name": "부산광역시 남구",
+  "bbox": [
+    129.053895,
+    35.041729,
+    129.212473,
+    35.161079
+  ],
+  "center": [
+    35.101404,
+    129.133184
+  ],
+  "landmarks": [
+    {
+      "name": "부경대학교",
+      "lat": 35.1342725,
+      "lng": 129.1052466,
+      "category": "교육/캠퍼스",
+      "description": "대연동에 자리한 부산의 대표 국립대학이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EA%B2%BD%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "국립해양박물관",
+      "lat": 35.0786526,
+      "lng": 129.0802577,
+      "category": "박물관/해양",
+      "description": "해양 역사와 과학을 전시하는 국립 박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%ED%95%B4%EC%96%91%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "용당수변공원",
+      "lat": 35.124,
+      "lng": 129.098,
+      "category": "수변공원",
+      "description": "부산항 남항 수변의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "용호동 상권",
+      "lat": 35.125,
+      "lng": 129.118,
+      "category": "상권",
+      "description": "용호동에 형성된 남구 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "남산공원",
+      "lat": 35.131,
+      "lng": 129.094,
+      "category": "공원",
+      "description": "남구 도심에 조성된 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "부산 남구는 대연동 상권과 부경대학교, 국립해양박물관이 자리한 부산 남부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
