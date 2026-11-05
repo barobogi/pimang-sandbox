@@ -1,0 +1,73 @@
+{
+  "block_code": "28720",
+  "block_name": "인천광역시 옹진군",
+  "bbox": [
+    124.372735,
+    36.854419,
+    126.555855,
+    38.052778
+  ],
+  "center": [
+    37.453599,
+    125.464295
+  ],
+  "landmarks": [
+    {
+      "name": "백령도",
+      "lat": 37.9498034,
+      "lng": 124.6724295,
+      "category": "섬/국립공원",
+      "description": "대한민국 최서단의 섬으로 두무진 등 해안 절경이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%B9%EB%8F%84"
+    },
+    {
+      "name": "연평도",
+      "lat": 37.9324569,
+      "lng": 124.6826506,
+      "category": "섬/어촌",
+      "description": "서해 어장의 중심 섬으로 대표 어촌이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%8F%89%EB%8F%84"
+    },
+    {
+      "name": "대청도",
+      "lat": 37.8246278,
+      "lng": 124.6986399,
+      "category": "섬/자연",
+      "description": "해안 절경이 아름다운 최서단 대형 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%EB%8F%84"
+    },
+    {
+      "name": "덕적도",
+      "lat": 37.241879,
+      "lng": 126.1155925,
+      "category": "섬/관광",
+      "description": "해안 절경과 유서 깊은 등대가 있는 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A0%81%EB%8F%84"
+    },
+    {
+      "name": "자월도",
+      "lat": 37.2580039,
+      "lng": 126.3055838,
+      "category": "섬/관광",
+      "description": "아름다운 해변으로 유명한 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9B%94%EB%8F%84"
+    }
+  ],
+  "history_summary": "인천 옹진군은 백령도와 연평도, 대청도 등 서해 5도를 포함한 최서단 군으로 해안 절경과 수산 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
