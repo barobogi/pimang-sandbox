@@ -1,0 +1,73 @@
+{
+  "block_code": "46890",
+  "block_name": "전라남도 완도군",
+  "bbox": [
+    126.306911,
+    33.759199,
+    127.213955,
+    34.494956
+  ],
+  "center": [
+    34.127078,
+    126.760433
+  ],
+  "landmarks": [
+    {
+      "name": "신지도",
+      "lat": 34.3287785,
+      "lng": 126.8261525,
+      "category": "섬/관광",
+      "description": "비자림과 해안 절경이 아름다운 완도의 대표 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%80%EB%8F%84"
+    },
+    {
+      "name": "보길도",
+      "lat": 34.151905,
+      "lng": 126.5438345,
+      "category": "섬/관광",
+      "description": "윤선도의 소요동산 터가 있는 완도의 대표 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EA%B8%B8%EB%8F%84"
+    },
+    {
+      "name": "소안도",
+      "lat": 34.1554372,
+      "lng": 126.654134,
+      "category": "섬/관광",
+      "description": "돌담과 바다 풍경이 아름다운 완도의 대표 섬 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%95%88%EB%8F%84"
+    },
+    {
+      "name": "청산도",
+      "lat": 34.1834269,
+      "lng": 126.8811435,
+      "category": "섬/어촌",
+      "description": "멸치 별미로 유명한 완도의 대표 어촌 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EB%8F%84%EA%B5%B0"
+    },
+    {
+      "name": "금등해수욕장",
+      "lat": 34.333,
+      "lng": 126.7,
+      "category": "해수욕장",
+      "description": "완도의 대표 해수욕장으로 여름철 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EB%8F%84%EA%B5%B0"
+    }
+  ],
+  "history_summary": "완도군은 청해진 장보고의 옛 항구였던 완도를 중심으로 한 남해안 최대 섬 군으로 신지도·보길도·소안도 등 아름다운 섬 관광 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
