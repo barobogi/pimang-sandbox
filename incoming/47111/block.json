@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Pohang_Nam-gu_office.JPG/1280px-Pohang_Nam-gu_office.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "남구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "상원대공원 → 형산강 → 죽도시장 → 포스코 포항제철소 → 오천항 순으로 이어지는 경상북도 포항시 남구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "상원대공원",
+        "형산강",
+        "죽도시장",
+        "포스코 포항제철소",
+        "오천항"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "남구 자연 힐링 스카이 워크",
+      "description": "포스코 포항제철소 → 형산강 → 상원대공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 남구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "포스코 포항제철소",
+        "형산강",
+        "상원대공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "포항시 남구는 포항의 산업 심장부로 포스코와 죽도시장, 오천항, 형산강이 자리한 포항 남부의 구이다.",
   "data_sources": [
     {
