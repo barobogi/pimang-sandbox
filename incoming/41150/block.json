@@ -18,7 +18,13 @@
       "lng": 127.05,
       "category": "상권",
       "description": "의정부역 중심의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 104.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Uijeongbu_Station.JPG/1280px-Uijeongbu_Station.JPG"
     },
     {
       "name": "자작공원",
@@ -26,7 +32,13 @@
       "lng": 127.045,
       "category": "도시공원",
       "description": "의정부 도심의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 110.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Betula_platyphylla_01-10-2005_14.55.52.JPG/1280px-Betula_platyphylla_01-10-2005_14.55.52.JPG"
     },
     {
       "name": "의정부 경전철",
@@ -34,7 +46,13 @@
       "lng": 127.048,
       "category": "교통",
       "description": "의정부 도심을 잇는 대표 대중교통이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80_%EA%B2%BD%EC%A0%84%EC%B2%A0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80_%EA%B2%BD%EC%A0%84%EC%B2%A0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 108.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Uijeongbu_ULine_VAL208.jpg/1280px-Uijeongbu_ULine_VAL208.jpg"
     },
     {
       "name": "호수공원",
@@ -42,7 +60,13 @@
       "lng": 127.055,
       "category": "공원",
       "description": "의정부의 대표 호수 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 104.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
     },
     {
       "name": "회룡역 상권",
@@ -50,7 +74,13 @@
       "lng": 127.044,
       "category": "상권",
       "description": "회룡역 중심의 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 82.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Uijeongbu_City_Hall.JPG/1280px-Uijeongbu_City_Hall.JPG"
     }
   ],
   "history_summary": "의정부시는 서울 북쪽 관문의 대표 위성 도시로 의정부역 상권과 경전철, 자작공원이 함께한다.",
