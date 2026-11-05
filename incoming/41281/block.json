@@ -1,0 +1,73 @@
+{
+  "block_code": "41281",
+  "block_name": "경기도 고양시 덕양구",
+  "bbox": [
+    126.75946,
+    37.571787,
+    126.994269,
+    37.748513
+  ],
+  "center": [
+    37.66015,
+    126.876865
+  ],
+  "landmarks": [
+    {
+      "name": "행주산성",
+      "lat": 37.6009423,
+      "lng": 126.8243096,
+      "category": "산성/문화유산",
+      "description": "한강변의 대표 산성으로 행주대첩의 역사가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%96%89%EC%A3%BC%EC%82%B0%EC%84%B1"
+    },
+    {
+      "name": "화정동 상권",
+      "lat": 37.632,
+      "lng": 126.834,
+      "category": "상권",
+      "description": "화정동에 형성된 덕양구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC"
+    },
+    {
+      "name": "고양시청",
+      "lat": 37.6560818,
+      "lng": 126.8318519,
+      "category": "행정/랜드마크",
+      "description": "고양시의 행정 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC"
+    },
+    {
+      "name": "창릉천",
+      "lat": 37.6482373,
+      "lng": 126.9094234,
+      "category": "하천/자연",
+      "description": "덕양구를 지나는 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%A6%89%EC%B2%9C"
+    },
+    {
+      "name": "덕은공원",
+      "lat": 37.63,
+      "lng": 126.84,
+      "category": "공원",
+      "description": "덕양구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%96%91%EA%B5%AC"
+    }
+  ],
+  "history_summary": "고양 덕양구는 행주산성과 화정동 상권이 함께한 고양 중부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
