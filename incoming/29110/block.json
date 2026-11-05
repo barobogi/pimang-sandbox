@@ -1,0 +1,73 @@
+{
+  "block_code": "29110",
+  "block_name": "광주광역시 동구",
+  "bbox": [
+    126.907206,
+    35.072326,
+    127.004253,
+    35.165459
+  ],
+  "center": [
+    35.118892,
+    126.95573
+  ],
+  "landmarks": [
+    {
+      "name": "무등산",
+      "lat": 35.1168571,
+      "lng": 127.0005914,
+      "category": "산/국립공원",
+      "description": "해발 1,187m의 호남 최고봉으로 무등산국립공원의 주봉이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%93%B1%EC%82%B0"
+    },
+    {
+      "name": "국립아시아문화전당",
+      "lat": 35.1481904,
+      "lng": 126.9185135,
+      "category": "문화/복합시설",
+      "description": "옛 광주도청 부지에 조성된 아시아 문화 교류 허브 복합문화시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%95%84%EC%8B%9C%EC%95%84%EB%AC%B8%ED%99%94%EC%A0%84%EB%8B%B9"
+    },
+    {
+      "name": "증심사",
+      "lat": 35.128846,
+      "lng": 126.9695465,
+      "category": "사찰/문화유산",
+      "description": "무등산 서쪽 기슭의 유서 깊은 사찰로 무등산 등산로의 출발점이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%EC%8B%AC%EC%82%AC"
+    },
+    {
+      "name": "동명동",
+      "lat": 35.1506034,
+      "lng": 126.9253083,
+      "category": "상권/카페",
+      "description": "광주의 대표 카페 거리로 현대·구 도심 상권의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "충장로",
+      "lat": 35.1478284,
+      "lng": 126.9175454,
+      "category": "상권/도심",
+      "description": "광주 도심의 대표 번화가로 충장축제가 열린다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "동구는 광주의 원도심으로 국립아시아문화전당과 충장로, 동명동이 자리하고 무등산 국립공원 증심사 지구가 함께한 광주 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
