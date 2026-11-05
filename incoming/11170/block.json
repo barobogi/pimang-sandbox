@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Seoul_Yongsan_Haebangchon_20250206.jpg/1280px-Seoul_Yongsan_Haebangchon_20250206.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "용산 역사·문화 시그니처 스카이 트레일",
+      "description": "전쟁기념관 → 해방촌 → 이태원 → 국립중앙박물관 → 남산 순으로 이어지는 서울특별시 용산구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "전쟁기념관",
+        "해방촌",
+        "이태원",
+        "국립중앙박물관",
+        "남산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "용산 고즈넉한 역사 스카이 산책",
+      "description": "이태원 → 전쟁기념관 → 국립중앙박물관 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 용산의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "이태원",
+        "전쟁기념관",
+        "국립중앙박물관"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
   "history_summary": "용산구는 이태원과 남산, 국립중앙박물관이 자리한 서울 중심부의 자치구로 국제적 문화와 국가 문화시설이 함께한다.",
   "data_sources": [
     {
