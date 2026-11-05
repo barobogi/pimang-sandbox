@@ -18,7 +18,13 @@
       "lng": 127.5950744,
       "category": "산/자연",
       "description": "장안산은(는) 전북특별자치도 장수군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 294.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%EC%9E%A5%EC%95%88%EC%82%B0.jpg/1280px-%EC%9E%A5%EC%95%88%EC%82%B0.jpg"
     },
     {
       "name": "논개생가",
@@ -26,7 +32,13 @@
       "lng": 127.6216762,
       "category": "유적/역사",
       "description": "논개생가은(는) 전북특별자치도 장수군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 251.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Panoramic_view_of_Jangsu-eup.jpg/1280px-Panoramic_view_of_Jangsu-eup.jpg"
     },
     {
       "name": "장수군청",
@@ -34,23 +46,41 @@
       "lng": 127.5210548,
       "category": "행정/랜드마크",
       "description": "장수군청은(는) 전북특별자치도 장수군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 54.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Panoramic_view_of_Jangsu-eup.jpg/1280px-Panoramic_view_of_Jangsu-eup.jpg"
     },
     {
       "name": "장수시장",
-      "lat": 35.65306825,
-      "lng": 127.5308968,
+      "lat": 35.6493144,
+      "lng": 127.5176754,
       "category": "시장/먹거리",
       "description": "장수시장은(는) 전북특별자치도 장수군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 70.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Panoramic_view_of_Jangsu-eup.jpg/1280px-Panoramic_view_of_Jangsu-eup.jpg"
     },
     {
-      "name": "방화산? 아니라 장수? 아니라 장수누리? 아니라 장수골프? 아니라 장수? 아니라 장수? 아니라 장수",
-      "lat": 35.65306825,
-      "lng": 127.5308968,
+      "name": "장수누리",
+      "lat": 35.6411798,
+      "lng": 127.5232284,
       "category": "자연",
-      "description": "방화산? 아니라 장수? 아니라 장수누리? 아니라 장수골프? 아니라 장수? 아니라 장수? 아니라 장수은(는) 전북특별자치도 장수군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0"
+      "description": "장수누리은(는) 전북특별자치도 장수군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%88%98%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 27.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Panoramic_view_of_Jangsu-eup.jpg/1280px-Panoramic_view_of_Jangsu-eup.jpg"
     }
   ],
   "history_summary": "장수군은 장안산과 논개 생가, 장수오미자로 유명한 전북 동부 고원의 군이다.",
