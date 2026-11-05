@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "구례 솥뚜껑가게",
+      "lat": 35.230707,
+      "lng": 127.494964,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "구례 큰마당식당",
+      "lat": 35.230217,
+      "lng": 127.495174,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "구례 골목식당",
+      "lat": 35.229727,
+      "lng": 127.495174,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "구례군은 지리산과 화엄사, 사성암이 자리한 전남 동부 산악 관광의 중심 군이다.",
   "data_sources": [
     {
