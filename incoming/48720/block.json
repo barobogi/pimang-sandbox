@@ -1,0 +1,73 @@
+{
+  "block_code": "48720",
+  "block_name": "경상남도 의령군",
+  "bbox": [
+    128.080489,
+    35.253451,
+    128.436518,
+    35.517557
+  ],
+  "center": [
+    35.385504,
+    128.258503
+  ],
+  "landmarks": [
+    {
+      "name": "충익사",
+      "lat": 35.3151655,
+      "lng": 128.2611673,
+      "category": "사당/역사",
+      "description": "충익사은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%9D%B5%EC%82%AC"
+    },
+    {
+      "name": "정암나루",
+      "lat": 35.38550395,
+      "lng": 128.25850335,
+      "category": "나루/경승지",
+      "description": "정암나루은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0"
+    },
+    {
+      "name": "한우산",
+      "lat": 35.3952197,
+      "lng": 128.1923631,
+      "category": "산/자연",
+      "description": "한우산은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%9A%B0%EC%82%B0"
+    },
+    {
+      "name": "의령군청",
+      "lat": 35.322135,
+      "lng": 128.2615077,
+      "category": "행정/랜드마크",
+      "description": "의령군청은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "의령시장",
+      "lat": 35.38550395,
+      "lng": 128.25850335,
+      "category": "시장/먹거리",
+      "description": "의령시장은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0"
+    }
+  ],
+  "history_summary": "의령군은 홍의장군 곽재우 유적과 정암나루, 한우산이 자리한 경남 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
