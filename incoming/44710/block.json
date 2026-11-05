@@ -18,15 +18,27 @@
       "lng": 127.498661,
       "category": "시장/특산물",
       "description": "금산인삼시장은(는) 충청남도 금산군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 340.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Insam_Land_Terminal_SA2.jpg/1280px-Insam_Land_Terminal_SA2.jpg"
     },
     {
       "name": "적벽강",
-      "lat": 36.12524175,
-      "lng": 127.48850125000001,
+      "lat": 36.0482504,
+      "lng": 127.5915177,
       "category": "하천/경승지",
       "description": "적벽강은(는) 충청남도 금산군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%81%EB%B2%BD%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%81%EB%B2%BD%EA%B0%95",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 312.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Buan_County-Chaeseokgang-01.jpg/1280px-Korea-Buan_County-Chaeseokgang-01.jpg"
     },
     {
       "name": "진악산",
@@ -34,7 +46,12 @@
       "lng": 127.4585692,
       "category": "산/자연",
       "description": "진악산은(는) 충청남도 금산군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 27.0
+      }
     },
     {
       "name": "금산군청",
@@ -42,15 +59,27 @@
       "lng": 127.4880517,
       "category": "행정/랜드마크",
       "description": "금산군청은(는) 충청남도 금산군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 1.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Panoramic_view_of_Geumsan-eup.jpg/1280px-Panoramic_view_of_Geumsan-eup.jpg"
     },
     {
-      "name": "태조? 아니라 보석? 아니라 금산인삼관",
-      "lat": 36.12524175,
-      "lng": 127.48850125000001,
+      "name": "금산인삼관",
+      "lat": 36.1001463,
+      "lng": 127.5012198,
       "category": "전시/특산물",
-      "description": "태조? 아니라 보석? 아니라 금산인삼관은(는) 충청남도 금산군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EA%B5%B0"
+      "description": "금산인삼관은(는) 충청남도 금산군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 337.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Panoramic_view_of_Geumsan-eup.jpg/1280px-Panoramic_view_of_Geumsan-eup.jpg"
     }
   ],
   "history_summary": "금산군은 인삼의 고장으로 유명하며 금산인삼시장과 적벽강, 진악산이 자리한 충남 남부의 군이다.",
