@@ -18,7 +18,13 @@
       "lng": 128.4172172,
       "category": "산/국립공원",
       "description": "설악산은(는) 강원특별자치도 인제군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 257.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Korea_Seoraksan.jpg/1280px-Korea_Seoraksan.jpg"
     },
     {
       "name": "내린천",
@@ -26,7 +32,12 @@
       "lng": 128.2910615,
       "category": "하천/자연",
       "description": "내린천은(는) 강원특별자치도 인제군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EB%A6%B0%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EB%A6%B0%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 351.0
+      }
     },
     {
       "name": "방동약수",
@@ -34,7 +45,13 @@
       "lng": 128.3963164,
       "category": "약수/자연",
       "description": "방동약수은(는) 강원특별자치도 인제군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 323.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/GC-GC-PCEgnbb3.jpg/1280px-GC-GC-PCEgnbb3.jpg"
     },
     {
       "name": "인제군청",
@@ -42,7 +59,13 @@
       "lng": 128.1703897,
       "category": "행정/랜드마크",
       "description": "인제군청은(는) 강원특별자치도 인제군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 59.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%EC%9D%B8%EC%A0%9C_%ED%95%98%EB%8A%98%EB%82%B4%EB%A6%B0%EB%A7%88%EC%9D%84%EB%B2%84%EC%8A%A4_%EC%9D%B8%EC%A0%9C-01%EB%B2%88_7203%ED%98%B8.png/1280px-%EC%9D%B8%EC%A0%9C_%ED%95%98%EB%8A%98%EB%82%B4%EB%A6%B0%EB%A7%88%EC%9D%84%EB%B2%84%EC%8A%A4_%EC%9D%B8%EC%A0%9C-01%EB%B2%88_7203%ED%98%B8.png"
     },
     {
       "name": "인제시장",
@@ -50,7 +73,13 @@
       "lng": 128.24554295000002,
       "category": "시장/먹거리",
       "description": "인제시장은(는) 강원특별자치도 인제군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 14.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gangwon-Inje.svg/1280px-Gangwon-Inje.svg.png"
     }
   ],
   "history_summary": "인제군은 설악산과 내린천, 방동약수, 빙어호가 자리한 강원 영동 북부의 군이다.",
