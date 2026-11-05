@@ -1,0 +1,73 @@
+{
+  "block_code": "48850",
+  "block_name": "경상남도 하동군",
+  "bbox": [
+    127.575889,
+    34.913216,
+    127.9424,
+    35.332327
+  ],
+  "center": [
+    35.122771,
+    127.759144
+  ],
+  "landmarks": [
+    {
+      "name": "섬진강",
+      "lat": 34.9431522,
+      "lng": 127.8672748,
+      "category": "하천/자연",
+      "description": "섬진강은(는) 경상남도 하동군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95"
+    },
+    {
+      "name": "화개장터",
+      "lat": 35.1883794,
+      "lng": 127.6242799,
+      "category": "시장/명소",
+      "description": "화개장터은(는) 경상남도 하동군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EA%B0%9C%EC%9E%A5%ED%84%B0"
+    },
+    {
+      "name": "쌍계사",
+      "lat": 35.2325728,
+      "lng": 127.6500886,
+      "category": "사찰/문화유산",
+      "description": "쌍계사은(는) 경상남도 하동군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8C%8D%EA%B3%84%EC%82%AC"
+    },
+    {
+      "name": "하동군청",
+      "lat": 35.0673125,
+      "lng": 127.7513132,
+      "category": "행정/랜드마크",
+      "description": "하동군청은(는) 경상남도 하동군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8F%99%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "하동시장",
+      "lat": 35.1227713,
+      "lng": 127.75914449999999,
+      "category": "시장/먹거리",
+      "description": "하동시장은(는) 경상남도 하동군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8F%99%EA%B5%B0"
+    }
+  ],
+  "history_summary": "하동군은 섬진강과 화개장터, 쌍계사가 자리한 경남 서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
