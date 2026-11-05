@@ -18,7 +18,12 @@
       "lng": 128.1514364,
       "category": "해안/자연",
       "description": "상족암은(는) 경상남도 고성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 56.3
+      }
     },
     {
       "name": "고성공룡박물관",
@@ -26,7 +31,13 @@
       "lng": 128.1485631,
       "category": "박물관/자연",
       "description": "고성공룡박물관은(는) 경상남도 고성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B3%B5%EB%A3%A1%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B3%B5%EB%A3%A1%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 57.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/GoseongJin28.jpg/1280px-GoseongJin28.jpg"
     },
     {
       "name": "당항포",
@@ -34,7 +45,12 @@
       "lng": 128.3973345,
       "category": "항구/관광",
       "description": "당항포은(는) 경상남도 고성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 226.9
+      }
     },
     {
       "name": "고성군청",
@@ -42,7 +58,13 @@
       "lng": 128.3222242,
       "category": "행정/랜드마크",
       "description": "고성군청은(는) 경상남도 고성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 7.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gyeongnam_Goseong-gun_office.JPG/1280px-Gyeongnam_Goseong-gun_office.JPG"
     },
     {
       "name": "고성시장",
@@ -50,7 +72,13 @@
       "lng": 128.3265815,
       "category": "시장/먹거리",
       "description": "고성시장은(는) 경상남도 고성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 53.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gyeongnam_Goseong-gun_office.JPG/1280px-Gyeongnam_Goseong-gun_office.JPG"
     }
   ],
   "history_summary": "고성군은 상족암과 공룡박물관, 당항포가 자리한 경남 남해안의 군이다.",
