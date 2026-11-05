@@ -1,0 +1,73 @@
+{
+  "block_code": "48330",
+  "block_name": "경상남도 양산시",
+  "bbox": [
+    128.87254,
+    35.273511,
+    129.219388,
+    35.531825
+  ],
+  "center": [
+    35.402668,
+    129.045964
+  ],
+  "landmarks": [
+    {
+      "name": "통도사",
+      "lat": 35.4878601,
+      "lng": 129.0642901,
+      "category": "사찰/문화유산",
+      "description": "신라 시대 창건된 대표 사찰로 석가모니 진신사리를 모신 대웅전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EB%8F%84%EC%82%AC"
+    },
+    {
+      "name": "영축사",
+      "lat": 35.5102539,
+      "lng": 129.0761107,
+      "category": "사찰/문화유산",
+      "description": "통도사와 함께한 암자로 천성산 자락의 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B6%95%EC%82%AC"
+    },
+    {
+      "name": "천성산",
+      "lat": 35.4015733,
+      "lng": 129.1062817,
+      "category": "산/자연",
+      "description": "통도사를 감싸고 있는 산으로 신라의 진산으로 알려진 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%84%B1%EC%82%B0"
+    },
+    {
+      "name": "배내골",
+      "lat": 35.523096,
+      "lng": 129.0102729,
+      "category": "계곡/자연",
+      "description": "양산과 울산 경계에 자리한 계곡과 고개로 여름철 피서 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%82%B0%EC%8B%9C"
+    },
+    {
+      "name": "황산공원",
+      "lat": 35.335,
+      "lng": 129.04,
+      "category": "도시공원",
+      "description": "양산 도심에 조성된 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%82%B0%EC%8B%9C"
+    }
+  ],
+  "history_summary": "양산시는 신라 시대 양산 화랑 문화와 통도사 등의 사찰 문화가 있는 경남 북부의 도시로 천성산과 배내골 등 자연 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
