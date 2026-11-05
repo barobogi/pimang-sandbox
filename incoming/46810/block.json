@@ -18,7 +18,13 @@
       "lng": 126.7450377,
       "category": "유적/역사",
       "description": "다산초당은(는) 전라남도 강진군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%82%B0%EC%B4%88%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%82%B0%EC%B4%88%EB%8B%B9",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 32.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Dasanchodang_%28%E8%8C%B6%E5%B1%B1%E8%8D%89%E5%A0%82%29_-_panoramio.jpg"
     },
     {
       "name": "백련사",
@@ -26,15 +32,27 @@
       "lng": 126.7477434,
       "category": "사찰/문화유산",
       "description": "백련사은(는) 전라남도 강진군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%A8%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%A8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 35.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/%EB%AC%B4%EC%A3%BC_%EB%B0%B1%EB%A0%A8%EC%82%AC_%EC%A0%95%EA%B4%80%EB%8B%B9_%EB%B6%80%EB%8F%84.jpg"
     },
     {
       "name": "강진만",
-      "lat": 34.615161900000004,
-      "lng": 126.77184105,
+      "lat": 34.6195195,
+      "lng": 126.7725627,
       "category": "해양/자연",
       "description": "강진만은(는) 전라남도 강진군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EB%A7%8C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EB%A7%8C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 187.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gangjin-gun_Office.JPG/1280px-Gangjin-gun_Office.JPG"
     },
     {
       "name": "강진군청",
@@ -42,15 +60,27 @@
       "lng": 126.7670106,
       "category": "행정/랜드마크",
       "description": "강진군청은(는) 전라남도 강진군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 171.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gangjin-gun_Office.JPG/1280px-Gangjin-gun_Office.JPG"
     },
     {
       "name": "강진시장",
-      "lat": 34.615161900000004,
-      "lng": 126.77184105,
+      "lat": 34.6402477,
+      "lng": 126.7728813,
       "category": "시장/먹거리",
       "description": "강진시장은(는) 전라남도 강진군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 182.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gangjin_Bus_Terminal.JPG/1280px-Gangjin_Bus_Terminal.JPG"
     }
   ],
   "history_summary": "강진군은 다산 초당과 백련사, 강진만 갯벌이 자리한 전남 남해안의 역사 문화 군이다.",
