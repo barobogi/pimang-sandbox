@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "서산마애삼존불",
-      "lat": 36.82375855,
-      "lng": 126.48113989999999,
+      "lat": 36.7738889,
+      "lng": 126.6052778,
       "category": "국보/문화유산",
       "description": "서산마애삼존불은(는) 충청남도 서산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%82%B0%EB%A7%88%EC%95%A0%EC%82%BC%EC%A1%B4%EB%B6%88"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%82%B0%EB%A7%88%EC%95%A0%EC%82%BC%EC%A1%B4%EB%B6%88",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 296.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg/1280px-%EC%A0%9C2%EA%B2%BD_%EB%A7%88%EC%95%A0%EC%97%AC%EB%9E%98%EC%82%BC%EC%A1%B4%EC%83%81.jpg"
     },
     {
       "name": "해미읍성",
@@ -26,7 +32,13 @@
       "lng": 126.5490933,
       "category": "읍성/문화유산",
       "description": "해미읍성은(는) 충청남도 서산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 333.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg/1280px-%EC%A0%9C1%EA%B2%BD_%ED%95%B4%EB%AF%B8%EC%9D%8D%EC%84%B1.jpg"
     },
     {
       "name": "서산시청",
@@ -34,15 +46,27 @@
       "lng": 126.450364,
       "category": "행정/랜드마크",
       "description": "서산시청은(는) 충청남도 서산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%82%B0%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%82%B0%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 32.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Seosan_montage.jpg/1280px-Seosan_montage.jpg"
     },
     {
       "name": "서산시장",
-      "lat": 36.82375855,
-      "lng": 126.48113989999999,
+      "lat": 36.7823962,
+      "lng": 126.4557602,
       "category": "시장/먹거리",
       "description": "서산시장은(는) 충청남도 서산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%82%B0%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%82%B0%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 26.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Seosan_montage.jpg/1280px-Seosan_montage.jpg"
     },
     {
       "name": "천수만",
@@ -50,7 +74,13 @@
       "lng": 126.3914023,
       "category": "해안/자연",
       "description": "천수만은(는) 충청남도 서산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%88%98%EB%A7%8C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%88%98%EB%A7%8C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 19.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cheonsuman.png"
     }
   ],
   "history_summary": "서산시는 서산마애삼존불과 해미읍성, 간척지 농업이 어우러진 충남 서북부의 도시이다.",
