@@ -117,6 +117,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "곡성 본점",
+      "lat": 35.280182,
+      "lng": 127.297991,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "곡성 옛맛식당",
+      "lat": 35.279412,
+      "lng": 127.297921,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "곡성 솥뚜껑가게",
+      "lat": 35.279132,
+      "lng": 127.298551,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "곡성 큰마당식당",
+      "lat": 35.280252,
+      "lng": 127.298761,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "곡성군은 섬진강 기차마을과 태안사, 곡성세계장미축제로 유명한 전남 동부의 군이다.",
   "data_sources": [
     {
