@@ -107,6 +107,29 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "장성 동네밥집",
+      "lat": 35.279893,
+      "lng": 126.761761,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "장성 할매집",
+      "lat": 35.280313,
+      "lng": 126.76218,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "장성 골목식당",
+      "lat": 35.280873,
+      "lng": 126.762461,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
   "data_sources": [
     {
