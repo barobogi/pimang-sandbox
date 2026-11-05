@@ -18,7 +18,13 @@
       "lng": 128.6866489,
       "category": "사찰/문화유산",
       "description": "부석사은(는) 경상북도 영주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%84%9D%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%84%9D%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 214.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg/1280px-%EB%B6%80%EC%84%9D%EC%82%AC_%EB%AC%B4%EB%9F%89%EC%88%98%EC%A0%84.jpg"
     },
     {
       "name": "소수서원",
@@ -26,7 +32,13 @@
       "lng": 128.5801059,
       "category": "서원/문화유산",
       "description": "소수서원은(는) 경상북도 영주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%88%98%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 174.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sosuseowon.jpg/1280px-Sosuseowon.jpg"
     },
     {
       "name": "무섬마을",
@@ -34,7 +46,13 @@
       "lng": 128.6233453,
       "category": "마을/전통",
       "description": "무섬마을은(는) 경상북도 영주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 348.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/7/7b/%EB%AC%B4%EC%84%AC%EB%A7%88%EC%9D%84%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "영주시청",
@@ -42,7 +60,13 @@
       "lng": 128.6240641,
       "category": "행정/랜드마크",
       "description": "영주시청은(는) 경상북도 영주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A3%BC%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A3%BC%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 337.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Yeongju_montage.jpg/1280px-Yeongju_montage.jpg"
     },
     {
       "name": "영주시장",
@@ -50,7 +74,13 @@
       "lng": 128.58530145,
       "category": "시장/먹거리",
       "description": "영주시장은(는) 경상북도 영주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A3%BC%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A3%BC%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 304.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Yeongju_montage.jpg/1280px-Yeongju_montage.jpg"
     }
   ],
   "history_summary": "영주시는 소수서원과 부석사, 무섬마을이 자리한 경북 북부의 유서 깊은 도시이다.",
