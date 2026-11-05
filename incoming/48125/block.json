@@ -82,6 +82,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Naknamjeongmaek.jpg/1280px-Naknamjeongmaek.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "마산합포 해안 절경 시그니처 드론 플라이트",
+      "description": "돝섬 → 마산합포구청 → 마산어시장 → 마산항 → 무학산 순으로 이어지는 경상남도 창원시 마산합포구의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "돝섬",
+        "마산합포구청",
+        "마산어시장",
+        "마산항",
+        "무학산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "마산합포 해안 절경 드론 플라이트",
+      "description": "마산항 → 마산합포구청 → 돝섬 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 마산합포의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "마산항",
+        "마산합포구청",
+        "돝섬"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "마산합포구는 마산 원도심과 마산항, 돝섬이 자리한 창원 서부의 구이다.",
   "data_sources": [
     {
