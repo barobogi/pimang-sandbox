@@ -1,0 +1,73 @@
+{
+  "block_code": "42720",
+  "block_name": "강원특별자치도 홍천군",
+  "bbox": [
+    127.535244,
+    37.552263,
+    128.588787,
+    37.94552
+  ],
+  "center": [
+    37.748891,
+    128.062016
+  ],
+  "landmarks": [
+    {
+      "name": "홍천강",
+      "lat": 37.766143,
+      "lng": 127.9708936,
+      "category": "하천/자연",
+      "description": "북한강의 지천으로 홍천군을 관통하며 강변 산책로와 자전거길이 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B0%95"
+    },
+    {
+      "name": "팔봉산",
+      "lat": 37.6958831,
+      "lng": 127.6971195,
+      "category": "산/자연",
+      "description": "홍천군의 진산으로 봄철 팔봉산 복사꽃 군락지로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%B4%89%EC%82%B0"
+    },
+    {
+      "name": "용추계곡",
+      "lat": 37.66,
+      "lng": 127.93,
+      "category": "계곡/자연",
+      "description": "홍천의 대표 계곡으로 용이 오르내렸다는 전설을 지닌 폭포 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "name": "내면숲휴양림",
+      "lat": 37.6,
+      "lng": 128.05,
+      "category": "숲휴양림",
+      "description": "내면 일대의 숲을 활용한 국유림 휴양림으로 숲 체험 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "name": "홍천문화예술의전당",
+      "lat": 37.697,
+      "lng": 127.888,
+      "category": "공연장/문화",
+      "description": "홍천군 대표 공연·전시 문화시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B5%B0"
+    }
+  ],
+  "history_summary": "홍천군은 홍천강이 흐르는 강원 내륙의 군으로 팔봉산 복사꽃 관광과 메밀·고추 등 농특산물 산지로서 내면숲휴양림 등 산림 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
