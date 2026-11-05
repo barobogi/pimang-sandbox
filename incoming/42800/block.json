@@ -1,0 +1,73 @@
+{
+  "block_code": "42800",
+  "block_name": "강원특별자치도 양구군",
+  "bbox": [
+    127.851745,
+    38.001625,
+    128.172391,
+    38.330918
+  ],
+  "center": [
+    38.166271,
+    128.012068
+  ],
+  "landmarks": [
+    {
+      "name": "두타연",
+      "lat": 38.2726591,
+      "lng": 127.9939994,
+      "category": "계곡/자연",
+      "description": "두타연은(는) 강원특별자치도 양구군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0"
+    },
+    {
+      "name": "DMZ자생식물원",
+      "lat": 38.1662713,
+      "lng": 128.0120679,
+      "category": "식물원/생태",
+      "description": "DMZ자생식물원은(는) 강원특별자치도 양구군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0"
+    },
+    {
+      "name": "양구군청",
+      "lat": 38.1099784,
+      "lng": 127.9899497,
+      "category": "행정/랜드마크",
+      "description": "양구군청은(는) 강원특별자치도 양구군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "양구시장",
+      "lat": 38.1662713,
+      "lng": 128.0120679,
+      "category": "시장/먹거리",
+      "description": "양구시장은(는) 강원특별자치도 양구군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0"
+    },
+    {
+      "name": "해안분지",
+      "lat": 38.1662713,
+      "lng": 128.0120679,
+      "category": "지형/자연",
+      "description": "해안분지은(는) 강원특별자치도 양구군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%95%88%EB%B6%84%EC%A7%80"
+    }
+  ],
+  "history_summary": "양구군은 DMZ 자생식물원과 두타연, 펀치볼이 자리한 강원 영서 최북단의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
