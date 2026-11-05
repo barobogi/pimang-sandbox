@@ -1,0 +1,73 @@
+{
+  "block_code": "48220",
+  "block_name": "경상남도 통영시",
+  "bbox": [
+    128.080673,
+    34.205043,
+    128.816275,
+    34.979645
+  ],
+  "center": [
+    34.592344,
+    128.448474
+  ],
+  "landmarks": [
+    {
+      "name": "통영해상케이블카",
+      "lat": 34.827,
+      "lng": 128.432,
+      "category": "관광시설",
+      "description": "도남동과 미륵도를 잇는 해상 케이블카로 통영의 상징 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81%EC%8B%9C"
+    },
+    {
+      "name": "동피랑마을",
+      "lat": 34.8456985,
+      "lng": 128.4275059,
+      "category": "문화마을",
+      "description": "옛 선원 마을에 벽화가 그려진 대표 문화 벽화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%94%BC%EB%9E%91%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "거북선전시관",
+      "lat": 34.83,
+      "lng": 128.435,
+      "category": "박물관/역사",
+      "description": "충무공이 건조한 거북선을 재현·전시하는 역사 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81%EC%8B%9C"
+    },
+    {
+      "name": "한산도",
+      "lat": 34.7875823,
+      "lng": 128.4792425,
+      "category": "섬/관광",
+      "description": "한산도대첩이 일어난 유서 깊은 섬으로 비담계곡과 아름다운 해안 경관으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%82%B0%EB%8F%84"
+    },
+    {
+      "name": "비봉산",
+      "lat": 34.839,
+      "lng": 128.425,
+      "category": "산/자연",
+      "description": "통영 도심에 자리한 산으로 정자에서 통영 항구가 내려다보인다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81%EC%8B%9C"
+    }
+  ],
+  "history_summary": "통영시는 한산도와 미륵도 등 섬과 항구가 어우러진 남해안 대표 관광 도시로 삼학도 해전과 거북선 문화, 통영해상케이블카가 상징이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
