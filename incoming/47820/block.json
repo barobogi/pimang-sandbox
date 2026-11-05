@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "청도 본점",
+      "lat": 35.643546,
+      "lng": 128.7439,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "청도 가마솥밥가",
+      "lat": 35.643266,
+      "lng": 128.74341,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "청도 할매집",
+      "lat": 35.643616,
+      "lng": 128.74376,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
   "data_sources": [
     {
