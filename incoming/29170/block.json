@@ -18,7 +18,13 @@
       "lng": 126.9068927,
       "category": "교육/캠퍼스",
       "description": "광주의 대표 국립대학이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 54.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/%EC%A0%95%EB%AC%B8%EC%82%AC%EC%A7%84_01.jpg"
     },
     {
       "name": "양림동 역사문화마을",
@@ -26,7 +32,13 @@
       "lng": 126.905,
       "category": "문화마을",
       "description": "오래된 골목과 역사가 남아 있는 대표 문화 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 23.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Buk-gu_office%2C_Gwangju.JPG/1280px-Buk-gu_office%2C_Gwangju.JPG"
     },
     {
       "name": "청움공원",
@@ -34,7 +46,13 @@
       "lng": 126.9,
       "category": "공원",
       "description": "북구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 43.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Buk-gu_office%2C_Gwangju.JPG/1280px-Buk-gu_office%2C_Gwangju.JPG"
     },
     {
       "name": "광주비엔날레",
@@ -42,7 +60,13 @@
       "lng": 126.8894456,
       "category": "문화/행사",
       "description": "광주의 대표 국제 예술 행사다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EB%B9%84%EC%97%94%EB%82%A0%EB%A0%88"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EB%B9%84%EC%97%94%EB%82%A0%EB%A0%88",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 77.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Gwangju_Biennale_Exhibition.jpg/1280px-Gwangju_Biennale_Exhibition.jpg"
     },
     {
       "name": "전라감영공원",
@@ -50,7 +74,13 @@
       "lng": 126.908,
       "category": "역사/공원",
       "description": "조선 시대 전라감영이 있던 터이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 28.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Seonhwadang_in_Jeonju.jpg"
     }
   ],
   "history_summary": "광주 북구는 전남대학교와 양림동 역사문화마을이 자리한 광주 북부의 구이다.",
