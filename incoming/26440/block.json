@@ -1,0 +1,73 @@
+{
+  "block_code": "26440",
+  "block_name": "부산광역시 강서구",
+  "bbox": [
+    128.756807,
+    34.766047,
+    128.998492,
+    35.232689
+  ],
+  "center": [
+    34.999368,
+    128.877649
+  ],
+  "landmarks": [
+    {
+      "name": "을숙도생태공원",
+      "lat": 35.09,
+      "lng": 128.88,
+      "category": "생태/공원",
+      "description": "낙동강 하구 철새 도래지로 유네스코 생물권보전지역인 을숙도의 생태공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84"
+    },
+    {
+      "name": "벚꽃공원",
+      "lat": 35.15,
+      "lng": 128.95,
+      "category": "꽃길/공원",
+      "description": "강서구에 조성된 벚꽃 테마 공원으로 봄철 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "가덕도",
+      "lat": 35.0023625,
+      "lng": 128.8346881,
+      "category": "섬/해양",
+      "description": "부산 최서단의 섬으로 갯벌과 해수욕장, 신공항 부지로 알려졌다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%8D%95%EB%8F%84"
+    },
+    {
+      "name": "지사문화마을",
+      "lat": 35.14,
+      "lng": 128.96,
+      "category": "문화/마을",
+      "description": "강서구 지사동에 조성된 문화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "낙동강하구에코센터",
+      "lat": 35.095,
+      "lng": 128.885,
+      "category": "생태/전시",
+      "description": "낙동강 하구 생태를 전시하는 환경 학습 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "강서구는 낙동강 하구의 을숙도와 벚꽃공원, 지사문화마을, 가덕도가 자리한 부산 서부의 구로 국제신도시가 개발 중이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
