@@ -117,6 +117,29 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "신흥 큰마당식당",
+      "lat": 37.444031,
+      "lng": 127.143154,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "신흥 옛맛식당",
+      "lat": 37.444801,
+      "lng": 127.143574,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "신흥 가마솥밥가",
+      "lat": 37.443751,
+      "lng": 127.143434,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "성남 수정구는 남한산성 북쪽 자락의 구로 신흥시장과 산성역 상권이 함께한다.",
   "data_sources": [
     {
