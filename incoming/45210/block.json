@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "김제 본점",
+      "lat": 35.799434,
+      "lng": 126.886916,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "김제 골목식당",
+      "lat": 35.800694,
+      "lng": 126.886286,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "김제 동네밥집",
+      "lat": 35.800484,
+      "lng": 126.885796,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "김제 솥뚜껑가게",
+      "lat": 35.800624,
+      "lng": 126.885726,
+      "specialty": "부추파전",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "김제시는 벽골제와 만경평야, 금산사가 자리한 전북 서부의 대표 농업 도시이다.",
   "data_sources": [
     {
