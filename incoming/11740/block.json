@@ -1,0 +1,73 @@
+{
+  "block_code": "11740",
+  "block_name": "서울특별시 강동구",
+  "bbox": [
+    127.054,
+    37.516789,
+    127.18377,
+    37.581202
+  ],
+  "center": [
+    37.548996,
+    127.118885
+  ],
+  "landmarks": [
+    {
+      "name": "암사선사주거지",
+      "lat": 37.556,
+      "lng": 127.076,
+      "category": "유적/선사",
+      "description": "신석기 시대 집터가 보존된 대표 선사 유적지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%94%EC%82%AC%EB%8F%99_%EC%84%A0%EC%82%AC%EC%A3%BC%EA%B1%B0%EC%A7%80"
+    },
+    {
+      "name": "천호역 상권",
+      "lat": 37.539,
+      "lng": 127.054,
+      "category": "상권",
+      "description": "강동구 최대 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+    },
+    {
+      "name": "고덕공원",
+      "lat": 37.558,
+      "lng": 127.09,
+      "category": "공원",
+      "description": "고덕동 일대의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+    },
+    {
+      "name": "고덕한강공원",
+      "lat": 37.552,
+      "lng": 127.097,
+      "category": "한강공원",
+      "description": "고덕동 수변의 한강 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+    },
+    {
+      "name": "길동공원",
+      "lat": 37.5437293,
+      "lng": 127.1517334,
+      "category": "공원",
+      "description": "길동 일대의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%8F%99%EA%B5%AC"
+    }
+  ],
+  "history_summary": "강동구는 천호동 상권과 암사동 선사 유적이 함께한 서울 동남부 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
