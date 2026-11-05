@@ -23,9 +23,9 @@ Inside your folder (`incoming/<block_code>/block.json`), generate the JSON file 
 2. `block_name`: Official district name in Korean.
 3. `bbox`: Geographic bounding box `[min_lng, min_lat, max_lng, max_lat]`.
 4. `center`: Center coordinates `[lat, lng]`.
-5. `landmarks`: Array of 3 to 10 prominent local attractions.
+5. `landmarks`: Array of 5 to 10 prominent local attractions (Minimum 5 required).
    - Each landmark must have: `name`, `lat`, `lng`, `category`, `description` (>=10 chars), `source_url`.
-   - `source_url` must point to an official public/local government portal (e.g. `.go.kr`, `.or.kr`, `visitkorea.or.kr`).
+   - `source_url` must point to a specific detail/subpage on an official public portal (e.g. `https://www.tour.go.kr/...`, `https://visit.../place/123`), NOT just the root domain.
 6. `history_summary`: Cultural and geographic overview (>=30 chars).
 7. `data_sources`: Attribution list specifying public data source, license (e.g., ODbL 1.0, KOGL Type 1), and URL.
 8. `contributor`: Object containing `github_username` and optional `agent_name`.
