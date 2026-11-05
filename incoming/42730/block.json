@@ -18,7 +18,13 @@
       "lng": 128.2945736,
       "category": "숲휴양림",
       "description": "청태산자연휴양림은(는) 강원특별자치도 횡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 260.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hoengseong-gun_Office.JPG/1280px-Hoengseong-gun_Office.JPG"
     },
     {
       "name": "횡성호",
@@ -26,23 +32,40 @@
       "lng": 128.038822,
       "category": "호수/자연",
       "description": "횡성호은(는) 강원특별자치도 횡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 186.3
+      }
     },
     {
       "name": "둔내면 상권",
-      "lat": 37.48947005,
-      "lng": 128.03084375,
+      "lat": 37.5121258,
+      "lng": 128.2187842,
       "category": "상권",
       "description": "둔내면 상권은(는) 강원특별자치도 횡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 261.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hoengseong-gun_Office.JPG/1280px-Hoengseong-gun_Office.JPG"
     },
     {
       "name": "횡성시장",
-      "lat": 37.48947005,
-      "lng": 128.03084375,
+      "lat": 37.4897256,
+      "lng": 127.9872013,
       "category": "시장/먹거리",
       "description": "횡성시장은(는) 강원특별자치도 횡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 90.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/202003%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5IMG_1313.jpg/1280px-202003%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5IMG_1313.jpg"
     },
     {
       "name": "횡성군청",
@@ -50,7 +73,13 @@
       "lng": 127.9851205,
       "category": "행정/랜드마크",
       "description": "횡성군청은(는) 강원특별자치도 횡성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 93.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hoengseong-gun_Office.JPG/1280px-Hoengseong-gun_Office.JPG"
     }
   ],
   "history_summary": "횡성군은 강원 영서 내륙의 군으로 횡성한우와 둔내, 청태산 자연휴양림 등 산림 자원이 풍부한 지역이다.",
