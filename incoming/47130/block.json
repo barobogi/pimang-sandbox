@@ -1,0 +1,73 @@
+{
+  "block_code": "47130",
+  "block_name": "경상북도 경주시",
+  "bbox": [
+    128.97018,
+    35.633492,
+    129.5543,
+    36.079349
+  ],
+  "center": [
+    35.856421,
+    129.26224
+  ],
+  "landmarks": [
+    {
+      "name": "불국사",
+      "lat": 35.7889948,
+      "lng": 129.3308902,
+      "category": "사찰/유네스코",
+      "description": "신라 시대 창건된 대표 사찰로 석가탑과 다보탑이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B5%AD%EC%82%AC"
+    },
+    {
+      "name": "석굴암",
+      "lat": 35.7948033,
+      "lng": 129.3491954,
+      "category": "석굴/유네스코",
+      "description": "통일 신라 시대 대표 석굴 사원으로 본존불이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EA%B5%B4%EC%95%94"
+    },
+    {
+      "name": "첨성대",
+      "lat": 35.834704,
+      "lng": 129.2189849,
+      "category": "천문대/유네스코",
+      "description": "동양 최고(最古)의 천문대로 알려진 신라 시대 석조 건축물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A8%EC%84%B1%EB%8C%80"
+    },
+    {
+      "name": "동궁과 월지",
+      "lat": 35.8347003,
+      "lng": 129.2264375,
+      "category": "유적/야경",
+      "description": "신라 시대 이궁 터로 월지 야경으로 유명한 대표 문화유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80"
+    },
+    {
+      "name": "대릉원",
+      "lat": 35.8389484,
+      "lng": 129.2119324,
+      "category": "고분/유적",
+      "description": "신라 왕릉들이 밀집한 고분 군락지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A6%89%EC%9B%90"
+    }
+  ],
+  "history_summary": "경주시는 신라 천년 고도로 불국사와 석굴암, 첨성대, 대릉원 등 유네스코 세계유산을 포함한 국내 최대 문화유산 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
