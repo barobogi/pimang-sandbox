@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "화순 가마솥밥가",
+      "lat": 35.058945,
+      "lng": 126.981984,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "화순 옛맛식당",
+      "lat": 35.059155,
+      "lng": 126.982544,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "화순 골목식당",
+      "lat": 35.058875,
+      "lng": 126.983174,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "화순 솥뚜껑가게",
+      "lat": 35.059435,
+      "lng": 126.982054,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "화순군은 운주사와 화순고인돌유적, 적벽이 자리한 전남 중부의 군이다.",
   "data_sources": [
     {
