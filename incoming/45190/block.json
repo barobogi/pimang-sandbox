@@ -18,7 +18,13 @@
       "lng": 127.3797612,
       "category": "누정/문화유산",
       "description": "춘향전의 배경이 되는 유명한 누정으로 광한루원이 함께한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%95%9C%EB%A3%A8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%95%9C%EB%A3%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 55.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Korea-Nawon-Kwanghanlu2.jpg/1280px-Korea-Nawon-Kwanghanlu2.jpg"
     },
     {
       "name": "만인의총",
@@ -26,7 +32,13 @@
       "lng": 127.3777197,
       "category": "기념물/역사",
       "description": "정유재란 때 순절한 남원 지역 군민을 기리는 대표 기념물이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%9D%B8%EC%9D%98%EC%B4%9D"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%9D%B8%EC%9D%98%EC%B4%9D",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 74.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amlou2518_%EB%82%A8%EC%9B%90_%EB%A7%8C%EC%9D%B8%EC%9D%98%EC%B4%9D.jpg"
     },
     {
       "name": "용담댐",
@@ -34,7 +46,13 @@
       "lng": 127.453,
       "category": "댐/인프라",
       "description": "섬진강에 건설된 대형 다목적 댐으로 용담호를 만들었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4%EB%8C%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4%EB%8C%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg/1280px-%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg"
     },
     {
       "name": "천왕봉",
@@ -42,7 +60,13 @@
       "lng": 127.6061848,
       "category": "산/국립공원",
       "description": "지리산의 주봉으로 남원·하동·함양 삼계에 걸쳐 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%99%95%EB%B4%89"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%99%95%EB%B4%89",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 258.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%EC%A7%80%EB%A6%AC%EC%82%B0_%EC%B2%9C%EC%99%95%EB%B4%89.jpg"
     },
     {
       "name": "이몽룡문화의거리",
@@ -50,7 +74,13 @@
       "lng": 127.389,
       "category": "문화/거리",
       "description": "춘향전 이야기를 테마로 조성된 남원 도심 문화 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9B%90%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9B%90%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 59.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Namwon_City_Hall.JPG/1280px-Namwon_City_Hall.JPG"
     }
   ],
   "history_summary": "남원시는 춘향전의 배경이 된 유서 깊은 도시로 광한루와 만인의총, 지리산 천왕봉 등의 명소와 용담댐이 함께한 전북 동부의 도시다.",
