@@ -18,7 +18,13 @@
       "lng": 127.3825,
       "category": "테마공원/과학",
       "description": "1993 대전엑스포 부지에 조성된 과학 테마 공원으로 엑스포다리가 상징이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 284.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EC%97%91%EC%8A%A4%ED%8F%AC%EA%B3%BC%ED%95%99%EA%B3%B5%EC%9B%90_%EC%A0%84%EA%B2%BD_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0.png/1280px-%EC%97%91%EC%8A%A4%ED%8F%AC%EA%B3%BC%ED%95%99%EA%B3%B5%EC%9B%90_%EC%A0%84%EA%B2%BD_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0.png"
     },
     {
       "name": "KAIST",
@@ -26,7 +32,13 @@
       "lng": 127.3620118,
       "category": "교육/과학",
       "description": "대한민국 대표 이공계 특성화 대학으로 대덕연구단지 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 296.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/KAIST_Main_entrance.jpg/1280px-KAIST_Main_entrance.jpg"
     },
     {
       "name": "유성온천",
@@ -34,7 +46,13 @@
       "lng": 127.3417016,
       "category": "온천/관광",
       "description": "온천거리로 유명한 유성 대표 온천지구다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 345.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C_%EC%A1%B1%EC%9A%95%EC%B2%B4%ED%97%98%EC%9E%A5.png/1280px-%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C_%EC%A1%B1%EC%9A%95%EC%B2%B4%ED%97%98%EC%9E%A5.png"
     },
     {
       "name": "계족산",
@@ -42,7 +60,13 @@
       "lng": 127.4,
       "category": "산/자연",
       "description": "유성구 남쪽에 자리한 산으로 등산로가 조성된 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 326.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gyejoksan_Fortress.jpg/1280px-Gyejoksan_Fortress.jpg"
     },
     {
       "name": "대덕연구개발단지",
@@ -50,7 +74,13 @@
       "lng": 127.39,
       "category": "과학/연구",
       "description": "대한민국 최초의 과학 연구단지로 국가 연구기관이 밀집해 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EC%97%B0%EA%B5%AC%EB%8B%A8%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EC%97%B0%EA%B5%AC%EB%8B%A8%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 285.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/ETRI-1%2C_Korea.jpg/1280px-ETRI-1%2C_Korea.jpg"
     }
   ],
   "history_summary": "유성구는 대덕연구단지와 KAIST, 충남대 등 과학·교육 도시의 중심이며 유성온천과 대전엑스포과학공원 등의 명소가 함께한 대전 북부의 구이다.",
