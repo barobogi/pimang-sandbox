@@ -18,7 +18,13 @@
       "lng": 128.898,
       "category": "공원/문화유산",
       "description": "봉황대를 중심으로 조성된 공원으로 가야의 상징 토성이 남아 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%A9%EB%8C%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%A9%EB%8C%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 321.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Royal_Poinciana.jpg/1280px-Royal_Poinciana.jpg"
     },
     {
       "name": "국립김해박물관",
@@ -26,7 +32,13 @@
       "lng": 128.876,
       "category": "박물관/문화",
       "description": "가야사 전문 국립 박물관으로 가야 문화유산을 전시한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B9%80%ED%95%B4%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B9%80%ED%95%B4%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 336.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Gimhae_national_museum.JPG/1280px-Gimhae_national_museum.JPG"
     },
     {
       "name": "가야테마파크",
@@ -34,7 +46,13 @@
       "lng": 128.886,
       "category": "테마공원/역사",
       "description": "철기시대 가야 마을을 재현한 역사 체험 테마 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 332.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%EA%B9%80%ED%95%B4%EA%B0%80%EC%95%BC%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC_%EB%8F%84%EC%9E%90%EA%B8%B0%EC%B2%B4%ED%97%98%EA%B4%80.jpg/1280px-%EA%B9%80%ED%95%B4%EA%B0%80%EC%95%BC%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC_%EB%8F%84%EC%9E%90%EA%B8%B0%EC%B2%B4%ED%97%98%EA%B4%80.jpg"
     },
     {
       "name": "수어촌",
@@ -42,7 +60,13 @@
       "lng": 128.876,
       "category": "역사/체험",
       "description": "가야 시대 병영과 수어 시설을 재현한 역사 체험 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 328.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Montage_of_Gimhae.jpg"
     },
     {
       "name": "장유폭포",
@@ -50,7 +74,13 @@
       "lng": 128.7721171,
       "category": "계곡/자연",
       "description": "장유동에 자리한 폭포와 계곡으로 김해의 대표 자연 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 38.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jangyu%2C_Gimhae%2C_2015-05-23.jpg/1280px-Jangyu%2C_Gimhae%2C_2015-05-23.jpg"
     }
   ],
   "history_summary": "김해시는 가야의 수도 금관가야였던 유서 깊은 도시로 봉황대와 국립김해박물관, 가야테마파크 등 가야 문화유산과 근현대 산업 도시가 함께한다.",
