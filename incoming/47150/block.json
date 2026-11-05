@@ -18,7 +18,13 @@
       "lng": 128.114,
       "category": "전통시장",
       "description": "대한민국 대표 한약재 시장으로 약령시장의 원조다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 192.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gimcheon_City_Hall.JPG/1280px-Gimcheon_City_Hall.JPG"
     },
     {
       "name": "감고도",
@@ -26,7 +32,13 @@
       "lng": 128.117,
       "category": "산/자연",
       "description": "김천의 진산으로 등산로와 바위 절경이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 195.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%EA%B0%90%EA%B3%A0%EB%8B%B92.jpg"
     },
     {
       "name": "대장부공원",
@@ -34,7 +46,13 @@
       "lng": 128.106,
       "category": "공원/체육",
       "description": "김천 시내에 조성된 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 191.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gimcheon_City_Hall.JPG/1280px-Gimcheon_City_Hall.JPG"
     },
     {
       "name": "김천혁신도시",
@@ -42,7 +60,13 @@
       "lng": 128.1726568,
       "category": "신도시",
       "description": "중앙부처가 입지한 혁신도시로 김천 서부에 조성되었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 220.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gimcheon_City_Hall.JPG/1280px-Gimcheon_City_Hall.JPG"
     },
     {
       "name": "김천문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 128.088667,
       "category": "공연장/문화",
       "description": "김천 대표 공연·전시 문화시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 180.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gimcheon_City_Hall.JPG/1280px-Gimcheon_City_Hall.JPG"
     }
   ],
   "history_summary": "김천시는 조선 시대 선산 지역의 중심지로 근현대 교통 요충지이자 혁신도시가 발달한 경북 서부의 도시다.",
