@@ -18,7 +18,13 @@
       "lng": 126.6395,
       "category": "천연기념물/자연",
       "description": "500년 수령 동백나무 80그루가 군락을 이룬 천연기념물 제169호로 동백정에서 일출·일몰을 볼 수 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 346.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Camellia_japonica_NBG.jpg/1280px-Camellia_japonica_NBG.jpg"
     },
     {
       "name": "한산모시마을",
@@ -26,7 +32,13 @@
       "lng": 126.705,
       "category": "문화/무형유산",
       "description": "유네스코 인류무형문화유산 한산모시짜기의 본산으로 모시전시관과 공예 공방이 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%82%B0%EB%AA%A8%EC%8B%9C%EC%A7%9C%EA%B8%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%82%B0%EB%AA%A8%EC%8B%9C%EC%A7%9C%EA%B8%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 237.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "국립생태원",
@@ -34,7 +46,13 @@
       "lng": 126.7190077,
       "category": "생태/전시",
       "description": "세계 5대 기후대 온실 에코리움을 갖춘 국가 생태 전문기관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 304.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg/1280px-%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg"
     },
     {
       "name": "금강하굿둑 철새도래지",
@@ -42,7 +60,13 @@
       "lng": 126.7,
       "category": "생태/철새",
       "description": "겨울철 40여 종 50만 마리 철새가 찾는 금강 하구의 대표 철새 도래지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg/1280px-Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg"
     },
     {
       "name": "문헌서원",
@@ -50,7 +74,13 @@
       "lng": 126.785611,
       "category": "서원/문화유산",
       "description": "이곡과 이색을 추모하기 위해 세워진 사액 서원으로 배롱나무 경관으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%97%8C%EC%84%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%97%8C%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 268.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%EC%84%9C%EC%B2%9C_%EB%AC%B8%ED%97%8C%EC%84%9C%EC%9B%90.jpg"
     }
   ],
   "history_summary": "서천군은 충남 서남단에 위치한 군으로 금강 하구 갯벌이 유네스코 세계자연유산에 등재되었고 한산모시짜기의 고장이며 서천9경 등 생태 관광 자원이 풍부하다.",
