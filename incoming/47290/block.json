@@ -1,0 +1,73 @@
+{
+  "block_code": "47290",
+  "block_name": "경상북도 경산시",
+  "bbox": [
+    128.681615,
+    35.700076,
+    128.971381,
+    35.993945
+  ],
+  "center": [
+    35.847011,
+    128.826498
+  ],
+  "landmarks": [
+    {
+      "name": "영남대학교",
+      "lat": 35.828022,
+      "lng": 128.7572223,
+      "category": "교육/캠퍼스",
+      "description": "영남대학교은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "자인단오제전수교육관",
+      "lat": 35.84701055,
+      "lng": 128.82649795,
+      "category": "문화/전통",
+      "description": "자인단오제전수교육관은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C"
+    },
+    {
+      "name": "경산시청",
+      "lat": 35.8250934,
+      "lng": 128.741514,
+      "category": "행정/랜드마크",
+      "description": "경산시청은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "경산시장",
+      "lat": 35.8233496,
+      "lng": 128.7360747,
+      "category": "시장/먹거리",
+      "description": "경산시장은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "남매탑",
+      "lat": 35.84701055,
+      "lng": 128.82649795,
+      "category": "문화유산/불교",
+      "description": "남매탑은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%A7%A4%ED%83%91"
+    }
+  ],
+  "history_summary": "경산시는 대구 인접의 위성 도시로 영남대학교와 자인단오제가 유명하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
