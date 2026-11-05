@@ -1,0 +1,73 @@
+{
+  "block_code": "27260",
+  "block_name": "대구광역시 수성구",
+  "bbox": [
+    128.591891,
+    35.790088,
+    128.726059,
+    35.878328
+  ],
+  "center": [
+    35.834208,
+    128.658975
+  ],
+  "landmarks": [
+    {
+      "name": "수성못",
+      "lat": 35.8272746,
+      "lng": 128.6179383,
+      "category": "호수/공원",
+      "description": "대구 도심의 대표 호수 공원으로 산책과 낚시 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EB%AA%BB"
+    },
+    {
+      "name": "국채보상운동기념공원",
+      "lat": 35.8686955,
+      "lng": 128.6019555,
+      "category": "역사/공원",
+      "description": "1907년 국채보상운동을 기념하는 역사 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%B1%84%EB%B3%B4%EC%83%81%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%85%90%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "아르떼뮤지엄 대구",
+      "lat": 35.825,
+      "lng": 128.64,
+      "category": "미디어아트/전시",
+      "description": "황금동에 위치한 대형 미디어아트 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC"
+    },
+    {
+      "name": "수성갯벌체험장",
+      "lat": 35.82,
+      "lng": 128.618,
+      "category": "체험/생태",
+      "description": "수성못 인근에 조성된 갯벌 체험 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC"
+    },
+    {
+      "name": "황령산",
+      "lat": 35.815,
+      "lng": 128.63,
+      "category": "산/자연",
+      "description": "수성구 남쪽에 자리한 낮은 산으로 등산로가 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC"
+    }
+  ],
+  "history_summary": "수성구는 대구의 대표 고급 주거지로 수성못과 국채보상운동기념공원, 아르떼뮤지엄 등이 자리한 대구 남동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
