@@ -117,6 +117,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "경산 가마솥밥가",
+      "lat": 35.82328,
+      "lng": 128.736355,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "경산 동네밥집",
+      "lat": 35.823,
+      "lng": 128.735375,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "경산 골목식당",
+      "lat": 35.82342,
+      "lng": 128.735445,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "경산 옛맛식당",
+      "lat": 35.823,
+      "lng": 128.736425,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "경산시는 대구 인접의 위성 도시로 영남대학교와 자인단오제가 유명하다.",
   "data_sources": [
     {
