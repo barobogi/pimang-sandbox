@@ -1,0 +1,73 @@
+{
+  "block_code": "26350",
+  "block_name": "부산광역시 해운대구",
+  "bbox": [
+    129.109959,
+    35.082881,
+    129.257843,
+    35.250307
+  ],
+  "center": [
+    35.166594,
+    129.183901
+  ],
+  "landmarks": [
+    {
+      "name": "해운대해수욕장",
+      "lat": 35.1592859,
+      "lng": 129.1586091,
+      "category": "해수욕장/관광",
+      "description": "대한민국 최고의 해수욕장으로 불리는 대표 해변이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "센텀시티",
+      "lat": 35.1686251,
+      "lng": 129.1311985,
+      "category": "쇼핑/복합몰",
+      "description": "해운대 신도시의 대형 복합쇼핑몰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0"
+    },
+    {
+      "name": "동백섬",
+      "lat": 35.1540639,
+      "lng": 129.1520862,
+      "category": "해안/관광",
+      "description": "해운대 해변 옆의 소나무 섬 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%B0%B1%EC%84%AC"
+    },
+    {
+      "name": "달맞이길",
+      "lat": 35.160363,
+      "lng": 129.1840044,
+      "category": "드라이브/벚꽃",
+      "description": "해운대의 대표 드라이브 코스이자 벚꽃 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%A7%9E%EC%9D%B4%EA%B8%B8"
+    },
+    {
+      "name": "해운대시장",
+      "lat": 35.1603535,
+      "lng": 129.1620271,
+      "category": "시장/먹거리",
+      "description": "해운대 전통시장 먹거리 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9A%B4%EB%8C%80%EC%8B%9C%EC%9E%A5"
+    }
+  ],
+  "history_summary": "부산 해운대구는 해운대해수욕장과 센텀시티가 자리한 부산 대표 국제 관광·비즈니스 중심지다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
