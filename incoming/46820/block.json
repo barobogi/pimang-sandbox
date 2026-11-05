@@ -1,0 +1,73 @@
+{
+  "block_code": "46820",
+  "block_name": "전라남도 해남군",
+  "bbox": [
+    126.220987,
+    34.286226,
+    126.742573,
+    34.772368
+  ],
+  "center": [
+    34.529297,
+    126.48178
+  ],
+  "landmarks": [
+    {
+      "name": "땅끝마을",
+      "lat": 34.3001266,
+      "lng": 126.5270909,
+      "category": "마을/관광",
+      "description": "한반도 최남단의 마을로 땅끝기념비와 맴섬 일출로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%95%85%EB%81%9D%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "대흥사",
+      "lat": 34.4763626,
+      "lng": 126.6159543,
+      "category": "사찰/문화유산",
+      "description": "백제 시대 창건된 두륜산의 대표 사찰로 사적 제508호 명승이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%9D%A5%EC%82%AC"
+    },
+    {
+      "name": "황산공원",
+      "lat": 34.582,
+      "lng": 126.604,
+      "category": "공원/경승지",
+      "description": "해남의 진산 황산 자락의 대표 경승지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0"
+    },
+    {
+      "name": "미황사",
+      "lat": 34.3825907,
+      "lng": 126.5775436,
+      "category": "사찰/문화유산",
+      "description": "달마산 자락의 유서 깊은 사찰로 대웅전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%ED%99%A9%EC%82%AC"
+    },
+    {
+      "name": "설아다원",
+      "lat": 34.635,
+      "lng": 126.615,
+      "category": "녹차밭/관광",
+      "description": "유기농 녹차밭 테마 관광지로 차 체험과 한옥스테이가 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0"
+    }
+  ],
+  "history_summary": "해남군은 한반도 남쪽 끝 땅끝마을과 대흥사, 황산공원이 자리한 전남 최남단의 군으로 유서 깊은 사찰 문화와 해안 자연이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
