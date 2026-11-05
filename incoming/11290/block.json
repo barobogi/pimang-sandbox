@@ -18,7 +18,13 @@
       "lng": 126.99,
       "category": "역사/산책",
       "description": "한양도성 성곽이 이어지는 대표 산책로다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 60.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1%EB%82%99%EC%82%B0%EA%B5%AC%EA%B0%84.jpg/1280px-%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1%EB%82%99%EC%82%B0%EA%B5%AC%EA%B0%84.jpg"
     },
     {
       "name": "고려대학교",
@@ -26,7 +32,13 @@
       "lng": 127.0304669,
       "category": "교육/캠퍼스",
       "description": "성북구 안암동에 캠퍼스를 둔 대형 사립대학이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_University_Main_Hall.jpg/1280px-Korea_University_Main_Hall.jpg"
     },
     {
       "name": "정릉",
@@ -34,7 +46,13 @@
       "lng": 127.0013141,
       "category": "역사/유적",
       "description": "조선 시대 태조의 계비 신덕왕후 강씨의 능이 있는 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A6%89"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A6%89",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 92.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%EC%84%9C%EC%9A%B8_%EC%84%A0%EB%A6%89%EA%B3%BC_%EC%A0%95%EB%A6%89_%EC%A0%95%EB%A6%89_%EC%A0%95%EC%9E%90%EA%B0%81.jpg/1280px-%EC%84%9C%EC%9A%B8_%EC%84%A0%EB%A6%89%EA%B3%BC_%EC%A0%95%EB%A6%89_%EC%A0%95%EB%A6%89_%EC%A0%95%EC%9E%90%EA%B0%81.jpg"
     },
     {
       "name": "성북동",
@@ -42,7 +60,13 @@
       "lng": 126.99215,
       "category": "마을/카페",
       "description": "고택 카페와 골목이 어우러진 정적 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%B6%81%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%B6%81%EB%8F%99",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 64.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%EC%84%B1%EB%9D%BD%EC%9B%90.jpg"
     },
     {
       "name": "삼청동",
@@ -50,7 +74,13 @@
       "lng": 126.9825929,
       "category": "거리/문화",
       "description": "전통과 현대 미술관이 어우러진 대표 골목 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%AD%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%AD%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 57.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/P00250516_085446162_%EC%82%BC%EC%B2%AD%EB%8F%99%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0.JPG/1280px-P00250516_085446162_%EC%82%BC%EC%B2%AD%EB%8F%99%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0.JPG"
     }
   ],
   "history_summary": "성북구는 서촌과 성북동, 정릉이 함께한 유서 깊은 자치구로 한옥과 대학, 도서관 등의 정적 문화가 발달했다.",
