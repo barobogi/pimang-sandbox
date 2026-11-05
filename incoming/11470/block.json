@@ -18,7 +18,13 @@
       "lng": 126.8809297,
       "category": "체육/야구",
       "description": "서울을 연고로 했던 프로야구 단체들이 홈구장으로 사용했던 대표 야구 경기장.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A9%EB%8F%99%EC%95%BC%EA%B5%AC%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A9%EB%8F%99%EC%95%BC%EA%B5%AC%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 259.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Nexen_Heroes_Mokdong.jpg/1280px-Nexen_Heroes_Mokdong.jpg"
     },
     {
       "name": "목동공원",
@@ -26,7 +32,13 @@
       "lng": 126.876,
       "category": "도시공원",
       "description": "목동 중심부에 조성된 근린공원으로 주민들에게 산책과 운동 공간을 제공한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 273.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mok_1-dong_Community_Service_Center_20140528_141942.jpg/1280px-Mok_1-dong_Community_Service_Center_20140528_141942.jpg"
     },
     {
       "name": "신정중앙시장",
@@ -34,7 +46,13 @@
       "lng": 126.87,
       "category": "전통시장",
       "description": "신정동에 위치한 재래시장으로 목동·신정 일대의 먹거리 상권 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 285.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Yangcheon-gu_Office_20140528_134922.JPG/1280px-Yangcheon-gu_Office_20140528_134922.JPG"
     },
     {
       "name": "양천문화예술회관",
@@ -42,7 +60,13 @@
       "lng": 126.876,
       "category": "공연장/문화",
       "description": "양천구청 인근에 있는 공연·전시 복합문화시설로 구민 문화 향유 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 303.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Yangcheon-gu_Office_20140528_134922.JPG/1280px-Yangcheon-gu_Office_20140528_134922.JPG"
     },
     {
       "name": "안양천",
@@ -50,7 +74,13 @@
       "lng": 126.8775374,
       "category": "하천/자연",
       "description": "광주산맥에서 발원해 한강으로 합류하는 지천으로 양천구 서쪽 경계를 따라 흐른다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 294.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg/1280px-230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg"
     }
   ],
   "history_summary": "양천구는 신정동과 목동을 중심으로 1980년대 택지개발로 성장한 자치구로, 목동 야구장과 MBC·SBS 등 방송사가 입지한 서울 남서부의 대표 주거 상업 지역이다.",
