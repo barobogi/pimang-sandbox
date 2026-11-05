@@ -18,7 +18,13 @@
       "lng": 126.9521607,
       "category": "교육/캠퍼스",
       "description": "대한민국 최고 국립대학으로 봉천동 관악캠퍼스가 관악산 자락에 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 316.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%EC%A0%95%EB%AC%B8%EA%B4%91%EC%9E%A5.jpg/1280px-%EC%A0%95%EB%AC%B8%EA%B4%91%EC%9E%A5.jpg"
     },
     {
       "name": "낙성대공원",
@@ -26,7 +32,13 @@
       "lng": 126.9593138,
       "category": "공원/유적",
       "description": "곽재우 장군의 호 낙성에서 유래한 지명으로 전체 평화공원과 청년문화가 함께한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%84%B1%EB%8C%80%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%84%B1%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 242.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nakseongdae_park_sign.jpg"
     },
     {
       "name": "관악산",
@@ -34,7 +46,13 @@
       "lng": 126.9453084,
       "category": "산/자연",
       "description": "해발 829m의 서울 최고봉 산으로 관악구·금천구·안양시에 걸쳐 있는 국민 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 199.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gwanaksan_Seoul_KR.jpg/1280px-Gwanaksan_Seoul_KR.jpg"
     },
     {
       "name": "신림종합시장",
@@ -42,7 +60,13 @@
       "lng": 126.929,
       "category": "전통시장",
       "description": "신림동 상권의 중심 재래시장으로 먹거리 골목으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 150.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/20231213_%EC%8B%A0%EB%A6%BC%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20231213_%EC%8B%A0%EB%A6%BC%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     },
     {
       "name": "관악구민체육공원",
@@ -50,7 +74,13 @@
       "lng": 126.938,
       "category": "체육/공원",
       "description": "관악구에 조성된 구민 체육 공원으로 운동시설과 산책로가 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 163.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Gwanak-gu_Office_20140608_111803.JPG/1280px-Gwanak-gu_Office_20140608_111803.JPG"
     }
   ],
   "history_summary": "관악구는 서울대학교가 봉천동으로 이전한 이후 학문과 청년 문화가 발달한 자치구로 신림동 상권과 관악산, 낙성대 등 자연·유적이 함께 자리한다.",
