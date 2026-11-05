@@ -1,0 +1,73 @@
+{
+  "block_code": "47113",
+  "block_name": "경상북도 포항시 북구",
+  "bbox": [
+    128.991849,
+    36.014064,
+    129.506,
+    36.33363
+  ],
+  "center": [
+    36.173847,
+    129.248924
+  ],
+  "landmarks": [
+    {
+      "name": "영일대해수욕장",
+      "lat": 36.0546137,
+      "lng": 129.3765326,
+      "category": "해수욕장/관광",
+      "description": "영일만의 푸른 바다와 함께한 포항의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "호미곶",
+      "lat": 36.027518,
+      "lng": 129.37255,
+      "category": "해안/관광",
+      "description": "대한민국 동쪽 끝 해안의 대표 명소로 호미곶 등대가 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%AF%B8%EA%B3%B6"
+    },
+    {
+      "name": "한동대학교",
+      "lat": 36.103127,
+      "lng": 129.3886111,
+      "category": "교육/캠퍼스",
+      "description": "포항 북구에 위치한 기독교 정신의 사립 종합대학이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "신포수변공원",
+      "lat": 36.055,
+      "lng": 129.385,
+      "category": "수변공원",
+      "description": "영일만 수변에 조성된 공원으로 영일만 전망이 좋다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%B6%81%EA%B5%AC"
+    },
+    {
+      "name": "오어해변",
+      "lat": 36.031,
+      "lng": 129.506,
+      "category": "해변/자연",
+      "description": "감포읍 오어리에 자리한 조용한 해변으로 낚시와 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%B6%81%EA%B5%AC"
+    }
+  ],
+  "history_summary": "포항시 북구는 영일만과 영일대해수욕장, 호미곶 등 해양 관광 자원이 풍부한 포항 북부의 구로 한동대학교 등이 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
