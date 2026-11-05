@@ -116,6 +116,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "진천 본점",
+      "lat": 36.860189,
+      "lng": 127.45117,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "진천 가마솥밥가",
+      "lat": 36.860049,
+      "lng": 127.45061,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "진천 골목식당",
+      "lat": 36.860189,
+      "lng": 127.45033,
+      "specialty": "호박엿",
+      "category": "전통디저트"
+    },
+    {
+      "name": "진천 할매집",
+      "lat": 36.859979,
+      "lng": 127.4511,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "진천군은 농다리와 생거진천 거북이 마을, 백곡저수지가 자리한 충북 중서부의 군이다.",
   "data_sources": [
     {
