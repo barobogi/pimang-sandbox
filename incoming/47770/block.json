@@ -18,7 +18,13 @@
       "lng": 129.392784,
       "category": "항구/특산물",
       "description": "강구항은(는) 경상북도 영덕군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B5%AC%ED%95%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B5%AC%ED%95%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 328.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/c/c3/%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG/1280px-%EA%B0%95%EA%B5%AC%ED%95%AD1.JPG"
     },
     {
       "name": "영덕해맞이공원",
@@ -26,7 +32,13 @@
       "lng": 129.4352794,
       "category": "해안/공원",
       "description": "영덕해맞이공원은(는) 경상북도 영덕군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gangguhang_Port.jpg/1280px-Gangguhang_Port.jpg"
     },
     {
       "name": "영덕군청",
@@ -34,7 +46,13 @@
       "lng": 129.3652651,
       "category": "행정/랜드마크",
       "description": "영덕군청은(는) 경상북도 영덕군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 319.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gangguhang_Port.jpg/1280px-Gangguhang_Port.jpg"
     },
     {
       "name": "영덕시장",
@@ -42,7 +60,13 @@
       "lng": 129.3698624,
       "category": "시장/먹거리",
       "description": "영덕시장은(는) 경상북도 영덕군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 321.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gangguhang_Port.jpg/1280px-Gangguhang_Port.jpg"
     },
     {
       "name": "오십천",
@@ -50,7 +74,13 @@
       "lng": 129.3114962,
       "category": "하천/자연",
       "description": "오십천은(는) 경상북도 영덕군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8B%AD%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8B%AD%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 354.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/TongriV2.jpg/1280px-TongriV2.jpg"
     }
   ],
   "history_summary": "영덕군은 대게의 고장으로 유명하며 강구항과 영덕해맞이공원이 자리한 경북 동해안의 군이다.",
