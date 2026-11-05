@@ -18,7 +18,13 @@
       "lng": 126.9596112,
       "category": "문화유산/역사",
       "description": "대한제국 시대 세워진 대한민국 독립의 상징이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EB%AC%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EB%AC%B8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 299.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Seodaemun_Monument%2C_Seoul.jpg/1280px-Seodaemun_Monument%2C_Seoul.jpg"
     },
     {
       "name": "서대문형무소역사관",
@@ -26,7 +32,13 @@
       "lng": 126.9563173,
       "category": "기념관/역사",
       "description": "일제 강점기 감옥을 보존·전시하는 역사관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8C%80%EB%AC%B8%ED%98%95%EB%AC%B4%EC%86%8C%EC%97%AD%EC%82%AC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8C%80%EB%AC%B8%ED%98%95%EB%AC%B4%EC%86%8C%EC%97%AD%EC%82%AC%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 297.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%EC%84%9C%EB%8C%80%EB%AC%B8_%ED%98%95%EB%AC%B4%EC%86%8C_%EC%A0%84%EA%B2%BD.jpg/1280px-%EC%84%9C%EB%8C%80%EB%AC%B8_%ED%98%95%EB%AC%B4%EC%86%8C_%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "연세대학교",
@@ -34,7 +46,13 @@
       "lng": 126.938905,
       "category": "교육/캠퍼스",
       "description": "신촌에 캠퍼스를 둔 대한민국 대표 사립대학이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 350.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Yonseiunderwood.jpg/1280px-Yonseiunderwood.jpg"
     },
     {
       "name": "이화여자대학교",
@@ -42,7 +60,13 @@
       "lng": 126.9468925,
       "category": "교육/캠퍼스",
       "description": "세계 최대 규모 여자대학으로 대표적 캠퍼스 랜드마크다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%99%94%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%99%94%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 334.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%EC%9D%B4%ED%99%94%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90_%EC%82%AC%EC%A7%84.jpg/1280px-%EC%9D%B4%ED%99%94%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90_%EC%82%AC%EC%A7%84.jpg"
     },
     {
       "name": "홍제천",
@@ -50,7 +74,13 @@
       "lng": 126.9379476,
       "category": "하천/자연",
       "description": "서대문구를 지나는 지천으로 산책로가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%A0%9C%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%A0%9C%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 195.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/%ED%99%8D%EC%A0%9C%EC%B2%9C%EA%B3%BC%EC%84%B1%EC%82%B0%EB%8F%99%28seoul_city_plans_1946%EC%9D%98_%EC%9D%BC%EB%B6%80._From_University_of_Texas_at_Austin._Public_Domain%29.png"
     }
   ],
   "history_summary": "서대문구는 연세대학교와 이화여자대학교가 자리한 학문의 거리이자 독립문과 서대문형무소 등 역사 유적이 함께한 자치구이다.",
