@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Seoul_Jungnang-gu_Office.jpg/1280px-Seoul_Jungnang-gu_Office.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "중랑 자연 힐링 시그니처 에어리얼 투어",
+      "description": "용마랜드 → 망우리공원 → 봉화산 → 중랑천 → 면목동 먹자골목 순으로 이어지는 서울특별시 중랑구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "용마랜드",
+        "망우리공원",
+        "봉화산",
+        "중랑천",
+        "면목동 먹자골목"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "중랑 산하 절경 에어리얼 투어",
+      "description": "망우리공원 → 봉화산 → 중랑천 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 중랑의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "망우리공원",
+        "봉화산",
+        "중랑천"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "중랑구는 중랑천을 따라 형성된 농촌 마을들이 1970년대 이후 주택지로 급성장한 자치구로, 면목동과 상봉동 상권, 용마산과 봉화산의 자연과 함께 도시 근교 특성을 지닌다.",
   "data_sources": [
     {
