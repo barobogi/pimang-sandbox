@@ -18,7 +18,13 @@
       "lng": 128.54,
       "category": "공원/문화",
       "description": "달서구 성당동에 조성된 대표 근린공원으로 대구 시민 휴식 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 237.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dalseo-gu_office.JPG/1280px-Dalseo-gu_office.JPG"
     },
     {
       "name": "이약산",
@@ -26,7 +32,13 @@
       "lng": 128.52,
       "category": "산/자연",
       "description": "달서구에 자리한 낮은 산으로 도심 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 31.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Yaksan-myeon.png/1280px-Yaksan-myeon.png"
     },
     {
       "name": "달서공원",
@@ -34,7 +46,13 @@
       "lng": 128.54,
       "category": "도시공원",
       "description": "달서구 조련? 아니라 달서 일대에 조성된 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 319.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dalseo-gu_office.JPG/1280px-Dalseo-gu_office.JPG"
     },
     {
       "name": "상인락공원",
@@ -42,7 +60,13 @@
       "lng": 128.53,
       "category": "근린공원",
       "description": "상인동 일대에 조성된 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 357.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dalseo-gu_office.JPG/1280px-Dalseo-gu_office.JPG"
     },
     {
       "name": "감삼공원",
@@ -50,7 +74,12 @@
       "lng": 128.53,
       "category": "근린공원",
       "description": "감삼동에 조성된 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 303.4
+      }
     }
   ],
   "history_summary": "달서구는 대구 서부에 위치한 대규모 주거 도시로 성당공원과 이약산 등의 도심 자연과 함께 발달했다.",
