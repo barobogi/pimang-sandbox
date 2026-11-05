@@ -1,0 +1,73 @@
+{
+  "block_code": "45730",
+  "block_name": "전북특별자치도 무주군",
+  "bbox": [
+    127.524368,
+    35.788166,
+    127.911367,
+    36.068344
+  ],
+  "center": [
+    35.928255,
+    127.717868
+  ],
+  "landmarks": [
+    {
+      "name": "덕유산",
+      "lat": 35.8600127,
+      "lng": 127.7465185,
+      "category": "산/국립공원",
+      "description": "해발 1,614m의 대한민국 제2높은 산으로 덕유산국립공원의 주봉이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0"
+    },
+    {
+      "name": "무주구천동",
+      "lat": 35.900223,
+      "lng": 127.775899,
+      "category": "계곡/관광",
+      "description": "덕유산 자락의 유명 계곡 관광지로 여름철 피서 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "태권도원",
+      "lat": 35.9950939,
+      "lng": 127.7745741,
+      "category": "체육/테마",
+      "description": "태권도의 세계적 확산을 위한 대표 태권도 테마 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B6%8C%EB%8F%84%EC%9B%90"
+    },
+    {
+      "name": "적상산성",
+      "lat": 36.003,
+      "lng": 127.82,
+      "category": "산성/문화유산",
+      "description": "백제 시대 옛 성곽으로 유서 깊은 대표 산성이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "설천봉",
+      "lat": 35.8655764,
+      "lng": 127.7435117,
+      "category": "산/자연",
+      "description": "덕유산 주능선의 대표 봉우리로 등산 코스의 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0"
+    }
+  ],
+  "history_summary": "무주군은 덕유산 국립공원과 무주구천동, 태권도원이 자리한 전북 동북부의 군으로 백두대간의 산악 자연이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
