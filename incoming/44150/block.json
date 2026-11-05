@@ -18,7 +18,13 @@
       "lng": 127.1271784,
       "category": "유네스코/성곽",
       "description": "공산성은(는) 충청남도 공주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 292.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg/1280px-%EA%B3%B5%EC%82%B0%EC%84%B1_%EA%B8%88%EC%84%9C%EB%A3%A8.jpg"
     },
     {
       "name": "무령왕릉",
@@ -26,7 +32,13 @@
       "lng": 127.11394,
       "category": "유네스코/왕릉",
       "description": "무령왕릉은(는) 충청남도 공주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 301.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tomb_of_Muryeong_of_Baekje.JPG/1280px-Tomb_of_Muryeong_of_Baekje.JPG"
     },
     {
       "name": "마곡사",
@@ -34,7 +46,13 @@
       "lng": 127.0125524,
       "category": "사찰/문화유산",
       "description": "마곡사은(는) 충청남도 공주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B3%A1%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B3%A1%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 144.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg/1280px-20140809_%EB%A7%88%EA%B3%A1%EC%82%AC_%EB%8C%80%EA%B4%91%EB%B3%B4%EC%A0%84.jpg"
     },
     {
       "name": "공주시청",
@@ -42,7 +60,13 @@
       "lng": 127.1191109,
       "category": "행정/랜드마크",
       "description": "공주시청은(는) 충청남도 공주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 316.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Gongju_City_Bus.jpg/1280px-Gongju_City_Bus.jpg"
     },
     {
       "name": "공주시장",
@@ -50,7 +74,13 @@
       "lng": 127.08325780000001,
       "category": "시장/먹거리",
       "description": "공주시장은(는) 충청남도 공주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 24.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/2018%EB%85%84_10%EC%9B%94_%EA%B3%B5%EC%A3%BC%EC%8B%9C_%EC%A0%84%EA%B5%AD_%EB%AC%B8%EC%98%88%EC%B0%BD%EC%9E%91_%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%99%A9%EC%84%9D%ED%98%84_%EC%88%98%EC%83%81%28%EA%B3%B5%EC%A3%BC%EC%8B%9C%EC%9E%A5_%EC%8B%9C%EC%83%81%29.jpg"
     }
   ],
   "history_summary": "공주시는 백제 웅진 도읍이었던 유서 깊은 도시로 공산성과 무령왕릉, 마곡사가 유네스코 세계유산으로 등재되어 있다.",
