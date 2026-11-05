@@ -18,7 +18,13 @@
       "lng": 128.0556322,
       "category": "산/국립공원",
       "description": "해발 1,288m의 영서 최고봉으로 치악산국립공원의 주봉이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%98%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%98%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 236.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Chiaksan_as_seen_from_Birobong_Peak.jpg/1280px-Chiaksan_as_seen_from_Birobong_Peak.jpg"
     },
     {
       "name": "원주중앙시장",
@@ -26,7 +32,13 @@
       "lng": 127.946,
       "category": "전통시장",
       "description": "원주 도심 중앙에 위치한 재래시장로 옛 원주 상권의 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 112.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/231226_%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5.jpg/1280px-231226_%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5.jpg"
     },
     {
       "name": "봄내공원",
@@ -34,7 +46,13 @@
       "lng": 127.94,
       "category": "도시공원",
       "description": "원주 도심에 조성된 대표 근린공원으로 벚꽃 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 80.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wonju_City_Hall_20231206.jpg/1280px-Wonju_City_Hall_20231206.jpg"
     },
     {
       "name": "원주미로공원",
@@ -42,7 +60,13 @@
       "lng": 127.921,
       "category": "테마공원",
       "description": "나무를 심어 만든 국내 유일의 자연 미로 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 88.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wonju_City_Hall_20231206.jpg/1280px-Wonju_City_Hall_20231206.jpg"
     },
     {
       "name": "문막응원공성지",
@@ -50,7 +74,13 @@
       "lng": 127.88,
       "category": "유적/문화유산",
       "description": "조선 시대 원주 부근의 옛 응원공성 터로 전국 철성 유적지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 66.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wonju_City_Hall_20231206.jpg/1280px-Wonju_City_Hall_20231206.jpg"
     }
   ],
   "history_summary": "원주시는 치악산 자락에 자리한 강원 남부의 교통 요충 도시로 근현대 의료·관광 산업과 혁신도시가 발달했고 원주미로공원과 중앙시장 등의 명소가 함께한다.",
