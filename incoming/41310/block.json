@@ -18,7 +18,13 @@
       "lng": 127.1043503,
       "category": "산/역사",
       "description": "백제 아차산성이 남아 있는 대표 산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 29.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/1280px-AchasanPost.jpg"
     },
     {
       "name": "갈매시장",
@@ -26,7 +32,13 @@
       "lng": 127.129,
       "category": "시장",
       "description": "구리의 대표 전통시장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 331.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg/1280px-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg"
     },
     {
       "name": "갈매공원",
@@ -34,7 +46,13 @@
       "lng": 127.128,
       "category": "공원",
       "description": "갈매동의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 191.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg/1280px-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg"
     },
     {
       "name": "인창동 상권",
@@ -42,7 +60,13 @@
       "lng": 127.144,
       "category": "상권",
       "description": "인창동에 형성된 구리 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 288.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg/1280px-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg"
     },
     {
       "name": "사패산",
@@ -50,7 +74,13 @@
       "lng": 127.08,
       "category": "산/자연",
       "description": "구리와 의정부 경계의 대표 산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%8C%A8%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%8C%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 123.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mt._Sapaesan_%28%EC%82%AC%ED%8C%A8%EC%82%B0%29_-_Bukhansan.jpg/1280px-Mt._Sapaesan_%28%EC%82%AC%ED%8C%A8%EC%82%B0%29_-_Bukhansan.jpg"
     }
   ],
   "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
