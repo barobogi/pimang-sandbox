@@ -18,7 +18,13 @@
       "lng": 129.3382237,
       "category": "공원/역사",
       "description": "울산의 진산 학성 자락의 대표 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 298.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ulsan_Castles.jpg"
     },
     {
       "name": "울산 병영성",
@@ -26,7 +32,13 @@
       "lng": 129.3433809,
       "category": "성곽/문화유산",
       "description": "조선 시대 경상좌도 병영성 터로 한글마을 조성이 진행 중이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 261.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%EC%9A%B8%EC%82%B0_%EA%B2%BD%EC%83%81%EC%A2%8C%EB%8F%84%EB%B3%91%EC%98%81%EC%84%B1_%28%EB%B0%9C%EA%B5%B4%EC%A1%B0%EC%82%AC%EC%A0%84%EC%83%81%ED%83%9C%2C_%EB%8F%99%EB%AC%B8%EC%A7%80%EC%A3%BC%EB%B3%80%29.jpg"
     },
     {
       "name": "울산박물관",
@@ -34,7 +46,13 @@
       "lng": 129.337,
       "category": "박물관/문화",
       "description": "울산의 역사와 문화를 전시하는 대표 박물관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%82%B0%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%82%B0%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 300.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ulsan_Petroglyph_Museum2.JPG/1280px-Ulsan_Petroglyph_Museum2.JPG"
     },
     {
       "name": "태화강",
@@ -42,7 +60,13 @@
       "lng": 129.3223219,
       "category": "하천/자연",
       "description": "울산을 관통하는 대표 강으로 수변 공원과 걷기길이 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%ED%99%94%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%ED%99%94%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 322.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Taehwa_River.jpg/1280px-Taehwa_River.jpg"
     },
     {
       "name": "최현배 생가",
@@ -50,7 +74,13 @@
       "lng": 129.339,
       "category": "역사/기념",
       "description": "한글학자 외솔 최현배 선생의 생가로 외솔탐방길이 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%98%84%EB%B0%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%98%84%EB%B0%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 303.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/%EC%99%B8%EC%86%94%EC%B5%9C%ED%98%84%EB%B0%B0%EC%84%A0%EC%83%9D%EC%83%9D%EA%B0%80%ED%84%B0.jpg"
     }
   ],
   "history_summary": "울산 중구는 울산의 원도심으로 병영성과 학성공원, 울산박물관이 자리한 울산 중심 구이다.",
