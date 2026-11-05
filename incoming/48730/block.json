@@ -117,6 +117,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "함안 솥뚜껑가게",
+      "lat": 35.277682,
+      "lng": 128.406813,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "함안 골목식당",
+      "lat": 35.276562,
+      "lng": 128.406044,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "함안 큰마당식당",
+      "lat": 35.277892,
+      "lng": 128.406954,
+      "specialty": "한과",
+      "category": "전통디저트"
+    },
+    {
+      "name": "함안 본점",
+      "lat": 35.277192,
+      "lng": 128.406464,
+      "specialty": "멸치볶음",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "함안군은 아라가야의 고도로 말이산고분군과 함안박물관이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
