@@ -18,15 +18,27 @@
       "lng": 127.2221937,
       "category": "군사/랜드마크",
       "description": "계룡대은(는) 충청남도 계룡시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EB%8C%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EB%8C%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 134.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%EA%B3%84%EB%A3%A1%EB%8C%80_3%EA%B5%B0%ED%86%B5%ED%95%A9%EC%82%AC%EB%A0%B9%EB%B6%80_%EA%B1%B4%EB%AC%BC%28%EC%B6%A9%EB%82%A8_%EA%B3%84%EB%A3%A1%EC%8B%9C_2018.10.11._%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80_%EC%86%8C%EC%9E%A5%29.jpg/1280px-%EA%B3%84%EB%A3%A1%EB%8C%80_3%EA%B5%B0%ED%86%B5%ED%95%A9%EC%82%AC%EB%A0%B9%EB%B6%80_%EA%B1%B4%EB%AC%BC%28%EC%B6%A9%EB%82%A8_%EA%B3%84%EB%A3%A1%EC%8B%9C_2018.10.11._%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80_%EC%86%8C%EC%9E%A5%29.jpg"
     },
     {
       "name": "계룡산",
-      "lat": 36.290962,
-      "lng": 127.2439958,
+      "lat": 36.3424334,
+      "lng": 127.205981,
       "category": "산/국립공원",
       "description": "계룡산은(는) 충청남도 계룡시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 149.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mount_Gyeryong_from_Jang-gun_peak.jpg/1280px-Mount_Gyeryong_from_Jang-gun_peak.jpg"
     },
     {
       "name": "계룡시청",
@@ -34,23 +46,41 @@
       "lng": 127.2485191,
       "category": "행정/랜드마크",
       "description": "계룡시청은(는) 충청남도 계룡시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 347.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gyeryong_City_Hall.JPG/1280px-Gyeryong_City_Hall.JPG"
     },
     {
       "name": "계룡시장",
-      "lat": 36.290962,
-      "lng": 127.2439958,
+      "lat": 36.2675726,
+      "lng": 127.273493,
       "category": "시장/먹거리",
       "description": "계룡시장은(는) 충청남도 계룡시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 314.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gyeryong_City_Hall.JPG/1280px-Gyeryong_City_Hall.JPG"
     },
     {
-      "name": "엄사? 아니라 계룡문화예술의전당",
-      "lat": 36.290962,
-      "lng": 127.2439958,
+      "name": "계룡문화예술의전당",
+      "lat": 36.2728938,
+      "lng": 127.234127,
       "category": "공연장/문화",
-      "description": "엄사? 아니라 계룡문화예술의전당은(는) 충청남도 계룡시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%8B%9C"
+      "description": "계룡문화예술의전당은(는) 충청남도 계룡시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 23.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Gyeryong_City_Hall.JPG/1280px-Gyeryong_City_Hall.JPG"
     }
   ],
   "history_summary": "계룡시는 대한민국 국군의 3군 본부가 자리한 군사 도시로 계룡산 자락의 계획 도시이다.",
