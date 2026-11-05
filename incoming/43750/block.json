@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "증평 골목식당",
+      "lat": 36.78092,
+      "lng": 127.600635,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "증평 할매집",
+      "lat": 36.78036,
+      "lng": 127.601195,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "증평 옛맛식당",
+      "lat": 36.78015,
+      "lng": 127.601545,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "증평군은 좌구산 천문대와 삼기저수지가 자리한 충북 중부의 군이다.",
   "data_sources": [
     {
