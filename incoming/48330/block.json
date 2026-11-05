@@ -18,7 +18,13 @@
       "lng": 129.0642901,
       "category": "사찰/문화유산",
       "description": "신라 시대 창건된 대표 사찰로 석가모니 진신사리를 모신 대웅전이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EB%8F%84%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EB%8F%84%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 189.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Korea-Tongdosa-09.jpg"
     },
     {
       "name": "영축사",
@@ -26,7 +32,13 @@
       "lng": 129.0761107,
       "category": "사찰/문화유산",
       "description": "통도사와 함께한 암자로 천성산 자락의 대표 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B6%95%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B6%95%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 192.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "천성산",
@@ -34,7 +46,13 @@
       "lng": 129.1062817,
       "category": "산/자연",
       "description": "통도사를 감싸고 있는 산으로 신라의 진산으로 알려진 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%84%B1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%84%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 271.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Cheonsung.JPG/1280px-Cheonsung.JPG"
     },
     {
       "name": "배내골",
@@ -42,7 +60,13 @@
       "lng": 129.0102729,
       "category": "계곡/자연",
       "description": "양산과 울산 경계에 자리한 계곡과 고개로 여름철 피서 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 166.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Yangsan_newtown_001.JPG/1280px-Yangsan_newtown_001.JPG"
     },
     {
       "name": "황산공원",
@@ -50,7 +74,13 @@
       "lng": 129.04,
       "category": "도시공원",
       "description": "양산 도심에 조성된 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 4.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg"
     }
   ],
   "history_summary": "양산시는 신라 시대 양산 화랑 문화와 통도사 등의 사찰 문화가 있는 경남 북부의 도시로 천성산과 배내골 등 자연 명소가 함께한다.",
