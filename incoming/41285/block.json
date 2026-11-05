@@ -18,7 +18,13 @@
       "lng": 126.7672443,
       "category": "도시공원/호수",
       "description": "조도지구 호수를 따라 조성된 대형 공원으로 경기도 대표 호수 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 43.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
     },
     {
       "name": "킨텍스",
@@ -26,7 +32,13 @@
       "lng": 126.7483791,
       "category": "전시/컨벤션",
       "description": "대한민국 최대 규모의 국제 전시시설로 국제 전시와 컨벤션의 중심지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%82%A8%ED%85%8D%EC%8A%A4"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%82%A8%ED%85%8D%EC%8A%A4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 66.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%ED%82%A8%ED%85%8D%EC%8A%A4.jpg/1280px-%ED%82%A8%ED%85%8D%EC%8A%A4.jpg"
     },
     {
       "name": "정발산",
@@ -34,7 +46,13 @@
       "lng": 126.7732179,
       "category": "산/자연",
       "description": "마두동에 있는 해발 538m의 산으로 정발산행주지구 근린공원과 함께 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 37.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/20210807_%EC%A0%95%EB%B0%9C%EC%82%B0%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20210807_%EC%A0%95%EB%B0%9C%EC%82%B0%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     },
     {
       "name": "라페스타",
@@ -42,7 +60,13 @@
       "lng": 126.7682573,
       "category": "쇼핑/문화",
       "description": "일산동구 마두동에 위치한 대형 복합쇼핑몰로 문화 쇼핑 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 47.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hyundai_Lafesta_Shishi_01_2022-03-12.jpg/1280px-Hyundai_Lafesta_Shishi_01_2022-03-12.jpg"
     },
     {
       "name": "중산공원",
@@ -50,7 +74,13 @@
       "lng": 126.7786796,
       "category": "근린공원",
       "description": "중산동에 조성된 근린공원으로 일산 신도시 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 129.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sun_Yat-sen_Memorial_Hall.jpg"
     }
   ],
   "history_summary": "일산동구는 2003년 고양시 구제 실시로 만들어진 구로 일산 호수공원과 킨텍스, 정발산 등 대규모 문화·전시 시설이 입지한 경기 북부 신도시 중심지이다.",
