@@ -18,7 +18,13 @@
       "lng": 127.0743915,
       "category": "테마공원",
       "description": "동물원과 놀이시설이 함께한 대형 어린이 테마 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 86.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Seoul_Childrens_Grand_Park_Main_Gate.jpg/1280px-Seoul_Childrens_Grand_Park_Main_Gate.jpg"
     },
     {
       "name": "건대입구",
@@ -26,7 +32,13 @@
       "lng": 127.0694011,
       "category": "상권/번화가",
       "description": "대학가 상권과 패션·엔터테인먼트의 중심 거리이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 59.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20240427_%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD_2%ED%98%B8%EC%84%A0_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20240427_%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD_2%ED%98%B8%EC%84%A0_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     },
     {
       "name": "아차산",
@@ -34,7 +46,13 @@
       "lng": 127.0898223,
       "category": "산/역사",
       "description": "백제 아차산성이 남아 있는 한강변 대표 산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 218.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/1280px-AchasanPost.jpg"
     },
     {
       "name": "자양한강공원",
@@ -42,7 +60,13 @@
       "lng": 127.075,
       "category": "한강공원",
       "description": "자양동 수변의 대표 한강 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A7%84%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 27.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gwangjin_Jayang_1-dong_Community_Service_Center.jpg/1280px-Gwangjin_Jayang_1-dong_Community_Service_Center.jpg"
     },
     {
       "name": "광나루한강공원",
@@ -50,7 +74,13 @@
       "lng": 127.086,
       "category": "한강공원",
       "description": "광진구·강동구 경계 수변의 한강 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%82%98%EB%A3%A8%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%82%98%EB%A3%A8%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 0.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/7/7d/View_Photo_of_Winter_of_Worldcup_Park.jpg"
     }
   ],
   "history_summary": "광진구는 어린이대공원과 건대입구 상권, 아차산과 한강이 함께한 서울 동남부 자치구이다.",
