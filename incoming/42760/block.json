@@ -18,7 +18,13 @@
       "lng": 128.7532957,
       "category": "고개/자연",
       "description": "대관령은(는) 강원특별자치도 평창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B4%80%EB%A0%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B4%80%EB%A0%B9",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 233.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Daegwallyeong3.jpg/1280px-Daegwallyeong3.jpg"
     },
     {
       "name": "월정사",
@@ -26,7 +32,13 @@
       "lng": 128.5919951,
       "category": "사찰/문화유산",
       "description": "월정사은(는) 강원특별자치도 평창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%A0%95%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%A0%95%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 200.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Gangwon-Woljeongsa_Nine_Story_Stone_Pagoda_1723-07.JPG"
     },
     {
       "name": "오대산",
@@ -34,7 +46,13 @@
       "lng": 128.5748224,
       "category": "산/국립공원",
       "description": "오대산은(는) 강원특별자치도 평창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8C%80%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8C%80%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 209.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Korea-Gangwondo-Odaesan_National_Park_1663-07.JPG"
     },
     {
       "name": "평창올림픽플라자",
@@ -42,7 +60,13 @@
       "lng": 128.50431974999998,
       "category": "체육/기념",
       "description": "평창올림픽플라자은(는) 강원특별자치도 평창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 52.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Pyeongchang_Olympic_Stadium_at_day_for_2018_Winter_Paralympics_opening_ceremony_-_1.jpg/1280px-Pyeongchang_Olympic_Stadium_at_day_for_2018_Winter_Paralympics_opening_ceremony_-_1.jpg"
     },
     {
       "name": "평창군청",
@@ -50,7 +74,13 @@
       "lng": 128.3902034,
       "category": "행정/랜드마크",
       "description": "평창군청은(는) 강원특별자치도 평창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%EC%B0%BD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 27.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Alpensia_20170202_04_%2832506763362%29.jpg/1280px-Alpensia_20170202_04_%2832506763362%29.jpg"
     }
   ],
   "history_summary": "평창군은 대관령과 2018 동계올림픽 개최지, 월정사와 오대산이 자리한 강원 영서 남부의 군이다.",
