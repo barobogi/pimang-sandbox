@@ -1,0 +1,73 @@
+{
+  "block_code": "48127",
+  "block_name": "경상남도 창원시 마산회원구",
+  "bbox": [
+    128.4742,
+    35.179035,
+    128.627222,
+    35.277338
+  ],
+  "center": [
+    35.228186,
+    128.550711
+  ],
+  "landmarks": [
+    {
+      "name": "마산역 상권",
+      "lat": 35.2281863,
+      "lng": 128.55071105,
+      "category": "상권/교통",
+      "description": "마산역 상권은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "회원동 상권",
+      "lat": 35.2281863,
+      "lng": 128.55071105,
+      "category": "상권",
+      "description": "회원동 상권은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "마산회원구청",
+      "lat": 35.2208672,
+      "lng": 128.5797021,
+      "category": "행정/랜드마크",
+      "description": "마산회원구청은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "봉암갯벌",
+      "lat": 35.2281863,
+      "lng": 128.55071105,
+      "category": "생태/자연",
+      "description": "봉암갯벌은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "내서읍 상권",
+      "lat": 35.2281863,
+      "lng": 128.55071105,
+      "category": "상권",
+      "description": "내서읍 상권은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC"
+    }
+  ],
+  "history_summary": "마산회원구는 마산의 내륙 지역으로 마산역과 회원동 상권, 봉암갯벌이 자리한 창원 서북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
