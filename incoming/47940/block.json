@@ -18,7 +18,13 @@
       "lng": 131.8646964,
       "category": "섬/영토",
       "description": "대한민국 최동단의 섬으로 대한민국 영토의 상징이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 287.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Dokdo_Photo.jpg"
     },
     {
       "name": "관음도",
@@ -26,7 +32,13 @@
       "lng": 130.9156227,
       "category": "암도/자연",
       "description": "울릉도의 상징 암도로 해상 절경과 바위 절벽이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%9D%8C%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%9D%8C%EB%8F%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 118.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ulleung_Gwaneumdo_2020OCT.jpg/1280px-Ulleung_Gwaneumdo_2020OCT.jpg"
     },
     {
       "name": "서빙백류지",
@@ -34,7 +46,13 @@
       "lng": 130.89,
       "category": "자연/계곡",
       "description": "삼나무 숲과 계곡이 어우러진 울릉도의 대표 자연 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 105.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/NE_coast_of_Ulleung_seen_from_Jukdo.jpg/1280px-NE_coast_of_Ulleung_seen_from_Jukdo.jpg"
     },
     {
       "name": "저동방죽",
@@ -42,7 +60,13 @@
       "lng": 130.819,
       "category": "해안/마을",
       "description": "울릉도 저동항의 방파제와 해안 마을 풍경이 아름다운 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 106.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/NE_coast_of_Ulleung_seen_from_Jukdo.jpg/1280px-NE_coast_of_Ulleung_seen_from_Jukdo.jpg"
     },
     {
       "name": "통구미",
@@ -50,7 +74,13 @@
       "lng": 130.8606453,
       "category": "해안/자연",
       "description": "울릉도 남쪽 해안의 절경으로 절벽과 바다가 어우러진 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 102.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%EC%9A%B8%EB%A6%89_%ED%86%B5%EA%B5%AC%EB%AF%B8_%ED%96%A5%EB%82%98%EB%AC%B4_%EC%9E%90%EC%83%9D%EC%A7%80.jpg"
     }
   ],
   "history_summary": "울릉군은 울릉도와 독도를 관할하는 대한민국 최동단의 군으로 화산섬의 절경과 바다 자원, 독도의 역사가 함께한 섬 군이다.",
