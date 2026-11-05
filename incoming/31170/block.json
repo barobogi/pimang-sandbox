@@ -1,0 +1,73 @@
+{
+  "block_code": "31170",
+  "block_name": "울산광역시 동구",
+  "bbox": [
+    129.383004,
+    35.337703,
+    129.720619,
+    35.571768
+  ],
+  "center": [
+    35.454735,
+    129.551811
+  ],
+  "landmarks": [
+    {
+      "name": "미포해변",
+      "lat": 35.525,
+      "lng": 129.423,
+      "category": "해변/관광",
+      "description": "동해안의 대표 해변으로 미포 철길이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "정자해수욕장",
+      "lat": 35.54,
+      "lng": 129.43,
+      "category": "해수욕장",
+      "description": "동해안의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "현대자동차 울산공장",
+      "lat": 35.531,
+      "lng": 129.39,
+      "category": "산업/자동차",
+      "description": "세계 최대 규모의 자동차 생산 공장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8"
+    },
+    {
+      "name": "강동공원",
+      "lat": 35.558,
+      "lng": 129.399,
+      "category": "공원",
+      "description": "동구 강동 지역의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "화암공원",
+      "lat": 35.547,
+      "lng": 129.406,
+      "category": "공원",
+      "description": "동구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "울산 동구는 동해 해안과 현대자동차 울산공장이 자리한 울산 동부의 산업·해양 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
