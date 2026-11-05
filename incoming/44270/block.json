@@ -1,0 +1,73 @@
+{
+  "block_code": "44270",
+  "block_name": "충청남도 당진시",
+  "bbox": [
+    126.354339,
+    36.747909,
+    126.858661,
+    37.096049
+  ],
+  "center": [
+    36.921979,
+    126.6065
+  ],
+  "landmarks": [
+    {
+      "name": "삽교호",
+      "lat": 36.8620572,
+      "lng": 126.8361862,
+      "category": "호수/관광",
+      "description": "삽교호은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BD%EA%B5%90%ED%98%B8"
+    },
+    {
+      "name": "왜목마을",
+      "lat": 36.9219787,
+      "lng": 126.6064996,
+      "category": "마을/일출",
+      "description": "왜목마을은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C"
+    },
+    {
+      "name": "당진시청",
+      "lat": 36.8899526,
+      "lng": 126.6457659,
+      "category": "행정/랜드마크",
+      "description": "당진시청은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "당진시장",
+      "lat": 36.8880287,
+      "lng": 126.6262114,
+      "category": "시장/먹거리",
+      "description": "당진시장은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "현대제철 당진제철소",
+      "lat": 36.9761796,
+      "lng": 126.6951681,
+      "category": "산업/철강",
+      "description": "현대제철 당진제철소은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C"
+    }
+  ],
+  "history_summary": "당진시는 삽교호와 왜목마을, 도비도? 아니라 현대제철이 자리한 충남 서해안 산업·관광 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
