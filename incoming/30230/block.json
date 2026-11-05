@@ -18,7 +18,13 @@
       "lng": 127.47,
       "category": "산길/건강",
       "description": "계족산 숲속 14.5km 황톳길로 대전 대표 산책 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 345.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Daejeon_southern_cityscape_from_Gyejoksan_%28cropped%29.jpg/1280px-Daejeon_southern_cityscape_from_Gyejoksan_%28cropped%29.jpg"
     },
     {
       "name": "동춘당",
@@ -26,7 +32,13 @@
       "lng": 127.4419728,
       "category": "건축물/문화유산",
       "description": "동춘당 송준길 선생의 강학 공간으로 보물 제209호다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%B6%98%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%B6%98%EB%8B%B9",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 5.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dongchundang_01.JPG/1280px-Dongchundang_01.JPG"
     },
     {
       "name": "대청호",
@@ -34,7 +46,13 @@
       "lng": 127.469924,
       "category": "호수/자연",
       "description": "대덕구와 충북에 걸쳐 있는 대형 인공 호수로 대청호반길이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 202.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/1280px-Daecheong_Dam.jpg"
     },
     {
       "name": "신탄진역",
@@ -42,7 +60,13 @@
       "lng": 127.4293215,
       "category": "교통/철도",
       "description": "대덕구 신탄진동의 철도역으로 옛 신탄진 문화가 남아 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%83%84%EC%A7%84%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%83%84%EC%A7%84%EC%97%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 164.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Korail_sintanjin_station.jpg"
     },
     {
       "name": "회덕향교",
@@ -50,7 +74,13 @@
       "lng": 127.435,
       "category": "교육/문화유산",
       "description": "조선 시대 회덕현의 향교로 유서 깊은 교육 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 16.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
   "history_summary": "대전 대덕구는 계족산과 대청호가 자리한 대전 북부의 구로 동춘당과 계족산황토길 등 역사·자연 명소가 함께한다.",
