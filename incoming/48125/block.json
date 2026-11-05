@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "마산항",
-      "lat": 35.127905299999995,
-      "lng": 128.5033641,
+      "lat": 35.2026625,
+      "lng": 128.597797,
       "category": "항구/관광",
       "description": "마산항은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 225.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Korail0haman2gadogyo.JPG"
     },
     {
       "name": "돝섬",
@@ -26,7 +32,12 @@
       "lng": 128.5809999,
       "category": "섬/관광",
       "description": "돝섬은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%9D%EC%84%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%9D%EC%84%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 231.4
+      }
     },
     {
       "name": "마산합포구청",
@@ -34,15 +45,27 @@
       "lng": 128.5677945,
       "category": "행정/랜드마크",
       "description": "마산합포구청은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%A9%ED%8F%AC%EA%B5%AC%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%A9%ED%8F%AC%EA%B5%AC%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 217.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Masanhappo-gu_office.jpg/1280px-Masanhappo-gu_office.jpg"
     },
     {
       "name": "마산어시장",
-      "lat": 35.127905299999995,
-      "lng": 128.5033641,
+      "lat": 35.2029733,
+      "lng": 128.5764929,
       "category": "시장/먹거리",
       "description": "마산어시장은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%EC%96%B4%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%EC%96%B4%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 218.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Masanhappo-gu_office.jpg/1280px-Masanhappo-gu_office.jpg"
     },
     {
       "name": "무학산",
@@ -50,7 +73,13 @@
       "lng": 128.535514,
       "category": "산/자연",
       "description": "무학산은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%ED%95%99%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%ED%95%99%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 197.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Naknamjeongmaek.jpg/1280px-Naknamjeongmaek.jpg"
     }
   ],
   "history_summary": "마산합포구는 마산 원도심과 마산항, 돝섬이 자리한 창원 서부의 구이다.",
