@@ -18,7 +18,13 @@
       "lng": 126.8455824,
       "category": "항구/인프라",
       "description": "급성장 중인 대형 컨테이너 항만이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%ED%95%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%ED%95%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 60.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Port_of_Pyeongtaek-Dangjin_%28South_Korea%29_%ED%8F%89%ED%83%9D%EB%8B%B9%EC%A7%84%ED%95%AD.jpg/1280px-Port_of_Pyeongtaek-Dangjin_%28South_Korea%29_%ED%8F%89%ED%83%9D%EB%8B%B9%EC%A7%84%ED%95%AD.jpg"
     },
     {
       "name": "평택호수공원",
@@ -26,7 +32,13 @@
       "lng": 127.074,
       "category": "호수/공원",
       "description": "평택 도심의 대표 호수 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 286.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Gyeonggi-Pyeongtaek.svg/1280px-Gyeonggi-Pyeongtaek.svg.png"
     },
     {
       "name": "동삭해수욕장",
@@ -34,7 +46,13 @@
       "lng": 126.744,
       "category": "해수욕장",
       "description": "평택의 대표 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 60.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Gyeonggi-Pyeongtaek.svg/1280px-Gyeonggi-Pyeongtaek.svg.png"
     },
     {
       "name": "캠프험프리스",
@@ -42,7 +60,13 @@
       "lng": 127.066,
       "category": "군사/기지",
       "description": "주한 미군의 최대 기지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%BA%A0%ED%94%84%ED%97%98%ED%94%84%EB%A6%AC%EC%8A%A4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%BA%A0%ED%94%84%ED%97%98%ED%94%84%EB%A6%AC%EC%8A%A4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 300.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/USAGH-CREST.jpg"
     },
     {
       "name": "평택문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 127.0650851,
       "category": "공연장/문화",
       "description": "평택의 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 244.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Gyeonggi-Pyeongtaek.svg/1280px-Gyeonggi-Pyeongtaek.svg.png"
     }
   ],
   "history_summary": "평택시는 평택항과 캠프험프리스가 함께한 경기 남부의 관문 도시이며 평택항 컨테이너 항만이 성장했다.",
