@@ -18,7 +18,13 @@
       "lng": 127.5255704,
       "category": "과학/우주",
       "description": "나로우주센터은(는) 전라남도 고흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EB%A1%9C%EC%9A%B0%EC%A3%BC%EC%84%BC%ED%84%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EB%A1%9C%EC%9A%B0%EC%A3%BC%EC%84%BC%ED%84%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 309.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/KSLV-II_Nuri_and_the_launchpad_02.jpg/1280px-KSLV-II_Nuri_and_the_launchpad_02.jpg"
     },
     {
       "name": "팔영산",
@@ -26,7 +32,13 @@
       "lng": 127.4364443,
       "category": "산/자연",
       "description": "팔영산은(는) 전라남도 고흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EC%98%81%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EC%98%81%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 234.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg/1280px-%EC%98%81%EC%B2%9C_%EA%B1%B0%EC%A1%B0%EC%82%AC_%EC%98%81%EC%82%B0%EC%A0%84_%EC%A0%95%EB%A9%B4_%28%EC%B4%AC%EC%98%81%EB%85%84%EB%8F%84_2015%EB%85%84%29.jpg"
     },
     {
       "name": "소록도",
@@ -34,7 +46,13 @@
       "lng": 127.1094165,
       "category": "역사/섬",
       "description": "소록도은(는) 전라남도 고흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%A1%9D%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%A1%9D%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 75.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%EC%86%8C%EB%A1%9D%EB%8F%84_%EB%B0%94%EB%8B%A4.jpg/1280px-%EC%86%8C%EB%A1%9D%EB%8F%84_%EB%B0%94%EB%8B%A4.jpg"
     },
     {
       "name": "고흥군청",
@@ -42,7 +60,13 @@
       "lng": 127.2755185,
       "category": "행정/랜드마크",
       "description": "고흥군청은(는) 전라남도 고흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%9D%A5%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%9D%A5%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 126.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Goheung-Gun_Office_Air_View.jpg/1280px-Goheung-Gun_Office_Air_View.jpg"
     },
     {
       "name": "고흥시장",
@@ -50,7 +74,13 @@
       "lng": 127.3432158,
       "category": "시장/먹거리",
       "description": "고흥시장은(는) 전라남도 고흥군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%9D%A5%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%9D%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 22.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Goheung-Gun_Office_Air_View.jpg/1280px-Goheung-Gun_Office_Air_View.jpg"
     }
   ],
   "history_summary": "고흥군은 나로우주센터와 팔영산, 금산? 아니라 소록도가 자리한 전남 남해안의 군이다.",
