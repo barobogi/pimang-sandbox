@@ -18,7 +18,13 @@
       "lng": 126.6190005,
       "category": "관광/문화",
       "description": "국내 최대 중국인 거주지로 만두와 중국 요리로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 269.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Chinatown_-_East_Broadway.jpg/1280px-Chinatown_-_East_Broadway.jpg"
     },
     {
       "name": "월미도",
@@ -26,7 +32,13 @@
       "lng": 126.6028277,
       "category": "관광/공원",
       "description": "월미도 놀이공원과 문화의 거리가 있는 대표 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EB%AF%B8%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EB%AF%B8%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 271.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%EC%9B%94%EB%AF%B8%EB%8F%84_1947%EB%85%84.jpg"
     },
     {
       "name": "인천 개항장",
@@ -34,7 +46,13 @@
       "lng": 126.622,
       "category": "역사/관광",
       "description": "1883년 개항장이었던 인천 원도심 역사 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 266.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Songdo_Central_Park_and_Posco_Tower_Songdo.jpg/1280px-Songdo_Central_Park_and_Posco_Tower_Songdo.jpg"
     },
     {
       "name": "신포시장",
@@ -42,7 +60,13 @@
       "lng": 126.6283249,
       "category": "시장/먹거리",
       "description": "닭강정으로 유명한 인천 대표 시장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%8F%AC%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%8F%AC%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 273.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sinpo-market_191123001.jpg/1280px-Sinpo-market_191123001.jpg"
     },
     {
       "name": "영종도",
@@ -50,7 +74,13 @@
       "lng": 126.51,
       "category": "섬/관광",
       "description": "인천국제공항이 자리한 인천 중구의 대형 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A2%85%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%A2%85%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 86.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Yeongjong_location.svg/1280px-Yeongjong_location.svg.png"
     }
   ],
   "history_summary": "인천 중구는 인천항 개항장과 차이나타운, 월미도가 자리한 인천의 원도심 관광 중심 구이다.",
