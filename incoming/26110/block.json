@@ -1,0 +1,73 @@
+{
+  "block_code": "26110",
+  "block_name": "부산광역시 중구",
+  "bbox": [
+    129.02121,
+    35.094108,
+    129.053895,
+    35.11636
+  ],
+  "center": [
+    35.105234,
+    129.037553
+  ],
+  "landmarks": [
+    {
+      "name": "국제시장",
+      "lat": 35.1011643,
+      "lng": 129.0281925,
+      "category": "시장/상권",
+      "description": "6·25 이후 형성된 부산 최대 전통시장으로 영화 배경으로도 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "용두산공원",
+      "lat": 35.1004923,
+      "lng": 129.0326268,
+      "category": "공원/전망대",
+      "description": "용두산 정상의 부산타워가 있는 대표 전망 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%91%90%EC%82%B0%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "광복동",
+      "lat": 35.1003589,
+      "lng": 129.0306071,
+      "category": "상권/번화가",
+      "description": "부산 도심의 대표 번화가로 패션과 쇼핑의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "자갈치시장",
+      "lat": 35.0966115,
+      "lng": 129.0305184,
+      "category": "수산시장",
+      "description": "국내 최대 수산물 시장으로 생선회와 먹거리로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B0%88%EC%B9%98%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "부산항",
+      "lat": 35.1026,
+      "lng": 129.0405108,
+      "category": "항구/인프라",
+      "description": "대한민국 최대 무역항으로 부산의 역사와 함께한 대표 항구다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%ED%95%AD"
+    }
+  ],
+  "history_summary": "부산 중구는 개항기 이후 부산의 원도심으로 국제시장과 광복동, 용두산공원이 자리한 부산 상업·관광 중심지다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
