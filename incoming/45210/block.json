@@ -18,7 +18,13 @@
       "lng": 126.8535019,
       "category": "저수지/문화유산",
       "description": "벽골제은(는) 전북특별자치도 김제시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%BD%EA%B3%A8%EC%A0%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%BD%EA%B3%A8%EC%A0%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 303.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B2%BD%EA%B3%A8%EC%A0%9C.jpg/1280px-%EB%B2%BD%EA%B3%A8%EC%A0%9C.jpg"
     },
     {
       "name": "금산사",
@@ -26,31 +32,55 @@
       "lng": 127.0536966,
       "category": "사찰/문화유산",
       "description": "금산사은(는) 전북특별자치도 김제시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%82%B0%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 287.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Korea-Gimje-Geumsansa-02.jpg"
     },
     {
       "name": "만경평야",
-      "lat": 35.7919272,
-      "lng": 126.78269585000001,
+      "lat": 35.8814478,
+      "lng": 126.815895,
       "category": "평야/자연",
       "description": "만경평야은(는) 전북특별자치도 김제시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 196.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mangyeong_River_%28Wanju%29_-_October_2017_%282%29.jpg/1280px-Mangyeong_River_%28Wanju%29_-_October_2017_%282%29.jpg"
     },
     {
       "name": "김제시청",
-      "lat": 35.7919272,
-      "lng": 126.78269585000001,
+      "lat": 35.8035799,
+      "lng": 126.8806462,
       "category": "행정/랜드마크",
       "description": "김제시청은(는) 전북특별자치도 김제시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 261.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Korea-Gimje-Cityscape-01.jpg/1280px-Korea-Gimje-Cityscape-01.jpg"
     },
     {
       "name": "김제시장",
-      "lat": 35.7919272,
-      "lng": 126.78269585000001,
+      "lat": 35.8001336,
+      "lng": 126.8864263,
       "category": "시장/먹거리",
       "description": "김제시장은(는) 전북특별자치도 김제시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%9C%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 264.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Korea-Gimje-Cityscape-01.jpg/1280px-Korea-Gimje-Cityscape-01.jpg"
     }
   ],
   "history_summary": "김제시는 벽골제와 만경평야, 금산사가 자리한 전북 서부의 대표 농업 도시이다.",
