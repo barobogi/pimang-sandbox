@@ -1,0 +1,73 @@
+{
+  "block_code": "26170",
+  "block_name": "부산광역시 동구",
+  "bbox": [
+    129.024779,
+    35.105324,
+    129.066424,
+    35.145914
+  ],
+  "center": [
+    35.125619,
+    129.045601
+  ],
+  "landmarks": [
+    {
+      "name": "부산역",
+      "lat": 35.1154864,
+      "lng": 129.0398951,
+      "category": "교통/허브",
+      "description": "KTX가 정차하는 부산의 관문 역이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%97%AD"
+    },
+    {
+      "name": "초량이바구길",
+      "lat": 35.117,
+      "lng": 129.036,
+      "category": "문화/산복도로",
+      "description": "6·25 피난민들이 형성한 산복도로 골목으로 부산 근대사의 생활 문화 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "동구청",
+      "lat": 35.129356,
+      "lng": 129.0453138,
+      "category": "행정/랜드마크",
+      "description": "부산 동구의 행정 중심 청사다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "부산항 북항",
+      "lat": 35.11,
+      "lng": 129.043,
+      "category": "항구/문화",
+      "description": "옛 부산항 제1부두 일원으로 항만 문화의 원점이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "범일동 벚꽃길",
+      "lat": 35.121,
+      "lng": 129.054,
+      "category": "꽃길/계절",
+      "description": "범일동 일대에 형성된 벚꽃 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "부산 동구는 부산역이 자리한 부산의 관문 구로 초량동 등이 있으며 개항기 이후 근대 역사가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
