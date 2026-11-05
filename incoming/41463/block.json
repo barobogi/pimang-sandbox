@@ -82,6 +82,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Giheung-gu_office.JPG/1280px-Giheung-gu_office.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "기흥 도심 하이라이트 시그니처 스카이 투어",
+      "description": "기흥역 상권 → 기흥동 상권 → 신갈지구 → 보정동 카페거리 → 동백지구 순으로 이어지는 경기도 용인시 기흥구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "기흥역 상권",
+        "기흥동 상권",
+        "신갈지구",
+        "보정동 카페거리",
+        "동백지구"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "기흥 도심 활력 에어리얼 코스",
+      "description": "보정동 카페거리 → 신갈지구 → 기흥역 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 기흥의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "보정동 카페거리",
+        "신갈지구",
+        "기흥역 상권"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "용인 기흥구는 보정동 카페거리와 신갈지구가 함께한 용인 중부의 구이다.",
   "data_sources": [
     {
