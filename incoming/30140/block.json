@@ -18,7 +18,13 @@
       "lng": 127.421,
       "category": "사당/문화유산",
       "description": "조선 시대 성황당을 복원한 사당으로 대전의 상징 중 하나다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 187.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jung-gu_DAEJEON.PNG"
     },
     {
       "name": "보문산",
@@ -26,7 +32,13 @@
       "lng": 127.399211,
       "category": "산/자연",
       "description": "대전 도심에 자리한 산으로 등산로와 산책로가 조성된 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 159.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Metal_tower_at_Bomunsan_in_Daejeon.jpg/1280px-Metal_tower_at_Bomunsan_in_Daejeon.jpg"
     },
     {
       "name": "대전중앙시장",
@@ -34,7 +46,13 @@
       "lng": 127.42,
       "category": "전통시장",
       "description": "대전 도심 중앙에 위치한 대표 재래시장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 187.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Daejeon_Jungang_Market.jpg/1280px-Daejeon_Jungang_Market.jpg"
     },
     {
       "name": "대전근현대사전시관",
@@ -42,7 +60,13 @@
       "lng": 127.4209421,
       "category": "박물관/역사",
       "description": "대전의 근현대 역사를 전시하는 전시관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 187.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%EB%8C%80%EC%A0%84%EA%B7%BC%ED%98%84%EB%8C%80%EC%82%AC%EC%A0%84%EC%8B%9C%EA%B4%80_%EC%A3%BC%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg/1280px-%EB%8C%80%EC%A0%84%EA%B7%BC%ED%98%84%EB%8C%80%EC%82%AC%EC%A0%84%EC%8B%9C%EA%B4%80_%EC%A3%BC%EC%B6%9C%EC%9E%85%EA%B5%AC.jpg"
     },
     {
       "name": "대전 중앙로 지하상가",
@@ -50,7 +74,13 @@
       "lng": 127.421,
       "category": "상권/쇼핑",
       "description": "대전 도심 중앙로 아래에 형성된 대형 지하 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 188.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Daejeon_Jungang-ro.jpg/1280px-Daejeon_Jungang-ro.jpg"
     }
   ],
   "history_summary": "중구는 대전의 원도심으로 성황당과 보문산, 대전 근현대사 전시관 등이 있으며 대전 상업 중심지로 발달했다.",
