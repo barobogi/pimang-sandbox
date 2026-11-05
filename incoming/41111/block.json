@@ -1,0 +1,73 @@
+{
+  "block_code": "41111",
+  "block_name": "경기도 수원시 장안구",
+  "bbox": [
+    126.960679,
+    37.285223,
+    127.039358,
+    37.351047
+  ],
+  "center": [
+    37.318135,
+    127.000019
+  ],
+  "landmarks": [
+    {
+      "name": "수원 화성",
+      "lat": 37.2866165,
+      "lng": 127.0194972,
+      "category": "유네스코/문화유산",
+      "description": "조선 정조 때 조성된 성곽으로 유네스코 세계문화유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1"
+    },
+    {
+      "name": "파장동 상권",
+      "lat": 37.306,
+      "lng": 127.02,
+      "category": "상권",
+      "description": "파장동에 형성된 장안구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+    },
+    {
+      "name": "율천동 상권",
+      "lat": 37.295,
+      "lng": 127.0,
+      "category": "상권",
+      "description": "율천동 일대의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+    },
+    {
+      "name": "화서역 상권",
+      "lat": 37.295,
+      "lng": 127.01,
+      "category": "상권",
+      "description": "화서역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+    },
+    {
+      "name": "장안공원",
+      "lat": 37.288425,
+      "lng": 127.0128445,
+      "category": "공원",
+      "description": "장안구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC"
+    }
+  ],
+  "history_summary": "수원 장안구는 수원 화성 북쪽 지역으로 파장동과 율천동 상권이 함께한 수원 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
