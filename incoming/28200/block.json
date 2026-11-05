@@ -18,7 +18,13 @@
       "lng": 126.7477937,
       "category": "생태/습지",
       "description": "소래도 일대의 갯벌과 논습지로 이루어진 국내 대표 내륙 습지 생태공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 308.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%86%8C%EB%9E%98%EC%8A%B5%EC%A7%80%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90_%EA%B0%88%EB%8C%80%EB%B0%AD.jpg/1280px-%EC%86%8C%EB%9E%98%EC%8A%B5%EC%A7%80%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90_%EA%B0%88%EB%8C%80%EB%B0%AD.jpg"
     },
     {
       "name": "소래포구",
@@ -26,7 +32,13 @@
       "lng": 126.7393554,
       "category": "어항/갯벌",
       "description": "소래산 자락에 형성된 전통 포구로 맨손갯벌체험과 낚시로 유명한 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%9E%98%ED%8F%AC%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%9E%98%ED%8F%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 335.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sorae_History_Museum_191124005.jpg/1280px-Sorae_History_Museum_191124005.jpg"
     },
     {
       "name": "인더스파크",
@@ -34,7 +46,13 @@
       "lng": 126.7231,
       "category": "복합문화/전시",
       "description": "서창동 구 남동공단 공장을 리모델링한 복합문화공간으로 공연과 체험이 가능하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 1.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/%EB%82%A8%EB%8F%99%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8C%8C%ED%81%AC_%EA%B0%84%ED%8C%90_2024.jpg"
     },
     {
       "name": "인천대공원",
@@ -42,7 +60,13 @@
       "lng": 126.7528149,
       "category": "도시공원",
       "description": "장수동에 조성된 대형 도시공원으로 산악자전거 코스와 수목원이 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 228.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90%EB%82%A8%EB%AC%B8_2023.jpg/1280px-%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90%EB%82%A8%EB%AC%B8_2023.jpg"
     },
     {
       "name": "남동문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 126.705,
       "category": "공연장/문화",
       "description": "남동구 대표 공연·전시 시설로 구민 문화예술 활동의 거점이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 105.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%EB%82%A8%EB%8F%99%EC%83%9D%ED%99%9C%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0.jpg/1280px-%EB%82%A8%EB%8F%99%EC%83%9D%ED%99%9C%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0.jpg"
     },
     {
       "name": "소래포구 해오름광장",
@@ -58,7 +88,13 @@
       "lng": 126.7485,
       "category": "항구/관광",
       "description": "소래포구 어시장과 새우타워 전망대가 있는 수변광장으로 소래포구축제가 열린다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%9E%98%ED%8F%AC%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%9E%98%ED%8F%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 339.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%EC%86%8C%EB%9E%98%ED%95%B4%EB%84%98%EC%9D%B4%EC%A0%84%EB%A7%9D%EB%8C%80.jpg/1280px-%EC%86%8C%EB%9E%98%ED%95%B4%EB%84%98%EC%9D%B4%EC%A0%84%EB%A7%9D%EB%8C%80.jpg"
     }
   ],
   "history_summary": "남동구는 옛 남동공단이 국제시대 문화·산업 공간으로 재탄생한 인천의 자치구로 소래습지와 소래포구, 인천대공원 등 생태·녹지 명소가 자리한다.",
