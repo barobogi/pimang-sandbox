@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "노근리평화공원",
-      "lat": 36.164522950000006,
-      "lng": 127.8244555,
+      "lat": 36.2127253,
+      "lng": 127.8816085,
       "category": "역사/공원",
       "description": "노근리평화공원은(는) 충청북도 영동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 223.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/No_Gun_Ri_bridge-1960.jpg/1280px-No_Gun_Ri_bridge-1960.jpg"
     },
     {
       "name": "반야사",
@@ -26,15 +32,27 @@
       "lng": 127.9093308,
       "category": "사찰/문화유산",
       "description": "반야사은(는) 충청북도 영동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%EC%95%BC%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%EC%95%BC%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 210.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%EB%B0%98%EC%95%BC%EC%82%AC1.JPG"
     },
     {
       "name": "난계국악기제작촌",
-      "lat": 36.164522950000006,
-      "lng": 127.8244555,
+      "lat": 36.2097532,
+      "lng": 127.7047899,
       "category": "문화/체험",
       "description": "난계국악기제작촌은(는) 충청북도 영동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 115.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Panoramic_view_of_Yeongdong-eup.jpg/1280px-Panoramic_view_of_Yeongdong-eup.jpg"
     },
     {
       "name": "영동군청",
@@ -42,7 +60,13 @@
       "lng": 127.7834315,
       "category": "행정/랜드마크",
       "description": "영동군청은(는) 충청북도 영동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 107.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/YeongdongSta.jpg"
     },
     {
       "name": "영동시장",
@@ -50,7 +74,13 @@
       "lng": 127.7756022,
       "category": "시장/먹거리",
       "description": "영동시장은(는) 충청북도 영동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%99%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 107.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/19740429_%EB%82%A8%EB%B6%80%EC%88%9C%ED%99%98%EB%A1%9C_%EC%A0%9C2%EA%B5%AC%EA%B0%84_%EA%B3%B5%EC%82%AC_%EC%84%A4%EB%AA%85.jpg/1280px-19740429_%EB%82%A8%EB%B6%80%EC%88%9C%ED%99%98%EB%A1%9C_%EC%A0%9C2%EA%B5%AC%EA%B0%84_%EA%B3%B5%EC%82%AC_%EC%84%A4%EB%AA%85.jpg"
     }
   ],
   "history_summary": "영동군은 충북 최남단의 군으로 경부선이 지나고 한천팔경과 양산팔경, 노근리평화공원과 난계국악기제작촌이 자리한 국악과 자연의 고장이다.",
