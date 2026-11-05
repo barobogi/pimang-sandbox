@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "금수복국",
+      "lat": 35.1614,
+      "lng": 129.16,
+      "specialty": "복국",
+      "category": "한식"
+    },
+    {
+      "name": "암소갈비본점",
+      "lat": 35.1627,
+      "lng": 129.1603,
+      "specialty": "소갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "해운대시장 먹거리골목",
+      "lat": 35.1611,
+      "lng": 129.1617,
+      "specialty": "밀면",
+      "category": "향토음식"
+    },
+    {
+      "name": "미포 조개구이골목",
+      "lat": 35.1691,
+      "lng": 129.1735,
+      "specialty": "조개구이",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "부산 해운대구는 해운대해수욕장과 센텀시티가 자리한 부산 대표 국제 관광·비즈니스 중심지다.",
   "data_sources": [
     {
