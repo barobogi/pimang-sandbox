@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "지산동고분군",
-      "lat": 35.73202105,
-      "lng": 128.3190255,
+      "lat": 35.7261378,
+      "lng": 128.2532895,
       "category": "유네스코/고분",
       "description": "지산동고분군은(는) 경상북도 고령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 83.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg/1280px-%EC%A7%80%EC%82%B0%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_%28_6_%29.jpg"
     },
     {
       "name": "대가야박물관",
@@ -26,7 +32,13 @@
       "lng": 128.2573379,
       "category": "박물관/역사",
       "description": "대가야박물관은(는) 경상북도 고령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B0%80%EC%95%BC%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B0%80%EC%95%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 79.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Korea-Gaya_Royal_tomb_exhibition_site.jpg/1280px-Korea-Gaya_Royal_tomb_exhibition_site.jpg"
     },
     {
       "name": "고령군청",
@@ -34,23 +46,41 @@
       "lng": 128.2629107,
       "category": "행정/랜드마크",
       "description": "고령군청은(는) 경상북도 고령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 82.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/North_Gyeongsang-Goryeong.svg/1280px-North_Gyeongsang-Goryeong.svg.png"
     },
     {
       "name": "고령시장",
-      "lat": 35.73202105,
-      "lng": 128.3190255,
+      "lat": 35.7270882,
+      "lng": 128.2667492,
       "category": "시장/먹거리",
       "description": "고령시장은(는) 경상북도 고령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 83.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/North_Gyeongsang-Goryeong.svg/1280px-North_Gyeongsang-Goryeong.svg.png"
     },
     {
       "name": "주산성",
-      "lat": 35.73202105,
-      "lng": 128.3190255,
+      "lat": 35.7310812,
+      "lng": 128.2562019,
       "category": "산성/문화유산",
       "description": "주산성은(는) 경상북도 고령군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 88.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/%EA%B3%A0%EB%A0%B9_%EC%A3%BC%EC%82%B0%EC%84%B1.jpg"
     }
   ],
   "history_summary": "고령군은 대가야의 고도로 유네스코 세계유산 지산동고분군과 대가야박물관이 자리한 군이다.",
