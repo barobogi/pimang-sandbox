@@ -18,7 +18,13 @@
       "lng": 129.26,
       "category": "유네스코/문화유산",
       "description": "반구대와 함께 유네스코 세계유산으로 등재된 선사시대 암각화 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 172.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/1280px-Bangudae3.jpg"
     },
     {
       "name": "천전리각사",
@@ -26,7 +32,13 @@
       "lng": 129.27,
       "category": "유네스코/문화유산",
       "description": "신라 시대 각사 유적으로 세계유산 반구대 지구에 속한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 175.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ulju-gun_ULSAN.PNG"
     },
     {
       "name": "간절감",
@@ -34,7 +46,13 @@
       "lng": 129.233,
       "category": "해양/관광",
       "description": "간절목 일대 해안 조약돌 명소로 낚시와 드라이브 코스로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 134.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ulju-gun_ULSAN.PNG"
     },
     {
       "name": "언양 자수정 동굴나라",
@@ -42,7 +60,13 @@
       "lng": 129.19,
       "category": "동굴/테마",
       "description": "자수정 광산 폐갱도를 활용해 조성한 국내 최초의 인공동굴 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 139.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Am-Cave-Ul1.jpg/1280px-Am-Cave-Ul1.jpg"
     },
     {
       "name": "온산항",
@@ -50,7 +74,13 @@
       "lng": 129.31,
       "category": "항구/어촌",
       "description": "온산 지역의 대표 어항으로 어시장이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 325.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Onsan-yok_20080914.jpg"
     }
   ],
   "history_summary": "울주군은 울산 서부의 광역 군으로 대곡천 반구대 암각화 등 유네스코 세계유산과 간절감, 언양 자수정 동굴나라 등 해양·내륙 명소가 함께한다.",
