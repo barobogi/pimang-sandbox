@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Damyang-gun_office.JPG/1280px-Damyang-gun_office.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "담양 자연 힐링 시그니처 에어리얼 투어",
+      "description": "관방제 → 가사문학공원 → 죽녹원 → 소쇄원 → 메타세쿼이아길 순으로 이어지는 전라남도 담양군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "관방제",
+        "가사문학공원",
+        "죽녹원",
+        "소쇄원",
+        "메타세쿼이아길"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "담양 자연 힐링 스카이 워크",
+      "description": "메타세쿼이아길 → 관방제 → 죽녹원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 담양의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "메타세쿼이아길",
+        "관방제",
+        "죽녹원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "담양군은 대나무와 메타세쿼이아 숲으로 유명한 전남 북부의 군으로 죽녹원과 소쇄원, 관방제 등 유서 깊은 명소가 함께한다.",
   "data_sources": [
     {
