@@ -18,7 +18,13 @@
       "lng": 127.5077461,
       "category": "생태/습지",
       "description": "갯벌과 갈대밭이 펼쳐진 국내 대표 습지로 철새 도래지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 318.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/20181231_Suncheon_Bay_002.jpg/1280px-20181231_Suncheon_Bay_002.jpg"
     },
     {
       "name": "순천만국가정원",
@@ -26,7 +32,13 @@
       "lng": 127.510122,
       "category": "정원/관광",
       "description": "국내 최대 규모의 국가정원으로 세계정원박람회 개최지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C%EA%B5%AD%EA%B0%80%EC%A0%95%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 305.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg"
     },
     {
       "name": "낙안읍성",
@@ -34,7 +46,13 @@
       "lng": 127.3431748,
       "category": "읍성/문화유산",
       "description": "조선 시대 읍성이 그대로 보존된 대표 전통 읍성이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 20.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg/1280px-%EB%82%99%EC%95%88%EC%9D%8D%EC%84%B1%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "선암사",
@@ -42,7 +60,13 @@
       "lng": 127.3450975,
       "category": "사찰/문화유산",
       "description": "조선 시대 조계산 자락의 사찰로 유서 깊은 대표 절이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%95%94%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%95%94%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 75.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Seonamsa_Iljumun_11-06782.JPG"
     },
     {
       "name": "송광사",
@@ -50,7 +74,13 @@
       "lng": 127.2647268,
       "category": "사찰/문화유산",
       "description": "지리산 북쪽 자락의 대표 사찰로 유서 깊은 절이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EA%B4%91%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EA%B4%91%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 93.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/1280px-%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg"
     }
   ],
   "history_summary": "순천시는 순천만습지와 순천만국가정원, 낙안읍성, 선암사, 송광사 등 남해안 대표 자연·문화 관광 자원이 풍부한 전남 동부의 도시다.",
