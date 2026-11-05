@@ -18,7 +18,13 @@
       "lng": 126.5486096,
       "category": "산/자연",
       "description": "김포의 대표 산으로 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%88%98%EC%82%B0_%28%EA%B9%80%ED%8F%AC%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%88%98%EC%82%B0_%28%EA%B9%80%ED%8F%AC%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 121.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%EB%AC%B8%EC%88%98%EC%82%B0_%EB%A7%88%EC%95%A0%EB%B3%B4%EC%82%B4%EC%83%81_IMG_9871.jpg/1280px-%EB%AC%B8%EC%88%98%EC%82%B0_%EB%A7%88%EC%95%A0%EB%B3%B4%EC%82%B4%EC%83%81_IMG_9871.jpg"
     },
     {
       "name": "한강",
@@ -26,7 +32,13 @@
       "lng": 126.6749887,
       "category": "하천/자연",
       "description": "김포 하구를 흐르는 대한민국 대표 강이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 346.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Han_River_aerial_view.jpg"
     },
     {
       "name": "북변동 상권",
@@ -34,7 +46,13 @@
       "lng": 126.715,
       "category": "상권",
       "description": "북변동에 형성된 김포 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 327.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gimpo_Gyeonggi_South_Korea.svg/1280px-Gimpo_Gyeonggi_South_Korea.svg.png"
     },
     {
       "name": "장기동 상권",
@@ -42,7 +60,13 @@
       "lng": 126.705,
       "category": "상권",
       "description": "장기동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 323.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dalseo-daegu.png/1280px-Dalseo-daegu.png"
     },
     {
       "name": "김포문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 126.71,
       "category": "공연장/문화",
       "description": "김포의 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 328.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gimpo_Gyeonggi_South_Korea.svg/1280px-Gimpo_Gyeonggi_South_Korea.svg.png"
     }
   ],
   "history_summary": "김포시는 한강 하구의 대표 도시로 문수산과 김포 평야가 함께한 경기 북서부의 도시이다.",
