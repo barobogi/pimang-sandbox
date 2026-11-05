@@ -18,7 +18,13 @@
       "lng": 126.7158289,
       "category": "객사/문화유산",
       "description": "조선 최대 규모의 객사로 보물 제2037호의 대표 역사 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 191.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg"
     },
     {
       "name": "영산포 등대와 황포돛배",
@@ -26,7 +32,13 @@
       "lng": 126.799,
       "category": "항구/문화",
       "description": "현존하는 유일한 내륙 등대와 황포돛배 유람 체험이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 255.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Naju_City_Hall.JPG/1280px-Naju_City_Hall.JPG"
     },
     {
       "name": "빛가람호수공원",
@@ -34,7 +46,13 @@
       "lng": 126.7895727,
       "category": "호수/공원",
       "description": "혁신도시 중앙에 조성된 호수 공원으로 빛가람전망대가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 249.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Naju_City_Hall.JPG/1280px-Naju_City_Hall.JPG"
     },
     {
       "name": "국립나주박물관",
@@ -42,7 +60,13 @@
       "lng": 126.6594746,
       "category": "박물관/고고학",
       "description": "영산강 유역 고분 문화를 전시하는 고고학 전문 국립박물관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EB%82%98%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EB%82%98%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 26.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1280px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg"
     },
     {
       "name": "금성산",
@@ -50,7 +74,13 @@
       "lng": 126.7075361,
       "category": "산/자연",
       "description": "나주의 진산으로 도심에 가까운 대표 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 181.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%EA%B8%88%EC%84%B1%EC%82%B0.jpg/1280px-%EA%B8%88%EC%84%B1%EC%82%B0.jpg"
     }
   ],
   "history_summary": "나주시는 조선 시대 나주목이 있던 호남의 유서 깊은 도시로 금성관과 영산포 황포돛배, 빛가람혁신도시가 함께한 전남 서부의 도시다.",
