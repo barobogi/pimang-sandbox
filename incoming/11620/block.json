@@ -1,0 +1,73 @@
+{
+  "block_code": "11620",
+  "block_name": "서울특별시 관악구",
+  "bbox": [
+    126.898947,
+    37.435375,
+    126.988543,
+    37.495038
+  ],
+  "center": [
+    37.465207,
+    126.943745
+  ],
+  "landmarks": [
+    {
+      "name": "서울대학교",
+      "lat": 37.458115,
+      "lng": 126.9521607,
+      "category": "교육/캠퍼스",
+      "description": "대한민국 최고 국립대학으로 봉천동 관악캠퍼스가 관악산 자락에 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "낙성대공원",
+      "lat": 37.4716117,
+      "lng": 126.9593138,
+      "category": "공원/유적",
+      "description": "곽재우 장군의 호 낙성에서 유래한 지명으로 전체 평화공원과 청년문화가 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%84%B1%EB%8C%80%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "관악산",
+      "lat": 37.4688191,
+      "lng": 126.9453084,
+      "category": "산/자연",
+      "description": "해발 829m의 서울 최고봉 산으로 관악구·금천구·안양시에 걸쳐 있는 국민 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%82%B0"
+    },
+    {
+      "name": "신림종합시장",
+      "lat": 37.4855,
+      "lng": 126.929,
+      "category": "전통시장",
+      "description": "신림동 상권의 중심 재래시장으로 먹거리 골목으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EA%B5%AC"
+    },
+    {
+      "name": "관악구민체육공원",
+      "lat": 37.481,
+      "lng": 126.938,
+      "category": "체육/공원",
+      "description": "관악구에 조성된 구민 체육 공원으로 운동시설과 산책로가 함께 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EA%B5%AC"
+    }
+  ],
+  "history_summary": "관악구는 서울대학교가 봉천동으로 이전한 이후 학문과 청년 문화가 발달한 자치구로 신림동 상권과 관악산, 낙성대 등 자연·유적이 함께 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
