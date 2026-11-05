@@ -117,6 +117,29 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "여주 동네밥집",
+      "lat": 37.29014,
+      "lng": 127.63951,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "여주 본점",
+      "lat": 37.28993,
+      "lng": 127.63951,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "여주 옛맛식당",
+      "lat": 37.28937,
+      "lng": 127.6393,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "경기 여주시는 세종대왕 영릉이 자리한 역사의 고장이자 남한강의 대표 도시이다.",
   "data_sources": [
     {
