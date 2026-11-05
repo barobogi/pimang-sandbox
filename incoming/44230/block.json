@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chilseongbong_at_Daedunsan.jpg/1280px-Chilseongbong_at_Daedunsan.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "논산 자연 힐링 시그니처 에어리얼 투어",
+      "description": "탑정호 → 관촉사 → 논산시청 → 강경젓갈시장 → 대둔산 순으로 이어지는 충청남도 논산시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "탑정호",
+        "관촉사",
+        "논산시청",
+        "강경젓갈시장",
+        "대둔산"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "논산 산하 절경 에어리얼 투어",
+      "description": "논산시청 → 탑정호 → 대둔산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 논산의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "논산시청",
+        "탑정호",
+        "대둔산"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
   "history_summary": "논산시는 백제 유적인 관촉사 미륵보살입상과 강경젓갈시장, 딸기 재배로 유명한 충남 남부의 도시이다.",
   "data_sources": [
     {
