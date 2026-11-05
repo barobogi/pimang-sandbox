@@ -18,7 +18,13 @@
       "lng": 127.128,
       "category": "공연장/문화",
       "description": "성남의 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%82%A8%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%82%A8%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 40.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Seongnam_Arts_Center.jpg/1280px-Seongnam_Arts_Center.jpg"
     },
     {
       "name": "상대원동 상권",
@@ -26,7 +32,13 @@
       "lng": 127.124,
       "category": "상권",
       "description": "상대원동에 형성된 중원구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 61.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jungwon-gu_office.JPG/1280px-Jungwon-gu_office.JPG"
     },
     {
       "name": "탄천",
@@ -34,7 +46,13 @@
       "lng": 127.1183667,
       "category": "하천/자연",
       "description": "중원구를 지나는 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%84%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%84%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 54.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/0_dankook_0.jpg"
     },
     {
       "name": "성남문화원",
@@ -42,7 +60,13 @@
       "lng": 127.1408986,
       "category": "문화",
       "description": "성남 지역 문화 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 84.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%A4%91%EB%82%A8%EB%AF%B8%EB%AC%B8%ED%99%94%EC%9B%90_%EB%B3%91%EC%84%A4_%EB%B0%95%EB%AC%BC%EA%B4%80%2C_20251112.jpg/1280px-%EC%A4%91%EB%82%A8%EB%AF%B8%EB%AC%B8%ED%99%94%EC%9B%90_%EB%B3%91%EC%84%A4_%EB%B0%95%EB%AC%BC%EA%B4%80%2C_20251112.jpg"
     },
     {
       "name": "여수정공원",
@@ -50,7 +74,13 @@
       "lng": 127.118,
       "category": "공원",
       "description": "중원구 여수동의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 59.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jungwon-gu_office.JPG/1280px-Jungwon-gu_office.JPG"
     }
   ],
   "history_summary": "성남 중원구는 성남아트센터와 탄천이 자리한 성남 중부의 구이다.",
