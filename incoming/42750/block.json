@@ -1,0 +1,73 @@
+{
+  "block_code": "42750",
+  "block_name": "강원특별자치도 영월군",
+  "bbox": [
+    128.107162,
+    37.027833,
+    128.910416,
+    37.408961
+  ],
+  "center": [
+    37.218397,
+    128.508789
+  ],
+  "landmarks": [
+    {
+      "name": "동강",
+      "lat": 37.2875126,
+      "lng": 128.5585002,
+      "category": "하천/자연",
+      "description": "동강은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B0%95"
+    },
+    {
+      "name": "청령포",
+      "lat": 37.1706749,
+      "lng": 128.4496819,
+      "category": "유적/역사",
+      "description": "청령포은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%A0%B9%ED%8F%AC"
+    },
+    {
+      "name": "한반도지형",
+      "lat": 37.2195343,
+      "lng": 128.350964,
+      "category": "자연/전망",
+      "description": "한반도지형은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0"
+    },
+    {
+      "name": "영월군청",
+      "lat": 37.1836962,
+      "lng": 128.4618391,
+      "category": "행정/랜드마크",
+      "description": "영월군청은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "고씨동굴",
+      "lat": 37.1305093,
+      "lng": 128.5357498,
+      "category": "동굴/자연",
+      "description": "고씨동굴은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%94%A8%EB%8F%99%EA%B5%B4"
+    }
+  ],
+  "history_summary": "영월군은 동강과 한반도 지형, 김삿갓 유적, 단종 유배지 청령포가 자리한 강원 영서 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
