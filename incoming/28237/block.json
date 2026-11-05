@@ -18,7 +18,13 @@
       "lng": 126.7136328,
       "category": "도시공원",
       "description": "부평동에 위치한 근린공원으로 음악분수와 산책로가 조성된 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 85.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bupyeong_Park_2.JPG/1280px-Bupyeong_Park_2.JPG"
     },
     {
       "name": "부평풍물거리",
@@ -26,7 +32,13 @@
       "lng": 126.895,
       "category": "시장/먹거리",
       "description": "부평역 일대 지하상가와 연결된 먹거리 거리로 쫄볶이와 만두가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 275.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%B6%80%ED%8F%89%EA%B5%AC%EC%B2%AD.jpg/1280px-%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%B6%80%ED%8F%89%EA%B5%AC%EC%B2%AD.jpg"
     },
     {
       "name": "삼산동 쇼핑거리",
@@ -34,7 +46,12 @@
       "lng": 126.8963,
       "category": "상권/문화",
       "description": "삼산체육관을 중심으로 형성된 청년 상권 거리로 라이브 클럽과 음식점이 밀집해 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%82%B0%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%82%B0%EB%8F%99",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 283.5
+      }
     },
     {
       "name": "굴포천",
@@ -42,7 +59,13 @@
       "lng": 126.7600986,
       "category": "하천/자연",
       "description": "인천을 관통하는 지천으로 부평구를 지나 제부천과 합류해 하천 정비가 진행된 산책로다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B4%ED%8F%AC%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B4%ED%8F%AC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 134.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Seoul_bike_ride_May_2014_%2814032066100%29.jpg/1280px-Seoul_bike_ride_May_2014_%2814032066100%29.jpg"
     },
     {
       "name": "만년산근린공원",
@@ -50,7 +73,13 @@
       "lng": 126.91,
       "category": "근린공원",
       "description": "만년동에 위치한 산악형 근린공원으로 등산로가 조성된 주민 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%8F%89%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 279.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%B6%80%ED%8F%89%EA%B5%AC%EC%B2%AD.jpg/1280px-%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%B6%80%ED%8F%89%EA%B5%AC%EC%B2%AD.jpg"
     }
   ],
   "history_summary": "부평구는 조선 시대 부평도호부였던 유서 깊은 지역으로 근현대 제조업과 주거지가 발달했고 삼산동 상권과 부평풍물거리가 인천 대표 먹거리 명소다.",
