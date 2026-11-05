@@ -1,0 +1,73 @@
+{
+  "block_code": "47750",
+  "block_name": "경상북도 청송군",
+  "bbox": [
+    128.84692,
+    36.160694,
+    129.25384,
+    36.594989
+  ],
+  "center": [
+    36.377842,
+    129.05038
+  ],
+  "landmarks": [
+    {
+      "name": "주왕산",
+      "lat": 36.3975594,
+      "lng": 129.1898596,
+      "category": "산/국립공원",
+      "description": "주왕산은(는) 경상북도 청송군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%99%95%EC%82%B0"
+    },
+    {
+      "name": "주산지",
+      "lat": 36.3626471,
+      "lng": 129.1900937,
+      "category": "저수지/경승지",
+      "description": "주산지은(는) 경상북도 청송군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%82%B0%EC%A7%80"
+    },
+    {
+      "name": "청송군청",
+      "lat": 36.4362723,
+      "lng": 129.0570929,
+      "category": "행정/랜드마크",
+      "description": "청송군청은(는) 경상북도 청송군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%86%A1%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "청송시장",
+      "lat": 36.4356144,
+      "lng": 129.0529397,
+      "category": "시장/먹거리",
+      "description": "청송시장은(는) 경상북도 청송군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%86%A1%EA%B5%B0"
+    },
+    {
+      "name": "청송자연휴양림",
+      "lat": 36.3131887,
+      "lng": 129.0573577,
+      "category": "숲휴양림",
+      "description": "청송자연휴양림은(는) 경상북도 청송군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%86%A1%EA%B5%B0"
+    }
+  ],
+  "history_summary": "청송군은 주왕산과 주산지, 청송사과로 유명한 경북 동부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
