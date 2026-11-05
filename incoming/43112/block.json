@@ -1,0 +1,73 @@
+{
+  "block_code": "43112",
+  "block_name": "충청북도 청주시 서원구",
+  "bbox": [
+    127.372042,
+    36.449597,
+    127.499248,
+    36.646678
+  ],
+  "center": [
+    36.548137,
+    127.435645
+  ],
+  "landmarks": [
+    {
+      "name": "무심천",
+      "lat": 36.6439615,
+      "lng": 127.4822105,
+      "category": "하천/자연",
+      "description": "무심천은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%8B%AC%EC%B2%9C"
+    },
+    {
+      "name": "서원대학교",
+      "lat": 36.6247156,
+      "lng": 127.481457,
+      "category": "교육/캠퍼스",
+      "description": "서원대학교은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "청주고인쇄박물관",
+      "lat": 36.548137350000005,
+      "lng": 127.43564505,
+      "category": "박물관/문화",
+      "description": "청주고인쇄박물관은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B3%A0%EC%9D%B8%EC%87%84%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "서원구청",
+      "lat": 36.6376623,
+      "lng": 127.4698969,
+      "category": "행정/랜드마크",
+      "description": "서원구청은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "청주시립미술관",
+      "lat": 36.6347011,
+      "lng": 127.4783356,
+      "category": "미술관/문화",
+      "description": "청주시립미술관은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80"
+    }
+  ],
+  "history_summary": "청주 서원구는 청주 동남부의 구로 청주대교와 무심천, 서원대학교가 자리한 주거 교육 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
