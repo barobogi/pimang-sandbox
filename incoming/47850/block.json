@@ -18,7 +18,13 @@
       "lng": 128.46327315000002,
       "category": "종교/문화유산",
       "description": "가실성당은(는) 경상북도 칠곡군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8B%A4%EC%84%B1%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8B%A4%EC%84%B1%EB%8B%B9",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 211.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Gasil_Catholic_Church_on_September_26th%2C_2018.jpg/1280px-Gasil_Catholic_Church_on_September_26th%2C_2018.jpg"
     },
     {
       "name": "유학산",
@@ -26,7 +32,13 @@
       "lng": 128.5041111,
       "category": "산/자연",
       "description": "유학산은(는) 경상북도 칠곡군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 209.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Chilgok-gun_office.JPG/1280px-Chilgok-gun_office.JPG"
     },
     {
       "name": "칠곡군청",
@@ -34,7 +46,13 @@
       "lng": 128.4017635,
       "category": "행정/랜드마크",
       "description": "칠곡군청은(는) 경상북도 칠곡군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 78.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Chilgok-gun_office.JPG/1280px-Chilgok-gun_office.JPG"
     },
     {
       "name": "칠곡시장",
@@ -42,7 +60,13 @@
       "lng": 128.5506488,
       "category": "시장/먹거리",
       "description": "칠곡시장은(는) 경상북도 칠곡군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B3%A1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 311.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Chilgok-gun_office.JPG/1280px-Chilgok-gun_office.JPG"
     },
     {
       "name": "낙동강",
@@ -50,7 +74,13 @@
       "lng": 128.3927346,
       "category": "하천/자연",
       "description": "낙동강은(는) 경상북도 칠곡군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 81.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EB%82%99%EB%8F%99%EA%B0%95.jpg/1280px-%EB%82%99%EB%8F%99%EA%B0%95.jpg"
     }
   ],
   "history_summary": "칠곡군은 가실성당과 유학산, 낙동강이 자리한 경북 중부의 군이다.",
