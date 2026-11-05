@@ -1,0 +1,73 @@
+{
+  "block_code": "48121",
+  "block_name": "경상남도 창원시 의창구",
+  "bbox": [
+    128.559446,
+    35.215853,
+    128.761632,
+    35.394254
+  ],
+  "center": [
+    35.305054,
+    128.660539
+  ],
+  "landmarks": [
+    {
+      "name": "주남저수지",
+      "lat": 35.3049511,
+      "lng": 128.6783359,
+      "category": "생태/철새",
+      "description": "겨울철 두루미 무리가 찾는 국내 유명 철새 도래지로 생태탐방로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EB%82%A8%EC%A0%80%EC%88%98%EC%A7%80"
+    },
+    {
+      "name": "남산공원",
+      "lat": 35.2578864,
+      "lng": 128.6186816,
+      "category": "도시공원",
+      "description": "의창구 서상동에 조성된 근린공원으로 맨발길과 산책로가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+    },
+    {
+      "name": "사화공원",
+      "lat": 35.2521686,
+      "lng": 128.6326035,
+      "category": "근린공원",
+      "description": "사화동에 조성된 근린공원으로 의창구 주민 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+    },
+    {
+      "name": "덕정공원",
+      "lat": 35.255,
+      "lng": 128.578,
+      "category": "근린공원",
+      "description": "대원동에 조성된 근린공원으로 대원지구 생활권 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+    },
+    {
+      "name": "소계체육공원",
+      "lat": 35.2604749,
+      "lng": 128.5944644,
+      "category": "체육/공원",
+      "description": "소계동에 조성된 체육공원으로 맨발길과 운동시설이 함께 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%B0%BD%EA%B5%AC"
+    }
+  ],
+  "history_summary": "의창구는 2010년 창원시 통합과 함께 설치된 창원 북부의 구로 주남저수지 두루미 도래지와 대원동 택지지구 등이 함께한 창원의 관문 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
