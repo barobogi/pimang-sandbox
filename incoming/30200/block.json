@@ -1,0 +1,73 @@
+{
+  "block_code": "30200",
+  "block_name": "대전광역시 유성구",
+  "bbox": [
+    127.246319,
+    36.264484,
+    127.418716,
+    36.500212
+  ],
+  "center": [
+    36.382348,
+    127.332517
+  ],
+  "landmarks": [
+    {
+      "name": "대전엑스포과학공원",
+      "lat": 36.372,
+      "lng": 127.3825,
+      "category": "테마공원/과학",
+      "description": "1993 대전엑스포 부지에 조성된 과학 테마 공원으로 엑스포다리가 상징이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EA%B5%AC"
+    },
+    {
+      "name": "KAIST",
+      "lat": 36.3703054,
+      "lng": 127.3620118,
+      "category": "교육/과학",
+      "description": "대한민국 대표 이공계 특성화 대학으로 대덕연구단지 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90"
+    },
+    {
+      "name": "유성온천",
+      "lat": 36.3537327,
+      "lng": 127.3417016,
+      "category": "온천/관광",
+      "description": "온천거리로 유명한 유성 대표 온천지구다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "name": "계족산",
+      "lat": 36.3,
+      "lng": 127.4,
+      "category": "산/자연",
+      "description": "유성구 남쪽에 자리한 산으로 등산로가 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0"
+    },
+    {
+      "name": "대덕연구개발단지",
+      "lat": 36.37,
+      "lng": 127.39,
+      "category": "과학/연구",
+      "description": "대한민국 최초의 과학 연구단지로 국가 연구기관이 밀집해 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EC%97%B0%EA%B5%AC%EB%8B%A8%EC%A7%80"
+    }
+  ],
+  "history_summary": "유성구는 대덕연구단지와 KAIST, 충남대 등 과학·교육 도시의 중심이며 유성온천과 대전엑스포과학공원 등의 명소가 함께한 대전 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
