@@ -1,0 +1,73 @@
+{
+  "block_code": "47280",
+  "block_name": "경상북도 문경시",
+  "bbox": [
+    127.874293,
+    36.51431,
+    128.371527,
+    36.892
+  ],
+  "center": [
+    36.703155,
+    128.12291
+  ],
+  "landmarks": [
+    {
+      "name": "문경새",
+      "lat": 36.875,
+      "lng": 128.148,
+      "category": "관문/역사",
+      "description": "조선 시대 영남과 수도를 잇는 대표 관문 고개다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+    },
+    {
+      "name": "주흘관문",
+      "lat": 36.892,
+      "lng": 128.152,
+      "category": "관문/문화유산",
+      "description": "문경새의 제1관문으로 성곽과 관문 유적이 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+    },
+    {
+      "name": "표충비",
+      "lat": 36.82,
+      "lng": 128.2,
+      "category": "비석/문화유산",
+      "description": "임진왜란 때 순절한 김응함 장군을 기리는 유서 깊은 비석이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+    },
+    {
+      "name": "문경향교",
+      "lat": 36.61,
+      "lng": 128.181,
+      "category": "교육/문화유산",
+      "description": "조선 시대 문경의 지방 교육기관으로 유서 깊은 향교다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+    },
+    {
+      "name": "추점사",
+      "lat": 36.615,
+      "lng": 128.19,
+      "category": "사당/문화유산",
+      "description": "문경 지역 선비 문화를 지닌 유서 깊은 사당이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+    }
+  ],
+  "history_summary": "문경시는 조선 시대 영남과 한양을 잇는 문경새 관문이 있던 유서 깊은 도시로 주흘관문과 표충비 등 역사 유적과 산악 자연이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
