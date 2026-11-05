@@ -18,7 +18,13 @@
       "lng": 127.1230441,
       "category": "공원/연못",
       "description": "덕진공원은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 297.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Deokjin_park.jpg"
     },
     {
       "name": "전북대학교",
@@ -26,7 +32,13 @@
       "lng": 127.1337209,
       "category": "교육/캠퍼스",
       "description": "전북대학교은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 288.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/JBNU_%EC%8B%A0%EC%A0%95%EB%AC%B8.jpg/1280px-JBNU_%EC%8B%A0%EC%A0%95%EB%AC%B8.jpg"
     },
     {
       "name": "전주월드컵경기장",
@@ -34,7 +46,13 @@
       "lng": 127.0645509,
       "category": "체육/경기장",
       "description": "전주월드컵경기장은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 111.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Jeonju_World_Cup_Stadium_2016.jpg/1280px-Jeonju_World_Cup_Stadium_2016.jpg"
     },
     {
       "name": "덕진구청",
@@ -42,7 +60,13 @@
       "lng": 127.1344558,
       "category": "행정/랜드마크",
       "description": "덕진구청은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A7%84%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 326.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deokjin-gu_Jeonju.PNG"
     },
     {
       "name": "전주천",
@@ -50,7 +74,13 @@
       "lng": 127.1107587,
       "category": "하천/자연",
       "description": "전주천은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 150.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
     }
   ],
   "history_summary": "전주 덕진구는 덕진공원과 전북대학교, 전주월드컵경기장이 자리한 전주 북부의 구이다.",
