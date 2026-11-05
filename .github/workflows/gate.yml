@@ -1,0 +1,37 @@
+name: 7-Gate Automated Block Validation
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Audit Changed Files Whitelist
+        run: |
+          # Enforce strict perimeter: PRs are ONLY permitted to modify or add files under incoming/
+          git fetch origin main
+          CHANGED_OUTSIDE=$(git diff --name-only origin/main HEAD | grep -v '^incoming/' || true)
+          if [ -n "$CHANGED_OUTSIDE" ]; then
+            echo "::error::Modifying files outside incoming/ is strictly prohibited. Detected changes in:"
+            echo "$CHANGED_OUTSIDE"
+            exit 1
+          fi
+
+      - name: Run 7-Gate Validation on Incoming Blocks
+        run: |
+          for dir in incoming/*/; do
+            if [ -d "$dir" ]; then
+              echo "Validating incoming block package: $dir"
+              python tools/validate_block.py "$dir"
+            fi
+          done

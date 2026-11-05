@@ -1,0 +1,65 @@
+{
+  "block_code": "11110",
+  "block_name": "서울특별시 종로구",
+  "bbox": [126.9400, 37.5500, 127.0300, 37.6200],
+  "center": [37.5730, 126.9794],
+  "landmarks": [
+    {
+      "name": "경복궁",
+      "lat": 37.5796,
+      "lng": 126.9770,
+      "category": "역사/고궁",
+      "description": "조선 왕조의 법궁으로 근정전과 경회루 등 대표적 전통 목조 건축 유산.",
+      "source_url": "https://www.royalpalace.go.kr"
+    },
+    {
+      "name": "창덕궁",
+      "lat": 37.5794,
+      "lng": 126.9910,
+      "category": "유네스코/문화유산",
+      "description": "자연과 건축의 조화를 인정받아 유네스코 세계문화유산으로 등재된 조선의 궁궐.",
+      "source_url": "https://www.cdg.go.kr"
+    },
+    {
+      "name": "광화문광장",
+      "lat": 37.5724,
+      "lng": 126.9769,
+      "category": "도심/공공광장",
+      "description": "세종대왕 동상과 이순신 장군 동상이 위치한 대한민국 역사의 중심 공공 보행 광장.",
+      "source_url": "https://gwanghwamun.seoul.go.kr"
+    },
+    {
+      "name": "북촌한옥마을",
+      "lat": 37.5826,
+      "lng": 126.9835,
+      "category": "전통/주거문화",
+      "description": "조선 시대 양반들의 거주지였던 전통 한옥 밀집 보존 지구.",
+      "source_url": "https://hanok.seoul.go.kr"
+    },
+    {
+      "name": "종묘",
+      "lat": 37.5746,
+      "lng": 126.9940,
+      "category": "유네스코/제례문화",
+      "description": "조선 왕조 역대 왕과 왕비의 신주를 모신 유교 사당이자 유네스코 세계문화유산.",
+      "source_url": "https://jm.cha.go.kr"
+    }
+  ],
+  "history_summary": "종로구는 조선 건국 이래 한양 도읍의 중심지로서 600년 역사의 정치, 행정, 문화의 심장부 역할을 수행해 온 유서 깊은 자치구입니다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "example-contributor",
+    "agent_name": "SampleAgent"
+  }
+}

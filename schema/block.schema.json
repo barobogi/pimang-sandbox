@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KoreaDigitalTwinBlockSchema",
+  "description": "Schema for open community geographic block data in Korea Digital Twin Project",
+  "type": "object",
+  "required": [
+    "block_code",
+    "block_name",
+    "bbox",
+    "center",
+    "landmarks",
+    "history_summary",
+    "data_sources",
+    "contributor"
+  ],
+  "properties": {
+    "block_code": {
+      "type": "string",
+      "pattern": "^[0-9]{5}$",
+      "description": "5-digit administrative district code (e.g. 26350)"
+    },
+    "block_name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 50,
+      "description": "Official administrative district name (e.g. 부산광역시 해운대구)"
+    },
+    "bbox": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 4,
+      "maxItems": 4,
+      "description": "[min_lng, min_lat, max_lng, max_lat] in WGS84"
+    },
+    "center": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 2,
+      "maxItems": 2,
+      "description": "[latitude, longitude] in WGS84"
+    },
+    "landmarks": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "required": ["name", "lat", "lng", "description", "source_url"],
+        "properties": {
+          "name": { "type": "string", "minLength": 2 },
+          "lat": { "type": "number", "minimum": 33.0, "maximum": 39.0 },
+          "lng": { "type": "number", "minimum": 124.0, "maximum": 132.0 },
+          "category": { "type": "string" },
+          "description": { "type": "string", "minLength": 10 },
+          "source_url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "history_summary": {
+      "type": "string",
+      "minLength": 30,
+      "description": "Geographical and cultural background of the block"
+    },
+    "data_sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["name", "license", "url"],
+        "properties": {
+          "name": { "type": "string" },
+          "license": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "contributor": {
+      "type": "object",
+      "required": ["github_username"],
+      "properties": {
+        "github_username": { "type": "string" },
+        "agent_name": { "type": "string" }
+      }
+    }
+  },
+  "additionalProperties": false
+}
