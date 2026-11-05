@@ -18,7 +18,13 @@
       "lng": 127.0062002,
       "category": "과학/전시",
       "description": "국내 대표 과학 전시관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B3%BC%EC%B2%9C%EA%B3%BC%ED%95%99%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B3%BC%EC%B2%9C%EA%B3%BC%ED%95%99%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 199.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/K-EMU_and_DL2101.jpg/1280px-K-EMU_and_DL2101.jpg"
     },
     {
       "name": "서울대공원",
@@ -26,7 +32,13 @@
       "lng": 127.0113836,
       "category": "테마공원/동물원",
       "description": "대형 동물원과 놀이공원이 함께한 대표 유원지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 272.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg/1280px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg"
     },
     {
       "name": "정부과천청사",
@@ -34,7 +46,13 @@
       "lng": 126.9897504,
       "category": "행정/랜드마크",
       "description": "옛 중앙정부기관 청사이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EA%B3%BC%EC%B2%9C%EC%B2%AD%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EA%B3%BC%EC%B2%9C%EC%B2%AD%EC%82%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 56.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Government_Complex_Gwacheon.jpg/1280px-Government_Complex_Gwacheon.jpg"
     },
     {
       "name": "관악산",
@@ -42,7 +60,13 @@
       "lng": 126.9642379,
       "category": "산/자연",
       "description": "과천 북쪽의 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 109.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gwanaksan_Seoul_KR.jpg/1280px-Gwanaksan_Seoul_KR.jpg"
     },
     {
       "name": "문원동 상권",
@@ -50,7 +74,13 @@
       "lng": 127.034,
       "category": "상권",
       "description": "문원동 일대의 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%BC%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%BC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 289.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Gwacheon_City_Hall.JPG/1280px-Gwacheon_City_Hall.JPG"
     }
   ],
   "history_summary": "과천시는 국립과천과학관과 서울대공원이 자리한 계획 도시이자 수도권 남부의 문화 과학 도시이다.",
