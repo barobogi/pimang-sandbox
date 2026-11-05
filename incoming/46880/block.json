@@ -18,7 +18,13 @@
       "lng": 126.7279148,
       "category": "산/편백숲",
       "description": "축령산은(는) 전라남도 장성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%95%EB%A0%B9%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%95%EB%A0%B9%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 142.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%EB%82%A8%EC%9D%B4%EB%B0%94%EC%9C%84_%EC%B6%95%EB%A0%B9%EC%82%B0.jpg/1280px-%EB%82%A8%EC%9D%B4%EB%B0%94%EC%9C%84_%EC%B6%95%EB%A0%B9%EC%82%B0.jpg"
     },
     {
       "name": "백양사",
@@ -26,15 +32,27 @@
       "lng": 126.80776,
       "category": "사찰/문화유산",
       "description": "백양사은(는) 전라남도 장성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%96%91%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%96%91%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 205.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Baekyangsa.JPG/1280px-Baekyangsa.JPG"
     },
     {
       "name": "홍길동생가",
-      "lat": 35.33892915,
-      "lng": 126.75471915,
+      "lat": 35.3200482,
+      "lng": 126.7267919,
       "category": "유적/역사",
       "description": "홍길동생가은(는) 전라남도 장성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 50.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jangseong-gun_office.JPG/1280px-Jangseong-gun_office.JPG"
     },
     {
       "name": "장성군청",
@@ -42,15 +60,27 @@
       "lng": 126.7847845,
       "category": "행정/랜드마크",
       "description": "장성군청은(는) 전라남도 장성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 326.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jangseong-gun_office.JPG/1280px-Jangseong-gun_office.JPG"
     },
     {
       "name": "장성시장",
-      "lat": 35.33892915,
-      "lng": 126.75471915,
+      "lat": 35.2805933,
+      "lng": 126.7618305,
       "category": "시장/먹거리",
       "description": "장성시장은(는) 전라남도 장성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 354.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2025-11-01_12.07.48_taebaek.jpg/1280px-2025-11-01_12.07.48_taebaek.jpg"
     }
   ],
   "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
