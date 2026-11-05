@@ -18,7 +18,13 @@
       "lng": 125.4060994,
       "category": "섬/국립공원",
       "description": "다도해 최남단의 대표 섬으로 흑산도국립공원이 지정되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%82%B0%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%82%B0%EB%8F%84",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 114.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Korea-Heuksando_Island-01.jpg/1280px-Korea-Heuksando_Island-01.jpg"
     },
     {
       "name": "홍도",
@@ -26,7 +32,13 @@
       "lng": 125.2003143,
       "category": "섬/국립공원",
       "description": "기암괴석과 해안 절경이 아름다운 대표 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 107.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Korea-Hongdo_Island-02.jpg/1280px-Korea-Hongdo_Island-02.jpg"
     },
     {
       "name": "증도",
@@ -34,7 +46,13 @@
       "lng": 126.1609778,
       "category": "갯벌/생태",
       "description": "유네스코 세계자연유산 신안 갯벌의 대표 갯벌 지구다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 228.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg/1280px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg"
     },
     {
       "name": "비금도",
@@ -42,7 +60,13 @@
       "lng": 125.9258143,
       "category": "섬/어촌",
       "description": "도서 지역의 대표 어촌 섬으로 어항과 해안 절경이 아름답다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 235.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Korea-Heuksando_Island-06.jpg/1280px-Korea-Heuksando_Island-06.jpg"
     },
     {
       "name": "도초도",
@@ -50,7 +74,13 @@
       "lng": 125.9619174,
       "category": "섬/어촌",
       "description": "우이도 등 부속 섬과 함께한 대표 어촌 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 248.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Seonammun_Bridge.jpg/1280px-Seonammun_Bridge.jpg"
     }
   ],
   "history_summary": "신안군은 흑산도와 홍도, 증도 등 다도해의 섬들과 유네스코 세계자연유산 갯벌을 품은 전남 서남부의 군이다.",
