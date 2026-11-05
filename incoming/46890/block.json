@@ -18,7 +18,13 @@
       "lng": 126.8261525,
       "category": "섬/관광",
       "description": "비자림과 해안 절경이 아름다운 완도의 대표 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%80%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%80%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 195.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Myeongsasimni.JPG/1280px-Myeongsasimni.JPG"
     },
     {
       "name": "보길도",
@@ -26,7 +32,13 @@
       "lng": 126.5438345,
       "category": "섬/관광",
       "description": "윤선도의 소요동산 터가 있는 완도의 대표 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EA%B8%B8%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EA%B8%B8%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 97.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bogil-do_Island_-_panoramio.jpg"
     },
     {
       "name": "소안도",
@@ -34,7 +46,13 @@
       "lng": 126.654134,
       "category": "섬/관광",
       "description": "돌담과 바다 풍경이 아름다운 완도의 대표 섬 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%95%88%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%95%88%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 107.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Soan.jpg/1280px-Soan.jpg"
     },
     {
       "name": "청산도",
@@ -42,7 +60,13 @@
       "lng": 126.8811435,
       "category": "섬/어촌",
       "description": "멸치 별미로 유명한 완도의 대표 어촌 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EB%8F%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 240.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%E9%9D%92%E5%B1%B1%E9%87%8C%E6%88%98%E6%96%97%E8%83%9C%E5%88%A9%E5%90%8E%E7%9A%84%E5%8C%97%E8%B7%AF%E5%86%9B%E6%94%BF%E7%BD%B2%E9%98%9F%E5%91%98.JPG/1280px-%E9%9D%92%E5%B1%B1%E9%87%8C%E6%88%98%E6%96%97%E8%83%9C%E5%88%A9%E5%90%8E%E7%9A%84%E5%8C%97%E8%B7%AF%E5%86%9B%E6%94%BF%E7%BD%B2%E9%98%9F%E5%91%98.JPG"
     },
     {
       "name": "금등해수욕장",
@@ -50,7 +74,13 @@
       "lng": 126.7,
       "category": "해수욕장",
       "description": "완도의 대표 해수욕장으로 여름철 가족 나들이 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EB%8F%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 166.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wando-gun_Office.JPG/1280px-Wando-gun_Office.JPG"
     }
   ],
   "history_summary": "완도군은 청해진 장보고의 옛 항구였던 완도를 중심으로 한 남해안 최대 섬 군으로 신지도·보길도·소안도 등 아름다운 섬 관광 자원이 풍부하다.",
