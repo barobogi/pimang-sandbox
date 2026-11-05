@@ -1,0 +1,73 @@
+{
+  "block_code": "11320",
+  "block_name": "서울특별시 도봉구",
+  "bbox": [
+    127.008103,
+    37.631201,
+    127.055912,
+    37.701479
+  ],
+  "center": [
+    37.66634,
+    127.032008
+  ],
+  "landmarks": [
+    {
+      "name": "도봉산",
+      "lat": 37.688786,
+      "lng": 127.0461858,
+      "category": "산/국민관광지",
+      "description": "해발 740m의 대표 등산 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EC%82%B0"
+    },
+    {
+      "name": "도봉산도립공원",
+      "lat": 37.669,
+      "lng": 127.018,
+      "category": "공원/자연",
+      "description": "도봉산 자락의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EA%B5%AC"
+    },
+    {
+      "name": "창동신도시",
+      "lat": 37.655,
+      "lng": 127.048,
+      "category": "신도시",
+      "description": "창동역 중심으로 조성된 대단위 신도시 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EA%B5%AC"
+    },
+    {
+      "name": "사패산",
+      "lat": 37.7010892,
+      "lng": 127.0158572,
+      "category": "산/자연",
+      "description": "의정부와 경계를 이루는 도봉구 북부의 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%8C%A8%EC%82%B0"
+    },
+    {
+      "name": "쌍문동 상권",
+      "lat": 37.647,
+      "lng": 127.031,
+      "category": "상권",
+      "description": "쌍문동에 형성된 도봉구 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EA%B5%AC"
+    }
+  ],
+  "history_summary": "도봉구는 도봉산 자락의 북부 자치구로 도봉산 국민관광지와 창동 신도시가 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
