@@ -1,0 +1,73 @@
+{
+  "block_code": "41390",
+  "block_name": "경기도 시흥시",
+  "bbox": [
+    126.622896,
+    37.297262,
+    126.882338,
+    37.472393
+  ],
+  "center": [
+    37.384828,
+    126.752617
+  ],
+  "landmarks": [
+    {
+      "name": "오이도빛거리",
+      "lat": 37.3615,
+      "lng": 126.7425,
+      "category": "관광/해양",
+      "description": "정왕동 오이도에 조성된 해양 전망시설로 시화호 갯벌과 석류꽃이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+    },
+    {
+      "name": "갯골생태공원",
+      "lat": 37.3897024,
+      "lng": 126.7801488,
+      "category": "생태/공원",
+      "description": "조선 시대 조정시절 굴착한 갯골을 복원해 만든 생태공원으로 갯벌 체험이 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+    },
+    {
+      "name": "시화호",
+      "lat": 37.297262,
+      "lng": 126.6693532,
+      "category": "호수/해양",
+      "description": "방조제가 건설된 인공 호수로 갯벌과 도요새 이주지로 국제적으로도 중요한 지역이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%99%94%ED%98%B8"
+    },
+    {
+      "name": "배곧한강공원",
+      "lat": 37.376,
+      "lng": 126.806,
+      "category": "근린공원",
+      "description": "배곧지구에 조성된 수변 공원으로 시흥 신도시의 대표 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+    },
+    {
+      "name": "은계생태공원",
+      "lat": 37.4,
+      "lng": 126.779,
+      "category": "생태/공원",
+      "description": "은행동 일대에 조성된 생태공원으로 시민 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C"
+    }
+  ],
+  "history_summary": "시흥시는 조선 시대 과천·금천과 함께 관도 중심지였던 유서 깊은 지역으로 화학·금속 산업과 함께 오이도빛거리와 갯골생태공원, 시화호 등 해양 생태 관광이 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
