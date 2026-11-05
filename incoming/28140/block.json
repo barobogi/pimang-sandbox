@@ -117,6 +117,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "화수진공원 옛맛식당",
+      "lat": 37.47949,
+      "lng": 126.62793,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "동인천역 상권 동네밥집",
+      "lat": 37.47563,
+      "lng": 126.63965,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    },
+    {
+      "name": "만석공원 골목식당",
+      "lat": 37.47779,
+      "lng": 126.61344,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "송월동 큰마당식당",
+      "lat": 37.474,
+      "lng": 126.6153,
+      "specialty": "꼬막무침",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "인천 동구는 만석공원과 동인천역 상권, 영종대교가 자리한 인천 항만 중심의 구이다.",
   "data_sources": [
     {
