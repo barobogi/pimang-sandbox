@@ -18,7 +18,13 @@
       "lng": 126.8655162,
       "category": "관광/동굴",
       "description": "폐광을 테마 관광지로 재탄생한 대표 동굴 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 354.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Gwangmyeong_Cave.jpg/1280px-Gwangmyeong_Cave.jpg"
     },
     {
       "name": "광명사거리 상권",
@@ -26,7 +32,13 @@
       "lng": 126.864,
       "category": "상권",
       "description": "광명의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 181.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Gwangmyeong_City_Hall.JPG/1280px-Gwangmyeong_City_Hall.JPG"
     },
     {
       "name": "철산동 상권",
@@ -34,7 +46,13 @@
       "lng": 126.87,
       "category": "상권",
       "description": "철산동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 191.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "오리공원",
@@ -42,7 +60,13 @@
       "lng": 126.8761072,
       "category": "공원",
       "description": "광명의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 323.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg"
     },
     {
       "name": "하안근린공원",
@@ -50,7 +74,13 @@
       "lng": 126.87,
       "category": "공원",
       "description": "하안동 일대의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 198.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Gwangmyeong_City_Hall.JPG/1280px-Gwangmyeong_City_Hall.JPG"
     }
   ],
   "history_summary": "광명시는 서울 남서쪽 관문의 위성 도시로 광명동굴과 철산동 상권이 함께한다.",
