@@ -1,0 +1,73 @@
+{
+  "block_code": "50110",
+  "block_name": "제주특별자치도 제주시",
+  "bbox": [
+    125.7941,
+    33.231811,
+    127.215229,
+    34.139806
+  ],
+  "center": [
+    33.685809,
+    126.504665
+  ],
+  "landmarks": [
+    {
+      "name": "관덕정",
+      "lat": 33.5129421,
+      "lng": 126.5210078,
+      "category": "누정/문화유산",
+      "description": "목장 관리 관아로 조성된 누정으로 제주목의 상징적 건축물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EB%8D%95%EC%A0%95"
+    },
+    {
+      "name": "동문재래시장",
+      "lat": 33.5122386,
+      "lng": 126.5275862,
+      "category": "전통시장",
+      "description": "제주 대표 재래시장으로 육포와 오메기떡 등 제주 먹거리로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%AC%B8%EC%9E%AC%EB%9E%98%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "사려니숲길",
+      "lat": 33.4126763,
+      "lng": 126.6462669,
+      "category": "숲길/자연",
+      "description": "너덜지대를 따라 조성된 제주 대표 숲길로 붉은 흙과 나무가 어우러진 산책로다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%A0%A4%EB%8B%88%EC%88%B2%EA%B8%B8"
+    },
+    {
+      "name": "함덕서우봉해수욕장",
+      "lat": 33.4178,
+      "lng": 126.664,
+      "category": "해수욕장",
+      "description": "에메랄드빛 바다와 하얀 모래사장이 어우러진 제주 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EB%8D%95%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "김녕미로공원",
+      "lat": 33.536037,
+      "lng": 126.772493,
+      "category": "테마공원",
+      "description": "제주 고양이 모양으로 만들어진 세계 최대 규모 미로 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%EC%8B%9C"
+    }
+  ],
+  "history_summary": "제주시는 제주도 북부에 위치한 제주특별자치도의 행정 중심지로 조선 시대 제주목이 있던 유서 깊은 도시이며 관덕정과 동문시장 등의 제주목 문화유산과 함덕·김녕 등의 해안 관광지가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
