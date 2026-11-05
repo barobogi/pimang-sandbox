@@ -1,0 +1,73 @@
+{
+  "block_code": "47770",
+  "block_name": "경상북도 영덕군",
+  "bbox": [
+    129.148418,
+    36.267276,
+    129.464049,
+    36.673849
+  ],
+  "center": [
+    36.470563,
+    129.306234
+  ],
+  "landmarks": [
+    {
+      "name": "강구항",
+      "lat": 36.356748,
+      "lng": 129.392784,
+      "category": "항구/특산물",
+      "description": "강구항은(는) 경상북도 영덕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B5%AC%ED%95%AD"
+    },
+    {
+      "name": "영덕해맞이공원",
+      "lat": 36.4273665,
+      "lng": 129.4352794,
+      "category": "해안/공원",
+      "description": "영덕해맞이공원은(는) 경상북도 영덕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0"
+    },
+    {
+      "name": "영덕군청",
+      "lat": 36.4150229,
+      "lng": 129.3652651,
+      "category": "행정/랜드마크",
+      "description": "영덕군청은(는) 경상북도 영덕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "영덕시장",
+      "lat": 36.4066349,
+      "lng": 129.3698624,
+      "category": "시장/먹거리",
+      "description": "영덕시장은(는) 경상북도 영덕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8D%95%EA%B5%B0"
+    },
+    {
+      "name": "오십천",
+      "lat": 36.4273891,
+      "lng": 129.3114962,
+      "category": "하천/자연",
+      "description": "오십천은(는) 경상북도 영덕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8B%AD%EC%B2%9C"
+    }
+  ],
+  "history_summary": "영덕군은 대게의 고장으로 유명하며 강구항과 영덕해맞이공원이 자리한 경북 동해안의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
