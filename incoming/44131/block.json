@@ -18,7 +18,13 @@
       "lng": 127.224876,
       "category": "기념관/역사",
       "description": "독립운동과 자주정신을 기리는 국가 기념관으로 천안 대표 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EA%B8%B0%EB%85%90%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EA%B8%B0%EB%85%90%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 196.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Independence_Hall_of_Korea_01.JPG/1280px-Independence_Hall_of_Korea_01.JPG"
     },
     {
       "name": "천안흥타령난장",
@@ -26,7 +32,12 @@
       "lng": 127.15,
       "category": "문화/공연",
       "description": "흥타령 문화를 상징하는 전통 시장형 복합문화 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 138.6
+      }
     },
     {
       "name": "광덕산",
@@ -34,7 +45,12 @@
       "lng": 127.3428833,
       "category": "산/자연",
       "description": "해발 699m의 산으로 광덕사와 함께한 천안 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8D%95%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8D%95%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 246.1
+      }
     },
     {
       "name": "태조산",
@@ -42,7 +58,12 @@
       "lng": 127.1674463,
       "category": "산/자연",
       "description": "천안 시내 북쪽에 자리한 산으로 등산로가 조성된 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 145.9
+      }
     },
     {
       "name": "천안 남산공원",
@@ -50,7 +71,13 @@
       "lng": 127.14,
       "category": "도시공원",
       "description": "천안 시내 남쪽에 조성된 대표 도시공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 129.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/1/12/Korail_Cheonan_Stn.JPG/1280px-Korail_Cheonan_Stn.JPG"
     }
   ],
   "history_summary": "동남구는 천안 시내의 원도심 구로 독립기념관과 유관순열사 기념? 아니라 흥타령 문화와 광덕산 등이 함께한 천안 동부의 구이다.",
