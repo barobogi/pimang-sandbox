@@ -1,0 +1,73 @@
+{
+  "block_code": "43113",
+  "block_name": "충청북도 청주시 흥덕구",
+  "bbox": [
+    127.27565,
+    36.561684,
+    127.481931,
+    36.72467
+  ],
+  "center": [
+    36.643177,
+    127.378791
+  ],
+  "landmarks": [
+    {
+      "name": "충북대학교",
+      "lat": 36.6281688,
+      "lng": 127.4538403,
+      "category": "교육/캠퍼스",
+      "description": "충북대학교은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "사직공원",
+      "lat": 36.64317725,
+      "lng": 127.37879050000001,
+      "category": "도시공원",
+      "description": "사직공원은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%A7%81%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "흥덕구청",
+      "lat": 36.6289971,
+      "lng": 127.3758706,
+      "category": "행정/랜드마크",
+      "description": "흥덕구청은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%8D%95%EA%B5%AC"
+    },
+    {
+      "name": "청주성안길",
+      "lat": 36.64317725,
+      "lng": 127.37879050000001,
+      "category": "상권/번화가",
+      "description": "청주성안길은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%8D%95%EA%B5%AC"
+    },
+    {
+      "name": "무심천",
+      "lat": 36.6691754,
+      "lng": 127.4613118,
+      "category": "하천/자연",
+      "description": "무심천은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%8B%AC%EC%B2%9C"
+    }
+  ],
+  "history_summary": "청주 흥덕구는 청주 서부의 구로 충북대학교와 사직공원, 백화점 상권이 함께한 대표 주거 상업 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
