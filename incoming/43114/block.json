@@ -1,0 +1,73 @@
+{
+  "block_code": "43114",
+  "block_name": "충청북도 청주시 청원구",
+  "bbox": [
+    127.31809,
+    36.644762,
+    127.618744,
+    36.780263
+  ],
+  "center": [
+    36.712513,
+    127.468417
+  ],
+  "landmarks": [
+    {
+      "name": "청주국제공항",
+      "lat": 36.7155563,
+      "lng": 127.4974643,
+      "category": "교통/항공",
+      "description": "청주국제공항은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD"
+    },
+    {
+      "name": "오창과학산업단지",
+      "lat": 36.7125125,
+      "lng": 127.46841695,
+      "category": "산업/과학",
+      "description": "오창과학산업단지은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "청원구청",
+      "lat": 36.6507695,
+      "lng": 127.4869422,
+      "category": "행정/랜드마크",
+      "description": "청원구청은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "명암저수지",
+      "lat": 36.7125125,
+      "lng": 127.46841695,
+      "category": "호수/공원",
+      "description": "명암저수지은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC"
+    },
+    {
+      "name": "상당산성",
+      "lat": 36.6691057,
+      "lng": 127.5400002,
+      "category": "산성/문화유산",
+      "description": "상당산성은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1"
+    }
+  ],
+  "history_summary": "청주 청원구는 2014년 청주시 통합으로 만들어진 구로 청주국제공항과 오창과학산업단지가 자리한 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
