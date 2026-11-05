@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jung-gu_office%2C_Daegu.JPG/1280px-Jung-gu_office%2C_Daegu.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "중구 역사·문화 시그니처 스카이 트레일",
+      "description": "근대역사골목 → 동성로 → 약령시장 → 북성로 → 서문시장 순으로 이어지는 대구광역시 중구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "근대역사골목",
+        "동성로",
+        "약령시장",
+        "북성로",
+        "서문시장"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "중구 세월을 나는 문화유산 플라이트",
+      "description": "약령시장 → 동성로 → 서문시장 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 중구의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "약령시장",
+        "동성로",
+        "서문시장"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
   "history_summary": "대구 중구는 대구의 원도심으로 동성로와 약령시장, 서문시장, 근대역사골목이 자리한 대구 상업·문화 중심지다.",
   "data_sources": [
     {
