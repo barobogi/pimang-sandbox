@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Woryeong_Bridge_Andong.JPG/1280px-Woryeong_Bridge_Andong.JPG"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "안동 역사·문화 시그니처 스카이 트레일",
+      "description": "월영교 → 봉정사 → 병산서원 → 하회마을 → 도산서원 순으로 이어지는 경상북도 안동시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "월영교",
+        "봉정사",
+        "병산서원",
+        "하회마을",
+        "도산서원"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "안동 역사문화 스카이 트레일",
+      "description": "하회마을 → 봉정사 → 도산서원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 안동의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "하회마을",
+        "봉정사",
+        "도산서원"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
   "history_summary": "안동시는 조선 시대 성리학의 본산이었던 유서 깊은 도시로 하회마을과 도산서원, 병산서원, 봉정사 등 유네스코 세계유산을 품은 경북 북부의 대표 문화 도시다.",
   "data_sources": [
     {
