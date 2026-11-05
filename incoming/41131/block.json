@@ -1,0 +1,73 @@
+{
+  "block_code": "41131",
+  "block_name": "경기도 성남시 수정구",
+  "bbox": [
+    127.042157,
+    37.395273,
+    127.177545,
+    37.474777
+  ],
+  "center": [
+    37.435025,
+    127.109851
+  ],
+  "landmarks": [
+    {
+      "name": "신흥시장",
+      "lat": 37.4443107,
+      "lng": 127.1432941,
+      "category": "시장/먹거리",
+      "description": "성남 대표 전통시장 먹거리 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC"
+    },
+    {
+      "name": "산성역 상권",
+      "lat": 37.448,
+      "lng": 127.136,
+      "category": "상권",
+      "description": "산성역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC"
+    },
+    {
+      "name": "남한산성",
+      "lat": 37.4687598,
+      "lng": 127.1669954,
+      "category": "유네스코/문화유산",
+      "description": "조선 시대 산성으로 유네스코 세계문화유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EC%82%B0%EC%84%B1"
+    },
+    {
+      "name": "탄천",
+      "lat": 37.4411648,
+      "lng": 127.1198272,
+      "category": "하천/자연",
+      "description": "성남을 지나 한강으로 흘러드는 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%84%EC%B2%9C"
+    },
+    {
+      "name": "모란역 상권",
+      "lat": 37.433,
+      "lng": 127.129,
+      "category": "상권",
+      "description": "모란역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A0%95%EA%B5%AC"
+    }
+  ],
+  "history_summary": "성남 수정구는 남한산성 북쪽 자락의 구로 신흥시장과 산성역 상권이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
