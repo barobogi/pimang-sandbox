@@ -18,7 +18,13 @@
       "lng": 128.9057379,
       "category": "산/국립공원",
       "description": "태백산은(는) 강원특별자치도 태백시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 46.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Taebaeksan_2016_12_30_winter.jpg/1280px-Taebaeksan_2016_12_30_winter.jpg"
     },
     {
       "name": "황지연못",
@@ -26,7 +32,13 @@
       "lng": 128.9910363,
       "category": "연못/자연",
       "description": "황지연못은(는) 강원특별자치도 태백시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%A7%80%EC%97%B0%EB%AA%BB"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%A7%80%EC%97%B0%EB%AA%BB",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 345.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hwangji_the_start.jpg/1280px-Hwangji_the_start.jpg"
     },
     {
       "name": "태백석탄박물관",
@@ -34,7 +46,13 @@
       "lng": 128.9505568,
       "category": "박물관/산업",
       "description": "태백석탄박물관은(는) 강원특별자치도 태백시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%84%9D%ED%83%84%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%84%9D%ED%83%84%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 15.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/TC-M1.jpg/1280px-TC-M1.jpg"
     },
     {
       "name": "태백시청",
@@ -42,7 +60,13 @@
       "lng": 128.9857646,
       "category": "행정/랜드마크",
       "description": "태백시청은(는) 강원특별자치도 태백시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 355.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2025-10-28_14.38.29_taebaek.jpg/1280px-2025-10-28_14.38.29_taebaek.jpg"
     },
     {
       "name": "매봉산",
@@ -50,7 +74,12 @@
       "lng": 128.966903,
       "category": "산/자연",
       "description": "매봉산은(는) 강원특별자치도 태백시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%B4%89%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%B4%89%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 123.2
+      }
     }
   ],
   "history_summary": "태백시는 해발 700m 고원에 자리한 강원 영동 내륙의 도시로 태백산과 황지연못, 석탄박물관이 대표 명소이다.",
