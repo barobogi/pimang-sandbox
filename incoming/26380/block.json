@@ -1,0 +1,73 @@
+{
+  "block_code": "26380",
+  "block_name": "부산광역시 사하구",
+  "bbox": [
+    128.92209,
+    34.72525,
+    129.065839,
+    35.126734
+  ],
+  "center": [
+    34.925992,
+    128.993965
+  ],
+  "landmarks": [
+    {
+      "name": "감천문화마을",
+      "lat": 35.0963371,
+      "lng": 129.0087897,
+      "category": "문화마을",
+      "description": "산복도로에 계단식 집들이 어우러진 대표 벽화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "다대포해수욕장",
+      "lat": 35.0468397,
+      "lng": 128.9640378,
+      "category": "해수욕장",
+      "description": "부산 서쪽 끝의 해수욕장으로 낙동강 하구와 맞닿아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%8C%80%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "을숙도",
+      "lat": 35.1019406,
+      "lng": 128.9409327,
+      "category": "생태/공원",
+      "description": "낙동강 하구 철새 도래지이자 생태공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84"
+    },
+    {
+      "name": "구평공원",
+      "lat": 35.101,
+      "lng": 128.977,
+      "category": "공원",
+      "description": "사하구 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC"
+    },
+    {
+      "name": "하단동 상권",
+      "lat": 35.105,
+      "lng": 128.972,
+      "category": "상권",
+      "description": "하단동에 형성된 사하구 최대 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC"
+    }
+  ],
+  "history_summary": "부산 사하구는 감천문화마을과 다대포, 을숙도가 자리한 부산 서부의 해안 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
