@@ -1,0 +1,73 @@
+{
+  "block_code": "48870",
+  "block_name": "경상남도 함양군",
+  "bbox": [
+    127.585876,
+    35.315883,
+    127.877225,
+    35.771543
+  ],
+  "center": [
+    35.543713,
+    127.731551
+  ],
+  "landmarks": [
+    {
+      "name": "상림공원",
+      "lat": 35.5277048,
+      "lng": 127.7175279,
+      "category": "숲/공원",
+      "description": "상림공원은(는) 경상남도 함양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0"
+    },
+    {
+      "name": "용추계곡",
+      "lat": 35.6690225,
+      "lng": 127.7875301,
+      "category": "계곡/자연",
+      "description": "용추계곡은(는) 경상남도 함양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%B6%94%EA%B3%84%EA%B3%A1"
+    },
+    {
+      "name": "지리산",
+      "lat": 35.3311549,
+      "lng": 127.6530198,
+      "category": "산/국립공원",
+      "description": "지리산은(는) 경상남도 함양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0"
+    },
+    {
+      "name": "함양군청",
+      "lat": 35.5205424,
+      "lng": 127.7251841,
+      "category": "행정/랜드마크",
+      "description": "함양군청은(는) 경상남도 함양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "함양시장",
+      "lat": 35.54371305,
+      "lng": 127.73155075,
+      "category": "시장/먹거리",
+      "description": "함양시장은(는) 경상남도 함양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EC%96%91%EA%B5%B0"
+    }
+  ],
+  "history_summary": "함양군은 상림공원과 용추계곡, 지리산이 자리한 경남 서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
