@@ -18,7 +18,13 @@
       "lng": 127.3821871,
       "category": "자연/하천",
       "description": "북한강과 남한강이 만나 한강을 이루는 지점으로 드라마 촬영지로 유명한 국민 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 106.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%287%29.JPG/1280px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%287%29.JPG"
     },
     {
       "name": "양수리",
@@ -26,7 +32,13 @@
       "lng": 127.3194198,
       "category": "자연/문화",
       "description": "두물머리 근처 남한강·북한강 삼각지대로 드라마 촬영지와 일몰 명소로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%88%98%EB%A6%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%88%98%EB%A6%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 98.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%EC%96%91%ED%8F%89_%EC%96%91%EC%88%98%EB%A6%AC_%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg/1280px-%EC%96%91%ED%8F%89_%EC%96%91%EC%88%98%EB%A6%AC_%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg"
     },
     {
       "name": "용문사",
@@ -34,7 +46,13 @@
       "lng": 127.5711442,
       "category": "사찰/문화유산",
       "description": "용문산 자락에 자리한 대형 사찰로 조선 시대 조정의 후원을 받은 유서 깊은 절이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%AC%B8%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%AC%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 175.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/%EC%96%91%ED%8F%89_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4.jpg"
     },
     {
       "name": "양평역",
@@ -42,7 +60,13 @@
       "lng": 127.4918972,
       "category": "교통/문화",
       "description": "중앙선의 철도 역으로 옛 역사 문화가 보존된 지역 중심지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%8F%89%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%8F%89%EC%97%AD",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 68.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gyeonggi_Yangpyeong_Station_2010.jpg"
     },
     {
       "name": "소싸울너른공원",
@@ -50,7 +74,13 @@
       "lng": 127.3,
       "category": "역사/공원",
       "description": "조선과 후금의 소싸울전이 일어난 지역에 조성된 역사 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 87.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Yangpyeong-gun_office.JPG/1280px-Yangpyeong-gun_office.JPG"
     }
   ],
   "history_summary": "양평군은 한강과 남한강, 북한강이 어우러진 경기 동부의 군으로 두물머리와 양수리 등의 수변 명소와 용문산 국민관광지, 소싸울너른공원 등이 함께한다.",
