@@ -18,7 +18,13 @@
       "lng": 128.5003579,
       "category": "산/자연",
       "description": "달성군의 대표 명산으로 암괴류(천연기념물 제435호)가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%8A%AC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%8A%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 17.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Korea-Mount_Biseul-Azalea_Valley-01.jpg"
     },
     {
       "name": "도동서원",
@@ -26,7 +32,13 @@
       "lng": 128.3719954,
       "category": "서원/문화유산",
       "description": "조선 시대 서원으로 달성 12경의 대표 유교 문화유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8F%99%EC%84%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8F%99%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 59.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Dodong1.jpg/1280px-Dodong1.jpg"
     },
     {
       "name": "국립대구과학관",
@@ -34,7 +46,13 @@
       "lng": 128.4650664,
       "category": "과학/전시",
       "description": "유가면에 자리한 대형 국립 과학 전시관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EB%8C%80%EA%B5%AC%EA%B3%BC%ED%95%99%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EB%8C%80%EA%B5%AC%EA%B3%BC%ED%95%99%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 28.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/1280px-National_Science_Museum_2021.jpg"
     },
     {
       "name": "사문진주막촌",
@@ -42,7 +60,13 @@
       "lng": 128.461,
       "category": "마을/관광",
       "description": "옛 주막 마을을 재현한 전통 문화 체험 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 142.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Dalseong-gun_office.JPG/1280px-Dalseong-gun_office.JPG"
     },
     {
       "name": "옥포벚꽃길",
@@ -50,7 +74,13 @@
       "lng": 128.483,
       "category": "꽃길/계절",
       "description": "옥포천을 따라 펼쳐지는 벚꽃 산책로로 달성의 대표 봄 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 149.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Dalseong-gun_office.JPG/1280px-Dalseong-gun_office.JPG"
     }
   ],
   "history_summary": "대구 달성군은 대구 외곽을 둘러싼 광역 군으로 비슷산과 도동서원, 사문진주막촌 등의 명소와 다사 신도시가 함께한다.",
