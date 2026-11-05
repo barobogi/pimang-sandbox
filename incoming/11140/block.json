@@ -107,6 +107,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "명동교자",
+      "lat": 37.5592,
+      "lng": 126.9878,
+      "specialty": "교자만두",
+      "category": "한식"
+    },
+    {
+      "name": "오장동할매집",
+      "lat": 37.5642,
+      "lng": 126.9838,
+      "specialty": "삼계탕",
+      "category": "한식"
+    },
+    {
+      "name": "무교동 원할머니낙지",
+      "lat": 37.569,
+      "lng": 126.9814,
+      "specialty": "낙지볶음",
+      "category": "향토음식"
+    },
+    {
+      "name": "광희동 곱창골목",
+      "lat": 37.5656,
+      "lng": 127.0006,
+      "specialty": "양념곱창",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "서울 중구는 명동과 동대문, 남산이 함께한 서울의 원도심 상업 관광 중심지로 개항기 이후 근대 문화유산도 풍부하다.",
   "data_sources": [
     {
