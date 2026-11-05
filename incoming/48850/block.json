@@ -18,7 +18,13 @@
       "lng": 127.8672748,
       "category": "하천/자연",
       "description": "섬진강은(는) 경상남도 하동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 333.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Seomjingang_MS3672.JPG/1280px-Seomjingang_MS3672.JPG"
     },
     {
       "name": "화개장터",
@@ -26,7 +32,12 @@
       "lng": 127.6242799,
       "category": "시장/명소",
       "description": "화개장터은(는) 경상남도 하동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EA%B0%9C%EC%9E%A5%ED%84%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EA%B0%9C%EC%9E%A5%ED%84%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 120.7
+      }
     },
     {
       "name": "쌍계사",
@@ -34,7 +45,13 @@
       "lng": 127.6500886,
       "category": "사찰/문화유산",
       "description": "쌍계사은(는) 경상남도 하동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8C%8D%EA%B3%84%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8C%8D%EA%B3%84%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 140.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Ssanggyesa_032.JPG/1280px-Ssanggyesa_032.JPG"
     },
     {
       "name": "하동군청",
@@ -42,7 +59,13 @@
       "lng": 127.7513132,
       "category": "행정/랜드마크",
       "description": "하동군청은(는) 경상남도 하동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8F%99%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8F%99%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 6.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hadong-gun_Office.JPG/1280px-Hadong-gun_Office.JPG"
     },
     {
       "name": "하동시장",
@@ -50,7 +73,13 @@
       "lng": 127.75914449999999,
       "category": "시장/먹거리",
       "description": "하동시장은(는) 경상남도 하동군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8F%99%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8F%99%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 233.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hadong_Bus_Terminal.JPG/1280px-Hadong_Bus_Terminal.JPG"
     }
   ],
   "history_summary": "하동군은 섬진강과 화개장터, 쌍계사가 자리한 경남 서부의 군이다.",
