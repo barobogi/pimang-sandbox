@@ -18,7 +18,13 @@
       "lng": 126.7451352,
       "category": "도시공원/호수",
       "description": "상동에 조성된 호수 공원으로 가족 나들이와 산책 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8F%99%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8F%99%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 87.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "부천만화정보박물관",
@@ -26,7 +32,13 @@
       "lng": 126.8415,
       "category": "박물관/만화",
       "description": "대한민국 대표 만화·웹툰 전문 박물관으로 부천만화축제와 함께 만화 도시 부천의 상징이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bucheoncityhall2025.jpg/1280px-Bucheoncityhall2025.jpg"
     },
     {
       "name": "원미산",
@@ -34,7 +46,13 @@
       "lng": 126.7962778,
       "category": "산/자연",
       "description": "원미동 일대에 자리한 낮은 산으로 산책로와 등산 코스가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 347.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%EC%9B%90%EB%AF%B81%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0.jpg/1280px-%EC%9B%90%EB%AF%B81%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0.jpg"
     },
     {
       "name": "부천종합운동장",
@@ -42,7 +60,13 @@
       "lng": 126.7989922,
       "category": "체육/경기장",
       "description": "프로축구 부천FC 1995의 홈구장으로 다목적 경기장 시설을 갖추고 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 302.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Bucheonstadium3.JPG/1280px-Bucheonstadium3.JPG"
     },
     {
       "name": "소사벚꽃길",
@@ -50,7 +74,13 @@
       "lng": 126.812,
       "category": "꽃길/계절",
       "description": "소사동 일대에 형성된 벚꽃 명소로 봄철 개화 시기 관광객이 몰린다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 331.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bucheoncityhall2025.jpg/1280px-Bucheoncityhall2025.jpg"
     }
   ],
   "history_summary": "부천시는 근현대 섬유·기계·전자 공업 도시로 성장했고 부천만화박물관과 상동호수공원, 국제판타지축제 등 문화 도시로도 명성을 얻은 자치구 없는 시(구 없는 단일 도시)이다.",
