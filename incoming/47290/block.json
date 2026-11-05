@@ -18,15 +18,27 @@
       "lng": 128.7572223,
       "category": "교육/캠퍼스",
       "description": "영남대학교은(는) 경상북도 경산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 71.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%98%81%EB%82%A8%EB%8C%80%EC%97%AD_3%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg/1280px-%EC%98%81%EB%82%A8%EB%8C%80%EC%97%AD_3%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg"
     },
     {
       "name": "자인단오제전수교육관",
-      "lat": 35.84701055,
-      "lng": 128.82649795,
+      "lat": 35.8178398,
+      "lng": 128.8190006,
       "category": "문화/전통",
       "description": "자인단오제전수교육관은(는) 경상북도 경산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 11.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gyeongsan_City_Hall.JPG/1280px-Gyeongsan_City_Hall.JPG"
     },
     {
       "name": "경산시청",
@@ -34,7 +46,13 @@
       "lng": 128.741514,
       "category": "행정/랜드마크",
       "description": "경산시청은(는) 경상북도 경산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 72.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gyeongsan_City_Hall.JPG/1280px-Gyeongsan_City_Hall.JPG"
     },
     {
       "name": "경산시장",
@@ -42,15 +60,27 @@
       "lng": 128.7360747,
       "category": "시장/먹거리",
       "description": "경산시장은(는) 경상북도 경산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 72.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%EA%B2%BD%EC%82%B0%EB%B2%84%EC%8A%A4_918%EB%B2%88_7392%ED%98%B8_NEW_BS106_%282%29.jpg/1280px-%EA%B2%BD%EC%82%B0%EB%B2%84%EC%8A%A4_918%EB%B2%88_7392%ED%98%B8_NEW_BS106_%282%29.jpg"
     },
     {
       "name": "남매탑",
-      "lat": 35.84701055,
-      "lng": 128.82649795,
+      "lat": 35.8274351,
+      "lng": 128.7445179,
       "category": "문화유산/불교",
       "description": "남매탑은(는) 경상북도 경산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%A7%A4%ED%83%91"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%A7%A4%ED%83%91",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 73.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%ED%83%9120221110_123409.jpg"
     }
   ],
   "history_summary": "경산시는 대구 인접의 위성 도시로 영남대학교와 자인단오제가 유명하다.",
