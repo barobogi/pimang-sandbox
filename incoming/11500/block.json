@@ -18,7 +18,13 @@
       "lng": 126.8346641,
       "category": "식물원/생태",
       "description": "마곡지구 북부저수지에 조성된 대형 식물원으로 온실 화면숲이 세계적으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 241.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Yeomiji.jpg"
     },
     {
       "name": "김포공항",
@@ -26,7 +32,13 @@
       "lng": 126.7942403,
       "category": "교통/항공",
       "description": "1939년 개항한 서울의 국문 공항으로 현재 국내선과 일부 국제선이 운항하는 항공 거점이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EA%B3%B5%ED%95%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EA%B3%B5%ED%95%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 73.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/GMP_domestic.jpg/1280px-GMP_domestic.jpg"
     },
     {
       "name": "우장산공원",
@@ -34,7 +46,12 @@
       "lng": 126.834,
       "category": "도시공원",
       "description": "우장산 자락에 조성된 근린공원으로 등산로와 산책로가 조성된 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 306.8
+      }
     },
     {
       "name": "염창한강공원",
@@ -42,7 +59,13 @@
       "lng": 126.866,
       "category": "한강공원",
       "description": "한강 염창지구의 수변 공원으로 자전거길과 체육시설이 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 299.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/7/7d/View_Photo_of_Winter_of_Worldcup_Park.jpg"
     },
     {
       "name": "바우덕이극장",
@@ -50,7 +73,13 @@
       "lng": 126.848,
       "category": "공연장/전통예술",
       "description": "화곡동에 위치한 전통인형극 전문 극장으로 판소리와 인형극 공연으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 293.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20240206_%EB%A7%88%EA%B3%A1%EA%B4%91%EC%9E%A5_%282%29.jpg/1280px-20240206_%EB%A7%88%EA%B3%A1%EA%B4%91%EC%9E%A5_%282%29.jpg"
     }
   ],
   "history_summary": "강서구는 김포국민 공유지가 개발되어 형성된 서울 서남부의 자치구로 마곡지구에 서울식물원이 조성되었고 화곡·등촌·가양 등의 주거지가 발달했다.",
