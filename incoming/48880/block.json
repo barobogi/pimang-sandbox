@@ -18,7 +18,13 @@
       "lng": 127.8344671,
       "category": "경승지/관광",
       "description": "수승대은(는) 경상남도 거창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 138.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Suseungdae2.jpg/1280px-Suseungdae2.jpg"
     },
     {
       "name": "덕유산",
@@ -26,7 +32,13 @@
       "lng": 127.7701239,
       "category": "산/국립공원",
       "description": "덕유산은(는) 경상남도 거창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 149.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/1280px-Deogyusan_from_Hyangjeok_Peak.jpg"
     },
     {
       "name": "거창창포원",
@@ -34,7 +46,13 @@
       "lng": 127.9414049,
       "category": "공원/자연",
       "description": "거창창포원은(는) 경상남도 거창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 323.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Panoramic_view_of_Geochang-eup.jpg/1280px-Panoramic_view_of_Geochang-eup.jpg"
     },
     {
       "name": "거창군청",
@@ -42,7 +60,13 @@
       "lng": 127.9096955,
       "category": "행정/랜드마크",
       "description": "거창군청은(는) 경상남도 거창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 324.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg/1280px-%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg"
     },
     {
       "name": "거창시장",
@@ -50,7 +74,13 @@
       "lng": 127.88707295,
       "category": "시장/먹거리",
       "description": "거창시장은(는) 경상남도 거창군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 174.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Panoramic_view_of_Geochang-eup.jpg/1280px-Panoramic_view_of_Geochang-eup.jpg"
     }
   ],
   "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
