@@ -18,7 +18,13 @@
       "lng": 127.0292882,
       "category": "상권/번화가",
       "description": "대한민국 대표 번화가로 강남역 먹자골목이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%82%A8%EC%97%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%82%A8%EC%97%AD",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 88.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/20250513_2%ED%98%B8%EC%84%A0_%EA%B0%95%EB%82%A8%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20250513_2%ED%98%B8%EC%84%A0_%EA%B0%95%EB%82%A8%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     },
     {
       "name": "가로수길",
@@ -26,7 +32,13 @@
       "lng": 127.0228938,
       "category": "문화/거리",
       "description": "신사동의 대표 패션·카페 거리이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%A1%9C%EC%88%98%EA%B8%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%A1%9C%EC%88%98%EA%B8%B8",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 123.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alexandra_park_avenue.jpg"
     },
     {
       "name": "청담동",
@@ -34,7 +46,13 @@
       "lng": 127.04637,
       "category": "패션/상권",
       "description": "고급 패션 브랜드와 뷰티 상권의 중심지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8B%B4%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8B%B4%EB%8F%99",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 151.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cheongdam-dong_Community_Service_Center_20140615_100412.jpg/1280px-Cheongdam-dong_Community_Service_Center_20140615_100412.jpg"
     },
     {
       "name": "테헤란로",
@@ -42,7 +60,13 @@
       "lng": 127.0397121,
       "category": "상권/비즈니스",
       "description": "국내 최대 비즈니스 거리 중 하나이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%85%8C%ED%97%A4%EB%9E%80%EB%A1%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%85%8C%ED%97%A4%EB%9E%80%EB%A1%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 99.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Closing_Hour_%28133264599%29.jpeg/1280px-The_Closing_Hour_%28133264599%29.jpeg"
     },
     {
       "name": "도산공원",
@@ -50,7 +74,13 @@
       "lng": 127.0352168,
       "category": "도시공원",
       "description": "신사동 중심에 조성된 대표 도심 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 137.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Dosan_Memorial_Park_-_Seoul%2C_South_Korea_-_DSC00413.JPG/1280px-Dosan_Memorial_Park_-_Seoul%2C_South_Korea_-_DSC00413.JPG"
     }
   ],
   "history_summary": "강남구는 대한민국 최고 상업·유행 중심지로 강남역과 가로수길, 청담동 패션 거리가 유명하다.",
