@@ -18,15 +18,27 @@
       "lng": 127.1130246,
       "category": "사찰/문화유산",
       "description": "관촉사은(는) 충청남도 논산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%B4%89%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%B4%89%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 71.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%EA%B4%80%EC%B4%89%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%AF%B8%EB%A5%B5%EB%B3%B4%EC%82%B4%EC%9E%85%EC%83%81.jpg/1280px-%EA%B4%80%EC%B4%89%EC%82%AC_%EC%84%9D%EC%A1%B0%EB%AF%B8%EB%A5%B5%EB%B3%B4%EC%82%B4%EC%9E%85%EC%83%81.jpg"
     },
     {
       "name": "강경젓갈시장",
-      "lat": 36.2009859,
-      "lng": 127.1590358,
+      "lat": 36.1607459,
+      "lng": 127.0146432,
       "category": "시장/먹거리",
       "description": "강경젓갈시장은(는) 충청남도 논산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B2%BD%EC%A0%93%EA%B0%88%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B2%BD%EC%A0%93%EA%B0%88%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 70.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%EA%B0%95%EA%B2%BD%EC%8B%9C%EC%9E%A5_1930%EB%85%84%EB%8C%80.png"
     },
     {
       "name": "논산시청",
@@ -34,7 +46,13 @@
       "lng": 127.0987445,
       "category": "행정/랜드마크",
       "description": "논산시청은(는) 충청남도 논산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%BC%EC%82%B0%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%BC%EC%82%B0%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 74.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Panoramic_view_of_Nonsan_City.jpg/1280px-Panoramic_view_of_Nonsan_City.jpg"
     },
     {
       "name": "탑정호",
@@ -42,15 +60,27 @@
       "lng": 127.1798397,
       "category": "호수/공원",
       "description": "탑정호은(는) 충청남도 논산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%91%EC%A0%95%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%91%EC%A0%95%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 323.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/View_of_Tapjeong_Reservoir_from_an_observation_building_on_a_jetty._September_2014.jpg/1280px-View_of_Tapjeong_Reservoir_from_an_observation_building_on_a_jetty._September_2014.jpg"
     },
     {
-      "name": "휴양림? 아니라 대둔산",
-      "lat": 36.2009859,
-      "lng": 127.1590358,
+      "name": "대둔산",
+      "lat": 36.1403931,
+      "lng": 127.3092205,
       "category": "산/자연",
-      "description": "휴양림? 아니라 대둔산은(는) 충청남도 논산시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%BC%EC%82%B0%EC%8B%9C"
+      "description": "대둔산은(는) 충청남도 논산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%BC%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 296.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chilseongbong_at_Daedunsan.jpg/1280px-Chilseongbong_at_Daedunsan.jpg"
     }
   ],
   "history_summary": "논산시는 백제 유적인 관촉사 미륵보살입상과 강경젓갈시장, 딸기 재배로 유명한 충남 남부의 도시이다.",
