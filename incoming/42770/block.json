@@ -1,0 +1,73 @@
+{
+  "block_code": "42770",
+  "block_name": "강원특별자치도 정선군",
+  "bbox": [
+    128.505974,
+    37.147077,
+    128.989663,
+    37.592916
+  ],
+  "center": [
+    37.369997,
+    128.747818
+  ],
+  "landmarks": [
+    {
+      "name": "화암동굴",
+      "lat": 37.3490618,
+      "lng": 128.794249,
+      "category": "동굴/자연",
+      "description": "화암동굴은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0%EA%B5%B0"
+    },
+    {
+      "name": "정암사",
+      "lat": 37.1830427,
+      "lng": 128.8926904,
+      "category": "사찰/문화유산",
+      "description": "정암사은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%95%94%EC%82%AC"
+    },
+    {
+      "name": "동강",
+      "lat": 37.2875126,
+      "lng": 128.5585002,
+      "category": "하천/자연",
+      "description": "동강은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B0%95"
+    },
+    {
+      "name": "정선시장",
+      "lat": 37.369996549999996,
+      "lng": 128.747818,
+      "category": "시장/먹거리",
+      "description": "정선시장은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0%EA%B5%B0"
+    },
+    {
+      "name": "정선군청",
+      "lat": 37.3806106,
+      "lng": 128.660856,
+      "category": "행정/랜드마크",
+      "description": "정선군청은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0%EA%B5%B0%EC%B2%AD"
+    }
+  ],
+  "history_summary": "정선군은 아리랑의 고장이자 정암사와 화암동굴, 동강 래프팅이 유명한 강원 영서 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
