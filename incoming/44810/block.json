@@ -18,7 +18,13 @@
       "lng": 125.87011575,
       "category": "국립공원/해안",
       "description": "태안해안국립공원은(는) 충청남도 태안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 104.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%AA%BD%EC%82%B0%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
     },
     {
       "name": "꽃지해수욕장",
@@ -26,7 +32,13 @@
       "lng": 126.3355443,
       "category": "해수욕장",
       "description": "꽃지해수욕장은(는) 충청남도 태안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EC%A7%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EC%A7%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 296.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/b/b9/P080713002.jpg"
     },
     {
       "name": "안면도",
@@ -34,7 +46,13 @@
       "lng": 126.370517,
       "category": "섬/관광",
       "description": "안면도은(는) 충청남도 태안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%A9%B4%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%A9%B4%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Wiki-FMF-threesome.png"
     },
     {
       "name": "태안군청",
@@ -42,7 +60,13 @@
       "lng": 126.2980462,
       "category": "행정/랜드마크",
       "description": "태안군청은(는) 충청남도 태안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 257.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%EB%82%B4%ED%8C%8C%EC%88%98%EB%8F%84-%EC%B6%A9%EB%82%A8%ED%83%9C%EC%95%88.jpg"
     },
     {
       "name": "만리포해수욕장",
@@ -50,7 +74,13 @@
       "lng": 126.1439834,
       "category": "해수욕장",
       "description": "만리포해수욕장은(는) 충청남도 태안군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EB%A6%AC%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EB%A6%AC%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 242.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_5.jpg/1280px-%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_%EB%A7%8C%EB%A6%AC%ED%8F%AC_5.jpg"
     }
   ],
   "history_summary": "태안군은 태안해안국립공원과 꽃지해변, 안면도가 자리한 충남 서해안 대표 관광 군이다.",
