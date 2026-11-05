@@ -18,7 +18,13 @@
       "lng": 129.087844,
       "category": "읍성/문화유산",
       "description": "조선 시대 동래부의 읍성으로 임진왜란 역사가 남아 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EC%9D%8D%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EC%9D%8D%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 232.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/%EB%8F%99%EB%9E%98%EC%9D%8D%EC%84%B1%EC%A7%80.jpg"
     },
     {
       "name": "충렬사",
@@ -26,7 +32,13 @@
       "lng": 129.0960165,
       "category": "사당/문화유산",
       "description": "임진왜란 동래성 전투에서 순절한 충신들을 기리는 사적지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EB%A0%AC%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EB%A0%AC%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 285.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg/1280px-%ED%98%84%EC%B6%A9%EC%82%AC%28Hyeonchoong-sa%29_02.jpg"
     },
     {
       "name": "온천천벚꽃길",
@@ -34,7 +46,13 @@
       "lng": 129.083,
       "category": "꽃길/계절",
       "description": "온천천을 따라 펼쳐지는 벚꽃·유채꽃 산책로로 부산 대표 봄꽃 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 334.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Reflection_in_Busan_Onchonchon_River.jpg/1280px-Reflection_in_Busan_Onchonchon_River.jpg"
     },
     {
       "name": "복천동고분군",
@@ -42,7 +60,13 @@
       "lng": 129.089,
       "category": "고분/문화유산",
       "description": "삼국시대 가야 무덤 유적으로 복천박물관이 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 232.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%EB%B3%B5%EC%B2%9C%EB%8F%99%EA%B3%A0%EB%B6%84%EA%B5%B01_P1500179.jpg/1280px-%EB%B3%B5%EC%B2%9C%EB%8F%99%EA%B3%A0%EB%B6%84%EA%B5%B01_P1500179.jpg"
     },
     {
       "name": "금강공원",
@@ -50,7 +74,13 @@
       "lng": 129.0743306,
       "category": "공원/온천",
       "description": "동래온천 온천동 일대의 공원으로 금강식물원이 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 164.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
   "history_summary": "부산 동래구는 조선 시대 동래부였던 유서 깊은 지역으로 동래읍성과 충렬사, 온천천 벚꽃길이 자리한 부산 북부의 구이다.",
