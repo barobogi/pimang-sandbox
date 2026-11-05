@@ -1,0 +1,73 @@
+{
+  "block_code": "46110",
+  "block_name": "전라남도 목포시",
+  "bbox": [
+    126.248531,
+    34.738837,
+    126.459441,
+    34.84838
+  ],
+  "center": [
+    34.793608,
+    126.353986
+  ],
+  "landmarks": [
+    {
+      "name": "유달산",
+      "lat": 34.7899134,
+      "lng": 126.3726439,
+      "category": "산/경승지",
+      "description": "목포의 진산으로 유달산 정자에서 목포 항구가 내려다보인다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%AC%EC%82%B0"
+    },
+    {
+      "name": "목포해상케이블카",
+      "lat": 34.7991525,
+      "lng": 126.3697088,
+      "category": "관광시설",
+      "description": "북항과 유달산을 잇는 해상 케이블카로 목포의 상징 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A9%ED%8F%AC%EC%8B%9C"
+    },
+    {
+      "name": "국립해양유물전시관",
+      "lat": 34.791838,
+      "lng": 126.4216562,
+      "category": "박물관/해양",
+      "description": "수중 발굴 해양 유물을 전시하는 국립 해양 박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%ED%95%B4%EC%96%91%EC%9C%A0%EB%AC%BC%EC%A0%84%EC%8B%9C%EA%B4%80"
+    },
+    {
+      "name": "삼학도",
+      "lat": 34.7846416,
+      "lng": 126.3965495,
+      "category": "섬/공원",
+      "description": "목포 앞바다의 세 봉우리 섬으로 삼학도공원이 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A9%ED%8F%AC%EC%8B%9C"
+    },
+    {
+      "name": "목포근대역사관",
+      "lat": 34.7875085,
+      "lng": 126.3820779,
+      "category": "박물관/역사",
+      "description": "개항기 이후 목포의 근대사를 전시하는 박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A9%ED%8F%AC%EC%8B%9C"
+    }
+  ],
+  "history_summary": "목포시는 조선 시대 목포항에서 출발해 개항기 이후 근대 항만 도시로 성장한 전남 서부의 대표 도시로 유달산과 근대 건축 유산이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
