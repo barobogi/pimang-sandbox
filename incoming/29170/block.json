@@ -1,0 +1,73 @@
+{
+  "block_code": "29170",
+  "block_name": "광주광역시 북구",
+  "bbox": [
+    126.834887,
+    35.121091,
+    127.023299,
+    35.258799
+  ],
+  "center": [
+    35.189945,
+    126.929093
+  ],
+  "landmarks": [
+    {
+      "name": "전남대학교",
+      "lat": 35.1769099,
+      "lng": 126.9068927,
+      "category": "교육/캠퍼스",
+      "description": "광주의 대표 국립대학이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "양림동 역사문화마을",
+      "lat": 35.145,
+      "lng": 126.905,
+      "category": "문화마을",
+      "description": "오래된 골목과 역사가 남아 있는 대표 문화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "청움공원",
+      "lat": 35.165,
+      "lng": 126.9,
+      "category": "공원",
+      "description": "북구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "광주비엔날레",
+      "lat": 35.1829752,
+      "lng": 126.8894456,
+      "category": "문화/행사",
+      "description": "광주의 대표 국제 예술 행사다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EB%B9%84%EC%97%94%EB%82%A0%EB%A0%88"
+    },
+    {
+      "name": "전라감영공원",
+      "lat": 35.158,
+      "lng": 126.908,
+      "category": "역사/공원",
+      "description": "조선 시대 전라감영이 있던 터이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "광주 북구는 전남대학교와 양림동 역사문화마을이 자리한 광주 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
