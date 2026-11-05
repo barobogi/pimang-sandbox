@@ -18,15 +18,27 @@
       "lng": 127.9939994,
       "category": "계곡/자연",
       "description": "두타연은(는) 강원특별자치도 양구군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 172.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "DMZ자생식물원",
-      "lat": 38.1662713,
-      "lng": 128.0120679,
+      "lat": 38.2533981,
+      "lng": 128.1126248,
       "category": "식물원/생태",
       "description": "DMZ자생식물원은(는) 강원특별자치도 양구군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 222.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Yanggu-gun_office.JPG/1280px-Yanggu-gun_office.JPG"
     },
     {
       "name": "양구군청",
@@ -34,23 +46,41 @@
       "lng": 127.9899497,
       "category": "행정/랜드마크",
       "description": "양구군청은(는) 강원특별자치도 양구군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 17.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%EC%96%91%EA%B5%AC20%EB%B2%88_7005%ED%98%B8.png/1280px-%EC%96%91%EA%B5%AC20%EB%B2%88_7005%ED%98%B8.png"
     },
     {
       "name": "양구시장",
-      "lat": 38.1662713,
-      "lng": 128.0120679,
+      "lat": 38.1040604,
+      "lng": 127.9889356,
       "category": "시장/먹거리",
       "description": "양구시장은(는) 강원특별자치도 양구군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EA%B5%AC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 16.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Yanggu-gun_office.JPG/1280px-Yanggu-gun_office.JPG"
     },
     {
       "name": "해안분지",
-      "lat": 38.1662713,
-      "lng": 128.0120679,
+      "lat": 38.2882747,
+      "lng": 128.1434184,
       "category": "지형/자연",
       "description": "해안분지은(는) 강원특별자치도 양구군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%95%88%EB%B6%84%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%95%88%EB%B6%84%EC%A7%80",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 220.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Punchbowl_landsat_zoom.jpg"
     }
   ],
   "history_summary": "양구군은 DMZ 자생식물원과 두타연, 펀치볼이 자리한 강원 영서 최북단의 군이다.",
