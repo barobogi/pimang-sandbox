@@ -18,7 +18,13 @@
       "lng": 127.0664811,
       "category": "호수/공원",
       "description": "광교신도시 중앙의 대표 호수 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 209.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Gg_08.png"
     },
     {
       "name": "매탄동 상권",
@@ -26,7 +32,13 @@
       "lng": 127.05,
       "category": "상권",
       "description": "매탄동에 형성된 영통구 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 26.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Yeongtong-gu_office.JPG/1280px-Yeongtong-gu_office.JPG"
     },
     {
       "name": "삼성전자 수원기지",
@@ -34,7 +46,13 @@
       "lng": 127.045,
       "category": "산업/반도체",
       "description": "국내 최대 반도체 생산 기지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 17.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/1280px-Samsung_headquarters.jpg"
     },
     {
       "name": "영통동 상권",
@@ -42,7 +60,13 @@
       "lng": 127.076,
       "category": "상권",
       "description": "영통동에 형성된 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 337.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Yeongtong-gu_office.JPG/1280px-Yeongtong-gu_office.JPG"
     },
     {
       "name": "광교중앙역 상권",
@@ -50,7 +74,13 @@
       "lng": 127.044,
       "category": "상권",
       "description": "광교중앙역 중심의 신도시 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 152.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Q21025132_Gwanggyo_Jungang_A01.jpg/1280px-Q21025132_Gwanggyo_Jungang_A01.jpg"
     }
   ],
   "history_summary": "수원 영통구는 광교신도시와 매탄동 상권이 자리한 수원 동부의 구이다.",
