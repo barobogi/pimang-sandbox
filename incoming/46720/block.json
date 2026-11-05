@@ -1,0 +1,73 @@
+{
+  "block_code": "46720",
+  "block_name": "전라남도 곡성군",
+  "bbox": [
+    127.082269,
+    35.069415,
+    127.416923,
+    35.336949
+  ],
+  "center": [
+    35.203182,
+    127.249596
+  ],
+  "landmarks": [
+    {
+      "name": "섬진강기차마을",
+      "lat": 35.203182299999995,
+      "lng": 127.24959609999999,
+      "category": "관광/체험",
+      "description": "섬진강기차마을은(는) 전라남도 곡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95%EA%B8%B0%EC%B0%A8%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "태안사",
+      "lat": 35.1316232,
+      "lng": 127.3865342,
+      "category": "사찰/문화유산",
+      "description": "태안사은(는) 전라남도 곡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EC%82%AC"
+    },
+    {
+      "name": "곡성군청",
+      "lat": 35.2820245,
+      "lng": 127.2919795,
+      "category": "행정/랜드마크",
+      "description": "곡성군청은(는) 전라남도 곡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "곡성시장",
+      "lat": 35.203182299999995,
+      "lng": 127.24959609999999,
+      "category": "시장/먹거리",
+      "description": "곡성시장은(는) 전라남도 곡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0"
+    },
+    {
+      "name": "동악산",
+      "lat": 35.2772028,
+      "lng": 127.2637556,
+      "category": "산/자연",
+      "description": "동악산은(는) 전라남도 곡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A1%EC%84%B1%EA%B5%B0"
+    }
+  ],
+  "history_summary": "곡성군은 섬진강 기차마을과 태안사, 곡성세계장미축제로 유명한 전남 동부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
