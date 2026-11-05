@@ -18,7 +18,13 @@
       "lng": 127.3520162,
       "category": "수목원/관광",
       "description": "아침고요수목원은(는) 경기도 가평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 45.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/1280px-Morning_Calm_Arboretum_Sign.jpg"
     },
     {
       "name": "청평호",
@@ -26,7 +32,13 @@
       "lng": 127.5426867,
       "category": "호수/자연",
       "description": "청평호은(는) 경기도 가평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%ED%8F%89%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%ED%8F%89%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 298.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Chungpyeong_lake_on_August_4th%2C_2018.jpg/1280px-Chungpyeong_lake_on_August_4th%2C_2018.jpg"
     },
     {
       "name": "명지산",
@@ -34,7 +46,12 @@
       "lng": 127.4321451,
       "category": "산/자연",
       "description": "명지산은(는) 경기도 가평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EC%A7%80%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EC%A7%80%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 176.7
+      }
     },
     {
       "name": "가평역 상권",
@@ -42,7 +59,13 @@
       "lng": 127.4417296,
       "category": "상권/교통",
       "description": "가평역 상권은(는) 경기도 가평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 51.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gapyeong-gun_office.JPG/1280px-Gapyeong-gun_office.JPG"
     },
     {
       "name": "쁘띠프랑스",
@@ -50,7 +73,13 @@
       "lng": 127.4905281,
       "category": "테마마을/관광",
       "description": "쁘띠프랑스은(는) 경기도 가평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%81%98%EB%9D%A0%ED%94%84%EB%9E%91%EC%8A%A4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%81%98%EB%9D%A0%ED%94%84%EB%9E%91%EC%8A%A4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 338.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg/1280px-Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg"
     }
   ],
   "history_summary": "가평군은 북한강과 청평호가 흐르는 경기 동북부의 군으로 아침고요수목원과 남이섬 인근의 수변 관광지가 유명하다.",
