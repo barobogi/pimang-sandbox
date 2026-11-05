@@ -9,7 +9,7 @@
   ],
   "center": [
     37.035015,
-    128.12749
+    128.127489
   ],
   "landmarks": [
     {
@@ -38,16 +38,16 @@
     },
     {
       "name": "제천역 상권",
-      "lat": 37.03501475,
-      "lng": 128.1274897,
+      "lat": 37.1270743,
+      "lng": 128.2059637,
       "category": "상권/교통",
       "description": "제천역 상권은(는) 충청북도 제천시의 대표 명소이다.",
       "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%B2%9C%EC%8B%9C"
     },
     {
       "name": "박달재",
-      "lat": 37.03501475,
-      "lng": 128.1274897,
+      "lat": 37.1507696,
+      "lng": 128.0491499,
       "category": "고개/자연",
       "description": "박달재은(는) 충청북도 제천시의 대표 명소이다.",
       "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%8B%AC%EC%9E%AC"
