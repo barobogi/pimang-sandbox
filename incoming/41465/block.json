@@ -18,7 +18,13 @@
       "lng": 127.127,
       "category": "상권",
       "description": "수지구 최대 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 285.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Q17226_Jukjeon_A01.JPG/1280px-Q17226_Jukjeon_A01.JPG"
     },
     {
       "name": "죽전동 카페거리",
@@ -26,7 +32,13 @@
       "lng": 127.124,
       "category": "카페/문화",
       "description": "죽전동 일대의 대표 카페 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 282.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Q17226_Jukjeon_A01.JPG/1280px-Q17226_Jukjeon_A01.JPG"
     },
     {
       "name": "동천동 상권",
@@ -34,7 +46,13 @@
       "lng": 127.105,
       "category": "상권",
       "description": "동천동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 271.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukgu-daegu.png/1280px-Bukgu-daegu.png"
     },
     {
       "name": "보정동 카페거리",
@@ -42,7 +60,12 @@
       "lng": 127.1,
       "category": "카페/문화",
       "description": "수지구 인접의 대표 카페 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 319.8
+      }
     },
     {
       "name": "수지공원",
@@ -50,7 +73,13 @@
       "lng": 127.115,
       "category": "공원",
       "description": "수지구의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 297.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%9D%B8%EC%B2%9C_%EB%B6%80%EC%88%98%EC%A7%80%EA%B3%B5%EC%9B%90_2024.jpg/1280px-%EC%9D%B8%EC%B2%9C_%EB%B6%80%EC%88%98%EC%A7%80%EA%B3%B5%EC%9B%90_2024.jpg"
     }
   ],
   "history_summary": "용인 수지구는 죽전동 상권과 대형 주거 지역이 함께한 용인 동부의 구이다.",
