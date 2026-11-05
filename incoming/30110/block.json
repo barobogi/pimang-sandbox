@@ -1,0 +1,73 @@
+{
+  "block_code": "30110",
+  "block_name": "대전광역시 동구",
+  "bbox": [
+    127.413242,
+    36.194073,
+    127.540865,
+    36.442951
+  ],
+  "center": [
+    36.318512,
+    127.477054
+  ],
+  "landmarks": [
+    {
+      "name": "대전역",
+      "lat": 36.3323201,
+      "lng": 127.4322583,
+      "category": "교통/허브",
+      "description": "경부선의 대표 역으로 대전 도심의 관문이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EC%97%AD"
+    },
+    {
+      "name": "대전복합터미널",
+      "lat": 36.3503912,
+      "lng": 127.4366882,
+      "category": "교통/터미널",
+      "description": "용전동에 자리한 대전의 대표 시외버스 터미널이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "대청호",
+      "lat": 36.4186189,
+      "lng": 127.4971066,
+      "category": "호수/자연",
+      "description": "대청댐 건설로 만들어진 국내 3번째 크기 인공 호수다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8"
+    },
+    {
+      "name": "만인산",
+      "lat": 36.2012308,
+      "lng": 127.4539266,
+      "category": "산/자연",
+      "description": "이성계의 태를 묻었다는 전설이 있는 해발 537m의 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "식장산",
+      "lat": 36.2997111,
+      "lng": 127.4811111,
+      "category": "산/자연",
+      "description": "동구 북부에 펼쳐진 해발 597m의 산으로 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "대전 동구는 대전역과 대전복합터미널이 자리한 대전 동부의 관문 구로 만인산과 식장산, 대청호 등 자연 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
