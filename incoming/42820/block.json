@@ -1,0 +1,73 @@
+{
+  "block_code": "42820",
+  "block_name": "강원특별자치도 고성군",
+  "bbox": [
+    128.22615,
+    38.187331,
+    128.824452,
+    38.61772
+  ],
+  "center": [
+    38.402526,
+    128.525301
+  ],
+  "landmarks": [
+    {
+      "name": "금강산전망대",
+      "lat": 38.5987739,
+      "lng": 128.351642,
+      "category": "DMZ/전망대",
+      "description": "북측 금강산을 가장 가까이에서 볼 수 있는 고성 대표 전망시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+    },
+    {
+      "name": "화진포",
+      "lat": 38.4498364,
+      "lng": 128.4407877,
+      "category": "해변/관광",
+      "description": "동해 최북단의 모래사장으로 화진포전망대와 자작나무 숲이 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%A7%84%ED%8F%AC"
+    },
+    {
+      "name": "선인장온천",
+      "lat": 38.21,
+      "lng": 128.4,
+      "category": "온천/관광",
+      "description": "토성면 일대의 온천 관광지로 선인장 볼 수 있는 온천 시설이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+    },
+    {
+      "name": "고성수복기념관",
+      "lat": 38.26,
+      "lng": 128.38,
+      "category": "역사/기념관",
+      "description": "6·25 전쟁 수복의 역사를 전시한 기념관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+    },
+    {
+      "name": "간성성당",
+      "lat": 38.3787624,
+      "lng": 128.4661594,
+      "category": "종교/문화유산",
+      "description": "간성읍에 자리한 한국 천주교 성당으로 동해 지역 초기 전교의 중심지였다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+    }
+  ],
+  "history_summary": "고성군은 간성이 옛 이름인 강원 동북부의 군으로 금강산전망대와 화진포 등 DMZ·동해 관광 자원과 함께 옛 금강산 관광의 관문이었다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
