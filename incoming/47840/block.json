@@ -18,7 +18,13 @@
       "lng": 128.2866588,
       "category": "유적/문화유산",
       "description": "세종대왕자태실은(는) 경상북도 성주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 221.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg"
     },
     {
       "name": "성주군청",
@@ -26,15 +32,27 @@
       "lng": 128.2830723,
       "category": "행정/랜드마크",
       "description": "성주군청은(는) 경상북도 성주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 266.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Seongju-gun_office.JPG/1280px-Seongju-gun_office.JPG"
     },
     {
       "name": "성주시장",
-      "lat": 35.9157768,
-      "lng": 128.222938,
+      "lat": 35.9150253,
+      "lng": 128.285479,
       "category": "시장/먹거리",
       "description": "성주시장은(는) 경상북도 성주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 270.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Seongju-gun_office.JPG/1280px-Seongju-gun_office.JPG"
     },
     {
       "name": "가야산",
@@ -42,15 +60,27 @@
       "lng": 128.1205916,
       "category": "산/국립공원",
       "description": "가야산은(는) 경상북도 성주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%95%BC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%95%BC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 41.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/GayaSanghwangbong.jpg"
     },
     {
-      "name": "성주역 상권",
-      "lat": 35.9157768,
-      "lng": 128.222938,
+      "name": "성주버스터미널",
+      "lat": 35.917007,
+      "lng": 128.285316,
       "category": "상권/교통",
-      "description": "성주역 상권은(는) 경상북도 성주군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0"
+      "description": "성주버스터미널은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Seongju_Bus_Terminal.JPG/1280px-Seongju_Bus_Terminal.JPG"
     }
   ],
   "history_summary": "성주군은 참외의 고장으로 유명하며 세종대왕자태실과 가야산이 자리한 경북 남부의 군이다.",
