@@ -117,6 +117,43 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "자갈치시장",
+      "lat": 35.0965,
+      "lng": 129.0348,
+      "specialty": "활어회",
+      "category": "수산물"
+    },
+    {
+      "name": "원조부산족발",
+      "lat": 35.1048,
+      "lng": 129.033,
+      "specialty": "돼지족발",
+      "category": "향토음식"
+    },
+    {
+      "name": "삼진복국",
+      "lat": 35.1007,
+      "lng": 129.0319,
+      "specialty": "복국",
+      "category": "한식"
+    },
+    {
+      "name": "소문진참젓갈",
+      "lat": 35.0969,
+      "lng": 129.0355,
+      "specialty": "참젓갈",
+      "category": "수산물"
+    },
+    {
+      "name": "국제 가마솥밥가",
+      "lat": 35.101794,
+      "lng": 129.028822,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "부산 중구는 개항기 이후 부산의 원도심으로 국제시장과 광복동, 용두산공원이 자리한 부산 상업·관광 중심지다.",
   "data_sources": [
     {
