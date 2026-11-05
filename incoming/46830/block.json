@@ -1,0 +1,73 @@
+{
+  "block_code": "46830",
+  "block_name": "전라남도 영암군",
+  "bbox": [
+    126.356142,
+    34.657155,
+    126.858873,
+    34.946317
+  ],
+  "center": [
+    34.801736,
+    126.607508
+  ],
+  "landmarks": [
+    {
+      "name": "월출산",
+      "lat": 34.7666192,
+      "lng": 126.7040428,
+      "category": "산/국립공원",
+      "description": "월출산은(는) 전라남도 영암군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%B6%9C%EC%82%B0"
+    },
+    {
+      "name": "도갑사",
+      "lat": 34.752163,
+      "lng": 126.6627528,
+      "category": "사찰/문화유산",
+      "description": "도갑사은(는) 전라남도 영암군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EA%B0%91%EC%82%AC"
+    },
+    {
+      "name": "영산호",
+      "lat": 34.779158,
+      "lng": 126.463658,
+      "category": "호수/자연",
+      "description": "영산호은(는) 전라남도 영암군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%82%B0%ED%98%B8"
+    },
+    {
+      "name": "영암군청",
+      "lat": 34.8002341,
+      "lng": 126.6968254,
+      "category": "행정/랜드마크",
+      "description": "영암군청은(는) 전라남도 영암군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%95%94%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "영암시장",
+      "lat": 34.8017361,
+      "lng": 126.60750755000001,
+      "category": "시장/먹거리",
+      "description": "영암시장은(는) 전라남도 영암군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%95%94%EA%B5%B0"
+    }
+  ],
+  "history_summary": "영암군은 월출산과 도갑사, 영산호가 자리한 전남 서남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
