@@ -1,0 +1,73 @@
+{
+  "block_code": "48250",
+  "block_name": "경상남도 김해시",
+  "bbox": [
+    128.695543,
+    35.151178,
+    129.014256,
+    35.395112
+  ],
+  "center": [
+    35.273145,
+    128.8549
+  ],
+  "landmarks": [
+    {
+      "name": "봉황공원",
+      "lat": 35.229,
+      "lng": 128.898,
+      "category": "공원/문화유산",
+      "description": "봉황대를 중심으로 조성된 공원으로 가야의 상징 토성이 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%A9%EB%8C%80"
+    },
+    {
+      "name": "국립김해박물관",
+      "lat": 35.234,
+      "lng": 128.876,
+      "category": "박물관/문화",
+      "description": "가야사 전문 국립 박물관으로 가야 문화유산을 전시한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B9%80%ED%95%B4%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "가야테마파크",
+      "lat": 35.224,
+      "lng": 128.886,
+      "category": "테마공원/역사",
+      "description": "철기시대 가야 마을을 재현한 역사 체험 테마 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C"
+    },
+    {
+      "name": "수어촌",
+      "lat": 35.245,
+      "lng": 128.876,
+      "category": "역사/체험",
+      "description": "가야 시대 병영과 수어 시설을 재현한 역사 체험 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C"
+    },
+    {
+      "name": "장유폭포",
+      "lat": 35.1875641,
+      "lng": 128.7721171,
+      "category": "계곡/자연",
+      "description": "장유동에 자리한 폭포와 계곡으로 김해의 대표 자연 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C"
+    }
+  ],
+  "history_summary": "김해시는 가야의 수도 금관가야였던 유서 깊은 도시로 봉황대와 국립김해박물관, 가야테마파크 등 가야 문화유산과 근현대 산업 도시가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
