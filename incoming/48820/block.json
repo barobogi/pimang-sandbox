@@ -115,6 +115,29 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "고성 할매집",
+      "lat": 34.999597,
+      "lng": 128.326442,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "고성 옛맛식당",
+      "lat": 35.000157,
+      "lng": 128.326582,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "고성 솥뚜껑가게",
+      "lat": 35.000297,
+      "lng": 128.325882,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "고성군은 상족암과 공룡박물관, 당항포가 자리한 경남 남해안의 군이다.",
   "data_sources": [
     {
