@@ -18,7 +18,13 @@
       "lng": 127.322,
       "category": "유네스코/왕릉",
       "description": "세종대왕과 소헌왕후의 왕릉으로 유네스코 세계유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 91.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Korea_Yeouido_Summer_20140805_11_%2814862134703%29.jpg/1280px-Korea_Yeouido_Summer_20140805_11_%2814862134703%29.jpg"
     },
     {
       "name": "남한강",
@@ -26,7 +32,13 @@
       "lng": 127.597021,
       "category": "하천/자연",
       "description": "여주를 관통하는 대표 강이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 214.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Namhan_River_in_front_of_Yeoju_Library.jpg/1280px-Namhan_River_in_front_of_Yeoju_Library.jpg"
     },
     {
       "name": "신륵사",
@@ -34,7 +46,13 @@
       "lng": 127.654317,
       "category": "사찰/문화유산",
       "description": "유서 깊은 대표 사찰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%A5%B5%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%A5%B5%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 260.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg"
     },
     {
       "name": "여주시청",
@@ -42,7 +60,13 @@
       "lng": 127.6371406,
       "category": "행정/랜드마크",
       "description": "여주시의 행정 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 261.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Yeoju_City_office.jpg"
     },
     {
       "name": "여주시장",
@@ -50,7 +74,13 @@
       "lng": 127.64,
       "category": "시장",
       "description": "여주의 대표 전통시장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Yeoju_City_office.jpg"
     }
   ],
   "history_summary": "경기 여주시는 세종대왕 영릉이 자리한 역사의 고장이자 남한강의 대표 도시이다.",
