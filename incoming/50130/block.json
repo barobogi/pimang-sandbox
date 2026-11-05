@@ -18,7 +18,13 @@
       "lng": 126.9408178,
       "category": "유네스코/자연",
       "description": "바다 속에 솟아오른 분화구 언덕으로 유네스코 세계자연유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 235.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg/1280px-%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD_2019%EB%85%84_%EC%B4%AC%EC%98%81%28%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4%29.jpg"
     },
     {
       "name": "천지연폭포",
@@ -26,7 +32,13 @@
       "lng": 126.5545282,
       "category": "폭포/자연",
       "description": "국내 최고의 폭포로 꼽히는 서귀포 대표 자연 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%A7%80%EC%97%B0%ED%8F%AD%ED%8F%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%A7%80%EC%97%B0%ED%8F%AD%ED%8F%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 113.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg/1280px-Korea-Jeju-Cheonjiyeon_Waterfall-01.jpg"
     },
     {
       "name": "정방폭포",
@@ -34,7 +46,13 @@
       "lng": 126.5715451,
       "category": "폭포/자연",
       "description": "바다로 직접 떨어지는 국내 유일의 해안 폭포다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%A9%ED%8F%AD%ED%8F%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 226.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jeongbang_Waterfall.jpg"
     },
     {
       "name": "주상절리 대포지짐지형",
@@ -42,7 +60,13 @@
       "lng": 126.56,
       "category": "지질/자연",
       "description": "용암이 식으며 만들어진 대형 주상절리로 대표 지질 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 98.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Ilchul-ro%2C_Seongsan-eup%2C_Seogwipo-si%2C_Jeju-do%2C_South_Korea_-_panoramio_-_song_songroov.jpg/1280px-Ilchul-ro%2C_Seongsan-eup%2C_Seogwipo-si%2C_Jeju-do%2C_South_Korea_-_panoramio_-_song_songroov.jpg"
     },
     {
       "name": "외돌개",
@@ -50,7 +74,13 @@
       "lng": 126.5482027,
       "category": "해안/자연",
       "description": "해안 절벽에 서 있는 바위 명소로 서귀포 대표 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 88.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg/1280px-%EC%99%B8%EB%8F%8C%EA%B0%9C.jpg"
     }
   ],
   "history_summary": "서귀포시는 제주도 남부의 관광 도시로 성산일출봉, 천지연폭포, 주상절리 등의 해양·화산 자연 명소가 밀집한 유네스코 생물권보전지역 도시다.",
