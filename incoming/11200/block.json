@@ -1,0 +1,73 @@
+{
+  "block_code": "11200",
+  "block_name": "서울특별시 성동구",
+  "bbox": [
+    127.008302,
+    37.530115,
+    127.073761,
+    37.573016
+  ],
+  "center": [
+    37.551566,
+    127.041032
+  ],
+  "landmarks": [
+    {
+      "name": "서울숲",
+      "lat": 37.5433175,
+      "lng": 127.0332118,
+      "category": "도시공원/생태",
+      "description": "성수동에 조성된 대표적 도시 숲으로 반려견 놀이터와 나무숲, 생태습지가 함께 있는 시민 휴식 공간.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%88%B2"
+    },
+    {
+      "name": "뚝섬한강공원",
+      "lat": 37.5315323,
+      "lng": 127.0667418,
+      "category": "한강공원/체육",
+      "description": "한강 뚝섬지구에 조성된 공원으로 수영장과 주니어 체육시설, 야외무대가 있는 강변 명소.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%9A%9D%EC%84%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "성수대교",
+      "lat": 37.5395967,
+      "lng": 127.0356554,
+      "category": "교통/인프라",
+      "description": "성동구 성수동과 광진구 강변북로를 잇는 한강 교량으로 1994년 붕괴 사고 이후 재건되어 한강 풍경의 상징이 되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EB%8C%80%EA%B5%90"
+    },
+    {
+      "name": "왕십리골목시장",
+      "lat": 37.5627,
+      "lng": 127.038,
+      "category": "전통시장",
+      "description": "왕십리역 인근에 형성된 먹거리 골목시장로 송편과 쫄볶이 등 먹거리로 유명한 재래시장.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%8F%99%EA%B5%AC"
+    },
+    {
+      "name": "성수동 카페거리",
+      "lat": 37.544,
+      "lng": 127.0377,
+      "category": "문화/카페",
+      "description": "옛 신발공장 건물을 개조한 카페와 쇼핑 공간이 모여 젊은 층 문화 명소로 부상한 성수동 거리.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EB%8F%99"
+    }
+  ],
+  "history_summary": "성동구는 조선 시대 한양의 동쪽 외곽에서 왕십리를 중심으로 발달한 구역으로, 한양도성 성곽과 청계천이 지나며 근현대에는 직조공업과 성수동 공장들이 산업의 중심이 되었다가 현재는 서울숲과 성수동 일대가 문화·생태 명소로 재탄생한 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
