@@ -1,0 +1,73 @@
+{
+  "block_code": "46230",
+  "block_name": "전라남도 광양시",
+  "bbox": [
+    127.525198,
+    34.867201,
+    127.797212,
+    35.18378
+  ],
+  "center": [
+    35.025491,
+    127.661205
+  ],
+  "landmarks": [
+    {
+      "name": "백운산",
+      "lat": 35.1063783,
+      "lng": 127.6213246,
+      "category": "산/자연",
+      "description": "해발 1,217m의 광양의 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0"
+    },
+    {
+      "name": "광양만",
+      "lat": 34.91,
+      "lng": 127.57,
+      "category": "해양/만",
+      "description": "남해안의 대표 만으로 컨테이너 항만과 갯벌이 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EB%A7%8C"
+    },
+    {
+      "name": "몽덕해수욕장",
+      "lat": 34.964,
+      "lng": 127.576,
+      "category": "해수욕장",
+      "description": "광양의 대표 해수욕장으로 여름철 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C"
+    },
+    {
+      "name": "포스코 광양제철소",
+      "lat": 34.954,
+      "lng": 127.608,
+      "category": "산업/철강",
+      "description": "세계 최대급 철강 생산 시설로 광양 산업의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94"
+    },
+    {
+      "name": "을족도",
+      "lat": 34.989,
+      "lng": 127.544,
+      "category": "섬/관광",
+      "description": "섬진강 하구의 섬으로 유서 깊은 전쟁 유적과 풍광이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C"
+    }
+  ],
+  "history_summary": "광양시는 광양만과 백운산이 어우러진 전남 동부의 산업·관광 도시로 포스코 광양제철소와 몽덕해수욕장이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
