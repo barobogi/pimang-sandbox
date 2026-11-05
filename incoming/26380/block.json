@@ -18,7 +18,13 @@
       "lng": 129.0087897,
       "category": "문화마을",
       "description": "산복도로에 계단식 집들이 어우러진 대표 벽화 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 184.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg"
     },
     {
       "name": "다대포해수욕장",
@@ -26,7 +32,13 @@
       "lng": 128.9640378,
       "category": "해수욕장",
       "description": "부산 서쪽 끝의 해수욕장으로 낙동강 하구와 맞닿아 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%8C%80%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%8C%80%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 168.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dadaepo_Beach_1.jpg/1280px-Dadaepo_Beach_1.jpg"
     },
     {
       "name": "을숙도",
@@ -34,7 +46,13 @@
       "lng": 128.9409327,
       "category": "생태/공원",
       "description": "낙동강 하구 철새 도래지이자 생태공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 166.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Saha-gu_eulsuk-do.jpg/1280px-Saha-gu_eulsuk-do.jpg"
     },
     {
       "name": "구평공원",
@@ -42,7 +60,13 @@
       "lng": 128.977,
       "category": "공원",
       "description": "사하구 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 175.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Busan_Saha-gu.svg/1280px-Busan_Saha-gu.svg.png"
     },
     {
       "name": "하단동 상권",
@@ -50,7 +74,13 @@
       "lng": 128.972,
       "category": "상권",
       "description": "하단동에 형성된 사하구 최대 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 174.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Busan-saha.png/1280px-Busan-saha.png"
     }
   ],
   "history_summary": "부산 사하구는 감천문화마을과 다대포, 을숙도가 자리한 부산 서부의 해안 구이다.",
