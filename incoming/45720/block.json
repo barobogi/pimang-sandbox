@@ -1,0 +1,73 @@
+{
+  "block_code": "45720",
+  "block_name": "전북특별자치도 진안군",
+  "bbox": [
+    127.265297,
+    35.618696,
+    127.624839,
+    36.029495
+  ],
+  "center": [
+    35.824096,
+    127.445068
+  ],
+  "landmarks": [
+    {
+      "name": "마이산",
+      "lat": 35.7665878,
+      "lng": 127.4145656,
+      "category": "산/자연",
+      "description": "마이산은(는) 전북특별자치도 진안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%EC%82%B0"
+    },
+    {
+      "name": "용담호",
+      "lat": 35.8938091,
+      "lng": 127.4953923,
+      "category": "호수/자연",
+      "description": "용담호은(는) 전북특별자치도 진안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4%ED%98%B8"
+    },
+    {
+      "name": "진안군청",
+      "lat": 35.791663,
+      "lng": 127.424812,
+      "category": "행정/랜드마크",
+      "description": "진안군청은(는) 전북특별자치도 진안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%88%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "진안시장",
+      "lat": 35.824095650000004,
+      "lng": 127.44506815,
+      "category": "시장/먹거리",
+      "description": "진안시장은(는) 전북특별자치도 진안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%88%EA%B5%B0"
+    },
+    {
+      "name": "마이산탑사",
+      "lat": 35.7586197,
+      "lng": 127.4117873,
+      "category": "사찰/문화유산",
+      "description": "마이산탑사은(는) 전북특별자치도 진안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%95%88%EA%B5%B0"
+    }
+  ],
+  "history_summary": "진안군은 마이산과 용담호, 진안고원이 자리한 전북 동부 고원의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
