@@ -18,15 +18,27 @@
       "lng": 128.7092854,
       "category": "산/자연",
       "description": "금성산은(는) 경상북도 의성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%84%B1%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%84%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 315.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%EA%B8%88%EC%84%B1%EC%82%B0.jpg/1280px-%EA%B8%88%EC%84%B1%EC%82%B0.jpg"
     },
     {
       "name": "의성 탑리리 오층석탑",
-      "lat": 36.36045505,
-      "lng": 128.58949265,
+      "lat": 36.2551985,
+      "lng": 128.6838669,
       "category": "국보/문화유산",
       "description": "의성 탑리리 오층석탑은(는) 경상북도 의성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1_%ED%83%91%EB%A6%AC%EB%A6%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1_%ED%83%91%EB%A6%AC%EB%A6%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 324.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg/1280px-Five-story_stone_pagoda_located_in_Tamni-ri%2C_Uiseong.jpg"
     },
     {
       "name": "의성군청",
@@ -34,23 +46,41 @@
       "lng": 128.697176,
       "category": "행정/랜드마크",
       "description": "의성군청은(는) 경상북도 의성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 275.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Uiseong_City_Bus_at_2023.jpg/1280px-Uiseong_City_Bus_at_2023.jpg"
     },
     {
       "name": "의성시장",
-      "lat": 36.36045505,
-      "lng": 128.58949265,
+      "lat": 36.3455515,
+      "lng": 128.6993371,
       "category": "시장/먹거리",
       "description": "의성시장은(는) 경상북도 의성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 279.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/North_Gyeongsang-Uiseong.svg/1280px-North_Gyeongsang-Uiseong.svg.png"
     },
     {
       "name": "조문국박물관",
-      "lat": 36.36045505,
-      "lng": 128.58949265,
+      "lat": 36.2766719,
+      "lng": 128.669229,
       "category": "박물관/역사",
       "description": "조문국박물관은(는) 경상북도 의성군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 322.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/North_Gyeongsang-Uiseong.svg/1280px-North_Gyeongsang-Uiseong.svg.png"
     }
   ],
   "history_summary": "의성군은 마늘의 고장으로 유명하며 금성산과 탑리리 오층석탑이 자리한 경북 중부의 군이다.",
