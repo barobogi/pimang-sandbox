@@ -1,0 +1,73 @@
+{
+  "block_code": "27230",
+  "block_name": "대구광역시 북구",
+  "bbox": [
+    128.504503,
+    35.87371,
+    128.632176,
+    35.988821
+  ],
+  "center": [
+    35.931265,
+    128.56834
+  ],
+  "landmarks": [
+    {
+      "name": "침산공원",
+      "lat": 35.8952276,
+      "lng": 128.5857158,
+      "category": "도시공원",
+      "description": "침산정이 자리한 북구 8경의 대표 공원으로 벚꽃 계단이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "구암동고분군",
+      "lat": 35.913,
+      "lng": 128.543,
+      "category": "사적/고분",
+      "description": "함지산 능선에 379기의 고분이 분포한 국가지정유산 사적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "팔거산성",
+      "lat": 35.9253483,
+      "lng": 128.5686475,
+      "category": "산성/문화유산",
+      "description": "함지산 정상부에 축조된 사적으로 승격된 대표 산성이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "칠곡향교",
+      "lat": 35.9491576,
+      "lng": 128.5511115,
+      "category": "교육/문화유산",
+      "description": "조선 시대 칠곡현의 향교로 대성전이 시 지정문화재다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "구암서원",
+      "lat": 35.8986647,
+      "lng": 128.5988584,
+      "category": "서원/문화유산",
+      "description": "1665년 설립된 서원으로 북구 8경의 대표 선비 문화 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "대구 북구는 침산공원과 구암동고분군, 팔거산성 등 역사와 자연이 함께한 대구 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
