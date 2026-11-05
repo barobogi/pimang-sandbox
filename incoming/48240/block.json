@@ -1,0 +1,73 @@
+{
+  "block_code": "48240",
+  "block_name": "경상남도 사천시",
+  "bbox": [
+    127.878939,
+    34.866215,
+    128.184557,
+    35.158883
+  ],
+  "center": [
+    35.012549,
+    128.031748
+  ],
+  "landmarks": [
+    {
+      "name": "항공우주박물관",
+      "lat": 35.0716828,
+      "lng": 128.0631926,
+      "category": "박물관/과학",
+      "description": "항공우주박물관은(는) 경상남도 사천시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "와룡산",
+      "lat": 34.9808533,
+      "lng": 128.0990438,
+      "category": "산/자연",
+      "description": "와룡산은(는) 경상남도 사천시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%80%EB%A3%A1%EC%82%B0"
+    },
+    {
+      "name": "사천시청",
+      "lat": 35.0036334,
+      "lng": 128.0645331,
+      "category": "행정/랜드마크",
+      "description": "사천시청은(는) 경상남도 사천시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "사천시장",
+      "lat": 35.012549199999995,
+      "lng": 128.031748,
+      "category": "시장/먹거리",
+      "description": "사천시장은(는) 경상남도 사천시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "삼천포항",
+      "lat": 35.012549199999995,
+      "lng": 128.031748,
+      "category": "항구/어촌",
+      "description": "삼천포항은(는) 경상남도 사천시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EC%8B%9C"
+    }
+  ],
+  "history_summary": "사천시는 항공우주박물관과 와룡산, 삼천포항이 자리한 경남 남해안의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
