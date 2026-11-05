@@ -18,7 +18,13 @@
       "lng": 127.1112334,
       "category": "도시공원",
       "description": "상봉역 인근 망우동 일대에 조성된 구름다리와 수련연못이 있는 대형 근린공원.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9A%B0%EB%A6%AC%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9A%B0%EB%A6%AC%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 245.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Seoul_Olympic_Park_from_Lotte_World_Tower.jpg/1280px-Seoul_Olympic_Park_from_Lotte_World_Tower.jpg"
     },
     {
       "name": "봉화산",
@@ -26,7 +32,13 @@
       "lng": 127.086802,
       "category": "산/자연",
       "description": "신내동에 있는 해발 358m의 산으로 암릉과 동양철학공원으로 유명한 주말 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EC%82%B0_%28%EC%84%9C%EC%9A%B8%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EC%82%B0_%28%EC%84%9C%EC%9A%B8%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 158.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/f/f4/%EB%B6%80%EC%97%89%EC%9D%B4%EB%B0%94%EC%9C%84.jpg/1280px-%EB%B6%80%EC%97%89%EC%9D%B4%EB%B0%94%EC%9C%84.jpg"
     },
     {
       "name": "용마랜드",
@@ -34,7 +46,13 @@
       "lng": 127.1055765,
       "category": "테마파크/문화",
       "description": "용마산 자락에 조성된 도시 근교 놀이공원으로 옛 추억의 명소로 재조명받고 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%A7%88%EB%9E%9C%EB%93%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%A7%88%EB%9E%9C%EB%93%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 273.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Yongma_Land_2.jpg/1280px-Yongma_Land_2.jpg"
     },
     {
       "name": "중랑천",
@@ -42,7 +60,13 @@
       "lng": 127.0729079,
       "category": "하천/자연",
       "description": "덕정천과 합류해 한강으로 흘러드는 서울의 지천으로 중랑구를 남북으로 관통한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EB%9E%91%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EB%9E%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 120.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jungnangcheon_meets_Han%2C_seen_from_Donghodaegho.jpg/1280px-Jungnangcheon_meets_Han%2C_seen_from_Donghodaegho.jpg"
     },
     {
       "name": "면목동 먹자골목",
@@ -50,7 +74,13 @@
       "lng": 127.084,
       "category": "전통시장/먹거리",
       "description": "면목동 일대에 형성된 먹거리 시장 골목으로 도농 병존 상권의 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EB%9E%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EB%9E%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 37.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Seoul_Jungnang-gu_Office.jpg/1280px-Seoul_Jungnang-gu_Office.jpg"
     }
   ],
   "history_summary": "중랑구는 중랑천을 따라 형성된 농촌 마을들이 1970년대 이후 주택지로 급성장한 자치구로, 면목동과 상봉동 상권, 용마산과 봉화산의 자연과 함께 도시 근교 특성을 지닌다.",
