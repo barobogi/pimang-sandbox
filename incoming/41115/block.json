@@ -1,0 +1,73 @@
+{
+  "block_code": "41115",
+  "block_name": "경기도 수원시 팔달구",
+  "bbox": [
+    126.977395,
+    37.256475,
+    127.045882,
+    37.293516
+  ],
+  "center": [
+    37.274996,
+    127.011639
+  ],
+  "landmarks": [
+    {
+      "name": "수원 화성행궁",
+      "lat": 37.2821998,
+      "lng": 127.0143835,
+      "category": "행궁/문화유산",
+      "description": "정조 때 화성 행차 때 머물던 대표 행궁이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81"
+    },
+    {
+      "name": "팔달문",
+      "lat": 37.2775815,
+      "lng": 127.0167614,
+      "category": "성문/문화유산",
+      "description": "수원 화성의 동문이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%AC%EB%AC%B8"
+    },
+    {
+      "name": "화홍문",
+      "lat": 37.2875264,
+      "lng": 127.0176036,
+      "category": "성문/문화유산",
+      "description": "수원 화성의 남문이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1"
+    },
+    {
+      "name": "팔달공원",
+      "lat": 37.287,
+      "lng": 127.012,
+      "category": "공원",
+      "description": "팔달산 자락의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%AC%EA%B5%AC"
+    },
+    {
+      "name": "영동시장",
+      "lat": 37.276891,
+      "lng": 127.018664,
+      "category": "시장",
+      "description": "수원 원도심의 대표 전통시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%AC%EA%B5%AC"
+    }
+  ],
+  "history_summary": "수원 팔달구는 수원 화성과 행궁이 자리한 수원 원도심 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
