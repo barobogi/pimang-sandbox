@@ -18,7 +18,13 @@
       "lng": 127.0123687,
       "category": "민속마을/문화유산",
       "description": "돌담과 석탑이 잘 보존된 전통 마을로 중요민속자료로 지정되었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%B8%EC%95%94%EB%AF%BC%EC%86%8D%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%B8%EC%95%94%EB%AF%BC%EC%86%8D%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 335.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Oeam_Folk_Village_2010.JPG/1280px-Oeam_Folk_Village_2010.JPG"
     },
     {
       "name": "온양온천",
@@ -26,7 +32,13 @@
       "lng": 127.0041236,
       "category": "온천/관광",
       "description": "국내 최초의 양재 온천으로 불리는 아산 대표 온천지구다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 299.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg/1280px-1912%EB%85%84_%EC%B6%A9%EB%82%A8_%EC%95%84%EC%82%B0%EC%8B%9C_%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C.jpg"
     },
     {
       "name": "신정호",
@@ -34,7 +46,13 @@
       "lng": 126.9816278,
       "category": "호수/자연",
       "description": "곡교천에 건설된 댐으로 만들어진 호수로 수변 산책로가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A0%95%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A0%95%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 341.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%EC%95%84%EC%82%B0_%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B0%80%EC%9D%84.jpg"
     },
     {
       "name": "곡교천은행나무길",
@@ -42,7 +60,13 @@
       "lng": 127.12,
       "category": "꽃길/계절",
       "description": "가을 천주 폭포? 아니라 은행나무 터널로 유명한 아산 대표 가을 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 272.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Asan_City_Hall.JPG/1280px-Asan_City_Hall.JPG"
     },
     {
       "name": "온양민속박물관",
@@ -50,7 +74,13 @@
       "lng": 127.0078489,
       "category": "박물관/문화",
       "description": "온양온천지구에 위치한 민속 전문 박물관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%96%91%EB%AF%BC%EC%86%8D%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%96%91%EB%AF%BC%EC%86%8D%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 276.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
   "history_summary": "아산시는 온양온천으로 유명한 온천 도시이자 이순신 장군 고향으로 외암민속마을과 신정호, 곡교천 은행나무길 등 문화·자연 명소가 풍부하다.",
