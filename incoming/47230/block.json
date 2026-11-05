@@ -18,7 +18,13 @@
       "lng": 128.7898616,
       "category": "사찰/문화유산",
       "description": "은해사은(는) 경상북도 영천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%80%ED%95%B4%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%80%ED%95%B4%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 82.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg/1280px-%EC%9D%80%ED%95%B4%EC%82%AC_%EA%B7%B9%EB%9D%BD%EB%B3%B4%EC%A0%84.jpg"
     },
     {
       "name": "보현산",
@@ -26,7 +32,13 @@
       "lng": 128.97705,
       "category": "산/자연",
       "description": "보현산은(는) 경상북도 영천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%98%84%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%98%84%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 195.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Landscape_of_Bukhansan_with_colored_leaves_in_September_%28from_southern_side%29-Cropped.jpg/1280px-Landscape_of_Bukhansan_with_colored_leaves_in_September_%28from_southern_side%29-Cropped.jpg"
     },
     {
       "name": "임고서원",
@@ -34,7 +46,13 @@
       "lng": 128.973464,
       "category": "서원/문화유산",
       "description": "임고서원은(는) 경상북도 영천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EA%B3%A0%EC%84%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EA%B3%A0%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 256.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "영천시청",
@@ -42,7 +60,13 @@
       "lng": 128.938887,
       "category": "행정/랜드마크",
       "description": "영천시청은(는) 경상북도 영천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B2%9C%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B2%9C%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 339.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Yeongcheoncityhall.jpg/1280px-Yeongcheoncityhall.jpg"
     },
     {
       "name": "영천시장",
@@ -50,7 +74,12 @@
       "lng": 128.92304775000002,
       "category": "시장/먹거리",
       "description": "영천시장은(는) 경상북도 영천시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B2%9C%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%B2%9C%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 150.0
+      }
     }
   ],
   "history_summary": "영천시는 보현산과 임고서원, 은해사가 자리한 경북 동부의 도시이다.",
