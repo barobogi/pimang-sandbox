@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "산청 옛맛식당",
+      "lat": 35.414416,
+      "lng": 127.876797,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "산청 가마솥밥가",
+      "lat": 35.415186,
+      "lng": 127.875467,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "산청 할매집",
+      "lat": 35.415536,
+      "lng": 127.876097,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "산청군은 지리산과 대원사, 동의보감촌이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
