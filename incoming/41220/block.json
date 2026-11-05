@@ -1,0 +1,73 @@
+{
+  "block_code": "41220",
+  "block_name": "경기도 평택시",
+  "bbox": [
+    126.744,
+    36.897599,
+    127.155969,
+    37.144705
+  ],
+  "center": [
+    37.021152,
+    126.949985
+  ],
+  "landmarks": [
+    {
+      "name": "평택항",
+      "lat": 36.9746308,
+      "lng": 126.8455824,
+      "category": "항구/인프라",
+      "description": "급성장 중인 대형 컨테이너 항만이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%ED%95%AD"
+    },
+    {
+      "name": "평택호수공원",
+      "lat": 36.992,
+      "lng": 127.074,
+      "category": "호수/공원",
+      "description": "평택 도심의 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C"
+    },
+    {
+      "name": "동삭해수욕장",
+      "lat": 36.928,
+      "lng": 126.744,
+      "category": "해수욕장",
+      "description": "평택의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C"
+    },
+    {
+      "name": "캠프험프리스",
+      "lat": 36.967,
+      "lng": 127.066,
+      "category": "군사/기지",
+      "description": "주한 미군의 최대 기지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%BA%A0%ED%94%84%ED%97%98%ED%94%84%EB%A6%AC%EC%8A%A4"
+    },
+    {
+      "name": "평택문화예술회관",
+      "lat": 37.0658241,
+      "lng": 127.0650851,
+      "category": "공연장/문화",
+      "description": "평택의 대표 공연·전시 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%EC%8B%9C"
+    }
+  ],
+  "history_summary": "평택시는 평택항과 캠프험프리스가 함께한 경기 남부의 관문 도시이며 평택항 컨테이너 항만이 성장했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
