@@ -18,7 +18,13 @@
       "lng": 129.3765326,
       "category": "해수욕장/관광",
       "description": "영일만의 푸른 바다와 함께한 포항의 대표 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 319.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%EC%98%81%EC%9D%BC%EB%8C%80%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
     },
     {
       "name": "호미곶",
@@ -26,7 +32,13 @@
       "lng": 129.37255,
       "category": "해안/관광",
       "description": "대한민국 동쪽 끝 해안의 대표 명소로 호미곶 등대가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%AF%B8%EA%B3%B6"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%AF%B8%EA%B3%B6",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 325.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/New_millennium_park.jpg/1280px-New_millennium_park.jpg"
     },
     {
       "name": "한동대학교",
@@ -34,7 +46,13 @@
       "lng": 129.3886111,
       "category": "교육/캠퍼스",
       "description": "포항 북구에 위치한 기독교 정신의 사립 종합대학이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%8F%99%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 302.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/DONGGUK_UNIVERSITY_%ED%8C%94%EC%A0%95%EB%8F%84.jpg/1280px-DONGGUK_UNIVERSITY_%ED%8C%94%EC%A0%95%EB%8F%84.jpg"
     },
     {
       "name": "신포수변공원",
@@ -42,7 +60,13 @@
       "lng": 129.385,
       "category": "수변공원",
       "description": "영일만 수변에 조성된 공원으로 영일만 전망이 좋다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%B6%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%B6%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 317.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Buk-gu_Pohang.PNG/1280px-Buk-gu_Pohang.PNG"
     },
     {
       "name": "오어해변",
@@ -50,7 +74,13 @@
       "lng": 129.506,
       "category": "해변/자연",
       "description": "감포읍 오어리에 자리한 조용한 해변으로 낚시와 가족 나들이 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%B6%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%95%AD%EC%8B%9C_%EB%B6%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 304.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2015%EB%85%84_8%EC%9B%94_3%EC%9D%BC_%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84_%EC%88%9C%EC%B2%9C%EC%8B%9C_%EC%88%9C%EC%B2%9C%EB%A7%8C_%EC%83%81%EB%82%B4%EB%A6%AC_%EC%99%80%EC%98%A8%EB%A7%88%EC%9D%84_%EC%99%80%EC%98%A8%ED%95%B4%EB%B3%80%28%E8%87%A5%E6%BA%AB%E6%B5%B7%E9%82%8A%29.jpg/1280px-2015%EB%85%84_8%EC%9B%94_3%EC%9D%BC_%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84_%EC%88%9C%EC%B2%9C%EC%8B%9C_%EC%88%9C%EC%B2%9C%EB%A7%8C_%EC%83%81%EB%82%B4%EB%A6%AC_%EC%99%80%EC%98%A8%EB%A7%88%EC%9D%84_%EC%99%80%EC%98%A8%ED%95%B4%EB%B3%80%28%E8%87%A5%E6%BA%AB%E6%B5%B7%E9%82%8A%29.jpg"
     }
   ],
   "history_summary": "포항시 북구는 영일만과 영일대해수욕장, 호미곶 등 해양 관광 자원이 풍부한 포항 북부의 구로 한동대학교 등이 자리한다.",
