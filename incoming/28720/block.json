@@ -18,7 +18,13 @@
       "lng": 124.6724295,
       "category": "섬/국립공원",
       "description": "대한민국 최서단의 섬으로 두무진 등 해안 절경이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%B9%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%B9%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 128.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Baekryong_landsat_zoom.jpg"
     },
     {
       "name": "연평도",
@@ -26,7 +32,13 @@
       "lng": 124.6826506,
       "category": "섬/어촌",
       "description": "서해 어장의 중심 섬으로 대표 어촌이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%8F%89%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%8F%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 127.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/20101126-A-3331-FA099.jpg/1280px-20101126-A-3331-FA099.jpg"
     },
     {
       "name": "대청도",
@@ -34,7 +46,13 @@
       "lng": 124.6986399,
       "category": "섬/자연",
       "description": "해안 절경이 아름다운 최서단 대형 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 121.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%EC%A7%80%EB%91%90%EB%A6%AC%ED%95%B4%EB%B3%802.jpg/1280px-%EC%A7%80%EB%91%90%EB%A6%AC%ED%95%B4%EB%B3%802.jpg"
     },
     {
       "name": "덕적도",
@@ -42,7 +60,13 @@
       "lng": 126.1155925,
       "category": "섬/관광",
       "description": "해안 절경과 유서 깊은 등대가 있는 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A0%81%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A0%81%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Neungdong_Jagalmadang.jpg/1280px-Neungdong_Jagalmadang.jpg"
     },
     {
       "name": "자월도",
@@ -50,7 +74,13 @@
       "lng": 126.3055838,
       "category": "섬/관광",
       "description": "아름다운 해변으로 유명한 섬이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9B%94%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9B%94%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 286.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%EC%9E%90%EC%9B%94%EB%8F%84_%28Jawol-Do%29_-_panoramio.jpg"
     }
   ],
   "history_summary": "인천 옹진군은 백령도와 연평도, 대청도 등 서해 5도를 포함한 최서단 군으로 해안 절경과 수산 자원이 풍부하다.",
