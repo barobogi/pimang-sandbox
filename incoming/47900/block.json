@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "회룡포",
-      "lat": 36.6537394,
-      "lng": 128.4361946,
+      "lat": 36.5756035,
+      "lng": 128.3213156,
       "category": "경승지/자연",
       "description": "회룡포은(는) 경상북도 예천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%8C%EB%A3%A1%ED%8F%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%8C%EB%A3%A1%ED%8F%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 49.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hoeryongpo.jpg/1280px-Hoeryongpo.jpg"
     },
     {
       "name": "초간정",
@@ -26,15 +32,27 @@
       "lng": 128.3817699,
       "category": "누정/문화유산",
       "description": "초간정은(는) 경상북도 예천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B0%84%EC%A0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B0%84%EC%A0%95",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 137.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%EC%B4%88%EA%B0%84%EC%A0%95.jpg/1280px-%EC%B4%88%EA%B0%84%EC%A0%95.jpg"
     },
     {
       "name": "예천천문우주센터",
-      "lat": 36.6537394,
-      "lng": 128.4361946,
+      "lat": 36.7013187,
+      "lng": 128.504848,
       "category": "과학/천문",
       "description": "예천천문우주센터은(는) 경상북도 예천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 229.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yecheon-gun_office.JPG/1280px-Yecheon-gun_office.JPG"
     },
     {
       "name": "예천군청",
@@ -42,15 +60,27 @@
       "lng": 128.4373911,
       "category": "행정/랜드마크",
       "description": "예천군청은(는) 경상북도 예천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 352.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yecheon-gun_office.JPG/1280px-Yecheon-gun_office.JPG"
     },
     {
       "name": "예천시장",
-      "lat": 36.6537394,
-      "lng": 128.4361946,
+      "lat": 36.6541236,
+      "lng": 128.450112,
       "category": "시장/먹거리",
       "description": "예천시장은(는) 경상북도 예천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yecheon-gun_office.JPG/1280px-Yecheon-gun_office.JPG"
     }
   ],
   "history_summary": "예천군은 회룡포와 초간정, 예천천문우주센터가 자리한 경북 중서부의 군이다.",
