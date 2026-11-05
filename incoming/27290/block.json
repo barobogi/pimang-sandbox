@@ -1,0 +1,73 @@
+{
+  "block_code": "27290",
+  "block_name": "대구광역시 달서구",
+  "bbox": [
+    128.46854,
+    35.772382,
+    128.588137,
+    35.869396
+  ],
+  "center": [
+    35.820889,
+    128.528339
+  ],
+  "landmarks": [
+    {
+      "name": "성당공원",
+      "lat": 35.827,
+      "lng": 128.54,
+      "category": "공원/문화",
+      "description": "달서구 성당동에 조성된 대표 근린공원으로 대구 시민 휴식 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+    },
+    {
+      "name": "이약산",
+      "lat": 35.81,
+      "lng": 128.52,
+      "category": "산/자연",
+      "description": "달서구에 자리한 낮은 산으로 도심 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+    },
+    {
+      "name": "달서공원",
+      "lat": 35.81,
+      "lng": 128.54,
+      "category": "도시공원",
+      "description": "달서구 조련? 아니라 달서 일대에 조성된 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+    },
+    {
+      "name": "상인락공원",
+      "lat": 35.795,
+      "lng": 128.53,
+      "category": "근린공원",
+      "description": "상인동 일대에 조성된 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+    },
+    {
+      "name": "감삼공원",
+      "lat": 35.82,
+      "lng": 128.53,
+      "category": "근린공원",
+      "description": "감삼동에 조성된 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%9C%EA%B5%AC"
+    }
+  ],
+  "history_summary": "달서구는 대구 서부에 위치한 대규모 주거 도시로 성당공원과 이약산 등의 도심 자연과 함께 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
