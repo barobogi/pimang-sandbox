@@ -107,6 +107,43 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "철원평야 본점",
+      "lat": 38.219103,
+      "lng": 127.492412,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "철원군청 옛맛식당",
+      "lat": 38.146274,
+      "lng": 127.31381,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "고석정 옛맛식당",
+      "lat": 38.185386,
+      "lng": 127.28835,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "한탄강 가마솥밥가",
+      "lat": 38.190335,
+      "lng": 127.286264,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "노동당사 본점",
+      "lat": 38.239524,
+      "lng": 127.205541,
+      "specialty": "산채정식",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
