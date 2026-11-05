@@ -1,0 +1,73 @@
+{
+  "block_code": "26500",
+  "block_name": "부산광역시 수영구",
+  "bbox": [
+    129.093588,
+    35.135394,
+    129.173,
+    35.184263
+  ],
+  "center": [
+    35.159828,
+    129.133294
+  ],
+  "landmarks": [
+    {
+      "name": "광안리해수욕장",
+      "lat": 35.1508879,
+      "lng": 129.1167806,
+      "category": "해수욕장/관광",
+      "description": "부산 대표 해수욕장으로 광안대교 야경과 부산 불꽃축제로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%95%88%EB%A6%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "수영사적공원",
+      "lat": 35.1711152,
+      "lng": 129.1140212,
+      "category": "공원/역사",
+      "description": "조선 시대 수영 진영 터에 조성된 사적 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%98%81%EA%B5%AC"
+    },
+    {
+      "name": "민락수변공원",
+      "lat": 35.163,
+      "lng": 129.173,
+      "category": "수변공원",
+      "description": "민락동 해안에 조성된 수변 공원으로 해변 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%98%81%EA%B5%AC"
+    },
+    {
+      "name": "황령산",
+      "lat": 35.1468554,
+      "lng": 129.1023374,
+      "category": "산/자연",
+      "description": "수성구와 수영구 경계에 자리한 산으로 대구? 아니라 부산 도심 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%A0%B9%EC%82%B0"
+    },
+    {
+      "name": "광안대교",
+      "lat": 35.1538235,
+      "lng": 129.136131,
+      "category": "교량/랜드마크",
+      "description": "광안리 해안을 지나는 해상 교량으로 야경 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%95%88%EB%8C%80%EA%B5%90"
+    }
+  ],
+  "history_summary": "수영구는 조선 시대 동래부 수영 진영이 있던 유서 깊은 지역으로 광안리해수욕장과 수영사적공원, 황령산 등이 함께한 부산 남부의 해안 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
