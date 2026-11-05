@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "대덕 자연 힐링 시그니처 에어리얼 투어",
+      "description": "회덕향교 → 동춘당 → 계족산황토길 → 대청호 → 신탄진역 순으로 이어지는 대전광역시 대덕구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "회덕향교",
+        "동춘당",
+        "계족산황토길",
+        "대청호",
+        "신탄진역"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "대덕 산하 절경 에어리얼 투어",
+      "description": "계족산황토길 → 동춘당 → 대청호 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 대덕의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "계족산황토길",
+        "동춘당",
+        "대청호"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "대전 대덕구는 계족산과 대청호가 자리한 대전 북부의 구로 동춘당과 계족산황토길 등 역사·자연 명소가 함께한다.",
   "data_sources": [
     {
