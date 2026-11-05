@@ -18,7 +18,13 @@
       "lng": 126.9943705,
       "category": "상권/문화",
       "description": "세계 각국의 음식점과 상점이 모인 국제적 문화 거리이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 251.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Korea-Seoul-Itaewon-Seoul_Central_Mosque-01.jpg"
     },
     {
       "name": "국립중앙박물관",
@@ -26,7 +32,13 @@
       "lng": 126.9803196,
       "category": "박물관/문화",
       "description": "국내 최대 규모의 국립 박물관으로 용산공원 내에 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 4.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1280px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg"
     },
     {
       "name": "전쟁기념관",
@@ -34,7 +46,13 @@
       "lng": 126.9772916,
       "category": "기념관/역사",
       "description": "국내외 전쟁사와 호국 영령을 기리는 기념관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9F%81%EA%B8%B0%EB%85%90%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9F%81%EA%B8%B0%EB%85%90%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 148.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/The_War_Memorial_Of_Korea_240615_02.jpg/1280px-The_War_Memorial_Of_Korea_240615_02.jpg"
     },
     {
       "name": "남산",
@@ -42,7 +60,13 @@
       "lng": 126.9882959,
       "category": "산/도심산",
       "description": "서울 도심의 대표 산으로 N서울타워와 남산둘레길이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%82%B0_%28%EC%84%9C%EC%9A%B8%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%82%B0_%28%EC%84%9C%EC%9A%B8%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 195.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Seoul_Aerial_Shot_13.jpg/1280px-Seoul_Aerial_Shot_13.jpg"
     },
     {
       "name": "해방촌",
@@ -50,7 +74,13 @@
       "lng": 126.9865446,
       "category": "마을/문화",
       "description": "용산의 고지대 마을로 특색 있는 상권이 형성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 213.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Seoul_Yongsan_Haebangchon_20250206.jpg/1280px-Seoul_Yongsan_Haebangchon_20250206.jpg"
     }
   ],
   "history_summary": "용산구는 이태원과 남산, 국립중앙박물관이 자리한 서울 중심부의 자치구로 국제적 문화와 국가 문화시설이 함께한다.",
