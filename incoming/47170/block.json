@@ -18,7 +18,13 @@
       "lng": 128.5180947,
       "category": "유네스코/전통마을",
       "description": "가족 중심 마을과 하회탈로 유명한 유네스코 세계유산 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%ED%9A%8C%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%ED%9A%8C%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 82.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Korea-Andong-Hahoe.Village-02.jpg"
     },
     {
       "name": "도산서원",
@@ -26,7 +32,13 @@
       "lng": 128.8435309,
       "category": "서원/유네스코",
       "description": "퇴계 이황이 세운 서원으로 유네스코 세계유산에 등재되었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EC%84%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 211.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Korea-Andong-Dosan_Seowon_3025-06.JPG"
     },
     {
       "name": "봉정사",
@@ -34,7 +46,13 @@
       "lng": 128.662725,
       "category": "사찰/문화유산",
       "description": "국보 극락전이 있는 유서 깊은 대표 사찰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%EC%A0%95%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%EC%A0%95%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 155.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dharma_Wheel_%282%29.svg/1280px-Dharma_Wheel_%282%29.svg.png"
     },
     {
       "name": "병산서원",
@@ -42,7 +60,13 @@
       "lng": 128.5567718,
       "category": "서원/유네스코",
       "description": "류성룡을 기리는 서원으로 유네스코 세계유산에 등재되었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 82.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg/1280px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg"
     },
     {
       "name": "월영교",
@@ -50,7 +74,13 @@
       "lng": 128.7608879,
       "category": "교량/문화",
       "description": "낙동강 위에 복원된 반월형 목교로 야경으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%98%81%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%98%81%EA%B5%90",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 244.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Woryeong_Bridge_Andong.JPG/1280px-Woryeong_Bridge_Andong.JPG"
     }
   ],
   "history_summary": "안동시는 조선 시대 성리학의 본산이었던 유서 깊은 도시로 하회마을과 도산서원, 병산서원, 봉정사 등 유네스코 세계유산을 품은 경북 북부의 대표 문화 도시다.",
