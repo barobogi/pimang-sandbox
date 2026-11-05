@@ -1,0 +1,73 @@
+{
+  "block_code": "42790",
+  "block_name": "강원특별자치도 화천군",
+  "bbox": [
+    127.430532,
+    37.994287,
+    127.913638,
+    38.288057
+  ],
+  "center": [
+    38.141172,
+    127.672085
+  ],
+  "landmarks": [
+    {
+      "name": "파로호",
+      "lat": 38.1442141,
+      "lng": 127.9081864,
+      "category": "호수/자연",
+      "description": "파로호은(는) 강원특별자치도 화천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%A1%9C%ED%98%B8"
+    },
+    {
+      "name": "화천산천어축제장",
+      "lat": 38.141172,
+      "lng": 127.67208485,
+      "category": "축제/관광",
+      "description": "화천산천어축제장은(는) 강원특별자치도 화천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "name": "화천군청",
+      "lat": 38.1062163,
+      "lng": 127.7082287,
+      "category": "행정/랜드마크",
+      "description": "화천군청은(는) 강원특별자치도 화천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "화천시장",
+      "lat": 38.1043,
+      "lng": 127.705127,
+      "category": "시장/먹거리",
+      "description": "화천시장은(는) 강원특별자치도 화천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0"
+    },
+    {
+      "name": "평화의댐",
+      "lat": 38.2107884,
+      "lng": 127.8457648,
+      "category": "인프라/자연",
+      "description": "평화의댐은(는) 강원특별자치도 화천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%99%94%EC%9D%98%EB%8C%90"
+    }
+  ],
+  "history_summary": "화천군은 파로호와 화천어죽, 산천어축제로 유명한 강원 영서 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
