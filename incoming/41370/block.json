@@ -18,7 +18,13 @@
       "lng": 127.054,
       "category": "역사/공원",
       "description": "6·25 전쟁 오산 전투를 기리는 대표 전적 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0_%EC%A0%84%ED%88%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0_%EC%A0%84%ED%88%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 341.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg/1280px-20251101_Osan_%EC%BF%A0%ED%82%A4%EB%AA%AC%EC%8A%A4%ED%84%B0_34.jpg"
     },
     {
       "name": "세교지구",
@@ -26,7 +32,13 @@
       "lng": 127.076,
       "category": "신도시",
       "description": "오산 남부의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 269.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Osan_city.jpg"
     },
     {
       "name": "오산시청",
@@ -34,7 +46,13 @@
       "lng": 127.077485,
       "category": "행정/랜드마크",
       "description": "오산시의 행정 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 300.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Osan_city.jpg"
     },
     {
       "name": "오산문화예술회관",
@@ -42,7 +60,13 @@
       "lng": 127.067,
       "category": "공연장/문화",
       "description": "오산의 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 314.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Osan_city.jpg"
     },
     {
       "name": "오산동 상권",
@@ -50,7 +74,13 @@
       "lng": 127.065,
       "category": "상권",
       "description": "오산동에 형성된 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 316.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Osan_city.jpg"
     }
   ],
   "history_summary": "오산시는 오산 전투 기념지와 세교지구가 함께한 경기 남부의 도시이다.",
