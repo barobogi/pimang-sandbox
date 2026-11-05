@@ -18,7 +18,13 @@
       "lng": 127.8280553,
       "category": "테마마을/관광",
       "description": "동의보감촌은(는) 경상남도 산청군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%B2%AD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%B2%AD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 124.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Panoramic_view_of_Sancheong-eup.jpg/1280px-Panoramic_view_of_Sancheong-eup.jpg"
     },
     {
       "name": "대원사",
@@ -26,7 +32,13 @@
       "lng": 127.8067613,
       "category": "사찰/문화유산",
       "description": "대원사은(는) 경상남도 산청군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9B%90%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9B%90%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 61.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/%EB%8C%80%EC%9B%90%EC%82%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A7%B5.jpg"
     },
     {
       "name": "지리산",
@@ -34,7 +46,13 @@
       "lng": 127.821841,
       "category": "산/국립공원",
       "description": "지리산은(는) 경상남도 산청군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 32.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/1280px-Korea-Mountain-Jirisan-15.jpg"
     },
     {
       "name": "산청군청",
@@ -42,7 +60,13 @@
       "lng": 127.8734727,
       "category": "행정/랜드마크",
       "description": "산청군청은(는) 경상남도 산청군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%B2%AD%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%B2%AD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 127.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Panoramic_view_of_Sancheong-eup.jpg/1280px-Panoramic_view_of_Sancheong-eup.jpg"
     },
     {
       "name": "산청시장",
@@ -50,7 +74,13 @@
       "lng": 127.8761674,
       "category": "시장/먹거리",
       "description": "산청시장은(는) 경상남도 산청군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%B2%AD%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%B2%AD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 129.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/c/c8/%EC%82%B0%EC%B2%AD%ED%84%B0%EB%AF%B8%EB%84%90.jpg"
     }
   ],
   "history_summary": "산청군은 지리산과 대원사, 동의보감촌이 자리한 경남 서부의 군이다.",
