@@ -1,0 +1,73 @@
+{
+  "block_code": "46880",
+  "block_name": "전라남도 장성군",
+  "bbox": [
+    126.583317,
+    35.190945,
+    126.926122,
+    35.486914
+  ],
+  "center": [
+    35.338929,
+    126.754719
+  ],
+  "landmarks": [
+    {
+      "name": "축령산",
+      "lat": 35.3675208,
+      "lng": 126.7279148,
+      "category": "산/편백숲",
+      "description": "축령산은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%95%EB%A0%B9%EC%82%B0"
+    },
+    {
+      "name": "백양사",
+      "lat": 35.4317191,
+      "lng": 126.80776,
+      "category": "사찰/문화유산",
+      "description": "백양사은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%96%91%EC%82%AC"
+    },
+    {
+      "name": "홍길동생가",
+      "lat": 35.33892915,
+      "lng": 126.75471915,
+      "category": "유적/역사",
+      "description": "홍길동생가은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0"
+    },
+    {
+      "name": "장성군청",
+      "lat": 35.3019292,
+      "lng": 126.7847845,
+      "category": "행정/랜드마크",
+      "description": "장성군청은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "장성시장",
+      "lat": 35.33892915,
+      "lng": 126.75471915,
+      "category": "시장/먹거리",
+      "description": "장성시장은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0"
+    }
+  ],
+  "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
