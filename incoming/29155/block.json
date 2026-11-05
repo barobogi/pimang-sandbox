@@ -18,7 +18,13 @@
       "lng": 126.9262132,
       "category": "교육/캠퍼스",
       "description": "광주의 대표 사립대학이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 241.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Chosun_University_Main_Building_%28center%29.jpg"
     },
     {
       "name": "백운공원",
@@ -26,7 +32,13 @@
       "lng": 126.912,
       "category": "공원",
       "description": "남구 백운동의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 249.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg/1280px-%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg"
     },
     {
       "name": "월봉로 상권",
@@ -34,7 +46,13 @@
       "lng": 126.917,
       "category": "상권",
       "description": "월봉로 일대의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 237.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%EC%B2%9C%EC%95%88%EC%9B%94%EB%B4%89%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90_20200522_171129.jpg/1280px-%EC%B2%9C%EC%95%88%EC%9B%94%EB%B4%89%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90_20200522_171129.jpg"
     },
     {
       "name": "남광주역 상권",
@@ -42,7 +60,13 @@
       "lng": 126.906,
       "category": "상권",
       "description": "남광주역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 247.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gwangju_Nam-gu_Office.jpg/1280px-Gwangju_Nam-gu_Office.jpg"
     },
     {
       "name": "증심사",
@@ -50,7 +74,13 @@
       "lng": 126.9272586,
       "category": "사찰",
       "description": "무등산의 대표 사찰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%EC%8B%AC%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%EC%8B%AC%EC%82%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 245.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%EC%A6%9D%EC%8B%AC%EC%82%AC_%EC%A0%84%EA%B2%BD.JPG/1280px-%EC%A6%9D%EC%8B%AC%EC%82%AC_%EC%A0%84%EA%B2%BD.JPG"
     }
   ],
   "history_summary": "광주 남구는 조선대학교와 백운공원이 자리한 광주 남부의 교육 주거 구이다.",
