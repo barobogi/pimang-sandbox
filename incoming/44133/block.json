@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "두정동 상권",
-      "lat": 36.878988,
-      "lng": 127.18143315,
+      "lat": 36.8325085,
+      "lng": 127.1356941,
       "category": "상권",
       "description": "두정동 상권은(는) 충청남도 천안시 서북구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B6%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B6%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 38.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seobuk-gu_office.JPG/1280px-Seobuk-gu_office.JPG"
     },
     {
       "name": "성거산",
@@ -26,7 +32,13 @@
       "lng": 127.2268322,
       "category": "산/자연",
       "description": "성거산은(는) 충청남도 천안시 서북구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EA%B1%B0%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EA%B1%B0%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 307.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "천안종합운동장",
@@ -34,7 +46,13 @@
       "lng": 127.1127816,
       "category": "체육/경기장",
       "description": "천안종합운동장은(는) 충청남도 천안시 서북구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%95%88%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%95%88%EC%A2%85%ED%95%A9%EC%9A%B4%EB%8F%99%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 41.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cheonan_Stadium.JPG/1280px-Cheonan_Stadium.JPG"
     },
     {
       "name": "서북구청",
@@ -42,15 +60,27 @@
       "lng": 127.1550727,
       "category": "행정/랜드마크",
       "description": "서북구청은(는) 충청남도 천안시 서북구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B6%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B6%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 88.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seobuk-gu_office.JPG/1280px-Seobuk-gu_office.JPG"
     },
     {
       "name": "천안시립미술관",
-      "lat": 36.878988,
-      "lng": 127.18143315,
+      "lat": 36.7564953,
+      "lng": 127.226217,
       "category": "미술관/문화",
       "description": "천안시립미술관은(는) 충청남도 천안시 서북구의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B6%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B6%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 343.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seobuk-gu_office.JPG/1280px-Seobuk-gu_office.JPG"
     }
   ],
   "history_summary": "천안 서북구는 천안 서부의 구로 성환? 아니라 성거산과 두정동 상권, 안서? 아니라 천안종합운동장이 자리한 지역이다.",
