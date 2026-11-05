@@ -18,7 +18,13 @@
       "lng": 127.044,
       "category": "산/자연",
       "description": "은평구와 노원구 경계의 산으로 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EC%95%94%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EC%95%94%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 250.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Buram_Mountain_Peak.JPG/1280px-Buram_Mountain_Peak.JPG"
     },
     {
       "name": "북한산국립공원",
@@ -26,7 +32,13 @@
       "lng": 127.015,
       "category": "국립공원",
       "description": "은평구 북쪽 경계에 걸친 국내 유수 국립공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%ED%95%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%ED%95%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 224.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Insoo_peak.jpg/1280px-Insoo_peak.jpg"
     },
     {
       "name": "연신내",
@@ -34,7 +46,13 @@
       "lng": 126.920858,
       "category": "상권/번화가",
       "description": "은평구 최대 상업 번화가이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%8B%A0%EB%82%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%8B%A0%EB%82%B4",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 93.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bulgwangcheon_20230403_015.jpg/1280px-Bulgwangcheon_20230403_015.jpg"
     },
     {
       "name": "은평한옥마을",
@@ -42,7 +60,13 @@
       "lng": 126.9391281,
       "category": "한옥/마을",
       "description": "서부 서울에 조성된 전통 한옥 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%80%ED%8F%89%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%80%ED%8F%89%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 140.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Eunpyeong_Hanok_Village_20200920_002.jpg/1280px-Eunpyeong_Hanok_Village_20200920_002.jpg"
     },
     {
       "name": "진관사",
@@ -50,7 +74,13 @@
       "lng": 126.9465455,
       "category": "사찰/문화유산",
       "description": "진관동에 자리한 유서 깊은 사찰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EA%B4%80%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EA%B4%80%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 147.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Jinkwansa_20220725_025.jpg/1280px-Jinkwansa_20220725_025.jpg"
     }
   ],
   "history_summary": "은평구는 불암산과 북한산 사이에 자리한 서울 북서부 자치구로 연신내 상권과 은평 한옥마을이 함께한다.",
