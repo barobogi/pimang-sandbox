@@ -18,7 +18,13 @@
       "lng": 127.8991792,
       "category": "공원/문화",
       "description": "충주호 기슭에 조성된 대형 공원으로 전국체육대회 개최지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 343.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png/1280px-%ED%83%84%EA%B8%88%EB%8C%80%EA%B3%B5%EC%9B%90.png"
     },
     {
       "name": "충주중앙탑",
@@ -26,7 +32,13 @@
       "lng": 127.951,
       "category": "문화유산/국보",
       "description": "고려 시대 국보로 지정된 대표 석탑으로 중원문화권의 상징이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 305.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg/1280px-%EC%B6%A9%EC%A3%BC_%ED%83%91%ED%8F%89%EB%A6%AC_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91_01.jpg"
     },
     {
       "name": "월악산",
@@ -34,7 +46,13 @@
       "lng": 128.1193168,
       "category": "산/국립공원",
       "description": "해발 1,097m의 충북 대표 산으로 월악산국립공원이 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 308.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Mount_Worak_Korea_242.jpg/1280px-Mount_Worak_Korea_242.jpg"
     },
     {
       "name": "충주댐",
@@ -42,7 +60,13 @@
       "lng": 127.9926155,
       "category": "댐/인프라",
       "description": "남한강에 건설된 대형 다목적 댐으로 충주호를 만들었다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC%EB%8C%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC%EB%8C%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 269.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Chungju_Dam.JPG/1280px-Chungju_Dam.JPG"
     },
     {
       "name": "충주호",
@@ -50,7 +74,13 @@
       "lng": 128.0056412,
       "category": "호수/관광",
       "description": "충주댐 건설로 만들어진 대형 인공 호수로 국내 대표 수상 레저 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%A3%BC%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 285.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chungjuho_Lake.jpg/1280px-Chungjuho_Lake.jpg"
     }
   ],
   "history_summary": "충주시는 삼국 시대 국원 소경이었던 충주의 옛 중심으로 충주호와 탄금대, 월악산 국립공원 등 자연 명소와 중앙탑 등 유적이 함께한 충북 대표 관광 도시다.",
