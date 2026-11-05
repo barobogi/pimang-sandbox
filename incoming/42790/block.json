@@ -18,7 +18,13 @@
       "lng": 127.9081864,
       "category": "호수/자연",
       "description": "파로호은(는) 강원특별자치도 화천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%A1%9C%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%A1%9C%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 269.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pa_Ro_Ho_Stele_in_Korea.jpg"
     },
     {
       "name": "화천산천어축제장",
@@ -26,7 +32,13 @@
       "lng": 127.67208485,
       "category": "축제/관광",
       "description": "화천산천어축제장은(는) 강원특별자치도 화천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 90.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Oncorhynchus_masou_masou%2C_Danyang.jpg/1280px-Oncorhynchus_masou_masou%2C_Danyang.jpg"
     },
     {
       "name": "화천군청",
@@ -34,7 +46,13 @@
       "lng": 127.7082287,
       "category": "행정/랜드마크",
       "description": "화천군청은(는) 강원특별자치도 화천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 320.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Panoramic_view_of_Hwacheon-eup.jpg/1280px-Panoramic_view_of_Hwacheon-eup.jpg"
     },
     {
       "name": "화천시장",
@@ -42,7 +60,13 @@
       "lng": 127.705127,
       "category": "시장/먹거리",
       "description": "화천시장은(는) 강원특별자치도 화천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 324.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Panoramic_view_of_Hwacheon-eup.jpg/1280px-Panoramic_view_of_Hwacheon-eup.jpg"
     },
     {
       "name": "평화의댐",
@@ -50,7 +74,13 @@
       "lng": 127.8457648,
       "category": "인프라/자연",
       "description": "평화의댐은(는) 강원특별자치도 화천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%99%94%EC%9D%98%EB%8C%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%99%94%EC%9D%98%EB%8C%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 243.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Peace_Dam.jpg/1280px-Peace_Dam.jpg"
     }
   ],
   "history_summary": "화천군은 파로호와 화천어죽, 산천어축제로 유명한 강원 영서 북부의 군이다.",
