@@ -1,0 +1,73 @@
+{
+  "block_code": "47840",
+  "block_name": "경상북도 성주군",
+  "bbox": [
+    128.046942,
+    35.775654,
+    128.398934,
+    36.055899
+  ],
+  "center": [
+    35.915777,
+    128.222938
+  ],
+  "landmarks": [
+    {
+      "name": "세종대왕자태실",
+      "lat": 35.9743171,
+      "lng": 128.2866588,
+      "category": "유적/문화유산",
+      "description": "세종대왕자태실은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4"
+    },
+    {
+      "name": "성주군청",
+      "lat": 35.919224,
+      "lng": 128.2830723,
+      "category": "행정/랜드마크",
+      "description": "성주군청은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "성주시장",
+      "lat": 35.9157768,
+      "lng": 128.222938,
+      "category": "시장/먹거리",
+      "description": "성주시장은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0"
+    },
+    {
+      "name": "가야산",
+      "lat": 35.8235606,
+      "lng": 128.1205916,
+      "category": "산/국립공원",
+      "description": "가야산은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%95%BC%EC%82%B0"
+    },
+    {
+      "name": "성주역 상권",
+      "lat": 35.9157768,
+      "lng": 128.222938,
+      "category": "상권/교통",
+      "description": "성주역 상권은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0"
+    }
+  ],
+  "history_summary": "성주군은 참외의 고장으로 유명하며 세종대왕자태실과 가야산이 자리한 경북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
