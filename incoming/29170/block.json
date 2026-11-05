@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "전남대학교 옛맛식당",
+      "lat": 35.1767,
+      "lng": 126.906473,
+      "specialty": "양념통닭",
+      "category": "향토음식"
+    },
+    {
+      "name": "전라감영공원 동네밥집",
+      "lat": 35.15821,
+      "lng": 126.90779,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "청움공원 솥뚜껑가게",
+      "lat": 35.16458,
+      "lng": 126.9007,
+      "specialty": "오리탕",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "광주 북구는 전남대학교와 양림동 역사문화마을이 자리한 광주 북부의 구이다.",
   "data_sources": [
     {
