@@ -1,0 +1,73 @@
+{
+  "block_code": "26200",
+  "block_name": "부산광역시 영도구",
+  "bbox": [
+    129.028076,
+    34.949438,
+    129.174114,
+    35.105324
+  ],
+  "center": [
+    35.027381,
+    129.101095
+  ],
+  "landmarks": [
+    {
+      "name": "흰여울문화마을",
+      "lat": 35.0773961,
+      "lng": 129.0456513,
+      "category": "문화마을",
+      "description": "흰 여울과 벽화가 어우러진 대표 문화 벽화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%B0%EC%97%AC%EC%9A%B8%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84"
+    },
+    {
+      "name": "태종대",
+      "lat": 35.0646325,
+      "lng": 129.0789944,
+      "category": "해안/관광",
+      "description": "영도 최남단의 해안 절경으로 유명한 대표 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%A2%85%EB%8C%80"
+    },
+    {
+      "name": "봉래산",
+      "lat": 35.0825399,
+      "lng": 129.0551734,
+      "category": "산/자연",
+      "description": "영도의 진산으로 태종대와 함께한 도심 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%EB%9E%98%EC%82%B0_%28%EB%B6%80%EC%82%B0%29"
+    },
+    {
+      "name": "현대미포조선소",
+      "lat": 35.074,
+      "lng": 129.066,
+      "category": "산업/조선",
+      "description": "영도 미포에 자리한 대표 조선소로 부산 조선 산업의 거점이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%84%EA%B5%AC"
+    },
+    {
+      "name": "영도대교",
+      "lat": 35.0955299,
+      "lng": 129.0364699,
+      "category": "교량/문화",
+      "description": "영도와 본토를 잇는 옛 개착식 교량이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%8F%84%EB%8C%80%EA%B5%90"
+    }
+  ],
+  "history_summary": "부산 영도구는 영도섬을 중심으로 한 구로 태종대와 흰여울문화마을, 옛 항만 문화가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
