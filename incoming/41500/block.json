@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "이천역 상권 할매집",
+      "lat": 37.24328,
+      "lng": 127.44249,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "이천도자기마을 동네밥집",
+      "lat": 37.26456,
+      "lng": 127.47807,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "복하천 솥뚜껑가게",
+      "lat": 37.257678,
+      "lng": 127.450041,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "이천시는 이천쌀과 도자기로 유명한 경기 동부의 도시이며 설봉산이 대표 명소다.",
   "data_sources": [
     {
