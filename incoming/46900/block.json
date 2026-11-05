@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "진도 동네밥집",
+      "lat": 34.481624,
+      "lng": 126.264096,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "진도 골목식당",
+      "lat": 34.481624,
+      "lng": 126.264236,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "진도 솥뚜껑가게",
+      "lat": 34.482044,
+      "lng": 126.265146,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "진도군은 진도대교와 운림산방, 진도개로 유명한 전남 서남단의 섬 군이다.",
   "data_sources": [
     {
