@@ -107,6 +107,36 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "서산 솥뚜껑가게",
+      "lat": 36.782466,
+      "lng": 126.45611,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "서산 본점",
+      "lat": 36.782676,
+      "lng": 126.45555,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "서산 골목식당",
+      "lat": 36.783096,
+      "lng": 126.45555,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "서산 동네밥집",
+      "lat": 36.782466,
+      "lng": 126.45632,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "서산시는 서산마애삼존불과 해미읍성, 간척지 농업이 어우러진 충남 서북부의 도시이다.",
   "data_sources": [
     {
