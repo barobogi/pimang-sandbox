@@ -18,7 +18,13 @@
       "lng": 129.428,
       "category": "해안/공원",
       "description": "동해 해안 절벽의 대왕암이 유명한 대표 해안 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 36.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/1280px-KU-Dwa2.jpg"
     },
     {
       "name": "일산해수욕장",
@@ -26,7 +32,13 @@
       "lng": 129.42,
       "category": "해수욕장",
       "description": "대왕암공원과 함께한 울산의 대표 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 38.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Buk-gu_ULSAN.PNG"
     },
     {
       "name": "강동 풍력발전단지",
@@ -34,7 +46,13 @@
       "lng": 129.44,
       "category": "해상풍력/관광",
       "description": "강동해안의 해상 풍력발전기 군집이 관광 명소로 꼽힌다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 36.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Guinemi_Village_Taebaek_City_20260713_%2810%29.jpg/1280px-Guinemi_Village_Taebaek_City_20260713_%2810%29.jpg"
     },
     {
       "name": "달천천 수변공원",
@@ -42,7 +60,13 @@
       "lng": 129.376,
       "category": "수변공원",
       "description": "달천천을 따라 조성된 수변 공원으로 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 76.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Buk-gu_ULSAN.PNG"
     },
     {
       "name": "연암공원",
@@ -50,7 +74,13 @@
       "lng": 129.362,
       "category": "근린공원",
       "description": "연암동 일대에 조성된 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 80.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Buk-gu_ULSAN.PNG"
     }
   ],
   "history_summary": "울산 북구는 울산의 북부 구로 대왕암공원과 일산해수욕장 등 동해 해안 명소가 자리한다.",
