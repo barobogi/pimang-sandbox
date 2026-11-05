@@ -1,0 +1,73 @@
+{
+  "block_code": "46840",
+  "block_name": "전라남도 무안군",
+  "bbox": [
+    126.233253,
+    34.768472,
+    126.556998,
+    35.173247
+  ],
+  "center": [
+    34.97086,
+    126.395126
+  ],
+  "landmarks": [
+    {
+      "name": "회산백련지",
+      "lat": 34.970859649999994,
+      "lng": 126.3951259,
+      "category": "연못/자연",
+      "description": "회산백련지은(는) 전라남도 무안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%88%EA%B5%B0"
+    },
+    {
+      "name": "무안공항",
+      "lat": 34.9912802,
+      "lng": 126.3841405,
+      "category": "교통/항공",
+      "description": "무안공항은(는) 전라남도 무안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%88%EA%B3%B5%ED%95%AD"
+    },
+    {
+      "name": "초의선사유적지",
+      "lat": 34.854434,
+      "lng": 126.4162,
+      "category": "유적/역사",
+      "description": "초의선사유적지은(는) 전라남도 무안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%88%EA%B5%B0"
+    },
+    {
+      "name": "무안군청",
+      "lat": 34.9904562,
+      "lng": 126.4817074,
+      "category": "행정/랜드마크",
+      "description": "무안군청은(는) 전라남도 무안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%88%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "무안시장",
+      "lat": 34.970859649999994,
+      "lng": 126.3951259,
+      "category": "시장/먹거리",
+      "description": "무안시장은(는) 전라남도 무안군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%88%EA%B5%B0"
+    }
+  ],
+  "history_summary": "무안군은 회산백련지와 목포공항, 초의선사 유적이 자리한 전남 서남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
