@@ -18,7 +18,12 @@
       "lng": 128.985,
       "category": "생태/공원",
       "description": "낙동강 변에 조성된 대형 생태공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EB%9D%BD%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EB%9D%BD%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 60.7
+      }
     },
     {
       "name": "사상역 상권",
@@ -26,7 +31,13 @@
       "lng": 128.993,
       "category": "상권",
       "description": "사상역 중심의 대표 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 218.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Busan-subway-227-Sasang-station-5-entrance.jpg/1280px-Busan-subway-227-Sasang-station-5-entrance.jpg"
     },
     {
       "name": "하단에코랜드",
@@ -34,7 +45,13 @@
       "lng": 128.975,
       "category": "생태/공원",
       "description": "낙동강 하구 생태 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 90.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Sasang-gu_eomgung_view.jpg/1280px-Sasang-gu_eomgung_view.jpg"
     },
     {
       "name": "괴정동 상권",
@@ -42,7 +59,13 @@
       "lng": 129.001,
       "category": "상권",
       "description": "괴정동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 322.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Busan-saha.png/1280px-Busan-saha.png"
     },
     {
       "name": "모라동 상권",
@@ -50,7 +73,13 @@
       "lng": 129.0,
       "category": "상권",
       "description": "모라동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 218.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Sasang-gu_eomgung_view.jpg/1280px-Sasang-gu_eomgung_view.jpg"
     }
   ],
   "history_summary": "부산 사상구는 사상역 상권과 삼락생태공원이 함께한 부산 서부의 구이다.",
