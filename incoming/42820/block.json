@@ -18,7 +18,13 @@
       "lng": 128.351642,
       "category": "DMZ/전망대",
       "description": "북측 금강산을 가장 가까이에서 볼 수 있는 고성 대표 전망시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 145.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lake_samilpo_at_Kumgangsan_20020720.jpg"
     },
     {
       "name": "화진포",
@@ -26,7 +32,13 @@
       "lng": 128.4407877,
       "category": "해변/관광",
       "description": "동해 최북단의 모래사장으로 화진포전망대와 자작나무 숲이 함께한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%A7%84%ED%8F%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%A7%84%ED%8F%AC",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 125.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
     },
     {
       "name": "선인장온천",
@@ -34,7 +46,13 @@
       "lng": 128.4,
       "category": "온천/관광",
       "description": "토성면 일대의 온천 관광지로 선인장 볼 수 있는 온천 시설이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 27.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Misiryeong_SA.jpg/1280px-Misiryeong_SA.jpg"
     },
     {
       "name": "고성수복기념관",
@@ -42,7 +60,13 @@
       "lng": 128.38,
       "category": "역사/기념관",
       "description": "6·25 전쟁 수복의 역사를 전시한 기념관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 38.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Misiryeong_SA.jpg/1280px-Misiryeong_SA.jpg"
     },
     {
       "name": "간성성당",
@@ -50,7 +74,13 @@
       "lng": 128.4661594,
       "category": "종교/문화유산",
       "description": "간성읍에 자리한 한국 천주교 성당으로 동해 지역 초기 전교의 중심지였다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 62.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Misiryeong_SA.jpg/1280px-Misiryeong_SA.jpg"
     }
   ],
   "history_summary": "고성군은 간성이 옛 이름인 강원 동북부의 군으로 금강산전망대와 화진포 등 DMZ·동해 관광 자원과 함께 옛 금강산 관광의 관문이었다.",
