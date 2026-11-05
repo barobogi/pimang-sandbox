@@ -18,7 +18,13 @@
       "lng": 126.9245657,
       "category": "공원/문화",
       "description": "안양의 대표 문화 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%98%88%EC%88%A0%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%98%88%EC%88%A0%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 209.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Anyang_city.jpg"
     },
     {
       "name": "안양역 상권",
@@ -26,7 +32,13 @@
       "lng": 126.956,
       "category": "상권/교통",
       "description": "안양역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 280.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/20230902_Anyang_First_Street_002.jpg/1280px-20230902_Anyang_First_Street_002.jpg"
     },
     {
       "name": "안양천",
@@ -34,7 +46,13 @@
       "lng": 126.9377072,
       "category": "하천/자연",
       "description": "안양의 이름이 된 대표 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 295.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg/1280px-230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg"
     },
     {
       "name": "삼막사",
@@ -42,7 +60,13 @@
       "lng": 126.936168,
       "category": "사찰",
       "description": "삼막산 자락의 사찰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EB%A7%89%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EB%A7%89%EC%82%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 210.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg/1280px-%EC%95%88%EC%96%91_%EC%82%BC%EB%A7%89%EC%82%AC_%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_1.jpg"
     },
     {
       "name": "석수동 상권",
@@ -50,7 +74,13 @@
       "lng": 126.9,
       "category": "상권",
       "description": "석수동에 형성된 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%95%88%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 159.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Seoksu_1-dong_Community_Service_Center.jpg/1280px-Seoksu_1-dong_Community_Service_Center.jpg"
     }
   ],
   "history_summary": "안양 만안구는 안양역 상권과 안양예술공원이 함께한 안양 서부의 구이다.",
