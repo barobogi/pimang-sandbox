@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Panoramic_view_of_Uljin-eup.jpg/1280px-Panoramic_view_of_Uljin-eup.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "울진 도심 하이라이트 시그니처 스카이 투어",
+      "description": "불영사 → 왕피천 → 망양정 → 울진시장 → 울진군청 순으로 이어지는 경상북도 울진군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "불영사",
+        "왕피천",
+        "망양정",
+        "울진시장",
+        "울진군청"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "울진 도심 스카이라인 크루즈",
+      "description": "망양정 → 울진시장 → 울진군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 울진의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "망양정",
+        "울진시장",
+        "울진군청"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
   "history_summary": "울진군은 왕피천과 불영사, 망양정이 자리한 경북 동해안 최북단의 군이다.",
   "data_sources": [
     {
