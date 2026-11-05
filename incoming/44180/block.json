@@ -1,0 +1,73 @@
+{
+  "block_code": "44180",
+  "block_name": "충청남도 보령시",
+  "bbox": [
+    125.52337,
+    36.147574,
+    126.739097,
+    36.527553
+  ],
+  "center": [
+    36.337563,
+    126.131233
+  ],
+  "landmarks": [
+    {
+      "name": "대천해수욕장",
+      "lat": 36.3113395,
+      "lng": 126.5127201,
+      "category": "해수욕장",
+      "description": "대천해수욕장은(는) 충청남도 보령시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%9C%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "무창포해수욕장",
+      "lat": 36.2447836,
+      "lng": 126.5360642,
+      "category": "해수욕장",
+      "description": "무창포해수욕장은(는) 충청남도 보령시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%B0%BD%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+    },
+    {
+      "name": "성주산",
+      "lat": 36.36783,
+      "lng": 126.68419,
+      "category": "산/자연",
+      "description": "성주산은(는) 충청남도 보령시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EC%82%B0"
+    },
+    {
+      "name": "보령시청",
+      "lat": 36.3336824,
+      "lng": 126.6129313,
+      "category": "행정/랜드마크",
+      "description": "보령시청은(는) 충청남도 보령시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "보령시장",
+      "lat": 36.3375634,
+      "lng": 126.13123315,
+      "category": "시장/먹거리",
+      "description": "보령시장은(는) 충청남도 보령시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EC%8B%9C%EC%9E%A5"
+    }
+  ],
+  "history_summary": "보령시는 대천해수욕장과 무창포, 성주산이 자리한 충남 서해안의 대표 관광 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
