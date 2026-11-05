@@ -107,6 +107,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "앞산공원 솥뚜껑가게",
+      "lat": 35.823,
+      "lng": 128.57842,
+      "specialty": "가이국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "앞산 골목식당",
+      "lat": 35.81907,
+      "lng": 128.5733,
+      "specialty": "막창구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "대덕산성 골목식당",
+      "lat": 35.81937,
+      "lng": 128.57346,
+      "specialty": "납작만두",
+      "category": "향토음식"
+    },
+    {
+      "name": "안지랑곱창 본점",
+      "lat": 35.83852,
+      "lng": 128.57531,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
   "data_sources": [
     {
