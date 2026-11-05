@@ -1,0 +1,73 @@
+{
+  "block_code": "46910",
+  "block_name": "전라남도 신안군",
+  "bbox": [
+    124.836426,
+    33.796714,
+    126.386687,
+    35.373638
+  ],
+  "center": [
+    34.585176,
+    125.611557
+  ],
+  "landmarks": [
+    {
+      "name": "흑산도",
+      "lat": 34.6608507,
+      "lng": 125.4060994,
+      "category": "섬/국립공원",
+      "description": "다도해 최남단의 대표 섬으로 흑산도국립공원이 지정되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%82%B0%EB%8F%84"
+    },
+    {
+      "name": "홍도",
+      "lat": 34.6913934,
+      "lng": 125.2003143,
+      "category": "섬/국립공원",
+      "description": "기암괴석과 해안 절경이 아름다운 대표 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8F%84"
+    },
+    {
+      "name": "증도",
+      "lat": 34.9867941,
+      "lng": 126.1609778,
+      "category": "갯벌/생태",
+      "description": "유네스코 세계자연유산 신안 갯벌의 대표 갯벌 지구다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0"
+    },
+    {
+      "name": "비금도",
+      "lat": 34.7615612,
+      "lng": 125.9258143,
+      "category": "섬/어촌",
+      "description": "도서 지역의 대표 어촌 섬으로 어항과 해안 절경이 아름답다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0"
+    },
+    {
+      "name": "도초도",
+      "lat": 34.6970386,
+      "lng": 125.9619174,
+      "category": "섬/어촌",
+      "description": "우이도 등 부속 섬과 함께한 대표 어촌 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0"
+    }
+  ],
+  "history_summary": "신안군은 흑산도와 홍도, 증도 등 다도해의 섬들과 유네스코 세계자연유산 갯벌을 품은 전남 서남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
