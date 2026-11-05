@@ -18,7 +18,12 @@
       "lng": 126.8848823,
       "category": "산/자연",
       "description": "칠갑산은(는) 충청남도 청양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B0%91%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B0%91%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 320.0
+      }
     },
     {
       "name": "장승공원",
@@ -26,7 +31,13 @@
       "lng": 126.8510942,
       "category": "공원/문화",
       "description": "장승공원은(는) 충청남도 청양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 2.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Seoul_Olympic_Park_from_Lotte_World_Tower.jpg/1280px-Seoul_Olympic_Park_from_Lotte_World_Tower.jpg"
     },
     {
       "name": "청양군청",
@@ -34,23 +45,41 @@
       "lng": 126.8019828,
       "category": "행정/랜드마크",
       "description": "청양군청은(는) 충청남도 청양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 110.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%943.jpg"
     },
     {
       "name": "청양시장",
-      "lat": 36.443661,
-      "lng": 126.85296715,
+      "lat": 36.450462,
+      "lng": 126.8018476,
       "category": "시장/먹거리",
       "description": "청양시장은(는) 충청남도 청양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 99.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg/1280px-%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg"
     },
     {
       "name": "칠갑산자연휴양림",
-      "lat": 36.443661,
-      "lng": 126.85296715,
+      "lat": 36.4318611,
+      "lng": 126.843763,
       "category": "숲휴양림",
       "description": "칠갑산자연휴양림은(는) 충청남도 청양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 32.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg/1280px-%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg"
     }
   ],
   "history_summary": "청양군은 칠갑산과 어우러진 고추 특산지로 칠갑산 장승공원이 대표 명소인 충남 중부의 군이다.",
