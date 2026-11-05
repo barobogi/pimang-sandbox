@@ -18,7 +18,13 @@
       "lng": 129.1913842,
       "category": "해안/관광",
       "description": "기장의 대표 해안 전망 명소로 절벽 절경이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 42.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Daebyeon_Port_3.jpg/1280px-Daebyeon_Port_3.jpg"
     },
     {
       "name": "장안사",
@@ -26,7 +32,13 @@
       "lng": 129.2329808,
       "category": "사찰/문화유산",
       "description": "원효대사가 창건한 사찰로 보물 대웅전이 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 155.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Jangansa_Temple_1932.jpg"
     },
     {
       "name": "임랑해수욕장",
@@ -34,7 +46,13 @@
       "lng": 129.2677023,
       "category": "해수욕장",
       "description": "기장 8경의 하나로 임랑만의 조용한 해수욕장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 158.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%EC%9D%BC%EA%B4%91%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%EC%9D%BC%EA%B4%91%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
     },
     {
       "name": "해동용궁사",
@@ -42,7 +60,13 @@
       "lng": 129.2229764,
       "category": "사찰/해안",
       "description": "바다 위 바위에 지어진 대표 해안 사찰이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 42.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg/1280px-%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "오시리아관광단지",
@@ -50,7 +74,13 @@
       "lng": 129.2126703,
       "category": "테마파크/관광",
       "description": "롯데월드 어드벤처 부산과 프리미엄아울렛이 자리한 동부산 관광단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 46.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Osyria_Station_20200522_011.jpg/1280px-Osyria_Station_20200522_011.jpg"
     }
   ],
   "history_summary": "부산 기장군은 기장읍과 장안·일광·정관·철마가 함께한 부산 동부의 해안 군으로 청사포와 해동용궁사 등 해안 명소가 있다.",
