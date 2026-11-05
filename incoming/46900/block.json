@@ -1,0 +1,73 @@
+{
+  "block_code": "46900",
+  "block_name": "전라남도 진도군",
+  "bbox": [
+    125.417016,
+    33.739506,
+    126.444225,
+    34.608628
+  ],
+  "center": [
+    34.174067,
+    125.930621
+  ],
+  "landmarks": [
+    {
+      "name": "진도대교",
+      "lat": 34.5716795,
+      "lng": 126.3050704,
+      "category": "교량/랜드마크",
+      "description": "진도대교은(는) 전라남도 진도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EB%8F%84%EB%8C%80%EA%B5%90"
+    },
+    {
+      "name": "운림산방",
+      "lat": 34.4661933,
+      "lng": 126.3079553,
+      "category": "유적/문화",
+      "description": "운림산방은(는) 전라남도 진도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EB%A6%BC%EC%82%B0%EB%B0%A9"
+    },
+    {
+      "name": "진도개테마파크",
+      "lat": 34.1740669,
+      "lng": 125.93062055,
+      "category": "테마공원",
+      "description": "진도개테마파크은(는) 전라남도 진도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EB%8F%84%EA%B0%9C%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC"
+    },
+    {
+      "name": "진도군청",
+      "lat": 34.486831,
+      "lng": 126.2635262,
+      "category": "행정/랜드마크",
+      "description": "진도군청은(는) 전라남도 진도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EB%8F%84%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "진도시장",
+      "lat": 34.1740669,
+      "lng": 125.93062055,
+      "category": "시장/먹거리",
+      "description": "진도시장은(는) 전라남도 진도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EB%8F%84%EA%B5%B0"
+    }
+  ],
+  "history_summary": "진도군은 진도대교와 운림산방, 진도개로 유명한 전남 서남단의 섬 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
