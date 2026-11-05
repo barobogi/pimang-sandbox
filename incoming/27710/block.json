@@ -1,0 +1,73 @@
+{
+  "block_code": "27710",
+  "block_name": "대구광역시 달성군",
+  "bbox": [
+    128.351184,
+    35.606758,
+    128.696624,
+    35.94311
+  ],
+  "center": [
+    35.774934,
+    128.523904
+  ],
+  "landmarks": [
+    {
+      "name": "비슬산",
+      "lat": 35.7138047,
+      "lng": 128.5003579,
+      "category": "산/자연",
+      "description": "달성군의 대표 명산으로 암괴류(천연기념물 제435호)가 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%8A%AC%EC%82%B0"
+    },
+    {
+      "name": "도동서원",
+      "lat": 35.7008988,
+      "lng": 128.3719954,
+      "category": "서원/문화유산",
+      "description": "조선 시대 서원으로 달성 12경의 대표 유교 문화유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8F%99%EC%84%9C%EC%9B%90"
+    },
+    {
+      "name": "국립대구과학관",
+      "lat": 35.6866425,
+      "lng": 128.4650664,
+      "category": "과학/전시",
+      "description": "유가면에 자리한 대형 국립 과학 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EB%8C%80%EA%B5%AC%EA%B3%BC%ED%95%99%EA%B4%80"
+    },
+    {
+      "name": "사문진주막촌",
+      "lat": 35.842,
+      "lng": 128.461,
+      "category": "마을/관광",
+      "description": "옛 주막 마을을 재현한 전통 문화 체험 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B1%EA%B5%B0"
+    },
+    {
+      "name": "옥포벚꽃길",
+      "lat": 35.832,
+      "lng": 128.483,
+      "category": "꽃길/계절",
+      "description": "옥포천을 따라 펼쳐지는 벚꽃 산책로로 달성의 대표 봄 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B1%EA%B5%B0"
+    }
+  ],
+  "history_summary": "대구 달성군은 대구 외곽을 둘러싼 광역 군으로 비슷산과 도동서원, 사문진주막촌 등의 명소와 다사 신도시가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
