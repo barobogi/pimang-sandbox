@@ -18,7 +18,13 @@
       "lng": 128.9602875,
       "category": "사찰/문화유산",
       "description": "운문사은(는) 경상북도 청도군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EB%AC%B8%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EB%AC%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 287.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/1280px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
     },
     {
       "name": "청도소싸움경기장",
@@ -26,7 +32,13 @@
       "lng": 128.7243027,
       "category": "체육/축제",
       "description": "청도소싸움경기장은(는) 경상북도 청도군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 69.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg"
     },
     {
       "name": "청도천",
@@ -34,7 +46,13 @@
       "lng": 128.7198428,
       "category": "하천/자연",
       "description": "청도천은(는) 경상북도 청도군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 50.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "청도군청",
@@ -42,7 +60,13 @@
       "lng": 128.7355698,
       "category": "행정/랜드마크",
       "description": "청도군청은(는) 경상북도 청도군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 35.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cheongdo-gun_office.JPG/1280px-Cheongdo-gun_office.JPG"
     },
     {
       "name": "청도시장",
@@ -50,7 +74,13 @@
       "lng": 128.74397,
       "category": "시장/먹거리",
       "description": "청도시장은(는) 경상북도 청도군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 28.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cheongdo-eup_office.JPG/1280px-Cheongdo-eup_office.JPG"
     }
   ],
   "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
