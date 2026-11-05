@@ -1,0 +1,73 @@
+{
+  "block_code": "43720",
+  "block_name": "충청북도 보은군",
+  "bbox": [
+    127.512464,
+    36.368807,
+    127.906059,
+    36.613774
+  ],
+  "center": [
+    36.49129,
+    127.709261
+  ],
+  "landmarks": [
+    {
+      "name": "법주사",
+      "lat": 36.5438225,
+      "lng": 127.8349663,
+      "category": "사찰/문화유산",
+      "description": "법주사은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%A3%BC%EC%82%AC"
+    },
+    {
+      "name": "속리산",
+      "lat": 36.4553642,
+      "lng": 127.7820278,
+      "category": "산/국립공원",
+      "description": "속리산은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EB%A6%AC%EC%82%B0"
+    },
+    {
+      "name": "정이품송",
+      "lat": 36.51734,
+      "lng": 127.8155871,
+      "category": "천연기념물/자연",
+      "description": "정이품송은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1"
+    },
+    {
+      "name": "보은군청",
+      "lat": 36.4892774,
+      "lng": 127.7303669,
+      "category": "행정/랜드마크",
+      "description": "보은군청은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "보은시장",
+      "lat": 36.49129035,
+      "lng": 127.70926125,
+      "category": "시장/먹거리",
+      "description": "보은시장은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0"
+    }
+  ],
+  "history_summary": "보은군은 속리산과 법주사, 정이품송이 자리한 충북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
