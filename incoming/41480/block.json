@@ -18,7 +18,13 @@
       "lng": 126.7437,
       "category": "DMZ/관광",
       "description": "임진강과 한탄강이 만나는 지점의 전망시설로 남북 분단 현실을 보여주는 대표 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A7%84%EA%B0%81%ED%8F%89%ED%99%94%EB%88%84%EB%A6%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A7%84%EA%B0%81%ED%8F%89%ED%99%94%EB%88%84%EB%A6%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 127.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/1280px-Imjingak_001.jpg"
     },
     {
       "name": "도라전망대",
@@ -26,7 +32,13 @@
       "lng": 126.705522,
       "category": "DMZ/전망대",
       "description": "북측 개성시와 도라산을 가장 가까이에서 볼 수 있는 DMZ 대표 전망시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 119.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Civil_Dora_Observatory.jpg/1280px-Civil_Dora_Observatory.jpg"
     },
     {
       "name": "헤이리문화마을",
@@ -34,7 +46,13 @@
       "lng": 126.742,
       "category": "문화예술/마을",
       "description": "옛 군 부지를 예술 마을로 재조성한 곳으로 건축·예술 체험이 가능한 문화 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 42.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/1280px-Art-Service_Studio%2C_Heyri.jpg"
     },
     {
       "name": "운정호수공원",
@@ -42,7 +60,13 @@
       "lng": 126.7624876,
       "category": "도시공원/호수",
       "description": "운정신도시 중앙에 조성된 호수 공원으로 파주 대표 가족 나들이 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%A0%95%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%A0%95%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 25.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
     },
     {
       "name": "감악산",
@@ -50,7 +74,13 @@
       "lng": 126.9467765,
       "category": "산/자연",
       "description": "해발 688m의 파주 최고봉 산으로 계산읍 일대의 대표 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%95%85%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 223.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gamaksan_Bridge_1.jpg/1280px-Gamaksan_Bridge_1.jpg"
     }
   ],
   "history_summary": "파주시는 조선 시대 파평 윤씨 집성촌과 근현대 군사 요충지였던 지역으로 임진각과 도라전망대 등 DMZ 관광 자원, 헤이리문화마을과 운정신도시가 함께 발달했다.",
