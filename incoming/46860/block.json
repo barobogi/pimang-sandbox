@@ -18,15 +18,26 @@
       "lng": 126.5032433,
       "category": "생태/공원",
       "description": "함평자연생태공원은(는) 전라남도 함평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EC%9E%90%EC%97%B0%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EC%9E%90%EC%97%B0%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 160.6
+      }
     },
     {
       "name": "함평나비축제장",
-      "lat": 35.10454595,
-      "lng": 126.5163297,
+      "lat": 35.0563993,
+      "lng": 126.5200747,
       "category": "축제/관광",
       "description": "함평나비축제장은(는) 전라남도 함평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 356.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hampyeong-gun_office.JPG/1280px-Hampyeong-gun_office.JPG"
     },
     {
       "name": "함평군청",
@@ -34,15 +45,27 @@
       "lng": 126.5166819,
       "category": "행정/랜드마크",
       "description": "함평군청은(는) 전라남도 함평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 359.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hampyeong-gun_office.JPG/1280px-Hampyeong-gun_office.JPG"
     },
     {
       "name": "함평시장",
-      "lat": 35.10454595,
-      "lng": 126.5163297,
+      "lat": 35.0639548,
+      "lng": 126.5233423,
       "category": "시장/먹거리",
       "description": "함평시장은(는) 전라남도 함평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 352.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hampyeong-gun_office.JPG/1280px-Hampyeong-gun_office.JPG"
     },
     {
       "name": "고막원천",
@@ -50,7 +73,12 @@
       "lng": 126.5941577,
       "category": "하천/자연",
       "description": "고막원천은(는) 전라남도 함평군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A7%89%EC%9B%90%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A7%89%EC%9B%90%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 319.8
+      }
     }
   ],
   "history_summary": "함평군은 함평나비축제와 함평자연생태공원, 고막원천이 자리한 전남 서부의 군이다.",
