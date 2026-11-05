@@ -1,0 +1,73 @@
+{
+  "block_code": "46130",
+  "block_name": "전라남도 여수시",
+  "bbox": [
+    126.915319,
+    33.759199,
+    128.171591,
+    34.904551
+  ],
+  "center": [
+    34.331875,
+    127.543455
+  ],
+  "landmarks": [
+    {
+      "name": "오동도",
+      "lat": 34.745035,
+      "lng": 127.7670926,
+      "category": "섬/관광",
+      "description": "대표 섬 관광지로 등대와 해안 절경으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8F%99%EB%8F%84"
+    },
+    {
+      "name": "이순신광장",
+      "lat": 34.7393034,
+      "lng": 127.7359388,
+      "category": "광장/문화",
+      "description": "여수 도심 해안에 조성된 광장으로 이순신 동상이 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C"
+    },
+    {
+      "name": "돌산공원",
+      "lat": 34.7303079,
+      "lng": 127.7396498,
+      "category": "공원/전망대",
+      "description": "돌산도에 위치한 전망대 공원으로 여수 항구가 내려다보인다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%82%B0%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "여수해상케이블카",
+      "lat": 34.730555,
+      "lng": 127.7415854,
+      "category": "관광시설",
+      "description": "돌산도와 여수 본토를 잇는 해상 케이블카로 국민 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4"
+    },
+    {
+      "name": "거북선광장",
+      "lat": 34.738,
+      "lng": 127.74,
+      "category": "공원/문화",
+      "description": "여수 항구에 조성된 공원으로 거북선 전시가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C"
+    }
+  ],
+  "history_summary": "여수시는 남해안의 대표 항만 관광 도시로 오동도와 돌산공원, 이순신광장, 2012 여수세계박람회장 등 해양 관광 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
