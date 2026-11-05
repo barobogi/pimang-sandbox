@@ -1,0 +1,73 @@
+{
+  "block_code": "48125",
+  "block_name": "경상남도 창원시 마산합포구",
+  "bbox": [
+    128.347947,
+    35.033396,
+    128.658781,
+    35.222414
+  ],
+  "center": [
+    35.127905,
+    128.503364
+  ],
+  "landmarks": [
+    {
+      "name": "마산항",
+      "lat": 35.127905299999995,
+      "lng": 128.5033641,
+      "category": "항구/관광",
+      "description": "마산항은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%AD"
+    },
+    {
+      "name": "돝섬",
+      "lat": 35.1786566,
+      "lng": 128.5809999,
+      "category": "섬/관광",
+      "description": "돝섬은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%9D%EC%84%AC"
+    },
+    {
+      "name": "마산합포구청",
+      "lat": 35.1971,
+      "lng": 128.5677945,
+      "category": "행정/랜드마크",
+      "description": "마산합포구청은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%A9%ED%8F%AC%EA%B5%AC%EC%B2%AD"
+    },
+    {
+      "name": "마산어시장",
+      "lat": 35.127905299999995,
+      "lng": 128.5033641,
+      "category": "시장/먹거리",
+      "description": "마산어시장은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%EC%96%B4%EC%8B%9C%EC%9E%A5"
+    },
+    {
+      "name": "무학산",
+      "lat": 35.2101065,
+      "lng": 128.535514,
+      "category": "산/자연",
+      "description": "무학산은(는) 경상남도 창원시 마산합포구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%ED%95%99%EC%82%B0"
+    }
+  ],
+  "history_summary": "마산합포구는 마산 원도심과 마산항, 돝섬이 자리한 창원 서부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
