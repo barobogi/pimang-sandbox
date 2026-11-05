@@ -1,0 +1,73 @@
+{
+  "block_code": "48740",
+  "block_name": "경상남도 창녕군",
+  "bbox": [
+    128.349224,
+    35.373157,
+    128.651728,
+    35.682385
+  ],
+  "center": [
+    35.527771,
+    128.500476
+  ],
+  "landmarks": [
+    {
+      "name": "우포늪",
+      "lat": 35.5530211,
+      "lng": 128.4148227,
+      "category": "습지/생태",
+      "description": "우포늪은(는) 경상남도 창녕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%ED%8F%AC%EB%8A%AA"
+    },
+    {
+      "name": "화왕산",
+      "lat": 35.5471482,
+      "lng": 128.531694,
+      "category": "산/자연",
+      "description": "화왕산은(는) 경상남도 창녕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%99%95%EC%82%B0"
+    },
+    {
+      "name": "창녕 신라 진흥왕 척경비",
+      "lat": 35.527771200000004,
+      "lng": 128.50047595,
+      "category": "국보/문화유산",
+      "description": "창녕 신라 진흥왕 척경비은(는) 경상남도 창녕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%85%95_%EC%8B%A0%EB%9D%BC_%EC%A7%84%ED%9D%A5%EC%99%95_%EC%B2%99%EA%B2%BD%EB%B9%84"
+    },
+    {
+      "name": "창녕군청",
+      "lat": 35.5446254,
+      "lng": 128.492182,
+      "category": "행정/랜드마크",
+      "description": "창녕군청은(는) 경상남도 창녕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%85%95%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "창녕시장",
+      "lat": 35.5403017,
+      "lng": 128.4974293,
+      "category": "시장/먹거리",
+      "description": "창녕시장은(는) 경상남도 창녕군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%85%95%EA%B5%B0"
+    }
+  ],
+  "history_summary": "창녕군은 우포늪과 창녕? 아니라 진흥왕척경비, 화왕산이 자리한 경남 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
