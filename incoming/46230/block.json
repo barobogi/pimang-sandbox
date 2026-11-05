@@ -18,7 +18,12 @@
       "lng": 127.6213246,
       "category": "산/자연",
       "description": "해발 1,217m의 광양의 대표 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 158.0
+      }
     },
     {
       "name": "광양만",
@@ -26,7 +31,13 @@
       "lng": 127.57,
       "category": "해양/만",
       "description": "남해안의 대표 만으로 컨테이너 항만과 갯벌이 함께한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EB%A7%8C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EB%A7%8C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 32.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/MAX_0389.jpg/1280px-MAX_0389.jpg"
     },
     {
       "name": "몽덕해수욕장",
@@ -34,7 +45,13 @@
       "lng": 127.576,
       "category": "해수욕장",
       "description": "광양의 대표 해수욕장으로 여름철 가족 나들이 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 48.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gwangyang_City_Hall.JPG/1280px-Gwangyang_City_Hall.JPG"
     },
     {
       "name": "포스코 광양제철소",
@@ -42,7 +59,13 @@
       "lng": 127.608,
       "category": "산업/철강",
       "description": "세계 최대급 철강 생산 시설로 광양 산업의 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 31.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gwangyang_City_Hall.JPG/1280px-Gwangyang_City_Hall.JPG"
     },
     {
       "name": "을족도",
@@ -50,7 +73,13 @@
       "lng": 127.544,
       "category": "섬/관광",
       "description": "섬진강 하구의 섬으로 유서 깊은 전쟁 유적과 풍광이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 69.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gwangyang_City_Hall.JPG/1280px-Gwangyang_City_Hall.JPG"
     }
   ],
   "history_summary": "광양시는 광양만과 백운산이 어우러진 전남 동부의 산업·관광 도시로 포스코 광양제철소와 몽덕해수욕장이 함께한다.",
