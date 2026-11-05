@@ -18,7 +18,13 @@
       "lng": 127.1644015,
       "category": "신도시",
       "description": "남양주의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%82%B0%EC%8B%A0%EB%8F%84%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%82%B0%EC%8B%A0%EB%8F%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 62.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Navi_Mumbai_Skyline.jpg/1280px-Navi_Mumbai_Skyline.jpg"
     },
     {
       "name": "남한강",
@@ -26,7 +32,13 @@
       "lng": 127.3162862,
       "category": "하천/자연",
       "description": "남양주 남부를 흐르는 대표 강이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 323.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Namhan_River_in_front_of_Yeoju_Library.jpg/1280px-Namhan_River_in_front_of_Yeoju_Library.jpg"
     },
     {
       "name": "별내신도시",
@@ -34,7 +46,13 @@
       "lng": 127.1228902,
       "category": "신도시",
       "description": "남양주의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%84%EB%82%B4%EC%8B%A0%EB%8F%84%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%84%EB%82%B4%EC%8B%A0%EB%8F%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 93.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Navi_Mumbai_Skyline.jpg/1280px-Navi_Mumbai_Skyline.jpg"
     },
     {
       "name": "마석역 상권",
@@ -42,7 +60,13 @@
       "lng": 127.265,
       "category": "상권",
       "description": "마석역 중심의 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 330.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yeoyudang2.jpg/1280px-Yeoyudang2.jpg"
     },
     {
       "name": "사릉역 상권",
@@ -50,7 +74,13 @@
       "lng": 127.102,
       "category": "상권",
       "description": "사릉역 중심의 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 76.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yeoyudang2.jpg/1280px-Yeoyudang2.jpg"
     }
   ],
   "history_summary": "남양주시는 남한강과 북한강이 흐르는 경기 동부 최대의 도시로 다산·별내 신도시와 경춘선이 함께한다.",
