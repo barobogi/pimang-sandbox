@@ -1,0 +1,73 @@
+{
+  "block_code": "26410",
+  "block_name": "부산광역시 금정구",
+  "bbox": [
+    129.036661,
+    35.209604,
+    129.145424,
+    35.306702
+  ],
+  "center": [
+    35.258153,
+    129.091042
+  ],
+  "landmarks": [
+    {
+      "name": "금정산성",
+      "lat": 35.2514917,
+      "lng": 129.0454309,
+      "category": "산성/문화유산",
+      "description": "금정산에 조성된 조선 시대 산성으로 사적 제468호다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%A0%95%EC%82%B0%EC%84%B1"
+    },
+    {
+      "name": "금정산",
+      "lat": 35.258618,
+      "lng": 129.083954,
+      "category": "산/자연",
+      "description": "해발 742m의 부산 북부 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%A0%95%EC%82%B0"
+    },
+    {
+      "name": "범어사",
+      "lat": 35.273102,
+      "lng": 129.092668,
+      "category": "사찰/문화유산",
+      "description": "통도사·해인사와 함께 영남 3대 사찰로 꼽히는 대표 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%94%EC%96%B4%EC%82%AC"
+    },
+    {
+      "name": "부산대학교",
+      "lat": 35.2343498,
+      "lng": 129.0784068,
+      "category": "교육/캠퍼스",
+      "description": "부산의 대표 국립대학으로 금정구 장전동 캠퍼스가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90"
+    },
+    {
+      "name": "온천장",
+      "lat": 35.2205328,
+      "lng": 129.0865305,
+      "category": "온천/관광",
+      "description": "금정구 온천동의 옛 온천 마을 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%A0%95%EA%B5%AC"
+    }
+  ],
+  "history_summary": "부산 금정구는 금정산성과 부산대학교가 자리한 부산 북부의 구로 금정산 자락의 주거 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
