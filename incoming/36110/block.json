@@ -18,7 +18,13 @@
       "lng": 127.262231,
       "category": "행정/랜드마크",
       "description": "중앙정부기관이 대거 입지한 행정 중심지의 핵심 청사다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EC%84%B8%EC%A2%85%EC%B2%AD%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EC%84%B8%EC%A2%85%EC%B2%AD%EC%82%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 5.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg/1280px-Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg"
     },
     {
       "name": "세종호수공원",
@@ -26,7 +32,13 @@
       "lng": 127.2762464,
       "category": "도시공원/호수",
       "description": "신도시 중앙에 조성된 인공 호수 공원으로 세종의 대표 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 355.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sejong_lake_park_190609_17.jpg/1280px-Sejong_lake_park_190609_17.jpg"
     },
     {
       "name": "은어송마을",
@@ -34,7 +46,13 @@
       "lng": 127.308,
       "category": "마을/문화",
       "description": "백제 시대 은어송 나라 전설을 지닌 전통 마을로 슬로시티 인증 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 340.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
     },
     {
       "name": "전의향교",
@@ -42,7 +60,13 @@
       "lng": 127.2009023,
       "category": "교육/문화유산",
       "description": "조선 시대 전의현에 설치된 향교로 유서 깊은 선비 교육 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 153.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90.jpg/1280px-%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90.jpg"
     },
     {
       "name": "부강나루",
@@ -50,7 +74,13 @@
       "lng": 127.322,
       "category": "금강/관광",
       "description": "금강 부강면의 나루터로 백제역사문화지구와 연계한 유람선 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 342.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Hannuridaero_and_Bangchukcheon.jpg/1280px-Hannuridaero_and_Bangchukcheon.jpg"
     }
   ],
   "history_summary": "세종특별자치시는 연기군 전역과 공주·청주·대전 일부를 합쳐 2012년에 출범한 행정 중심 복합도시로 정부 세종청사가 자리하고 호남평야와 금강 유역의 농경지가 함께한다.",
