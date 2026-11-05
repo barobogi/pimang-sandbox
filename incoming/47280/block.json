@@ -18,7 +18,13 @@
       "lng": 128.148,
       "category": "관문/역사",
       "description": "조선 시대 영남과 수도를 잇는 대표 관문 고개다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 186.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/1280px-Saejae_third_gate_backside.jpg"
     },
     {
       "name": "주흘관문",
@@ -26,7 +32,13 @@
       "lng": 128.152,
       "category": "관문/문화유산",
       "description": "문경새의 제1관문으로 성곽과 관문 유적이 남아 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 187.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/1280px-Saejae_third_gate_backside.jpg"
     },
     {
       "name": "표충비",
@@ -34,7 +46,13 @@
       "lng": 128.2,
       "category": "비석/문화유산",
       "description": "임진왜란 때 순절한 김응함 장군을 기리는 유서 깊은 비석이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 207.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "문경향교",
@@ -42,7 +60,13 @@
       "lng": 128.181,
       "category": "교육/문화유산",
       "description": "조선 시대 문경의 지방 교육기관으로 유서 깊은 향교다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 333.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%EB%AC%B8%EA%B2%BD%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg"
     },
     {
       "name": "추점사",
@@ -50,7 +74,13 @@
       "lng": 128.19,
       "category": "사당/문화유산",
       "description": "문경 지역 선비 문화를 지닌 유서 깊은 사당이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 328.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mungyeong_City_Hall.JPG/1280px-Mungyeong_City_Hall.JPG"
     }
   ],
   "history_summary": "문경시는 조선 시대 영남과 한양을 잇는 문경새 관문이 있던 유서 깊은 도시로 주흘관문과 표충비 등 역사 유적과 산악 자연이 함께한다.",
