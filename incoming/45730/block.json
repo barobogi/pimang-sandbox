@@ -18,7 +18,13 @@
       "lng": 127.7465185,
       "category": "산/국립공원",
       "description": "해발 1,614m의 대한민국 제2높은 산으로 덕유산국립공원의 주봉이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 341.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/1280px-Deogyusan_from_Hyangjeok_Peak.jpg"
     },
     {
       "name": "무주구천동",
@@ -26,7 +32,13 @@
       "lng": 127.775899,
       "category": "계곡/관광",
       "description": "덕유산 자락의 유명 계곡 관광지로 여름철 피서 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 300.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%EB%AC%B4%EC%A3%BC_%EA%B5%AC%EC%B2%9C%EB%8F%99_%EC%A3%BC%EB%AA%A9%EA%B5%B0%EC%B4%9D.jpg"
     },
     {
       "name": "태권도원",
@@ -34,7 +46,13 @@
       "lng": 127.7745741,
       "category": "체육/테마",
       "description": "태권도의 세계적 확산을 위한 대표 태권도 테마 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B6%8C%EB%8F%84%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B6%8C%EB%8F%84%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 214.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Taekwondo_pictogram.svg/1280px-Taekwondo_pictogram.svg.png"
     },
     {
       "name": "적상산성",
@@ -42,7 +60,13 @@
       "lng": 127.82,
       "category": "산성/문화유산",
       "description": "백제 시대 옛 성곽으로 유서 깊은 대표 산성이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 227.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Muju-Jeoksangsan-Fortress.jpg/1280px-Muju-Jeoksangsan-Fortress.jpg"
     },
     {
       "name": "설천봉",
@@ -50,7 +74,13 @@
       "lng": 127.7435117,
       "category": "산/자연",
       "description": "덕유산 주능선의 대표 봉우리로 등산 코스의 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 341.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg/1280px-%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg"
     }
   ],
   "history_summary": "무주군은 덕유산 국립공원과 무주구천동, 태권도원이 자리한 전북 동북부의 군으로 백두대간의 산악 자연이 풍부하다.",
