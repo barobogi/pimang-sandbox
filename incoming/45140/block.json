@@ -18,7 +18,13 @@
       "lng": 127.0285167,
       "category": "사지/문화유산",
       "description": "백제 최대의 사찰 터로 석탑이 유명한 대표 문화유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 293.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg/1280px-%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg"
     },
     {
       "name": "왕궁리유적",
@@ -26,7 +32,13 @@
       "lng": 127.0550154,
       "category": "유적/문화유산",
       "description": "백제 익산 왕궁 터로 추정되는 대표 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B5%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B5%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 314.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg/1280px-%EC%9D%B5%EC%82%B0_%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80_%EC%84%9D%ED%83%91%282019%EB%85%84%29_%EC%95%BC%EA%B2%BD.jpg"
     },
     {
       "name": "선제고",
@@ -34,7 +46,13 @@
       "lng": 127.078,
       "category": "유적/문화유산",
       "description": "백제 시대 곡물 창고 터로 유서 깊은 대표 유적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B5%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B5%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 315.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Liu_Xun_%28Emperor_Xuan_of_Han%29.png/1280px-Liu_Xun_%28Emperor_Xuan_of_Han%29.png"
     },
     {
       "name": "탄정천",
@@ -42,7 +60,13 @@
       "lng": 126.988,
       "category": "하천/자연",
       "description": "익산 서부를 흐르는 지천으로 수변 산책로가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B5%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B5%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 6.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Iksan_-_Young_Deung_Dong.jpg/1280px-Iksan_-_Young_Deung_Dong.jpg"
     },
     {
       "name": "원광대학교",
@@ -50,7 +74,13 @@
       "lng": 126.9530099,
       "category": "교육/캠퍼스",
       "description": "익산에 위치한 사립 종합대학으로 불교 정신의 교육기관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 33.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90_%ED%95%99%EC%83%9D%ED%9A%8C%EA%B4%80_%EC%A0%95%EB%A9%B4_%28Wonkwang_UNIV%29_-_panoramio.jpg/1280px-%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90_%ED%95%99%EC%83%9D%ED%9A%8C%EA%B4%80_%EC%A0%95%EB%A9%B4_%28Wonkwang_UNIV%29_-_panoramio.jpg"
     }
   ],
   "history_summary": "익산시는 백제 시대 익산 왕궁이 있었던 유서 깊은 도시로 미륵사지와 왕궁리유적 등 백제 문화유산과 근현대 산업 도시가 함께한다.",
