@@ -115,6 +115,36 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "함평 옛맛식당",
+      "lat": 35.064025,
+      "lng": 126.523972,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "함평 본점",
+      "lat": 35.064445,
+      "lng": 126.523482,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "함평 가마솥밥가",
+      "lat": 35.064585,
+      "lng": 126.523972,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "함평 솥뚜껑가게",
+      "lat": 35.063815,
+      "lng": 126.523482,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
   "history_summary": "함평군은 함평나비축제와 함평자연생태공원, 고막원천이 자리한 전남 서부의 군이다.",
   "data_sources": [
     {
