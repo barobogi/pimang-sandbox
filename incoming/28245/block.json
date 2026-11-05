@@ -18,7 +18,13 @@
       "lng": 126.7112336,
       "category": "산/자연",
       "description": "인천 북부의 대표 산으로 등산로가 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 88.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20260607_Gyeyangsan_mountain.jpg/1280px-20260607_Gyeyangsan_mountain.jpg"
     },
     {
       "name": "계양역 신도시",
@@ -26,7 +32,13 @@
       "lng": 126.735,
       "category": "신도시",
       "description": "계양역 중심으로 조성된 대단위 주거 단지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 172.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EA%B3%84%EC%96%91%EC%97%AD.JPG"
     },
     {
       "name": "작전동 상권",
@@ -34,7 +46,13 @@
       "lng": 126.725,
       "category": "상권",
       "description": "작전동에 형성된 계양구 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 60.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Gyeyang-gu_INCHEON.PNG"
     },
     {
       "name": "계양천",
@@ -42,7 +60,13 @@
       "lng": 126.709334,
       "category": "하천/자연",
       "description": "계양구를 지나는 지천이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 125.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EA%B3%84%EC%96%91%EC%97%AD.JPG"
     },
     {
       "name": "계양문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 126.732,
       "category": "공연장/문화",
       "description": "계양구 대표 공연·전시 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%96%91%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 119.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Q491210_Arts_Center_Station_A01.jpg/1280px-Q491210_Arts_Center_Station_A01.jpg"
     }
   ],
   "history_summary": "인천 계양구는 계양산과 계양역 신도시가 자리한 인천 북부의 주거 구이다.",
