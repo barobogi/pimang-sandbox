@@ -117,6 +117,36 @@
       "duration_hours": 1.5
     }
   ],
+  "dining": [
+    {
+      "name": "호계동 상권 본점",
+      "lat": 37.39879,
+      "lng": 126.9593,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "비산공원 가마솥밥가",
+      "lat": 37.39507,
+      "lng": 126.95028,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "관양동 상권 옛맛식당",
+      "lat": 37.39242,
+      "lng": 126.95028,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "평촌 상권 할매집",
+      "lat": 37.39063,
+      "lng": 126.9557,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "안양 동안구는 평촌신도시 상권이 자리한 안양 동부의 구이다.",
   "data_sources": [
     {
