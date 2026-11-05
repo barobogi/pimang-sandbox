@@ -1,0 +1,73 @@
+{
+  "block_code": "47930",
+  "block_name": "경상북도 울진군",
+  "bbox": [
+    129.07761,
+    36.640472,
+    129.496346,
+    37.149665
+  ],
+  "center": [
+    36.895069,
+    129.286978
+  ],
+  "landmarks": [
+    {
+      "name": "불영사",
+      "lat": 36.940014,
+      "lng": 129.272993,
+      "category": "사찰/문화유산",
+      "description": "불영사은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EC%98%81%EC%82%AC"
+    },
+    {
+      "name": "왕피천",
+      "lat": 36.9648467,
+      "lng": 129.3950822,
+      "category": "하천/자연",
+      "description": "왕피천은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%95%ED%94%BC%EC%B2%9C"
+    },
+    {
+      "name": "망양정",
+      "lat": 36.96816,
+      "lng": 129.4127875,
+      "category": "누정/경승지",
+      "description": "망양정은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%96%91%EC%A0%95"
+    },
+    {
+      "name": "울진군청",
+      "lat": 36.9930768,
+      "lng": 129.4006345,
+      "category": "행정/랜드마크",
+      "description": "울진군청은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A7%84%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "울진시장",
+      "lat": 36.9918453,
+      "lng": 129.4023242,
+      "category": "시장/먹거리",
+      "description": "울진시장은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A7%84%EA%B5%B0"
+    }
+  ],
+  "history_summary": "울진군은 왕피천과 불영사, 망양정이 자리한 경북 동해안 최북단의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
