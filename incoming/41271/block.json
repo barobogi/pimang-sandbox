@@ -18,7 +18,13 @@
       "lng": 126.853,
       "category": "산/자연",
       "description": "상록구에 자리한 해발 321m의 산으로 등산로와 산책로가 잘 조성된 주민 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 54.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vitale_Falier_%28series_by_Domenico_Tintoretto_-_Doge%E2%80%99s_Palace%29.jpg"
     },
     {
       "name": "행인산",
@@ -26,7 +32,13 @@
       "lng": 126.87,
       "category": "산/자연",
       "description": "행인동 일대의 낮은 산으로 도심 속 등산 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 12.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
     },
     {
       "name": "보개산자연휴양림",
@@ -34,7 +46,13 @@
       "lng": 126.9,
       "category": "자연휴양림",
       "description": "상록구에 위치한 자연휴양림으로 숲 체험과 숲속 공부장이 조성되어 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 304.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
     },
     {
       "name": "수암산",
@@ -42,7 +60,13 @@
       "lng": 126.86,
       "category": "산/자연",
       "description": "상록구 이동 일대의 산으로 무지개광장 등의 등산 코스가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 23.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
     },
     {
       "name": "군곡공원",
@@ -50,7 +74,13 @@
       "lng": 126.84,
       "category": "근린공원",
       "description": "군곡동에 조성된 근린공원으로 안산시 서북부 주민 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 50.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
     }
   ],
   "history_summary": "상록구는 안산시 북부에 위치한 구로 반월공단과 함께 이주노동 문화가 발달했고 팔리산·행인산·보개산 등의 산악 자연과 다문화 마을이 어우러져 있다.",
