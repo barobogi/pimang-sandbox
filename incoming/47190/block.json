@@ -18,7 +18,13 @@
       "lng": 128.3001983,
       "category": "산/자연",
       "description": "해발 977m의 경북 대표 명산으로 금오산 경천대 절벽이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%98%A4%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%98%A4%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 15.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Geumomtcablecar.jpg/1280px-Geumomtcablecar.jpg"
     },
     {
       "name": "경천대",
@@ -26,7 +32,13 @@
       "lng": 128.12,
       "category": "절벽/자연",
       "description": "금오산의 대표 절벽으로 등반과 전망으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 57.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gyegoncheondae.jpg/1280px-Gyegoncheondae.jpg"
     },
     {
       "name": "사인암",
@@ -34,7 +46,13 @@
       "lng": 128.141,
       "category": "사찰/문화유산",
       "description": "금오산 자락에 자리한 사찰로 겨울 눈꽃과 계절 풍경으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 58.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Geology_of_South_Korea_-_Sainam%2C_Cliff%28%EC%82%AC%EC%9D%B8%EC%95%94%29_%2836046814445%29.jpg/1280px-Geology_of_South_Korea_-_Sainam%2C_Cliff%28%EC%82%AC%EC%9D%B8%EC%95%94%29_%2836046814445%29.jpg"
     },
     {
       "name": "구미공단",
@@ -42,7 +60,13 @@
       "lng": 128.3827898,
       "category": "산업/전자",
       "description": "국내 최초의 산업단지 중 하나로 전자 산업의 중심지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 342.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gumicityhall.jpg/1280px-Gumicityhall.jpg"
     },
     {
       "name": "구미문화예술회관",
@@ -50,7 +74,13 @@
       "lng": 128.3487276,
       "category": "공연장/문화",
       "description": "구미 대표 공연·전시 문화시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 356.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gumicityhall.jpg/1280px-Gumicityhall.jpg"
     }
   ],
   "history_summary": "구미시는 근현대 전자·섬유 산업 도시로 성장한 경북 서부의 도시로 금오산과 사인암 등의 자연 명소와 산업 유산이 함께한다.",
