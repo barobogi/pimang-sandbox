@@ -18,7 +18,13 @@
       "lng": 127.055,
       "category": "신도시",
       "description": "양주의 대표 주거 신도시다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 316.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yangju_City_Hall.JPG/1280px-Yangju_City_Hall.JPG"
     },
     {
       "name": "양주역 상권",
@@ -26,7 +32,13 @@
       "lng": 127.073,
       "category": "상권",
       "description": "양주역 중심의 대표 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 256.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Yangju_Station_3.JPG"
     },
     {
       "name": "천보산",
@@ -34,7 +46,13 @@
       "lng": 127.1163825,
       "category": "산/자연",
       "description": "양주의 대표 등산 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 273.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yangju_City_Hall.JPG/1280px-Yangju_City_Hall.JPG"
     },
     {
       "name": "양주공원",
@@ -42,7 +60,13 @@
       "lng": 127.06,
       "category": "공원",
       "description": "양주의 대표 근린공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yangju_City_Hall.JPG/1280px-Yangju_City_Hall.JPG"
     },
     {
       "name": "광사동 상권",
@@ -50,7 +74,13 @@
       "lng": 127.066,
       "category": "상권",
       "description": "광사동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 270.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yangju_City_Hall.JPG/1280px-Yangju_City_Hall.JPG"
     }
   ],
   "history_summary": "경기 양주시는 서울 북부의 대표 위성 도시로 옥정지구와 양주역 상권이 함께한다.",
