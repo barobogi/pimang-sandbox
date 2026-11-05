@@ -18,7 +18,13 @@
       "lng": 128.636006,
       "category": "해수욕장",
       "description": "낙산해수욕장은(는) 강원특별자치도 양양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 139.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
     },
     {
       "name": "낙산사",
@@ -26,7 +32,13 @@
       "lng": 128.6291359,
       "category": "사찰/문화유산",
       "description": "낙산사은(는) 강원특별자치도 양양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%82%B0%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%82%B0%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 140.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Korea-Naksansa_2215-07_grounds.JPG"
     },
     {
       "name": "죽도해수욕장",
@@ -34,7 +46,13 @@
       "lng": 128.759838,
       "category": "해수욕장",
       "description": "죽도해수욕장은(는) 강원특별자치도 양양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 331.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Naksan_Temple.jpg/1280px-Naksan_Temple.jpg"
     },
     {
       "name": "양양군청",
@@ -42,7 +60,13 @@
       "lng": 128.619005,
       "category": "행정/랜드마크",
       "description": "양양군청은(는) 강원특별자치도 양양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 106.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Naksan_Temple.jpg/1280px-Naksan_Temple.jpg"
     },
     {
       "name": "남대천",
@@ -50,7 +74,13 @@
       "lng": 128.644552,
       "category": "하천/자연",
       "description": "남대천은(는) 강원특별자치도 양양군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8C%80%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8C%80%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 139.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%EA%B0%95%EB%A6%89%EC%8B%9C_%EB%82%A8%EB%8C%80%EC%B2%9C_2016-10-25_18.00.44.jpg/1280px-%EA%B0%95%EB%A6%89%EC%8B%9C_%EB%82%A8%EB%8C%80%EC%B2%9C_2016-10-25_18.00.44.jpg"
     }
   ],
   "history_summary": "양양군은 낙산해수욕장과 서핑 해변, 낙산사가 자리한 강원 동해안 북부의 군이다.",
