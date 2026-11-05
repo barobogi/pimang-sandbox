@@ -14,11 +14,17 @@
   "landmarks": [
     {
       "name": "농다리",
-      "lat": 36.88041955,
-      "lng": 127.43722185,
+      "lat": 36.8258333,
+      "lng": 127.4933333,
       "category": "문화유산/다리",
       "description": "농다리은(는) 충청북도 진천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%86%8D%EB%8B%A4%EB%A6%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%86%8D%EB%8B%A4%EB%A6%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 320.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg/1280px-%EC%A7%84%EC%B2%9C_%EB%86%8D%EB%8B%A4%EB%A6%AC.jpg"
     },
     {
       "name": "백곡저수지",
@@ -26,7 +32,12 @@
       "lng": 127.4050994,
       "category": "저수지/자연",
       "description": "백곡저수지은(는) 충청북도 진천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EA%B3%A1%EC%A0%80%EC%88%98%EC%A7%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EA%B3%A1%EC%A0%80%EC%88%98%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 67.9
+      }
     },
     {
       "name": "진천군청",
@@ -34,23 +45,41 @@
       "lng": 127.4357747,
       "category": "행정/랜드마크",
       "description": "진천군청은(는) 충청북도 진천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 2.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Panoramic_view_of_Jincheon-eup.jpg/1280px-Panoramic_view_of_Jincheon-eup.jpg"
     },
     {
       "name": "생거진천거북이마을",
-      "lat": 36.88041955,
-      "lng": 127.43722185,
+      "lat": 36.9252031,
+      "lng": 127.3894037,
       "category": "마을/관광",
       "description": "생거진천거북이마을은(는) 충청북도 진천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 139.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Panoramic_view_of_Jincheon-eup.jpg/1280px-Panoramic_view_of_Jincheon-eup.jpg"
     },
     {
       "name": "진천시장",
-      "lat": 36.88041955,
-      "lng": 127.43722185,
+      "lat": 36.8603989,
+      "lng": 127.4510297,
       "category": "시장/먹거리",
       "description": "진천시장은(는) 충청북도 진천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 331.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Panoramic_view_of_Jincheon-eup.jpg/1280px-Panoramic_view_of_Jincheon-eup.jpg"
     }
   ],
   "history_summary": "진천군은 농다리와 생거진천 거북이 마을, 백곡저수지가 자리한 충북 중서부의 군이다.",
