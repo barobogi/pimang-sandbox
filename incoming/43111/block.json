@@ -18,7 +18,13 @@
       "lng": 127.5364492,
       "category": "성곽/문화유산",
       "description": "백제 상당현 터에 조성된 산성으로 청주의 유서 깊은 문화유산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 148.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cheongju_Sangdangsangseong.jpg/1280px-Cheongju_Sangdangsangseong.jpg"
     },
     {
       "name": "우암산",
@@ -26,7 +32,13 @@
       "lng": 127.4927752,
       "category": "산/자연",
       "description": "청주 도심 북쪽에 자리한 대표 등산 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%95%94%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%95%94%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 127.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
     },
     {
       "name": "청남대",
@@ -34,7 +46,13 @@
       "lng": 127.490382,
       "category": "별궁/역사",
       "description": "대통령 휴양별궁으로 사용되었던 유서 깊은 별장 시설이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%82%A8%EB%8C%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%82%A8%EB%8C%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 41.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG/1280px-%EC%B2%AD%EB%82%A8%EB%8C%80_%EB%B3%B8%EA%B4%80_%282%29.JPG"
     },
     {
       "name": "상당공원",
@@ -42,7 +60,13 @@
       "lng": 127.4912906,
       "category": "도시공원",
       "description": "청주 시내에 조성된 대표 근린공원으로 상당호수가 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 126.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sangdang-gu_office_2018.JPG/1280px-Sangdang-gu_office_2018.JPG"
     },
     {
       "name": "수암골",
@@ -50,7 +74,13 @@
       "lng": 127.4946019,
       "category": "마을/문화",
       "description": "미원면 일대에 형성된 전통 고택 마을로 유서 깊은 산골 마을이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 129.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sangdang-gu_office_2018.JPG/1280px-Sangdang-gu_office_2018.JPG"
     }
   ],
   "history_summary": "상당구는 청주 시내의 옛 중심으로 상당산성과 우암산이 자리하고 청남대 등의 유적과 미원·가덕의 자연 마을이 함께한 청주 동부의 구이다.",
