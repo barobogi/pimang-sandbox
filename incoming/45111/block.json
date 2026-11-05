@@ -18,7 +18,13 @@
       "lng": 127.1530505,
       "category": "전통마을/관광",
       "description": "한국 최대 규모의 전통 한옥 마을로 비빔밥과 한지 문화로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 205.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG/1280px-%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_%EC%A0%84%EA%B2%BD.JPG"
     },
     {
       "name": "경기전",
@@ -26,7 +32,13 @@
       "lng": 127.1517811,
       "category": "문화유산/역사",
       "description": "조선 태조 이성계 초상화를 모신 유서 깊은 사궁이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EA%B8%B0%EC%A0%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EA%B8%B0%EC%A0%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 208.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg/1280px-%EC%A0%84%EC%A3%BC_%EA%B2%BD%EA%B8%B0%EC%A0%84_%ED%99%8D%EC%82%B4%EB%AC%B8_1.jpg"
     },
     {
       "name": "전동성당",
@@ -34,7 +46,13 @@
       "lng": 127.1492033,
       "category": "종교/문화유산",
       "description": "한국 3대 성당 중 하나로 한옥마을 옆에 자리한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 204.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jeondong_Catholic_Cathedral_20230408_005.jpg/1280px-Jeondong_Catholic_Cathedral_20230408_005.jpg"
     },
     {
       "name": "오목대",
@@ -42,7 +60,13 @@
       "lng": 127.1544967,
       "category": "문화/거리",
       "description": "한옥마을과 전동성당을 잇는 전주 문화의 거리다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 210.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Omokdae_20230408_009.jpg/1280px-Omokdae_20230408_009.jpg"
     },
     {
       "name": "남부시장",
@@ -50,7 +74,13 @@
       "lng": 127.156,
       "category": "전통시장",
       "description": "청년몰로 재탄생한 전주의 대표 재래시장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%82%B0%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%84%EC%82%B0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 216.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wansan-gu_Jeonju.PNG"
     }
   ],
   "history_summary": "완산구는 조선 시대 전주부의 중심으로 전주한옥마을과 경기전, 전동성당 등 유서 깊은 문화유산이 밀집한 전주의 원도심 구이다.",
