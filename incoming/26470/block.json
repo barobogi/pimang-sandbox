@@ -18,7 +18,13 @@
       "lng": 129.06,
       "category": "체육/경기장",
       "description": "2002년 월드컵 개최지인 대형 종합 경기장이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%95%84%EC%8B%9C%EC%95%84%EB%93%9C%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%95%84%EC%8B%9C%EC%95%84%EB%93%9C%EC%A3%BC%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 70.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Busanasiadmainstadium_2019EAFF.jpg/1280px-Busanasiadmainstadium_2019EAFF.jpg"
     },
     {
       "name": "연산동 상권",
@@ -26,7 +32,13 @@
       "lng": 129.087,
       "category": "상권",
       "description": "연제구 최대 상업 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 258.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Yeonsan_station_platform_20180305_201701.jpg/1280px-Yeonsan_station_platform_20180305_201701.jpg"
     },
     {
       "name": "온천천",
@@ -34,7 +46,13 @@
       "lng": 129.0835966,
       "category": "하천/자연",
       "description": "연제구를 지나는 지천으로 벚꽃 산책로가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%B2%9C%EC%B2%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%B2%9C%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 188.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Reflection_in_Busan_Onchonchon_River.jpg/1280px-Reflection_in_Busan_Onchonchon_River.jpg"
     },
     {
       "name": "배산",
@@ -42,7 +60,13 @@
       "lng": 129.095751,
       "category": "산/자연",
       "description": "연제구 북쪽의 낮은 산으로 산책로가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 294.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Baesan_station_sign_20180324_183628.jpg/1280px-Baesan_station_sign_20180324_183628.jpg"
     },
     {
       "name": "거제동 상권",
@@ -50,7 +74,13 @@
       "lng": 129.07,
       "category": "상권",
       "description": "거제동에 형성된 대표 생활 상권이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%A0%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 36.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yeonje-gu_office.JPG/1280px-Yeonje-gu_office.JPG"
     }
   ],
   "history_summary": "부산 연제구는 연산동 상권과 부산아시아드주경기장, 온천천이 함께한 부산 중부의 구이다.",
