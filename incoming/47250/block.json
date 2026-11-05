@@ -18,7 +18,13 @@
       "lng": 128.2437677,
       "category": "경승지/자연",
       "description": "경천대은(는) 경상북도 상주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%B2%9C%EB%8C%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%B2%9C%EB%8C%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 265.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gyegoncheondae.jpg/1280px-Gyegoncheondae.jpg"
     },
     {
       "name": "낙동강",
@@ -26,7 +32,13 @@
       "lng": 128.2392457,
       "category": "하천/자연",
       "description": "낙동강은(는) 경상북도 상주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 279.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EB%82%99%EB%8F%99%EA%B0%95.jpg/1280px-%EB%82%99%EB%8F%99%EA%B0%95.jpg"
     },
     {
       "name": "상주자전거박물관",
@@ -34,7 +46,13 @@
       "lng": 128.11781,
       "category": "박물관/문화",
       "description": "상주자전거박물관은(는) 경상북도 상주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%9E%90%EC%A0%84%EA%B1%B0%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%9E%90%EC%A0%84%EA%B1%B0%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 311.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/5/5a/%EC%83%81%EC%A3%BC_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/1280px-%EC%83%81%EC%A3%BC_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
     },
     {
       "name": "상주시청",
@@ -42,7 +60,13 @@
       "lng": 128.1591081,
       "category": "행정/랜드마크",
       "description": "상주시청은(는) 경상북도 상주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 296.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sangju_City_Hall.JPG/1280px-Sangju_City_Hall.JPG"
     },
     {
       "name": "상주시장",
@@ -50,7 +74,12 @@
       "lng": 128.06879295,
       "category": "시장/먹거리",
       "description": "상주시장은(는) 경상북도 상주시의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%9E%A5"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 141.2
+      }
     }
   ],
   "history_summary": "상주시는 낙동강과 경천대, 상주자전거박물관이 자리한 경북 서부의 도시이다.",
