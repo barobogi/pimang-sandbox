@@ -1,0 +1,73 @@
+{
+  "block_code": "48890",
+  "block_name": "경상남도 합천군",
+  "bbox": [
+    127.953117,
+    35.368219,
+    128.373386,
+    35.832081
+  ],
+  "center": [
+    35.60015,
+    128.163252
+  ],
+  "landmarks": [
+    {
+      "name": "해인사",
+      "lat": 35.8010416,
+      "lng": 128.0980383,
+      "category": "유네스코/사찰",
+      "description": "해인사은(는) 경상남도 합천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9D%B8%EC%82%AC"
+    },
+    {
+      "name": "합천호",
+      "lat": 35.5788967,
+      "lng": 128.0191136,
+      "category": "호수/자연",
+      "description": "합천호은(는) 경상남도 합천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%ED%98%B8"
+    },
+    {
+      "name": "황매산",
+      "lat": 35.4942361,
+      "lng": 127.9745887,
+      "category": "산/자연",
+      "description": "황매산은(는) 경상남도 합천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%A7%A4%EC%82%B0"
+    },
+    {
+      "name": "합천군청",
+      "lat": 35.566666,
+      "lng": 128.1658222,
+      "category": "행정/랜드마크",
+      "description": "합천군청은(는) 경상남도 합천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "합천시장",
+      "lat": 35.60014985,
+      "lng": 128.16325189999998,
+      "category": "시장/먹거리",
+      "description": "합천시장은(는) 경상남도 합천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%EA%B5%B0"
+    }
+  ],
+  "history_summary": "합천군은 해인사 장경판전과 합천호, 황매산이 자리한 경남 서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
