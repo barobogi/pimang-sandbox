@@ -1,0 +1,73 @@
+{
+  "block_code": "47830",
+  "block_name": "경상북도 고령군",
+  "bbox": [
+    128.156551,
+    35.611162,
+    128.4815,
+    35.85288
+  ],
+  "center": [
+    35.732021,
+    128.319026
+  ],
+  "landmarks": [
+    {
+      "name": "지산동고분군",
+      "lat": 35.73202105,
+      "lng": 128.3190255,
+      "category": "유네스코/고분",
+      "description": "지산동고분군은(는) 경상북도 고령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+    },
+    {
+      "name": "대가야박물관",
+      "lat": 35.7230147,
+      "lng": 128.2573379,
+      "category": "박물관/역사",
+      "description": "대가야박물관은(는) 경상북도 고령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B0%80%EC%95%BC%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "고령군청",
+      "lat": 35.7260865,
+      "lng": 128.2629107,
+      "category": "행정/랜드마크",
+      "description": "고령군청은(는) 경상북도 고령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "고령시장",
+      "lat": 35.73202105,
+      "lng": 128.3190255,
+      "category": "시장/먹거리",
+      "description": "고령시장은(는) 경상북도 고령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%B9%EA%B5%B0"
+    },
+    {
+      "name": "주산성",
+      "lat": 35.73202105,
+      "lng": 128.3190255,
+      "category": "산성/문화유산",
+      "description": "주산성은(는) 경상북도 고령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%82%B0%EC%84%B1"
+    }
+  ],
+  "history_summary": "고령군은 대가야의 고도로 유네스코 세계유산 지산동고분군과 대가야박물관이 자리한 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
