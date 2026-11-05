@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "무안 옛맛식당",
+      "lat": 34.993706,
+      "lng": 126.473319,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "무안 본점",
+      "lat": 34.992796,
+      "lng": 126.472549,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "무안 골목식당",
+      "lat": 34.993076,
+      "lng": 126.472829,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
   "history_summary": "무안군은 회산백련지와 목포공항, 초의선사 유적이 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
