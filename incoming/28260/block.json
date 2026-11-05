@@ -1,0 +1,73 @@
+{
+  "block_code": "28260",
+  "block_name": "인천광역시 서구",
+  "bbox": [
+    126.529725,
+    37.471078,
+    126.711609,
+    37.613
+  ],
+  "center": [
+    37.542039,
+    126.620667
+  ],
+  "landmarks": [
+    {
+      "name": "청라국제도시",
+      "lat": 37.5329686,
+      "lng": 126.6425256,
+      "category": "신도시/랜드마크",
+      "description": "아라뱃길과 국제 업무 단지가 함께한 서구의 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%9D%BC%EA%B5%AD%EC%A0%9C%EB%8F%84%EC%8B%9C"
+    },
+    {
+      "name": "검단신도시",
+      "lat": 37.5908868,
+      "lng": 126.7104054,
+      "category": "신도시",
+      "description": "검단동에 조성된 대단위 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%80%EB%8B%A8%EC%8B%A0%EB%8F%84%EC%8B%9C"
+    },
+    {
+      "name": "아라뱃길",
+      "lat": 37.5704358,
+      "lng": 126.6779886,
+      "category": "수변/관광",
+      "description": "경인아라뱃길 수변 공원에서 수상 레저가 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%9D%B8%EC%95%84%EB%9D%BC%EB%B1%83%EA%B8%B8"
+    },
+    {
+      "name": "오류동 갯벌체험장",
+      "lat": 37.613,
+      "lng": 126.68,
+      "category": "생태/체험",
+      "description": "서구 해안의 갯벌 체험 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "가좌동 상권",
+      "lat": 37.544,
+      "lng": 126.69,
+      "category": "상권",
+      "description": "가좌동에 형성된 서구 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "인천 서구는 청라국제도시와 검단신도시, 경인아라뱃길이 자리한 인천 서부의 대형 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
