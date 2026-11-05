@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "합천 본점",
+      "lat": 35.59973,
+      "lng": 128.163672,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "합천 옛맛식당",
+      "lat": 35.59952,
+      "lng": 128.163042,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "합천 할매집",
+      "lat": 35.59952,
+      "lng": 128.163532,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "합천군은 해인사 장경판전과 합천호, 황매산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
