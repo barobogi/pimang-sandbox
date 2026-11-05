@@ -18,7 +18,13 @@
       "lng": 127.0553897,
       "category": "산/자연",
       "description": "노원구와 경기도 구리시에 걸쳐 있는 해발 638m의 산으로 국민 휴양림과 등산로로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%9D%BD%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%9D%BD%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 143.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Suraksan.JPG/1280px-Suraksan.JPG"
     },
     {
       "name": "북서울미술관",
@@ -26,7 +32,13 @@
       "lng": 127.0724,
       "category": "미술관/문화",
       "description": "2007년 개관한 서울시립미술관 분관으로 노원구 중계동에 위치한 복합문화예술 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 79.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Seoul_Museum_of_Art_%282014%29.jpg/1280px-Seoul_Museum_of_Art_%282014%29.jpg"
     },
     {
       "name": "광운대학교",
@@ -34,7 +46,13 @@
       "lng": 127.0564772,
       "category": "교육/캠퍼스",
       "description": "노원구 월계동에 위치한 사립 종합대학으로 철도학 등 철도 전문 학과로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%9A%B4%EB%8C%80%ED%95%99%EA%B5%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%9A%B4%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 26.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kwangwoon%2Buniversity6.jpg"
     },
     {
       "name": "노원문화예술회관",
@@ -42,7 +60,13 @@
       "lng": 127.0805008,
       "category": "공연장/문화",
       "description": "노원구 상계동에 있는 대표 공연장으로 오페라와 콘서트 등 문화예술 공연을 개최한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 330.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nowongucheong_20140309_091539.JPG/1280px-Nowongucheong_20140309_091539.JPG"
     },
     {
       "name": "중계본동 시장",
@@ -50,7 +74,13 @@
       "lng": 127.077,
       "category": "전통시장",
       "description": "중계동 오거리 인근에 형성된 재래시장으로 북부 노원 상권의 먹거리 중심이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 0.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nowongucheong_20140309_091539.JPG/1280px-Nowongucheong_20140309_091539.JPG"
     }
   ],
   "history_summary": "노원구는 1988년 도봉구에서 분리된 자치구로 대규모 아파트 신도시가 개발되었으며 수락산 자락의 자연과 북서울미술관 등 문화시설이 함께하는 북부 서울의 주거 중심지이다.",
