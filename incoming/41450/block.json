@@ -18,7 +18,12 @@
       "lng": 127.2240568,
       "category": "쇼핑/복합몰",
       "description": "미사동에 위치한 대형 복합쇼핑몰로 수공예 물건과 도심형 복합 문화 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C_%ED%95%98%EB%82%A8"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C_%ED%95%98%EB%82%A8",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 210.6
+      }
     },
     {
       "name": "검단산",
@@ -26,7 +31,13 @@
       "lng": 127.2493539,
       "category": "산/자연",
       "description": "하남시 중앙에 자리한 낮은 산으로 하천 골재 채취로 훼손됐다가 공원으로 복원된 도심 명산이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%80%EB%8B%A8%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%80%EB%8B%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 293.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%ED%95%98%EB%82%A8_%EA%B2%80%EB%8B%A8%EC%82%B0_%EC%9B%94%EB%82%A8%EC%A0%84%EC%B0%B8%EC%A0%84%EA%B8%B0%EB%85%90%ED%83%91_20211016_170716.jpg/1280px-%ED%95%98%EB%82%A8_%EA%B2%80%EB%8B%A8%EC%82%B0_%EC%9B%94%EB%82%A8%EC%A0%84%EC%B0%B8%EC%A0%84%EA%B8%B0%EB%85%90%ED%83%91_20211016_170716.jpg"
     },
     {
       "name": "망월사",
@@ -34,7 +45,13 @@
       "lng": 127.1958504,
       "category": "사찰/문화유산",
       "description": "하남시 덕풍동에 자리한 사찰로 조선 시대 주지를 맡았던 사찰 역사가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9B%94%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9B%94%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 14.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%EB%A7%9D%EC%9B%94%EC%82%AC%EC%97%AD_1%EB%B2%88%EC%B6%9C%EA%B5%AC.jpg/1280px-%EB%A7%9D%EC%9B%94%EC%82%AC%EC%97%AD_1%EB%B2%88%EC%B6%9C%EA%B5%AC.jpg"
     },
     {
       "name": "미사한강공원",
@@ -42,7 +59,13 @@
       "lng": 127.180472,
       "category": "한강공원",
       "description": "한강 미사지구 수변 공원으로 자전거길과 체육시설이 잘 갖춰져 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B0%95%EC%8B%9C%EB%AF%BC%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B0%95%EC%8B%9C%EB%AF%BC%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 151.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Han_River_aerial_view.jpg"
     },
     {
       "name": "덕풍공원",
@@ -50,7 +73,13 @@
       "lng": 127.1983856,
       "category": "근린공원",
       "description": "덕풍동 일대에 조성된 근린공원으로 하남 도심의 대표 휴식 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%82%A8%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%82%A8%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 118.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Dukpoong_Elementary_School.jpg"
     }
   ],
   "history_summary": "하남시는 조선 시대 광주부 관내 지역으로 경강선 개통과 함께 서울 동남부의 위성도시로 성장했고 스타필드 하남과 미사일대, 검단산과 망월사 등 도시 명소가 자리한다.",
