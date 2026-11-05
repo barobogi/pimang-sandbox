@@ -1,0 +1,73 @@
+{
+  "block_code": "42190",
+  "block_name": "강원특별자치도 태백시",
+  "bbox": [
+    128.867162,
+    37.061685,
+    129.09566,
+    37.345593
+  ],
+  "center": [
+    37.203639,
+    128.981411
+  ],
+  "landmarks": [
+    {
+      "name": "태백산",
+      "lat": 37.1468227,
+      "lng": 128.9057379,
+      "category": "산/국립공원",
+      "description": "태백산은(는) 강원특별자치도 태백시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%82%B0"
+    },
+    {
+      "name": "황지연못",
+      "lat": 37.1731387,
+      "lng": 128.9910363,
+      "category": "연못/자연",
+      "description": "황지연못은(는) 강원특별자치도 태백시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%A7%80%EC%97%B0%EB%AA%BB"
+    },
+    {
+      "name": "태백석탄박물관",
+      "lat": 37.1173761,
+      "lng": 128.9505568,
+      "category": "박물관/산업",
+      "description": "태백석탄박물관은(는) 강원특별자치도 태백시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%84%9D%ED%83%84%EB%B0%95%EB%AC%BC%EA%B4%80"
+    },
+    {
+      "name": "태백시청",
+      "lat": 37.1640972,
+      "lng": 128.9857646,
+      "category": "행정/랜드마크",
+      "description": "태백시청은(는) 강원특별자치도 태백시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%8B%9C%EC%B2%AD"
+    },
+    {
+      "name": "매봉산",
+      "lat": 37.2112,
+      "lng": 128.966903,
+      "category": "산/자연",
+      "description": "매봉산은(는) 강원특별자치도 태백시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%B4%89%EC%82%B0"
+    }
+  ],
+  "history_summary": "태백시는 해발 700m 고원에 자리한 강원 영동 내륙의 도시로 태백산과 황지연못, 석탄박물관이 대표 명소이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
