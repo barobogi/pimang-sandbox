@@ -18,7 +18,13 @@
       "lng": 128.0980383,
       "category": "유네스코/사찰",
       "description": "해인사은(는) 경상남도 합천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9D%B8%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%9D%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 165.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg/1280px-%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg"
     },
     {
       "name": "합천호",
@@ -26,7 +32,13 @@
       "lng": 128.0191136,
       "category": "호수/자연",
       "description": "합천호은(는) 경상남도 합천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%ED%98%B8"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 79.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/HapcheonDam.jpg/1280px-HapcheonDam.jpg"
     },
     {
       "name": "황매산",
@@ -34,7 +46,13 @@
       "lng": 127.9745887,
       "category": "산/자연",
       "description": "황매산은(는) 경상남도 합천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%A7%A4%EC%82%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%A7%A4%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 55.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hwangmaesan_Mountain_in_autumn.jpg/1280px-Hwangmaesan_Mountain_in_autumn.jpg"
     },
     {
       "name": "합천군청",
@@ -42,7 +60,13 @@
       "lng": 128.1658222,
       "category": "행정/랜드마크",
       "description": "합천군청은(는) 경상남도 합천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%EA%B5%B0%EC%B2%AD"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 356.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Korea-Haeinsa-12.jpg"
     },
     {
       "name": "합천시장",
@@ -50,7 +74,13 @@
       "lng": 128.16325189999998,
       "category": "시장/먹거리",
       "description": "합천시장은(는) 경상남도 합천군의 대표 명소이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A9%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 28.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Korea-Haeinsa-12.jpg"
     }
   ],
   "history_summary": "합천군은 해인사 장경판전과 합천호, 황매산이 자리한 경남 서부의 군이다.",
