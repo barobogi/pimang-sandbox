@@ -18,7 +18,13 @@
       "lng": 126.9215857,
       "category": "도시공원",
       "description": "여의도 백섬에 조성된 공원으로 다양한 식물정원과 세계 꽃 마당이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 230.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%ED%95%9C%EA%B0%95%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%B5%EC%9B%90_%EA%B4%91%EC%9E%A5_2025.jpg/1280px-%ED%95%9C%EA%B0%95%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%B5%EC%9B%90_%EA%B4%91%EC%9E%A5_2025.jpg"
     },
     {
       "name": "국회의사당",
@@ -26,7 +32,13 @@
       "lng": 126.9179639,
       "category": "정치/랜드마크",
       "description": "대한민국 국회가 입지한 돔 건축으로 여의도의 대표적 국가 랜드마크다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%82%AC%EB%8B%B9"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%82%AC%EB%8B%B9",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 203.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/National_Assembly_Building_of_the_Republic_of_Korea.png/1280px-National_Assembly_Building_of_the_Republic_of_Korea.png"
     },
     {
       "name": "63빌딩",
@@ -34,7 +46,13 @@
       "lng": 126.9402516,
       "category": "초고층/전망대",
       "description": "1985년 준공된 대한민국 최초의 60층급 마천루로 여의도의 상징적 스카이라인이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/63%EB%B9%8C%EB%94%A9"
+      "source_url": "https://ko.wikipedia.org/wiki/63%EB%B9%8C%EB%94%A9",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 272.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/63_Building.jpg/1280px-63_Building.jpg"
     },
     {
       "name": "여의도한강공원",
@@ -42,7 +60,13 @@
       "lng": 126.9360586,
       "category": "한강공원",
       "description": "한강 여의도지구의 수변 공원으로 서울국제드래그앤세일장 등 체육시설이 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%9D%98%EB%8F%84%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 253.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%ED%95%9C%EA%B0%95%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%B5%EC%9B%90_%EA%B4%91%EC%9E%A5_2025.jpg/1280px-%ED%95%9C%EA%B0%95%EC%97%AC%EC%9D%98%EB%8F%84%EA%B3%B5%EC%9B%90_%EA%B4%91%EC%9E%A5_2025.jpg"
     },
     {
       "name": "영등포시장",
@@ -50,7 +74,13 @@
       "lng": 126.90663,
       "category": "전통시장",
       "description": "영등포역 인근에 형성된 대형 전통시장으로 생선과 과일 먹거리로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 81.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/20260726_%EC%98%81%EB%93%B1%ED%8F%AC%EC%8B%9C%EC%9E%A5%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20260726_%EC%98%81%EB%93%B1%ED%8F%AC%EC%8B%9C%EC%9E%A5%EC%97%AD_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
     }
   ],
   "history_summary": "영등포구는 조선 시대 여의도 강가의 항구 마을에서 출발해 근현대 섬유·금융 상업 중심지가 되었고, 여의도에는 국회와 증권거래소, 63빌딩 등이 들어선 대한민국 금융의 심장부가 되었다.",
