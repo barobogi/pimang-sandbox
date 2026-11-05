@@ -106,6 +106,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "마산어 할매집",
+      "lat": 35.203253,
+      "lng": 128.577193,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "마산어 본점",
+      "lat": 35.203183,
+      "lng": 128.576633,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "마산어 골목식당",
+      "lat": 35.203533,
+      "lng": 128.576843,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "마산합포구는 마산 원도심과 마산항, 돝섬이 자리한 창원 서부의 구이다.",
   "data_sources": [
     {
