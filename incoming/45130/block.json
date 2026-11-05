@@ -18,7 +18,13 @@
       "lng": 126.712203,
       "category": "박물관/역사",
       "description": "군산 개항기 역사를 전시하는 대표 근대사 박물관이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EA%B7%BC%EB%8C%80%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EA%B7%BC%EB%8C%80%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 267.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Jeonju_Museum_of_History-1.jpg/1280px-Jeonju_Museum_of_History-1.jpg"
     },
     {
       "name": "경암동철길마을",
@@ -26,7 +32,13 @@
       "lng": 126.735567,
       "category": "문화/거리",
       "description": "옛 철길 위에 조성된 마을로 철길 벚꽃 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 268.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gunsancityhall.jpg/1280px-Gunsancityhall.jpg"
     },
     {
       "name": "군산내항",
@@ -34,7 +46,13 @@
       "lng": 126.735,
       "category": "항구/문화",
       "description": "옛 항구 풍경과 근대 건축이 어우러진 군산 대표 관광지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 267.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gunsan_Inner_Harbor_Railway.jpg/1280px-Gunsan_Inner_Harbor_Railway.jpg"
     },
     {
       "name": "월명공원",
@@ -42,7 +60,13 @@
       "lng": 126.6825371,
       "category": "도시공원",
       "description": "군산 시내에 조성된 대표 공원으로 호수와 산책로가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 271.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wolmyeongparktw.jpg/1280px-Wolmyeongparktw.jpg"
     },
     {
       "name": "금강하구둑",
@@ -50,7 +74,13 @@
       "lng": 126.76,
       "category": "인프라/생태",
       "description": "금강 하구를 가로지르는 방조제로 철새 도래지로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EA%B0%95%ED%95%98%EA%B5%AC%EB%91%91"
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EA%B0%95%ED%95%98%EA%B5%AC%EB%91%91",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 267.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Geum_river_seawall.jpg/1280px-Geum_river_seawall.jpg"
     }
   ],
   "history_summary": "군산시는 개항기 이후 근대 항만 도시로 성장한 전북 서부의 도시로 근대 건축 유산과 철길마을, 군산내항 등의 명소가 함께한다.",
