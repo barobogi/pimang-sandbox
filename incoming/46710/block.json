@@ -18,7 +18,13 @@
       "lng": 127.069,
       "category": "숲길/관광",
       "description": "국내 최대 메타세쿼이아 숲길로 드라마 촬영지로도 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 324.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Metasequoia_glyptostroboides.jpg"
     },
     {
       "name": "죽녹원",
@@ -26,7 +32,13 @@
       "lng": 126.9855593,
       "category": "공원/대나무",
       "description": "대나무 숲이 펼쳐진 담양의 대표 대나무 공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BD%EB%85%B9%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BD%EB%85%B9%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 178.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Damyang_Jungnogwon_%281%29.jpg/1280px-Damyang_Jungnogwon_%281%29.jpg"
     },
     {
       "name": "관방제",
@@ -34,7 +46,13 @@
       "lng": 127.008,
       "category": "둑/문화유산",
       "description": "조선 시대 조성된 제방으로 담양읍의 유서 깊은 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 327.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG/1280px-%EA%B4%80%EB%B0%A9%EC%A0%9C%EB%A6%BC.JPG"
     },
     {
       "name": "소쇄원",
@@ -42,7 +60,13 @@
       "lng": 127.0121123,
       "category": "정원/문화유산",
       "description": "조선 시대 서원 정원의 대표 명소로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%87%84%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%87%84%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 348.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg/1280px-KOCIS_Korea_Soswaewon_01_%287581350982%29.jpg"
     },
     {
       "name": "가사문학공원",
@@ -50,7 +74,13 @@
       "lng": 127.013,
       "category": "공원/문화",
       "description": "가사 문학을 기리는 테마 공원으로 담양 대표 문화 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 323.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Damyang-gun_office.JPG/1280px-Damyang-gun_office.JPG"
     }
   ],
   "history_summary": "담양군은 대나무와 메타세쿼이아 숲으로 유명한 전남 북부의 군으로 죽녹원과 소쇄원, 관방제 등 유서 깊은 명소가 함께한다.",
