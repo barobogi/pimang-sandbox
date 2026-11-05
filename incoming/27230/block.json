@@ -18,7 +18,13 @@
       "lng": 128.5857158,
       "category": "도시공원",
       "description": "침산정이 자리한 북구 8경의 대표 공원으로 벚꽃 계단이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 338.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Buk-gu_office_Daegu.JPG/1280px-Buk-gu_office_Daegu.JPG"
     },
     {
       "name": "구암동고분군",
@@ -26,7 +32,13 @@
       "lng": 128.543,
       "category": "사적/고분",
       "description": "함지산 능선에 379기의 고분이 분포한 국가지정유산 사적이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 48.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%EB%8C%80%EA%B5%AC_%EA%B5%AC%EC%95%94%EB%8F%99_%EA%B3%A0%EB%B6%84%EA%B5%B0_56-58%ED%98%B8%EB%B6%84_%EB%B0%9C%EA%B5%B4%EC%A1%B0%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg"
     },
     {
       "name": "팔거산성",
@@ -34,7 +46,13 @@
       "lng": 128.5686475,
       "category": "산성/문화유산",
       "description": "함지산 정상부에 축조된 사적으로 승격된 대표 산성이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 357.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/%ED%8C%94%EA%B1%B0%EC%82%B0%EC%84%B1%EC%97%90%EC%84%9C_%EC%B6%9C%ED%86%A0%EB%90%9C_%EC%9C%A0%EB%AC%BC%EC%9D%84_%ED%97%AC%EA%B8%B0%EB%A1%9C_%EC%9D%B4%EC%86%A1%ED%95%98%EB%8A%94_%EB%AA%A8%EC%8A%B5.jpg"
     },
     {
       "name": "칠곡향교",
@@ -42,7 +60,13 @@
       "lng": 128.5511115,
       "category": "교육/문화유산",
       "description": "조선 시대 칠곡현의 향교로 대성전이 시 지정문화재다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 142.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%EC%B9%A0%EA%B3%A1%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg"
     },
     {
       "name": "구암서원",
@@ -50,7 +74,13 @@
       "lng": 128.5988584,
       "category": "서원/문화유산",
       "description": "1665년 설립된 서원으로 북구 8경의 대표 선비 문화 공간이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 322.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%EA%B5%AC%EC%95%94%EC%84%9C%EC%9B%90%28%E9%BE%9C%E5%B7%96%E6%9B%B8%E9%99%A2%29.jpg/1280px-%EA%B5%AC%EC%95%94%EC%84%9C%EC%9B%90%28%E9%BE%9C%E5%B7%96%E6%9B%B8%E9%99%A2%29.jpg"
     }
   ],
   "history_summary": "대구 북구는 침산공원과 구암동고분군, 팔거산성 등 역사와 자연이 함께한 대구 북부의 구이다.",
