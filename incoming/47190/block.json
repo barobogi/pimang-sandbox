@@ -1,0 +1,73 @@
+{
+  "block_code": "47190",
+  "block_name": "경상북도 구미시",
+  "bbox": [
+    128.12,
+    36.060707,
+    128.563955,
+    36.363315
+  ],
+  "center": [
+    36.212011,
+    128.341978
+  ],
+  "landmarks": [
+    {
+      "name": "금오산",
+      "lat": 36.0917364,
+      "lng": 128.3001983,
+      "category": "산/자연",
+      "description": "해발 977m의 경북 대표 명산으로 금오산 경천대 절벽이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%98%A4%EC%82%B0"
+    },
+    {
+      "name": "경천대",
+      "lat": 36.1,
+      "lng": 128.12,
+      "category": "절벽/자연",
+      "description": "금오산의 대표 절벽으로 등반과 전망으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+    },
+    {
+      "name": "사인암",
+      "lat": 36.114,
+      "lng": 128.141,
+      "category": "사찰/문화유산",
+      "description": "금오산 자락에 자리한 사찰로 겨울 눈꽃과 계절 풍경으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+    },
+    {
+      "name": "구미공단",
+      "lat": 36.1067682,
+      "lng": 128.3827898,
+      "category": "산업/전자",
+      "description": "국내 최초의 산업단지 중 하나로 전자 산업의 중심지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+    },
+    {
+      "name": "구미문화예술회관",
+      "lat": 36.1181134,
+      "lng": 128.3487276,
+      "category": "공연장/문화",
+      "description": "구미 대표 공연·전시 문화시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AF%B8%EC%8B%9C"
+    }
+  ],
+  "history_summary": "구미시는 근현대 전자·섬유 산업 도시로 성장한 경북 서부의 도시로 금오산과 사인암 등의 자연 명소와 산업 유산이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
