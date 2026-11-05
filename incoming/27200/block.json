@@ -1,0 +1,73 @@
+{
+  "block_code": "27200",
+  "block_name": "대구광역시 남구",
+  "bbox": [
+    128.5729,
+    35.041729,
+    129.212473,
+    35.8559
+  ],
+  "center": [
+    35.448815,
+    128.892687
+  ],
+  "landmarks": [
+    {
+      "name": "앞산",
+      "lat": 35.819,
+      "lng": 128.573,
+      "category": "산/도심산",
+      "description": "대구 도심 남쪽에 자리한 대표 도심 산으로 등산로가 잘 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%9E%EC%82%B0"
+    },
+    {
+      "name": "대덕산성",
+      "lat": 35.8193,
+      "lng": 128.5729,
+      "category": "산성/문화유산",
+      "description": "앞산 능선에 남은 옛 삼국 시대 산성 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "안지랑곱창골목",
+      "lat": 35.8381,
+      "lng": 128.5758,
+      "category": "먹거리/거리",
+      "description": "대구 최대 곱창 먹거리 거리로 대표 먹거리 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "물베기거리",
+      "lat": 35.8559,
+      "lng": 128.5877,
+      "category": "문화/거리",
+      "description": "대명동 물베기 문화를 테마로 조성된 특색 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    },
+    {
+      "name": "앞산공원",
+      "lat": 35.823,
+      "lng": 128.578,
+      "category": "도시공원",
+      "description": "앞산 자락에 조성된 대형 도심 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+    }
+  ],
+  "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
