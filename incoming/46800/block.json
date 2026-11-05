@@ -1,0 +1,73 @@
+{
+  "block_code": "46800",
+  "block_name": "전라남도 장흥군",
+  "bbox": [
+    126.793513,
+    34.417637,
+    127.072256,
+    34.877341
+  ],
+  "center": [
+    34.647489,
+    126.932885
+  ],
+  "landmarks": [
+    {
+      "name": "정남진전망대",
+      "lat": 34.5118037,
+      "lng": 126.9747254,
+      "category": "전망대/관광",
+      "description": "정남진전망대은(는) 전라남도 장흥군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0"
+    },
+    {
+      "name": "천관산",
+      "lat": 34.5317274,
+      "lng": 126.91966,
+      "category": "산/자연",
+      "description": "천관산은(는) 전라남도 장흥군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EA%B4%80%EC%82%B0"
+    },
+    {
+      "name": "장흥토요시장",
+      "lat": 34.647489199999995,
+      "lng": 126.93288480000001,
+      "category": "시장/먹거리",
+      "description": "장흥토요시장은(는) 전라남도 장흥군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0"
+    },
+    {
+      "name": "장흥군청",
+      "lat": 34.6816446,
+      "lng": 126.9070982,
+      "category": "행정/랜드마크",
+      "description": "장흥군청은(는) 전라남도 장흥군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "탐진강? 아니라 장흥댐? 아니라 장흥? 아니라 장흥호",
+      "lat": 34.647489199999995,
+      "lng": 126.93288480000001,
+      "category": "호수/자연",
+      "description": "탐진강? 아니라 장흥댐? 아니라 장흥? 아니라 장흥호은(는) 전라남도 장흥군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EA%B5%B0"
+    }
+  ],
+  "history_summary": "장흥군은 정남진 전망대와 천관산, 토요시장이 자리한 전남 남해안의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
