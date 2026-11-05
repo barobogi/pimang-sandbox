@@ -18,7 +18,13 @@
       "lng": 129.38055,
       "category": "박물관/문화",
       "description": "옛 고래잡이 마을 장생포에 조성된 고래 전문 박물관으로 실물 크기 고래 골격을 전시한다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 265.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/7/7a/%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/1280px-%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
     },
     {
       "name": "장생포고래문화마을",
@@ -26,7 +32,13 @@
       "lng": 129.334,
       "category": "문화마을/관광",
       "description": "옛 고래잡이 마을의 1960~70년대 모습을 재현한 문화마을로 고래박물관과 모노레일이 함께 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 200.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/7/7a/%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/1280px-%EC%9E%A5%EC%83%9D%ED%8F%AC%EA%B3%A0%EB%9E%98%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
     },
     {
       "name": "무룡공원",
@@ -34,7 +46,13 @@
       "lng": 129.3,
       "category": "도시공원",
       "description": "무룡동에 조성된 근린공원으로 대형 음악분수가 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 161.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nam-gu_ULSAN.PNG"
     },
     {
       "name": "울산대공원",
@@ -42,7 +60,13 @@
       "lng": 129.2890779,
       "category": "테마공원",
       "description": "남구 대공원로에 조성된 대형 레저 테마공원이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 143.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90_%ED%98%84%EC%B6%A9%ED%83%91_20170524_161927.jpg/1280px-%EC%9A%B8%EC%82%B0%EB%8C%80%EA%B3%B5%EC%9B%90_%ED%98%84%EC%B6%A9%ED%83%91_20170524_161927.jpg"
     },
     {
       "name": "용연동굴",
@@ -50,7 +74,13 @@
       "lng": 129.27,
       "category": "동굴/자연",
       "description": "남구 용연동에 자리한 바다 동굴로 드라마 촬영지로도 유명한 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%97%B0%EB%8F%99%EA%B5%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%97%B0%EB%8F%99%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 106.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/TB-YYCave12.jpg/1280px-TB-YYCave12.jpg"
     }
   ],
   "history_summary": "남구는 울산의 상업·주거 중심지로 장생포 고래박물관과 무룡공원, 용연동굴 등이 함께한 울산 남부의 구이다.",
