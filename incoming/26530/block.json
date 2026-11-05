@@ -1,0 +1,73 @@
+{
+  "block_code": "26530",
+  "block_name": "부산광역시 사상구",
+  "bbox": [
+    128.956057,
+    35.116717,
+    129.021889,
+    35.198923
+  ],
+  "center": [
+    35.15782,
+    128.988973
+  ],
+  "landmarks": [
+    {
+      "name": "삼락생태공원",
+      "lat": 35.156,
+      "lng": 128.985,
+      "category": "생태/공원",
+      "description": "낙동강 변에 조성된 대형 생태공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EB%9D%BD%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "name": "사상역 상권",
+      "lat": 35.162,
+      "lng": 128.993,
+      "category": "상권",
+      "description": "사상역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+    },
+    {
+      "name": "하단에코랜드",
+      "lat": 35.158,
+      "lng": 128.975,
+      "category": "생태/공원",
+      "description": "낙동강 하구 생태 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+    },
+    {
+      "name": "괴정동 상권",
+      "lat": 35.145,
+      "lng": 129.001,
+      "category": "상권",
+      "description": "괴정동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+    },
+    {
+      "name": "모라동 상권",
+      "lat": 35.169,
+      "lng": 129.0,
+      "category": "상권",
+      "description": "모라동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%83%81%EA%B5%AC"
+    }
+  ],
+  "history_summary": "부산 사상구는 사상역 상권과 삼락생태공원이 함께한 부산 서부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
