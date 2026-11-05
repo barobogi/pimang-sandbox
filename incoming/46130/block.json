@@ -18,7 +18,13 @@
       "lng": 127.7670926,
       "category": "섬/관광",
       "description": "대표 섬 관광지로 등대와 해안 절경으로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8F%99%EB%8F%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8F%99%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 204.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/1280px-Yeosu_Odongdo_20180929_002.jpg"
     },
     {
       "name": "이순신광장",
@@ -26,7 +32,13 @@
       "lng": 127.7359388,
       "category": "광장/문화",
       "description": "여수 도심 해안에 조성된 광장으로 이순신 동상이 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 201.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/%EC%A0%84_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%B4%88%EC%83%81_%28cropped%29.jpg"
     },
     {
       "name": "돌산공원",
@@ -34,7 +46,13 @@
       "lng": 127.7396498,
       "category": "공원/전망대",
       "description": "돌산도에 위치한 전망대 공원으로 여수 항구가 내려다보인다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%82%B0%EA%B3%B5%EC%9B%90"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%82%B0%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 202.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dolsan_Park_20180929_001.jpg/1280px-Dolsan_Park_20180929_001.jpg"
     },
     {
       "name": "여수해상케이블카",
@@ -42,7 +60,13 @@
       "lng": 127.7415854,
       "category": "관광시설",
       "description": "돌산도와 여수 본토를 잇는 해상 케이블카로 국민 관광 명소다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 202.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Yeosu_cablecar_station_2.jpg/1280px-Yeosu_cablecar_station_2.jpg"
     },
     {
       "name": "거북선광장",
@@ -50,7 +74,13 @@
       "lng": 127.74,
       "category": "공원/문화",
       "description": "여수 항구에 조성된 공원으로 거북선 전시가 있다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C"
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 201.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Dolsan_Bridge1.JPG/1280px-Dolsan_Bridge1.JPG"
     }
   ],
   "history_summary": "여수시는 남해안의 대표 항만 관광 도시로 오동도와 돌산공원, 이순신광장, 2012 여수세계박람회장 등 해양 관광 자원이 풍부하다.",
