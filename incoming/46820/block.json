@@ -18,7 +18,13 @@
       "lng": 126.5270909,
       "category": "마을/관광",
       "description": "한반도 최남단의 마을로 땅끝기념비와 맴섬 일출로 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%95%85%EB%81%9D%EB%A7%88%EC%9D%84"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%95%85%EB%81%9D%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 350.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Korea-Ttangkkeut-01.jpg/1280px-Korea-Ttangkkeut-01.jpg"
     },
     {
       "name": "대흥사",
@@ -26,7 +32,13 @@
       "lng": 126.6159543,
       "category": "사찰/문화유산",
       "description": "백제 시대 창건된 두륜산의 대표 사찰로 사적 제508호 명승이다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%9D%A5%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%9D%A5%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 295.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daeheungsa_11-03896.JPG"
     },
     {
       "name": "황산공원",
@@ -34,7 +46,13 @@
       "lng": 126.604,
       "category": "공원/경승지",
       "description": "해남의 진산 황산 자락의 대표 경승지다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 242.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg"
     },
     {
       "name": "미황사",
@@ -42,7 +60,13 @@
       "lng": 126.5775436,
       "category": "사찰/문화유산",
       "description": "달마산 자락의 유서 깊은 사찰로 대웅전이 유명하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%ED%99%A9%EC%82%AC"
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%ED%99%A9%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 331.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mihwangsa_11-03714.JPG"
     },
     {
       "name": "설아다원",
@@ -50,7 +74,13 @@
       "lng": 126.615,
       "category": "녹차밭/관광",
       "description": "유기농 녹차밭 테마 관광지로 차 체험과 한옥스테이가 가능하다.",
-      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0"
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 226.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cosmic_Girls_Nam_Da-won_at_KCON_17_LA_P1030285_%2836810271345%29.jpg/1280px-Cosmic_Girls_Nam_Da-won_at_KCON_17_LA_P1030285_%2836810271345%29.jpg"
     }
   ],
   "history_summary": "해남군은 한반도 남쪽 끝 땅끝마을과 대흥사, 황산공원이 자리한 전남 최남단의 군으로 유서 깊은 사찰 문화와 해안 자연이 함께한다.",
