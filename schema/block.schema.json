@@ -42,7 +42,7 @@
     "landmarks": {
       "type": "array",
       "minItems": 3,
-      "maxItems": 10,
+      "maxItems": 15,
       "items": {
         "type": "object",
         "required": ["name", "lat", "lng", "description", "source_url"],
@@ -52,7 +52,17 @@
           "lng": { "type": "number", "minimum": 124.0, "maximum": 132.0 },
           "category": { "type": "string" },
           "description": { "type": "string", "minLength": 10 },
-          "source_url": { "type": "string", "format": "uri" }
+          "source_url": { "type": "string", "format": "uri" },
+          "image_url": { "type": "string", "format": "uri", "description": "High-res public photo URL" },
+          "camera_view": {
+            "type": "object",
+            "description": "Optimal 3D cinematic camera view",
+            "properties": {
+              "altitude": { "type": "number", "description": "Altitude in meters (e.g. 150)" },
+              "pitch": { "type": "number", "description": "Pitch angle in degrees (e.g. -30)" },
+              "heading": { "type": "number", "description": "Heading angle in degrees (0 to 360)" }
+            }
+          }
         }
       }
     },
@@ -60,6 +70,35 @@
       "type": "string",
       "minLength": 30,
       "description": "Geographical and cultural background of the block"
+    },
+    "tours": {
+      "type": "array",
+      "description": "Recommended 3D virtual tour courses connecting landmarks",
+      "items": {
+        "type": "object",
+        "required": ["tour_name", "order"],
+        "properties": {
+          "tour_name": { "type": "string" },
+          "description": { "type": "string" },
+          "order": { "type": "array", "items": { "type": "string" } },
+          "duration_hours": { "type": "number" }
+        }
+      }
+    },
+    "dining": {
+      "type": "array",
+      "description": "Notable local heritage restaurants or culinary spots",
+      "items": {
+        "type": "object",
+        "required": ["name", "lat", "lng", "specialty"],
+        "properties": {
+          "name": { "type": "string" },
+          "lat": { "type": "number" },
+          "lng": { "type": "number" },
+          "specialty": { "type": "string" },
+          "category": { "type": "string" }
+        }
+      }
     },
     "data_sources": {
       "type": "array",
