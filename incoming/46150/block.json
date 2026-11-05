@@ -83,6 +83,30 @@
       "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg/1280px-%28%ED%95%9C%EA%B5%AD%EB%AF%BC%EC%A1%B1%EB%AC%B8%ED%99%94%EB%8C%80%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%29%EC%88%9C%EC%B2%9C_%EC%86%A1%EA%B4%91%EC%82%AC_%EC%A0%84%EA%B2%BD.jpg"
     }
   ],
+  "tours": [
+    {
+      "tour_name": "순천 역사·문화 시그니처 스카이 트레일",
+      "description": "선암사 → 송광사 → 낙안읍성 → 순천만습지 → 순천만국가정원 순으로 이어지는 전라남도 순천시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "선암사",
+        "송광사",
+        "낙안읍성",
+        "순천만습지",
+        "순천만국가정원"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "순천 고즈넉한 역사 스카이 산책",
+      "description": "낙안읍성 → 선암사 → 송광사 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 순천의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "낙안읍성",
+        "선암사",
+        "송광사"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
   "history_summary": "순천시는 순천만습지와 순천만국가정원, 낙안읍성, 선암사, 송광사 등 남해안 대표 자연·문화 관광 자원이 풍부한 전남 동부의 도시다.",
   "data_sources": [
     {
