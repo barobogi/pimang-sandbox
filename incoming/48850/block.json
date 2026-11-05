@@ -106,6 +106,29 @@
       "duration_hours": 2.5
     }
   ],
+  "dining": [
+    {
+      "name": "하동 옛맛식당",
+      "lat": 35.123121,
+      "lng": 127.759214,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "하동 골목식당",
+      "lat": 35.122911,
+      "lng": 127.759564,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "하동 동네밥집",
+      "lat": 35.122421,
+      "lng": 127.759284,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "하동군은 섬진강과 화개장터, 쌍계사가 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
