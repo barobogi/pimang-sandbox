@@ -1,0 +1,73 @@
+{
+  "block_code": "47730",
+  "block_name": "경상북도 의성군",
+  "bbox": [
+    128.282416,
+    36.190546,
+    128.896569,
+    36.530364
+  ],
+  "center": [
+    36.360455,
+    128.589493
+  ],
+  "landmarks": [
+    {
+      "name": "금성산",
+      "lat": 36.2624277,
+      "lng": 128.7092854,
+      "category": "산/자연",
+      "description": "금성산은(는) 경상북도 의성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%84%B1%EC%82%B0"
+    },
+    {
+      "name": "의성 탑리리 오층석탑",
+      "lat": 36.36045505,
+      "lng": 128.58949265,
+      "category": "국보/문화유산",
+      "description": "의성 탑리리 오층석탑은(는) 경상북도 의성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1_%ED%83%91%EB%A6%AC%EB%A6%AC_%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91"
+    },
+    {
+      "name": "의성군청",
+      "lat": 36.3527034,
+      "lng": 128.697176,
+      "category": "행정/랜드마크",
+      "description": "의성군청은(는) 경상북도 의성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0%EC%B2%AD"
+    },
+    {
+      "name": "의성시장",
+      "lat": 36.36045505,
+      "lng": 128.58949265,
+      "category": "시장/먹거리",
+      "description": "의성시장은(는) 경상북도 의성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0"
+    },
+    {
+      "name": "조문국박물관",
+      "lat": 36.36045505,
+      "lng": 128.58949265,
+      "category": "박물관/역사",
+      "description": "조문국박물관은(는) 경상북도 의성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%84%B1%EA%B5%B0"
+    }
+  ],
+  "history_summary": "의성군은 마늘의 고장으로 유명하며 금성산과 탑리리 오층석탑이 자리한 경북 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
