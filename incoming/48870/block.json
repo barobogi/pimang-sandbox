@@ -117,6 +117,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "함양 본점",
+      "lat": 35.544273,
+      "lng": 127.731901,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "함양 옛맛식당",
+      "lat": 35.544133,
+      "lng": 127.731411,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "함양 골목식당",
+      "lat": 35.543923,
+      "lng": 127.732041,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "함양군은 상림공원과 용추계곡, 지리산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
