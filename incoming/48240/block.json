@@ -107,6 +107,29 @@
       "duration_hours": 2.0
     }
   ],
+  "dining": [
+    {
+      "name": "사천 동네밥집",
+      "lat": 35.084338,
+      "lng": 128.088407,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "사천 옛맛식당",
+      "lat": 35.083918,
+      "lng": 128.088197,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "사천 큰마당식당",
+      "lat": 35.084478,
+      "lng": 128.088827,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
   "history_summary": "사천시는 항공우주박물관과 와룡산, 삼천포항이 자리한 경남 남해안의 도시이다.",
   "data_sources": [
     {
