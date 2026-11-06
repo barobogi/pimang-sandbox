@@ -332,5 +332,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Masanhappo-gu, Changwon",
+      "landmarks": {
+        "마산항": [
+          "Masan Port",
+          "Signature port attraction of Masanhappo-gu, Changwon."
+        ],
+        "돝섬": [
+          "Dokseom Island",
+          "Signature island attraction of Masanhappo-gu, Changwon."
+        ],
+        "마산합포구청": [
+          "Masanhappo-gu Office",
+          "Administrative center of Masanhappo-gu, Changwon."
+        ],
+        "마산어시장": [
+          "Masan Fish Market",
+          "Signature fish market attraction of Masanhappo-gu, Changwon."
+        ],
+        "무학산": [
+          "Muhaksan Mountain",
+          "Signature mountain attraction of Masanhappo-gu, Changwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌原市 馬山合浦区",
+      "landmarks": {
+        "마산항": [
+          "馬山港",
+          "慶尚南道昌原市馬山合浦区を代表する名所。"
+        ],
+        "돝섬": [
+          "돝島",
+          "慶尚南道昌原市馬山合浦区を代表する名所。"
+        ],
+        "마산합포구청": [
+          "馬山合浦区庁",
+          "慶尚南道昌原市馬山合浦区を代表する名所。"
+        ],
+        "마산어시장": [
+          "馬山魚市場",
+          "慶尚南道昌原市馬山合浦区を代表する名所。"
+        ],
+        "무학산": [
+          "武鶴山",
+          "慶尚南道昌原市馬山合浦区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌原市 马山合浦区",
+      "landmarks": {
+        "마산항": [
+          "马山港",
+          "庆尚南道昌原市马山合浦区的代表性港口。"
+        ],
+        "돝섬": [
+          "突岛",
+          "庆尚南道昌原市马山合浦区的代表性岛屿。"
+        ],
+        "마산합포구청": [
+          "马山合浦区厅",
+          "庆尚南道昌原市马山合浦区的行政中心。"
+        ],
+        "마산어시장": [
+          "马山鱼市",
+          "庆尚南道昌原市马山合浦区的代表性鱼市。"
+        ],
+        "무학산": [
+          "武鹤山",
+          "庆尚南道昌原市马山合浦区的代表性名山。"
+        ]
+      }
+    }
   }
 }
