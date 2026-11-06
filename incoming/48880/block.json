@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "거창초등학교 운동장",
+        "coordinates": [
+          35.78346,
+          127.806247
+        ],
+        "capacity": 4800,
+        "address": "경상남도 거창군"
+      },
+      {
+        "name": "거창실내체육관",
+        "coordinates": [
+          35.897284,
+          127.797966
+        ],
+        "capacity": 5800,
+        "address": "경상남도 거창군"
+      },
+      {
+        "name": "거창중앙공원 비상집합장소",
+        "coordinates": [
+          35.621292,
+          128.003553
+        ],
+        "capacity": 5500,
+        "address": "경상남도 거창군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수승대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕유산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거창창포원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거창군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거창시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
   "data_sources": [
     {
