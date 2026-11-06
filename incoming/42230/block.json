@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "삼척초등학교 운동장",
+        "coordinates": [
+          37.397667,
+          129.085649
+        ],
+        "capacity": 2800,
+        "address": "강원특별자치도 삼척시"
+      },
+      {
+        "name": "삼척실내체육관",
+        "coordinates": [
+          37.372925,
+          129.078398
+        ],
+        "capacity": 4500,
+        "address": "강원특별자치도 삼척시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "환선굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽서루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "맹방해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼척시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대금굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "삼척시는 동해안 최남단의 강원 도시로 환선굴과 대금굴, 죽서루, 맹방해수욕장이 대표 명소이다.",
   "data_sources": [
     {
