@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jangsu-gun, Jeonbuk",
+      "landmarks": {
+        "장안산": [
+          "Jangansan Mountain",
+          "Signature mountain attraction of Jangsu-gun, Jeonbuk."
+        ],
+        "논개생가": [
+          "Nongae's Birthplace",
+          "Historic site honoring the patriot Nongae."
+        ],
+        "장수군청": [
+          "Jangsu County Office",
+          "Administrative center of Jangsu-gun, Jeonbuk."
+        ],
+        "장수시장": [
+          "Jangsu Market",
+          "Signature market attraction of Jangsu-gun, Jeonbuk."
+        ],
+        "장수누리": [
+          "Jangsu Nuri",
+          "Signature natural attraction of Jangsu-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 長水郡",
+      "landmarks": {
+        "장안산": [
+          "長安山",
+          "全北特別自治道長水郡を代表する名所。"
+        ],
+        "논개생가": [
+          "論介生家",
+          "全北特別自治道長水郡を代表する名所。"
+        ],
+        "장수군청": [
+          "長水郡庁",
+          "全北特別自治道長水郡を代表する名所。"
+        ],
+        "장수시장": [
+          "長水市場",
+          "全北特別自治道長水郡を代表する名所。"
+        ],
+        "장수누리": [
+          "長水ヌリ",
+          "全北特別自治道長水郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 长水郡",
+      "landmarks": {
+        "장안산": [
+          "长安山",
+          "全北特别自治道长水郡的代表性名山。"
+        ],
+        "논개생가": [
+          "论介故居",
+          "全北特别自治道长水郡的代表性历史遗迹。"
+        ],
+        "장수군청": [
+          "长水郡厅",
+          "全北特别自治道长水郡的行政中心。"
+        ],
+        "장수시장": [
+          "长水市场",
+          "全北特别自治道长水郡的代表性市场。"
+        ],
+        "장수누리": [
+          "长水nuri园",
+          "全北特别自治道长水郡的代表性自然景观地。"
+        ]
+      }
+    }
   }
 }
