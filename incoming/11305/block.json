@@ -147,6 +147,86 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수유리 먹거리 골목",
+        "station_name": "미아사거리역",
+        "line": "서울 4호선",
+        "exit_no": 6,
+        "walk_minutes": 46,
+        "coordinates": [
+          37.609518,
+          127.0156
+        ]
+      },
+      {
+        "target_landmark": "북한산우이절리공원",
+        "station_name": "미아역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 47,
+        "coordinates": [
+          37.609518,
+          127.0128
+        ]
+      },
+      {
+        "target_landmark": "삼각산",
+        "station_name": "미아사거리역",
+        "line": "서울 4호선",
+        "exit_no": 6,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.609518,
+          127.0156
+        ]
+      },
+      {
+        "target_landmark": "미아리고개",
+        "station_name": "미아사거리역",
+        "line": "서울 4호선",
+        "exit_no": 6,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.609518,
+          127.0156
+        ]
+      },
+      {
+        "target_landmark": "우이천",
+        "station_name": "우이천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.639213,
+          127.032911
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강북 중앙 공영주차장",
+        "coordinates": [
+          37.6388,
+          127.0149
+        ],
+        "capacity": 555,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "강북 제2 공영주차장",
+        "coordinates": [
+          37.636,
+          127.025
+        ],
+        "capacity": 246,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "강북구는 미아리와 수유리를 중심으로 한 도봉구에서 1995년 분리된 자치구로, 우이천과 북한산 자락이 자리하고 번데기와 막국수 먹거리 문화로 유명하다.",
   "data_sources": [
     {
