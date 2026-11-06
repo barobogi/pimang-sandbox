@@ -288,6 +288,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "이현공원 봄꽃",
+        "와룡산 봄 산책"
+      ],
+      "summer": [
+        "이현공원 여름",
+        "서대구역 여름"
+      ],
+      "autumn": [
+        "와룡산 단풍",
+        "이현공원 가을"
+      ],
+      "winter": [
+        "서대구역 겨울 조명",
+        "와룡산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "이현공원 야경",
+        "coordinates": [
+          35.872885,
+          128.544193
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "와룡산 야경",
+        "coordinates": [
+          35.886069,
+          128.521922
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "대구 서구는 이현공원과 서대구역, 와룡산 둘레길이 자리한 대구 서부의 주거 상업 구이다.",
   "data_sources": [
     {
