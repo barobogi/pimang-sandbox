@@ -278,6 +278,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "앞산 봄 진달래",
+        "앞산공원 봄꽃"
+      ],
+      "summer": [
+        "앞산 계곡 여름",
+        "물베기거리 여름"
+      ],
+      "autumn": [
+        "앞산 단풍길",
+        "대덕산성 가을"
+      ],
+      "winter": [
+        "앞산 설경",
+        "안지랑곱창골목 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "앞산 야경",
+        "coordinates": [
+          35.819,
+          128.575458
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "앞산공원 야경",
+        "coordinates": [
+          35.823,
+          128.578
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
   "data_sources": [
     {
