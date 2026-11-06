@@ -355,5 +355,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangcheon-gu, Seoul",
+      "landmarks": {
+        "목동야구장": [
+          "Mokdong Baseball Stadium",
+          "Classic baseball stadium that served as home field for Seoul's pro teams."
+        ],
+        "목동공원": [
+          "Mokdong Park",
+          "Neighborhood park at the heart of Mokdong for strolls and exercise."
+        ],
+        "신정중앙시장": [
+          "Sinjeong Central Market",
+          "Traditional market anchoring the food scene of Mokdong and Sinjeong."
+        ],
+        "양천문화예술회관": [
+          "Yangcheon Arts Center",
+          "Performance and exhibition complex near the Yangcheon-gu office."
+        ],
+        "안양천": [
+          "Anyangcheon Stream",
+          "Tributary flowing along Yangcheon-gu's western edge into the Han River."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 陽川区",
+      "landmarks": {
+        "목동야구장": [
+          "木洞野球場",
+          "ソウルを本拠地としたプロ野球チームのホーム球場だった代表的な球場。"
+        ],
+        "목동공원": [
+          "木洞公園",
+          "木洞中心部の近隣公園。住民の散歩と運動の場。"
+        ],
+        "신정중앙시장": [
+          "新亭中央市場",
+          "新亭洞の伝統市場で、木洞・新亭一帯の食の中心。"
+        ],
+        "양천문화예술회관": [
+          "陽川文化芸術会館",
+          "陽川区庁近くの公演・展示複合施設。"
+        ],
+        "안양천": [
+          "安養川",
+          "漢江へ合流する支流で、陽川区の西側境界を流れる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 阳川区",
+      "landmarks": {
+        "목동야구장": [
+          "木洞棒球场",
+          "曾是首尔职业棒球球队主场的经典球场。"
+        ],
+        "목동공원": [
+          "木洞公园",
+          "木洞中心的近邻公园，供居民散步健身。"
+        ],
+        "신정중앙시장": [
+          "新亭中央市场",
+          "新亭洞传统市场，是木洞、新亭一带的美食中心。"
+        ],
+        "양천문화예술회관": [
+          "阳川文化艺术会馆",
+          "阳川区厅附近的演出展览综合设施。"
+        ],
+        "안양천": [
+          "安养川",
+          "流经阳川区西缘汇入汉江的支流。"
+        ]
+      }
+    }
   }
 }
