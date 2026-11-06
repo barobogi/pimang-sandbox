@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "땅끝마을",
+        "station_name": "땅끝마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.297727,
+          126.525491
+        ]
+      },
+      {
+        "target_landmark": "대흥사",
+        "station_name": "대흥사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.473963,
+          126.614354
+        ]
+      },
+      {
+        "target_landmark": "황산공원",
+        "station_name": "해남버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.5828,
+          126.604
+        ]
+      },
+      {
+        "target_landmark": "미황사",
+        "station_name": "미황사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.380191,
+          126.575944
+        ]
+      },
+      {
+        "target_landmark": "설아다원",
+        "station_name": "설아다원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.6326,
+          126.6134
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "해남 중앙 공영주차장",
+        "coordinates": [
+          34.5804,
+          126.602
+        ],
+        "capacity": 267,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "해남 제2 공영주차장",
+        "coordinates": [
+          34.476363,
+          126.616754
+        ],
+        "capacity": 295,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "해남 제3 공영주차장",
+        "coordinates": [
+          34.6338,
+          126.6158
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "해남군은 한반도 남쪽 끝 땅끝마을과 대흥사, 황산공원이 자리한 전남 최남단의 군으로 유서 깊은 사찰 문화와 해안 자연이 함께한다.",
   "data_sources": [
     {
