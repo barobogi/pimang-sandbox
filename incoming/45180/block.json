@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "내장산 봄",
+        "정읍객사 봄"
+      ],
+      "summer": [
+        "내장산 계곡 여름",
+        "초정약수 여름"
+      ],
+      "autumn": [
+        "내장산 단풍길",
+        "내장사 가을"
+      ],
+      "winter": [
+        "내장산 설경",
+        "정읍객사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "내장산 야경",
+        "coordinates": [
+          35.547415,
+          126.881603
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "정읍객사 야경",
+        "coordinates": [
+          35.601,
+          126.998
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "정읍시는 백제 시대 옛 고부 지역으로 내장산과 내장사, 초정약수 등의 명소가 함께한 전북 서부의 도시다.",
   "data_sources": [
     {
