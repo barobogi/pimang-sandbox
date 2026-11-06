@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Michuhol-gu, Incheon",
+      "landmarks": {
+        "문학산": [
+          "Munhaksan Mountain",
+          "295 m peak in Munhak-dong with trails, a favorite residents' climb."
+        ],
+        "인천SSG랜더스필드": [
+          "Incheon SSG Landers Field",
+          "Home ballpark of Incheon's pro baseball club, a large sports landmark."
+        ],
+        "인하대학교": [
+          "Inha University",
+          "Private university in Yonghyeon-dong, famed for aviation and shipping and Incheon's top school."
+        ],
+        "주안역": [
+          "Juan Station",
+          "Key transit hub of western Incheon, transferring between Incheon Metro Line 1 and Line 1 of the capital network."
+        ],
+        "주안 로데오거리": [
+          "Juan Rodeo Street",
+          "Youth shopping street south of Juan Station, packed with eateries and cafes."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 弥鄒忽区",
+      "landmarks": {
+        "문학산": [
+          "文鶴山",
+          "弥鄒忽区文鶴洞にある標高295メートルの山。登山道と散歩道が整備された住民の名山。"
+        ],
+        "인천SSG랜더스필드": [
+          "仁川SSGランダースフィールド",
+          "文鶴洞にあるプロ野球・仁川のホーム球場。大型スポーツランドマーク。"
+        ],
+        "인하대학교": [
+          "仁荷大学校",
+          "龍現洞に位置する私立総合大学。航空・造船分野で有名な仁川を代表する名門大学。"
+        ],
+        "주안역": [
+          "朱安駅",
+          "仁川地下鉄1号線と首都圏電鉄1号線が乗り換えできる西部仁川の交通要衝。"
+        ],
+        "주안 로데오거리": [
+          "朱安ロデオ通り",
+          "朱安駅の南に形成された若者商圏の街。飲食店とカフェが密集するグルメの名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 弥邹忽区",
+      "landmarks": {
+        "문학산": [
+          "文鹤山",
+          "弥邹忽区文鹤洞海拔295米的山，建有登山步道，深受居民喜爱。"
+        ],
+        "인천SSG랜더스필드": [
+          "仁川SSG登陆者球场",
+          "位于文鹤洞的职棒仁川主场，大型体育地标。"
+        ],
+        "인하대학교": [
+          "仁荷大学",
+          "位于龙现洞的私立综合大学，以航空造船闻名，仁川的代表名校。"
+        ],
+        "주안역": [
+          "朱安站",
+          "仁川地铁1号线与首都圈电铁1号线换乘的西部仁川交通枢纽。"
+        ],
+        "주안 로데오거리": [
+          "朱安罗德奥街",
+          "朱安站南侧的青年商圈街区，餐厅咖啡馆云集。"
+        ]
+      }
+    }
   }
 }
