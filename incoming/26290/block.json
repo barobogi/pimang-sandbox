@@ -354,5 +354,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nam-gu, Busan",
+      "landmarks": {
+        "부경대학교": [
+          "Pukyong National University",
+          "Busan's flagship national university in Daeyeon-dong."
+        ],
+        "국립해양박물관": [
+          "National Maritime Museum",
+          "National museum exhibiting maritime history and science."
+        ],
+        "용당수변공원": [
+          "Yongdang Waterfront Park",
+          "Signature waterfront park on the Namgang harbor."
+        ],
+        "용호동 상권": [
+          "Yongho-dong District",
+          "Everyday commercial hub of Nam-gu in Yongho-dong."
+        ],
+        "남산공원": [
+          "Namsan Park",
+          "Neighborhood park in the heart of Nam-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 南区",
+      "landmarks": {
+        "부경대학교": [
+          "釜慶大学校",
+          "大淵洞に構える釜山を代表する国立大学。"
+        ],
+        "국립해양박물관": [
+          "国立海洋博物館",
+          "海洋の歴史と科学を展示する国立博物館。"
+        ],
+        "용당수변공원": [
+          "龍塘水辺公園",
+          "釜山港南港の水辺を代表する公園。"
+        ],
+        "용호동 상권": [
+          "龍湖洞商圏",
+          "龍湖洞に形成された南区を代表する生活商圏。"
+        ],
+        "남산공원": [
+          "南山公園",
+          "南区の都心に造られた近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 南区",
+      "landmarks": {
+        "부경대학교": [
+          "釜庆大学",
+          "位于大渊洞的釜山代表性国立大学。"
+        ],
+        "국립해양박물관": [
+          "国立海洋博物馆",
+          "展示海洋历史与科学的国家级博物馆。"
+        ],
+        "용당수변공원": [
+          "龙塘滨水公园",
+          "釜山港南港江畔的代表性公园。"
+        ],
+        "용호동 상권": [
+          "龙湖洞商圈",
+          "龙湖洞形成的南区代表性生活商圈。"
+        ],
+        "남산공원": [
+          "南山公园",
+          "南区城中的近邻公园。"
+        ]
+      }
+    }
   }
 }
