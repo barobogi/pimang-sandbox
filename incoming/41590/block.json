@@ -439,10 +439,11 @@
     "civil_service_center": {
       "location_name": "화성시청 민원실 앞",
       "coordinates": [
-        126.833707,
-        37.155279
+        126.862827,
+        37.186253
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "031-1577-4200",
