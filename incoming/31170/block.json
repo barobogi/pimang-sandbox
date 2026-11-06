@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "미포해변",
+        "station_name": "미포해변 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.523,
+          129.4238
+        ]
+      },
+      {
+        "target_landmark": "정자해수욕장",
+        "station_name": "정자해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.538,
+          129.4308
+        ]
+      },
+      {
+        "target_landmark": "현대자동차 울산공장",
+        "station_name": "현대자동차 울산공장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.529,
+          129.3908
+        ]
+      },
+      {
+        "target_landmark": "강동공원",
+        "station_name": "강동공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.556,
+          129.3998
+        ]
+      },
+      {
+        "target_landmark": "화암공원",
+        "station_name": "화암공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.545,
+          129.4068
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.523,
+          129.4214
+        ],
+        "capacity": 164,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.5424,
+          129.4308
+        ],
+        "capacity": 480,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제3 공영주차장",
+        "coordinates": [
+          35.5482,
+          129.404
+        ],
+        "capacity": 436,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "울산 동구는 동해 해안과 현대자동차 울산공장이 자리한 울산 동부의 산업·해양 구이다.",
   "data_sources": [
     {
