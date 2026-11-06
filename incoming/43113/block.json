@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "사직공원 봄꽃",
+        "무심천 벚꽃"
+      ],
+      "summer": [
+        "무심천 여름",
+        "충북대 캠퍼스 여름"
+      ],
+      "autumn": [
+        "사직공원 단풍",
+        "충북대 캠퍼스 가을"
+      ],
+      "winter": [
+        "사직공원 겨울 조명",
+        "무심천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "사직공원 야경",
+        "coordinates": [
+          36.643177,
+          127.378791
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "무심천 야경",
+        "coordinates": [
+          36.669175,
+          127.461312
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "청주 흥덕구는 청주 서부의 구로 충북대학교와 사직공원, 백화점 상권이 함께한 대표 주거 상업 지역이다.",
   "data_sources": [
     {
