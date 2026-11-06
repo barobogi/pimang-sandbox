@@ -1,0 +1,590 @@
+{
+  "block_code": "47940",
+  "block_name": "경상북도 울릉군",
+  "bbox": [
+    130.515663,
+    37.037222,
+    132.0,
+    37.753374
+  ],
+  "center": [
+    37.395298,
+    131.257831
+  ],
+  "landmarks": [
+    {
+      "name": "독도",
+      "lat": 37.2420842,
+      "lng": 131.8646964,
+      "category": "섬/영토",
+      "description": "대한민국 최동단의 섬으로 대한민국 영토의 상징이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 287.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Dokdo_Photo.jpg"
+    },
+    {
+      "name": "관음도",
+      "lat": 37.5413806,
+      "lng": 130.9156227,
+      "category": "암도/자연",
+      "description": "울릉도의 상징 암도로 해상 절경과 바위 절벽이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%9D%8C%EB%8F%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 118.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ulleung_Gwaneumdo_2020OCT.jpg/1280px-Ulleung_Gwaneumdo_2020OCT.jpg"
+    },
+    {
+      "name": "서빙백류지",
+      "lat": 37.478,
+      "lng": 130.89,
+      "category": "자연/계곡",
+      "description": "삼나무 숲과 계곡이 어우러진 울릉도의 대표 자연 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 105.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/NE_coast_of_Ulleung_seen_from_Jukdo.jpg/1280px-NE_coast_of_Ulleung_seen_from_Jukdo.jpg"
+    },
+    {
+      "name": "저동방죽",
+      "lat": 37.501,
+      "lng": 130.819,
+      "category": "해안/마을",
+      "description": "울릉도 저동항의 방파제와 해안 마을 풍경이 아름다운 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 106.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/NE_coast_of_Ulleung_seen_from_Jukdo.jpg/1280px-NE_coast_of_Ulleung_seen_from_Jukdo.jpg"
+    },
+    {
+      "name": "통구미",
+      "lat": 37.4666676,
+      "lng": 130.8606453,
+      "category": "해안/자연",
+      "description": "울릉도 남쪽 해안의 절경으로 절벽과 바다가 어우러진 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 102.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%EC%9A%B8%EB%A6%89_%ED%86%B5%EA%B5%AC%EB%AF%B8_%ED%96%A5%EB%82%98%EB%AC%B4_%EC%9E%90%EC%83%9D%EC%A7%80.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "울릉 해안 절경 시그니처 드론 플라이트",
+      "description": "서빙백류지 → 통구미 → 저동방죽 → 관음도 → 독도 순으로 이어지는 경상북도 울릉군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "서빙백류지",
+        "통구미",
+        "저동방죽",
+        "관음도",
+        "독도"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "울릉 푸른 해안선 에어리얼 크루즈",
+      "description": "독도 → 통구미 → 저동방죽 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 울릉의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "독도",
+        "통구미",
+        "저동방죽"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "울릉 그린 랜드스케이프 플라이트",
+      "description": "관음도 → 서빙백류지 → 통구미 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 울릉의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "관음도",
+        "서빙백류지",
+        "통구미"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "관음도 본점",
+      "lat": 37.541171,
+      "lng": 130.916043,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "서빙백류지 큰마당식당",
+      "lat": 37.47737,
+      "lng": 130.89035,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "통구미 동네밥집",
+      "lat": 37.467158,
+      "lng": 130.860155,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "저동방죽 골목식당",
+      "lat": 37.50121,
+      "lng": 130.81844,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "독도",
+        "station_name": "독도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.244084,
+          131.866696
+        ]
+      },
+      {
+        "target_landmark": "관음도",
+        "station_name": "울릉 여객선터미널",
+        "line": "연안여객선",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.540181,
+          130.913623
+        ]
+      },
+      {
+        "target_landmark": "서빙백류지",
+        "station_name": "서빙백류지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.48,
+          130.892
+        ]
+      },
+      {
+        "target_landmark": "저동방죽",
+        "station_name": "저동방죽 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.503,
+          130.821
+        ]
+      },
+      {
+        "target_landmark": "통구미",
+        "station_name": "통구미 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.468668,
+          130.862645
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "울릉 중앙 공영주차장",
+        "coordinates": [
+          37.542981,
+          130.915623
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "울릉 제2 공영주차장",
+        "coordinates": [
+          37.4784,
+          130.888
+        ],
+        "capacity": 30,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "울릉 제3 공영주차장",
+        "coordinates": [
+          37.465468,
+          130.861045
+        ],
+        "capacity": 327,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "울릉초등학교 운동장",
+        "coordinates": [
+          37.31774,
+          131.970313
+        ],
+        "capacity": 1300,
+        "address": "경상북도 울릉군"
+      },
+      {
+        "name": "울릉실내체육관",
+        "coordinates": [
+          37.498877,
+          130.987702
+        ],
+        "capacity": 1900,
+        "address": "경상북도 울릉군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "독도",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "관음도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서빙백류지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "저동방죽",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "통구미",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "울릉도 봄",
+        "관음도 봄"
+      ],
+      "summer": [
+        "독도 여름",
+        "저동방죽 여름"
+      ],
+      "autumn": [
+        "통구미 가을",
+        "관음도 가을"
+      ],
+      "winter": [
+        "독도 해맞이",
+        "울릉도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "저동방죽 야경",
+        "coordinates": [
+          37.501,
+          130.819
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "통구미 야경",
+        "coordinates": [
+          37.466668,
+          130.860645
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "울릉군은 울릉도와 독도를 관할하는 대한민국 최동단의 군으로 화산섬의 절경과 바다 자원, 독도의 역사가 함께한 섬 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ulleung-gun, Gyeongbuk",
+      "landmarks": {
+        "독도": [
+          "Dokdo Island",
+          "Korea's easternmost island and a symbol of Korean territory."
+        ],
+        "관음도": [
+          "Gwaneumdo Rock",
+          "Symbolic sea stack of Ulleungdo, famed for its marine scenery and cliffs."
+        ],
+        "서빙백류지": [
+          "Seobingbaekji Valley",
+          "Ulleungdo's signature natural spot of cedar forest and valley."
+        ],
+        "저동방죽": [
+          "Jeodong Breakwater",
+          "Scenic spot of the Jeodong harbor breakwater and coastal village of Ulleungdo."
+        ],
+        "통구미": [
+          "Tonggumi Coast",
+          "Southern coast of Ulleungdo famed for cliffs meeting the sea."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 鬱陵郡",
+      "landmarks": {
+        "독도": [
+          "独島",
+          "大韓民国最東端の島で、韓国領土の象徴。"
+        ],
+        "관음도": [
+          "観音島",
+          "鬱陵島の象徴的な岩島。海上絶景と岩の断崖が有名。"
+        ],
+        "서빙백류지": [
+          "ソビンベク流",
+          "杉の森と渓谷が調和する鬱陵島を代表する自然の名所。"
+        ],
+        "저동방죽": [
+          "楸洞防潮堤",
+          "鬱陵島楸洞港の防波堤と海岸村の風景が美しい名所。"
+        ],
+        "통구미": [
+          "桶丘美",
+          "鬱陵島南岸の絶景。断崖と海が調和する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 郁陵郡",
+      "landmarks": {
+        "독도": [
+          "独岛",
+          "韩国最东端的岛屿，韩国领土的象征。"
+        ],
+        "관음도": [
+          "观音岛",
+          "郁陵岛的标志性岩岛，以海上绝景和岩崖闻名。"
+        ],
+        "서빙백류지": [
+          "西滨白溪谷",
+          "杉树林与溪谷交融的郁陵岛代表性自然名胜。"
+        ],
+        "저동방죽": [
+          "楸洞防波堤",
+          "郁陵岛楸洞港防波堤与海岸村落风光秀美之地。"
+        ],
+        "통구미": [
+          "桶丘尾海岸",
+          "郁陵岛南岸绝景，峭壁与大海交融的名胜。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ulleung.go.kr",
+    "civil_service_center": {
+      "location_name": "울릉군청 민원실 앞",
+      "coordinates": [
+        130.905782,
+        37.484419
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-791-2191",
+      "info": "경상북도 울릉군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "울릉군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      131.257732,
+      37.395598
+    ],
+    "cctv_zone_count": 373,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "울릉 중앙공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "울릉도 오징어축제",
+    "typical_month": 8,
+    "venue_name": "울릉군민운동장",
+    "venue_coords": [
+      131.257832,
+      37.394898
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "울릉군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      130.908282,
+      37.483719
+    ],
+    "reservation_url": "https://www.ulleung.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "울릉군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      130.905582,
+      37.482519
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "울릉군청 공영주차장 급속충전소",
+    "coordinates": [
+      130.906582,
+      37.484019
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "통구미 동네밥집",
+    "coordinates": [
+      130.860155,
+      37.467158
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "간고등어구이 (울릉군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=울릉군청&goalx=130.905782&goaly=37.484419",
+    "kakaonavi_url": "kakaonavi://navigate?name=울릉군청&x=130.905782&y=37.484419&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=울릉군청&dlng=130.905782&dlat=37.484419&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:27",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "04:54",
+      "sunset": "19:39",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:03",
+      "sunset": "18:12",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:26",
+      "sunset": "17:01",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "울릉군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          131.256382,
+          37.395198
+        ],
+        [
+          131.257732,
+          37.395598
+        ],
+        [
+          131.256382,
+          37.396098
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "울릉군 전통시장 만남의거리",
+    "anchor_center": [
+      130.906249,
+      37.485886
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 60,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
