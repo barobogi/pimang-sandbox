@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "창녕초등학교 운동장",
+        "coordinates": [
+          35.564339,
+          128.444554
+        ],
+        "capacity": 5200,
+        "address": "경상남도 창녕군"
+      },
+      {
+        "name": "창녕실내체육관",
+        "coordinates": [
+          35.543867,
+          128.520475
+        ],
+        "capacity": 4200,
+        "address": "경상남도 창녕군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "우포늪",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화왕산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창녕 신라 진흥왕 척경비",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창녕군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창녕시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "창녕군은 우포늪과 창녕? 아니라 진흥왕척경비, 화왕산이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
