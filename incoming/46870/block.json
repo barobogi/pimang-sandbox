@@ -145,6 +145,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불갑사",
+        "station_name": "불갑사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.203496,
+          126.551774
+        ]
+      },
+      {
+        "target_landmark": "법성포",
+        "station_name": "법성포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.36375,
+          126.442287
+        ]
+      },
+      {
+        "target_landmark": "백수해안 전망대",
+        "station_name": "영광버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.323923,
+          126.377915
+        ]
+      },
+      {
+        "target_landmark": "영광군청",
+        "station_name": "영광군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.279683,
+          126.514445
+        ]
+      },
+      {
+        "target_landmark": "영광시장",
+        "station_name": "영광시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.278173,
+          126.505409
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영광 중앙 공영주차장",
+        "coordinates": [
+          35.323923,
+          126.377515
+        ],
+        "capacity": 132,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "영광 제2 공영주차장",
+        "coordinates": [
+          35.36335,
+          126.441887
+        ],
+        "capacity": 75,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영광 제3 공영주차장",
+        "coordinates": [
+          35.274973,
+          126.50141
+        ],
+        "capacity": 322,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
   "data_sources": [
     {
