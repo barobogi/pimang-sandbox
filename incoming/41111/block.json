@@ -1,0 +1,562 @@
+{
+  "block_code": "41111",
+  "block_name": "경기도 수원시 장안구",
+  "bbox": [
+    126.960679,
+    37.285223,
+    127.039358,
+    37.351047
+  ],
+  "center": [
+    37.318135,
+    127.000019
+  ],
+  "landmarks": [
+    {
+      "name": "수원 화성",
+      "lat": 37.2866165,
+      "lng": 127.0194972,
+      "category": "유네스코/문화유산",
+      "description": "조선 정조 때 조성된 성곽으로 유네스코 세계문화유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 333.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bifyu_8.jpg/1280px-Bifyu_8.jpg"
+    },
+    {
+      "name": "파장동 상권",
+      "lat": 37.306,
+      "lng": 127.02,
+      "category": "상권",
+      "description": "파장동에 형성된 장안구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 307.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
+    },
+    {
+      "name": "율천동 상권",
+      "lat": 37.295,
+      "lng": 127.0,
+      "category": "상권",
+      "description": "율천동 일대의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 0.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
+    },
+    {
+      "name": "화서역 상권",
+      "lat": 37.295,
+      "lng": 127.01,
+      "category": "상권",
+      "description": "화서역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 341.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
+    },
+    {
+      "name": "장안공원",
+      "lat": 37.288425,
+      "lng": 127.0128445,
+      "category": "공원",
+      "description": "장안구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 341.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jangan-gu_office.JPG/1280px-Jangan-gu_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "장안 도심 하이라이트 시그니처 스카이 투어",
+      "description": "파장동 상권 → 화서역 상권 → 장안공원 → 수원 화성 → 율천동 상권 순으로 이어지는 경기도 수원시 장안구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "파장동 상권",
+        "화서역 상권",
+        "장안공원",
+        "수원 화성",
+        "율천동 상권"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "장안 도심 하이라이트 스카이 투어",
+      "description": "파장동 상권 → 화서역 상권 → 율천동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 장안의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "파장동 상권",
+        "화서역 상권",
+        "율천동 상권"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "율천동 상권 큰마당식당",
+      "lat": 37.29507,
+      "lng": 126.99979,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "파장동 상권 동네밥집",
+      "lat": 37.3067,
+      "lng": 127.01965,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "화서역 상권 옛맛식당",
+      "lat": 37.29493,
+      "lng": 127.01049,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수원 화성",
+        "station_name": "수원 화성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.285623,
+          127.020697
+        ]
+      },
+      {
+        "target_landmark": "파장동 상권",
+        "station_name": "파장동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3044,
+          127.0212
+        ]
+      },
+      {
+        "target_landmark": "율천동 상권",
+        "station_name": "율천동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2934,
+          127.0012
+        ]
+      },
+      {
+        "target_landmark": "화서역 상권",
+        "station_name": "화서역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2934,
+          127.0112
+        ]
+      },
+      {
+        "target_landmark": "장안공원",
+        "station_name": "장안공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.286825,
+          127.014044
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "장안 중앙 공영주차장",
+        "coordinates": [
+          37.297,
+          126.9984
+        ],
+        "capacity": 287,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "장안 제2 공영주차장",
+        "coordinates": [
+          37.3076,
+          127.018
+        ],
+        "capacity": 47,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "장안초등학교 운동장",
+        "coordinates": [
+          37.286539,
+          127.025277
+        ],
+        "capacity": 7000,
+        "address": "경기도 수원시 장안구"
+      },
+      {
+        "name": "장안실내체육관",
+        "coordinates": [
+          37.29901,
+          127.019546
+        ],
+        "capacity": 3400,
+        "address": "경기도 수원시 장안구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수원 화성",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "파장동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "율천동 상권",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화서역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장안공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수원 화성 봄 산책",
+        "장안공원 봄꽃"
+      ],
+      "summer": [
+        "수원 화성 여름 야간 개장",
+        "화서역 상권 여름밤"
+      ],
+      "autumn": [
+        "수원 화성 단풍길",
+        "장안공원 가을"
+      ],
+      "winter": [
+        "수원 화성 겨울 성곽 산책",
+        "장안공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "수원 화성 야경",
+        "coordinates": [
+          37.286617,
+          127.019497
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "장안공원 야경",
+        "coordinates": [
+          37.288425,
+          127.012844
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "수원 장안구는 수원 화성 북쪽 지역으로 파장동과 율천동 상권이 함께한 수원 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jangan-gu, Suwon",
+      "landmarks": {
+        "수원 화성": [
+          "Suwon Hwaseong Fortress",
+          "Fortress built under King Jeonggo of Joseon, a UNESCO World Heritage Site."
+        ],
+        "파장동 상권": [
+          "Pajang-dong District",
+          "Commercial hub of Jangan-gu in Pajang-dong."
+        ],
+        "율천동 상권": [
+          "Yulcheon-dong District",
+          "Everyday commercial hub of the Yulcheon area."
+        ],
+        "화서역 상권": [
+          "Hwaseo Station District",
+          "Commercial hub centered on Hwaseo Station."
+        ],
+        "장안공원": [
+          "Jangan Park",
+          "Signature neighborhood park of Jangan-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 長安区",
+      "landmarks": {
+        "수원 화성": [
+          "水原華城",
+          "朝鮮正祖の時に築かれた城郭で、ユネスコ世界文化遺産。"
+        ],
+        "파장동 상권": [
+          "波長洞商圏",
+          "波長洞に形成された長安区を代表する商圏。"
+        ],
+        "율천동 상권": [
+          "栗泉洞商圏",
+          "栗泉洞一帯の代表的な生活商圏。"
+        ],
+        "화서역 상권": [
+          "華西駅商圏",
+          "華西駅を中心とする代表的な商圏。"
+        ],
+        "장안공원": [
+          "長安公園",
+          "長安区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 长安区",
+      "landmarks": {
+        "수원 화성": [
+          "水原华城",
+          "朝鲜正祖时期修建的城墙，联合国教科文组织世界文化遗产。"
+        ],
+        "파장동 상권": [
+          "波场洞商圈",
+          "波场洞形成的长安区代表性商圈。"
+        ],
+        "율천동 상권": [
+          "栗泉洞商圈",
+          "栗泉洞一带的代表性生活商圈。"
+        ],
+        "화서역 상권": [
+          "华西站商圈",
+          "以华西站为中心的代表性商圈。"
+        ],
+        "장안공원": [
+          "长安公园",
+          "长安区的代表性近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jangan.suwon.go.kr",
+    "civil_service_center": {
+      "location_name": "장안구청 민원실 앞",
+      "coordinates": [
+        127.011675,
+        37.303953
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1899-3300",
+      "info": "경기도 수원시 장안구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "장안구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.999618,
+      37.318235
+    ],
+    "cctv_zone_count": 78,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "광교산 도립공원",
+    "trail_length_km": 3.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "장안 구민축제",
+    "typical_month": 10,
+    "venue_name": "장안구청 광장",
+    "venue_coords": [
+      127.000118,
+      37.318635
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "장안구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.011275,
+      37.304153
+    ],
+    "reservation_url": "https://www.jangan.suwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "장안구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.009975,
+      37.301753
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "장안구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.011575,
+      37.304853
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "율천동 상권 큰마당식당",
+    "coordinates": [
+      126.99979,
+      37.29507
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (장안구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=장안구청&goalx=127.011675&goaly=37.303953",
+    "kakaonavi_url": "kakaonavi://navigate?name=장안구청&x=127.011675&y=37.303953&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=장안구청&dlng=127.011675&dlat=37.303953&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "장안구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.999368,
+          37.317385
+        ],
+        [
+          126.999618,
+          37.318235
+        ],
+        [
+          126.999218,
+          37.317235
+        ]
+      ],
+      "cctv_linked_count": 9,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "수원 행궁동 공방거리 화서문로",
+    "anchor_center": [
+      127.010075,
+      37.305553
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 107,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "heritage_alley"
+  }
+}
