@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gijang-gun, Busan",
+      "landmarks": {
+        "청사포": [
+          "Cheongsapo",
+          "Signature coastal lookout of Gijang, famed for its dramatic cliffs."
+        ],
+        "장안사": [
+          "Jangan-sa Temple",
+          "Temple founded by the monk Wonhyo, home to a Treasured main hall."
+        ],
+        "임랑해수욕장": [
+          "Imnang Beach",
+          "Quiet cove beach of Imnang Bay, one of Gijang's eight scenic views."
+        ],
+        "해동용궁사": [
+          "Haedong Yonggungsa Temple",
+          "Iconic seaside temple built on rocks above the ocean."
+        ],
+        "오시리아관광단지": [
+          "Osiria Tourist Complex",
+          "East Busan resort zone home to Lotte World Adventure Busan and a premium outlet."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 機張郡",
+      "landmarks": {
+        "청사포": [
+          "青沙浦",
+          "機張を代表する海岸の眺望スポットで、断崖の絶景が有名。"
+        ],
+        "장안사": [
+          "長安寺",
+          "元暁大師が創建した寺で、宝物の大雄殿を有する。"
+        ],
+        "임랑해수욕장": [
+          "林浪海水浴場",
+          "機張八景の一つ。林浪湾の静かな海水浴場。"
+        ],
+        "해동용궁사": [
+          "海東龍宮寺",
+          "海の上の岩に建てられた代表的な海岸寺院。"
+        ],
+        "오시리아관광단지": [
+          "オシリア観光団地",
+          "ロッテワールドアドベンチャー釜山とプレミアムアウトレットが立地する東釜山の観光団地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 机张郡",
+      "landmarks": {
+        "청사포": [
+          "青沙浦",
+          "机张代表性海岸观景地，以悬崖绝景闻名。"
+        ],
+        "장안사": [
+          "长安寺",
+          "元晓大师创建的古刹，藏有宝物级大雄殿。"
+        ],
+        "임랑해수욕장": [
+          "林浪海水浴场",
+          "机张八景之一，林浪湾静谧的海滨浴场。"
+        ],
+        "해동용궁사": [
+          "海东龙宫寺",
+          "建于海边岩石之上的代表性海滨寺院。"
+        ],
+        "오시리아관광단지": [
+          "奥西利亚观光园区",
+          "坐落乐天世界冒险釜山和名牌折扣购物城的东部釜山旅游园区。"
+        ]
+      }
+    }
   }
 }
