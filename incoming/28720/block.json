@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "옹진초등학교 운동장",
+        "coordinates": [
+          37.96363,
+          124.726276
+        ],
+        "capacity": 4400,
+        "address": "인천광역시 옹진군"
+      },
+      {
+        "name": "옹진실내체육관",
+        "coordinates": [
+          37.967666,
+          124.511554
+        ],
+        "capacity": 4600,
+        "address": "인천광역시 옹진군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "백령도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연평도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대청도",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕적도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "자월도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "인천 옹진군은 백령도와 연평도, 대청도 등 서해 5도를 포함한 최서단 군으로 해안 절경과 수산 자원이 풍부하다.",
   "data_sources": [
     {
