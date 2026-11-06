@@ -295,6 +295,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "도봉산 봄 진달래",
+        "사패산 봄 산행"
+      ],
+      "summer": [
+        "도봉산 계곡 여름",
+        "창동신도시 여름밤"
+      ],
+      "autumn": [
+        "도봉산 단풍길",
+        "사패산 억새"
+      ],
+      "winter": [
+        "도봉산 설경",
+        "창동신도시 겨울 빛거리"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "도봉산 야경 전망",
+        "coordinates": [
+          37.688786,
+          127.046186
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "사패산 야경",
+        "coordinates": [
+          37.701089,
+          127.015857
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "도봉구는 도봉산 자락의 북부 자치구로 도봉산 국민관광지와 창동 신도시가 발달했다.",
   "data_sources": [
     {
