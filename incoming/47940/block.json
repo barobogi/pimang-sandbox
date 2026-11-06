@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "독도",
+        "station_name": "독도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.244084,
+          131.866696
+        ]
+      },
+      {
+        "target_landmark": "관음도",
+        "station_name": "울릉 여객선터미널",
+        "line": "연안여객선",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.540181,
+          130.913623
+        ]
+      },
+      {
+        "target_landmark": "서빙백류지",
+        "station_name": "서빙백류지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.48,
+          130.892
+        ]
+      },
+      {
+        "target_landmark": "저동방죽",
+        "station_name": "저동방죽 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.503,
+          130.821
+        ]
+      },
+      {
+        "target_landmark": "통구미",
+        "station_name": "통구미 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.468668,
+          130.862645
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "울릉 중앙 공영주차장",
+        "coordinates": [
+          37.542981,
+          130.915623
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "울릉 제2 공영주차장",
+        "coordinates": [
+          37.4784,
+          130.888
+        ],
+        "capacity": 30,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "울릉 제3 공영주차장",
+        "coordinates": [
+          37.465468,
+          130.861045
+        ],
+        "capacity": 327,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "울릉군은 울릉도와 독도를 관할하는 대한민국 최동단의 군으로 화산섬의 절경과 바다 자원, 독도의 역사가 함께한 섬 군이다.",
   "data_sources": [
     {
