@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jungwon-gu, Seongnam",
+      "landmarks": {
+        "성남아트센터": [
+          "Seongnam Arts Center",
+          "Seongnam's flagship venue for performances and exhibitions."
+        ],
+        "상대원동 상권": [
+          "Sangdaewon-dong District",
+          "Commercial hub of Jungwon-gu in Sangdaewon-dong."
+        ],
+        "탄천": [
+          "Tancheon Stream",
+          "Stream flowing through Jungwon-gu."
+        ],
+        "성남문화원": [
+          "Seongnam Cultural Center",
+          "Cultural facility of the Seongnam region."
+        ],
+        "여수정공원": [
+          "Yeosujeong Park",
+          "Signature neighborhood park in Yeosu-dong, Jungwon-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 城南市 中園区",
+      "landmarks": {
+        "성남아트센터": [
+          "城南アートセンター",
+          "城南を代表する公演・展示施設。"
+        ],
+        "상대원동 상권": [
+          "上大園洞商圏",
+          "上大園洞に形成された中園区を代表する商圏。"
+        ],
+        "탄천": [
+          "炭川",
+          "中園区を流れる支流。"
+        ],
+        "성남문화원": [
+          "城南文化院",
+          "城南地域の文化施設。"
+        ],
+        "여수정공원": [
+          "余水亭公園",
+          "中園区余水洞の代表的な近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 城南市 中原区",
+      "landmarks": {
+        "성남아트센터": [
+          "城男艺术中心",
+          "城南代表性的演出展览场馆。"
+        ],
+        "상대원동 상권": [
+          "上大院洞商圈",
+          "上大院洞形成的中原区代表性商圈。"
+        ],
+        "탄천": [
+          "炭川",
+          "流经中原区的河流。"
+        ],
+        "성남문화원": [
+          "城南文化院",
+          "城南地区的文化设施。"
+        ],
+        "여수정공원": [
+          "余水亭公园",
+          "中原区余水洞的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
