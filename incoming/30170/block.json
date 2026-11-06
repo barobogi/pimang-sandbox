@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "한밭수목원 봄꽃",
+        "갑천 벚꽃"
+      ],
+      "summer": [
+        "한밭수목원 여름",
+        "갑천 물놀이장"
+      ],
+      "autumn": [
+        "장태산 단풍",
+        "한밭수목원 가을"
+      ],
+      "winter": [
+        "대전예술의전당 겨울 조명",
+        "장태산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "한밭수목원 야경",
+        "coordinates": [
+          36.369222,
+          127.388427
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "갑천 야경",
+        "coordinates": [
+          36.354546,
+          127.354556
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "대전 서구는 둔산신도시와 대전예술의전당, 한밭수목원이 자리한 대전 서부의 대표 주거 문화 구이다.",
   "data_sources": [
     {
