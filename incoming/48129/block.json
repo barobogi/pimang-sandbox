@@ -147,6 +147,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "여좌천",
+        "station_name": "여좌천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.164276,
+          128.660152
+        ]
+      },
+      {
+        "target_landmark": "진해해군기지",
+        "station_name": "진해해군기지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.154012,
+          128.653947
+        ]
+      },
+      {
+        "target_landmark": "진해구청",
+        "station_name": "진해버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.132213,
+          128.710919
+        ]
+      },
+      {
+        "target_landmark": "경화역",
+        "station_name": "경화역 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.159106,
+          128.686071
+        ]
+      },
+      {
+        "target_landmark": "진해만",
+        "station_name": "진해만 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.08007,
+          128.669145
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "진해 중앙 공영주차장",
+        "coordinates": [
+          35.135013,
+          128.712519
+        ],
+        "capacity": 137,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "진해 제2 공영주차장",
+        "coordinates": [
+          35.08127,
+          128.669545
+        ],
+        "capacity": 299,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "진해구는 해군기지와 벚꽃 명소로 유명한 창원 남부의 구로 진해만과 여좌천이 자리한다.",
   "data_sources": [
     {
