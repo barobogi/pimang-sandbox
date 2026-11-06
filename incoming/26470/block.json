@@ -289,6 +289,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "온천천 벚꽃길",
+        "배산 봄 산책"
+      ],
+      "summer": [
+        "온천천 여름 물놀이",
+        "부산아시아드주경기장 여름"
+      ],
+      "autumn": [
+        "배산 단풍",
+        "온천천 가을"
+      ],
+      "winter": [
+        "부산아시아드주경기장 겨울 조명",
+        "배산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "배산 야경",
+        "coordinates": [
+          35.173473,
+          129.095751
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "부산아시아드주경기장 야경",
+        "coordinates": [
+          35.173,
+          129.06
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "부산 연제구는 연산동 상권과 부산아시아드주경기장, 온천천이 함께한 부산 중부의 구이다.",
   "data_sources": [
     {
