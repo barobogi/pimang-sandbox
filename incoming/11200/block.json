@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성동초등학교 운동장",
+        "coordinates": [
+          37.53726,
+          127.028266
+        ],
+        "capacity": 2100,
+        "address": "서울특별시 성동구"
+      },
+      {
+        "name": "성동실내체육관",
+        "coordinates": [
+          37.536935,
+          127.072452
+        ],
+        "capacity": 2900,
+        "address": "서울특별시 성동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서울숲",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "뚝섬한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성수대교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "왕십리골목시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성수동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "성동구는 조선 시대 한양의 동쪽 외곽에서 왕십리를 중심으로 발달한 구역으로, 한양도성 성곽과 청계천이 지나며 근현대에는 직조공업과 성수동 공장들이 산업의 중심이 되었다가 현재는 서울숲과 성수동 일대가 문화·생태 명소로 재탄생한 자치구이다.",
   "data_sources": [
     {
