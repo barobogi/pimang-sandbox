@@ -355,5 +355,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gyeyang-gu, Incheon",
+      "landmarks": {
+        "계양산": [
+          "Gyeyangsan Mountain",
+          "Signature peak of northern Incheon with hiking trails."
+        ],
+        "계양역 신도시": [
+          "Gyeyang Station New Town",
+          "Large residential new town centered on Gyeyang Station."
+        ],
+        "작전동 상권": [
+          "Jakjeon-dong District",
+          "Everyday commercial hub of Gyeyang-gu in Jakjeon-dong."
+        ],
+        "계양천": [
+          "Gyeyangcheon Stream",
+          "Stream flowing through Gyeyang-gu."
+        ],
+        "계양문화예술회관": [
+          "Gyeyang Arts Center",
+          "Gyeyang-gu's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 桂陽区",
+      "landmarks": {
+        "계양산": [
+          "桂陽山",
+          "仁川北部を代表する山。登山道が整備されている。"
+        ],
+        "계양역 신도시": [
+          "桂陽駅新都市",
+          "桂陽駅を中心に造成された大規模住宅団地。"
+        ],
+        "작전동 상권": [
+          "作戦洞商圏",
+          "作戦洞に形成された桂陽区を代表する生活商圏。"
+        ],
+        "계양천": [
+          "桂陽川",
+          "桂陽区を流れる支流。"
+        ],
+        "계양문화예술회관": [
+          "桂陽文化芸術会館",
+          "桂陽区を代表する公演・展示施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 桂阳区",
+      "landmarks": {
+        "계양산": [
+          "桂阳山",
+          "仁川北部的代表性山峦，建有登山步道。"
+        ],
+        "계양역 신도시": [
+          "桂阳站新城",
+          "以桂阳站为中心建成的大型居住区。"
+        ],
+        "작전동 상권": [
+          "作战洞商圈",
+          "作战洞形成的桂阳区代表性生活商圈。"
+        ],
+        "계양천": [
+          "桂阳川",
+          "流经桂阳区的河流。"
+        ],
+        "계양문화예술회관": [
+          "桂阳文化艺术会馆",
+          "桂阳区代表性演出展览场馆。"
+        ]
+      }
+    }
   }
 }
