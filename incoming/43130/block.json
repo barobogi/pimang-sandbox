@@ -213,6 +213,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "충주초등학교 운동장",
+        "coordinates": [
+          36.983772,
+          127.919386
+        ],
+        "capacity": 4800,
+        "address": "충청북도 충주시"
+      },
+      {
+        "name": "충주실내체육관",
+        "coordinates": [
+          37.017075,
+          127.938738
+        ],
+        "capacity": 5200,
+        "address": "충청북도 충주시"
+      },
+      {
+        "name": "충주중앙공원 비상집합장소",
+        "coordinates": [
+          36.876417,
+          128.064701
+        ],
+        "capacity": 4400,
+        "address": "충청북도 충주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "탄금대공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "충주중앙탑",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "월악산",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "충주댐",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "충주호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "충주시는 삼국 시대 국원 소경이었던 충주의 옛 중심으로 충주호와 탄금대, 월악산 국립공원 등 자연 명소와 중앙탑 등 유적이 함께한 충북 대표 관광 도시다.",
   "data_sources": [
     {
