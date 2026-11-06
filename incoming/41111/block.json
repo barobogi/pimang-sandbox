@@ -406,10 +406,11 @@
     "civil_service_center": {
       "location_name": "장안구청 민원실 앞",
       "coordinates": [
-        127.000118,
-        37.317635
+        127.011675,
+        37.303953
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "031-1899-3300",
