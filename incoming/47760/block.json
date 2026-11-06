@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongyang-gun, Gyeongbuk",
+      "landmarks": {
+        "일월산": [
+          "Ilwolsan Mountain",
+          "Signature mountain attraction of Yeongyang-gun, Gyeongbuk."
+        ],
+        "영양반딧불이생태공원": [
+          "Yeongyang Firefly Eco Park",
+          "Signature ecological park attraction of Yeongyang-gun, Gyeongbuk."
+        ],
+        "두들마을": [
+          "Dudeul Village",
+          "Signature traditional village attraction of Yeongyang-gun, Gyeongbuk."
+        ],
+        "영양군청": [
+          "Yeongyang County Office",
+          "Administrative center of Yeongyang-gun, Gyeongbuk."
+        ],
+        "영양시장": [
+          "Yeongyang Market",
+          "Signature market attraction of Yeongyang-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 英陽郡",
+      "landmarks": {
+        "일월산": [
+          "日月山",
+          "慶尚北道英陽郡を代表する名所。"
+        ],
+        "영양반딧불이생태공원": [
+          "英陽ホタル生態公園",
+          "慶尚北道英陽郡を代表する名所。"
+        ],
+        "두들마을": [
+          "ドゥドゥル村",
+          "慶尚北道英陽郡を代表する名所。"
+        ],
+        "영양군청": [
+          "英陽郡庁",
+          "慶尚北道英陽郡を代表する名所。"
+        ],
+        "영양시장": [
+          "英陽市場",
+          "慶尚北道英陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 英阳郡",
+      "landmarks": {
+        "일월산": [
+          "日月山",
+          "庆尚北道英阳郡的代表性名山。"
+        ],
+        "영양반딧불이생태공원": [
+          "英阳萤火虫生态公园",
+          "庆尚北道英阳郡的代表性生态公园。"
+        ],
+        "두들마을": [
+          "土堤村",
+          "庆尚北道英阳郡的代表性传统村落。"
+        ],
+        "영양군청": [
+          "英阳郡厅",
+          "庆尚北道英阳郡的行政中心。"
+        ],
+        "영양시장": [
+          "英阳市场",
+          "庆尚北道英阳郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
