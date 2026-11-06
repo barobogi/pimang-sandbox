@@ -144,6 +144,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "남한산성",
+        "station_name": "남한산성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.477149,
+          127.182164
+        ]
+      },
+      {
+        "target_landmark": "곤지암신도시",
+        "station_name": "경기광주역",
+        "line": "경강선",
+        "walk_minutes": 36,
+        "coordinates": [
+          37.4165,
+          127.2566
+        ]
+      },
+      {
+        "target_landmark": "광주시청",
+        "station_name": "경기광주역",
+        "line": "경강선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4165,
+          127.2566
+        ]
+      },
+      {
+        "target_landmark": "경안천",
+        "station_name": "경안천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.361764,
+          127.236818
+        ]
+      },
+      {
+        "target_landmark": "초부지구",
+        "station_name": "경기광주역",
+        "line": "경강선",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.4165,
+          127.2566
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광주 중앙 공영주차장",
+        "coordinates": [
+          37.4136,
+          127.2834
+        ],
+        "capacity": 381,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "광주 제2 공영주차장",
+        "coordinates": [
+          37.418,
+          127.2588
+        ],
+        "capacity": 503,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "경기 광주시는 남한산성이 자리한 경기 동부의 도시이자 곤지암신도시가 발달했다.",
   "data_sources": [
     {
