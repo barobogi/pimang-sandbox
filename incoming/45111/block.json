@@ -147,6 +147,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "전주한옥마을",
+        "station_name": "완산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 12,
+        "coordinates": [
+          35.811787,
+          127.148803
+        ]
+      },
+      {
+        "target_landmark": "경기전",
+        "station_name": "완산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.811787,
+          127.148803
+        ]
+      },
+      {
+        "target_landmark": "전동성당",
+        "station_name": "완산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.811787,
+          127.148803
+        ]
+      },
+      {
+        "target_landmark": "오목대",
+        "station_name": "완산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.811787,
+          127.148803
+        ]
+      },
+      {
+        "target_landmark": "남부시장",
+        "station_name": "완산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 10,
+        "coordinates": [
+          35.811787,
+          127.148803
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "경기전 인근 공영주차장",
+        "coordinates": [
+          35.8155,
+          127.1465
+        ],
+        "capacity": 120,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남부시장 공영주차장",
+        "coordinates": [
+          35.8067,
+          127.1364
+        ],
+        "capacity": 110,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "완산구는 조선 시대 전주부의 중심으로 전주한옥마을과 경기전, 전동성당 등 유서 깊은 문화유산이 밀집한 전주의 원도심 구이다.",
   "data_sources": [
     {
