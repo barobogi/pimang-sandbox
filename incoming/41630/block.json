@@ -429,5 +429,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yangju.go.kr",
+    "civil_service_center": {
+      "location_name": "양주시청 민원실 앞",
+      "coordinates": [
+        127.012432,
+        37.805132
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "031-8082-4114",
+      "info": "경기도 양주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "양주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.012232,
+      37.805433
+    ],
+    "cctv_zone_count": 34
+  },
+  "urban_parks_trails": {
+    "park_name": "옥정근린공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "양주 은행축제",
+    "typical_month": 10,
+    "venue_name": "양주시청 광장",
+    "venue_coords": [
+      127.011532,
+      37.804833
+    ]
   }
 }
