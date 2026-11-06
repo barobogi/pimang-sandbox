@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Ulsan",
+      "landmarks": {
+        "미포해변": [
+          "Mipo Beach",
+          "Signature East Sea beach, famed for the Mipo railway tracks."
+        ],
+        "정자해수욕장": [
+          "Jeongja Beach",
+          "Signature beach on the East Sea coast."
+        ],
+        "현대자동차 울산공장": [
+          "Hyundai Motor Ulsan Plant",
+          "The world's largest automobile production plant."
+        ],
+        "강동공원": [
+          "Gangdong Park",
+          "Signature park of the Gangdong area in Dong-gu."
+        ],
+        "화암공원": [
+          "Hwaam Park",
+          "Signature neighborhood park of Dong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 東区",
+      "landmarks": {
+        "미포해변": [
+          "尾浦ビーチ",
+          "東海を代表するビーチ。尾浦の鉄道線路が有名。"
+        ],
+        "정자해수욕장": [
+          "正津海水浴場",
+          "東海を代表する海水浴場。"
+        ],
+        "현대자동차 울산공장": [
+          "現代自動車蔚山工場",
+          "世界最大規模の自動車生産工場。"
+        ],
+        "강동공원": [
+          "江東公園",
+          "東区江東地区を代表する公園。"
+        ],
+        "화암공원": [
+          "花巌公園",
+          "東区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 东区",
+      "landmarks": {
+        "미포해변": [
+          "尾浦海滩",
+          "东海岸代表性海滩，尾浦铁轨闻名遐迩。"
+        ],
+        "정자해수욕장": [
+          "正珠海水浴场",
+          "东海岸的代表性海水浴场。"
+        ],
+        "현대자동차 울산공장": [
+          "现代汽车蔚山工厂",
+          "全球规模最大的汽车生产基地。"
+        ],
+        "강동공원": [
+          "江东公园",
+          "东区江东地区的代表性公园。"
+        ],
+        "화암공원": [
+          "花岩公园",
+          "东区的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
