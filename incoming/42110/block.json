@@ -240,6 +240,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "춘천초등학교 운동장",
+        "coordinates": [
+          37.78484,
+          127.594987
+        ],
+        "capacity": 5200,
+        "address": "강원특별자치도 춘천시"
+      },
+      {
+        "name": "춘천실내체육관",
+        "coordinates": [
+          37.921181,
+          127.771795
+        ],
+        "capacity": 4900,
+        "address": "강원특별자치도 춘천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "남이섬",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "의암호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼악산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "춘천 명동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "춘천인형극장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "춘천시는 의암호와 삼악산, 춘천호가 어우러진 호수 도시로 국토 남이섬과 마임축제, 닭갈비 먹거리 문화로 전국에 알려진 강원 도청 소재지이다.",
   "data_sources": [
     {
