@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.113979,
+          127.002312
+        ],
+        "capacity": 4400,
+        "address": "광주광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.136054,
+          126.923344
+        ],
+        "capacity": 4200,
+        "address": "광주광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "무등산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국립아시아문화전당",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증심사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동명동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "충장로",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "동구는 광주의 원도심으로 국립아시아문화전당과 충장로, 동명동이 자리하고 무등산 국립공원 증심사 지구가 함께한 광주 동부의 구이다.",
   "data_sources": [
     {
