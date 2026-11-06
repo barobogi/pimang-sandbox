@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "상주해변",
+        "station_name": "상주해변 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.7698,
+          127.8148
+        ]
+      },
+      {
+        "target_landmark": "미조항",
+        "station_name": "미조항 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.7388,
+          127.7868
+        ]
+      },
+      {
+        "target_landmark": "금산보리암",
+        "station_name": "금산보리암 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.7318,
+          127.7758
+        ]
+      },
+      {
+        "target_landmark": "설천약수",
+        "station_name": "설천약수 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.7738,
+          127.8668
+        ]
+      },
+      {
+        "target_landmark": "독일마을",
+        "station_name": "남해버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.800833,
+          128.041729
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남해 중앙 공영주차장",
+        "coordinates": [
+          34.800033,
+          128.039729
+        ],
+        "capacity": 230,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "남해 제2 공영주차장",
+        "coordinates": [
+          34.771,
+          127.8676
+        ],
+        "capacity": 325,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남해 제3 공영주차장",
+        "coordinates": [
+          34.7674,
+          127.8148
+        ],
+        "capacity": 311,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "남해군은 남해안 최남단에 자리한 섬 군으로 상주해변과 미조항, 금산보리암, 독일마을 등의 관광 자원과 유서 깊은 해양 문화가 함께한다.",
   "data_sources": [
     {
