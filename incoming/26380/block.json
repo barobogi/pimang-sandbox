@@ -214,6 +214,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "사하초등학교 운동장",
+        "coordinates": [
+          35.109782,
+          129.021589
+        ],
+        "capacity": 5600,
+        "address": "부산광역시 사하구"
+      },
+      {
+        "name": "사하실내체육관",
+        "coordinates": [
+          34.993483,
+          128.982932
+        ],
+        "capacity": 5800,
+        "address": "부산광역시 사하구"
+      },
+      {
+        "name": "사하중앙공원 비상집합장소",
+        "coordinates": [
+          35.044247,
+          128.928912
+        ],
+        "capacity": 6800,
+        "address": "부산광역시 사하구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "감천문화마을",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "다대포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "을숙도",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구평공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "하단동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부산 사하구는 감천문화마을과 다대포, 을숙도가 자리한 부산 서부의 해안 구이다.",
   "data_sources": [
     {
