@@ -147,6 +147,85 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "무등산",
+        "station_name": "무등산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.114457,
+          127.000591
+        ]
+      },
+      {
+        "target_landmark": "국립아시아문화전당",
+        "station_name": "문화전철역",
+        "line": "광주 1호선",
+        "exit_no": 2,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.1428,
+          126.9217
+        ]
+      },
+      {
+        "target_landmark": "증심사",
+        "station_name": "증심사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.126446,
+          126.969547
+        ]
+      },
+      {
+        "target_landmark": "동명동",
+        "station_name": "충장로역",
+        "line": "광주 1호선",
+        "exit_no": 10,
+        "walk_minutes": 9,
+        "coordinates": [
+          35.1449,
+          126.9249
+        ]
+      },
+      {
+        "target_landmark": "충장로",
+        "station_name": "문화전철역",
+        "line": "광주 1호선",
+        "exit_no": 2,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.1428,
+          126.9217
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.130846,
+          126.969547
+        ],
+        "capacity": 381,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.148203,
+          126.927308
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "동구는 광주의 원도심으로 국립아시아문화전당과 충장로, 동명동이 자리하고 무등산 국립공원 증심사 지구가 함께한 광주 동부의 구이다.",
   "data_sources": [
     {
