@@ -1,0 +1,589 @@
+{
+  "block_code": "42720",
+  "block_name": "강원특별자치도 홍천군",
+  "bbox": [
+    127.535244,
+    37.552263,
+    128.588787,
+    37.94552
+  ],
+  "center": [
+    37.748891,
+    128.062016
+  ],
+  "landmarks": [
+    {
+      "name": "홍천강",
+      "lat": 37.766143,
+      "lng": 127.9708936,
+      "category": "하천/자연",
+      "description": "북한강의 지천으로 홍천군을 관통하며 강변 산책로와 자전거길이 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 103.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%ED%99%8D%EC%B2%9C%EA%B0%95_%EA%B2%8C%EC%9D%B4%ED%8A%B8%EB%B3%BC%EC%9E%A5%28%EB%8F%84%EC%8B%9C%EC%82%B0%EB%A6%BC%EA%B3%B5%EC%9B%90_%ED%86%A0%EB%A6%AC%EC%88%B2%29IMG_3996.jpg/1280px-%ED%99%8D%EC%B2%9C%EA%B0%95_%EA%B2%8C%EC%9D%B4%ED%8A%B8%EB%B3%BC%EC%9E%A5%28%EB%8F%84%EC%8B%9C%EC%82%B0%EB%A6%BC%EA%B3%B5%EC%9B%90_%ED%86%A0%EB%A6%AC%EC%88%B2%29IMG_3996.jpg"
+    },
+    {
+      "name": "팔봉산",
+      "lat": 37.6958831,
+      "lng": 127.6971195,
+      "category": "산/자연",
+      "description": "홍천군의 진산으로 봄철 팔봉산 복사꽃 군락지로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%B4%89%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 79.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%EC%A0%9C5%EA%B2%BD_%ED%8C%94%EB%B4%89%EC%82%B0.jpg/1280px-%EC%A0%9C5%EA%B2%BD_%ED%8C%94%EB%B4%89%EC%82%B0.jpg"
+    },
+    {
+      "name": "용추계곡",
+      "lat": 37.66,
+      "lng": 127.93,
+      "category": "계곡/자연",
+      "description": "홍천의 대표 계곡으로 용이 오르내렸다는 전설을 지닌 폭포 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 49.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hongcheon-gun_office.JPG/1280px-Hongcheon-gun_office.JPG"
+    },
+    {
+      "name": "내면숲휴양림",
+      "lat": 37.6,
+      "lng": 128.05,
+      "category": "숲휴양림",
+      "description": "내면 일대의 숲을 활용한 국유림 휴양림으로 숲 체험 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 3.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hongcheon-gun_office.JPG/1280px-Hongcheon-gun_office.JPG"
+    },
+    {
+      "name": "홍천문화예술의전당",
+      "lat": 37.697,
+      "lng": 127.888,
+      "category": "공연장/문화",
+      "description": "홍천군 대표 공연·전시 문화시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 69.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hongcheon-gun_office.JPG/1280px-Hongcheon-gun_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "홍천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "홍천강 → 홍천문화예술의전당 → 용추계곡 → 내면숲휴양림 → 팔봉산 순으로 이어지는 강원특별자치도 홍천군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "홍천강",
+        "홍천문화예술의전당",
+        "용추계곡",
+        "내면숲휴양림",
+        "팔봉산"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "홍천 그린 랜드스케이프 플라이트",
+      "description": "홍천강 → 용추계곡 → 팔봉산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 홍천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "홍천강",
+        "용추계곡",
+        "팔봉산"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "홍천강 옛맛식당",
+      "lat": 37.766843,
+      "lng": 127.971314,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "내면숲휴양림 동네밥집",
+      "lat": 37.60007,
+      "lng": 128.04993,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "용추계곡 할매집",
+      "lat": 37.65986,
+      "lng": 127.93021,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "홍천문화예술의전당 골목식당",
+      "lat": 37.69728,
+      "lng": 127.88835,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "홍천강",
+        "station_name": "홍천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.768143,
+          127.971294
+        ]
+      },
+      {
+        "target_landmark": "팔봉산",
+        "station_name": "팔봉산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.696283,
+          127.699519
+        ]
+      },
+      {
+        "target_landmark": "용추계곡",
+        "station_name": "용추계곡 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6604,
+          127.9324
+        ]
+      },
+      {
+        "target_landmark": "내면숲휴양림",
+        "station_name": "내면숲휴양림 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6004,
+          128.0524
+        ]
+      },
+      {
+        "target_landmark": "홍천문화예술의전당",
+        "station_name": "홍천문화예술의전당 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6974,
+          127.8904
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "홍천 중앙 공영주차장",
+        "coordinates": [
+          37.765743,
+          127.973294
+        ],
+        "capacity": 107,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "홍천 제2 공영주차장",
+        "coordinates": [
+          37.602,
+          128.0488
+        ],
+        "capacity": 30,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "홍천 제3 공영주차장",
+        "coordinates": [
+          37.66,
+          127.9276
+        ],
+        "capacity": 282,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "홍천초등학교 운동장",
+        "coordinates": [
+          37.77568,
+          128.10174
+        ],
+        "capacity": 6200,
+        "address": "강원특별자치도 홍천군"
+      },
+      {
+        "name": "홍천실내체육관",
+        "coordinates": [
+          37.661737,
+          127.707179
+        ],
+        "capacity": 2600,
+        "address": "강원특별자치도 홍천군"
+      },
+      {
+        "name": "홍천중앙공원 비상집합장소",
+        "coordinates": [
+          37.718041,
+          127.876607
+        ],
+        "capacity": 3400,
+        "address": "강원특별자치도 홍천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "홍천강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "팔봉산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "용추계곡",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내면숲휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "홍천문화예술의전당",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "홍천강 벚꽃길",
+        "팔봉산 봄 진달래"
+      ],
+      "summer": [
+        "홍천강 여름 물놀이",
+        "용추계곡 여름"
+      ],
+      "autumn": [
+        "팔봉산 단풍",
+        "홍천강 억새"
+      ],
+      "winter": [
+        "홍천강 설경",
+        "내면숲휴양림 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "홍천강 야경",
+        "coordinates": [
+          37.766143,
+          127.970894
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "팔봉산 야경",
+        "coordinates": [
+          37.695883,
+          127.697119
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "홍천군은 홍천강이 흐르는 강원 내륙의 군으로 팔봉산 복사꽃 관광과 메밀·고추 등 농특산물 산지로서 내면숲휴양림 등 산림 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hongcheon-gun, Gangwon",
+      "landmarks": {
+        "홍천강": [
+          "Hongcheon River",
+          "Bukhan River tributary crossing Hongcheon-gun with riverside trails and bike paths."
+        ],
+        "팔봉산": [
+          "Palbongsan Mountain",
+          "Hongcheon's home mountain, famed for its spring peach blossom colonies."
+        ],
+        "용추계곡": [
+          "Yongchu Valley",
+          "Hongcheon's signature valley with a waterfall linked to a dragon legend."
+        ],
+        "내면숲휴양림": [
+          "Naemyeon Forest Recreation Area",
+          "National forest recreation area using the Naemyeon woods, a forest experience space."
+        ],
+        "홍천문화예술의전당": [
+          "Hongcheon Culture and Arts Center",
+          "Hongcheon-gun's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 洪川郡",
+      "landmarks": {
+        "홍천강": [
+          "洪川江",
+          "北漢江の支流で洪川郡を貫く。川辺の散歩道と自転車道が整備されている。"
+        ],
+        "팔봉산": [
+          "八峰山",
+          "洪川郡の鎮山。春の八峰山桃の花群落地として有名。"
+        ],
+        "용추계곡": [
+          "龍滝渓谷",
+          "洪川を代表する渓谷。龍が昇り降りしたという伝説を持つ滝の名所。"
+        ],
+        "내면숲휴양림": [
+          "内面森林休養林",
+          "内面一帯の森を活用した国有林休養林。森の体験空間。"
+        ],
+        "홍천문화예술의전당": [
+          "洪川文化芸術の殿堂",
+          "洪川郡を代表する公演・展示の文化施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 洪川郡",
+      "landmarks": {
+        "홍천강": [
+          "洪川江",
+          "北汉江支流，纵贯洪川郡，江边建有步道和自行车道。"
+        ],
+        "팔봉산": [
+          "八峰山",
+          "洪川郡主山，以春日桃花花海闻名。"
+        ],
+        "용추계곡": [
+          "龙湫溪谷",
+          "洪川代表性溪谷，瀑布留有神龙出入的传说。"
+        ],
+        "내면숲휴양림": [
+          "内面森林休养林",
+          "利用内面一带森林的国有林休养林，森林体验空间。"
+        ],
+        "홍천문화예술의전당": [
+          "洪川文化艺术殿堂",
+          "洪川郡代表性的演出展览文化设施。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.hongcheon.gangwon.kr",
+    "civil_service_center": {
+      "location_name": "홍천군청 민원실 앞",
+      "coordinates": [
+        127.883347,
+        37.694017
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-432-7801",
+      "info": "강원특별자치도 홍천군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "홍천군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.062016,
+      37.748791
+    ],
+    "cctv_zone_count": 39,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "홍천강 수변공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "홍천 시민축제",
+    "typical_month": 10,
+    "venue_name": "홍천강 수변공원",
+    "venue_coords": [
+      128.061416,
+      37.748591
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "홍천군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.884147,
+      37.694917
+    ],
+    "reservation_url": "https://www.hongcheon.gangwon.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "홍천군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.883547,
+      37.692617
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "홍천군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.880947,
+      37.693417
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "홍천강 옛맛식당",
+    "coordinates": [
+      127.971314,
+      37.766843
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (홍천군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=홍천군청&goalx=127.883347&goaly=37.694017",
+    "kakaonavi_url": "kakaonavi://navigate?name=홍천군청&x=127.883347&y=37.694017&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=홍천군청&dlng=127.883347&dlat=37.694017&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:31",
+      "sunset": "18:39",
+      "noon_altitude_deg": 52.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:06",
+      "sunset": "19:53",
+      "noon_altitude_deg": 75.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:16",
+      "sunset": "18:24",
+      "noon_altitude_deg": 52.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:13",
+      "noon_altitude_deg": 28.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "홍천군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.062666,
+          37.747291
+        ],
+        [
+          128.062016,
+          37.748791
+        ],
+        [
+          128.061166,
+          37.747391
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "홍천군 전통시장 만남의거리",
+    "anchor_center": [
+      127.882814,
+      37.69315
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 240,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
