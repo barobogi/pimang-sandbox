@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "불영사 봄",
+        "왕피천 봄"
+      ],
+      "summer": [
+        "왕피천 여름",
+        "망양정 여름"
+      ],
+      "autumn": [
+        "불영사 단풍",
+        "망양정 가을"
+      ],
+      "winter": [
+        "망양정 해맞이",
+        "왕피천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "망양정 야경",
+        "coordinates": [
+          36.96816,
+          129.412788
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "왕피천 야경",
+        "coordinates": [
+          36.964847,
+          129.395082
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "울진군은 왕피천과 불영사, 망양정이 자리한 경북 동해안 최북단의 군이다.",
   "data_sources": [
     {
