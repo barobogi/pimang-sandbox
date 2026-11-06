@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geochang-gun, Gyeongnam",
+      "landmarks": {
+        "수승대": [
+          "Suseungdae",
+          "Signature scenic attraction of Geochang-gun, Gyeongnam."
+        ],
+        "덕유산": [
+          "Deogyusan Mountain",
+          "Signature national park mountain of Geochang-gun, Gyeongnam."
+        ],
+        "거창창포원": [
+          "Geochang Iris Garden",
+          "Signature garden attraction of Geochang-gun, Gyeongnam."
+        ],
+        "거창군청": [
+          "Geochang County Office",
+          "Administrative center of Geochang-gun, Gyeongnam."
+        ],
+        "거창시장": [
+          "Geochang Market",
+          "Signature market attraction of Geochang-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 居昌郡",
+      "landmarks": {
+        "수승대": [
+          "水勝台",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "덕유산": [
+          "徳裕山",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "거창창포원": [
+          "居昌菖蒲園",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "거창군청": [
+          "居昌郡庁",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "거창시장": [
+          "居昌市場",
+          "慶尚南道居昌郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 居昌郡",
+      "landmarks": {
+        "수승대": [
+          "水胜台",
+          "庆尚南道居昌郡的代表性胜景。"
+        ],
+        "덕유산": [
+          "德裕山",
+          "庆尚南道居昌郡的代表性国立公园名山。"
+        ],
+        "거창창포원": [
+          "居昌菖蒲园",
+          "庆尚南道居昌郡的代表性花园。"
+        ],
+        "거창군청": [
+          "居昌郡厅",
+          "庆尚南道居昌郡的行政中心。"
+        ],
+        "거창시장": [
+          "居昌市场",
+          "庆尚南道居昌郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
