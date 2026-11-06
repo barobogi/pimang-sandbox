@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양평초등학교 운동장",
+        "coordinates": [
+          37.564778,
+          127.347486
+        ],
+        "capacity": 5600,
+        "address": "경기도 양평군"
+      },
+      {
+        "name": "양평실내체육관",
+        "coordinates": [
+          37.592542,
+          127.31522
+        ],
+        "capacity": 1500,
+        "address": "경기도 양평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "두물머리",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양수리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "용문사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "양평역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소싸울너른공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "양평군은 한강과 남한강, 북한강이 어우러진 경기 동부의 군으로 두물머리와 양수리 등의 수변 명소와 용문산 국민관광지, 소싸울너른공원 등이 함께한다.",
   "data_sources": [
     {
