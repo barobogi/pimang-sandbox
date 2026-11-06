@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gunsan-si, Jeonbuk",
+      "landmarks": {
+        "군산근대역사박물관": [
+          "Gunsan Modern History Museum",
+          "Museum displaying the port-opening era history of Gunsan."
+        ],
+        "경암동철길마을": [
+          "Gyeongam-dong Railroad Town",
+          "Village built along an old rail line, famed for cherry blossoms on the tracks."
+        ],
+        "군산내항": [
+          "Gunsan Inner Port",
+          "Signature waterfront blending old harbor scenes and modern architecture."
+        ],
+        "월명공원": [
+          "Wolmyeong Park",
+          "City park in downtown Gunsan with a lake and walking trails."
+        ],
+        "금강하구둑": [
+          "Geum River Estuary Bank",
+          "Sea dike across the Geum River estuary, famed as a migratory bird haven."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 群山市",
+      "landmarks": {
+        "군산근대역사박물관": [
+          "群山近代歴史博物館",
+          "群山開港期の歴史を展示する代表的な近代史博物館。"
+        ],
+        "경암동철길마을": [
+          "景岩洞鉄道村",
+          "古い鉄道の上に造られた村。鉄道の桜の名所。"
+        ],
+        "군산내항": [
+          "群山内港",
+          "昔の港の風景と近代建築が調和する群山を代表する観光地。"
+        ],
+        "월명공원": [
+          "月明公園",
+          "群山市内に造られた代表的な公園。湖と散歩道がある。"
+        ],
+        "금강하구둑": [
+          "錦江河の口締切堤",
+          "錦江河の口を横断する防潮堤。渡り鳥の飛来地として有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 群山市",
+      "landmarks": {
+        "군산근대역사박물관": [
+          "群山近代历史博物馆",
+          "展示群山开港期历史的代表性近代史博物馆。"
+        ],
+        "경암동철길마을": [
+          "景岩洞铁路村",
+          "建于旧铁道上的村落，铁道樱花名胜。"
+        ],
+        "군산내항": [
+          "群山内港",
+          "旧港风情与近代建筑交融的群山代表性观光地。"
+        ],
+        "월명공원": [
+          "月明公园",
+          "群山市内的代表性公园，配有湖水和步道。"
+        ],
+        "금강하구둑": [
+          "锦江口防潮堤",
+          "横跨锦江口的防潮堤，著名的候鸟栖息地。"
+        ]
+      }
+    }
   }
 }
