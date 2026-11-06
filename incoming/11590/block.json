@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동작초등학교 운동장",
+        "coordinates": [
+          37.493352,
+          126.973943
+        ],
+        "capacity": 1400,
+        "address": "서울특별시 동작구"
+      },
+      {
+        "name": "동작실내체육관",
+        "coordinates": [
+          37.514952,
+          126.946576
+        ],
+        "capacity": 5500,
+        "address": "서울특별시 동작구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "국립서울현충원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "노량진수산시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "중앙대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "노들섬",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "보라매공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "동작구는 노량진 수산시장과 국립서울현충원, 중앙대학교가 자리한 서울 남부의 자치구로 한강 노들섬과 보라매공원 등 생활 문화 공간이 발달했다.",
   "data_sources": [
     {
