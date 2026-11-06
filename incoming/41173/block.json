@@ -432,5 +432,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dongan.anyang.go.kr",
+    "civil_service_center": {
+      "location_name": "동안구청 민원실 앞",
+      "coordinates": [
+        126.955651,
+        37.4008
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "031-8045-4114",
+      "info": "경기도 안양시 동안구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동안구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.95495,
+      37.4016
+    ],
+    "cctv_zone_count": 140
+  },
+  "urban_parks_trails": {
+    "park_name": "박달근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "동안 구민축제",
+    "typical_month": 10,
+    "venue_name": "동안구청 광장",
+    "venue_coords": [
+      126.955651,
+      37.4008
+    ]
   }
 }
