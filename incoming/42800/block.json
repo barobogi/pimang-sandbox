@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "두타연",
+        "station_name": "두타연 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.275059,
+          127.995199
+        ]
+      },
+      {
+        "target_landmark": "DMZ자생식물원",
+        "station_name": "DMZ자생식물원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.255798,
+          128.113825
+        ]
+      },
+      {
+        "target_landmark": "양구군청",
+        "station_name": "양구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.109178,
+          127.98795
+        ]
+      },
+      {
+        "target_landmark": "양구시장",
+        "station_name": "양구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          38.109178,
+          127.98795
+        ]
+      },
+      {
+        "target_landmark": "해안분지",
+        "station_name": "해안분지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.290675,
+          128.144618
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양구 중앙 공영주차장",
+        "coordinates": [
+          38.109578,
+          127.98995
+        ],
+        "capacity": 319,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양구 제2 공영주차장",
+        "coordinates": [
+          38.10326,
+          127.990136
+        ],
+        "capacity": 192,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "양구군은 DMZ 자생식물원과 두타연, 펀치볼이 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
