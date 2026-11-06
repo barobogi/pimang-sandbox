@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongdeungpo-gu, Seoul",
+      "landmarks": {
+        "여의도공원": [
+          "Yeouido Park",
+          "Park on Yeouido's Baekseom islet known for its themed gardens and World Flower Plaza."
+        ],
+        "국회의사당": [
+          "National Assembly Building",
+          "Iconic domed seat of Korea's National Assembly and Yeouido's national landmark."
+        ],
+        "63빌딩": [
+          "63 Building",
+          "Korea's first 60-story skyscraper (1985) and symbol of the Yeouido skyline."
+        ],
+        "여의도한강공원": [
+          "Yeouido Hangang Park",
+          "Waterfront park on the Yeouido stretch of the Han River with major sports facilities."
+        ],
+        "영등포시장": [
+          "Yeongdeungpo Market",
+          "Large traditional market near Yeongdeungpo Station famous for fish and fruit fare."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 永登浦区",
+      "landmarks": {
+        "여의도공원": [
+          "汝矣島公園",
+          "汝矣島に造られた公園。多彩な植物園と世界の花の庭で有名。"
+        ],
+        "국회의사당": [
+          "国会議事堂",
+          "大韓民国国会が入るドーム型建築で、汝矣島の国家的ランドマーク。"
+        ],
+        "63빌딩": [
+          "63ビル",
+          "1985年竣工の韓国初の60階級超高層ビル。汝矣島のスカイラインの象徴。"
+        ],
+        "여의도한강공원": [
+          "汝矣島漢江公園",
+          "汝矣島地区の水辺公園。多彩なスポーツ施設を備える。"
+        ],
+        "영등포시장": [
+          "永登浦市場",
+          "永登浦駅近くの大型伝統市場。魚介と果物の名店が並ぶ。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 永登浦区",
+      "landmarks": {
+        "여의도공원": [
+          "汝矣岛公园",
+          "建于汝矣岛上的公园，以主题花园和世界花圃闻名。"
+        ],
+        "국회의사당": [
+          "国会议事堂",
+          "大韩民国国会所在地，穹顶建筑是汝矣岛的国家地标。"
+        ],
+        "63빌딩": [
+          "63大厦",
+          "1985年建成的韩国首座60层摩天大楼，汝矣岛天际线的象征。"
+        ],
+        "여의도한강공원": [
+          "汝矣岛汉江公园",
+          "汝矣岛江畔公园，设有大型体育设施。"
+        ],
+        "영등포시장": [
+          "永登浦市场",
+          "永登浦站旁的大型传统市场，以水产和水果闻名。"
+        ]
+      }
+    }
   }
 }
