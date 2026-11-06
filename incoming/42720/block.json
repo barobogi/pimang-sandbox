@@ -432,10 +432,11 @@
     "civil_service_center": {
       "location_name": "홍천군청 민원실 앞",
       "coordinates": [
-        128.062316,
-        37.748391
+        127.883347,
+        37.694017
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "033-432-7801",
