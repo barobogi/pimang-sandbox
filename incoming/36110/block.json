@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "정부세종청사",
+        "station_name": "정부청사 BRT 정류장",
+        "line": "직행좌석버스(BRT)",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.5077,
+          127.2622
+        ]
+      },
+      {
+        "target_landmark": "세종호수공원",
+        "station_name": "정부청사 BRT 정류장",
+        "line": "직행좌석버스(BRT)",
+        "walk_minutes": 20,
+        "coordinates": [
+          36.5077,
+          127.2622
+        ]
+      },
+      {
+        "target_landmark": "은어송마을",
+        "station_name": "은어송마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.4806,
+          127.3076
+        ]
+      },
+      {
+        "target_landmark": "전의향교",
+        "station_name": "전의향교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.678038,
+          127.200502
+        ]
+      },
+      {
+        "target_landmark": "부강나루",
+        "station_name": "부강나루 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.4336,
+          127.3216
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "세종 중앙 공영주차장",
+        "coordinates": [
+          36.503278,
+          127.261831
+        ],
+        "capacity": 136,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "세종 제2 공영주차장",
+        "coordinates": [
+          36.503298,
+          127.278646
+        ],
+        "capacity": 199,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "세종특별자치시는 연기군 전역과 공주·청주·대전 일부를 합쳐 2012년에 출범한 행정 중심 복합도시로 정부 세종청사가 자리하고 호남평야와 금강 유역의 농경지가 함께한다.",
   "data_sources": [
     {
