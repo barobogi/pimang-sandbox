@@ -338,5 +338,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongam-gun, Jeonnam",
+      "landmarks": {
+        "월출산": [
+          "Wolchulsan Mountain",
+          "Signature national park mountain of Yeongam-gun, Jeonnam."
+        ],
+        "도갑사": [
+          "Dogapsa Temple",
+          "Signature temple heritage of Yeongam-gun, Jeonnam."
+        ],
+        "영산호": [
+          "Yeongsanho Lake",
+          "Signature lake attraction of Yeongam-gun, Jeonnam."
+        ],
+        "영암군청": [
+          "Yeongam County Office",
+          "Administrative center of Yeongam-gun, Jeonnam."
+        ],
+        "영암시장": [
+          "Yeongam Market",
+          "Signature market attraction of Yeongam-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 霊岩郡",
+      "landmarks": {
+        "월출산": [
+          "月出山",
+          "全羅南道霊岩郡を代表する名所。"
+        ],
+        "도갑사": [
+          "道岬寺",
+          "全羅南道霊岩郡を代表する名所。"
+        ],
+        "영산호": [
+          "英山湖",
+          "全羅南道霊岩郡を代表する名所。"
+        ],
+        "영암군청": [
+          "霊岩郡庁",
+          "全羅南道霊岩郡を代表する名所。"
+        ],
+        "영암시장": [
+          "霊岩市場",
+          "全羅南道霊岩郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 灵岩郡",
+      "landmarks": {
+        "월출산": [
+          "月出山",
+          "全罗南道灵岩郡的代表性国立公园名山。"
+        ],
+        "도갑사": [
+          "道岬寺",
+          "全罗南道灵岩郡的代表性古刹。"
+        ],
+        "영산호": [
+          "荣山湖",
+          "全罗南道灵岩郡的代表性湖泊。"
+        ],
+        "영암군청": [
+          "灵岩郡厅",
+          "全罗南道灵岩郡的行政中心。"
+        ],
+        "영암시장": [
+          "灵岩市场",
+          "全罗南道灵岩郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
