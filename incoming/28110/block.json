@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Incheon",
+      "landmarks": {
+        "차이나타운": [
+          "Chinatown",
+          "Korea's largest Chinese quarter, famous for jajangmyeon and Chinese cuisine."
+        ],
+        "월미도": [
+          "Wolmido Island",
+          "Popular attraction with Wolmi Theme Park and the Culture Street."
+        ],
+        "인천 개항장": [
+          "Incheon Open Port District",
+          "Historic tourist district of Incheon's old downtown, opened as a port in 1883."
+        ],
+        "신포시장": [
+          "Sinpo Market",
+          "Incheon's signature market, famous for its sweet and spicy chicken gangjeong."
+        ],
+        "영종도": [
+          "Yeongjong Island",
+          "Large island in Jung-gu, Incheon, home to Incheon International Airport."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 中区",
+      "landmarks": {
+        "차이나타운": [
+          "チャイナタウン",
+          "国内最大の中華街。ジャージャー麺と中華料理で有名。"
+        ],
+        "월미도": [
+          "月尾島",
+          "月尾島テーマパークと文化の街がある代表的な観光地。"
+        ],
+        "인천 개항장": [
+          "仁川開港場",
+          "1883年に開港した仁川旧市街の歴史観光地。"
+        ],
+        "신포시장": [
+          "新浦市場",
+          "タッカンジョンで有名な仁川を代表する市場。"
+        ],
+        "영종도": [
+          "永宗島",
+          "仁川国際空港が立地する仁川中区の大型島。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 中区",
+      "landmarks": {
+        "차이나타운": [
+          "仁川中国城",
+          "韩国最大的华人聚居区，以炸酱面和中餐闻名。"
+        ],
+        "월미도": [
+          "月尾岛",
+          "设有月尾岛乐园和文化街的代表性观光地。"
+        ],
+        "인천 개항장": [
+          "仁川开港场",
+          "1883年开埠的仁川旧城区历史观光地。"
+        ],
+        "신포시장": [
+          "新浦市场",
+          "以甜辣炸鸡闻名的仁川代表性市场。"
+        ],
+        "영종도": [
+          "永宗岛",
+          "坐落仁川国际机场的仁川中区大岛。"
+        ]
+      }
+    }
   }
 }
