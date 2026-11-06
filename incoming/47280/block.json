@@ -344,6 +344,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -469,5 +474,48 @@
       128.12331,
       36.703655
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "문경시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.185102,
+      36.584274
+    ],
+    "reservation_url": "https://www.gbmg.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "문경시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.182802,
+      36.583874
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "문경시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.184202,
+      36.585674
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "문경향교 본점",
+    "coordinates": [
+      128.18065,
+      36.6093
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "헛제사밥 (문경시 지정 모범음식점)"
   }
 }
