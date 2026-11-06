@@ -147,6 +147,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "섬진강기차마을",
+        "station_name": "섬진강기차마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.281156,
+          127.306268
+        ]
+      },
+      {
+        "target_landmark": "태안사",
+        "station_name": "태안사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.133223,
+          127.384934
+        ]
+      },
+      {
+        "target_landmark": "곡성군청",
+        "station_name": "곡성군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.283625,
+          127.29038
+        ]
+      },
+      {
+        "target_landmark": "곡성시장",
+        "station_name": "곡성시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.281292,
+          127.296811
+        ]
+      },
+      {
+        "target_landmark": "동악산",
+        "station_name": "동악산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.278803,
+          127.262156
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "곡성 중앙 공영주차장",
+        "coordinates": [
+          35.279203,
+          127.264156
+        ],
+        "capacity": 362,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "곡성 제2 공영주차장",
+        "coordinates": [
+          35.279624,
+          127.293579
+        ],
+        "capacity": 570,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "곡성군은 섬진강 기차마을과 태안사, 곡성세계장미축제로 유명한 전남 동부의 군이다.",
   "data_sources": [
     {
