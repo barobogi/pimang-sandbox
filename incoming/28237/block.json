@@ -136,6 +136,93 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부평공원",
+        "station_name": "부평역",
+        "line": "수도권 1호선·인천 1호선",
+        "exit_no": 3,
+        "walk_minutes": 38,
+        "coordinates": [
+          37.4852,
+          126.683638
+        ]
+      },
+      {
+        "target_landmark": "부평풍물거리",
+        "station_name": "부평풍물거리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.4886,
+          126.8922
+        ]
+      },
+      {
+        "target_landmark": "삼산동 쇼핑거리",
+        "station_name": "삼산동 쇼핑거리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.477,
+          126.8935
+        ]
+      },
+      {
+        "target_landmark": "굴포천",
+        "station_name": "굴포천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.52372,
+          126.757299
+        ]
+      },
+      {
+        "target_landmark": "만년산근린공원",
+        "station_name": "만년산근린공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.4816,
+          126.9072
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부평 중앙 공영주차장",
+        "coordinates": [
+          37.523529,
+          126.758499
+        ],
+        "capacity": 404,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "부평 제2 공영주차장",
+        "coordinates": [
+          37.489301,
+          126.714033
+        ],
+        "capacity": 143,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "부평 제3 공영주차장",
+        "coordinates": [
+          37.4866,
+          126.8946
+        ],
+        "capacity": 47,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부평구는 조선 시대 부평도호부였던 유서 깊은 지역으로 근현대 제조업과 주거지가 발달했고 삼산동 상권과 부평풍물거리가 인천 대표 먹거리 명소다.",
   "data_sources": [
     {
