@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "안성초등학교 운동장",
+        "coordinates": [
+          36.982351,
+          127.280758
+        ],
+        "capacity": 6600,
+        "address": "경기도 안성시"
+      },
+      {
+        "name": "안성실내체육관",
+        "coordinates": [
+          36.960349,
+          127.289318
+        ],
+        "capacity": 1800,
+        "address": "경기도 안성시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "안성시청",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안성문화예술회관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서운동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "공도읍 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안성천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "안성시는 안성맞춤이라는 말의 유래가 된 전통 장터 도시이자 국제 종합 대학들이 함께한 경기 남서부의 도시이다.",
   "data_sources": [
     {
