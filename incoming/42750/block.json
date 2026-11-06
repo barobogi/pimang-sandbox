@@ -423,10 +423,11 @@
     "civil_service_center": {
       "location_name": "영월군청 민원실 앞",
       "coordinates": [
-        128.508989,
-        37.217797
+        128.448772,
+        37.171045
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "033-1577-0545",
