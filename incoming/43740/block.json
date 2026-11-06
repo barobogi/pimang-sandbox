@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongdong-gun, Chungbuk",
+      "landmarks": {
+        "노근리평화공원": [
+          "Nogunri Peace Park",
+          "Signature peace park attraction of Yeongdong-gun, Chungbuk."
+        ],
+        "반야사": [
+          "Banyasa Temple",
+          "Signature temple heritage of Yeongdong-gun, Chungbuk."
+        ],
+        "난계국악기제작촌": [
+          "Nangye Gugak Instrument Village",
+          "Signature culture experience attraction of Yeongdong-gun, Chungbuk."
+        ],
+        "영동군청": [
+          "Yeongdong County Office",
+          "Administrative center of Yeongdong-gun, Chungbuk."
+        ],
+        "영동시장": [
+          "Yeongdong Market",
+          "Signature market attraction of Yeongdong-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 永同郡",
+      "landmarks": {
+        "노근리평화공원": [
+          "老斤里平和公園",
+          "忠清北道永同郡を代表する名所。"
+        ],
+        "반야사": [
+          "般若寺",
+          "忠清北道永同郡を代表する名所。"
+        ],
+        "난계국악기제작촌": [
+          "蘭渓国楽器製作村",
+          "忠清北道永同郡を代表する名所。"
+        ],
+        "영동군청": [
+          "永同郡庁",
+          "忠清北道永同郡を代表する名所。"
+        ],
+        "영동시장": [
+          "永同市場",
+          "忠清北道永同郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 永同郡",
+      "landmarks": {
+        "노근리평화공원": [
+          "老斤里和平公园",
+          "忠清北道永同郡的代表性和平公园。"
+        ],
+        "반야사": [
+          "般若寺",
+          "忠清北道永同郡的代表性古刹。"
+        ],
+        "난계국악기제작촌": [
+          "兰溪国乐器制作村",
+          "忠清北道永同郡的代表性文化体验地。"
+        ],
+        "영동군청": [
+          "永同郡厅",
+          "忠清北道永同郡的行政中心。"
+        ],
+        "영동시장": [
+          "永同市场",
+          "忠清北道永同郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
