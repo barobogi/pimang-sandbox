@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gunwi-gun, Gyeongbuk",
+      "landmarks": {
+        "군위삼존석굴": [
+          "Gunwi Triad Grotto",
+          "Signature Buddhist grotto heritage of Gunwi-gun, Gyeongbuk."
+        ],
+        "팔공산": [
+          "Palgongsan Mountain",
+          "Signature mountain attraction of Gunwi-gun, Gyeongbuk."
+        ],
+        "화본역": [
+          "Hwabon Station",
+          "Signature rail heritage attraction of Gunwi-gun, Gyeongbuk."
+        ],
+        "군위군청": [
+          "Gunwi County Office",
+          "Administrative center of Gunwi-gun, Gyeongbuk."
+        ],
+        "군위시장": [
+          "Gunwi Market",
+          "Signature market attraction of Gunwi-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 軍威郡",
+      "landmarks": {
+        "군위삼존석굴": [
+          "軍威三尊石窟",
+          "慶尚北道軍威郡を代表する名所。"
+        ],
+        "팔공산": [
+          "八公山",
+          "慶尚北道軍威郡を代表する名所。"
+        ],
+        "화본역": [
+          "花本駅",
+          "慶尚北道軍威郡を代表する名所。"
+        ],
+        "군위군청": [
+          "軍威郡庁",
+          "慶尚北道軍威郡を代表する名所。"
+        ],
+        "군위시장": [
+          "軍威市場",
+          "慶尚北道軍威郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 军威郡",
+      "landmarks": {
+        "군위삼존석굴": [
+          "军威三尊石窟",
+          "庆尚北道军威郡的代表性石窟。"
+        ],
+        "팔공산": [
+          "八公山",
+          "庆尚北道军威郡的代表性名山。"
+        ],
+        "화본역": [
+          "花本站",
+          "庆尚北道军威郡的代表性铁道遗迹。"
+        ],
+        "군위군청": [
+          "军威郡厅",
+          "庆尚北道军威郡的行政中心。"
+        ],
+        "군위시장": [
+          "军威市场",
+          "庆尚北道军威郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
