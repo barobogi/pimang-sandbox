@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "부석사 봄",
+        "소수서원 봄"
+      ],
+      "summer": [
+        "부석사 여름",
+        "무섬마을 여름"
+      ],
+      "autumn": [
+        "부석사 단풍",
+        "소수서원 가을"
+      ],
+      "winter": [
+        "부석사 설경",
+        "무섬마을 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "부석사 야경",
+        "coordinates": [
+          36.997388,
+          128.686649
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "무섬마을 야경",
+        "coordinates": [
+          36.730753,
+          128.623345
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "영주시는 소수서원과 부석사, 무섬마을이 자리한 경북 북부의 유서 깊은 도시이다.",
   "data_sources": [
     {
