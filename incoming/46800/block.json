@@ -416,5 +416,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jangheung.go.kr",
+    "civil_service_center": {
+      "location_name": "장흥군청 민원실 앞",
+      "coordinates": [
+        126.933284,
+        34.647789
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "061-863-7071",
+      "info": "전라남도 장흥군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "장흥군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.933184,
+      34.647789
+    ],
+    "cctv_zone_count": 349
+  },
+  "urban_parks_trails": {
+    "park_name": "장흥군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "장흥군민축제",
+    "typical_month": 10,
+    "venue_name": "장흥군민운동장",
+    "venue_coords": [
+      126.933485,
+      34.647289
+    ]
   }
 }
