@@ -1,0 +1,580 @@
+{
+  "block_code": "46780",
+  "block_name": "전라남도 보성군",
+  "bbox": [
+    126.972899,
+    34.614977,
+    127.484321,
+    34.9888
+  ],
+  "center": [
+    34.801889,
+    127.22861
+  ],
+  "landmarks": [
+    {
+      "name": "대한다원",
+      "lat": 34.7158469,
+      "lng": 127.07796,
+      "category": "녹차밭/관광",
+      "description": "국내 최대·최초의 다원으로 녹차밭 절경으로 전국적으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 55.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG/1280px-%EB%8C%80%ED%95%9C%EB%8B%A4%EC%9B%90_%EC%B0%A8%EB%B0%AD.JPG"
+    },
+    {
+      "name": "한국차박물관",
+      "lat": 34.7197943,
+      "lng": 127.0817643,
+      "category": "박물관/차문화",
+      "description": "한국 차 문화를 전시하는 대표 차 전문 박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 55.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tea_Museum_of_Korea%2C_in_Boseong%2C_South_Jeolla%2C_South_Korea_03.jpg/1280px-Tea_Museum_of_Korea%2C_in_Boseong%2C_South_Jeolla%2C_South_Korea_03.jpg"
+    },
+    {
+      "name": "율포해수욕장",
+      "lat": 34.743,
+      "lng": 127.145,
+      "category": "해수욕장/녹차",
+      "description": "해수녹차탕으로 유명한 솔밭해변의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 49.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Geumgog_beach.jpg"
+    },
+    {
+      "name": "태백산맥문학관",
+      "lat": 34.8491988,
+      "lng": 127.352163,
+      "category": "문학관/문화",
+      "description": "조정래 작가의 대하소설 태백산맥을 기리는 국내 최대 단일 문학관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 245.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5%EB%AC%B8%ED%95%99%EA%B4%80.jpg"
+    },
+    {
+      "name": "득량역",
+      "lat": 34.801,
+      "lng": 127.166,
+      "category": "철도/관광",
+      "description": "1930년 개통된 옛 역사로 추억의 거리와 함께 복원되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 89.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EC%82%AC.png/1280px-%EB%93%9D%EB%9F%89%EC%97%AD_%EC%97%AD%EC%82%AC.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "보성 역사·문화 시그니처 스카이 트레일",
+      "description": "득량역 → 율포해수욕장 → 한국차박물관 → 대한다원 → 태백산맥문학관 순으로 이어지는 전라남도 보성군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "득량역",
+        "율포해수욕장",
+        "한국차박물관",
+        "대한다원",
+        "태백산맥문학관"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "보성 세월을 나는 문화유산 플라이트",
+      "description": "태백산맥문학관 → 한국차박물관 → 대한다원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 보성의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "태백산맥문학관",
+        "한국차박물관",
+        "대한다원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "보성 도심 스카이라인 크루즈",
+      "description": "대한다원 → 한국차박물관 → 득량역 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 보성의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "대한다원",
+        "한국차박물관",
+        "득량역"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "득량역 가마솥밥가",
+      "lat": 34.80044,
+      "lng": 127.16621,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "율포해수욕장 옛맛식당",
+      "lat": 34.74342,
+      "lng": 127.14437,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "태백산맥문학관 본점",
+      "lat": 34.848849,
+      "lng": 127.352583,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "한국차박물관 큰마당식당",
+      "lat": 34.720494,
+      "lng": 127.081834,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대한다원",
+        "station_name": "대한다원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.715447,
+          127.07516
+        ]
+      },
+      {
+        "target_landmark": "한국차박물관",
+        "station_name": "한국차박물관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.719394,
+          127.078964
+        ]
+      },
+      {
+        "target_landmark": "율포해수욕장",
+        "station_name": "율포해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.7426,
+          127.1422
+        ]
+      },
+      {
+        "target_landmark": "태백산맥문학관",
+        "station_name": "태백산맥문학관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.848799,
+          127.349363
+        ]
+      },
+      {
+        "target_landmark": "득량역",
+        "station_name": "보성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.7998,
+          127.1648
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "보성 중앙 공영주차장",
+        "coordinates": [
+          34.8018,
+          127.166
+        ],
+        "capacity": 238,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "보성 제2 공영주차장",
+        "coordinates": [
+          34.7454,
+          127.1446
+        ],
+        "capacity": 263,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "보성초등학교 운동장",
+        "coordinates": [
+          34.737661,
+          127.120728
+        ],
+        "capacity": 6800,
+        "address": "전라남도 보성군"
+      },
+      {
+        "name": "보성실내체육관",
+        "coordinates": [
+          34.683678,
+          127.06122
+        ],
+        "capacity": 6200,
+        "address": "전라남도 보성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대한다원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "한국차박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "율포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "태백산맥문학관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "득량역",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "대한다원 봄 녹차밭",
+        "율포해수욕장 봄"
+      ],
+      "summer": [
+        "율포해수욕장 여름",
+        "대한다원 여름"
+      ],
+      "autumn": [
+        "대한다원 가을",
+        "한국차박물관 가을"
+      ],
+      "winter": [
+        "대한다원 겨울 녹차밭",
+        "율포해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대한다원 야경",
+        "coordinates": [
+          34.715847,
+          127.07796
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "율포해수욕장 야경",
+        "coordinates": [
+          34.743,
+          127.145
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "보성군은 녹차의 수도로 불리는 전남 남부의 군으로 대한다원 녹차밭과 율포해수욕장, 태백산맥문학관 등의 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Boseong-gun, Jeonnam",
+      "landmarks": {
+        "대한다원": [
+          "Daehan Dawon Tea Plantation",
+          "Korea's largest and first tea plantation, nationally famed for its green tea terraces."
+        ],
+        "한국차박물관": [
+          "Korean Tea Museum",
+          "Signature museum of Korean tea culture."
+        ],
+        "율포해수욕장": [
+          "Yulpo Beach",
+          "Pine-backed beach famed for its green tea sea baths."
+        ],
+        "태백산맥문학관": [
+          "Taebaek Mountains Literature Museum",
+          "Korea's largest single-author museum honoring Cho Jung-rae's epic novel."
+        ],
+        "득량역": [
+          "Deukryang Station",
+          "Old railway station opened in 1930, restored with a nostalgia street."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 宝城郡",
+      "landmarks": {
+        "대한다원": [
+          "大韓茶園",
+          "国内最大・最初の茶園。緑茶畑の絶景で全国的に有名。"
+        ],
+        "한국차박물관": [
+          "韓国茶博物館",
+          "韓国の茶文化を展示する代表的な茶専門博物館。"
+        ],
+        "율포해수욕장": [
+          "栗浦海水浴場",
+          "海緑茶湯で有名な松林のビーチを代表する海水浴場。"
+        ],
+        "태백산맥문학관": [
+          "太白山脈文学館",
+          "趙廷来作家の大河小説『太白山脈』を記念する国内最大の単一文学館。"
+        ],
+        "득량역": [
+          "得粮駅",
+          "1930年開通の古い駅舎。思い出の街とともに復元された。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 宝城郡",
+      "landmarks": {
+        "대한다원": [
+          "大韩茶园",
+          "国内最大最早的茶园，绿茶田绝景闻名全国。"
+        ],
+        "한국차박물관": [
+          "韩国茶博物馆",
+          "展示韩国茶文化的代表性专业博物馆。"
+        ],
+        "율포해수욕장": [
+          "栗浦海水浴场",
+          "以绿茶海汤闻名的松林海滩。"
+        ],
+        "태백산맥문학관": [
+          "太白山脉文学馆",
+          "纪念赵廷来长篇小说《太白山脉》的国内最大单一文学馆。"
+        ],
+        "득량역": [
+          "得粮站",
+          "1930年启用的老车站，与怀旧街区一同复原。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.boseong.go.kr",
+    "civil_service_center": {
+      "location_name": "보성군청 민원실 앞",
+      "coordinates": [
+        127.076348,
+        34.767175
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-852-2181",
+      "info": "전라남도 보성군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "보성군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.22821,
+      34.802189
+    ],
+    "cctv_zone_count": 465,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "보성군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "보성 다향대축제",
+    "typical_month": 5,
+    "venue_name": "보성 차박 일원",
+    "venue_coords": [
+      127.22801,
+      34.801989
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "보성군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.077048,
+      34.764775
+    ],
+    "reservation_url": "https://www.boseong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "보성군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.078048,
+      34.768375
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "보성군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.077248,
+      34.764475
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "태백산맥문학관 본점",
+    "coordinates": [
+      127.352583,
+      34.848849
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "돔베고기 (보성군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=보성군청&goalx=127.076348&goaly=34.767175",
+    "kakaonavi_url": "kakaonavi://navigate?name=보성군청&x=127.076348&y=34.767175&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=보성군청&dlng=127.076348&dlat=34.767175&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 55.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:18",
+      "sunset": "19:47",
+      "noon_altitude_deg": 78.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 55.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:35",
+      "sunset": "17:24",
+      "noon_altitude_deg": 31.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "보성군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.22826,
+          34.801139
+        ],
+        [
+          127.22821,
+          34.802189
+        ],
+        [
+          127.22796,
+          34.803289
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "보성군 전통시장 만남의거리",
+    "anchor_center": [
+      127.074348,
+      34.765175
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 340,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
