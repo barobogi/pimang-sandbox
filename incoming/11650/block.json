@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서초초등학교 운동장",
+        "coordinates": [
+          37.523936,
+          126.986027
+        ],
+        "capacity": 6600,
+        "address": "서울특별시 서초구"
+      },
+      {
+        "name": "서초실내체육관",
+        "coordinates": [
+          37.504797,
+          127.002206
+        ],
+        "capacity": 6000,
+        "address": "서울특별시 서초구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "반포한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서래마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "양재동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "우면산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "법조타운",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "서초구는 강남 남부의 대표 고급 주거·상업 구로 서초동과 반포동, 양재동 상권과 법조타운이 함께한다.",
   "data_sources": [
     {
