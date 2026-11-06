@@ -144,6 +144,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "설악산",
+        "station_name": "설악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.16851,
+          128.514805
+        ]
+      },
+      {
+        "target_landmark": "영랑호",
+        "station_name": "속초버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 24,
+        "coordinates": [
+          38.2043,
+          128.5904
+        ]
+      },
+      {
+        "target_landmark": "속초해수욕장",
+        "station_name": "속초버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 32,
+        "coordinates": [
+          38.2043,
+          128.5904
+        ]
+      },
+      {
+        "target_landmark": "청초호",
+        "station_name": "속초버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 12,
+        "coordinates": [
+          38.2043,
+          128.5904
+        ]
+      },
+      {
+        "target_landmark": "속초시청",
+        "station_name": "속초버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          38.2043,
+          128.5904
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "속초 중앙 공영주차장",
+        "coordinates": [
+          38.189331,
+          128.606064
+        ],
+        "capacity": 112,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "속초 제2 공영주차장",
+        "coordinates": [
+          38.206922,
+          128.592768
+        ],
+        "capacity": 264,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "속초시는 설악산과 동해안이 만나는 강원 영동 북부의 관광 도시로 영랑호와 속초해수욕장, 청초호가 대표 명소이다.",
   "data_sources": [
     {
