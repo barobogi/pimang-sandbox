@@ -350,6 +350,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -475,5 +480,48 @@
       127.074301,
       37.73305
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "의정부시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.033545,
+      37.736076
+    ],
+    "reservation_url": "https://www.ui4u.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "의정부시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.034345,
+      37.738576
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "의정부시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.034145,
+      37.740576
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "의정부역 상권 골목식당",
+    "coordinates": [
+      127.05049,
+      37.73793
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "한우불고기 (의정부시 지정 모범음식점)"
   }
 }
