@@ -147,6 +147,84 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불암산",
+        "station_name": "불광역",
+        "line": "서울 3·6호선",
+        "exit_no": 7,
+        "walk_minutes": 23,
+        "coordinates": [
+          37.6552,
+          127.0436
+        ]
+      },
+      {
+        "target_landmark": "북한산국립공원",
+        "station_name": "연신내역",
+        "line": "서울 3·6호선",
+        "exit_no": 6,
+        "walk_minutes": 36,
+        "coordinates": [
+          37.6556,
+          127.0436
+        ]
+      },
+      {
+        "target_landmark": "연신내",
+        "station_name": "연신내 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.622249,
+          126.920858
+        ]
+      },
+      {
+        "target_landmark": "은평한옥마을",
+        "station_name": "은평한옥마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.643158,
+          126.939128
+        ]
+      },
+      {
+        "target_landmark": "진관사",
+        "station_name": "진관사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.641003,
+          126.946545
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "은평 중앙 공영주차장",
+        "coordinates": [
+          37.635803,
+          126.944946
+        ],
+        "capacity": 553,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "은평 제2 공영주차장",
+        "coordinates": [
+          37.640358,
+          126.939528
+        ],
+        "capacity": 123,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "은평구는 불암산과 북한산 사이에 자리한 서울 북서부 자치구로 연신내 상권과 은평 한옥마을이 함께한다.",
   "data_sources": [
     {
