@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "금정초등학교 운동장",
+        "coordinates": [
+          35.265937,
+          129.038836
+        ],
+        "capacity": 7200,
+        "address": "부산광역시 금정구"
+      },
+      {
+        "name": "금정실내체육관",
+        "coordinates": [
+          35.248424,
+          129.088876
+        ],
+        "capacity": 6100,
+        "address": "부산광역시 금정구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "금정산성",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금정산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "범어사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부산대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온천장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부산 금정구는 금정산성과 부산대학교가 자리한 부산 북부의 구로 금정산 자락의 주거 지역이다.",
   "data_sources": [
     {
