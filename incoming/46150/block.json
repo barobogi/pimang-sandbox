@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Suncheon-si, Jeonnam",
+      "landmarks": {
+        "순천만습지": [
+          "Suncheon Bay Wetland",
+          "Korea's signature wetland of mudflats and reed beds, a migratory bird haven."
+        ],
+        "순천만국가정원": [
+          "Suncheon Bay National Garden",
+          "Korea's largest national garden and host of the international garden expo."
+        ],
+        "낙안읍성": [
+          "Nagan Eupseong Fortress",
+          "Joseon-era walled town preserved intact, a signature fortress."
+        ],
+        "선암사": [
+          "Seonamsa Temple",
+          "Historic temple at the foot of Jogyesan."
+        ],
+        "송광사": [
+          "Songgwangsa Temple",
+          "Historic temple on the northern slopes of Jirisan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 順天市",
+      "landmarks": {
+        "순천만습지": [
+          "順天湾湿地",
+          "干潟とアシの原が広がる国内を代表する湿地。渡り鳥の飛来地。"
+        ],
+        "순천만국가정원": [
+          "順天湾国家庭園",
+          "国内最大の国家庭園。世界庭園博览会の開催地。"
+        ],
+        "낙안읍성": [
+          "楽安邑城",
+          "朝鮮時代の邑城がそのまま保存された代表的な伝統邑城。"
+        ],
+        "선암사": [
+          "仙巌寺",
+          "朝鮮時代の曹渓山のふもとの寺。由緒ある代表的な古刹。"
+        ],
+        "송광사": [
+          "松広寺",
+          "智異山北のふもとを代表する由緒ある寺。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 顺天市",
+      "landmarks": {
+        "순천만습지": [
+          "顺天湾湿地",
+          "滩涂芦苇铺展的国内代表性湿地，候鸟栖息地。"
+        ],
+        "순천만국가정원": [
+          "顺天湾国家园林",
+          "国内规模最大的国家园林，世界园林博览会举办地。"
+        ],
+        "낙안읍성": [
+          "乐安邑城",
+          "朝鲜时代邑城原貌保存的代表性古城。"
+        ],
+        "선암사": [
+          "仙岩寺",
+          "曹溪山麓的历史名刹。"
+        ],
+        "송광사": [
+          "松广寺",
+          "智异山北麓的代表性古刹。"
+        ]
+      }
+    }
   }
 }
