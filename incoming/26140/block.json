@@ -334,5 +334,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Busan",
+      "landmarks": {
+        "아미산": [
+          "Ami Mountain",
+          "Low downtown hill in western Busan, known for its observation deck."
+        ],
+        "송도해상케이블카": [
+          "Songdo Marine Cable Car",
+          "Cable car gliding over the sea at Songdo, a Busan signature attraction."
+        ],
+        "송도해수욕장": [
+          "Songdo Beach",
+          "Busan's oldest beach, paired with Amnam Park."
+        ],
+        "암남공원": [
+          "Amnam Park",
+          "Clifftop lookout park above the Songdo coastline."
+        ],
+        "영주산": [
+          "Yeongju Mountain",
+          "Low hill on Seo-gu's south with walking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 西区",
+      "landmarks": {
+        "아미산": [
+          "峨眉山",
+          "釜山都心の西にある低い山。峨眉山展望台が有名。"
+        ],
+        "송도해상케이블카": [
+          "松島海上ケーブルカー",
+          "松島の海上を渡るケーブルカーで、釜山を代表する観光名所。"
+        ],
+        "송도해수욕장": [
+          "松島海水浴場",
+          "岩南公園とともに釜山を代表する歴史ある海水浴場。"
+        ],
+        "암남공원": [
+          "岩南公園",
+          "松島の海岸断崖の上に造られた展望公園。"
+        ],
+        "영주산": [
+          "ヨンジュ山",
+          "西区の南にある低い山。散策路が整備されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 西区",
+      "landmarks": {
+        "아미산": [
+          "峨眉山",
+          "釜山城区西部的矮山，以峨眉山展望台闻名。"
+        ],
+        "송도해상케이블카": [
+          "松岛海上缆车",
+          "横跨松岛海面的海上缆车，是釜山的代表性观光项目。"
+        ],
+        "송도해수욕장": [
+          "松岛海水浴场",
+          "与岩南公园相伴的釜山历史最悠久的海水浴场。"
+        ],
+        "암남공원": [
+          "岩南公园",
+          "建于松岛海岸峭壁之上的观景公园。"
+        ],
+        "영주산": [
+          "影州山",
+          "西区南部的矮山，设有散步道。"
+        ]
+      }
+    }
   }
 }
