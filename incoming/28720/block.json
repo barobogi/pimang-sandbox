@@ -130,6 +130,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "백령도",
+        "station_name": "백령도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.952603,
+          124.67203
+        ]
+      },
+      {
+        "target_landmark": "연평도",
+        "station_name": "연평도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.935257,
+          124.682251
+        ]
+      },
+      {
+        "target_landmark": "대청도",
+        "station_name": "대청도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.827428,
+          124.69824
+        ]
+      },
+      {
+        "target_landmark": "덕적도",
+        "station_name": "옹진 여객선터미널",
+        "line": "연안여객선",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.241879,
+          126.117193
+        ]
+      },
+      {
+        "target_landmark": "자월도",
+        "station_name": "자월도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.260804,
+          126.305184
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "옹진 중앙 공영주차장",
+        "coordinates": [
+          37.239479,
+          126.113193
+        ],
+        "capacity": 190,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "옹진 제2 공영주차장",
+        "coordinates": [
+          37.822228,
+          124.70024
+        ],
+        "capacity": 149,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "옹진 제3 공영주차장",
+        "coordinates": [
+          37.260404,
+          126.303984
+        ],
+        "capacity": 149,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "인천 옹진군은 백령도와 연평도, 대청도 등 서해 5도를 포함한 최서단 군으로 해안 절경과 수산 자원이 풍부하다.",
   "data_sources": [
     {
