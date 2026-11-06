@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Boeun-gun, Chungbuk",
+      "landmarks": {
+        "법주사": [
+          "Beopjusa Temple",
+          "Signature temple heritage of Boeun-gun, Chungbuk."
+        ],
+        "속리산": [
+          "Songnisan Mountain",
+          "Signature national park mountain of Boeun-gun, Chungbuk."
+        ],
+        "정이품송": [
+          "Jeongipum Pine",
+          "Signature natural monument pine of Boeun-gun, Chungbuk."
+        ],
+        "보은군청": [
+          "Boeun County Office",
+          "Administrative center of Boeun-gun, Chungbuk."
+        ],
+        "보은시장": [
+          "Boeun Market",
+          "Signature market attraction of Boeun-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 報恩郡",
+      "landmarks": {
+        "법주사": [
+          "法住寺",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "속리산": [
+          "俗離山",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "정이품송": [
+          "正二品松",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "보은군청": [
+          "報恩郡庁",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "보은시장": [
+          "報恩市場",
+          "忠清北道報恩郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 报恩郡",
+      "landmarks": {
+        "법주사": [
+          "法住寺",
+          "忠清北道报恩郡的代表性古刹。"
+        ],
+        "속리산": [
+          "俗离山",
+          "忠清北道报恩郡的代表性国立公园名山。"
+        ],
+        "정이품송": [
+          "正二品松",
+          "忠清北道报恩郡的代表性天然纪念物古松。"
+        ],
+        "보은군청": [
+          "报恩郡厅",
+          "忠清北道报恩郡的行政中心。"
+        ],
+        "보은시장": [
+          "报恩市场",
+          "忠清北道报恩郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
