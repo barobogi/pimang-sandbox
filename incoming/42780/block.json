@@ -144,6 +144,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "노동당사",
+        "station_name": "노동당사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          38.236234,
+          127.203231
+        ]
+      },
+      {
+        "target_landmark": "한탄강",
+        "station_name": "한탄강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          38.188025,
+          127.282974
+        ]
+      },
+      {
+        "target_landmark": "철원평야",
+        "station_name": "철원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.219313,
+          127.491402
+        ]
+      },
+      {
+        "target_landmark": "철원군청",
+        "station_name": "철원군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          38.143964,
+          127.31059
+        ]
+      },
+      {
+        "target_landmark": "고석정",
+        "station_name": "고석정 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          38.182096,
+          127.28506
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "철원 중앙 공영주차장",
+        "coordinates": [
+          38.217713,
+          127.493802
+        ],
+        "capacity": 104,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "철원 제2 공영주차장",
+        "coordinates": [
+          38.147964,
+          127.31179
+        ],
+        "capacity": 54,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "철원 제3 공영주차장",
+        "coordinates": [
+          38.186096,
+          127.28546
+        ],
+        "capacity": 193,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
