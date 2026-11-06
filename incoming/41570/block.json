@@ -298,6 +298,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "문수산 봄 진달래",
+        "한강 벚꽃길"
+      ],
+      "summer": [
+        "한강 여름",
+        "문수산 여름"
+      ],
+      "autumn": [
+        "문수산 단풍",
+        "한강 억새"
+      ],
+      "winter": [
+        "한강 설경",
+        "김포문화예술회관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "문수산 야경",
+        "coordinates": [
+          37.73909,
+          126.54861
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "한강 야경",
+        "coordinates": [
+          37.63456,
+          126.674989
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "김포시는 한강 하구의 대표 도시로 문수산과 김포 평야가 함께한 경기 북서부의 도시이다.",
   "data_sources": [
     {
