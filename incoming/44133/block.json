@@ -418,5 +418,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seobuk.cheonan.go.kr",
+    "civil_service_center": {
+      "location_name": "서북구청 민원실 앞",
+      "coordinates": [
+        127.181533,
+        36.878888
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "041-521-6114",
+      "info": "충청남도 천안시 서북구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서북구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.181833,
+      36.878688
+    ],
+    "cctv_zone_count": 474
+  },
+  "urban_parks_trails": {
+    "park_name": "불당근린공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "서북 구민축제",
+    "typical_month": 10,
+    "venue_name": "불당근린공원",
+    "venue_coords": [
+      127.181333,
+      36.878588
+    ]
   }
 }
