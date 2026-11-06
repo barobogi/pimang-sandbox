@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "주왕산 봄",
+        "주산지 봄"
+      ],
+      "summer": [
+        "주왕산 계곡 여름",
+        "주산지 여름"
+      ],
+      "autumn": [
+        "주왕산 단풍길",
+        "주산지 가을"
+      ],
+      "winter": [
+        "주왕산 설경",
+        "주산지 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "주산지 야경",
+        "coordinates": [
+          36.362647,
+          129.190094
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "주왕산 야경",
+        "coordinates": [
+          36.397559,
+          129.18986
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "청송군은 주왕산과 주산지, 청송사과로 유명한 경북 동부의 군이다.",
   "data_sources": [
     {
