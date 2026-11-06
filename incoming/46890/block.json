@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Wando-gun, Jeonnam",
+      "landmarks": {
+        "신지도": [
+          "Sinjido Island",
+          "Wando's signature island famed for juniper groves and coastal scenery."
+        ],
+        "보길도": [
+          "Bogildo Island",
+          "Wando's signature island with the site of Yun Seon-do's Sogyodong Garden."
+        ],
+        "소안도": [
+          "Soando Island",
+          "Signature island attraction famed for stone walls and sea views."
+        ],
+        "청산도": [
+          "Cheongsando Island",
+          "Signature fishing island famed for its anchovy delicacies."
+        ],
+        "금등해수욕장": [
+          "Geumdeung Beach",
+          "Wando's signature beach, a summer family destination."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 莞島郡",
+      "landmarks": {
+        "신지도": [
+          "薪智島",
+          "樹木林と海岸絶景が美しい莞島を代表する島。"
+        ],
+        "보길도": [
+          "甫吉島",
+          "尹善道の甫吉島所花野園跡がある莞島を代表する島。"
+        ],
+        "소안도": [
+          "所安島",
+          "石垣と海の風景が美しい莞島を代表する島の観光地。"
+        ],
+        "청산도": [
+          "青山島",
+          "鯷の料理で有名な莞島を代表する漁村の島。"
+        ],
+        "금등해수욕장": [
+          "金登海水浴場",
+          "莞島を代表する海水浴場。夏の家族行楽の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 莞岛郡",
+      "landmarks": {
+        "신지도": [
+          "薪智岛",
+          "杜松林和海岸绝景秀美的莞岛代表性岛屿。"
+        ],
+        "보길도": [
+          "甫吉岛",
+          "留有尹善道甫吉岛芋栗园旧址的莞岛代表性岛屿。"
+        ],
+        "소안도": [
+          "所安岛",
+          "石墙与海景秀美的莞岛代表性海岛观光地。"
+        ],
+        "청산도": [
+          "青山岛",
+          "以鳀鱼美食闻名的莞岛代表性渔村岛。"
+        ],
+        "금등해수욕장": [
+          "金登海水浴场",
+          "莞岛代表性海滨浴场，夏日亲子胜地。"
+        ]
+      }
+    }
   }
 }
