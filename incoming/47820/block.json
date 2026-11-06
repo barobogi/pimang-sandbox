@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "운문사",
+        "station_name": "운문사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.662696,
+          128.963088
+        ]
+      },
+      {
+        "target_landmark": "청도소싸움경기장",
+        "station_name": "청도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.689431,
+          128.726303
+        ]
+      },
+      {
+        "target_landmark": "청도천",
+        "station_name": "청도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 45,
+        "coordinates": [
+          35.689431,
+          128.726303
+        ]
+      },
+      {
+        "target_landmark": "청도군청",
+        "station_name": "청도군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.649544,
+          128.73837
+        ]
+      },
+      {
+        "target_landmark": "청도시장",
+        "station_name": "청도시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.644796,
+          128.74677
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "청도 중앙 공영주차장",
+        "coordinates": [
+          35.685431,
+          128.726303
+        ],
+        "capacity": 127,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청도 제2 공영주차장",
+        "coordinates": [
+          35.641996,
+          128.74557
+        ],
+        "capacity": 185,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
   "data_sources": [
     {
