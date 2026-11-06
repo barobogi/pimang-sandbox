@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "예산초등학교 운동장",
+        "coordinates": [
+          36.673668,
+          126.61454
+        ],
+        "capacity": 1000,
+        "address": "충청남도 예산군"
+      },
+      {
+        "name": "예산실내체육관",
+        "coordinates": [
+          36.733621,
+          126.90716
+        ],
+        "capacity": 6400,
+        "address": "충청남도 예산군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수덕사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "추사고택",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "윤봉길의사기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "예당호출렁다리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕산메타세쿼이아길",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "예산군은 충남 서부 내륙의 군으로 슬로시티 대흥과 예당호, 수덕사 대웅전, 추사고택, 매헌 윤봉길 의사 유적 등 역사·문화 명소가 풍부한 지역이다.",
   "data_sources": [
     {
