@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeoju-si, Gyeonggi",
+      "landmarks": {
+        "세종대왕 영릉": [
+          "Royal Tomb of King Sejong (Yeongneung)",
+          "Tomb of King Sejong and Queen Soheon, inscribed on UNESCO's World Heritage list."
+        ],
+        "남한강": [
+          "South Han River",
+          "Representative river flowing through Yeoju."
+        ],
+        "신륵사": [
+          "Silleuksa Temple",
+          "Historic signature temple."
+        ],
+        "여주시청": [
+          "Yeoju City Hall",
+          "Administrative center of Yeoju."
+        ],
+        "여주시장": [
+          "Yeoju Market",
+          "Yeoju's signature traditional market."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 驪州市",
+      "landmarks": {
+        "세종대왕 영릉": [
+          "世宗大王 英陵",
+          "世宗大王と昭憲王后の王陵。ユネスコ世界遺産。"
+        ],
+        "남한강": [
+          "南漢江",
+          "驪州を貫く代表的な川。"
+        ],
+        "신륵사": [
+          "神勒寺",
+          "由緒ある代表的な寺院。"
+        ],
+        "여주시청": [
+          "驪州市庁",
+          "驪州市の行政中心。"
+        ],
+        "여주시장": [
+          "驪州市場",
+          "驪州を代表する伝統市場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 骊州市",
+      "landmarks": {
+        "세종대왕 영릉": [
+          "世宗大王英陵",
+          "世宗大王和昭宪王后的王陵，联合国教科文组织世界遗产。"
+        ],
+        "남한강": [
+          "南汉江",
+          "纵贯骊州的代表性河流。"
+        ],
+        "신륵사": [
+          "神勒寺",
+          "历史悠久的代表性古刹。"
+        ],
+        "여주시청": [
+          "骊州市厅",
+          "骊州市的行政中心。"
+        ],
+        "여주시장": [
+          "骊州市场",
+          "骊州的代表性传统市场。"
+        ]
+      }
+    }
   }
 }
