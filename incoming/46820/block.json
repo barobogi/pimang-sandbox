@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "땅끝마을 봄",
+        "대흥사 봄"
+      ],
+      "summer": [
+        "땅끝마을 여름",
+        "황산공원 여름"
+      ],
+      "autumn": [
+        "대흥사 단풍",
+        "땅끝마을 가을"
+      ],
+      "winter": [
+        "땅끝마을 해맞이",
+        "대흥사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "땅끝마을 야경",
+        "coordinates": [
+          34.300127,
+          126.527091
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "황산공원 야경",
+        "coordinates": [
+          34.582,
+          126.604
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "해남군은 한반도 남쪽 끝 땅끝마을과 대흥사, 황산공원이 자리한 전남 최남단의 군으로 유서 깊은 사찰 문화와 해안 자연이 함께한다.",
   "data_sources": [
     {
