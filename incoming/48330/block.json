@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangsan-si, Gyeongnam",
+      "landmarks": {
+        "통도사": [
+          "Tongdosa Temple",
+          "Silla-era temple famed for its main hall enshrining the Buddha's true relics."
+        ],
+        "영축사": [
+          "Yeongchuksa Temple",
+          "Mountain hermitage paired with Tongdosa at the foot of Cheonseongsan."
+        ],
+        "천성산": [
+          "Cheonseongsan Mountain",
+          "Mountain embracing Tongdosa, known as a sacred peak of Silla."
+        ],
+        "배내골": [
+          "Baenaegol Valley",
+          "Valley and pass on the Yangsan-Ulsan boundary, a summer retreat."
+        ],
+        "황산공원": [
+          "Hwangsan Park",
+          "Neighborhood park in downtown Yangsan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 梁山市",
+      "landmarks": {
+        "통도사": [
+          "通度寺",
+          "新羅時代に創建された代表的な寺。釈迦牟尼の真身舎利を祀る大雄殿が有名。"
+        ],
+        "영축사": [
+          "霊鷲寺",
+          "通度寺とともにある庵。天城山のふもとの代表的な名所。"
+        ],
+        "천성산": [
+          "天城山",
+          "通度寺を囲む山。新羅の鎮山として知られる代表的な名山。"
+        ],
+        "배내골": [
+          "ペネゴル",
+          "梁山と蔚山の境界にある渓谷と峠。夏の避暑の名所。"
+        ],
+        "황산공원": [
+          "黄山公園",
+          "梁山都心に造られた代表的な近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 梁山市",
+      "landmarks": {
+        "통도사": [
+          "通度寺",
+          "新罗时代创建的代表性古刹，以供奉释迦真身舍利的大雄殿闻名。"
+        ],
+        "영축사": [
+          "灵鹫寺",
+          "与通度寺相伴的庵寺，天城山麓的代表性名胜。"
+        ],
+        "천성산": [
+          "天城山",
+          "环抱通度寺的山，被称为新罗主山的代表名山。"
+        ],
+        "배내골": [
+          "排内谷",
+          "梁山市与蔚山交界的溪谷山岭，夏日避暑胜地。"
+        ],
+        "황산공원": [
+          "黄山公园",
+          "梁山市中心的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
