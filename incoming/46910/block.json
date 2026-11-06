@@ -137,6 +137,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "흑산도",
+        "station_name": "신안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.660851,
+          125.408099
+        ]
+      },
+      {
+        "target_landmark": "홍도",
+        "station_name": "홍도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.688993,
+          125.203114
+        ]
+      },
+      {
+        "target_landmark": "증도",
+        "station_name": "증도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.984394,
+          126.163778
+        ]
+      },
+      {
+        "target_landmark": "비금도",
+        "station_name": "비금도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.759161,
+          125.928614
+        ]
+      },
+      {
+        "target_landmark": "도초도",
+        "station_name": "도초도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.694639,
+          125.964717
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "신안 중앙 공영주차장",
+        "coordinates": [
+          34.660051,
+          125.405699
+        ],
+        "capacity": 140,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "신안 제2 공영주차장",
+        "coordinates": [
+          34.761161,
+          125.927814
+        ],
+        "capacity": 78,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "신안군은 흑산도와 홍도, 증도 등 다도해의 섬들과 유네스코 세계자연유산 갯벌을 품은 전남 서남부의 군이다.",
   "data_sources": [
     {
