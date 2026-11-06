@@ -1,0 +1,600 @@
+{
+  "block_code": "41287",
+  "block_name": "경기도 고양시 일산서구",
+  "bbox": [
+    126.67039,
+    37.647522,
+    126.781181,
+    37.765
+  ],
+  "center": [
+    37.706261,
+    126.725785
+  ],
+  "landmarks": [
+    {
+      "name": "킨텍스",
+      "lat": 37.6652905,
+      "lng": 126.7483791,
+      "category": "전시/컨벤션",
+      "description": "대한민국 최대의 국제 전시시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%82%A8%ED%85%8D%EC%8A%A4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 336.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%ED%82%A8%ED%85%8D%EC%8A%A4.jpg/1280px-%ED%82%A8%ED%85%8D%EC%8A%A4.jpg"
+    },
+    {
+      "name": "일산호수공원",
+      "lat": 37.6588056,
+      "lng": 126.7672443,
+      "category": "호수/공원",
+      "description": "고양시의 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 325.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
+    },
+    {
+      "name": "일산역 상권",
+      "lat": 37.765,
+      "lng": 126.74,
+      "category": "상권",
+      "description": "일산역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 190.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ilsanseo-gu_office_2019.JPG/1280px-Ilsanseo-gu_office_2019.JPG"
+    },
+    {
+      "name": "고양아람누리",
+      "lat": 37.6618236,
+      "lng": 126.7746229,
+      "category": "문화/복합시설",
+      "description": "고양의 대표 문화 예술 복합시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%96%91%EC%95%84%EB%9E%8C%EB%88%84%EB%A6%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 319.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ILSAN%2CGOYANGCITY.jpg"
+    },
+    {
+      "name": "대화동 상권",
+      "lat": 37.665,
+      "lng": 126.755,
+      "category": "상권",
+      "description": "대화동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 330.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ilsanseo-gu_office_2019.JPG/1280px-Ilsanseo-gu_office_2019.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "일산서 자연 힐링 시그니처 에어리얼 투어",
+      "description": "킨텍스 → 대화동 상권 → 일산호수공원 → 고양아람누리 → 일산역 상권 순으로 이어지는 경기도 고양시 일산서구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "킨텍스",
+        "대화동 상권",
+        "일산호수공원",
+        "고양아람누리",
+        "일산역 상권"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "일산서 산하 절경 에어리얼 투어",
+      "description": "일산호수공원 → 고양아람누리 → 일산역 상권 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 일산서의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "일산호수공원",
+        "고양아람누리",
+        "일산역 상권"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "일산서 도심 활력 에어리얼 코스",
+      "description": "킨텍스 → 대화동 상권 → 일산호수공원 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 일산서의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "킨텍스",
+        "대화동 상권",
+        "일산호수공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "킨텍스 솥뚜껑가게",
+      "lat": 37.66543,
+      "lng": 126.748869,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "대화동 상권 할매집",
+      "lat": 37.665,
+      "lng": 126.755,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "일산역 상권 솥뚜껑가게",
+      "lat": 37.7646,
+      "lng": 126.73944,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "일산호수공원 큰마당식당",
+      "lat": 37.659086,
+      "lng": 126.767034,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "고양아람누리 가마솥밥가",
+      "lat": 37.661684,
+      "lng": 126.774973,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "킨텍스",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 30,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      },
+      {
+        "target_landmark": "일산호수공원",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 31,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      },
+      {
+        "target_landmark": "일산역 상권",
+        "station_name": "일산역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.7646,
+          126.7384
+        ]
+      },
+      {
+        "target_landmark": "고양아람누리",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 29,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      },
+      {
+        "target_landmark": "대화동 상권",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 25,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "일산서 중앙 공영주차장",
+        "coordinates": [
+          37.66649,
+          126.748779
+        ],
+        "capacity": 451,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "일산서 제2 공영주차장",
+        "coordinates": [
+          37.6654,
+          126.7538
+        ],
+        "capacity": 219,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "일산서 제3 공영주차장",
+        "coordinates": [
+          37.7626,
+          126.738
+        ],
+        "capacity": 435,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "일산서초등학교 운동장",
+        "coordinates": [
+          37.677595,
+          126.748894
+        ],
+        "capacity": 7200,
+        "address": "경기도 고양시 일산서구"
+      },
+      {
+        "name": "일산서실내체육관",
+        "coordinates": [
+          37.649872,
+          126.778965
+        ],
+        "capacity": 2500,
+        "address": "경기도 고양시 일산서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "킨텍스",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일산호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일산역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고양아람누리",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대화동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "일산호수공원 벚꽃",
+        "고양아람누리 봄"
+      ],
+      "summer": [
+        "킨텍스 여름",
+        "일산호수공원 여름 음악분수"
+      ],
+      "autumn": [
+        "일산호수공원 단풍",
+        "고양아람누리 가을"
+      ],
+      "winter": [
+        "킨텍스 겨울 조명",
+        "일산호수공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "킨텍스 야경",
+        "coordinates": [
+          37.66529,
+          126.748379
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "일산호수공원 야경",
+        "coordinates": [
+          37.658806,
+          126.767244
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "고양 일산서구는 킨텍스와 일산 호수공원이 자리한 고양 서부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ilsanseo-gu, Goyang",
+      "landmarks": {
+        "킨텍스": [
+          "KINTEX",
+          "Korea's largest international exhibition center."
+        ],
+        "일산호수공원": [
+          "Ilsan Lake Park",
+          "Goyang's signature lakeside park."
+        ],
+        "일산역 상권": [
+          "Ilsan Station District",
+          "Commercial hub centered on Ilsan Station."
+        ],
+        "고양아람누리": [
+          "Aram Nuri Arts Complex",
+          "Goyang's signature arts and culture complex."
+        ],
+        "대화동 상권": [
+          "Daehwa-dong District",
+          "Everyday commercial hub in Daehwa-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 高陽市 一山西区",
+      "landmarks": {
+        "킨텍스": [
+          "KINTEX（キンテックス）",
+          "韓国最大の国際展示場。"
+        ],
+        "일산호수공원": [
+          "一山湖公園",
+          "高陽市を代表する湖畔公園。"
+        ],
+        "일산역 상권": [
+          "一山駅商圏",
+          "一山駅を中心とする代表的な商圏。"
+        ],
+        "고양아람누리": [
+          "高陽アラムヌリ",
+          "高陽を代表する文化芸術複合施設。"
+        ],
+        "대화동 상권": [
+          "大化洞商圏",
+          "大化洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 高阳市 一山西区",
+      "landmarks": {
+        "킨텍스": [
+          "KINTEX会展中心",
+          "韩国规模最大的国际展览设施。"
+        ],
+        "일산호수공원": [
+          "一山湖公园",
+          "高阳市的代表性湖畔公园。"
+        ],
+        "일산역 상권": [
+          "一山站商圈",
+          "以一山站为中心的代表性商圈。"
+        ],
+        "고양아람누리": [
+          "高阳Aram Nuri艺术村",
+          "高阳的代表性文化艺术综合设施。"
+        ],
+        "대화동 상권": [
+          "大化洞商圈",
+          "大化洞形成的代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.goyang.go.kr/3gu/s_gu",
+    "civil_service_center": {
+      "location_name": "일산서구청 민원실 앞",
+      "coordinates": [
+        126.750654,
+        37.675474
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-909-9000",
+      "info": "경기도 고양시 일산서구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "일산서구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.726085,
+      37.706361
+    ],
+    "cctv_zone_count": 125,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "고양호수공원",
+    "trail_length_km": 2.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "일산서구 구민축제",
+    "typical_month": 10,
+    "venue_name": "고양호수공원",
+    "venue_coords": [
+      126.725685,
+      37.706061
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "일산서구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.753254,
+      37.676474
+    ],
+    "reservation_url": "https://www.goyang.go.kr/3gu/s_gu"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "일산서구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.747954,
+      37.676974
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "일산서구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.747854,
+      37.677974
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "킨텍스 솥뚜껑가게",
+    "coordinates": [
+      126.748869,
+      37.66543
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (일산서구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=일산서구청&goalx=126.750654&goaly=37.675474",
+    "kakaonavi_url": "kakaonavi://navigate?name=일산서구청&x=126.750654&y=37.675474&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=일산서구청&dlng=126.750654&dlat=37.675474&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:45",
+      "noon_altitude_deg": 52.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:58",
+      "noon_altitude_deg": 75.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:30",
+      "noon_altitude_deg": 52.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:45",
+      "sunset": "17:18",
+      "noon_altitude_deg": 28.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "일산서구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.727135,
+          37.707311
+        ],
+        [
+          126.726085,
+          37.706361
+        ],
+        [
+          126.725035,
+          37.705511
+        ]
+      ],
+      "cctv_linked_count": 10,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "일산서구 중심상업거리",
+    "anchor_center": [
+      126.750187,
+      37.676607
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 139,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
