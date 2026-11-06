@@ -1,0 +1,570 @@
+{
+  "block_code": "45730",
+  "block_name": "전북특별자치도 무주군",
+  "bbox": [
+    127.524368,
+    35.788166,
+    127.911367,
+    36.068344
+  ],
+  "center": [
+    35.928255,
+    127.717868
+  ],
+  "landmarks": [
+    {
+      "name": "덕유산",
+      "lat": 35.8600127,
+      "lng": 127.7465185,
+      "category": "산/국립공원",
+      "description": "해발 1,614m의 대한민국 제2높은 산으로 덕유산국립공원의 주봉이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 341.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/1280px-Deogyusan_from_Hyangjeok_Peak.jpg"
+    },
+    {
+      "name": "무주구천동",
+      "lat": 35.900223,
+      "lng": 127.775899,
+      "category": "계곡/관광",
+      "description": "덕유산 자락의 유명 계곡 관광지로 여름철 피서 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 300.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%EB%AC%B4%EC%A3%BC_%EA%B5%AC%EC%B2%9C%EB%8F%99_%EC%A3%BC%EB%AA%A9%EA%B5%B0%EC%B4%9D.jpg"
+    },
+    {
+      "name": "태권도원",
+      "lat": 35.9950939,
+      "lng": 127.7745741,
+      "category": "체육/테마",
+      "description": "태권도의 세계적 확산을 위한 대표 태권도 테마 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B6%8C%EB%8F%84%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 214.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Taekwondo_pictogram.svg/1280px-Taekwondo_pictogram.svg.png"
+    },
+    {
+      "name": "적상산성",
+      "lat": 36.003,
+      "lng": 127.82,
+      "category": "산성/문화유산",
+      "description": "백제 시대 옛 성곽으로 유서 깊은 대표 산성이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 227.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Muju-Jeoksangsan-Fortress.jpg/1280px-Muju-Jeoksangsan-Fortress.jpg"
+    },
+    {
+      "name": "설천봉",
+      "lat": 35.8655764,
+      "lng": 127.7435117,
+      "category": "산/자연",
+      "description": "덕유산 주능선의 대표 봉우리로 등산 코스의 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 341.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg/1280px-%EB%8D%95%EC%9C%A0%EC%82%B0_%EC%84%A4%EC%B2%9C%EB%B4%89.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "무주 자연 힐링 시그니처 에어리얼 투어",
+      "description": "무주구천동 → 설천봉 → 덕유산 → 태권도원 → 적상산성 순으로 이어지는 전북특별자치도 무주군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "무주구천동",
+        "설천봉",
+        "덕유산",
+        "태권도원",
+        "적상산성"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "무주 그린 랜드스케이프 플라이트",
+      "description": "덕유산 → 무주구천동 → 적상산성 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 무주의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "덕유산",
+        "무주구천동",
+        "적상산성"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "무주구천동 솥뚜껑가게",
+      "lat": 35.899593,
+      "lng": 127.776599,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "설천봉 본점",
+      "lat": 35.865436,
+      "lng": 127.743022,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "덕유산 동네밥집",
+      "lat": 35.859943,
+      "lng": 127.745959,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "태권도원 큰마당식당",
+      "lat": 35.995374,
+      "lng": 127.775134,
+      "specialty": "부추파전",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "덕유산",
+        "station_name": "덕유산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.857613,
+          127.744118
+        ]
+      },
+      {
+        "target_landmark": "무주구천동",
+        "station_name": "무주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.901423,
+          127.776699
+        ]
+      },
+      {
+        "target_landmark": "태권도원",
+        "station_name": "태권도원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.992694,
+          127.772174
+        ]
+      },
+      {
+        "target_landmark": "적상산성",
+        "station_name": "적상산성 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.0006,
+          127.8176
+        ]
+      },
+      {
+        "target_landmark": "설천봉",
+        "station_name": "설천봉 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.863176,
+          127.741112
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "무주 중앙 공영주차장",
+        "coordinates": [
+          35.901023,
+          127.775499
+        ],
+        "capacity": 256,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "무주 제2 공영주차장",
+        "coordinates": [
+          35.867176,
+          127.745112
+        ],
+        "capacity": 184,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "무주초등학교 운동장",
+        "coordinates": [
+          35.846746,
+          127.728281
+        ],
+        "capacity": 3300,
+        "address": "전북특별자치도 무주군"
+      },
+      {
+        "name": "무주실내체육관",
+        "coordinates": [
+          35.872585,
+          127.7419
+        ],
+        "capacity": 7400,
+        "address": "전북특별자치도 무주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "덕유산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "무주구천동",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태권도원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "적상산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "설천봉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "무주구천동 봄",
+        "적상산성 봄"
+      ],
+      "summer": [
+        "무주구천동 여름 계곡",
+        "태권도원 여름"
+      ],
+      "autumn": [
+        "덕유산 단풍길",
+        "무주구천동 가을"
+      ],
+      "winter": [
+        "덕유산 설경",
+        "무주구천동 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "무주구천동 야경",
+        "coordinates": [
+          35.900223,
+          127.775899
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "태권도원 야경",
+        "coordinates": [
+          35.995094,
+          127.774574
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "무주군은 덕유산 국립공원과 무주구천동, 태권도원이 자리한 전북 동북부의 군으로 백두대간의 산악 자연이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Muju-gun, Jeonbuk",
+      "landmarks": {
+        "덕유산": [
+          "Deogyusan Mountain",
+          "Korea's second-highest peak at 1,614 m and main summit of Deogyusan National Park."
+        ],
+        "무주구천동": [
+          "Muju Gucheondong Valley",
+          "Famed valley on the slopes of Deogyusan and a summer retreat."
+        ],
+        "태권도원": [
+          "Taekwondowon",
+          "Flagship taekwondo theme facility spreading the art worldwide."
+        ],
+        "적상산성": [
+          "Jeoksangsanseong Fortress",
+          "Historic Baekje-era mountain fortress."
+        ],
+        "설천봉": [
+          "Seolcheonbong Peak",
+          "Signature peak on Deogyusan's main ridge, a hiking highlight."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 茂朱郡",
+      "landmarks": {
+        "덕유산": [
+          "徳裕山",
+          "標高1614メートルの韓国第2の高峰。徳裕山国立公園の主峰。"
+        ],
+        "무주구천동": [
+          "茂朱九千洞",
+          "徳裕山のふもとの有名な渓谷観光地。夏の避暑の名所。"
+        ],
+        "태권도원": [
+          "テコンドー園",
+          "テコンドーの世界的普及を担う代表的なテコンドー施設。"
+        ],
+        "적상산성": [
+          "赤裳山城",
+          "百済時代の古い城郭。由緒ある代表的な山城。"
+        ],
+        "설천봉": [
+          "雪川峰",
+          "徳裕山の主稜線を代表する峰。登山コースの名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 茂朱郡",
+      "landmarks": {
+        "덕유산": [
+          "德裕山",
+          "海拔1614米的韩国第二高峰，德裕山国立公园主峰。"
+        ],
+        "무주구천동": [
+          "茂朱九千洞",
+          "德裕山麓著名溪谷景区，夏日避暑胜地。"
+        ],
+        "태권도원": [
+          "跆拳道园",
+          "推动跆拳道走向世界的代表性主题设施。"
+        ],
+        "적상산성": [
+          "赤裳山城",
+          "百济时代的古城墙，历史悠久的代表性山城。"
+        ],
+        "설천봉": [
+          "雪川峰",
+          "德裕山主脊的代表性山峰，登山名点。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.muju.go.kr",
+    "civil_service_center": {
+      "location_name": "무주군청 민원실 앞",
+      "coordinates": [
+        127.660509,
+        36.007061
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-320-2114",
+      "info": "전북특별자치도 무주군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "무주군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.718468,
+      35.927955
+    ],
+    "cctv_zone_count": 77,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "무주호수공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "무주 반디축제",
+    "typical_month": 8,
+    "venue_name": "무주호 반디랜드 일대",
+    "venue_coords": [
+      127.717867,
+      35.928055
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "무주군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.663309,
+      36.008261
+    ],
+    "reservation_url": "https://www.muju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "무주군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.661609,
+      36.005461
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "무주군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.662809,
+      36.009861
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "덕유산 동네밥집",
+    "coordinates": [
+      127.745959,
+      35.859943
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "북어찜 (무주군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=무주군청&goalx=127.660509&goaly=36.007061",
+    "kakaonavi_url": "kakaonavi://navigate?name=무주군청&x=127.660509&y=36.007061&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=무주군청&dlng=127.660509&dlat=36.007061&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 54.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:49",
+      "noon_altitude_deg": 77.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 54.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:36",
+      "sunset": "17:19",
+      "noon_altitude_deg": 30.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "무주군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.719468,
+          35.927705
+        ],
+        [
+          127.718468,
+          35.927955
+        ],
+        [
+          127.717168,
+          35.927555
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "무주군 전통시장 만남의거리",
+    "anchor_center": [
+      127.661309,
+      36.008928
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 10,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
