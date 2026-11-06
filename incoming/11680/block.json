@@ -238,6 +238,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강남초등학교 운동장",
+        "coordinates": [
+          37.499833,
+          127.019073
+        ],
+        "capacity": 7000,
+        "address": "서울특별시 강남구"
+      },
+      {
+        "name": "강남실내체육관",
+        "coordinates": [
+          37.524403,
+          127.021135
+        ],
+        "capacity": 2300,
+        "address": "서울특별시 강남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "강남역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "가로수길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청담동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "테헤란로",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도산공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "강남구는 대한민국 최고 상업·유행 중심지로 강남역과 가로수길, 청담동 패션 거리가 유명하다.",
   "data_sources": [
     {
