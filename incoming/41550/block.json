@@ -416,10 +416,11 @@
     "civil_service_center": {
       "location_name": "안성시청 민원실 앞",
       "coordinates": [
-        127.309603,
-        37.024538
+        127.278813,
+        37.006934
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "031-678-2114",
