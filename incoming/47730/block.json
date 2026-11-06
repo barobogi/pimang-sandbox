@@ -423,10 +423,11 @@
     "civil_service_center": {
       "location_name": "의성군청 민원실 앞",
       "coordinates": [
-        128.589693,
-        36.361055
+        128.695456,
+        36.353037
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "054-830-6114",
