@@ -338,5 +338,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongducheon-si, Gyeonggi",
+      "landmarks": {
+        "소요산": [
+          "Soyosan Mountain",
+          "Dongducheon's home mountain, with a provincial park at its foot."
+        ],
+        "동두천폭포": [
+          "Dongducheon Falls",
+          "Signature natural attraction of Dongducheon."
+        ],
+        "한탄강": [
+          "Hantan River",
+          "National Geopark river famed for its beautiful basalt gorge."
+        ],
+        "보산동 상권": [
+          "Bosan-dong District",
+          "Largest commercial hub of Dongducheon."
+        ],
+        "소요산 전망대": [
+          "Soyosan Observatory",
+          "Signature lookout at the summit of Soyosan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 東豆川市",
+      "landmarks": {
+        "소요산": [
+          "逍遥山",
+          "東豆川の鎮山。道立公園が造られた代表的な名山。"
+        ],
+        "동두천폭포": [
+          "東豆川瀑布",
+          "東豆川を代表する自然の名所。"
+        ],
+        "한탄강": [
+          "漢灘江",
+          "玄武岩の渓谷が美しい国立地質公園の川。"
+        ],
+        "보산동 상권": [
+          "保山洞商圏",
+          "東豆川を代表する商業地域。"
+        ],
+        "소요산 전망대": [
+          "逍遥山展望台",
+          "逍遥山山頂にある代表的な眺望スポット。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 东豆川市",
+      "landmarks": {
+        "소요산": [
+          "逍遥山",
+          "东豆川的主山，山麓建有道立公园。"
+        ],
+        "동두천폭포": [
+          "东豆川瀑布",
+          "东豆川的代表性自然景观。"
+        ],
+        "한탄강": [
+          "汉滩江",
+          "玄武岩峡谷秀美的国家地质公园河流。"
+        ],
+        "보산동 상권": [
+          "保山洞商圈",
+          "东豆川的代表性商业区。"
+        ],
+        "소요산 전망대": [
+          "逍遥山展望台",
+          "逍遥山山顶的代表性观景台。"
+        ]
+      }
+    }
   }
 }
