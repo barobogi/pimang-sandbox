@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namhae-gun, Gyeongnam",
+      "landmarks": {
+        "상주해변": [
+          "Sangju Beach",
+          "Namhae's largest beach, framed by pine groves."
+        ],
+        "미조항": [
+          "Mijo Port",
+          "Signature harbor attraction blending fish market and port scenery."
+        ],
+        "금산보리암": [
+          "Geumsan Boriam Hermitage",
+          "Cliffside hermitage famed for its bridge over the sea."
+        ],
+        "설천약수": [
+          "Seolcheon Spring",
+          "Famed mineral spring that rises from the sea."
+        ],
+        "독일마을": [
+          "German Village",
+          "Village built by returning Korean-Germans, blending German architecture and culture."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 南海郡",
+      "landmarks": {
+        "상주해변": [
+          "上州ビーチ",
+          "松林と調和する南海最大のビーチ。"
+        ],
+        "미조항": [
+          "美朝港",
+          "魚市場と港の風景が調和する南海を代表する観光漁港。"
+        ],
+        "금산보리암": [
+          "錦山菩提庵",
+          "海岸断崖の上に立つ庵。海の上の橋が有名。"
+        ],
+        "설천약수": [
+          "雪川薬水",
+          "海から湧き出る薬水で有名な名所。"
+        ],
+        "독일마을": [
+          "ドイツ村",
+          "在独韓国人が帰国して造った村。ドイツ式建築と文化が調和する。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 南海郡",
+      "landmarks": {
+        "상주해변": [
+          "尚州海滩",
+          "与松林相伴的南海最大海滨浴场。"
+        ],
+        "미조항": [
+          "美朝港",
+          "鱼市与港口风情交融的南海代表性观光渔港。"
+        ],
+        "금산보리암": [
+          "金山菩提庵",
+          "立于海岸峭壁的庵寺，以海上石桥闻名。"
+        ],
+        "설천약수": [
+          "雪川矿泉水",
+          "从海中涌出的涌泉名胜。"
+        ],
+        "독일마을": [
+          "德国村",
+          "旅德侨民归国建设的村落，德式建筑与文化交融。"
+        ]
+      }
+    }
   }
 }
