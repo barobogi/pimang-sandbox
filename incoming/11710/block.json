@@ -235,6 +235,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "송파초등학교 운동장",
+        "coordinates": [
+          37.518456,
+          127.115806
+        ],
+        "capacity": 4100,
+        "address": "서울특별시 송파구"
+      },
+      {
+        "name": "송파실내체육관",
+        "coordinates": [
+          37.51402,
+          127.111011
+        ],
+        "capacity": 2600,
+        "address": "서울특별시 송파구"
+      },
+      {
+        "name": "송파중앙공원 비상집합장소",
+        "coordinates": [
+          37.528042,
+          127.111815
+        ],
+        "capacity": 7300,
+        "address": "서울특별시 송파구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "롯데월드타워",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "석촌호수",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "몽촌토성",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "롯데월드 어드벤처",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송리단길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "송파구는 롯데월드타워와 석촌호수, 몽촌토성이 함께한 서울 남동부 대표 자치구이다.",
   "data_sources": [
     {
