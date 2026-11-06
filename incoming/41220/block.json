@@ -154,6 +154,83 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "평택항",
+        "station_name": "평택항 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.975031,
+          126.848382
+        ]
+      },
+      {
+        "target_landmark": "평택호수공원",
+        "station_name": "평택역",
+        "line": "수도권 1호선",
+        "exit_no": 2,
+        "walk_minutes": 13,
+        "coordinates": [
+          36.9907,
+          127.0839
+        ]
+      },
+      {
+        "target_landmark": "동삭해수욕장",
+        "station_name": "동삭해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.9284,
+          126.7468
+        ]
+      },
+      {
+        "target_landmark": "캠프험프리스",
+        "station_name": "평택지제역",
+        "line": "KTX 경부선",
+        "walk_minutes": 39,
+        "coordinates": [
+          36.9752,
+          127.0948
+        ]
+      },
+      {
+        "target_landmark": "평택문화예술회관",
+        "station_name": "평택문화예술회관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.066224,
+          127.067885
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "평택 중앙 공영주차장",
+        "coordinates": [
+          36.976231,
+          126.846382
+        ],
+        "capacity": 446,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "평택 제2 공영주차장",
+        "coordinates": [
+          37.065424,
+          127.067485
+        ],
+        "capacity": 33,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "평택시는 평택항과 캠프험프리스가 함께한 경기 남부의 관문 도시이며 평택항 컨테이너 항만이 성장했다.",
   "data_sources": [
     {
