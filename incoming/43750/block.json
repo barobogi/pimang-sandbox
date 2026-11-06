@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeungpyeong-gun, Chungbuk",
+      "landmarks": {
+        "좌구산천문대": [
+          "Jwagusan Observatory",
+          "Signature observatory attraction of Jeungpyeong-gun, Chungbuk."
+        ],
+        "좌구산": [
+          "Jwagusan Mountain",
+          "Signature mountain attraction of Jeungpyeong-gun, Chungbuk."
+        ],
+        "증평군청": [
+          "Jeungpyeong County Office",
+          "Administrative center of Jeungpyeong-gun, Chungbuk."
+        ],
+        "증평시장": [
+          "Jeungpyeong Market",
+          "Signature market attraction of Jeungpyeong-gun, Chungbuk."
+        ],
+        "삼기저수지": [
+          "Samgi Reservoir",
+          "Signature reservoir attraction of Jeungpyeong-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 曾坪郡",
+      "landmarks": {
+        "좌구산천문대": [
+          "座亀山天文台",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "좌구산": [
+          "座亀山",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "증평군청": [
+          "曾坪郡庁",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "증평시장": [
+          "曾坪市場",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "삼기저수지": [
+          "三岐貯水池",
+          "忠清北道曾坪郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 曾坪郡",
+      "landmarks": {
+        "좌구산천문대": [
+          "座龟山天文台",
+          "忠清北道曾坪郡的代表性天文台。"
+        ],
+        "좌구산": [
+          "座龟山",
+          "忠清北道曾坪郡的代表性山峦。"
+        ],
+        "증평군청": [
+          "曾坪郡厅",
+          "忠清北道曾坪郡的行政中心。"
+        ],
+        "증평시장": [
+          "曾坪市场",
+          "忠清北道曾坪郡的代表性市场。"
+        ],
+        "삼기저수지": [
+          "三岐水库",
+          "忠清北道曾坪郡的代表性水库。"
+        ]
+      }
+    }
   }
 }
