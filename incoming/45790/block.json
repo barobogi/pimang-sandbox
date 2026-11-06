@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gochang-gun, Jeonbuk",
+      "landmarks": {
+        "고창읍성": [
+          "Gochang Eupseong Fortress",
+          "Signature walled-town heritage of Gochang-gun, Jeonbuk."
+        ],
+        "고창고인돌유적": [
+          "Gochang Dolmen Site",
+          "UNESCO-listed dolmen heritage of Gochang-gun, Jeonbuk."
+        ],
+        "선운사": [
+          "Seonunsa Temple",
+          "Signature temple heritage of Gochang-gun, Jeonbuk."
+        ],
+        "고창군청": [
+          "Gochang County Office",
+          "Administrative center of Gochang-gun, Jeonbuk."
+        ],
+        "고창시장": [
+          "Gochang Market",
+          "Signature market attraction of Gochang-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 高敞郡",
+      "landmarks": {
+        "고창읍성": [
+          "高敞邑城",
+          "全北特別自治道高敞郡を代表する名所。"
+        ],
+        "고창고인돌유적": [
+          "高敞支石墓遺跡",
+          "ユネスコ登録の遺跡。全北特別自治道高敞郡を代表する名所。"
+        ],
+        "선운사": [
+          "禅雲寺",
+          "全北特別自治道高敞郡を代表する名所。"
+        ],
+        "고창군청": [
+          "高敞郡庁",
+          "全北特別自治道高敞郡を代表する名所。"
+        ],
+        "고창시장": [
+          "高敞市場",
+          "全北特別自治道高敞郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 高敞郡",
+      "landmarks": {
+        "고창읍성": [
+          "高敞邑城",
+          "全北特别自治道高敞郡的代表性邑城。"
+        ],
+        "고창고인돌유적": [
+          "高敞支石墓遗迹",
+          "列入世界遗产的遗迹，全北特别自治道高敞郡的代表性名胜。"
+        ],
+        "선운사": [
+          "禅云寺",
+          "全北特别自治道高敞郡的代表性古刹。"
+        ],
+        "고창군청": [
+          "高敞郡厅",
+          "全北特别自治道高敞郡的行政中心。"
+        ],
+        "고창시장": [
+          "高敞市场",
+          "全北特别自治道高敞郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
