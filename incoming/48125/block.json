@@ -129,6 +129,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "마산항",
+        "station_name": "마산항 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.201463,
+          128.594997
+        ]
+      },
+      {
+        "target_landmark": "돝섬",
+        "station_name": "돝섬 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.177457,
+          128.5782
+        ]
+      },
+      {
+        "target_landmark": "마산합포구청",
+        "station_name": "마산합포구청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.1959,
+          128.564994
+        ]
+      },
+      {
+        "target_landmark": "마산어시장",
+        "station_name": "마산어시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.201773,
+          128.573693
+        ]
+      },
+      {
+        "target_landmark": "무학산",
+        "station_name": "무학산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.208907,
+          128.532714
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "마산합포 중앙 공영주차장",
+        "coordinates": [
+          35.211306,
+          128.533514
+        ],
+        "capacity": 256,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "마산합포 제2 공영주차장",
+        "coordinates": [
+          35.177857,
+          128.5834
+        ],
+        "capacity": 535,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "마산합포 제3 공영주차장",
+        "coordinates": [
+          35.1975,
+          128.568594
+        ],
+        "capacity": 544,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "마산합포구는 마산 원도심과 마산항, 돝섬이 자리한 창원 서부의 구이다.",
   "data_sources": [
     {
