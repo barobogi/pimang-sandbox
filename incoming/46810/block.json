@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "다산초당 봄",
+        "백련사 봄"
+      ],
+      "summer": [
+        "강진만 여름",
+        "다산초당 여름"
+      ],
+      "autumn": [
+        "백련사 단풍",
+        "다산초당 가을"
+      ],
+      "winter": [
+        "강진만 겨울 철새",
+        "백련사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "강진만 야경",
+        "coordinates": [
+          34.61952,
+          126.772563
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "다산초당 야경",
+        "coordinates": [
+          34.580776,
+          126.745038
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "강진군은 다산 초당과 백련사, 강진만 갯벌이 자리한 전남 남해안의 역사 문화 군이다.",
   "data_sources": [
     {
