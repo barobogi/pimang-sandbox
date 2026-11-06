@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nam-gu, Pohang",
+      "landmarks": {
+        "죽도시장": [
+          "Jukdo Market",
+          "Pohang's signature traditional market, famed for fruit and food alleys."
+        ],
+        "포스코 포항제철소": [
+          "POSCO Pohang Works",
+          "Cradle of the Korean steel industry, located in Nam-gu, Pohang."
+        ],
+        "오천항": [
+          "Ocheon Port",
+          "Signature fishing port alongside Songdo Beach, famed for its fish market."
+        ],
+        "형산강": [
+          "Hyeongsan River",
+          "River flowing through Pohang into Yeongil Bay with riverside trails."
+        ],
+        "상원대공원": [
+          "Sangwondaegongwon Park",
+          "Large theme park in Nam-gu, Pohang."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 浦項市 南区",
+      "landmarks": {
+        "죽도시장": [
+          "竹島市場",
+          "浦項を代表する伝統市場。果物とグルメの路地で有名。"
+        ],
+        "포스코 포항제철소": [
+          "POSCO浦項製鉄所",
+          "国内鉄鋼産業のゆりかご。浦項南区に位置する。"
+        ],
+        "오천항": [
+          "烏川港",
+          "松島海水浴場とともにある代表的な漁港。魚市場で有名。"
+        ],
+        "형산강": [
+          "兄山江",
+          "浦項市内を貫いて迎日湾へ注ぐ川。水辺の散歩道が整備されている。"
+        ],
+        "상원대공원": [
+          "上元大公園",
+          "浦項南区に造成された大型テーマ公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 浦项市 南区",
+      "landmarks": {
+        "죽도시장": [
+          "竹岛市场",
+          "浦项代表性传统市场，以水果和美食小巷闻名。"
+        ],
+        "포스코 포항제철소": [
+          "浦项钢铁厂",
+          "韩国钢铁工业的摇篮，位于浦项南区。"
+        ],
+        "오천항": [
+          "乌川港",
+          "与松岛海水浴场相伴的代表性渔港，以鱼市闻名。"
+        ],
+        "형산강": [
+          "兄山江",
+          "纵贯浦项市区流入迎日湾，建有滨水步道。"
+        ],
+        "상원대공원": [
+          "上元大公园",
+          "浦项南区建成的大型主题公园。"
+        ]
+      }
+    }
   }
 }
