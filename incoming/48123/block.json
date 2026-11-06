@@ -357,5 +357,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongsan-gu, Changwon",
+      "landmarks": {
+        "성산패총": [
+          "Seongsan Shell Mound",
+          "Historic Site No. 240 preserving a large early Iron Age shell mound and Three Kingdoms fortress remains."
+        ],
+        "불모산": [
+          "Bulmosan Mountain",
+          "Downtown Changwon mountain in Cheonseon-dong, famed for its red clay forest trail."
+        ],
+        "중앙체육공원": [
+          "Jungang Sports Park",
+          "Signature sports park built on the green buffer of Sangnam and Jungang districts."
+        ],
+        "용지호수공원": [
+          "Yongji Lake Park",
+          "Signature lakeside park selected among Korea's top five beautiful urban parks."
+        ],
+        "상남동 노래교차로": [
+          "Sangnam-dong Song Crossroads",
+          "Cultural landmark crossroads of Sangnam-dong, Changwon's commercial heart."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌原市 城山区",
+      "landmarks": {
+        "성산패총": [
+          "城山貝塚",
+          "初期鉄器時代の大規模貝塚と三国時代の城郭遺跡を保存する史跡第240号。"
+        ],
+        "불모산": [
+          "仏母山",
+          "天宣洞にある昌原都心の山。黄土の森の道で有名。"
+        ],
+        "중앙체육공원": [
+          "中央体育公園",
+          "上南洞と中央洞の緩衝緑地に造られた代表的な体育公園。"
+        ],
+        "용지호수공원": [
+          "龍池湖公園",
+          "全国の美しい都市公園ベスト5に選ばれた代表的な湖畔公園。"
+        ],
+        "상남동 노래교차로": [
+          "上南洞歌交差点",
+          "昌原都心の商業中心地・上南洞の文化的シンボル交差点。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌原市 城山区",
+      "landmarks": {
+        "성산패총": [
+          "城山贝冢",
+          "保存早期铁器时代大型贝冢和三国时代城郭遗迹的史迹第240号。"
+        ],
+        "불모산": [
+          "佛母山",
+          "位于天宣洞的昌城山，以黄土森林步道闻名。"
+        ],
+        "중앙체육공원": [
+          "中央体育公园",
+          "上南洞与中央洞缓冲绿地建成的代表性体育公园。"
+        ],
+        "용지호수공원": [
+          "龙池湖公园",
+          "入选全国最美城市公园五强的代表性湖滨公园。"
+        ],
+        "상남동 노래교차로": [
+          "上南洞歌曲十字路口",
+          "昌原商业中心上南洞的文化象征路口。"
+        ]
+      }
+    }
   }
 }
