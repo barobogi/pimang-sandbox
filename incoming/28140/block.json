@@ -147,6 +147,96 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "만석공원",
+        "station_name": "동인천역",
+        "line": "수도권 1호선",
+        "exit_no": 2,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.4787,
+          126.6327
+        ]
+      },
+      {
+        "target_landmark": "송월동 골목",
+        "station_name": "동인천역",
+        "line": "수도권 1호선",
+        "exit_no": 2,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.4787,
+          126.6327
+        ]
+      },
+      {
+        "target_landmark": "동인천역 상권",
+        "station_name": "동인천역",
+        "line": "수도권 1호선",
+        "exit_no": 2,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.4787,
+          126.6327
+        ]
+      },
+      {
+        "target_landmark": "화수진공원",
+        "station_name": "동인천역",
+        "line": "수도권 1호선",
+        "exit_no": 2,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.4787,
+          126.6327
+        ]
+      },
+      {
+        "target_landmark": "영종대교",
+        "station_name": "영종대교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.4968,
+          126.5834
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          37.4782,
+          126.628
+        ],
+        "capacity": 87,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          37.4734,
+          126.6376
+        ],
+        "capacity": 496,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동구 제3 공영주차장",
+        "coordinates": [
+          37.4796,
+          126.616
+        ],
+        "capacity": 495,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "인천 동구는 만석공원과 동인천역 상권, 영종대교가 자리한 인천 항만 중심의 구이다.",
   "data_sources": [
     {
