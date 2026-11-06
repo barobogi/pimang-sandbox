@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "축령산",
+        "station_name": "축령산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.369521,
+          126.727115
+        ]
+      },
+      {
+        "target_landmark": "백양사",
+        "station_name": "백양사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.433719,
+          126.80696
+        ]
+      },
+      {
+        "target_landmark": "홍길동생가",
+        "station_name": "장성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.321648,
+          126.727592
+        ]
+      },
+      {
+        "target_landmark": "장성군청",
+        "station_name": "장성군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.303929,
+          126.783985
+        ]
+      },
+      {
+        "target_landmark": "장성시장",
+        "station_name": "장성시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.282593,
+          126.761031
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "장성 중앙 공영주차장",
+        "coordinates": [
+          35.317648,
+          126.728792
+        ],
+        "capacity": 83,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "장성 제2 공영주차장",
+        "coordinates": [
+          35.365521,
+          126.729515
+        ],
+        "capacity": 112,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
   "data_sources": [
     {
