@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheoin-gu, Yongin",
+      "landmarks": {
+        "에버랜드": [
+          "Everland",
+          "Korea's largest signature theme park."
+        ],
+        "캐리비안베이": [
+          "Caribbean Bay",
+          "Korea's largest signature water park."
+        ],
+        "윤봉길 의사 유적": [
+          "Yun Bong-gil Memorial Site",
+          "Historic site on the life of patriot Yun Bong-gil with memorial facilities."
+        ],
+        "보개산": [
+          "Bogegasan Mountain",
+          "Signature hiking mountain of Cheoin-gu."
+        ],
+        "용인 자연휴양림": [
+          "Yongin Natural Recreation Forest",
+          "Signature forest experience space of Cheoin-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 龍仁市 処仁区",
+      "landmarks": {
+        "에버랜드": [
+          "エバーランド",
+          "韓国最大規模を誇る代表的なテーマパーク。"
+        ],
+        "캐리비안베이": [
+          "カリビアンベイ",
+          "国内最大規模の代表的なウォーターパーク。"
+        ],
+        "윤봉길 의사 유적": [
+          "尹奉吉義士遺跡",
+          "尹奉吉義士の生涯と記念施設を伝える歴史の名所。"
+        ],
+        "보개산": [
+          "宝蓋山",
+          "処仁区を代表する登山の名山。"
+        ],
+        "용인 자연휴양림": [
+          "龍仁自然休養林",
+          "処仁区を代表する森の体験空間。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 龙仁市 处仁区",
+      "landmarks": {
+        "에버랜드": [
+          "爱宝乐园",
+          "韩国规模最大的代表性主题乐园。"
+        ],
+        "캐리비안베이": [
+          "加勒比海湾",
+          "韩国规模最大的代表性水上乐园。"
+        ],
+        "윤봉길 의사 유적": [
+          "尹奉吉义士遗迹",
+          "展现义士尹奉吉生平的纪念设施与历史名胜。"
+        ],
+        "보개산": [
+          "抱盖山",
+          "处仁区的代表性登山名山。"
+        ],
+        "용인 자연휴양림": [
+          "龙仁自然休养林",
+          "处仁区的代表性森林体验空间。"
+        ]
+      }
+    }
   }
 }
