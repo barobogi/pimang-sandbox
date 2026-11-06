@@ -424,5 +424,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.mapo.go.kr",
+    "civil_service_center": {
+      "location_name": "마포구청 민원실 앞",
+      "coordinates": [
+        126.908362,
+        37.562703
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "02-3153-8114",
+      "info": "서울특별시 마포구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "마포구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.908562,
+      37.562503
+    ],
+    "cctv_zone_count": 266
+  },
+  "urban_parks_trails": {
+    "park_name": "월드컵공원",
+    "trail_length_km": 3.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "마포나무꽃축제",
+    "typical_month": 5,
+    "venue_name": "마포나무꽃공원 일대",
+    "venue_coords": [
+      126.908262,
+      37.562203
+    ]
   }
 }
