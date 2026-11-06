@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Paldal-gu, Suwon",
+      "landmarks": {
+        "수원 화성행궁": [
+          "Suwon Hwaseong Haenggung",
+          "Temporary palace where King Jeonggo stayed during visits to Hwaseong."
+        ],
+        "팔달문": [
+          "Paldalmun Gate",
+          "South gate of Suwon Hwaseong Fortress."
+        ],
+        "화홍문": [
+          "Hwahongmun Gate",
+          "North gate of Suwon Hwaseong Fortress."
+        ],
+        "팔달공원": [
+          "Paldal Park",
+          "Park at the foot of Paldalsan."
+        ],
+        "영동시장": [
+          "Yeongdong Market",
+          "Signature traditional market of Suwon's old downtown."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 八達区",
+      "landmarks": {
+        "수원 화성행궁": [
+          "水原華城行宮",
+          "正祖が華城に行幸の際に宿泊した代表的な行宮。"
+        ],
+        "팔달문": [
+          "八達門",
+          "水原華城の南門。"
+        ],
+        "화홍문": [
+          "華虹門",
+          "水原華城の北門。"
+        ],
+        "팔달공원": [
+          "八達公園",
+          "八達山のふもとの代表的な公園。"
+        ],
+        "영동시장": [
+          "霊東市場",
+          "水原旧市街を代表する伝統市場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 八达区",
+      "landmarks": {
+        "수원 화성행궁": [
+          "水原华城行宫",
+          "正祖驾临华城时驻跸的代表性行宫。"
+        ],
+        "팔달문": [
+          "八达门",
+          "水原华城的南门。"
+        ],
+        "화홍문": [
+          "华虹门",
+          "水原华城的北门。"
+        ],
+        "팔달공원": [
+          "八达公园",
+          "八达山麓的代表性公园。"
+        ],
+        "영동시장": [
+          "灵东市场",
+          "水原旧城区的代表性传统市场。"
+        ]
+      }
+    }
   }
 }
