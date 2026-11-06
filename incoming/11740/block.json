@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강동초등학교 운동장",
+        "coordinates": [
+          37.555157,
+          127.093693
+        ],
+        "capacity": 6200,
+        "address": "서울특별시 강동구"
+      },
+      {
+        "name": "강동실내체육관",
+        "coordinates": [
+          37.537748,
+          127.056595
+        ],
+        "capacity": 4200,
+        "address": "서울특별시 강동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "암사선사주거지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천호역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고덕공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고덕한강공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "길동공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "강동구는 천호동 상권과 암사동 선사 유적이 함께한 서울 동남부 자치구이다.",
   "data_sources": [
     {
