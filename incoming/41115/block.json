@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화홍문 벚꽃길",
+        "수원 화성행궁 봄"
+      ],
+      "summer": [
+        "화홍문 여름 수변",
+        "팔달문 시장 여름밤"
+      ],
+      "autumn": [
+        "수원 화성행궁 단풍",
+        "팔달공원 가을"
+      ],
+      "winter": [
+        "수원 화성행궁 겨울 빛축제",
+        "팔달문 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "화홍문 야경",
+        "coordinates": [
+          37.287526,
+          127.017604
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "수원 화성행궁 야경",
+        "coordinates": [
+          37.2822,
+          127.014383
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "수원 팔달구는 수원 화성과 행궁이 자리한 수원 원도심 구이다.",
   "data_sources": [
     {
