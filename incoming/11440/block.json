@@ -221,6 +221,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "마포초등학교 운동장",
+        "coordinates": [
+          37.549899,
+          126.909449
+        ],
+        "capacity": 1800,
+        "address": "서울특별시 마포구"
+      },
+      {
+        "name": "마포실내체육관",
+        "coordinates": [
+          37.560823,
+          126.899512
+        ],
+        "capacity": 1900,
+        "address": "서울특별시 마포구"
+      },
+      {
+        "name": "마포중앙공원 비상집합장소",
+        "coordinates": [
+          37.558062,
+          126.914552
+        ],
+        "capacity": 3500,
+        "address": "서울특별시 마포구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "홍대입구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서울월드컵경기장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "망원한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연남동",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "난지한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "마포구는 홍대와 서교동, 서울월드컵경기장이 자리한 대표 청년 문화 자치구이다.",
   "data_sources": [
     {
