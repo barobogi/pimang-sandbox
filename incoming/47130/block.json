@@ -419,5 +419,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gyeongju.go.kr",
+    "civil_service_center": {
+      "location_name": "경주시청 민원실 앞",
+      "coordinates": [
+        129.26214,
+        35.85682
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "054-779-8585",
+      "info": "경상북도 경주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "경주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.26244,
+      35.85612
+    ],
+    "cctv_zone_count": 424
+  },
+  "urban_parks_trails": {
+    "park_name": "보문근린공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "경주 새백문화축제",
+    "typical_month": 10,
+    "venue_name": "경주 보문관광단지",
+    "venue_coords": [
+      129.26184,
+      35.85592
+    ]
   }
 }
