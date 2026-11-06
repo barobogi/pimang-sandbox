@@ -342,6 +342,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -467,5 +472,48 @@
       127.156566,
       37.44042
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "중원구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.134833,
+      37.430081
+    ],
+    "reservation_url": "https://www.jungwon-gu.or.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "중원구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.136133,
+      37.430881
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "중원구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.138833,
+      37.428481
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "성남아트센터 옛맛식당",
+    "coordinates": [
+      127.128,
+      37.41307
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막국수 (중원구 지정 모범음식점)"
   }
 }
