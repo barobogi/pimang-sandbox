@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Deokjin-gu, Jeonju",
+      "landmarks": {
+        "덕진공원": [
+          "Deokjin Park",
+          "Signature park attraction of Deokjin-gu, Jeonju."
+        ],
+        "전북대학교": [
+          "Jeonbuk National University",
+          "Signature university attraction of Deokjin-gu, Jeonju."
+        ],
+        "전주월드컵경기장": [
+          "Jeonju World Cup Stadium",
+          "Signature sports venue of Deokjin-gu, Jeonju."
+        ],
+        "덕진구청": [
+          "Deokjin-gu Office",
+          "Administrative center of Deokjin-gu, Jeonju."
+        ],
+        "전주천": [
+          "Jeonjucheon Stream",
+          "Signature stream attraction of Deokjin-gu, Jeonju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 全州市 徳津区",
+      "landmarks": {
+        "덕진공원": [
+          "徳津公園",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "전북대학교": [
+          "全北大学校",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "전주월드컵경기장": [
+          "全州ワールドカップ競技場",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "덕진구청": [
+          "徳津区庁",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "전주천": [
+          "全州川",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 全州市 德津区",
+      "landmarks": {
+        "덕진공원": [
+          "德津公园",
+          "全北特别自治道全州市德津区的代表性公园。"
+        ],
+        "전북대학교": [
+          "全北大学",
+          "全北特别自治道全州市德津区的代表性高校。"
+        ],
+        "전주월드컵경기장": [
+          "全州世界杯体育场",
+          "全北特别自治道全州市德津区的代表性体育场。"
+        ],
+        "덕진구청": [
+          "德津区厅",
+          "全北特别自治道全州市德津区的行政中心。"
+        ],
+        "전주천": [
+          "全州川",
+          "全北特别自治道全州市德津区的代表性河流。"
+        ]
+      }
+    }
   }
 }
