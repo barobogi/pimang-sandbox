@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "덕진공원 벚꽃",
+        "전주천 봄"
+      ],
+      "summer": [
+        "덕진공원 여름 연꽃",
+        "전주월드컵경기장 여름"
+      ],
+      "autumn": [
+        "덕진공원 가을",
+        "전북대 캠퍼스 단풍"
+      ],
+      "winter": [
+        "덕진공원 겨울 빛축제",
+        "전주천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "덕진공원 야경",
+        "coordinates": [
+          35.848613,
+          127.123044
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "전주천 야경",
+        "coordinates": [
+          35.859186,
+          127.110759
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "전주 덕진구는 덕진공원과 전북대학교, 전주월드컵경기장이 자리한 전주 북부의 구이다.",
   "data_sources": [
     {
