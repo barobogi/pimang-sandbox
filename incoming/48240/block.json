@@ -419,5 +419,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sacheon.go.kr",
+    "civil_service_center": {
+      "location_name": "사천시청 민원실 앞",
+      "coordinates": [
+        128.031348,
+        35.012349
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "055-831-2114",
+      "info": "경상남도 사천시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "사천시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.031648,
+      35.012149
+    ],
+    "cctv_zone_count": 61
+  },
+  "urban_parks_trails": {
+    "park_name": "사천 중앙공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "사천 멸치축제",
+    "typical_month": 5,
+    "venue_name": "사천만 일대",
+    "venue_coords": [
+      128.031348,
+      35.012149
+    ]
   }
 }
