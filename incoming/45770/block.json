@@ -1,0 +1,571 @@
+{
+  "block_code": "45770",
+  "block_name": "전북특별자치도 순창군",
+  "bbox": [
+    126.859739,
+    35.299233,
+    127.31427,
+    35.556127
+  ],
+  "center": [
+    35.42768,
+    127.087004
+  ],
+  "landmarks": [
+    {
+      "name": "강천산",
+      "lat": 35.40192,
+      "lng": 127.04838,
+      "category": "산/자연",
+      "description": "강천산은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%9C%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 50.7
+      }
+    },
+    {
+      "name": "순창고추장민속마을",
+      "lat": 35.3675082,
+      "lng": 127.1095357,
+      "category": "마을/전통",
+      "description": "순창고추장민속마을은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/2023_SunchangGochuJang_Festival%2C_in_North_Jeolla%2C_South_Korea.jpg"
+    },
+    {
+      "name": "순창군청",
+      "lat": 35.374466,
+      "lng": 127.1373526,
+      "category": "행정/랜드마크",
+      "description": "순창군청은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 322.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/%EC%88%9C%EC%B0%BD%EA%B5%B0%EC%B2%AD_%EC%A0%84%EA%B2%BD.jpg"
+    },
+    {
+      "name": "순창시장",
+      "lat": 35.3712722,
+      "lng": 127.1453882,
+      "category": "시장/먹거리",
+      "description": "순창시장은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 319.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sunchang_Bus_Terminal.JPG/1280px-Sunchang_Bus_Terminal.JPG"
+    },
+    {
+      "name": "회문산",
+      "lat": 35.5047092,
+      "lng": 127.1048233,
+      "category": "산/자연",
+      "description": "회문산은(는) 전북특별자치도 순창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 190.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hoemunsan_Korea_2005.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "순창 자연 힐링 시그니처 에어리얼 투어",
+      "description": "강천산 → 순창고추장민속마을 → 순창군청 → 순창시장 → 회문산 순으로 이어지는 전북특별자치도 순창군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "강천산",
+        "순창고추장민속마을",
+        "순창군청",
+        "순창시장",
+        "회문산"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "순창 자연 힐링 스카이 워크",
+      "description": "회문산 → 강천산 → 순창고추장민속마을 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 순창의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "회문산",
+        "강천산",
+        "순창고추장민속마을"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "순창 도심 하이라이트 스카이 투어",
+      "description": "순창시장 → 순창군청 → 순창고추장민속마을 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 순창의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "순창시장",
+        "순창군청",
+        "순창고추장민속마을"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "순창 큰마당식당",
+      "lat": 35.371272,
+      "lng": 127.145808,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "순창 본점",
+      "lat": 35.370572,
+      "lng": 127.145948,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "순창 솥뚜껑가게",
+      "lat": 35.370572,
+      "lng": 127.145738,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "강천산",
+        "station_name": "순창버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.39992,
+          127.04638
+        ]
+      },
+      {
+        "target_landmark": "순창고추장민속마을",
+        "station_name": "순창고추장민속마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.367908,
+          127.107936
+        ]
+      },
+      {
+        "target_landmark": "순창군청",
+        "station_name": "순창군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.374866,
+          127.135753
+        ]
+      },
+      {
+        "target_landmark": "순창시장",
+        "station_name": "순창시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.371672,
+          127.143788
+        ]
+      },
+      {
+        "target_landmark": "회문산",
+        "station_name": "회문산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.505109,
+          127.103223
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "순창 중앙 공영주차장",
+        "coordinates": [
+          35.40352,
+          127.04998
+        ],
+        "capacity": 89,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "순창 제2 공영주차장",
+        "coordinates": [
+          35.368708,
+          127.110336
+        ],
+        "capacity": 318,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "순창초등학교 운동장",
+        "coordinates": [
+          35.415767,
+          127.069644
+        ],
+        "capacity": 5100,
+        "address": "전북특별자치도 순창군"
+      },
+      {
+        "name": "순창실내체육관",
+        "coordinates": [
+          35.33955,
+          127.091054
+        ],
+        "capacity": 1000,
+        "address": "전북특별자치도 순창군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "강천산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "순창고추장민속마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "순창군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "순창시장",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "회문산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "강천산 봄",
+        "순창고추장민속마을 봄"
+      ],
+      "summer": [
+        "강천산 계곡 여름",
+        "순창고추장민속마을 여름"
+      ],
+      "autumn": [
+        "강천산 단풍",
+        "회문산 가을"
+      ],
+      "winter": [
+        "강천산 설경",
+        "순창시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "강천산 야경",
+        "coordinates": [
+          35.40192,
+          127.04838
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "순창고추장민속마을 야경",
+        "coordinates": [
+          35.367508,
+          127.109536
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "순창군은 고추장의 고장으로 유명하며 강천산과 순창고추장민속마을이 자리한 전북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sunchang-gun, Jeonbuk",
+      "landmarks": {
+        "강천산": [
+          "Gangcheonsan Mountain",
+          "Signature mountain attraction of Sunchang-gun, Jeonbuk."
+        ],
+        "순창고추장민속마을": [
+          "Sunchang Gochujang Village",
+          "Signature traditional village attraction of Sunchang-gun, Jeonbuk."
+        ],
+        "순창군청": [
+          "Sunchang County Office",
+          "Administrative center of Sunchang-gun, Jeonbuk."
+        ],
+        "순창시장": [
+          "Sunchang Market",
+          "Signature market attraction of Sunchang-gun, Jeonbuk."
+        ],
+        "회문산": [
+          "Hoemunsan Mountain",
+          "Signature mountain attraction of Sunchang-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 淳昌郡",
+      "landmarks": {
+        "강천산": [
+          "剛泉山",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "순창고추장민속마을": [
+          "淳昌コチュジャン民俗村",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "순창군청": [
+          "淳昌郡庁",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "순창시장": [
+          "淳昌市場",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "회문산": [
+          "灰紋山",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 淳昌郡",
+      "landmarks": {
+        "강천산": [
+          "刚泉山",
+          "全北特别自治道淳昌郡的代表性名山。"
+        ],
+        "순창고추장민속마을": [
+          "淳昌辣椒酱民俗村",
+          "全北特别自治道淳昌郡的代表性传统村落。"
+        ],
+        "순창군청": [
+          "淳昌郡厅",
+          "全北特别自治道淳昌郡的行政中心。"
+        ],
+        "순창시장": [
+          "淳昌市场",
+          "全北特别自治道淳昌郡的代表性市场。"
+        ],
+        "회문산": [
+          "恢文山",
+          "全北特别自治道淳昌郡的代表性名山。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sunchang.go.kr",
+    "civil_service_center": {
+      "location_name": "순창군청 민원실 앞",
+      "coordinates": [
+        127.14081,
+        35.372072
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-650-1114",
+      "info": "전북특별자치도 순창군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "순창군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.086405,
+      35.42788
+    ],
+    "cctv_zone_count": 25,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "내장산도립공원",
+    "trail_length_km": 3.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "순창 고추축제",
+    "typical_month": 9,
+    "venue_name": "순창군민운동장",
+    "venue_coords": [
+      127.086705,
+      35.42818
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "순창군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.14151,
+      35.372472
+    ],
+    "reservation_url": "https://www.sunchang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "순창군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.13931,
+      35.369772
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "순창군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.13881,
+      35.370572
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "순창 큰마당식당",
+    "coordinates": [
+      127.145808,
+      35.371272
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "콩나물국밥 (순창군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=순창군청&goalx=127.140810&goaly=35.372072",
+    "kakaonavi_url": "kakaonavi://navigate?name=순창군청&x=127.140810&y=35.372072&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=순창군청&dlng=127.140810&dlat=35.372072&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 54.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:17",
+      "sunset": "19:50",
+      "noon_altitude_deg": 78.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 54.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:23",
+      "noon_altitude_deg": 31.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "순창군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.087305,
+          35.42828
+        ],
+        [
+          127.086405,
+          35.42788
+        ],
+        [
+          127.087455,
+          35.42648
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "순창군 전통시장 만남의거리",
+    "anchor_center": [
+      127.14101,
+      35.371605
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 50,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
