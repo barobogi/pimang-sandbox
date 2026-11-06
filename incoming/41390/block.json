@@ -1,0 +1,571 @@
+{
+  "block_code": "41390",
+  "block_name": "경기도 시흥시",
+  "bbox": [
+    126.622896,
+    37.297262,
+    126.882338,
+    37.472393
+  ],
+  "center": [
+    37.384828,
+    126.752617
+  ],
+  "landmarks": [
+    {
+      "name": "오이도빛거리",
+      "lat": 37.3615,
+      "lng": 126.7425,
+      "category": "관광/해양",
+      "description": "정왕동 오이도에 조성된 해양 전망시설로 시화호 갯벌과 석류꽃이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 19.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/CDC_cuke2.jpg"
+    },
+    {
+      "name": "갯골생태공원",
+      "lat": 37.3897024,
+      "lng": 126.7801488,
+      "category": "생태/공원",
+      "description": "조선 시대 조정시절 굴착한 갯골을 복원해 만든 생태공원으로 갯벌 체험이 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 257.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
+    },
+    {
+      "name": "시화호",
+      "lat": 37.297262,
+      "lng": 126.6693532,
+      "category": "호수/해양",
+      "description": "방조제가 건설된 인공 호수로 갯벌과 도요새 이주지로 국제적으로도 중요한 지역이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%99%94%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 37.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sihwa_Lake_World_Wind.jpg/1280px-Sihwa_Lake_World_Wind.jpg"
+    },
+    {
+      "name": "배곧한강공원",
+      "lat": 37.376,
+      "lng": 126.806,
+      "category": "근린공원",
+      "description": "배곧지구에 조성된 수변 공원으로 시흥 신도시의 대표 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 281.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hangang_Railway_Bridge.jpg/1280px-Hangang_Railway_Bridge.jpg"
+    },
+    {
+      "name": "은계생태공원",
+      "lat": 37.4,
+      "lng": 126.779,
+      "category": "생태/공원",
+      "description": "은행동 일대에 조성된 생태공원으로 시민 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%9D%A5%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 234.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%EC%9D%80%EA%B3%84%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90.jpg/1280px-%EC%9D%80%EA%B3%84%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "시흥 자연 힐링 시그니처 에어리얼 투어",
+      "description": "갯골생태공원 → 은계생태공원 → 배곧한강공원 → 오이도빛거리 → 시화호 순으로 이어지는 경기도 시흥시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "갯골생태공원",
+        "은계생태공원",
+        "배곧한강공원",
+        "오이도빛거리",
+        "시화호"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "시흥 자연 힐링 스카이 워크",
+      "description": "시화호 → 갯골생태공원 → 배곧한강공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 시흥의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "시화호",
+        "갯골생태공원",
+        "배곧한강공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "오이도빛거리 본점",
+      "lat": 37.36094,
+      "lng": 126.7425,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "갯골생태공원 큰마당식당",
+      "lat": 37.389842,
+      "lng": 126.780289,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "은계생태공원 큰마당식당",
+      "lat": 37.39972,
+      "lng": 126.77886,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "오이도빛거리",
+        "station_name": "시흥버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3599,
+          126.7417
+        ]
+      },
+      {
+        "target_landmark": "갯골생태공원",
+        "station_name": "갯골생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.387302,
+          126.778949
+        ]
+      },
+      {
+        "target_landmark": "시화호",
+        "station_name": "시화호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.297662,
+          126.668153
+        ]
+      },
+      {
+        "target_landmark": "배곧한강공원",
+        "station_name": "배곧한강공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.3736,
+          126.8048
+        ]
+      },
+      {
+        "target_landmark": "은계생태공원",
+        "station_name": "은계생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.3976,
+          126.7778
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "시흥 중앙 공영주차장",
+        "coordinates": [
+          37.3619,
+          126.7401
+        ],
+        "capacity": 272,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "시흥 제2 공영주차장",
+        "coordinates": [
+          37.388102,
+          126.779749
+        ],
+        "capacity": 218,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "시흥초등학교 운동장",
+        "coordinates": [
+          37.359225,
+          126.754893
+        ],
+        "capacity": 4500,
+        "address": "경기도 시흥시"
+      },
+      {
+        "name": "시흥실내체육관",
+        "coordinates": [
+          37.380799,
+          126.788888
+        ],
+        "capacity": 5600,
+        "address": "경기도 시흥시"
+      },
+      {
+        "name": "시흥중앙공원 비상집합장소",
+        "coordinates": [
+          37.320298,
+          126.67393
+        ],
+        "capacity": 5800,
+        "address": "경기도 시흥시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "오이도빛거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "갯골생태공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "시화호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "배곧한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "은계생태공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "갯골생태공원 봄",
+        "오이도빛거리 봄"
+      ],
+      "summer": [
+        "시화호 여름",
+        "배곧한강공원 여름"
+      ],
+      "autumn": [
+        "갯골생태공원 갈대",
+        "시화호 가을"
+      ],
+      "winter": [
+        "오이도빛거리 겨울 빛축제",
+        "갯골생태공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "오이도빛거리 야경",
+        "coordinates": [
+          37.3615,
+          126.7425
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "시화호 야경",
+        "coordinates": [
+          37.297963,
+          126.669353
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "시흥시는 조선 시대 과천·금천과 함께 관도 중심지였던 유서 깊은 지역으로 화학·금속 산업과 함께 오이도빛거리와 갯골생태공원, 시화호 등 해양 생태 관광이 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Siheung-si, Gyeonggi",
+      "landmarks": {
+        "오이도빛거리": [
+          "Oido Light Trail",
+          "Marine lookout complex on Oido, Jeongwang-dong, famed for Sihwaho mudflats and pomegranate blossoms."
+        ],
+        "갯골생태공원": [
+          "Gaetgol Ecological Park",
+          "Ecological park restored from Joseon-era tidal channels, offering mudflat experiences."
+        ],
+        "시화호": [
+          "Sihwaho Lake",
+          "Artificial lake formed by a sea dike, internationally important for mudflats and migratory shorebirds."
+        ],
+        "배곧한강공원": [
+          "Baegot Waterfront Park",
+          "Waterfront park in the Baegot district, the signature retreat of Siheung New Town."
+        ],
+        "은계생태공원": [
+          "Eunpyeong Ecological Park",
+          "Ecological park in Eunhaeng-dong, a citizens' walking favorite."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 始興市",
+      "landmarks": {
+        "오이도빛거리": [
+          "烏耳島光の道",
+          "正王洞の烏耳島に造られた海洋展望施設。始華湖の干潟とザくろの花が有名。"
+        ],
+        "갯골생태공원": [
+          "ガッコル生態公園",
+          "朝鮮時代に掘削された潮沟を復元して造られた生態公園。干潟体験ができる。"
+        ],
+        "시화호": [
+          "始華湖",
+          "防潮堤で造られた人造湖。干潟とシギの渡り地として国際的にも重要な地域。"
+        ],
+        "배곧한강공원": [
+          "ペゴッ水辺公園",
+          "ペゴッ地区に造られた水辺公園。始興新都市を代表する憩いの場。"
+        ],
+        "은계생태공원": [
+          "銀杏生態公園",
+          "銀杏洞一帯に造られた生態公園。市民の散策名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 始兴市",
+      "landmarks": {
+        "오이도빛거리": [
+          "乌耳岛光影大道",
+          "正王洞乌耳岛上的海洋观景设施，以始兴湖滩涂和石榴花闻名。"
+        ],
+        "갯골생태공원": [
+          "潮沟生态公园",
+          "复原朝鲜时代开凿潮沟建成的生态公园，可体验滩涂。"
+        ],
+        "시화호": [
+          "始华湖",
+          "防潮堤围成的人工湖，滩涂与鸻鹬候鸟栖息地，国际重要性显著。"
+        ],
+        "배곧한강공원": [
+          "Baegot滨水公园",
+          "Baegot地区建成的滨水公园，始兴新城的代表性休憩地。"
+        ],
+        "은계생태공원": [
+          "银杏生态公园",
+          "银杏洞一带的生态公园，市民散步胜地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.siheung.go.kr",
+    "civil_service_center": {
+      "location_name": "시흥시청 민원실 앞",
+      "coordinates": [
+        126.801557,
+        37.37935
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-310-2114",
+      "info": "경기도 시흥시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "시흥시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.753117,
+      37.385128
+    ],
+    "cctv_zone_count": 24,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "시흥 은행공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "물왕 예술제",
+    "typical_month": 5,
+    "venue_name": "시흥시청 앞 광장",
+    "venue_coords": [
+      126.752217,
+      37.385128
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "시흥시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      126.804557,
+      37.37665
+    ],
+    "reservation_url": "https://www.siheung.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "시흥시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.803357,
+      37.37785
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "시흥시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.801857,
+      37.37985
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "오이도빛거리 본점",
+    "coordinates": [
+      126.7425,
+      37.36094
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (시흥시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=시흥시청&goalx=126.801557&goaly=37.379350",
+    "kakaonavi_url": "kakaonavi://navigate?name=시흥시청&x=126.801557&y=37.379350&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=시흥시청&dlng=126.801557&dlat=37.379350&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:45",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:57",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:30",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "시흥시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.751967,
+          37.385178
+        ],
+        [
+          126.753117,
+          37.385128
+        ],
+        [
+          126.754517,
+          37.386378
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "시흥시 중심상업거리",
+    "anchor_center": [
+      126.801957,
+      37.377617
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 350,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
