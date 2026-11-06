@@ -1,0 +1,580 @@
+{
+  "block_code": "42750",
+  "block_name": "강원특별자치도 영월군",
+  "bbox": [
+    128.107162,
+    37.027833,
+    128.910416,
+    37.408961
+  ],
+  "center": [
+    37.218397,
+    128.508789
+  ],
+  "landmarks": [
+    {
+      "name": "동강",
+      "lat": 37.2875126,
+      "lng": 128.5585002,
+      "category": "하천/자연",
+      "description": "동강은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 209.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Dong-gang%28river%29_flows_near_by_Yeongwol_03.jpg/1280px-Dong-gang%28river%29_flows_near_by_Yeongwol_03.jpg"
+    },
+    {
+      "name": "청령포",
+      "lat": 37.1706749,
+      "lng": 128.4496819,
+      "category": "유적/역사",
+      "description": "청령포은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%A0%B9%ED%8F%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 44.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg/1280px-Korea_Gangneung_Danoje_Jangneung_35_%2814303660556%29.jpg"
+    },
+    {
+      "name": "한반도지형",
+      "lat": 37.2195343,
+      "lng": 128.350964,
+      "category": "자연/전망",
+      "description": "한반도지형은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 90.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg/1280px-Miniature_Shape_of_the_Korean_Peninsula%2C_Yeongwol.jpg"
+    },
+    {
+      "name": "영월군청",
+      "lat": 37.1836962,
+      "lng": 128.4618391,
+      "category": "행정/랜드마크",
+      "description": "영월군청은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 47.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/KOCIS_Hanbando-myeon%2C_Yeongwol-gun%2C_Gangwon_Province_%284618109268%29.jpg/1280px-KOCIS_Hanbando-myeon%2C_Yeongwol-gun%2C_Gangwon_Province_%284618109268%29.jpg"
+    },
+    {
+      "name": "고씨동굴",
+      "lat": 37.1305093,
+      "lng": 128.5357498,
+      "category": "동굴/자연",
+      "description": "고씨동굴은(는) 강원특별자치도 영월군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%94%A8%EB%8F%99%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 346.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gossi_Cave.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "영월 자연 힐링 시그니처 에어리얼 투어",
+      "description": "영월군청 → 청령포 → 고씨동굴 → 동강 → 한반도지형 순으로 이어지는 강원특별자치도 영월군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "영월군청",
+        "청령포",
+        "고씨동굴",
+        "동강",
+        "한반도지형"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "영월 그린 랜드스케이프 플라이트",
+      "description": "동강 → 고씨동굴 → 한반도지형 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 영월의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "동강",
+        "고씨동굴",
+        "한반도지형"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "영월군청 본점",
+      "lat": 37.183276,
+      "lng": 128.462119,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "청령포 골목식당",
+      "lat": 37.169975,
+      "lng": 128.449892,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "동강 솥뚜껑가게",
+      "lat": 37.288003,
+      "lng": 128.55801,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "고씨동굴 골목식당",
+      "lat": 37.130229,
+      "lng": 128.53603,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동강",
+        "station_name": "동강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.287513,
+          128.5605
+        ]
+      },
+      {
+        "target_landmark": "청령포",
+        "station_name": "영월역",
+        "line": "중앙선",
+        "walk_minutes": 25,
+        "coordinates": [
+          37.1807,
+          128.4644
+        ]
+      },
+      {
+        "target_landmark": "한반도지형",
+        "station_name": "한반도지형 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.219534,
+          128.352964
+        ]
+      },
+      {
+        "target_landmark": "영월군청",
+        "station_name": "영월역",
+        "line": "중앙선",
+        "walk_minutes": 6,
+        "coordinates": [
+          37.1807,
+          128.4644
+        ]
+      },
+      {
+        "target_landmark": "고씨동굴",
+        "station_name": "고씨동굴 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.130509,
+          128.53775
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영월 중앙 공영주차장",
+        "coordinates": [
+          37.184496,
+          128.459839
+        ],
+        "capacity": 195,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "영월 제2 공영주차장",
+        "coordinates": [
+          37.172675,
+          128.450482
+        ],
+        "capacity": 284,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "영월 제3 공영주차장",
+        "coordinates": [
+          37.289913,
+          128.5605
+        ],
+        "capacity": 65,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영월초등학교 운동장",
+        "coordinates": [
+          37.261018,
+          128.599939
+        ],
+        "capacity": 5200,
+        "address": "강원특별자치도 영월군"
+      },
+      {
+        "name": "영월실내체육관",
+        "coordinates": [
+          37.224545,
+          128.565888
+        ],
+        "capacity": 4000,
+        "address": "강원특별자치도 영월군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동강",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청령포",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한반도지형",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영월군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고씨동굴",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "동강 봄 물길",
+        "청령포 봄"
+      ],
+      "summer": [
+        "동강 여름 래프팅",
+        "고씨동굴 여름"
+      ],
+      "autumn": [
+        "청령포 단풍",
+        "한반도지형 가을"
+      ],
+      "winter": [
+        "청령포 설경",
+        "동강 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청령포 야경",
+        "coordinates": [
+          37.170675,
+          128.449682
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "동강 야경",
+        "coordinates": [
+          37.287513,
+          128.5585
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "영월군은 동강과 한반도 지형, 김삿갓 유적, 단종 유배지 청령포가 자리한 강원 영서 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongwol-gun, Gangwon",
+      "landmarks": {
+        "동강": [
+          "Dong River",
+          "Signature river attraction of Yeongwol-gun, Gangwon."
+        ],
+        "청령포": [
+          "Cheongnyeongpo",
+          "Historic site attraction of Yeongwol-gun, Gangwon."
+        ],
+        "한반도지형": [
+          "Korean Peninsula Terrain",
+          "Signature natural lookout of Yeongwol-gun, Gangwon."
+        ],
+        "영월군청": [
+          "Yeongwol County Office",
+          "Administrative center of Yeongwol-gun, Gangwon."
+        ],
+        "고씨동굴": [
+          "Gossi Cave",
+          "Signature cave attraction of Yeongwol-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 寧越郡",
+      "landmarks": {
+        "동강": [
+          "東江",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "청령포": [
+          "荘陵…ではなく青冷浦",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "한반도지형": [
+          "韓半島地形",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "영월군청": [
+          "寧越郡庁",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "고씨동굴": [
+          "高氏洞窟",
+          "江原特別自治道寧越郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 宁越郡",
+      "landmarks": {
+        "동강": [
+          "东江",
+          "江原特别自治道宁越郡的代表性河流。"
+        ],
+        "청령포": [
+          "清冷浦",
+          "江原特别自治道宁越郡的代表性古迹。"
+        ],
+        "한반도지형": [
+          "朝鲜半岛地形",
+          "江原特别自治道宁越郡的代表性自然观景地。"
+        ],
+        "영월군청": [
+          "宁越郡厅",
+          "江原特别自治道宁越郡的行政中心。"
+        ],
+        "고씨동굴": [
+          "高氏洞窟",
+          "江原特别自治道宁越郡的代表性洞窟。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yw.go.kr",
+    "civil_service_center": {
+      "location_name": "영월군청 민원실 앞",
+      "coordinates": [
+        128.448772,
+        37.171045
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-1577-0545",
+      "info": "강원특별자치도 영월군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "영월군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.508889,
+      37.218697
+    ],
+    "cctv_zone_count": 359,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "동강수변공원",
+    "trail_length_km": 2.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "영월 동강 가을축제",
+    "typical_month": 10,
+    "venue_name": "동강수변공원",
+    "venue_coords": [
+      128.508189,
+      37.218597
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "영월군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.451172,
+      37.171945
+    ],
+    "reservation_url": "https://www.yw.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "영월군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.450272,
+      37.172545
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "영월군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.451672,
+      37.169645
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "영월군청 본점",
+    "coordinates": [
+      128.462119,
+      37.183276
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (영월군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=영월군청&goalx=128.448772&goaly=37.171045",
+    "kakaonavi_url": "kakaonavi://navigate?name=영월군청&x=128.448772&y=37.171045&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=영월군청&dlng=128.448772&dlat=37.171045&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:38",
+      "noon_altitude_deg": 52.8
+    },
+    "summer_solstice": {
+      "sunrise": "05:06",
+      "sunset": "19:49",
+      "noon_altitude_deg": 76.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:23",
+      "noon_altitude_deg": 52.8
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:12",
+      "noon_altitude_deg": 29.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "영월군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.509789,
+          37.218847
+        ],
+        [
+          128.508889,
+          37.218697
+        ],
+        [
+          128.508939,
+          37.217697
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "영월군 전통시장 만남의거리",
+    "anchor_center": [
+      128.448905,
+      37.169912
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 270,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
