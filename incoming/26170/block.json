@@ -1,0 +1,580 @@
+{
+  "block_code": "26170",
+  "block_name": "부산광역시 동구",
+  "bbox": [
+    129.024779,
+    35.105324,
+    129.066424,
+    35.145914
+  ],
+  "center": [
+    35.125619,
+    129.045601
+  ],
+  "landmarks": [
+    {
+      "name": "부산역",
+      "lat": 35.1154864,
+      "lng": 129.0398951,
+      "category": "교통/허브",
+      "description": "KTX가 정차하는 부산의 관문 역이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%97%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 24.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%EB%B6%80%EC%82%B0%EC%97%AD_8%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg/1280px-%EB%B6%80%EC%82%B0%EC%97%AD_8%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg"
+    },
+    {
+      "name": "초량이바구길",
+      "lat": 35.117,
+      "lng": 129.036,
+      "category": "문화/산복도로",
+      "description": "6·25 피난민들이 형성한 산복도로 골목으로 부산 근대사의 생활 문화 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 42.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Korea-Busan-Street-02.jpg/1280px-Korea-Busan-Street-02.jpg"
+    },
+    {
+      "name": "동구청",
+      "lat": 35.129356,
+      "lng": 129.0453138,
+      "category": "행정/랜드마크",
+      "description": "부산 동구의 행정 중심 청사다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 176.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Dong-gu_office_Daegu.JPG/1280px-Dong-gu_office_Daegu.JPG"
+    },
+    {
+      "name": "부산항 북항",
+      "lat": 35.11,
+      "lng": 129.043,
+      "category": "항구/문화",
+      "description": "옛 부산항 제1부두 일원으로 항만 문화의 원점이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 7.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Busan-port-from-Busan-tower-2.jpg"
+    },
+    {
+      "name": "범일동 벚꽃길",
+      "lat": 35.121,
+      "lng": 129.054,
+      "category": "꽃길/계절",
+      "description": "범일동 일대에 형성된 벚꽃 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 303.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Korea-Busan-Street-02.jpg/1280px-Korea-Busan-Street-02.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "동구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "동구청 → 범일동 벚꽃길 → 부산역 → 초량이바구길 → 부산항 북항 순으로 이어지는 부산광역시 동구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "동구청",
+        "범일동 벚꽃길",
+        "부산역",
+        "초량이바구길",
+        "부산항 북항"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "동구 그린 랜드스케이프 플라이트",
+      "description": "범일동 벚꽃길 → 부산역 → 초량이바구길 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 동구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "범일동 벚꽃길",
+        "부산역",
+        "초량이바구길"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "동구청 골목식당",
+      "lat": 35.129216,
+      "lng": 129.045454,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "범일동 벚꽃길 할매집",
+      "lat": 35.12044,
+      "lng": 129.05428,
+      "specialty": "밀면",
+      "category": "향토음식"
+    },
+    {
+      "name": "부산역 본점",
+      "lat": 35.116116,
+      "lng": 129.039475,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "초량이바구길 본점",
+      "lat": 35.11637,
+      "lng": 129.0353,
+      "specialty": "조개구이",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부산역",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "초량이바구길",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "동구청",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 23,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "부산항 북항",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "범일동 벚꽃길",
+        "station_name": "범일역",
+        "line": "부산 1호선",
+        "exit_no": 7,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.1146,
+          129.0529
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.128956,
+          129.047714
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.1202,
+          129.052
+        ],
+        "capacity": 466,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동구 제3 공영주차장",
+        "coordinates": [
+          35.115086,
+          129.037895
+        ],
+        "capacity": 373,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.118414,
+          129.045901
+        ],
+        "capacity": 1900,
+        "address": "부산광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.118419,
+          129.03155
+        ],
+        "capacity": 5500,
+        "address": "부산광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "부산역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "초량이바구길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부산항 북항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "범일동 벚꽃길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "범일동 벚꽃길",
+        "초량이바구길 봄 산책"
+      ],
+      "summer": [
+        "부산항 북항 여름밤",
+        "부산역 여름"
+      ],
+      "autumn": [
+        "초량이바구길 단풍",
+        "범일동 가을"
+      ],
+      "winter": [
+        "부산역 겨울 조명",
+        "초량이바구길 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "부산항 북항 야경",
+        "coordinates": [
+          35.11,
+          129.043
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "초량이바구길 야경",
+        "coordinates": [
+          35.117,
+          129.036
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "부산 동구는 부산역이 자리한 부산의 관문 구로 초량동 등이 있으며 개항기 이후 근대 역사가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Busan",
+      "landmarks": {
+        "부산역": [
+          "Busan Station",
+          "Busan's gateway station served by KTX."
+        ],
+        "초량이바구길": [
+          "Choryang Ibagu-gil",
+          "Hillside alley formed by war refugees, a living culture landmark of Busan's modern history."
+        ],
+        "동구청": [
+          "Dong-gu Office",
+          "Administrative center of Dong-gu, Busan."
+        ],
+        "부산항 북항": [
+          "Busan North Port",
+          "Site of the old Busan Port Pier 1, the origin of the port's culture."
+        ],
+        "범일동 벚꽃길": [
+          "Beomil-dong Cherry Blossom Road",
+          "Beloved cherry blossom walking spot across Beomil-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 東区",
+      "landmarks": {
+        "부산역": [
+          "釜山駅",
+          "KTXが停車する釜山の玄関駅。"
+        ],
+        "초량이바구길": [
+          "草梁イバグキル",
+          "6・25の避難民が形成した山腹道路の路地で、釜山近代史の生活文化の名所。"
+        ],
+        "동구청": [
+          "東区庁",
+          "釜山東区の行政中心庁舎。"
+        ],
+        "부산항 북항": [
+          "釜山港北港",
+          "旧釜山港第1埠頭一帯で、港湾文化の原点。"
+        ],
+        "범일동 벚꽃길": [
+          "凡一洞桜並木",
+          "凡一洞一帯に広がる桜の散策名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 东区",
+      "landmarks": {
+        "부산역": [
+          "釜山站",
+          "停靠KTX的釜山门户车站。"
+        ],
+        "초량이바구길": [
+          "草梁伊巴古路",
+          "战争难民开辟的山腰巷弄，是釜山近代生活文化的活见证。"
+        ],
+        "동구청": [
+          "东区厅",
+          "釜山东区的行政中心。"
+        ],
+        "부산항 북항": [
+          "釜山港北港",
+          "旧釜山港第一码头一带，港口文化的原点。"
+        ],
+        "범일동 벚꽃길": [
+          "凡一洞樱花路",
+          "凡一洞一带的赏樱散步胜地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.bsdonggu.go.kr",
+    "civil_service_center": {
+      "location_name": "동구청 민원실 앞",
+      "coordinates": [
+        129.045082,
+        35.128685
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "051-466-7191",
+      "info": "부산광역시 동구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.045702,
+      35.126019
+    ],
+    "cctv_zone_count": 18,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "초량근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "동구 40계단 문화축제",
+    "typical_month": 10,
+    "venue_name": "40계단문화관 일대",
+    "venue_coords": [
+      129.045301,
+      35.126219
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "동구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      129.045082,
+      35.128085
+    ],
+    "reservation_url": "https://www.bsdonggu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "동구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      129.047682,
+      35.129885
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "동구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.044882,
+      35.126585
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "초량이바구길 본점",
+    "coordinates": [
+      129.0353,
+      35.11637
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "조개구이 (동구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=동구청&goalx=129.045082&goaly=35.128685",
+    "kakaonavi_url": "kakaonavi://navigate?name=동구청&x=129.045082&y=35.128685&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=동구청&dlng=129.045082&dlat=35.128685&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:27",
+      "sunset": "18:35",
+      "noon_altitude_deg": 54.9
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:41",
+      "noon_altitude_deg": 78.3
+    },
+    "autumn_equinox": {
+      "sunrise": "06:12",
+      "sunset": "18:20",
+      "noon_altitude_deg": 54.9
+    },
+    "winter_solstice": {
+      "sunrise": "07:29",
+      "sunset": "17:16",
+      "noon_altitude_deg": 31.4
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "동구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.046802,
+          35.124969
+        ],
+        [
+          129.045702,
+          35.126019
+        ],
+        [
+          129.046252,
+          35.124619
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "동구 중심상업거리",
+    "anchor_center": [
+      129.043482,
+      35.129418
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 250,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
