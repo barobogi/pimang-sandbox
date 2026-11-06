@@ -410,5 +410,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.junggu.ulsan.kr",
+    "civil_service_center": {
+      "location_name": "중구청 민원실 앞",
+      "coordinates": [
+        129.303642,
+        35.571964
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "052-290-3000",
+      "info": "울산광역시 중구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "중구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.303142,
+      35.571664
+    ],
+    "cctv_zone_count": 387
+  },
+  "urban_parks_trails": {
+    "park_name": "학성공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "울산 정월대보름축제",
+    "typical_month": 2,
+    "venue_name": "태화강 국가정원 일대",
+    "venue_coords": [
+      129.303242,
+      35.572464
+    ]
   }
 }
