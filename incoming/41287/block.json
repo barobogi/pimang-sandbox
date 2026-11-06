@@ -154,6 +154,96 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "킨텍스",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 30,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      },
+      {
+        "target_landmark": "일산호수공원",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 31,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      },
+      {
+        "target_landmark": "일산역 상권",
+        "station_name": "일산역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.7646,
+          126.7384
+        ]
+      },
+      {
+        "target_landmark": "고양아람누리",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 29,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      },
+      {
+        "target_landmark": "대화동 상권",
+        "station_name": "일산역",
+        "line": "서울 3호선",
+        "exit_no": 4,
+        "walk_minutes": 25,
+        "coordinates": [
+          37.6784,
+          126.7659
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "일산서 중앙 공영주차장",
+        "coordinates": [
+          37.66649,
+          126.748779
+        ],
+        "capacity": 451,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "일산서 제2 공영주차장",
+        "coordinates": [
+          37.6654,
+          126.7538
+        ],
+        "capacity": 219,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "일산서 제3 공영주차장",
+        "coordinates": [
+          37.7626,
+          126.738
+        ],
+        "capacity": 435,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "고양 일산서구는 킨텍스와 일산 호수공원이 자리한 고양 서부의 구이다.",
   "data_sources": [
     {
