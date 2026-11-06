@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "회룡포 봄",
+        "초간정 봄"
+      ],
+      "summer": [
+        "초간정 여름 계곡",
+        "회룡포 여름 물길"
+      ],
+      "autumn": [
+        "회룡포 단풍",
+        "초간정 가을"
+      ],
+      "winter": [
+        "예천천문우주센터 겨울 별빛",
+        "회룡포 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "예천천문우주센터 야경",
+        "coordinates": [
+          36.701319,
+          128.504848
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "회룡포 야경",
+        "coordinates": [
+          36.575603,
+          128.321316
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "예천군은 회룡포와 초간정, 예천천문우주센터가 자리한 경북 중서부의 군이다.",
   "data_sources": [
     {
