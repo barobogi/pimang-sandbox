@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "담양초등학교 운동장",
+        "coordinates": [
+          35.212204,
+          127.076783
+        ],
+        "capacity": 1500,
+        "address": "전라남도 담양군"
+      },
+      {
+        "name": "담양실내체육관",
+        "coordinates": [
+          35.300988,
+          126.96048
+        ],
+        "capacity": 4200,
+        "address": "전라남도 담양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "메타세쿼이아길",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽녹원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "관방제",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "소쇄원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가사문학공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "담양군은 대나무와 메타세쿼이아 숲으로 유명한 전남 북부의 군으로 죽녹원과 소쇄원, 관방제 등 유서 깊은 명소가 함께한다.",
   "data_sources": [
     {
