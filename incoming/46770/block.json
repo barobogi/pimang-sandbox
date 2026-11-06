@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Goheung-gun, Jeonnam",
+      "landmarks": {
+        "나로우주센터": [
+          "Naro Space Center",
+          "Signature space science attraction of Goheung-gun, Jeonnam."
+        ],
+        "팔영산": [
+          "Paryeongsan Mountain",
+          "Signature mountain attraction of Goheung-gun, Jeonnam."
+        ],
+        "소록도": [
+          "Sorokdo Island",
+          "Signature historic island attraction of Goheung-gun, Jeonnam."
+        ],
+        "고흥군청": [
+          "Goheung County Office",
+          "Administrative center of Goheung-gun, Jeonnam."
+        ],
+        "고흥시장": [
+          "Goheung Market",
+          "Signature market attraction of Goheung-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 高興郡",
+      "landmarks": {
+        "나로우주센터": [
+          "羅老宇宙センター",
+          "全羅南道高興郡を代表する名所。"
+        ],
+        "팔영산": [
+          "八嶺山",
+          "全羅南道高興郡を代表する名所。"
+        ],
+        "소록도": [
+          "小鹿島",
+          "全羅南道高興郡を代表する名所。"
+        ],
+        "고흥군청": [
+          "高興郡庁",
+          "全羅南道高興郡を代表する名所。"
+        ],
+        "고흥시장": [
+          "高興市場",
+          "全羅南道高興郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 高兴郡",
+      "landmarks": {
+        "나로우주센터": [
+          "罗老宇宙中心",
+          "全罗南道高兴郡的代表性航天设施。"
+        ],
+        "팔영산": [
+          "八岭山",
+          "全罗南道高兴郡的代表性名山。"
+        ],
+        "소록도": [
+          "小鹿岛",
+          "全罗南道高兴郡的代表性历史岛屿。"
+        ],
+        "고흥군청": [
+          "高兴郡厅",
+          "全罗南道高兴郡的行政中心。"
+        ],
+        "고흥시장": [
+          "高兴市场",
+          "全罗南道高兴郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
