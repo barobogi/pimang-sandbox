@@ -429,10 +429,11 @@
     "civil_service_center": {
       "location_name": "가평군청 민원실 앞",
       "coordinates": [
-        127.44113,
-        37.812016
+        127.51261,
+        37.824849
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "031-580-2114",
