@@ -1,0 +1,579 @@
+{
+  "block_code": "44131",
+  "block_name": "충청남도 천안시 동남구",
+  "bbox": [
+    127.009358,
+    36.61975,
+    127.420417,
+    36.892081
+  ],
+  "center": [
+    36.755915,
+    127.214887
+  ],
+  "landmarks": [
+    {
+      "name": "독립기념관",
+      "lat": 36.783045,
+      "lng": 127.224876,
+      "category": "기념관/역사",
+      "description": "독립운동과 자주정신을 기리는 국가 기념관으로 천안 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD%EA%B8%B0%EB%85%90%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 196.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Independence_Hall_of_Korea_01.JPG/1280px-Independence_Hall_of_Korea_01.JPG"
+    },
+    {
+      "name": "천안흥타령난장",
+      "lat": 36.815,
+      "lng": 127.15,
+      "category": "문화/공연",
+      "description": "흥타령 문화를 상징하는 전통 시장형 복합문화 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 138.6
+      }
+    },
+    {
+      "name": "광덕산",
+      "lat": 36.8015194,
+      "lng": 127.3428833,
+      "category": "산/자연",
+      "description": "해발 699m의 산으로 광덕사와 함께한 천안 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8D%95%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 246.1
+      }
+    },
+    {
+      "name": "태조산",
+      "lat": 36.8120774,
+      "lng": 127.1674463,
+      "category": "산/자연",
+      "description": "천안 시내 북쪽에 자리한 산으로 등산로가 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 145.9
+      }
+    },
+    {
+      "name": "천안 남산공원",
+      "lat": 36.805,
+      "lng": 127.14,
+      "category": "도시공원",
+      "description": "천안 시내 남쪽에 조성된 대표 도시공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%82%A8%EA%B5%AC_%28%EC%B2%9C%EC%95%88%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 129.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/1/12/Korail_Cheonan_Stn.JPG/1280px-Korail_Cheonan_Stn.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "동남 자연 힐링 시그니처 에어리얼 투어",
+      "description": "독립기념관 → 태조산 → 천안흥타령난장 → 천안 남산공원 → 광덕산 순으로 이어지는 충청남도 천안시 동남구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "독립기념관",
+        "태조산",
+        "천안흥타령난장",
+        "천안 남산공원",
+        "광덕산"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "동남 그린 랜드스케이프 플라이트",
+      "description": "광덕산 → 태조산 → 천안 남산공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 동남의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "광덕산",
+        "태조산",
+        "천안 남산공원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "동남 세월을 나는 문화유산 플라이트",
+      "description": "독립기념관 → 태조산 → 천안흥타령난장 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 동남의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "독립기념관",
+        "태조산",
+        "천안흥타령난장"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "독립기념관 골목식당",
+      "lat": 36.782485,
+      "lng": 127.224456,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "태조산 본점",
+      "lat": 36.811377,
+      "lng": 127.167236,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "천안흥타령난장 본점",
+      "lat": 36.81493,
+      "lng": 127.14958,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "천안 남산공원 동네밥집",
+      "lat": 36.80451,
+      "lng": 127.13993,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "독립기념관",
+        "station_name": "독립기념관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.785445,
+          127.226876
+        ]
+      },
+      {
+        "target_landmark": "천안흥타령난장",
+        "station_name": "천안역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 13,
+        "coordinates": [
+          36.8066,
+          127.1499
+        ]
+      },
+      {
+        "target_landmark": "광덕산",
+        "station_name": "광덕산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.803919,
+          127.344883
+        ]
+      },
+      {
+        "target_landmark": "태조산",
+        "station_name": "천안역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 24,
+        "coordinates": [
+          36.8066,
+          127.1499
+        ]
+      },
+      {
+        "target_landmark": "천안 남산공원",
+        "station_name": "천안역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 13,
+        "coordinates": [
+          36.8066,
+          127.1499
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동남 중앙 공영주차장",
+        "coordinates": [
+          36.785445,
+          127.224076
+        ],
+        "capacity": 72,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동남 제2 공영주차장",
+        "coordinates": [
+          36.814477,
+          127.167446
+        ],
+        "capacity": 467,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동남초등학교 운동장",
+        "coordinates": [
+          36.757379,
+          127.2376
+        ],
+        "capacity": 1100,
+        "address": "충청남도 천안시 동남구"
+      },
+      {
+        "name": "동남실내체육관",
+        "coordinates": [
+          36.810669,
+          127.114287
+        ],
+        "capacity": 2700,
+        "address": "충청남도 천안시 동남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "독립기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "천안흥타령난장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광덕산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태조산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천안 남산공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "독립기념관 봄꽃",
+        "천안 남산공원 봄"
+      ],
+      "summer": [
+        "독립기념관 여름",
+        "광덕산 여름"
+      ],
+      "autumn": [
+        "광덕산 단풍",
+        "독립기념관 가을"
+      ],
+      "winter": [
+        "독립기념관 겨울 조명",
+        "태조산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "독립기념관 야경",
+        "coordinates": [
+          36.783045,
+          127.224876
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "천안 남산공원 야경",
+        "coordinates": [
+          36.805,
+          127.14
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "동남구는 천안 시내의 원도심 구로 독립기념관과 유관순열사 기념? 아니라 흥타령 문화와 광덕산 등이 함께한 천안 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongnam-gu, Cheonan",
+      "landmarks": {
+        "독립기념관": [
+          "Independence Hall of Korea",
+          "National memorial honoring the independence movement and the spirit of self-reliance, Cheonan's signature attraction."
+        ],
+        "천안흥타령난장": [
+          "Cheonan Heungtaryeong Nanjang",
+          "Traditional market-style cultural complex symbolizing Heungtaryeong culture."
+        ],
+        "광덕산": [
+          "Gwangdeoksan Mountain",
+          "699 m peak with Gwangdeoksa Temple, a signature Cheonan mountain."
+        ],
+        "태조산": [
+          "Taejosan Mountain",
+          "Mountain north of downtown Cheonan with hiking trails."
+        ],
+        "천안 남산공원": [
+          "Cheonan Namsan Park",
+          "Signature urban park on the south side of downtown Cheonan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 天安市 東南区",
+      "landmarks": {
+        "독립기념관": [
+          "独立記念館",
+          "独立運動と自主精神を記念する国家記念館。天安を代表する名所。"
+        ],
+        "천안흥타령난장": [
+          "天安興打令ナンジャン",
+          "興打令文化を象徴する伝統市場型複合文化空間。"
+        ],
+        "광덕산": [
+          "広徳山",
+          "標高699メートルの山。広徳寺とともに天安を代表する名山。"
+        ],
+        "태조산": [
+          "太祖山",
+          "天安市内の北にある山。登山道が整備された名山。"
+        ],
+        "천안 남산공원": [
+          "天安南山公園",
+          "天安市内の南に造られた代表的な都市公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 天安市 东南区",
+      "landmarks": {
+        "독립기념관": [
+          "独立纪念馆",
+          "纪念独立运动和自主精神的国家纪念馆，天安代表性名胜。"
+        ],
+        "천안흥타령난장": [
+          "天安兴打令南戏场",
+          "象征兴打令文化的传统市场型复合文化空间。"
+        ],
+        "광덕산": [
+          "广德山",
+          "海拔699米，与广德寺相伴的天安代表名山。"
+        ],
+        "태조산": [
+          "太祖山",
+          "位于天安市区北侧，建有登山步道的名山。"
+        ],
+        "천안 남산공원": [
+          "天安南山公园",
+          "天安市区南侧的代表性城市公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dongnam.cheonan.go.kr",
+    "civil_service_center": {
+      "location_name": "동남구청 민원실 앞",
+      "coordinates": [
+        127.150234,
+        36.803995
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "041-521-4114",
+      "info": "충청남도 천안시 동남구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동남구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.214888,
+      36.755516
+    ],
+    "cctv_zone_count": 124,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "신부근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "천안흥타령춤축제",
+    "typical_month": 9,
+    "venue_name": "천안 종합운동장 및 시내 일원",
+    "venue_coords": [
+      127.214687,
+      36.756416
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "동남구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.150634,
+      36.804095
+    ],
+    "reservation_url": "https://www.dongnam.cheonan.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "동남구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.150634,
+      36.803895
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "동남구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.151434,
+      36.804095
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "태조산 본점",
+    "coordinates": [
+      127.167236,
+      36.811377
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수탉백숙 (동남구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=동남구청&goalx=127.150234&goaly=36.803995",
+    "kakaonavi_url": "kakaonavi://navigate?name=동남구청&x=127.150234&y=36.803995&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=동남구청&dlng=127.150234&dlat=36.803995&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:43",
+      "noon_altitude_deg": 53.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:53",
+      "noon_altitude_deg": 76.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:28",
+      "noon_altitude_deg": 53.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "동남구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.215588,
+          36.755466
+        ],
+        [
+          127.214888,
+          36.755516
+        ],
+        [
+          127.214088,
+          36.756616
+        ]
+      ],
+      "cctv_linked_count": 9,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "동남구 중심상업거리",
+    "anchor_center": [
+      127.148701,
+      36.805728
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 247,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
