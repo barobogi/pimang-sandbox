@@ -1,0 +1,589 @@
+{
+  "block_code": "26710",
+  "block_name": "부산광역시 기장군",
+  "bbox": [
+    129.10929,
+    35.124344,
+    129.488953,
+    35.389224
+  ],
+  "center": [
+    35.256784,
+    129.299122
+  ],
+  "landmarks": [
+    {
+      "name": "청사포",
+      "lat": 35.1612578,
+      "lng": 129.1913842,
+      "category": "해안/관광",
+      "description": "기장의 대표 해안 전망 명소로 절벽 절경이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 42.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Daebyeon_Port_3.jpg/1280px-Daebyeon_Port_3.jpg"
+    },
+    {
+      "name": "장안사",
+      "lat": 35.3743156,
+      "lng": 129.2329808,
+      "category": "사찰/문화유산",
+      "description": "원효대사가 창건한 사찰로 보물 대웅전이 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%88%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 155.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Jangansa_Temple_1932.jpg"
+    },
+    {
+      "name": "임랑해수욕장",
+      "lat": 35.3213997,
+      "lng": 129.2677023,
+      "category": "해수욕장",
+      "description": "기장 8경의 하나로 임랑만의 조용한 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 158.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%EC%9D%BC%EA%B4%91%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%EC%9D%BC%EA%B4%91%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
+    },
+    {
+      "name": "해동용궁사",
+      "lat": 35.1884335,
+      "lng": 129.2229764,
+      "category": "사찰/해안",
+      "description": "바다 위 바위에 지어진 대표 해안 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 42.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg/1280px-%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg"
+    },
+    {
+      "name": "오시리아관광단지",
+      "lat": 35.1894127,
+      "lng": 129.2126703,
+      "category": "테마파크/관광",
+      "description": "롯데월드 어드벤처 부산과 프리미엄아울렛이 자리한 동부산 관광단지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9E%A5%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 46.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Osyria_Station_20200522_011.jpg/1280px-Osyria_Station_20200522_011.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "기장 역사·문화 시그니처 스카이 트레일",
+      "description": "임랑해수욕장 → 장안사 → 오시리아관광단지 → 해동용궁사 → 청사포 순으로 이어지는 부산광역시 기장군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "임랑해수욕장",
+        "장안사",
+        "오시리아관광단지",
+        "해동용궁사",
+        "청사포"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "기장 세월을 나는 문화유산 플라이트",
+      "description": "장안사 → 임랑해수욕장 → 해동용궁사 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 기장의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "장안사",
+        "임랑해수욕장",
+        "해동용궁사"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "기장 푸른 해안선 에어리얼 크루즈",
+      "description": "청사포 → 오시리아관광단지 → 임랑해수욕장 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 기장의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "청사포",
+        "오시리아관광단지",
+        "임랑해수욕장"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "임랑해수욕장 골목식당",
+      "lat": 35.32105,
+      "lng": 129.267422,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "해동용궁사 골목식당",
+      "lat": 35.187804,
+      "lng": 129.222696,
+      "specialty": "밀면",
+      "category": "향토음식"
+    },
+    {
+      "name": "오시리아관광단지 할매집",
+      "lat": 35.189903,
+      "lng": 129.21267,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "장안사 옛맛식당",
+      "lat": 35.374386,
+      "lng": 129.233051,
+      "specialty": "조개구이",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청사포",
+        "station_name": "청사포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.163258,
+          129.193784
+        ]
+      },
+      {
+        "target_landmark": "장안사",
+        "station_name": "장안사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.376316,
+          129.235381
+        ]
+      },
+      {
+        "target_landmark": "임랑해수욕장",
+        "station_name": "임랑해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.3234,
+          129.270102
+        ]
+      },
+      {
+        "target_landmark": "해동용궁사",
+        "station_name": "해동용궁사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.190434,
+          129.225376
+        ]
+      },
+      {
+        "target_landmark": "오시리아관광단지",
+        "station_name": "오시리아관광단지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.191413,
+          129.21507
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "기장 중앙 공영주차장",
+        "coordinates": [
+          35.3218,
+          129.267302
+        ],
+        "capacity": 53,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "기장 제2 공영주차장",
+        "coordinates": [
+          35.189234,
+          129.224176
+        ],
+        "capacity": 292,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "기장초등학교 운동장",
+        "coordinates": [
+          35.190395,
+          129.238858
+        ],
+        "capacity": 2400,
+        "address": "부산광역시 기장군"
+      },
+      {
+        "name": "기장실내체육관",
+        "coordinates": [
+          35.372034,
+          129.233855
+        ],
+        "capacity": 1400,
+        "address": "부산광역시 기장군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청사포",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장안사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "임랑해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "해동용궁사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "오시리아관광단지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "해동용궁사 봄 바다",
+        "임랑해수욕장 봄"
+      ],
+      "summer": [
+        "임랑해수욕장 여름",
+        "청사포 여름밤"
+      ],
+      "autumn": [
+        "장안사 단풍",
+        "오시리아관광단지 가을"
+      ],
+      "winter": [
+        "해동용궁사 해맞이",
+        "청사포 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청사포 야경",
+        "coordinates": [
+          35.161258,
+          129.191384
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "해동용궁사 야경",
+        "coordinates": [
+          35.188434,
+          129.222976
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "오시리아관광단지 야경",
+        "coordinates": [
+          35.189413,
+          129.21267
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "부산 기장군은 기장읍과 장안·일광·정관·철마가 함께한 부산 동부의 해안 군으로 청사포와 해동용궁사 등 해안 명소가 있다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gijang-gun, Busan",
+      "landmarks": {
+        "청사포": [
+          "Cheongsapo",
+          "Signature coastal lookout of Gijang, famed for its dramatic cliffs."
+        ],
+        "장안사": [
+          "Jangan-sa Temple",
+          "Temple founded by the monk Wonhyo, home to a Treasured main hall."
+        ],
+        "임랑해수욕장": [
+          "Imnang Beach",
+          "Quiet cove beach of Imnang Bay, one of Gijang's eight scenic views."
+        ],
+        "해동용궁사": [
+          "Haedong Yonggungsa Temple",
+          "Iconic seaside temple built on rocks above the ocean."
+        ],
+        "오시리아관광단지": [
+          "Osiria Tourist Complex",
+          "East Busan resort zone home to Lotte World Adventure Busan and a premium outlet."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 機張郡",
+      "landmarks": {
+        "청사포": [
+          "青沙浦",
+          "機張を代表する海岸の眺望スポットで、断崖の絶景が有名。"
+        ],
+        "장안사": [
+          "長安寺",
+          "元暁大師が創建した寺で、宝物の大雄殿を有する。"
+        ],
+        "임랑해수욕장": [
+          "林浪海水浴場",
+          "機張八景の一つ。林浪湾の静かな海水浴場。"
+        ],
+        "해동용궁사": [
+          "海東龍宮寺",
+          "海の上の岩に建てられた代表的な海岸寺院。"
+        ],
+        "오시리아관광단지": [
+          "オシリア観光団地",
+          "ロッテワールドアドベンチャー釜山とプレミアムアウトレットが立地する東釜山の観光団地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 机张郡",
+      "landmarks": {
+        "청사포": [
+          "青沙浦",
+          "机张代表性海岸观景地，以悬崖绝景闻名。"
+        ],
+        "장안사": [
+          "长安寺",
+          "元晓大师创建的古刹，藏有宝物级大雄殿。"
+        ],
+        "임랑해수욕장": [
+          "林浪海水浴场",
+          "机张八景之一，林浪湾静谧的海滨浴场。"
+        ],
+        "해동용궁사": [
+          "海东龙宫寺",
+          "建于海边岩石之上的代表性海滨寺院。"
+        ],
+        "오시리아관광단지": [
+          "奥西利亚观光园区",
+          "坐落乐天世界冒险釜山和名牌折扣购物城的东部釜山旅游园区。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gijang.go.kr",
+    "civil_service_center": {
+      "location_name": "기장군청 민원실 앞",
+      "coordinates": [
+        129.222172,
+        35.244394
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "051-709-4000",
+      "info": "부산광역시 기장군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "기장군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.298522,
+      35.257284
+    ],
+    "cctv_zone_count": 31,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "갈맷길(기장 둘레길)",
+    "trail_length_km": 6.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "기장멸치축제",
+    "typical_month": 4,
+    "venue_name": "갈맷길 일대",
+    "venue_coords": [
+      129.299122,
+      35.256184
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "기장군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      129.222672,
+      35.246494
+    ],
+    "reservation_url": "https://www.gijang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "기장군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.220072,
+      35.247194
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "기장군청 공영주차장 급속충전소",
+    "coordinates": [
+      129.224972,
+      35.244594
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "임랑해수욕장 골목식당",
+    "coordinates": [
+      129.267422,
+      35.32105
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "돼지국밥 (기장군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=기장군청&goalx=129.222172&goaly=35.244394",
+    "kakaonavi_url": "kakaonavi://navigate?name=기장군청&x=129.222172&y=35.244394&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=기장군청&dlng=129.222172&dlat=35.244394&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:34",
+      "noon_altitude_deg": 54.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:08",
+      "sunset": "19:40",
+      "noon_altitude_deg": 78.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:11",
+      "sunset": "18:19",
+      "noon_altitude_deg": 54.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:28",
+      "sunset": "17:15",
+      "noon_altitude_deg": 31.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "기장군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.297022,
+          35.258584
+        ],
+        [
+          129.298522,
+          35.257284
+        ],
+        [
+          129.299972,
+          35.255884
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "기장군 전통시장 만남의거리",
+    "anchor_center": [
+      129.222105,
+      35.245594
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 70,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
