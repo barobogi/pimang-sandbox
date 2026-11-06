@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "부여초등학교 운동장",
+        "coordinates": [
+          36.271834,
+          126.918037
+        ],
+        "capacity": 900,
+        "address": "충청남도 부여군"
+      },
+      {
+        "name": "부여실내체육관",
+        "coordinates": [
+          36.246599,
+          126.922984
+        ],
+        "capacity": 2800,
+        "address": "충청남도 부여군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "부소산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙화암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정림사지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "부여군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "궁남지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부여군은 백제 사비 도읍이었던 유서 깊은 고장으로 부소산성과 낙화암, 정림사지가 유네스코 세계유산으로 등재되었다.",
   "data_sources": [
     {
