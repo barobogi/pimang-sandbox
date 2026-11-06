@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "말이산고분군 봄",
+        "낙동강 봄"
+      ],
+      "summer": [
+        "낙동강 여름",
+        "함안박물관 여름"
+      ],
+      "autumn": [
+        "말이산고분군 가을",
+        "낙동강 억새"
+      ],
+      "winter": [
+        "말이산고분군 설경",
+        "함안시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "낙동강 야경",
+        "coordinates": [
+          35.388573,
+          128.512865
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "말이산고분군 야경",
+        "coordinates": [
+          35.27047,
+          128.406518
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "함안군은 아라가야의 고도로 말이산고분군과 함안박물관이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
