@@ -1,0 +1,581 @@
+{
+  "block_code": "42810",
+  "block_name": "강원특별자치도 인제군",
+  "bbox": [
+    127.977512,
+    37.811996,
+    128.513574,
+    38.39684
+  ],
+  "center": [
+    38.104418,
+    128.245543
+  ],
+  "landmarks": [
+    {
+      "name": "설악산",
+      "lat": 38.1340905,
+      "lng": 128.4172172,
+      "category": "산/국립공원",
+      "description": "설악산은(는) 강원특별자치도 인제군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%A4%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 257.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Korea_Seoraksan.jpg/1280px-Korea_Seoraksan.jpg"
+    },
+    {
+      "name": "내린천",
+      "lat": 37.8794639,
+      "lng": 128.2910615,
+      "category": "하천/자연",
+      "description": "내린천은(는) 강원특별자치도 인제군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EB%A6%B0%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 351.0
+      }
+    },
+    {
+      "name": "방동약수",
+      "lat": 37.9438021,
+      "lng": 128.3963164,
+      "category": "약수/자연",
+      "description": "방동약수은(는) 강원특별자치도 인제군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 323.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/GC-GC-PCEgnbb3.jpg/1280px-GC-GC-PCEgnbb3.jpg"
+    },
+    {
+      "name": "인제군청",
+      "lat": 38.0697225,
+      "lng": 128.1703897,
+      "category": "행정/랜드마크",
+      "description": "인제군청은(는) 강원특별자치도 인제군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 59.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%EC%9D%B8%EC%A0%9C_%ED%95%98%EB%8A%98%EB%82%B4%EB%A6%B0%EB%A7%88%EC%9D%84%EB%B2%84%EC%8A%A4_%EC%9D%B8%EC%A0%9C-01%EB%B2%88_7203%ED%98%B8.png/1280px-%EC%9D%B8%EC%A0%9C_%ED%95%98%EB%8A%98%EB%82%B4%EB%A6%B0%EB%A7%88%EC%9D%84%EB%B2%84%EC%8A%A4_%EC%9D%B8%EC%A0%9C-01%EB%B2%88_7203%ED%98%B8.png"
+    },
+    {
+      "name": "인제시장",
+      "lat": 38.104417850000004,
+      "lng": 128.24554295000002,
+      "category": "시장/먹거리",
+      "description": "인제시장은(는) 강원특별자치도 인제군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%A0%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 14.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gangwon-Inje.svg/1280px-Gangwon-Inje.svg.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "인제 자연 힐링 시그니처 에어리얼 투어",
+      "description": "인제시장 → 인제군청 → 설악산 → 방동약수 → 내린천 순으로 이어지는 강원특별자치도 인제군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "인제시장",
+        "인제군청",
+        "설악산",
+        "방동약수",
+        "내린천"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "인제 자연 힐링 스카이 워크",
+      "description": "설악산 → 방동약수 → 내린천 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 인제의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "설악산",
+        "방동약수",
+        "내린천"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "인제 도심 하이라이트 스카이 투어",
+      "description": "인제군청 → 인제시장 → 설악산 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 인제의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "인제군청",
+        "인제시장",
+        "설악산"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "인제 동네밥집",
+      "lat": 38.103928,
+      "lng": 128.245193,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "인제 큰마당식당",
+      "lat": 38.104348,
+      "lng": 128.245753,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "인제 골목식당",
+      "lat": 38.104138,
+      "lng": 128.245893,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "설악산",
+        "station_name": "설악산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.135691,
+          128.417217
+        ]
+      },
+      {
+        "target_landmark": "내린천",
+        "station_name": "내린천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.881064,
+          128.291062
+        ]
+      },
+      {
+        "target_landmark": "방동약수",
+        "station_name": "방동약수 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.945402,
+          128.396316
+        ]
+      },
+      {
+        "target_landmark": "인제군청",
+        "station_name": "인제군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.071323,
+          128.17039
+        ]
+      },
+      {
+        "target_landmark": "인제시장",
+        "station_name": "인제버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.104018,
+          128.247543
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "인제 중앙 공영주차장",
+        "coordinates": [
+          38.104818,
+          128.245543
+        ],
+        "capacity": 270,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "인제 제2 공영주차장",
+        "coordinates": [
+          38.068122,
+          128.17079
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "인제 제3 공영주차장",
+        "coordinates": [
+          38.133291,
+          128.415617
+        ],
+        "capacity": 147,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "인제초등학교 운동장",
+        "coordinates": [
+          38.181921,
+          128.399899
+        ],
+        "capacity": 4400,
+        "address": "강원특별자치도 인제군"
+      },
+      {
+        "name": "인제실내체육관",
+        "coordinates": [
+          37.83975,
+          128.294357
+        ],
+        "capacity": 1500,
+        "address": "강원특별자치도 인제군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "설악산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내린천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "방동약수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "인제군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인제시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "내린천 봄 물길",
+        "방동약수 봄"
+      ],
+      "summer": [
+        "내린천 여름 래프팅",
+        "설악산 계곡 여름"
+      ],
+      "autumn": [
+        "설악산 단풍길",
+        "내린천 가을"
+      ],
+      "winter": [
+        "설악산 설경",
+        "방동약수 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "내린천 야경",
+        "coordinates": [
+          37.879464,
+          128.291062
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "설악산 야경",
+        "coordinates": [
+          38.13409,
+          128.417217
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "인제군은 설악산과 내린천, 방동약수, 빙어호가 자리한 강원 영동 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Inje-gun, Gangwon",
+      "landmarks": {
+        "설악산": [
+          "Seoraksan Mountain",
+          "Signature national park mountain of Inje-gun, Gangwon."
+        ],
+        "내린천": [
+          "Naerincheon Stream",
+          "Signature stream attraction of Inje-gun, Gangwon."
+        ],
+        "방동약수": [
+          "Bangdong Mineral Springs",
+          "Signature spring attraction of Inje-gun, Gangwon."
+        ],
+        "인제군청": [
+          "Inje County Office",
+          "Administrative center of Inje-gun, Gangwon."
+        ],
+        "인제시장": [
+          "Inje Market",
+          "Signature market attraction of Inje-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 麟蹄郡",
+      "landmarks": {
+        "설악산": [
+          "雪岳山",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "내린천": [
+          "内麟川",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "방동약수": [
+          "方洞薬水",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "인제군청": [
+          "麟蹄郡庁",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "인제시장": [
+          "麟蹄市場",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 麟蹄郡",
+      "landmarks": {
+        "설악산": [
+          "雪岳山",
+          "江原特别自治道麟蹄郡的代表性国立公园名山。"
+        ],
+        "내린천": [
+          "内麟川",
+          "江原特别自治道麟蹄郡的代表性河流。"
+        ],
+        "방동약수": [
+          "方洞矿泉水",
+          "江原特别自治道麟蹄郡的代表性涌泉。"
+        ],
+        "인제군청": [
+          "麟蹄郡厅",
+          "江原特别自治道麟蹄郡的行政中心。"
+        ],
+        "인제시장": [
+          "麟蹄市场",
+          "江原特别自治道麟蹄郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.inje.go.kr",
+    "civil_service_center": {
+      "location_name": "인제군청 민원실 앞",
+      "coordinates": [
+        128.171221,
+        38.068572
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-1588-2201",
+      "info": "강원특별자치도 인제군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "인제군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.246043,
+      38.103918
+    ],
+    "cctv_zone_count": 428,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "내린천 수변공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "인제 빙어축제",
+    "typical_month": 1,
+    "venue_name": "인제군 내린천 일대",
+    "venue_coords": [
+      128.245943,
+      38.104018
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "인제군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      128.168521,
+      38.066272
+    ],
+    "reservation_url": "https://www.inje.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "인제군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.169821,
+      38.070872
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "인제군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.170921,
+      38.069072
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "인제 동네밥집",
+    "coordinates": [
+      128.245193,
+      38.103928
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (인제군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=인제군청&goalx=128.171221&goaly=38.068572",
+    "kakaonavi_url": "kakaonavi://navigate?name=인제군청&x=128.171221&y=38.068572&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=인제군청&dlng=128.171221&dlat=38.068572&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:39",
+      "noon_altitude_deg": 51.9
+    },
+    "summer_solstice": {
+      "sunrise": "05:04",
+      "sunset": "19:53",
+      "noon_altitude_deg": 75.3
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:24",
+      "noon_altitude_deg": 51.9
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:11",
+      "noon_altitude_deg": 28.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "인제군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.246843,
+          38.105118
+        ],
+        [
+          128.246043,
+          38.103918
+        ],
+        [
+          128.245493,
+          38.104868
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "인제군 전통시장 만남의거리",
+    "anchor_center": [
+      128.170554,
+      38.068839
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 330,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
