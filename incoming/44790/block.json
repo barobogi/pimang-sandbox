@@ -232,6 +232,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "청양초등학교 운동장",
+        "coordinates": [
+          36.422549,
+          126.913859
+        ],
+        "capacity": 3400,
+        "address": "충청남도 청양군"
+      },
+      {
+        "name": "청양실내체육관",
+        "coordinates": [
+          36.380836,
+          126.871194
+        ],
+        "capacity": 2400,
+        "address": "충청남도 청양군"
+      },
+      {
+        "name": "청양중앙공원 비상집합장소",
+        "coordinates": [
+          36.476926,
+          126.768185
+        ],
+        "capacity": 6100,
+        "address": "충청남도 청양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "칠갑산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장승공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청양군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청양시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "칠갑산자연휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "청양군은 칠갑산과 어우러진 고추 특산지로 칠갑산 장승공원이 대표 명소인 충남 중부의 군이다.",
   "data_sources": [
     {
