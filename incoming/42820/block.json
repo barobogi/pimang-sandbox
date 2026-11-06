@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "고성초등학교 운동장",
+        "coordinates": [
+          38.557184,
+          128.288728
+        ],
+        "capacity": 6700,
+        "address": "강원특별자치도 고성군"
+      },
+      {
+        "name": "고성실내체육관",
+        "coordinates": [
+          38.505458,
+          128.377826
+        ],
+        "capacity": 3600,
+        "address": "강원특별자치도 고성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "금강산전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화진포",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "선인장온천",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고성수복기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "간성성당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "고성군은 간성이 옛 이름인 강원 동북부의 군으로 금강산전망대와 화진포 등 DMZ·동해 관광 자원과 함께 옛 금강산 관광의 관문이었다.",
   "data_sources": [
     {
