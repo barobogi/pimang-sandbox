@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "백운공원 봄꽃",
+        "조선대 캠퍼스 봄"
+      ],
+      "summer": [
+        "백운공원 여름",
+        "월봉로 상권 여름"
+      ],
+      "autumn": [
+        "백운공원 단풍",
+        "조선대 캠퍼스 가을"
+      ],
+      "winter": [
+        "월봉로 상권 겨울 조명",
+        "백운공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "백운공원 야경",
+        "coordinates": [
+          35.124,
+          126.912
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "남광주역 상권 야경",
+        "coordinates": [
+          35.125,
+          126.906
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "광주 남구는 조선대학교와 백운공원이 자리한 광주 남부의 교육 주거 구이다.",
   "data_sources": [
     {
