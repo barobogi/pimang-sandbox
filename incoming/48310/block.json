@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geoje-si, Gyeongnam",
+      "landmarks": {
+        "저구해수욕장": [
+          "Jeogu Beach",
+          "Geoje's signature beach, framed by mondgol boulder shores."
+        ],
+        "학동몽돌해안": [
+          "Hakdong Pebble Coast",
+          "Korea's only black-pebble boulder shore, a unique coastal landmark."
+        ],
+        "외도전망대": [
+          "Oedo Observatory",
+          "Signature lookout with sweeping views of the sea and coast."
+        ],
+        "가조해수욕장": [
+          "Gajo Beach",
+          "Quiet beach in Ilun-myeon, a summer family destination."
+        ],
+        "삼성중공업 거제조선소": [
+          "Samsung Heavy Industries Geoje Shipyard",
+          "World-class shipyard and heart of Geoje's industry."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 巨済市",
+      "landmarks": {
+        "저구해수욕장": [
+          "楸子海水浴場",
+          "モンドル海岸と調和する巨済を代表するビーチ。"
+        ],
+        "학동몽돌해안": [
+          "鶴洞モンドル海岸",
+          "黒真珠のモンドル石が広がる国内唯一のモンドル海岸の名所。"
+        ],
+        "외도전망대": [
+          "外島展望台",
+          "海と海岸の絶景を一望できる代表的な展望名所。"
+        ],
+        "가조해수욕장": [
+          "佳照海水浴場",
+          "一運面にある静かなビーチ。夏の家族行楽の名所。"
+        ],
+        "삼성중공업 거제조선소": [
+          "サムスン重工業巨済造船所",
+          "世界的な造船所で、巨済産業の心臓部。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 巨济市",
+      "landmarks": {
+        "저구해수욕장": [
+          "楸子海水浴场",
+          "与鹅卵石海岸相伴的巨济代表性海滨。"
+        ],
+        "학동몽돌해안": [
+          "鹤洞鹅卵石海岸",
+          "黑珍珠般卵石铺就的国内唯一卵石海岸名胜。"
+        ],
+        "외도전망대": [
+          "外岛展望台",
+          "一览大海和海岸绝景的代表性观景台。"
+        ],
+        "가조해수욕장": [
+          "佳照海水浴场",
+          "位于一运面的静谧海滨，夏日亲子胜地。"
+        ],
+        "삼성중공업 거제조선소": [
+          "三星重工巨济造船厂",
+          "世界级造船厂，巨济产业的心脏。"
+        ]
+      }
+    }
   }
 }
