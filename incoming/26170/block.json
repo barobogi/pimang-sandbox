@@ -341,5 +341,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Busan",
+      "landmarks": {
+        "부산역": [
+          "Busan Station",
+          "Busan's gateway station served by KTX."
+        ],
+        "초량이바구길": [
+          "Choryang Ibagu-gil",
+          "Hillside alley formed by war refugees, a living culture landmark of Busan's modern history."
+        ],
+        "동구청": [
+          "Dong-gu Office",
+          "Administrative center of Dong-gu, Busan."
+        ],
+        "부산항 북항": [
+          "Busan North Port",
+          "Site of the old Busan Port Pier 1, the origin of the port's culture."
+        ],
+        "범일동 벚꽃길": [
+          "Beomil-dong Cherry Blossom Road",
+          "Beloved cherry blossom walking spot across Beomil-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 東区",
+      "landmarks": {
+        "부산역": [
+          "釜山駅",
+          "KTXが停車する釜山の玄関駅。"
+        ],
+        "초량이바구길": [
+          "草梁イバグキル",
+          "6・25の避難民が形成した山腹道路の路地で、釜山近代史の生活文化の名所。"
+        ],
+        "동구청": [
+          "東区庁",
+          "釜山東区の行政中心庁舎。"
+        ],
+        "부산항 북항": [
+          "釜山港北港",
+          "旧釜山港第1埠頭一帯で、港湾文化の原点。"
+        ],
+        "범일동 벚꽃길": [
+          "凡一洞桜並木",
+          "凡一洞一帯に広がる桜の散策名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 东区",
+      "landmarks": {
+        "부산역": [
+          "釜山站",
+          "停靠KTX的釜山门户车站。"
+        ],
+        "초량이바구길": [
+          "草梁伊巴古路",
+          "战争难民开辟的山腰巷弄，是釜山近代生活文化的活见证。"
+        ],
+        "동구청": [
+          "东区厅",
+          "釜山东区的行政中心。"
+        ],
+        "부산항 북항": [
+          "釜山港北港",
+          "旧釜山港第一码头一带，港口文化的原点。"
+        ],
+        "범일동 벚꽃길": [
+          "凡一洞樱花路",
+          "凡一洞一带的赏樱散步胜地。"
+        ]
+      }
+    }
   }
 }
