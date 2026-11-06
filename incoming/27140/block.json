@@ -140,6 +140,83 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "팔공산",
+        "station_name": "팔공산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.971622,
+          128.725221
+        ]
+      },
+      {
+        "target_landmark": "동화사",
+        "station_name": "동화사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.992313,
+          128.703505
+        ]
+      },
+      {
+        "target_landmark": "동촌유원지",
+        "station_name": "동촌유원지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.8876,
+          128.7238
+        ]
+      },
+      {
+        "target_landmark": "대구오페라하우스",
+        "station_name": "대구오페라하우스 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.8896,
+          128.7538
+        ]
+      },
+      {
+        "target_landmark": "아양교",
+        "station_name": "아양교역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 19,
+        "coordinates": [
+          35.8766,
+          128.6411
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.970022,
+          128.728421
+        ],
+        "capacity": 364,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.890733,
+          128.640822
+        ],
+        "capacity": 33,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "대구 동구는 팔공산과 동화사, 동촌유원지, 대구오페라하우스가 자리한 대구 동부의 구이다.",
   "data_sources": [
     {
