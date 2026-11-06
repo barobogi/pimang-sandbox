@@ -227,6 +227,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "수성초등학교 운동장",
+        "coordinates": [
+          35.82667,
+          128.610368
+        ],
+        "capacity": 6500,
+        "address": "대구광역시 수성구"
+      },
+      {
+        "name": "수성실내체육관",
+        "coordinates": [
+          35.870608,
+          128.60219
+        ],
+        "capacity": 3200,
+        "address": "대구광역시 수성구"
+      },
+      {
+        "name": "수성중앙공원 비상집합장소",
+        "coordinates": [
+          35.816014,
+          128.645293
+        ],
+        "capacity": 7300,
+        "address": "대구광역시 수성구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수성못",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국채보상운동기념공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "아르떼뮤지엄 대구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수성갯벌체험장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "황령산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "수성구는 대구의 대표 고급 주거지로 수성못과 국채보상운동기념공원, 아르떼뮤지엄 등이 자리한 대구 남동부의 구이다.",
   "data_sources": [
     {
