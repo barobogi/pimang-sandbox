@@ -223,6 +223,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "문경초등학교 운동장",
+        "coordinates": [
+          36.83042,
+          128.146942
+        ],
+        "capacity": 7100,
+        "address": "경상북도 문경시"
+      },
+      {
+        "name": "문경실내체육관",
+        "coordinates": [
+          36.839661,
+          128.174397
+        ],
+        "capacity": 3300,
+        "address": "경상북도 문경시"
+      },
+      {
+        "name": "문경중앙공원 비상집합장소",
+        "coordinates": [
+          36.865551,
+          128.127072
+        ],
+        "capacity": 7500,
+        "address": "경상북도 문경시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "문경새",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주흘관문",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "표충비",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문경향교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "추점사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "문경시는 조선 시대 영남과 한양을 잇는 문경새 관문이 있던 유서 깊은 도시로 주흘관문과 표충비 등 역사 유적과 산악 자연이 함께한다.",
   "data_sources": [
     {
