@@ -282,6 +282,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "소요산 봄 진달래",
+        "동두천폭포 봄"
+      ],
+      "summer": [
+        "소요산 계곡 여름",
+        "한탄강 여름"
+      ],
+      "autumn": [
+        "소요산 단풍길",
+        "한탄강 가을"
+      ],
+      "winter": [
+        "소요산 설경",
+        "동두천폭포 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "소요산 전망대 야경",
+        "coordinates": [
+          38.01,
+          127.086
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "한탄강 야경",
+        "coordinates": [
+          38.089074,
+          127.09
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "동두천시는 소요산과 한탄강 국가지질공원이 함께한 경기 북부의 도시이다.",
   "data_sources": [
     {
