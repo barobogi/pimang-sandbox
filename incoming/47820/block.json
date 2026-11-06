@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongdo-gun, Gyeongbuk",
+      "landmarks": {
+        "운문사": [
+          "Unmunsa Temple",
+          "Signature temple heritage of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도소싸움경기장": [
+          "Cheongdo Bullfighting Arena",
+          "Signature festival sports attraction of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도천": [
+          "Cheongdocheon Stream",
+          "Signature stream attraction of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도군청": [
+          "Cheongdo County Office",
+          "Administrative center of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도시장": [
+          "Cheongdo Market",
+          "Signature market attraction of Cheongdo-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 清道郡",
+      "landmarks": {
+        "운문사": [
+          "雲門寺",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도소싸움경기장": [
+          "清道牛の角突き競技場",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도천": [
+          "清道川",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도군청": [
+          "清道郡庁",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도시장": [
+          "清道市場",
+          "慶尚北道清道郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 清道郡",
+      "landmarks": {
+        "운문사": [
+          "云门寺",
+          "庆尚北道清道郡的代表性古刹。"
+        ],
+        "청도소싸움경기장": [
+          "清斗斗牛竞技场",
+          "庆尚北道清道郡的代表性庆典竞技场。"
+        ],
+        "청도천": [
+          "清道川",
+          "庆尚北道清道郡的代表性河流。"
+        ],
+        "청도군청": [
+          "清道郡厅",
+          "庆尚北道清道郡的行政中心。"
+        ],
+        "청도시장": [
+          "清道市场",
+          "庆尚北道清道郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
