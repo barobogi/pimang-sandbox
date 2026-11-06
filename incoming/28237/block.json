@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "부평초등학교 운동장",
+        "coordinates": [
+          37.494729,
+          126.700413
+        ],
+        "capacity": 5400,
+        "address": "인천광역시 부평구"
+      },
+      {
+        "name": "부평실내체육관",
+        "coordinates": [
+          37.490065,
+          126.905465
+        ],
+        "capacity": 4600,
+        "address": "인천광역시 부평구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "부평공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부평풍물거리",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼산동 쇼핑거리",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "굴포천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만년산근린공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부평구는 조선 시대 부평도호부였던 유서 깊은 지역으로 근현대 제조업과 주거지가 발달했고 삼산동 상권과 부평풍물거리가 인천 대표 먹거리 명소다.",
   "data_sources": [
     {
