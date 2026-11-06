@@ -154,6 +154,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "국립식량과학원",
+        "station_name": "권선역",
+        "line": "수인분당선",
+        "walk_minutes": 45,
+        "coordinates": [
+          37.302905,
+          127.0054
+        ]
+      },
+      {
+        "target_landmark": "권선동 상권",
+        "station_name": "권선동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2618,
+          127.02
+        ]
+      },
+      {
+        "target_landmark": "세류역 상권",
+        "station_name": "세류역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2578,
+          127.027
+        ]
+      },
+      {
+        "target_landmark": "서둔공원",
+        "station_name": "권선역",
+        "line": "수인분당선",
+        "walk_minutes": 48,
+        "coordinates": [
+          37.302905,
+          127.0054
+        ]
+      },
+      {
+        "target_landmark": "서둔천",
+        "station_name": "서둔천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2708,
+          127.01
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "권선 중앙 공영주차장",
+        "coordinates": [
+          37.2742,
+          127.0016
+        ],
+        "capacity": 382,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "권선 제2 공영주차장",
+        "coordinates": [
+          37.2706,
+          127.005
+        ],
+        "capacity": 399,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "수원 권선구는 국립식량과학원과 세류역 상권이 자리한 수원 서부의 구이다.",
   "data_sources": [
     {
