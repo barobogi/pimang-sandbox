@@ -1,0 +1,562 @@
+{
+  "block_code": "47820",
+  "block_name": "경상북도 청도군",
+  "bbox": [
+    128.526459,
+    35.566375,
+    129.047198,
+    35.846135
+  ],
+  "center": [
+    35.706255,
+    128.786828
+  ],
+  "landmarks": [
+    {
+      "name": "운문사",
+      "lat": 35.6610955,
+      "lng": 128.9602875,
+      "category": "사찰/문화유산",
+      "description": "운문사은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EB%AC%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 287.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg/1280px-%EC%9A%B4%EB%AC%B8%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.jpg"
+    },
+    {
+      "name": "청도소싸움경기장",
+      "lat": 35.6874308,
+      "lng": 128.7243027,
+      "category": "체육/축제",
+      "description": "청도소싸움경기장은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 69.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Korea-2006_Cheongdo_Bullfighting_Festival-01.jpg"
+    },
+    {
+      "name": "청도천",
+      "lat": 35.6616955,
+      "lng": 128.7198428,
+      "category": "하천/자연",
+      "description": "청도천은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 50.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    },
+    {
+      "name": "청도군청",
+      "lat": 35.6479437,
+      "lng": 128.7355698,
+      "category": "행정/랜드마크",
+      "description": "청도군청은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 35.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cheongdo-gun_office.JPG/1280px-Cheongdo-gun_office.JPG"
+    },
+    {
+      "name": "청도시장",
+      "lat": 35.643196,
+      "lng": 128.74397,
+      "category": "시장/먹거리",
+      "description": "청도시장은(는) 경상북도 청도군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%8F%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 28.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cheongdo-eup_office.JPG/1280px-Cheongdo-eup_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "청도 도심 하이라이트 시그니처 스카이 투어",
+      "description": "청도소싸움경기장 → 청도천 → 청도군청 → 청도시장 → 운문사 순으로 이어지는 경상북도 청도군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "청도소싸움경기장",
+        "청도천",
+        "청도군청",
+        "청도시장",
+        "운문사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "청도 도심 하이라이트 스카이 투어",
+      "description": "청도소싸움경기장 → 청도군청 → 청도시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 청도의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "청도소싸움경기장",
+        "청도군청",
+        "청도시장"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "청도 본점",
+      "lat": 35.643546,
+      "lng": 128.7439,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "청도 가마솥밥가",
+      "lat": 35.643266,
+      "lng": 128.74341,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "청도 할매집",
+      "lat": 35.643616,
+      "lng": 128.74376,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "운문사",
+        "station_name": "운문사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.662696,
+          128.963088
+        ]
+      },
+      {
+        "target_landmark": "청도소싸움경기장",
+        "station_name": "청도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.689431,
+          128.726303
+        ]
+      },
+      {
+        "target_landmark": "청도천",
+        "station_name": "청도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 45,
+        "coordinates": [
+          35.689431,
+          128.726303
+        ]
+      },
+      {
+        "target_landmark": "청도군청",
+        "station_name": "청도군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.649544,
+          128.73837
+        ]
+      },
+      {
+        "target_landmark": "청도시장",
+        "station_name": "청도시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.644796,
+          128.74677
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "청도 중앙 공영주차장",
+        "coordinates": [
+          35.685431,
+          128.726303
+        ],
+        "capacity": 127,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청도 제2 공영주차장",
+        "coordinates": [
+          35.641996,
+          128.74557
+        ],
+        "capacity": 185,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "청도초등학교 운동장",
+        "coordinates": [
+          35.675432,
+          129.03333
+        ],
+        "capacity": 3800,
+        "address": "경상북도 청도군"
+      },
+      {
+        "name": "청도실내체육관",
+        "coordinates": [
+          35.669487,
+          128.802332
+        ],
+        "capacity": 5200,
+        "address": "경상북도 청도군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "운문사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청도소싸움경기장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청도천",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청도군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청도시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "운문사 봄",
+        "청도천 봄"
+      ],
+      "summer": [
+        "청도천 여름",
+        "운문사 계곡 여름"
+      ],
+      "autumn": [
+        "운문사 단풍",
+        "청도천 가을"
+      ],
+      "winter": [
+        "운문사 설경",
+        "청도소싸움경기장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청도천 야경",
+        "coordinates": [
+          35.661696,
+          128.719843
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "운문사 야경",
+        "coordinates": [
+          35.661096,
+          128.960287
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongdo-gun, Gyeongbuk",
+      "landmarks": {
+        "운문사": [
+          "Unmunsa Temple",
+          "Signature temple heritage of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도소싸움경기장": [
+          "Cheongdo Bullfighting Arena",
+          "Signature festival sports attraction of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도천": [
+          "Cheongdocheon Stream",
+          "Signature stream attraction of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도군청": [
+          "Cheongdo County Office",
+          "Administrative center of Cheongdo-gun, Gyeongbuk."
+        ],
+        "청도시장": [
+          "Cheongdo Market",
+          "Signature market attraction of Cheongdo-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 清道郡",
+      "landmarks": {
+        "운문사": [
+          "雲門寺",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도소싸움경기장": [
+          "清道牛の角突き競技場",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도천": [
+          "清道川",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도군청": [
+          "清道郡庁",
+          "慶尚北道清道郡を代表する名所。"
+        ],
+        "청도시장": [
+          "清道市場",
+          "慶尚北道清道郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 清道郡",
+      "landmarks": {
+        "운문사": [
+          "云门寺",
+          "庆尚北道清道郡的代表性古刹。"
+        ],
+        "청도소싸움경기장": [
+          "清斗斗牛竞技场",
+          "庆尚北道清道郡的代表性庆典竞技场。"
+        ],
+        "청도천": [
+          "清道川",
+          "庆尚北道清道郡的代表性河流。"
+        ],
+        "청도군청": [
+          "清道郡厅",
+          "庆尚北道清道郡的行政中心。"
+        ],
+        "청도시장": [
+          "清道市场",
+          "庆尚北道清道郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.cd.go.kr",
+    "civil_service_center": {
+      "location_name": "청도군청 민원실 앞",
+      "coordinates": [
+        128.740724,
+        35.643794
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-370-6114",
+      "info": "경상북도 청도군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "청도군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.786829,
+      35.706455
+    ],
+    "cctv_zone_count": 219,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "청도군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "청도소싸움축제",
+    "typical_month": 3,
+    "venue_name": "청도군 빙기 일대",
+    "venue_coords": [
+      128.786929,
+      35.706455
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "청도군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.740224,
+      35.646694
+    ],
+    "reservation_url": "https://www.cd.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "청도군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.741824,
+      35.646694
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "청도군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.742324,
+      35.643794
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "청도 본점",
+    "coordinates": [
+      128.7439,
+      35.643546
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "헛제사밥 (청도군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=청도군청&goalx=128.740724&goaly=35.643794",
+    "kakaonavi_url": "kakaonavi://navigate?name=청도군청&x=128.740724&y=35.643794&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=청도군청&dlng=128.740724&dlat=35.643794&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 54.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:44",
+      "noon_altitude_deg": 77.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 54.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:31",
+      "sunset": "17:15",
+      "noon_altitude_deg": 30.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "청도군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.785929,
+          35.706505
+        ],
+        [
+          128.786829,
+          35.706455
+        ],
+        [
+          128.787179,
+          35.707405
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "청도군 전통시장 만남의거리",
+    "anchor_center": [
+      128.740724,
+      35.643327
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 300,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
