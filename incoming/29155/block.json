@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.142554,
+          126.926148
+        ],
+        "capacity": 3100,
+        "address": "광주광역시 남구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.131629,
+          126.923844
+        ],
+        "capacity": 7300,
+        "address": "광주광역시 남구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          35.137568,
+          126.891034
+        ],
+        "capacity": 7000,
+        "address": "광주광역시 남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "조선대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "백운공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "월봉로 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남광주역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증심사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "광주 남구는 조선대학교와 백운공원이 자리한 광주 남부의 교육 주거 구이다.",
   "data_sources": [
     {
