@@ -226,6 +226,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "밀양초등학교 운동장",
+        "coordinates": [
+          35.501277,
+          128.689557
+        ],
+        "capacity": 3700,
+        "address": "경상남도 밀양시"
+      },
+      {
+        "name": "밀양실내체육관",
+        "coordinates": [
+          35.563106,
+          128.958136
+        ],
+        "capacity": 3300,
+        "address": "경상남도 밀양시"
+      },
+      {
+        "name": "밀양중앙공원 비상집합장소",
+        "coordinates": [
+          35.547409,
+          128.803727
+        ],
+        "capacity": 7300,
+        "address": "경상남도 밀양시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "영남루",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "표충사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "밀양시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "밀양시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "밀양강",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "밀양시는 영남루와 표충사, 밀양아리랑으로 유명한 경남 북부의 도시이다.",
   "data_sources": [
     {
