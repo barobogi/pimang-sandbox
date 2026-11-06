@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geumcheon-gu, Seoul",
+      "landmarks": {
+        "가산디지털단지": [
+          "Gasan Digital Complex",
+          "Largest IT industry cluster in southern Seoul."
+        ],
+        "시흥동": [
+          "Siheung-dong",
+          "Historic center of the old Siheung region in Geumcheon-gu."
+        ],
+        "독산공원": [
+          "Doksan Park",
+          "Representative neighborhood park of Geumcheon-gu."
+        ],
+        "안양천": [
+          "Anyangcheon Stream",
+          "Tributary flowing along Geumcheon-gu's western boundary."
+        ],
+        "가산동 상권": [
+          "Gasan-dong Commercial District",
+          "Major commercial hub centered on Gasan Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 衿川区",
+      "landmarks": {
+        "가산디지털단지": [
+          "加山デジタル団地",
+          "ソウル南部最大のIT産業団地。"
+        ],
+        "시흥동": [
+          "始興洞",
+          "かつて始興地域の中心地だった金川区の町。"
+        ],
+        "독산공원": [
+          "独山公園",
+          "金川区を代表する近隣公園。"
+        ],
+        "안양천": [
+          "安養川",
+          "金川区の西側境界を流れる支流。"
+        ],
+        "가산동 상권": [
+          "加山洞商圏",
+          "加山駅を中心とする代表的な商業地域。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 衿川区",
+      "landmarks": {
+        "가산디지털단지": [
+          "加山数字园区",
+          "首尔南部最大的IT产业园区。"
+        ],
+        "시흥동": [
+          "始兴洞",
+          "旧始兴地区的中心，位于衿川区。"
+        ],
+        "독산공원": [
+          "独山公园",
+          "衿川区的代表性近邻公园。"
+        ],
+        "안양천": [
+          "安养川",
+          "流经衿川区西缘的支流。"
+        ],
+        "가산동 상권": [
+          "加山洞商圈",
+          "以加山站为中心的代表性商业区。"
+        ]
+      }
+    }
   }
 }
