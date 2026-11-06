@@ -436,7 +436,7 @@
         37.417129
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "031-8045-3114",
@@ -449,7 +449,8 @@
       126.913207,
       37.402897
     ],
-    "cctv_zone_count": 342
+    "cctv_zone_count": 342,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "안양중앙공원",
