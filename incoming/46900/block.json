@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jindo-gun, Jeonnam",
+      "landmarks": {
+        "진도대교": [
+          "Jindo Bridge",
+          "Signature bridge landmark of Jindo-gun, Jeonnam."
+        ],
+        "운림산방": [
+          "Unrimsanbang Garden",
+          "Signature cultural heritage garden of Jindo-gun, Jeonnam."
+        ],
+        "진도개테마파크": [
+          "Jindo Dog Theme Park",
+          "Signature theme park attraction of Jindo-gun, Jeonnam."
+        ],
+        "진도군청": [
+          "Jindo County Office",
+          "Administrative center of Jindo-gun, Jeonnam."
+        ],
+        "진도시장": [
+          "Jindo Market",
+          "Signature market attraction of Jindo-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 珍島郡",
+      "landmarks": {
+        "진도대교": [
+          "珍島大橋",
+          "全羅南道珍島郡を代表する名所。"
+        ],
+        "운림산방": [
+          "雲林山房",
+          "全羅南道珍島郡を代表する名所。"
+        ],
+        "진도개테마파크": [
+          "珍島犬テーマパーク",
+          "全羅南道珍島郡を代表する名所。"
+        ],
+        "진도군청": [
+          "珍島郡庁",
+          "全羅南道珍島郡を代表する名所。"
+        ],
+        "진도시장": [
+          "珍島市場",
+          "全羅南道珍島郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 珍岛郡",
+      "landmarks": {
+        "진도대교": [
+          "珍岛大桥",
+          "全罗南道珍岛郡的代表性桥梁地标。"
+        ],
+        "운림산방": [
+          "云林山房",
+          "全罗南道珍岛郡的代表性文化园林。"
+        ],
+        "진도개테마파크": [
+          "珍岛犬主题公园",
+          "全罗南道珍岛郡的代表性主题公园。"
+        ],
+        "진도군청": [
+          "珍岛郡厅",
+          "全罗南道珍岛郡的行政中心。"
+        ],
+        "진도시장": [
+          "珍岛市场",
+          "全罗南道珍岛郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
