@@ -218,6 +218,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "아산초등학교 운동장",
+        "coordinates": [
+          36.765508,
+          126.991137
+        ],
+        "capacity": 1400,
+        "address": "충청남도 아산시"
+      },
+      {
+        "name": "아산실내체육관",
+        "coordinates": [
+          36.810277,
+          126.991818
+        ],
+        "capacity": 1200,
+        "address": "충청남도 아산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "외암민속마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온양온천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "신정호",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "곡교천은행나무길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온양민속박물관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "아산시는 온양온천으로 유명한 온천 도시이자 이순신 장군 고향으로 외암민속마을과 신정호, 곡교천 은행나무길 등 문화·자연 명소가 풍부하다.",
   "data_sources": [
     {
