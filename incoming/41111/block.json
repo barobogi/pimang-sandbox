@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수원 화성",
+        "station_name": "수원 화성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.285623,
+          127.020697
+        ]
+      },
+      {
+        "target_landmark": "파장동 상권",
+        "station_name": "파장동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3044,
+          127.0212
+        ]
+      },
+      {
+        "target_landmark": "율천동 상권",
+        "station_name": "율천동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2934,
+          127.0012
+        ]
+      },
+      {
+        "target_landmark": "화서역 상권",
+        "station_name": "화서역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2934,
+          127.0112
+        ]
+      },
+      {
+        "target_landmark": "장안공원",
+        "station_name": "장안공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.286825,
+          127.014044
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "장안 중앙 공영주차장",
+        "coordinates": [
+          37.297,
+          126.9984
+        ],
+        "capacity": 287,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "장안 제2 공영주차장",
+        "coordinates": [
+          37.3076,
+          127.018
+        ],
+        "capacity": 47,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "수원 장안구는 수원 화성 북쪽 지역으로 파장동과 율천동 상권이 함께한 수원 북부의 구이다.",
   "data_sources": [
     {
