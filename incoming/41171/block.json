@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Manan-gu, Anyang",
+      "landmarks": {
+        "안양예술공원": [
+          "Anyang Art Park",
+          "Anyang's signature cultural park."
+        ],
+        "안양역 상권": [
+          "Anyang Station District",
+          "Commercial hub centered on Anyang Station."
+        ],
+        "안양천": [
+          "Anyangcheon Stream",
+          "The stream that gave Anyang its name."
+        ],
+        "삼막사": [
+          "Sammaksa Temple",
+          "Temple at the foot of Sammaksan."
+        ],
+        "석수동 상권": [
+          "Seoksu-dong District",
+          "Commercial hub formed in Seoksu-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安養市 萬安区",
+      "landmarks": {
+        "안양예술공원": [
+          "安養芸術公園",
+          "安養を代表する文化公園。"
+        ],
+        "안양역 상권": [
+          "安養駅商圏",
+          "安養駅を中心とする代表的な商圏。"
+        ],
+        "안양천": [
+          "安養川",
+          "安養の名前の由来となった代表的な支流。"
+        ],
+        "삼막사": [
+          "三幕寺",
+          "三幕山のふもとにある寺。"
+        ],
+        "석수동 상권": [
+          "石水洞商圏",
+          "石水洞に形成された代表的な商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安养市 万安区",
+      "landmarks": {
+        "안양예술공원": [
+          "安养艺术公园",
+          "安养的代表性文化公园。"
+        ],
+        "안양역 상권": [
+          "安养站商圈",
+          "以安养站为中心的代表性商圈。"
+        ],
+        "안양천": [
+          "安养川",
+          "安养地名由来的代表性河流。"
+        ],
+        "삼막사": [
+          "三幕寺",
+          "三幕山麓的古刹。"
+        ],
+        "석수동 상권": [
+          "石水洞商圈",
+          "石水洞形成的代表性商圈。"
+        ]
+      }
+    }
   }
 }
