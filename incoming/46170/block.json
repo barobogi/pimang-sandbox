@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Naju-si, Jeonnam",
+      "landmarks": {
+        "금성관": [
+          "Geumseonggwan Guest House",
+          "Joseon's largest guest house, a Treasure-designated historic site (No. 2037)."
+        ],
+        "영산포 등대와 황포돛배": [
+          "Yeongsanpo Lighthouse & Hwangpo Sailboats",
+          "Korea's only surviving inland lighthouse, famed for Hwangpo sailboat cruises."
+        ],
+        "빛가람호수공원": [
+          "Bitgaram Lake Park",
+          "Lakeside park at the heart of the innovation city, with the Bitgaram observatory."
+        ],
+        "국립나주박물관": [
+          "Naju National Museum",
+          "National archaeology museum exhibiting the Yeongsan River basin mound culture."
+        ],
+        "금성산": [
+          "Geumseongsan Mountain",
+          "Naju's home mountain, a downtown hiking favorite."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 羅州市",
+      "landmarks": {
+        "금성관": [
+          "錦城館",
+          "朝鮮最大級の客舎。宝物第2037号の代表的な歴史遺跡。"
+        ],
+        "영산포 등대와 황포돛배": [
+          "栄山浦灯台と黄帆帆船",
+          "現存する唯一の内陸灯台。黄帆帆船の遊覧体験が有名。"
+        ],
+        "빛가람호수공원": [
+          "ビッカラム湖公園",
+          "革新都市の中央に造られた湖畔公園。ビッカラム展望台がある。"
+        ],
+        "국립나주박물관": [
+          "国立羅州博物館",
+          "栄山江流域の古墳文化を展示する考古学専門の国立博物館。"
+        ],
+        "금성산": [
+          "錦城山",
+          "羅州の鎮山。都心に近い代表的な登山名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 罗州市",
+      "landmarks": {
+        "금성관": [
+          "锦城馆",
+          "朝鲜规模最大的客舍，宝物第2037号代表性历史遗迹。"
+        ],
+        "영산포 등대와 황포돛배": [
+          "荣山浦灯塔和黄浦帆船",
+          "现存唯一的内陆灯塔，黄浦帆船游览体验闻名。"
+        ],
+        "빛가람호수공원": [
+          "Bihtgaram湖公园",
+          "创新城市中央的湖畔公园，设有展望台。"
+        ],
+        "국립나주박물관": [
+          "国立罗州博物馆",
+          "展示荣山江流域古坟文化的考古专业国立博物馆。"
+        ],
+        "금성산": [
+          "锦城山",
+          "罗州主山，靠近市区的代表性登山胜地。"
+        ]
+      }
+    }
   }
 }
