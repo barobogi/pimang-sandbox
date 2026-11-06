@@ -238,6 +238,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동래초등학교 운동장",
+        "coordinates": [
+          35.211982,
+          129.098333
+        ],
+        "capacity": 5100,
+        "address": "부산광역시 동래구"
+      },
+      {
+        "name": "동래실내체육관",
+        "coordinates": [
+          35.200524,
+          129.102661
+        ],
+        "capacity": 3500,
+        "address": "부산광역시 동래구"
+      },
+      {
+        "name": "동래중앙공원 비상집합장소",
+        "coordinates": [
+          35.194921,
+          129.091856
+        ],
+        "capacity": 1000,
+        "address": "부산광역시 동래구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동래읍성",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "충렬사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "온천천벚꽃길",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "복천동고분군",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "금강공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "부산 동래구는 조선 시대 동래부였던 유서 깊은 지역으로 동래읍성과 충렬사, 온천천 벚꽃길이 자리한 부산 북부의 구이다.",
   "data_sources": [
     {
