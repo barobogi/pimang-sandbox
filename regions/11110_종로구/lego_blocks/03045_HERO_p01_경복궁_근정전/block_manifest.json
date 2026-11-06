@@ -1,0 +1,144 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_01_03045_001",
+  "block_id": "03045_HERO_p01_경복궁_근정전",
+  "name": "경복궁 근정전",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03045",
+  "coordinates": [
+    126.977017,
+    37.57861
+  ],
+  "heading": 174.2,
+  "elevation_asl": 34.5,
+  "lod_switch_distance": 250,
+  "axis_alignment": {
+    "reference": "한양도성 축선(경복궁 중심축)",
+    "heading_deg": 174.2,
+    "bbox_4corners_wgs84_approx": {
+      "NW": [
+        126.97515,
+        37.57995
+      ],
+      "NE": [
+        126.97899,
+        37.57995
+      ],
+      "SW": [
+        126.97515,
+        37.57727
+      ],
+      "SE": [
+        126.97899,
+        37.57727
+      ]
+    }
+  },
+  "hierarchical_components": [
+    {
+      "id": "woldae_2tier_granite",
+      "desc": "2단 월대 + 4면 돌난간(기둥 136기)"
+    },
+    {
+      "id": "sasinsu_sibijisin_stone_statues",
+      "desc": "사신수/십이지신 석수 12기"
+    },
+    {
+      "id": "geunjeongjeon_hall_columns_walls",
+      "desc": "정전 본체 7칸x4 기둥 28기 + 판자문 + 창방/평방 도리"
+    },
+    {
+      "id": "paljak_roof_two_tier_curved_eaves",
+      "desc": "중층 팔작지붕 곡선 처마(오공간 곡률) + 마루 + 잡상/치미"
+    },
+    {
+      "id": "throne_ilwolobongdo_ceiling_dragon",
+      "desc": "실내 핵심 심볼: 왕의 어좌 + 일월오봉도 병풍 5폭 + 천장 칠조룡 앵커"
+    },
+    {
+      "id": "pumgyeseok_rank_stones_courtyard",
+      "desc": "정1품~종9품 품계석 박석 2열 28기"
+    },
+    {
+      "id": "haenggak_corridor_boundary",
+      "desc": "사방 행각(회랑) 바운더리 — 조정 공간 완결성"
+    }
+  ],
+  "night_lighting_anchors": {
+    "color_temp_k": 3000,
+    "phase_link": "Phase 7/18 야간 개장 투광 연동",
+    "spots": [
+      {
+        "id": "NE",
+        "offset_m": [
+          26.0,
+          3.4,
+          -22.0
+        ]
+      },
+      {
+        "id": "NW",
+        "offset_m": [
+          -26.0,
+          3.4,
+          -22.0
+        ]
+      },
+      {
+        "id": "SE",
+        "offset_m": [
+          26.0,
+          3.4,
+          26.0
+        ]
+      },
+      {
+        "id": "SW",
+        "offset_m": [
+          -26.0,
+          3.4,
+          26.0
+        ]
+      }
+    ]
+  },
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_ilwolobongdo",
+      "label": "일월오봉도 병풍"
+    },
+    {
+      "id": "hotspot_deumu_SE",
+      "label": "드므(화재방지 청동솥) 남동"
+    },
+    {
+      "id": "hotspot_deumu_SW",
+      "label": "드므 남서"
+    },
+    {
+      "id": "hotspot_sasinsu_statues",
+      "label": "사신수/십이지신 석수"
+    },
+    {
+      "id": "hotspot_pumgyeseok_row",
+      "label": "품계석 박석"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: composite_id 뒤 _01, _02 … (예: 11110_01_03045_001_02 어좌 초정밀 세트)",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 6174
+    },
+    "model_lod2.gltf": {
+      "triangles": 278
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "국보 제223호 경복궁 근정전 — 문화재청 국가문화재포털",
+    "TASK_REQUEST_20261107_JONGNO_LEGO_PRIORITY12.md 1차 최우선 12대 #1"
+  ]
+}
