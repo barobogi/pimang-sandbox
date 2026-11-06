@@ -345,6 +345,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -470,5 +475,48 @@
       129.897808,
       36.659875
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "군위군 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.569479,
+      36.232689
+    ],
+    "reservation_url": "https://www.gunwi.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "군위군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.569679,
+      36.230589
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "군위군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.572679,
+      36.232889
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "군위 골목식당",
+    "coordinates": [
+      128.567089,
+      36.238381
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (군위군 지정 모범음식점)"
   }
 }
