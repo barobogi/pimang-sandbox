@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "울릉도 봄",
+        "관음도 봄"
+      ],
+      "summer": [
+        "독도 여름",
+        "저동방죽 여름"
+      ],
+      "autumn": [
+        "통구미 가을",
+        "관음도 가을"
+      ],
+      "winter": [
+        "독도 해맞이",
+        "울릉도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "저동방죽 야경",
+        "coordinates": [
+          37.501,
+          130.819
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "통구미 야경",
+        "coordinates": [
+          37.466668,
+          130.860645
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "울릉군은 울릉도와 독도를 관할하는 대한민국 최동단의 군으로 화산섬의 절경과 바다 자원, 독도의 역사가 함께한 섬 군이다.",
   "data_sources": [
     {
