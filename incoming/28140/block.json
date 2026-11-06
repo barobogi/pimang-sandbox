@@ -298,6 +298,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "만석공원 봄꽃",
+        "송월동 골목 봄 산책"
+      ],
+      "summer": [
+        "화수진공원 여름",
+        "동인천역 상권 여름"
+      ],
+      "autumn": [
+        "만석공원 단풍",
+        "송월동 골목 가을"
+      ],
+      "winter": [
+        "동인천역 상권 겨울 조명",
+        "화수진공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "영종대교 야경",
+        "coordinates": [
+          37.494,
+          126.583366
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "동인천역 상권 야경",
+        "coordinates": [
+          37.475,
+          126.64
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "인천 동구는 만석공원과 동인천역 상권, 영종대교가 자리한 인천 항만 중심의 구이다.",
   "data_sources": [
     {
