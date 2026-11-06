@@ -147,6 +147,96 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "영남대학교",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 23,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      },
+      {
+        "target_landmark": "자인단오제전수교육관",
+        "station_name": "자인단오제전수교육관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.81544,
+          128.816201
+        ]
+      },
+      {
+        "target_landmark": "경산시청",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 6,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      },
+      {
+        "target_landmark": "경산시장",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 8,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      },
+      {
+        "target_landmark": "남매탑",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 11,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "경산 중앙 공영주차장",
+        "coordinates": [
+          35.81944,
+          128.817401
+        ],
+        "capacity": 405,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "경산 제2 공영주차장",
+        "coordinates": [
+          35.826822,
+          128.758822
+        ],
+        "capacity": 317,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "경산 제3 공영주차장",
+        "coordinates": [
+          35.825435,
+          128.745318
+        ],
+        "capacity": 283,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "경산시는 대구 인접의 위성 도시로 영남대학교와 자인단오제가 유명하다.",
   "data_sources": [
     {
