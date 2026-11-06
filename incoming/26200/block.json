@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "흰여울문화마을",
+        "station_name": "봉래 버스환승정류장",
+        "line": "시내버스",
+        "walk_minutes": 30,
+        "coordinates": [
+          35.0962,
+          129.0465
+        ]
+      },
+      {
+        "target_landmark": "태종대",
+        "station_name": "태종대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.065433,
+          129.076194
+        ]
+      },
+      {
+        "target_landmark": "봉래산",
+        "station_name": "봉래 버스환승정류장",
+        "line": "시내버스",
+        "walk_minutes": 24,
+        "coordinates": [
+          35.0962,
+          129.0465
+        ]
+      },
+      {
+        "target_landmark": "현대미포조선소",
+        "station_name": "봉래 버스환승정류장",
+        "line": "시내버스",
+        "walk_minutes": 43,
+        "coordinates": [
+          35.0962,
+          129.0465
+        ]
+      },
+      {
+        "target_landmark": "영도대교",
+        "station_name": "봉래 버스환승정류장",
+        "line": "시내버스",
+        "walk_minutes": 13,
+        "coordinates": [
+          35.0962,
+          129.0465
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영도 중앙 공영주차장",
+        "coordinates": [
+          35.066633,
+          129.081394
+        ],
+        "capacity": 487,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영도 제2 공영주차장",
+        "coordinates": [
+          35.0752,
+          129.066
+        ],
+        "capacity": 541,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "영도 제3 공영주차장",
+        "coordinates": [
+          35.08414,
+          129.052773
+        ],
+        "capacity": 143,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 영도구는 영도섬을 중심으로 한 구로 태종대와 흰여울문화마을, 옛 항만 문화가 함께한다.",
   "data_sources": [
     {
