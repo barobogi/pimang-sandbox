@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "고령초등학교 운동장",
+        "coordinates": [
+          35.695459,
+          128.269716
+        ],
+        "capacity": 7000,
+        "address": "경상북도 고령군"
+      },
+      {
+        "name": "고령실내체육관",
+        "coordinates": [
+          35.708205,
+          128.28777
+        ],
+        "capacity": 6200,
+        "address": "경상북도 고령군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "지산동고분군",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대가야박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고령군청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고령시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "주산성",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "고령군은 대가야의 고도로 유네스코 세계유산 지산동고분군과 대가야박물관이 자리한 군이다.",
   "data_sources": [
     {
