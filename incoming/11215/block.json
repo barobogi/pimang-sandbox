@@ -130,6 +130,97 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "어린이대공원",
+        "station_name": "어린이대공원역",
+        "line": "서울 7호선",
+        "exit_no": 1,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.5484,
+          127.0748
+        ]
+      },
+      {
+        "target_landmark": "건대입구",
+        "station_name": "건대입구역",
+        "line": "서울 2·7호선",
+        "exit_no": 7,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.5404,
+          127.0695
+        ]
+      },
+      {
+        "target_landmark": "아차산",
+        "station_name": "어린이대공원역",
+        "line": "서울 7호선",
+        "exit_no": 1,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.5484,
+          127.0748
+        ]
+      },
+      {
+        "target_landmark": "자양한강공원",
+        "station_name": "구의역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 16,
+        "coordinates": [
+          37.5371,
+          127.0854
+        ]
+      },
+      {
+        "target_landmark": "광나루한강공원",
+        "station_name": "구의역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 3,
+        "coordinates": [
+          37.5371,
+          127.0854
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광진 중앙 공영주차장",
+        "coordinates": [
+          37.554102,
+          127.087422
+        ],
+        "capacity": 31,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "광진 제2 공영주차장",
+        "coordinates": [
+          37.5492,
+          127.072792
+        ],
+        "capacity": 358,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "광진 제3 공영주차장",
+        "coordinates": [
+          37.5338,
+          127.0872
+        ],
+        "capacity": 36,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "광진구는 어린이대공원과 건대입구 상권, 아차산과 한강이 함께한 서울 동남부 자치구이다.",
   "data_sources": [
     {
