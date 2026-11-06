@@ -218,6 +218,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.868343,
+          128.593329
+        ],
+        "capacity": 2700,
+        "address": "대구광역시 중구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.871911,
+          128.605984
+        ],
+        "capacity": 5700,
+        "address": "대구광역시 중구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          35.870893,
+          128.584324
+        ],
+        "capacity": 4800,
+        "address": "대구광역시 중구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동성로",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "약령시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서문시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "근대역사골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북성로",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "대구 중구는 대구의 원도심으로 동성로와 약령시장, 서문시장, 근대역사골목이 자리한 대구 상업·문화 중심지다.",
   "data_sources": [
     {
