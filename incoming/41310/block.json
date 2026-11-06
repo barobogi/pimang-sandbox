@@ -436,5 +436,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.guri.go.kr",
+    "civil_service_center": {
+      "location_name": "구리시청 민원실 앞",
+      "coordinates": [
+        127.125445,
+        37.600936
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "031-557-1010",
+      "info": "경기도 구리시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "구리시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.126245,
+      37.601336
+    ],
+    "cctv_zone_count": 394
+  },
+  "urban_parks_trails": {
+    "park_name": "돌다리공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "구리 시민축제",
+    "typical_month": 10,
+    "venue_name": "돌다리공원",
+    "venue_coords": [
+      127.125445,
+      37.600735
+    ]
   }
 }
