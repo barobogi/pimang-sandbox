@@ -281,6 +281,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "남한산성 봄 진달래",
+        "경안천 벚꽃"
+      ],
+      "summer": [
+        "경안천 여름 물놀이",
+        "남한산성 여름"
+      ],
+      "autumn": [
+        "남한산성 단풍길",
+        "경안천 억새"
+      ],
+      "winter": [
+        "남한산성 설경",
+        "경안천 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "남한산성 야경",
+        "coordinates": [
+          37.477949,
+          127.184564
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "경안천 야경",
+        "coordinates": [
+          37.362564,
+          127.239218
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "경기 광주시는 남한산성이 자리한 경기 동부의 도시이자 곤지암신도시가 발달했다.",
   "data_sources": [
     {
