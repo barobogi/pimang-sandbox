@@ -144,6 +144,85 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "암사선사주거지",
+        "station_name": "암사선사주거지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.5568,
+          127.074
+        ]
+      },
+      {
+        "target_landmark": "천호역 상권",
+        "station_name": "천호역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.5398,
+          127.0544
+        ]
+      },
+      {
+        "target_landmark": "고덕공원",
+        "station_name": "암사역",
+        "line": "서울 5호선",
+        "exit_no": 6,
+        "walk_minutes": 48,
+        "coordinates": [
+          37.548,
+          127.1258
+        ]
+      },
+      {
+        "target_landmark": "고덕한강공원",
+        "station_name": "암사역",
+        "line": "서울 5호선",
+        "exit_no": 6,
+        "walk_minutes": 37,
+        "coordinates": [
+          37.548,
+          127.1258
+        ]
+      },
+      {
+        "target_landmark": "길동공원",
+        "station_name": "길동역",
+        "line": "서울 5호선",
+        "exit_no": 5,
+        "walk_minutes": 31,
+        "coordinates": [
+          37.5366,
+          127.1287
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강동 중앙 공영주차장",
+        "coordinates": [
+          37.5524,
+          127.095
+        ],
+        "capacity": 438,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "강동 제2 공영주차장",
+        "coordinates": [
+          37.5592,
+          127.0908
+        ],
+        "capacity": 509,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "강동구는 천호동 상권과 암사동 선사 유적이 함께한 서울 동남부 자치구이다.",
   "data_sources": [
     {
