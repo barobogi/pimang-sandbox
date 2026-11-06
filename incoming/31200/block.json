@@ -1,0 +1,589 @@
+{
+  "block_code": "31200",
+  "block_name": "울산광역시 북구",
+  "bbox": [
+    129.289792,
+    35.503,
+    129.720619,
+    35.679399
+  ],
+  "center": [
+    35.591199,
+    129.505205
+  ],
+  "landmarks": [
+    {
+      "name": "대왕암공원",
+      "lat": 35.506,
+      "lng": 129.428,
+      "category": "해안/공원",
+      "description": "동해 해안 절벽의 대왕암이 유명한 대표 해안 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 36.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/KU-Dwa2.jpg/1280px-KU-Dwa2.jpg"
+    },
+    {
+      "name": "일산해수욕장",
+      "lat": 35.503,
+      "lng": 129.42,
+      "category": "해수욕장",
+      "description": "대왕암공원과 함께한 울산의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 38.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Buk-gu_ULSAN.PNG"
+    },
+    {
+      "name": "강동 풍력발전단지",
+      "lat": 35.52,
+      "lng": 129.44,
+      "category": "해상풍력/관광",
+      "description": "강동해안의 해상 풍력발전기 군집이 관광 명소로 꼽힌다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 36.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Guinemi_Village_Taebaek_City_20260713_%2810%29.jpg/1280px-Guinemi_Village_Taebaek_City_20260713_%2810%29.jpg"
+    },
+    {
+      "name": "달천천 수변공원",
+      "lat": 35.566,
+      "lng": 129.376,
+      "category": "수변공원",
+      "description": "달천천을 따라 조성된 수변 공원으로 주민 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 76.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Buk-gu_ULSAN.PNG"
+    },
+    {
+      "name": "연암공원",
+      "lat": 35.572,
+      "lng": 129.362,
+      "category": "근린공원",
+      "description": "연암동 일대에 조성된 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 80.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Buk-gu_ULSAN.PNG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "북구 해안 절경 시그니처 드론 플라이트",
+      "description": "강동 풍력발전단지 → 대왕암공원 → 일산해수욕장 → 달천천 수변공원 → 연암공원 순으로 이어지는 울산광역시 북구의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "강동 풍력발전단지",
+        "대왕암공원",
+        "일산해수욕장",
+        "달천천 수변공원",
+        "연암공원"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "북구 바다빛 스카이 세일",
+      "description": "일산해수욕장 → 대왕암공원 → 강동 풍력발전단지 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 북구의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "일산해수욕장",
+        "대왕암공원",
+        "강동 풍력발전단지"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "북구 산하 절경 에어리얼 투어",
+      "description": "연암공원 → 달천천 수변공원 → 강동 풍력발전단지 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 북구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "연암공원",
+        "달천천 수변공원",
+        "강동 풍력발전단지"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "강동 풍력발전단지 큰마당식당",
+      "lat": 35.52042,
+      "lng": 129.44063,
+      "specialty": "고래고기구이",
+      "category": "수산물"
+    },
+    {
+      "name": "대왕암공원 골목식당",
+      "lat": 35.50649,
+      "lng": 129.42786,
+      "specialty": "고래회무침",
+      "category": "수산물"
+    },
+    {
+      "name": "일산해수욕장 큰마당식당",
+      "lat": 35.5034,
+      "lng": 129.42063,
+      "specialty": "왕새우탕",
+      "category": "수산물"
+    },
+    {
+      "name": "달천천 수변공원 골목식당",
+      "lat": 35.56656,
+      "lng": 129.37586,
+      "specialty": "간장게장",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대왕암공원",
+        "station_name": "대왕암공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.5056,
+          129.4276
+        ]
+      },
+      {
+        "target_landmark": "일산해수욕장",
+        "station_name": "일산해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.5034,
+          129.4196
+        ]
+      },
+      {
+        "target_landmark": "강동 풍력발전단지",
+        "station_name": "강동 풍력발전단지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.5196,
+          129.4396
+        ]
+      },
+      {
+        "target_landmark": "달천천 수변공원",
+        "station_name": "북구역",
+        "line": "동해선 광역전철",
+        "walk_minutes": 32,
+        "coordinates": [
+          35.5827,
+          129.362
+        ]
+      },
+      {
+        "target_landmark": "연암공원",
+        "station_name": "북구역",
+        "line": "동해선 광역전철",
+        "walk_minutes": 17,
+        "coordinates": [
+          35.5827,
+          129.362
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "북구 중앙 공영주차장",
+        "coordinates": [
+          35.5216,
+          129.4388
+        ],
+        "capacity": 353,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "북구 제2 공영주차장",
+        "coordinates": [
+          35.5076,
+          129.426
+        ],
+        "capacity": 98,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "북구 제3 공영주차장",
+        "coordinates": [
+          35.5034,
+          129.422
+        ],
+        "capacity": 119,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.506528,
+          129.406682
+        ],
+        "capacity": 5200,
+        "address": "울산광역시 북구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.518532,
+          129.444613
+        ],
+        "capacity": 4000,
+        "address": "울산광역시 북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대왕암공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일산해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "강동 풍력발전단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "달천천 수변공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "연암공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "대왕암공원 봄 바다",
+        "일산해수욕장 봄"
+      ],
+      "summer": [
+        "일산해수욕장 여름",
+        "강동 풍력발전단지 여름"
+      ],
+      "autumn": [
+        "대왕암공원 가을",
+        "달천천 수변공원 억새"
+      ],
+      "winter": [
+        "대왕암공원 해맞이",
+        "일산해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대왕암공원 야경",
+        "coordinates": [
+          35.506,
+          129.428
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "강동 풍력발전단지 야경",
+        "coordinates": [
+          35.52,
+          129.44
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "울산 북구는 울산의 북부 구로 대왕암공원과 일산해수욕장 등 동해 해안 명소가 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buk-gu, Ulsan",
+      "landmarks": {
+        "대왕암공원": [
+          "Daewangam Park",
+          "Coastal park famed for the Daewangam rock on the East Sea cliffs."
+        ],
+        "일산해수욕장": [
+          "Ilsan Beach",
+          "Ulsan's signature beach alongside Daewangam Park."
+        ],
+        "강동 풍력발전단지": [
+          "Gangdong Offshore Wind Farm",
+          "Cluster of offshore wind turbines along the Gangdong coast, a tourist sight."
+        ],
+        "달천천 수변공원": [
+          "Dalcheoncheon Waterfront Park",
+          "Waterfront park along the Dalcheon stream, a residents' retreat."
+        ],
+        "연암공원": [
+          "Yeonam Park",
+          "Neighborhood park built across Yeonam-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 北区",
+      "landmarks": {
+        "대왕암공원": [
+          "大王岩公園",
+          "東海の海岸断崖の大王岩で有名な代表的な海岸公園。"
+        ],
+        "일산해수욕장": [
+          "日山海水浴場",
+          "大王岩公園とともに蔚山を代表する海水浴場。"
+        ],
+        "강동 풍력발전단지": [
+          "江東風力発電団地",
+          "江東海岸の洋上風力発電機の集まりが観光名所に挙げられる。"
+        ],
+        "달천천 수변공원": [
+          "達川川水辺公園",
+          "達川川沿いに造られた水辺公園。住民の憩いの場。"
+        ],
+        "연암공원": [
+          "連岩公園",
+          "連岩洞一帯に造成された近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 北区",
+      "landmarks": {
+        "대왕암공원": [
+          "大王岩公园",
+          "以东海海岸峭壁上的大王岩闻名的代表性滨海公园。"
+        ],
+        "일산해수욕장": [
+          "日山海水浴场",
+          "与大王岩公园相伴的蔚山代表性海滨浴场。"
+        ],
+        "강동 풍력발전단지": [
+          "江东风力发电园区",
+          "江东海岸的海上风机群，已成为观光名胜。"
+        ],
+        "달천천 수변공원": [
+          "达川川滨水公园",
+          "沿达川川修建的滨水公园，供居民休憩。"
+        ],
+        "연암공원": [
+          "连岩公园",
+          "连岩洞一带的近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.bukgu.ulsan.kr",
+    "civil_service_center": {
+      "location_name": "북구청 민원실 앞",
+      "coordinates": [
+        129.343638,
+        35.64386
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "052-241-7000",
+      "info": "울산광역시 북구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "북구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.504605,
+      35.5916
+    ],
+    "cctv_zone_count": 477,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "호계근린공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "울산 북구 구민축제",
+    "typical_month": 10,
+    "venue_name": "북구청 광장",
+    "venue_coords": [
+      129.505205,
+      35.591
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "북구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      129.343238,
+      35.64406
+    ],
+    "reservation_url": "https://www.bukgu.ulsan.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "북구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.344538,
+      35.64116
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "북구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.342338,
+      35.64216
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "일산해수욕장 큰마당식당",
+    "coordinates": [
+      129.42063,
+      35.5034
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "왕새우탕 (북구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=북구청&goalx=129.343638&goaly=35.643860",
+    "kakaonavi_url": "kakaonavi://navigate?name=북구청&x=129.343638&y=35.643860&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=북구청&dlng=129.343638&dlat=35.643860&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:25",
+      "sunset": "18:34",
+      "noon_altitude_deg": 54.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:06",
+      "sunset": "19:41",
+      "noon_altitude_deg": 77.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:10",
+      "sunset": "18:19",
+      "noon_altitude_deg": 54.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:28",
+      "sunset": "17:13",
+      "noon_altitude_deg": 31.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "북구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.504155,
+          35.59265
+        ],
+        [
+          129.504605,
+          35.5916
+        ],
+        [
+          129.503755,
+          35.5913
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "북구 중심상업거리",
+    "anchor_center": [
+      129.343571,
+      35.642127
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 240,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
