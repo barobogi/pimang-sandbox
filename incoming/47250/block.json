@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sangju-si, Gyeongbuk",
+      "landmarks": {
+        "경천대": [
+          "Gyeongcheondae Cliffs",
+          "Signature scenic attraction of Sangju-si, Gyeongbuk."
+        ],
+        "낙동강": [
+          "Nakdong River",
+          "Signature river attraction of Sangju-si, Gyeongbuk."
+        ],
+        "상주자전거박물관": [
+          "Sangju Bicycle Museum",
+          "Signature museum attraction of Sangju-si, Gyeongbuk."
+        ],
+        "상주시청": [
+          "Sangju City Hall",
+          "Administrative center of Sangju-si, Gyeongbuk."
+        ],
+        "상주시장": [
+          "Sangju Market",
+          "Signature market attraction of Sangju-si, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 尙州市",
+      "landmarks": {
+        "경천대": [
+          "鏡湖台",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "낙동강": [
+          "洛東江",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "상주자전거박물관": [
+          "尚州自転車博物館",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "상주시청": [
+          "尚州市庁",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "상주시장": [
+          "尚州市場",
+          "慶尚北道尚州市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 尚州市",
+      "landmarks": {
+        "경천대": [
+          "镜湖台",
+          "庆尚北道尚州市的代表性胜景。"
+        ],
+        "낙동강": [
+          "洛东江",
+          "庆尚北道尚州市的代表性河流。"
+        ],
+        "상주자전거박물관": [
+          "尚州自行车博物馆",
+          "庆尚北道尚州市的代表性博物馆。"
+        ],
+        "상주시청": [
+          "尚州市厅",
+          "庆尚北道尚州市的行政中心。"
+        ],
+        "상주시장": [
+          "尚州市场",
+          "庆尚北道尚州市的代表性市场。"
+        ]
+      }
+    }
   }
 }
