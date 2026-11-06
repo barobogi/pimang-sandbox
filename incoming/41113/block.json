@@ -291,6 +291,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "서둔천 벚꽃길",
+        "서둔공원 봄꽃"
+      ],
+      "summer": [
+        "서둔천 여름 물놀이",
+        "세류역 상권 여름"
+      ],
+      "autumn": [
+        "서둔공원 단풍",
+        "국립식량과학원 가을"
+      ],
+      "winter": [
+        "권선동 상권 겨울 조명",
+        "서둔천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "서둔공원 야경",
+        "coordinates": [
+          37.273,
+          127.005
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "서둔천 야경",
+        "coordinates": [
+          37.27,
+          127.01
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "수원 권선구는 국립식량과학원과 세류역 상권이 자리한 수원 서부의 구이다.",
   "data_sources": [
     {
