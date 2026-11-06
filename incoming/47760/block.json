@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "일월산 봄",
+        "두들마을 봄"
+      ],
+      "summer": [
+        "일월산 여름",
+        "영양반딧불이생태공원 여름밤"
+      ],
+      "autumn": [
+        "일월산 단풍",
+        "두들마을 가을"
+      ],
+      "winter": [
+        "일월산 설경",
+        "영양시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "영양반딧불이생태공원 야경",
+        "coordinates": [
+          36.830696,
+          129.27017
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "일월산 야경",
+        "coordinates": [
+          36.803279,
+          129.102908
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "영양군은 일월산과 영양반딧불이생태공원, 두들마을이 자리한 경북 북동부의 군이다.",
   "data_sources": [
     {
