@@ -1,0 +1,569 @@
+{
+  "block_code": "43114",
+  "block_name": "충청북도 청주시 청원구",
+  "bbox": [
+    127.31809,
+    36.644762,
+    127.618744,
+    36.780263
+  ],
+  "center": [
+    36.712513,
+    127.468417
+  ],
+  "landmarks": [
+    {
+      "name": "청주국제공항",
+      "lat": 36.7155563,
+      "lng": 127.4974643,
+      "category": "교통/항공",
+      "description": "청주국제공항은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 262.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cheongju_airport_20090404.jpg"
+    },
+    {
+      "name": "오창과학산업단지",
+      "lat": 36.7118991,
+      "lng": 127.4243396,
+      "category": "산업/과학",
+      "description": "오창과학산업단지은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 89.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cheongwon-gu_office.JPG/1280px-Cheongwon-gu_office.JPG"
+    },
+    {
+      "name": "청원구청",
+      "lat": 36.6507695,
+      "lng": 127.4869422,
+      "category": "행정/랜드마크",
+      "description": "청원구청은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 346.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cheongwon-gu_office.JPG/1280px-Cheongwon-gu_office.JPG"
+    },
+    {
+      "name": "명암저수지",
+      "lat": 36.6417234,
+      "lng": 127.5112319,
+      "category": "호수/공원",
+      "description": "명암저수지은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 334.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cheongwon-gu_office.JPG/1280px-Cheongwon-gu_office.JPG"
+    },
+    {
+      "name": "상당산성",
+      "lat": 36.6691057,
+      "lng": 127.5400002,
+      "category": "산성/문화유산",
+      "description": "상당산성은(는) 충청북도 청주시 청원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%8B%B9%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 307.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cheongju_Sangdangsangseong.jpg/1280px-Cheongju_Sangdangsangseong.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "청원 자연 힐링 시그니처 에어리얼 투어",
+      "description": "청주국제공항 → 상당산성 → 명암저수지 → 청원구청 → 오창과학산업단지 순으로 이어지는 충청북도 청주시 청원구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "청주국제공항",
+        "상당산성",
+        "명암저수지",
+        "청원구청",
+        "오창과학산업단지"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "청원 그린 랜드스케이프 플라이트",
+      "description": "오창과학산업단지 → 명암저수지 → 상당산성 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 청원의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "오창과학산업단지",
+        "명암저수지",
+        "상당산성"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "청주국제공항 가마솥밥가",
+      "lat": 36.715136,
+      "lng": 127.497954,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "오창과학산업단지 골목식당",
+      "lat": 36.711689,
+      "lng": 127.42476,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "청원구청 골목식당",
+      "lat": 36.65063,
+      "lng": 127.487362,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "명암저수지 가마솥밥가",
+      "lat": 36.645162,
+      "lng": 127.510952,
+      "specialty": "호박엿",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청주국제공항",
+        "station_name": "청주국제공항 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.714356,
+          127.499864
+        ]
+      },
+      {
+        "target_landmark": "오창과학산업단지",
+        "station_name": "오창과학산업단지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.710699,
+          127.42674
+        ]
+      },
+      {
+        "target_landmark": "청원구청",
+        "station_name": "청원구청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.64957,
+          127.489342
+        ]
+      },
+      {
+        "target_landmark": "명암저수지",
+        "station_name": "명암저수지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.645162,
+          127.513632
+        ]
+      },
+      {
+        "target_landmark": "상당산성",
+        "station_name": "상당산성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.667906,
+          127.5424
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "청원 중앙 공영주차장",
+        "coordinates": [
+          36.714756,
+          127.495464
+        ],
+        "capacity": 579,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청원 제2 공영주차장",
+        "coordinates": [
+          36.713099,
+          127.42354
+        ],
+        "capacity": 492,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "청원초등학교 운동장",
+        "coordinates": [
+          36.697716,
+          127.463528
+        ],
+        "capacity": 4500,
+        "address": "충청북도 청주시 청원구"
+      },
+      {
+        "name": "청원실내체육관",
+        "coordinates": [
+          36.708343,
+          127.39279
+        ],
+        "capacity": 6700,
+        "address": "충청북도 청주시 청원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청주국제공항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오창과학산업단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청원구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "명암저수지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상당산성",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "명암저수지 벚꽃",
+        "상당산성 봄"
+      ],
+      "summer": [
+        "명암저수지 여름",
+        "오창과학산업단지 여름"
+      ],
+      "autumn": [
+        "명암저수지 단풍",
+        "상당산성 가을"
+      ],
+      "winter": [
+        "명암저수지 설경",
+        "청주국제공항 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "명암저수지 야경",
+        "coordinates": [
+          36.645304,
+          127.511232
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "상당산성 야경",
+        "coordinates": [
+          36.669106,
+          127.54
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "청주 청원구는 2014년 청주시 통합으로 만들어진 구로 청주국제공항과 오창과학산업단지가 자리한 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongwon-gu, Cheongju",
+      "landmarks": {
+        "청주국제공항": [
+          "Cheongju International Airport",
+          "Signature aviation attraction of Cheongwon-gu, Cheongju."
+        ],
+        "오창과학산업단지": [
+          "Ochang Science Industrial Complex",
+          "Signature science industry attraction of Cheongwon-gu, Cheongju."
+        ],
+        "청원구청": [
+          "Cheongwon-gu Office",
+          "Administrative center of Cheongwon-gu, Cheongju."
+        ],
+        "명암저수지": [
+          "Myeongam Reservoir",
+          "Signature lakeside attraction of Cheongwon-gu, Cheongju."
+        ],
+        "상당산성": [
+          "Sangdangsanseong Fortress",
+          "Signature fortress heritage of Cheongwon-gu, Cheongju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 清原区",
+      "landmarks": {
+        "청주국제공항": [
+          "清州国際空港",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "오창과학산업단지": [
+          "梧倉科学産業団地",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "청원구청": [
+          "清原区庁",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "명암저수지": [
+          "鳴岩貯水池",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "상당산성": [
+          "上党山城",
+          "忠清北道清州市清原区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 清原区",
+      "landmarks": {
+        "청주국제공항": [
+          "清州国际机场",
+          "忠清北道清州市清原区的代表性航空枢纽。"
+        ],
+        "오창과학산업단지": [
+          "梧仓科学产业园",
+          "忠清北道清州市清原区的代表性科学园区。"
+        ],
+        "청원구청": [
+          "清原区厅",
+          "忠清北道清州市清原区的行政中心。"
+        ],
+        "명암저수지": [
+          "鸣岩水库",
+          "忠清北道清州市清原区的代表性湖景。"
+        ],
+        "상당산성": [
+          "上党山城",
+          "忠清北道清州市清原区的代表性山城。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.cheongju.go.kr/cheongwon",
+    "civil_service_center": {
+      "location_name": "청원구청 민원실 앞",
+      "coordinates": [
+        127.484776,
+        36.649014
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-201-0001",
+      "info": "충청북도 청주시 청원구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "청원구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.468917,
+      36.712212
+    ],
+    "cctv_zone_count": 192,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "오근장공원",
+    "trail_length_km": 1.6,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "청원 구민축제",
+    "typical_month": 10,
+    "venue_name": "오근장공원",
+    "venue_coords": [
+      127.468717,
+      36.712513
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "청원구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.487176,
+      36.646914
+    ],
+    "reservation_url": "https://www.cheongju.go.kr/cheongwon"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "청원구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.484176,
+      36.647814
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "청원구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.484876,
+      36.646614
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "오창과학산업단지 골목식당",
+    "coordinates": [
+      127.42476,
+      36.711689
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "사골곰탕 (청원구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=청원구청&goalx=127.484776&goaly=36.649014",
+    "kakaonavi_url": "kakaonavi://navigate?name=청원구청&x=127.484776&y=36.649014&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=청원구청&dlng=127.484776&dlat=36.649014&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:42",
+      "noon_altitude_deg": 53.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:27",
+      "noon_altitude_deg": 53.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "청원구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.468267,
+          36.713112
+        ],
+        [
+          127.468917,
+          36.712212
+        ],
+        [
+          127.470167,
+          36.712962
+        ]
+      ],
+      "cctv_linked_count": 12,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "청원구 중심상업거리",
+    "anchor_center": [
+      127.484109,
+      36.650547
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 58,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
