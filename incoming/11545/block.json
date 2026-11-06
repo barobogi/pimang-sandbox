@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "안양천 벚꽃길",
+        "독산공원 봄꽃"
+      ],
+      "summer": [
+        "안양천 여름 물놀이",
+        "시흥동 여름 골목"
+      ],
+      "autumn": [
+        "안양천 억새",
+        "독산공원 가을"
+      ],
+      "winter": [
+        "가산동 상권 겨울 조명",
+        "안양천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "독산공원 야경",
+        "coordinates": [
+          37.457,
+          126.895
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "가산동 상권 야경",
+        "coordinates": [
+          37.481,
+          126.882
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "금천구는 가산동 디지털 산업단지가 자리한 서울 남서부 자치구로 과천과 안산의 관문이다.",
   "data_sources": [
     {
