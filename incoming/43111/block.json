@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "상당초등학교 운동장",
+        "coordinates": [
+          36.706261,
+          127.51868
+        ],
+        "capacity": 800,
+        "address": "충청북도 청주시 상당구"
+      },
+      {
+        "name": "상당실내체육관",
+        "coordinates": [
+          36.596685,
+          127.474368
+        ],
+        "capacity": 6600,
+        "address": "충청북도 청주시 상당구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "상당산성",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "우암산",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청남대",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "상당공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "수암골",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "상당구는 청주 시내의 옛 중심으로 상당산성과 우암산이 자리하고 청남대 등의 유적과 미원·가덕의 자연 마을이 함께한 청주 동부의 구이다.",
   "data_sources": [
     {
