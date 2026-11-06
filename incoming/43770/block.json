@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Eumseong-gun, Chungbuk",
+      "landmarks": {
+        "감곡매괴성모순례지성당": [
+          "Gamgok Maegoe Cathedral",
+          "Red-brick cathedral founded in 1896, Chungbuk's first, counted among Korea's 50 beautiful churches."
+        ],
+        "철박물관": [
+          "Iron Museum",
+          "Korea's only iron-themed museum in Gamgok-myeon, exhibiting iron history and heritage."
+        ],
+        "수안봉온천": [
+          "Suanbo Hot Springs",
+          "Eumseong's signature hot spring destination with a spa park and resort complex."
+        ],
+        "설성공원": [
+          "Seolseong Park",
+          "Central park of Eumseong-eup with Gyeonghojeong Pavilion and a pond, hosting the National Pumbaa Festival."
+        ],
+        "미타사": [
+          "Mitasа Temple",
+          "Traditional temple in Baegya-ri, Geumwang-eup, preserving a three-story stone pagoda and a Buddha rock carving."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 陰城郡",
+      "landmarks": {
+        "감곡매괴성모순례지성당": [
+          "甘谷梅孤聖母巡礼地聖堂",
+          "1896年設立の忠北初の聖堂。韓国の美しい教会50選に選ばれた赤煉瓦の聖堂。"
+        ],
+        "철박물관": [
+          "鉄博物館",
+          "甘谷面にある国内唯一の鉄専門博物館。鉄の歴史と文化遺産を展示する。"
+        ],
+        "수안봉온천": [
+          "水安保温泉",
+          "陰城を代表する温泉観光地。スパパークと温泉観光団地が造成されている。"
+        ],
+        "설성공원": [
+          "雪城公園",
+          "陰城邑中心部の公園。慶湖亭と池があり、全国品バ祭りが開かれる。"
+        ],
+        "미타사": [
+          "弥陀寺",
+          "金旺面白也里の伝統寺院。三層石塔と磨崖如来立像などの文化遺産が伝わる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 阴城郡",
+      "landmarks": {
+        "감곡매괴성모순례지성당": [
+          "甘谷梅瑰圣母朝圣地圣堂",
+          "1896年设立的忠北首座圣堂，红砖建筑入选韩国最美教堂50佳。"
+        ],
+        "철박물관": [
+          "铁博物馆",
+          "位于甘谷面的韩国唯一铁主题博物馆，展示铁的历史与文化遗产。"
+        ],
+        "수안봉온천": [
+          "水安保温泉",
+          "阴城代表性温泉观光地，建有温泉乐园和度假区。"
+        ],
+        "설성공원": [
+          "雪城公园",
+          "阴城邑中心的公园，有庆湖亭和莲池，举办全国品巴节。"
+        ],
+        "미타사": [
+          "弥陀寺",
+          "金旺面白夜里传统古刹，留有三层石塔和磨崖如来立像等文化遗产。"
+        ]
+      }
+    }
   }
 }
