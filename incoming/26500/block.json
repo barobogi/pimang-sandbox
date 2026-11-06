@@ -426,10 +426,11 @@
     "civil_service_center": {
       "location_name": "수영구청 민원실 앞",
       "coordinates": [
-        129.132994,
-        35.159529
+        129.11362,
+        35.143581
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "051-610-4000",
