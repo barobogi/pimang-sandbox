@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sacheon-si, Gyeongnam",
+      "landmarks": {
+        "항공우주박물관": [
+          "Aviation and Aerospace Museum",
+          "Signature museum attraction of Sacheon-si, Gyeongnam."
+        ],
+        "와룡산": [
+          "Waryongsan Mountain",
+          "Signature mountain attraction of Sacheon-si, Gyeongnam."
+        ],
+        "사천시청": [
+          "Sacheon City Hall",
+          "Administrative center of Sacheon-si, Gyeongnam."
+        ],
+        "사천시장": [
+          "Sacheon Market",
+          "Signature market attraction of Sacheon-si, Gyeongnam."
+        ],
+        "삼천포항": [
+          "Samcheonpo Port",
+          "Signature fishing port attraction of Sacheon-si, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 泗川市",
+      "landmarks": {
+        "항공우주박물관": [
+          "航空宇宙博物館",
+          "慶尚南道泗川市を代表する名所。"
+        ],
+        "와룡산": [
+          "臥龍山",
+          "慶尚南道泗川市を代表する名所。"
+        ],
+        "사천시청": [
+          "泗川市庁",
+          "慶尚南道泗川市を代表する名所。"
+        ],
+        "사천시장": [
+          "泗川市場",
+          "慶尚南道泗川市を代表する名所。"
+        ],
+        "삼천포항": [
+          "三千浦港",
+          "慶尚南道泗川市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 泗川市",
+      "landmarks": {
+        "항공우주박물관": [
+          "航空宇宙博物馆",
+          "庆尚南道泗川市的代表性博物馆。"
+        ],
+        "와룡산": [
+          "卧龙山",
+          "庆尚南道泗川市的代表性名山。"
+        ],
+        "사천시청": [
+          "泗川市厅",
+          "庆尚南道泗川市的行政中心。"
+        ],
+        "사천시장": [
+          "泗川市场",
+          "庆尚南道泗川市的代表性市场。"
+        ],
+        "삼천포항": [
+          "三千浦港",
+          "庆尚南道泗川市的代表性渔港。"
+        ]
+      }
+    }
   }
 }
