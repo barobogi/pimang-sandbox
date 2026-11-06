@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "분당초등학교 운동장",
+        "coordinates": [
+          37.395334,
+          127.098871
+        ],
+        "capacity": 2500,
+        "address": "경기도 성남시 분당구"
+      },
+      {
+        "name": "분당실내체육관",
+        "coordinates": [
+          37.372865,
+          127.119865
+        ],
+        "capacity": 7200,
+        "address": "경기도 성남시 분당구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "판교테크노밸리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "정자동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "야탑역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "분당중앙공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수내공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "성남 분당구는 분당신도시와 판교테크노밸리, 정자동 상권이 함께한 성남 동부의 구이다.",
   "data_sources": [
     {
