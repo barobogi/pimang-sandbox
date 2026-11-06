@@ -341,5 +341,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hadong-gun, Gyeongnam",
+      "landmarks": {
+        "섬진강": [
+          "Seomjin River",
+          "Signature river attraction of Hadong-gun, Gyeongnam."
+        ],
+        "화개장터": [
+          "Hwagae Market",
+          "Signature market attraction of Hadong-gun, Gyeongnam."
+        ],
+        "쌍계사": [
+          "Ssanggyesa Temple",
+          "Signature temple heritage of Hadong-gun, Gyeongnam."
+        ],
+        "하동군청": [
+          "Hadong County Office",
+          "Administrative center of Hadong-gun, Gyeongnam."
+        ],
+        "하동시장": [
+          "Hadong Market",
+          "Signature market attraction of Hadong-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 河東郡",
+      "landmarks": {
+        "섬진강": [
+          "蟾津江",
+          "慶尚南道河東郡を代表する名所。"
+        ],
+        "화개장터": [
+          "花開市場",
+          "慶尚南道河東郡を代表する名所。"
+        ],
+        "쌍계사": [
+          "双渓寺",
+          "慶尚南道河東郡を代表する名所。"
+        ],
+        "하동군청": [
+          "河東郡庁",
+          "慶尚南道河東郡を代表する名所。"
+        ],
+        "하동시장": [
+          "河東市場",
+          "慶尚南道河東郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 河东郡",
+      "landmarks": {
+        "섬진강": [
+          "蟾津江",
+          "庆尚南道河东郡的代表性河流。"
+        ],
+        "화개장터": [
+          "花开市场",
+          "庆尚南道河东郡的代表性市场。"
+        ],
+        "쌍계사": [
+          "双溪寺",
+          "庆尚南道河东郡的代表性古刹。"
+        ],
+        "하동군청": [
+          "河东郡厅",
+          "庆尚南道河东郡的行政中心。"
+        ],
+        "하동시장": [
+          "河东市场",
+          "庆尚南道河东郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
