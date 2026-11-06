@@ -137,6 +137,85 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금정산성",
+        "station_name": "금정산성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.251492,
+          129.046631
+        ]
+      },
+      {
+        "target_landmark": "금정산",
+        "station_name": "부산대역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 46,
+        "coordinates": [
+          35.2299,
+          129.0881
+        ]
+      },
+      {
+        "target_landmark": "범어사",
+        "station_name": "범어사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.273102,
+          129.093868
+        ]
+      },
+      {
+        "target_landmark": "부산대학교",
+        "station_name": "부산대역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 14,
+        "coordinates": [
+          35.2299,
+          129.0881
+        ]
+      },
+      {
+        "target_landmark": "온천장",
+        "station_name": "동의대역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.2171,
+          129.0928
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "금정 중앙 공영주차장",
+        "coordinates": [
+          35.259018,
+          129.085154
+        ],
+        "capacity": 503,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "금정 제2 공영주차장",
+        "coordinates": [
+          35.275102,
+          129.092268
+        ],
+        "capacity": 102,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 금정구는 금정산성과 부산대학교가 자리한 부산 북부의 구로 금정산 자락의 주거 지역이다.",
   "data_sources": [
     {
