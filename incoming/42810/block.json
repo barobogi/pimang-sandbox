@@ -139,6 +139,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "설악산",
+        "station_name": "설악산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.135691,
+          128.417217
+        ]
+      },
+      {
+        "target_landmark": "내린천",
+        "station_name": "내린천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.881064,
+          128.291062
+        ]
+      },
+      {
+        "target_landmark": "방동약수",
+        "station_name": "방동약수 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.945402,
+          128.396316
+        ]
+      },
+      {
+        "target_landmark": "인제군청",
+        "station_name": "인제군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.071323,
+          128.17039
+        ]
+      },
+      {
+        "target_landmark": "인제시장",
+        "station_name": "인제버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.104018,
+          128.247543
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "인제 중앙 공영주차장",
+        "coordinates": [
+          38.104818,
+          128.245543
+        ],
+        "capacity": 270,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "인제 제2 공영주차장",
+        "coordinates": [
+          38.068122,
+          128.17079
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "인제 제3 공영주차장",
+        "coordinates": [
+          38.133291,
+          128.415617
+        ],
+        "capacity": 147,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "인제군은 설악산과 내린천, 방동약수, 빙어호가 자리한 강원 영동 북부의 군이다.",
   "data_sources": [
     {
