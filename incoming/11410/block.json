@@ -428,10 +428,11 @@
     "civil_service_center": {
       "location_name": "서대문구청 민원실 앞",
       "coordinates": [
-        126.93601,
-        37.582327
+        126.936798,
+        37.579182
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "02-330-1114",
