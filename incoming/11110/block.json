@@ -218,6 +218,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "종로초등학교 운동장",
+        "coordinates": [
+          37.580805,
+          126.983116
+        ],
+        "capacity": 5900,
+        "address": "서울특별시 종로구"
+      },
+      {
+        "name": "종로실내체육관",
+        "coordinates": [
+          37.571665,
+          126.993566
+        ],
+        "capacity": 1600,
+        "address": "서울특별시 종로구"
+      },
+      {
+        "name": "종로중앙공원 비상집합장소",
+        "coordinates": [
+          37.572072,
+          126.97967
+        ],
+        "capacity": 6000,
+        "address": "서울특별시 종로구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "경복궁",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창덕궁",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "광화문광장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북촌한옥마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인사동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "종로구는 조선 건국 이래 600년 한양의 중심지로 궁궐과 전통 한옥 마을, 대학로 문화 예술 공간이 함께한 서울 대표 문화 역사 자치구이다.",
   "data_sources": [
     {
