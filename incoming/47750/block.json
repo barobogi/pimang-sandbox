@@ -426,10 +426,11 @@
     "civil_service_center": {
       "location_name": "청송군청 민원실 앞",
       "coordinates": [
-        129.05078,
-        36.378342
+        129.056028,
+        36.435629
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "054-1577-7997",
