@@ -285,6 +285,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화개장터 봄",
+        "쌍계사 봄"
+      ],
+      "summer": [
+        "섬진강 여름",
+        "쌍계사 계곡 여름"
+      ],
+      "autumn": [
+        "쌍계사 단풍",
+        "화개장터 가을"
+      ],
+      "winter": [
+        "쌍계사 설경",
+        "섬진강 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "화개장터 야경",
+        "coordinates": [
+          35.188379,
+          127.62428
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "섬진강 야경",
+        "coordinates": [
+          34.943152,
+          127.867275
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "하동군은 섬진강과 화개장터, 쌍계사가 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
