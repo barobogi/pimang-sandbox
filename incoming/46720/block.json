@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gokseong-gun, Jeonnam",
+      "landmarks": {
+        "섬진강기차마을": [
+          "Seomjingang Train Village",
+          "Signature rail attraction of Gokseong-gun, Jeonnam."
+        ],
+        "태안사": [
+          "Taeansa Temple",
+          "Signature temple heritage of Gokseong-gun, Jeonnam."
+        ],
+        "곡성군청": [
+          "Gokseong County Office",
+          "Administrative center of Gokseong-gun, Jeonnam."
+        ],
+        "곡성시장": [
+          "Gokseong Market",
+          "Signature market attraction of Gokseong-gun, Jeonnam."
+        ],
+        "동악산": [
+          "Dongaksan Mountain",
+          "Signature mountain attraction of Gokseong-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 谷城郡",
+      "landmarks": {
+        "섬진강기차마을": [
+          "蟾津江汽車村",
+          "全羅南道谷城郡を代表する名所。"
+        ],
+        "태안사": [
+          "泰安寺",
+          "全羅南道谷城郡を代表する名所。"
+        ],
+        "곡성군청": [
+          "谷城郡庁",
+          "全羅南道谷城郡を代表する名所。"
+        ],
+        "곡성시장": [
+          "谷城市場",
+          "全羅南道谷城郡を代表する名所。"
+        ],
+        "동악산": [
+          "東嶽山",
+          "全羅南道谷城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 谷城郡",
+      "landmarks": {
+        "섬진강기차마을": [
+          "蟾津江火车村",
+          "全罗南道谷城郡的代表性名胜。"
+        ],
+        "태안사": [
+          "泰安寺",
+          "全罗南道谷城郡的代表性古刹。"
+        ],
+        "곡성군청": [
+          "谷城郡厅",
+          "全罗南道谷城郡的行政中心。"
+        ],
+        "곡성시장": [
+          "谷城市场",
+          "全罗南道谷城郡的代表性市场。"
+        ],
+        "동악산": [
+          "东岳山",
+          "全罗南道谷城郡的代表性名山。"
+        ]
+      }
+    }
   }
 }
