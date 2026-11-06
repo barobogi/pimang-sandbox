@@ -146,6 +146,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "은해사",
+        "station_name": "은해사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.993583,
+          128.792262
+        ]
+      },
+      {
+        "target_landmark": "보현산",
+        "station_name": "보현산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.166428,
+          128.97945
+        ]
+      },
+      {
+        "target_landmark": "임고서원",
+        "station_name": "임고서원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.018333,
+          128.975864
+        ]
+      },
+      {
+        "target_landmark": "영천시청",
+        "station_name": "영천역",
+        "line": "중앙선",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.9744,
+          128.9401
+        ]
+      },
+      {
+        "target_landmark": "영천시장",
+        "station_name": "영천시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.008644,
+          128.925448
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영천 중앙 공영주차장",
+        "coordinates": [
+          36.006644,
+          128.920648
+        ],
+        "capacity": 212,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "영천 제2 공영주차장",
+        "coordinates": [
+          35.974938,
+          128.937287
+        ],
+        "capacity": 309,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영천 제3 공영주차장",
+        "coordinates": [
+          36.014333,
+          128.973464
+        ],
+        "capacity": 504,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "영천시는 보현산과 임고서원, 은해사가 자리한 경북 동부의 도시이다.",
   "data_sources": [
     {
