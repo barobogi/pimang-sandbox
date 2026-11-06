@@ -1,0 +1,581 @@
+{
+  "block_code": "11545",
+  "block_name": "서울특별시 금천구",
+  "bbox": [
+    126.871844,
+    37.43362,
+    126.929086,
+    37.486294
+  ],
+  "center": [
+    37.459957,
+    126.900465
+  ],
+  "landmarks": [
+    {
+      "name": "가산디지털단지",
+      "lat": 37.476333,
+      "lng": 126.88141,
+      "category": "산업/IT",
+      "description": "서울 남부 최대 IT 산업 단지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%82%B0%EB%94%94%EC%A7%80%ED%84%B8%EB%8B%A8%EC%A7%80%EC%97%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 137.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg/1280px-%EC%84%9C%EC%9A%B8%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%AD%EA%B0%80%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80_3%EB%8B%A8%EC%A7%80_SK%ED%8A%B8%EC%9C%88%ED%83%80%EC%9B%8C_2025.jpg"
+    },
+    {
+      "name": "시흥동",
+      "lat": 37.4507049,
+      "lng": 126.9085555,
+      "category": "지명/문화",
+      "description": "옛 시흥 지역의 중심지였던 금천구 시흥동이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 325.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Siheung_1-dong_Community_Service_Center_20140604_090427.jpg/1280px-Siheung_1-dong_Community_Service_Center_20140604_090427.jpg"
+    },
+    {
+      "name": "독산공원",
+      "lat": 37.457,
+      "lng": 126.895,
+      "category": "공원",
+      "description": "금천구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 55.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Geumcheon-gu_Office_20140604_072109.JPG/1280px-Geumcheon-gu_Office_20140604_072109.JPG"
+    },
+    {
+      "name": "안양천",
+      "lat": 37.4628041,
+      "lng": 126.8858394,
+      "category": "하천/자연",
+      "description": "금천구 서쪽 경계를 흐르는 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 103.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg/1280px-230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg"
+    },
+    {
+      "name": "가산동 상권",
+      "lat": 37.481,
+      "lng": 126.882,
+      "category": "상권",
+      "description": "가산역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 145.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gasan-dong_Community_Service_Center_20140604_082034.jpg/1280px-Gasan-dong_Community_Service_Center_20140604_082034.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "금천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "독산공원 → 안양천 → 가산디지털단지 → 가산동 상권 → 시흥동 순으로 이어지는 서울특별시 금천구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "독산공원",
+        "안양천",
+        "가산디지털단지",
+        "가산동 상권",
+        "시흥동"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "금천 산하 절경 에어리얼 투어",
+      "description": "가산디지털단지 → 안양천 → 독산공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 금천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "가산디지털단지",
+        "안양천",
+        "독산공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "독산공원 본점",
+      "lat": 37.45742,
+      "lng": 126.89444,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "시흥동 가마솥밥가",
+      "lat": 37.451335,
+      "lng": 126.909115,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "안양천 본점",
+      "lat": 37.462524,
+      "lng": 126.885839,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "가산디지털단지 골목식당",
+      "lat": 37.475913,
+      "lng": 126.88148,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "가산동 상권 동네밥집",
+      "lat": 37.4817,
+      "lng": 126.88137,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "가산디지털단지",
+        "station_name": "가산디지털단지역",
+        "line": "서울 1·7호선",
+        "exit_no": 5,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.4817,
+          126.8821
+        ]
+      },
+      {
+        "target_landmark": "시흥동",
+        "station_name": "금천구청역",
+        "line": "서울 1호선",
+        "exit_no": 10,
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4571,
+          126.8939
+        ]
+      },
+      {
+        "target_landmark": "독산공원",
+        "station_name": "금천구청역",
+        "line": "서울 1호선",
+        "exit_no": 10,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.4571,
+          126.8939
+        ]
+      },
+      {
+        "target_landmark": "안양천",
+        "station_name": "독산역",
+        "line": "서울 1호선",
+        "exit_no": 6,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.4664,
+          126.8872
+        ]
+      },
+      {
+        "target_landmark": "가산동 상권",
+        "station_name": "가산디지털단지역",
+        "line": "서울 1·7호선",
+        "exit_no": 5,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.4817,
+          126.8821
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "금천 중앙 공영주차장",
+        "coordinates": [
+          37.4574,
+          126.8958
+        ],
+        "capacity": 206,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "금천 제2 공영주차장",
+        "coordinates": [
+          37.450305,
+          126.908956
+        ],
+        "capacity": 352,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "금천초등학교 운동장",
+        "coordinates": [
+          37.483618,
+          126.884799
+        ],
+        "capacity": 5800,
+        "address": "서울특별시 금천구"
+      },
+      {
+        "name": "금천실내체육관",
+        "coordinates": [
+          37.44908,
+          126.912449
+        ],
+        "capacity": 1400,
+        "address": "서울특별시 금천구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "가산디지털단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "시흥동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "독산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안양천",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "가산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "안양천 벚꽃길",
+        "독산공원 봄꽃"
+      ],
+      "summer": [
+        "안양천 여름 물놀이",
+        "시흥동 여름 골목"
+      ],
+      "autumn": [
+        "안양천 억새",
+        "독산공원 가을"
+      ],
+      "winter": [
+        "가산동 상권 겨울 조명",
+        "안양천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "독산공원 야경",
+        "coordinates": [
+          37.457,
+          126.895
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "가산동 상권 야경",
+        "coordinates": [
+          37.481,
+          126.882
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "금천구는 가산동 디지털 산업단지가 자리한 서울 남서부 자치구로 과천과 안산의 관문이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geumcheon-gu, Seoul",
+      "landmarks": {
+        "가산디지털단지": [
+          "Gasan Digital Complex",
+          "Largest IT industry cluster in southern Seoul."
+        ],
+        "시흥동": [
+          "Siheung-dong",
+          "Historic center of the old Siheung region in Geumcheon-gu."
+        ],
+        "독산공원": [
+          "Doksan Park",
+          "Representative neighborhood park of Geumcheon-gu."
+        ],
+        "안양천": [
+          "Anyangcheon Stream",
+          "Tributary flowing along Geumcheon-gu's western boundary."
+        ],
+        "가산동 상권": [
+          "Gasan-dong Commercial District",
+          "Major commercial hub centered on Gasan Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 衿川区",
+      "landmarks": {
+        "가산디지털단지": [
+          "加山デジタル団地",
+          "ソウル南部最大のIT産業団地。"
+        ],
+        "시흥동": [
+          "始興洞",
+          "かつて始興地域の中心地だった金川区の町。"
+        ],
+        "독산공원": [
+          "独山公園",
+          "金川区を代表する近隣公園。"
+        ],
+        "안양천": [
+          "安養川",
+          "金川区の西側境界を流れる支流。"
+        ],
+        "가산동 상권": [
+          "加山洞商圏",
+          "加山駅を中心とする代表的な商業地域。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 衿川区",
+      "landmarks": {
+        "가산디지털단지": [
+          "加山数字园区",
+          "首尔南部最大的IT产业园区。"
+        ],
+        "시흥동": [
+          "始兴洞",
+          "旧始兴地区的中心，位于衿川区。"
+        ],
+        "독산공원": [
+          "独山公园",
+          "衿川区的代表性近邻公园。"
+        ],
+        "안양천": [
+          "安养川",
+          "流经衿川区西缘的支流。"
+        ],
+        "가산동 상권": [
+          "加山洞商圈",
+          "以加山站为中心的代表性商业区。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.geumcheon.go.kr",
+    "civil_service_center": {
+      "location_name": "금천구청 민원실 앞",
+      "coordinates": [
+        126.895381,
+        37.4569
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2627-2114",
+      "info": "서울특별시 금천구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "금천구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.900465,
+      37.459657
+    ],
+    "cctv_zone_count": 501,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "독산근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "금천 벚꽃 축제",
+    "typical_month": 4,
+    "venue_name": "금천구청 광장",
+    "venue_coords": [
+      126.900565,
+      37.460557
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "금천구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.896581,
+      37.4592
+    ],
+    "reservation_url": "https://www.geumcheon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "금천구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.897981,
+      37.4541
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "금천구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.897681,
+      37.4546
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "시흥동 가마솥밥가",
+    "coordinates": [
+      126.909115,
+      37.451335
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "순대국밥 (금천구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=금천구청&goalx=126.895381&goaly=37.456900",
+    "kakaonavi_url": "kakaonavi://navigate?name=금천구청&x=126.895381&y=37.456900&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=금천구청&dlng=126.895381&dlat=37.456900&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "금천구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.899215,
+          37.458807
+        ],
+        [
+          126.900465,
+          37.459657
+        ],
+        [
+          126.900615,
+          37.459857
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "금천구 중심상업거리",
+    "anchor_center": [
+      126.897248,
+      37.4565
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 205,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
