@@ -447,10 +447,11 @@
     "civil_service_center": {
       "location_name": "중구청 민원실 앞",
       "coordinates": [
-        127.413133,
-        36.278265
+        127.421491,
+        36.325577
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "042-606-6114",
