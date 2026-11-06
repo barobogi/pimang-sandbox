@@ -1,0 +1,579 @@
+{
+  "block_code": "41465",
+  "block_name": "경기도 용인시 수지구",
+  "bbox": [
+    127.016201,
+    37.293038,
+    127.141975,
+    37.372286
+  ],
+  "center": [
+    37.332662,
+    127.079088
+  ],
+  "landmarks": [
+    {
+      "name": "죽전역 상권",
+      "lat": 37.322,
+      "lng": 127.127,
+      "category": "상권",
+      "description": "수지구 최대 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 285.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Q17226_Jukjeon_A01.JPG/1280px-Q17226_Jukjeon_A01.JPG"
+    },
+    {
+      "name": "죽전동 카페거리",
+      "lat": 37.325,
+      "lng": 127.124,
+      "category": "카페/문화",
+      "description": "죽전동 일대의 대표 카페 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 282.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Q17226_Jukjeon_A01.JPG/1280px-Q17226_Jukjeon_A01.JPG"
+    },
+    {
+      "name": "동천동 상권",
+      "lat": 37.332,
+      "lng": 127.105,
+      "category": "상권",
+      "description": "동천동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 271.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukgu-daegu.png/1280px-Bukgu-daegu.png"
+    },
+    {
+      "name": "보정동 카페거리",
+      "lat": 37.313,
+      "lng": 127.1,
+      "category": "카페/문화",
+      "description": "수지구 인접의 대표 카페 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 319.8
+      }
+    },
+    {
+      "name": "수지공원",
+      "lat": 37.318,
+      "lng": 127.115,
+      "category": "공원",
+      "description": "수지구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%A7%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 297.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%EC%9D%B8%EC%B2%9C_%EB%B6%80%EC%88%98%EC%A7%80%EA%B3%B5%EC%9B%90_2024.jpg/1280px-%EC%9D%B8%EC%B2%9C_%EB%B6%80%EC%88%98%EC%A7%80%EA%B3%B5%EC%9B%90_2024.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "수지 도심 하이라이트 시그니처 스카이 투어",
+      "description": "동천동 상권 → 수지공원 → 죽전동 카페거리 → 죽전역 상권 → 보정동 카페거리 순으로 이어지는 경기도 용인시 수지구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "동천동 상권",
+        "수지공원",
+        "죽전동 카페거리",
+        "죽전역 상권",
+        "보정동 카페거리"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "수지 도심 스카이라인 크루즈",
+      "description": "죽전역 상권 → 죽전동 카페거리 → 동천동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 수지의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "죽전역 상권",
+        "죽전동 카페거리",
+        "동천동 상권"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "동천동 상권 할매집",
+      "lat": 37.33235,
+      "lng": 127.10521,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "보정동 카페거리 본점",
+      "lat": 37.31314,
+      "lng": 127.09993,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "수지공원 큰마당식당",
+      "lat": 37.31821,
+      "lng": 127.11437,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "죽전동 카페거리 큰마당식당",
+      "lat": 37.32528,
+      "lng": 127.12442,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "죽전역 상권",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "죽전동 카페거리",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "동천동 상권",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 31,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "보정동 카페거리",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 36,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "수지공원",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 16,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "수지 중앙 공영주차장",
+        "coordinates": [
+          37.3316,
+          127.1062
+        ],
+        "capacity": 510,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "수지 제2 공영주차장",
+        "coordinates": [
+          37.3126,
+          127.0992
+        ],
+        "capacity": 379,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "수지 제3 공영주차장",
+        "coordinates": [
+          37.3164,
+          127.113
+        ],
+        "capacity": 357,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "수지초등학교 운동장",
+        "coordinates": [
+          37.324213,
+          127.123204
+        ],
+        "capacity": 2000,
+        "address": "경기도 용인시 수지구"
+      },
+      {
+        "name": "수지실내체육관",
+        "coordinates": [
+          37.336112,
+          127.119975
+        ],
+        "capacity": 5800,
+        "address": "경기도 용인시 수지구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "죽전역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽전동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동천동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "보정동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수지공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수지공원 봄꽃",
+        "죽전동 카페거리 봄"
+      ],
+      "summer": [
+        "수지공원 여름",
+        "죽전동 카페거리 여름밤"
+      ],
+      "autumn": [
+        "수지공원 단풍",
+        "죽전역 상권 가을"
+      ],
+      "winter": [
+        "죽전역 상권 겨울 조명",
+        "수지공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "죽전동 카페거리 야경",
+        "coordinates": [
+          37.325,
+          127.124
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "수지공원 야경",
+        "coordinates": [
+          37.318,
+          127.115
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "용인 수지구는 죽전동 상권과 대형 주거 지역이 함께한 용인 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Suji-gu, Yongin",
+      "landmarks": {
+        "죽전역 상권": [
+          "Jukjeon Station District",
+          "Largest commercial hub of Suji-gu."
+        ],
+        "죽전동 카페거리": [
+          "Jukjeon-dong Cafe Street",
+          "Signature cafe street across Jukjeon-dong."
+        ],
+        "동천동 상권": [
+          "Dongcheon-dong District",
+          "Everyday commercial hub in Dongcheon-dong."
+        ],
+        "보정동 카페거리": [
+          "Bojeong-dong Cafe Street",
+          "Signature cafe street near Suji-gu."
+        ],
+        "수지공원": [
+          "Suji Park",
+          "Signature neighborhood park of Suji-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 龍仁市 水枝区",
+      "landmarks": {
+        "죽전역 상권": [
+          "竹田駅商圏",
+          "水枝区最大の商業商圏。"
+        ],
+        "죽전동 카페거리": [
+          "竹田洞カフェ街",
+          "竹田洞一帯を代表するカフェストリート。"
+        ],
+        "동천동 상권": [
+          "東川洞商圏",
+          "東川洞に形成された代表的な生活商圏。"
+        ],
+        "보정동 카페거리": [
+          "亭子洞カフェ街",
+          "水枝区に隣接する代表的なカフェストリート。"
+        ],
+        "수지공원": [
+          "水枝公園",
+          "水枝区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 龙仁市 水枝区",
+      "landmarks": {
+        "죽전역 상권": [
+          "竹田站商圈",
+          "水枝区最大的商业区。"
+        ],
+        "죽전동 카페거리": [
+          "竹田洞咖啡街",
+          "竹田洞一带的代表性咖啡街。"
+        ],
+        "동천동 상권": [
+          "东川洞商圈",
+          "东川洞形成的代表性生活商圈。"
+        ],
+        "보정동 카페거리": [
+          "宝亭洞咖啡街",
+          "毗邻水枝区的代表性咖啡街。"
+        ],
+        "수지공원": [
+          "水枝公园",
+          "水枝区的代表性近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sujigu.go.kr",
+    "civil_service_center": {
+      "location_name": "수지구청 민원실 앞",
+      "coordinates": [
+        127.097819,
+        37.322238
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1577-1122",
+      "info": "경기도 용인시 수지구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "수지구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.078988,
+      37.333262
+    ],
+    "cctv_zone_count": 399,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "보정근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "수지 구민축제",
+    "typical_month": 10,
+    "venue_name": "수지구청 광장",
+    "venue_coords": [
+      127.078688,
+      37.333062
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "수지구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.095819,
+      37.319538
+    ],
+    "reservation_url": "https://www.sujigu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "수지구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.095519,
+      37.323638
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "수지구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.095119,
+      37.324438
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "동천동 상권 할매집",
+    "coordinates": [
+      127.10521,
+      37.33235
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (수지구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=수지구청&goalx=127.097819&goaly=37.322238",
+    "kakaonavi_url": "kakaonavi://navigate?name=수지구청&x=127.097819&y=37.322238&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=수지구청&dlng=127.097819&dlat=37.322238&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "수지구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.077838,
+          37.333612
+        ],
+        [
+          127.078988,
+          37.333262
+        ],
+        [
+          127.079288,
+          37.333112
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "수지구 중심상업거리",
+    "anchor_center": [
+      127.097019,
+      37.321038
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 245,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
