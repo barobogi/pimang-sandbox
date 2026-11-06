@@ -298,6 +298,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "영남대 캠퍼스 봄",
+        "남매탑 봄"
+      ],
+      "summer": [
+        "경산시장 여름 야시장",
+        "영남대 캠퍼스 여름"
+      ],
+      "autumn": [
+        "영남대 캠퍼스 단풍",
+        "자인단오제전수교육관 가을"
+      ],
+      "winter": [
+        "경산시장 겨울",
+        "남매탑 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "영남대 캠퍼스 야경",
+        "coordinates": [
+          35.828022,
+          128.757222
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "경산시장 야시장",
+        "coordinates": [
+          35.82335,
+          128.736075
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "경산시는 대구 인접의 위성 도시로 영남대학교와 자인단오제가 유명하다.",
   "data_sources": [
     {
