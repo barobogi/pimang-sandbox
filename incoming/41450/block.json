@@ -440,10 +440,11 @@
     "civil_service_center": {
       "location_name": "하남시청 민원실 앞",
       "coordinates": [
-        127.212687,
-        37.53022
+        127.214896,
+        37.539309
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "031-790-6114",
