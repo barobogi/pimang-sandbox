@@ -1,0 +1,586 @@
+{
+  "block_code": "41830",
+  "block_name": "경기도 양평군",
+  "bbox": [
+    127.3,
+    37.366981,
+    127.848113,
+    37.671035
+  ],
+  "center": [
+    37.519008,
+    127.574056
+  ],
+  "landmarks": [
+    {
+      "name": "두물머리",
+      "lat": 37.5634221,
+      "lng": 127.3821871,
+      "category": "자연/하천",
+      "description": "북한강과 남한강이 만나 한강을 이루는 지점으로 드라마 촬영지로 유명한 국민 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 106.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%287%29.JPG/1280px-%EB%91%90%EB%AC%BC%EB%A8%B8%EB%A6%AC_%287%29.JPG"
+    },
+    {
+      "name": "양수리",
+      "lat": 37.5483195,
+      "lng": 127.3194198,
+      "category": "자연/문화",
+      "description": "두물머리 근처 남한강·북한강 삼각지대로 드라마 촬영지와 일몰 명소로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%88%98%EB%A6%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 98.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%EC%96%91%ED%8F%89_%EC%96%91%EC%88%98%EB%A6%AC_%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg/1280px-%EC%96%91%ED%8F%89_%EC%96%91%EC%88%98%EB%A6%AC_%EA%B3%A0%EC%9D%B8%EB%8F%8C.jpg"
+    },
+    {
+      "name": "용문사",
+      "lat": 37.5494663,
+      "lng": 127.5711442,
+      "category": "사찰/문화유산",
+      "description": "용문산 자락에 자리한 대형 사찰로 조선 시대 조정의 후원을 받은 유서 깊은 절이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%AC%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 175.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/%EC%96%91%ED%8F%89_%EC%9A%A9%EB%AC%B8%EC%82%AC_%EC%9D%80%ED%96%89%EB%82%98%EB%AC%B4.jpg"
+    },
+    {
+      "name": "양평역",
+      "lat": 37.4928474,
+      "lng": 127.4918972,
+      "category": "교통/문화",
+      "description": "중앙선의 철도 역으로 옛 역사 문화가 보존된 지역 중심지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%8F%89%EC%97%AD",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 68.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gyeonggi_Yangpyeong_Station_2010.jpg"
+    },
+    {
+      "name": "소싸울너른공원",
+      "lat": 37.51,
+      "lng": 127.3,
+      "category": "역사/공원",
+      "description": "조선과 후금의 소싸울전이 일어난 지역에 조성된 역사 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 87.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Yangpyeong-gun_office.JPG/1280px-Yangpyeong-gun_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "양평 역사·문화 시그니처 스카이 트레일",
+      "description": "용문사 → 양평역 → 두물머리 → 양수리 → 소싸울너른공원 순으로 이어지는 경기도 양평군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "용문사",
+        "양평역",
+        "두물머리",
+        "양수리",
+        "소싸울너른공원"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "양평 고즈넉한 역사 스카이 산책",
+      "description": "용문사 → 양평역 → 소싸울너른공원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 양평의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "용문사",
+        "양평역",
+        "소싸울너른공원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "양평 산하 절경 에어리얼 투어",
+      "description": "두물머리 → 양수리 → 소싸울너른공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 양평의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "두물머리",
+        "양수리",
+        "소싸울너른공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "용문사 본점",
+      "lat": 37.549466,
+      "lng": 127.570584,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "양평역 골목식당",
+      "lat": 37.492427,
+      "lng": 127.492107,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "두물머리 할매집",
+      "lat": 37.563422,
+      "lng": 127.381697,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "양수리 옛맛식당",
+      "lat": 37.548319,
+      "lng": 127.31956,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "소싸울너른공원 가마솥밥가",
+      "lat": 37.51,
+      "lng": 127.3004,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "두물머리",
+        "station_name": "두물머리 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.564622,
+          127.383387
+        ]
+      },
+      {
+        "target_landmark": "양수리",
+        "station_name": "양수리 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.549519,
+          127.32062
+        ]
+      },
+      {
+        "target_landmark": "용문사",
+        "station_name": "용문사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.550666,
+          127.572344
+        ]
+      },
+      {
+        "target_landmark": "양평역",
+        "station_name": "양평역 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.494047,
+          127.493097
+        ]
+      },
+      {
+        "target_landmark": "소싸울너른공원",
+        "station_name": "소싸울너른공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5112,
+          127.3012
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양평 중앙 공영주차장",
+        "coordinates": [
+          37.549866,
+          127.571544
+        ],
+        "capacity": 58,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양평 제2 공영주차장",
+        "coordinates": [
+          37.490447,
+          127.492297
+        ],
+        "capacity": 526,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양평초등학교 운동장",
+        "coordinates": [
+          37.564778,
+          127.347486
+        ],
+        "capacity": 5600,
+        "address": "경기도 양평군"
+      },
+      {
+        "name": "양평실내체육관",
+        "coordinates": [
+          37.592542,
+          127.31522
+        ],
+        "capacity": 1500,
+        "address": "경기도 양평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "두물머리",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양수리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "용문사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "양평역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소싸울너른공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "두물머리 봄 물안개",
+        "용문사 봄"
+      ],
+      "summer": [
+        "두물머리 여름",
+        "양수리 여름"
+      ],
+      "autumn": [
+        "용문사 단풍",
+        "두물머리 억새"
+      ],
+      "winter": [
+        "두물머리 설경",
+        "용문사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "두물머리 야경",
+        "coordinates": [
+          37.563422,
+          127.382187
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "용문사 야경",
+        "coordinates": [
+          37.549466,
+          127.571144
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "양평군은 한강과 남한강, 북한강이 어우러진 경기 동부의 군으로 두물머리와 양수리 등의 수변 명소와 용문산 국민관광지, 소싸울너른공원 등이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangpyeong-gun, Gyeonggi",
+      "landmarks": {
+        "두물머리": [
+          "Dumulmeori",
+          "Where the North and South Han rivers meet to form the Han River, a beloved landmark famous as a drama site."
+        ],
+        "양수리": [
+          "Yangsu-ri",
+          "Riverine triangle near Dumulmeori, famous as a drama site and sunset spot."
+        ],
+        "용문사": [
+          "Yongmunsa Temple",
+          "Large temple at the foot of Yongmunsan, with historic royal patronage from the Joseon court."
+        ],
+        "양평역": [
+          "Yangpyeong Station",
+          "Jungang Line station preserving old station culture as a local hub."
+        ],
+        "소싸울너른공원": [
+          "Sossaulneoreun Park",
+          "Historic park on the site of the Joseon-Later Jin battle of Sossaul."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 揚平郡",
+      "landmarks": {
+        "두물머리": [
+          "ドゥルモリ",
+          "北漢江と南漢江が出会い漢江となる地点。ドラマ撮影地として有名な国民的名所。"
+        ],
+        "양수리": [
+          "両水里",
+          "ドゥルモリ近くの南漢江・北漢江の三角州。ドラマ撮影地と夕景の名所。"
+        ],
+        "용문사": [
+          "龍門寺",
+          "龍門山のふもとにある大型寺院。朝鮮王朝の後援を受けた由緒ある寺。"
+        ],
+        "양평역": [
+          "揚平駅",
+          "中央線の駅。旧駅舎の文化が保存された地域の中心地。"
+        ],
+        "소싸울너른공원": [
+          "ソッサウル公園",
+          "朝鮮と後金のソッサウル戦が起きた地域に造られた歴史公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 扬平郡",
+      "landmarks": {
+        "두물머리": [
+          "两水头",
+          "北汉江与南汉江交汇成汉江之处，因影视剧取景闻名的国民名胜。"
+        ],
+        "양수리": [
+          "两水里",
+          "两水头附近的南汉江北汉江三角洲，影视取景地和日落名胜。"
+        ],
+        "용문사": [
+          "龙门寺",
+          "龙门山麓的大型寺院，曾受朝鲜朝廷庇佑的古刹。"
+        ],
+        "양평역": [
+          "扬平站",
+          "中央线的铁路车站，保留旧站舍文化的地方中心。"
+        ],
+        "소싸울너른공원": [
+          "沙尔宽公园",
+          "建于朝鲜与后金沙尔宽之战旧址的历史公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yp21.go.kr",
+    "civil_service_center": {
+      "location_name": "양평군청 민원실 앞",
+      "coordinates": [
+        127.487906,
+        37.491674
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-773-5101",
+      "info": "경기도 양평군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "양평군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.573956,
+      37.518608
+    ],
+    "cctv_zone_count": 494,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "양평 두물머리 공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "용문산 산수유축제",
+    "typical_month": 3,
+    "venue_name": "용문산 산수유밭 일대",
+    "venue_coords": [
+      127.573856,
+      37.518908
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "양평군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.486206,
+      37.492174
+    ],
+    "reservation_url": "https://www.yp21.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "양평군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.487206,
+      37.491674
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "양평군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.489106,
+      37.490474
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "소싸울너른공원 가마솥밥가",
+    "coordinates": [
+      127.3004,
+      37.51
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "유과 (양평군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=양평군청&goalx=127.487906&goaly=37.491674",
+    "kakaonavi_url": "kakaonavi://navigate?name=양평군청&x=127.487906&y=37.491674&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=양평군청&dlng=127.487906&dlat=37.491674&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:54",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:15",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "양평군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.574306,
+          37.519608
+        ],
+        [
+          127.573956,
+          37.518608
+        ],
+        [
+          127.573106,
+          37.518458
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "양평군 전통시장 만남의거리",
+    "anchor_center": [
+      127.488773,
+      37.491207
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 70,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
