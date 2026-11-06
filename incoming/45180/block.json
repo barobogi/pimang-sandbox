@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeongeup-si, Jeonbuk",
+      "landmarks": {
+        "내장산": [
+          "Naejangsan Mountain",
+          "Jeonbuk's signature peak, nationally famous for its autumn foliage."
+        ],
+        "내장사": [
+          "Naejangsa Temple",
+          "Historic temple at the foot of Naejangsan, famed for its Geukrakjeon Hall."
+        ],
+        "초정약수": [
+          "Chojeong Mineral Spring",
+          "One of the nation's premier spring-water sites, a famed drinking water attraction."
+        ],
+        "정읍객사": [
+          "Jeongeup Gaeksa",
+          "Joseon-era guesthouse of Jeongeup-bu preserving old government architecture."
+        ],
+        "고부모충사": [
+          "Gobu Mosansa Shrine",
+          "Historic shrine of the Gobu region associated with Jeon Bong-jun."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 井邑市",
+      "landmarks": {
+        "내장산": [
+          "内蔵山",
+          "全北を代表する名山。秋の紅葉で全国的に有名。"
+        ],
+        "내장사": [
+          "内蔵寺",
+          "内蔵山のふもとの由緒ある寺。極楽殿が有名。"
+        ],
+        "초정약수": [
+          "草亭薬水",
+          "全国屈指の薬水場。飲用泉の観光名所。"
+        ],
+        "정읍객사": [
+          "井邑客舎",
+          "朝鮮時代の井邑府の客舎。昔の官衙建築が残る。"
+        ],
+        "고부모충사": [
+          "古阜母忠祠",
+          "古阜地方の由緒ある祠。全琫準にゆかりのある遺跡。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 井邑市",
+      "landmarks": {
+        "내장산": [
+          "内藏山",
+          "全北代表名山，秋日红叶闻名全国。"
+        ],
+        "내장사": [
+          "内藏寺",
+          "内藏山麓的古刹，以极乐殿闻名。"
+        ],
+        "초정약수": [
+          "草亭矿泉水",
+          "全国一流的涌泉地，饮水观光名胜。"
+        ],
+        "정읍객사": [
+          "井邑客舍",
+          "朝鲜时代井邑府的客舍，留有旧官衙建筑。"
+        ],
+        "고부모충사": [
+          "古阜母忠祠",
+          "古阜地区的古祠，与全琫准相关的遗迹。"
+        ]
+      }
+    }
   }
 }
