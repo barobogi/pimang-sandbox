@@ -419,5 +419,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.inje.go.kr",
+    "civil_service_center": {
+      "location_name": "인제군청 민원실 앞",
+      "coordinates": [
+        128.245743,
+        38.104118
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "033-1588-2201",
+      "info": "강원특별자치도 인제군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "인제군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.246043,
+      38.103918
+    ],
+    "cctv_zone_count": 428
+  },
+  "urban_parks_trails": {
+    "park_name": "내린천 수변공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "인제 빙어축제",
+    "typical_month": 1,
+    "venue_name": "인제군 내린천 일대",
+    "venue_coords": [
+      128.245943,
+      38.104018
+    ]
   }
 }
