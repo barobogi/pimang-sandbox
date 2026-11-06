@@ -140,6 +140,85 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "상무지구",
+        "station_name": "광주송정역",
+        "line": "KTX 호남선",
+        "walk_minutes": 28,
+        "coordinates": [
+          35.1397,
+          126.8448
+        ]
+      },
+      {
+        "target_landmark": "풍암호수공원",
+        "station_name": "김대중컨벤션센터역",
+        "line": "광주 1호선",
+        "exit_no": 9,
+        "walk_minutes": 32,
+        "coordinates": [
+          35.1335,
+          126.8523
+        ]
+      },
+      {
+        "target_landmark": "유스퀘어",
+        "station_name": "유스퀘어 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.153,
+          126.8884
+        ]
+      },
+      {
+        "target_landmark": "서구문화예술회관",
+        "station_name": "김대중컨벤션센터역",
+        "line": "광주 1호선",
+        "exit_no": 9,
+        "walk_minutes": 39,
+        "coordinates": [
+          35.1335,
+          126.8523
+        ]
+      },
+      {
+        "target_landmark": "황룡강",
+        "station_name": "김대중컨벤션센터역",
+        "line": "광주 1호선",
+        "exit_no": 9,
+        "walk_minutes": 14,
+        "coordinates": [
+          35.1335,
+          126.8523
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          35.14,
+          126.8608
+        ],
+        "capacity": 205,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          35.12845,
+          126.874598
+        ],
+        "capacity": 532,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "광주 서구는 상무지구 신도시와 풍암호수공원이 자리한 광주 서부의 행정 중심 구이다.",
   "data_sources": [
     {
