@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Chilgok-gun, Gyeongbuk",
+      "landmarks": {
+        "가실성당": [
+          "Gasil Catholic Church",
+          "Signature religious heritage attraction of Chilgok-gun, Gyeongbuk."
+        ],
+        "유학산": [
+          "Yuhaksan Mountain",
+          "Signature mountain attraction of Chilgok-gun, Gyeongbuk."
+        ],
+        "칠곡군청": [
+          "Chilgok County Office",
+          "Administrative center of Chilgok-gun, Gyeongbuk."
+        ],
+        "칠곡시장": [
+          "Chilgok Market",
+          "Signature market attraction of Chilgok-gun, Gyeongbuk."
+        ],
+        "낙동강": [
+          "Nakdong River",
+          "Signature river attraction of Chilgok-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 漆谷郡",
+      "landmarks": {
+        "가실성당": [
+          "嘉実聖堂",
+          "慶尚北道漆谷郡を代表する名所。"
+        ],
+        "유학산": [
+          "遊鶴山",
+          "慶尚北道漆谷郡を代表する名所。"
+        ],
+        "칠곡군청": [
+          "漆谷郡庁",
+          "慶尚北道漆谷郡を代表する名所。"
+        ],
+        "칠곡시장": [
+          "漆谷市場",
+          "慶尚北道漆谷郡を代表する名所。"
+        ],
+        "낙동강": [
+          "洛東江",
+          "慶尚北道漆谷郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 漆谷郡",
+      "landmarks": {
+        "가실성당": [
+          "嘉实圣堂",
+          "庆尚北道漆谷郡的代表性宗教遗迹。"
+        ],
+        "유학산": [
+          "游鹤山",
+          "庆尚北道漆谷郡的代表性名山。"
+        ],
+        "칠곡군청": [
+          "漆谷郡厅",
+          "庆尚北道漆谷郡的行政中心。"
+        ],
+        "칠곡시장": [
+          "漆谷市场",
+          "庆尚北道漆谷郡的代表性市场。"
+        ],
+        "낙동강": [
+          "洛东江",
+          "庆尚北道漆谷郡的代表性河流。"
+        ]
+      }
+    }
   }
 }
