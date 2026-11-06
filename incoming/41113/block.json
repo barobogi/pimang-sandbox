@@ -1,0 +1,586 @@
+{
+  "block_code": "41113",
+  "block_name": "경기도 수원시 권선구",
+  "bbox": [
+    126.926969,
+    37.224529,
+    127.042159,
+    37.303305
+  ],
+  "center": [
+    37.263917,
+    126.984564
+  ],
+  "landmarks": [
+    {
+      "name": "국립식량과학원",
+      "lat": 37.275,
+      "lng": 127.002,
+      "category": "연구/농업",
+      "description": "국내 농업 연구의 중심기관으로 서둔동에 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 231.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
+    },
+    {
+      "name": "권선동 상권",
+      "lat": 37.261,
+      "lng": 127.02,
+      "category": "상권",
+      "description": "권선동에 형성된 권선구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 275.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Gwonseon_il-dong_Community_service_center.jpeg/1280px-Gwonseon_il-dong_Community_service_center.jpeg"
+    },
+    {
+      "name": "세류역 상권",
+      "lat": 37.257,
+      "lng": 127.027,
+      "category": "상권",
+      "description": "세류역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 281.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
+    },
+    {
+      "name": "서둔공원",
+      "lat": 37.273,
+      "lng": 127.005,
+      "category": "공원",
+      "description": "서둔동 일대의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 240.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
+    },
+    {
+      "name": "서둔천",
+      "lat": 37.27,
+      "lng": 127.01,
+      "category": "하천/자연",
+      "description": "수원을 지나는 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%84%A0%EA%B5%AC",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 253.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gwonseon-gu_office.JPG/1280px-Gwonseon-gu_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "권선 도심 하이라이트 시그니처 스카이 투어",
+      "description": "국립식량과학원 → 서둔공원 → 서둔천 → 권선동 상권 → 세류역 상권 순으로 이어지는 경기도 수원시 권선구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "국립식량과학원",
+        "서둔공원",
+        "서둔천",
+        "권선동 상권",
+        "세류역 상권"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "권선 도심 활력 에어리얼 코스",
+      "description": "국립식량과학원 → 권선동 상권 → 세류역 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 권선의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "국립식량과학원",
+        "권선동 상권",
+        "세류역 상권"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "권선 산하 절경 에어리얼 투어",
+      "description": "서둔천 → 서둔공원 → 국립식량과학원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 권선의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "서둔천",
+        "서둔공원",
+        "국립식량과학원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "국립식량과학원 골목식당",
+      "lat": 37.27465,
+      "lng": 127.00242,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "서둔공원 옛맛식당",
+      "lat": 37.27307,
+      "lng": 127.005,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "서둔천 동네밥집",
+      "lat": 37.2707,
+      "lng": 127.01007,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "권선동 상권 큰마당식당",
+      "lat": 37.26156,
+      "lng": 127.01958,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "세류역 상권 가마솥밥가",
+      "lat": 37.25742,
+      "lng": 127.02728,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "국립식량과학원",
+        "station_name": "권선역",
+        "line": "수인분당선",
+        "walk_minutes": 45,
+        "coordinates": [
+          37.302905,
+          127.0054
+        ]
+      },
+      {
+        "target_landmark": "권선동 상권",
+        "station_name": "권선동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2618,
+          127.02
+        ]
+      },
+      {
+        "target_landmark": "세류역 상권",
+        "station_name": "세류역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2578,
+          127.027
+        ]
+      },
+      {
+        "target_landmark": "서둔공원",
+        "station_name": "권선역",
+        "line": "수인분당선",
+        "walk_minutes": 48,
+        "coordinates": [
+          37.302905,
+          127.0054
+        ]
+      },
+      {
+        "target_landmark": "서둔천",
+        "station_name": "서둔천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2708,
+          127.01
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "권선 중앙 공영주차장",
+        "coordinates": [
+          37.2742,
+          127.0016
+        ],
+        "capacity": 382,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "권선 제2 공영주차장",
+        "coordinates": [
+          37.2706,
+          127.005
+        ],
+        "capacity": 399,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "권선초등학교 운동장",
+        "coordinates": [
+          37.280039,
+          127.019174
+        ],
+        "capacity": 1200,
+        "address": "경기도 수원시 권선구"
+      },
+      {
+        "name": "권선실내체육관",
+        "coordinates": [
+          37.27202,
+          127.00585
+        ],
+        "capacity": 2900,
+        "address": "경기도 수원시 권선구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "국립식량과학원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "권선동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "세류역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서둔공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서둔천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "서둔천 벚꽃길",
+        "서둔공원 봄꽃"
+      ],
+      "summer": [
+        "서둔천 여름 물놀이",
+        "세류역 상권 여름"
+      ],
+      "autumn": [
+        "서둔공원 단풍",
+        "국립식량과학원 가을"
+      ],
+      "winter": [
+        "권선동 상권 겨울 조명",
+        "서둔천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "서둔공원 야경",
+        "coordinates": [
+          37.273,
+          127.005
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "서둔천 야경",
+        "coordinates": [
+          37.27,
+          127.01
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "수원 권선구는 국립식량과학원과 세류역 상권이 자리한 수원 서부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Kwonseon-gu, Suwon",
+      "landmarks": {
+        "국립식량과학원": [
+          "National Institute of Agricultural Sciences",
+          "Core institute of Korean agricultural research, based in Sudun-dong."
+        ],
+        "권선동 상권": [
+          "Kwonseon-dong District",
+          "Commercial hub of Kwonseon-gu in Kwonseon-dong."
+        ],
+        "세류역 상권": [
+          "Seryu Station District",
+          "Commercial hub centered on Seryu Station."
+        ],
+        "서둔공원": [
+          "Sudun Park",
+          "Park across the Sudun-dong area."
+        ],
+        "서둔천": [
+          "Suduncheon Stream",
+          "Stream flowing through Suwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 勸善区",
+      "landmarks": {
+        "국립식량과학원": [
+          "国立食糧科学研究院",
+          "国内農業研究の中心機関。書屯洞に位置する。"
+        ],
+        "권선동 상권": [
+          "勸善洞商圏",
+          "勸善洞に形成された勸善区を代表する商圏。"
+        ],
+        "세류역 상권": [
+          "細柳駅商圏",
+          "細柳駅を中心とする代表的な商圏。"
+        ],
+        "서둔공원": [
+          "書屯公園",
+          "書屯洞一帯の公園。"
+        ],
+        "서둔천": [
+          "書屯川",
+          "水原を流れる支流。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 劝善区",
+      "landmarks": {
+        "국립식량과학원": [
+          "国立粮食科学院",
+          "韩国农业研究的核心机构，位于书岘洞。"
+        ],
+        "권선동 상권": [
+          "劝善洞商圈",
+          "劝善洞形成的劝善区代表性商圈。"
+        ],
+        "세류역 상권": [
+          "细柳站商圈",
+          "以细柳站为中心的代表性商圈。"
+        ],
+        "서둔공원": [
+          "书岘公园",
+          "书岘洞一带的公园。"
+        ],
+        "서둔천": [
+          "书岘川",
+          "流经水原的河流。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ksun.suwon.go.kr",
+    "civil_service_center": {
+      "location_name": "권선구청 민원실 앞",
+      "coordinates": [
+        126.971253,
+        37.257106
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1899-3300",
+      "info": "경기도 수원시 권선구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "권선구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.984064,
+      37.263817
+    ],
+    "cctv_zone_count": 477,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "매향근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "권선 구민축제",
+    "typical_month": 10,
+    "venue_name": "권선구청 광장",
+    "venue_coords": [
+      126.984864,
+      37.264517
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "권선구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.971453,
+      37.255206
+    ],
+    "reservation_url": "https://www.ksun.suwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "권선구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.968653,
+      37.257206
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "권선구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.969553,
+      37.255306
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "서둔천 동네밥집",
+    "coordinates": [
+      127.01007,
+      37.2707
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막국수 (권선구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=권선구청&goalx=126.971253&goaly=37.257106",
+    "kakaonavi_url": "kakaonavi://navigate?name=권선구청&x=126.971253&y=37.257106&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=권선구청&dlng=126.971253&dlat=37.257106&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "권선구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.985014,
+          37.263217
+        ],
+        [
+          126.984064,
+          37.263817
+        ],
+        [
+          126.984964,
+          37.264317
+        ]
+      ],
+      "cctv_linked_count": 11,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "권선구 중심상업거리",
+    "anchor_center": [
+      126.970053,
+      37.257039
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 181,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
