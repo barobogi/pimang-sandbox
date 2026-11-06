@@ -138,6 +138,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "상족암",
+        "station_name": "상족암 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.903698,
+          128.151836
+        ]
+      },
+      {
+        "target_landmark": "고성공룡박물관",
+        "station_name": "고성공룡박물관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.907241,
+          128.148963
+        ]
+      },
+      {
+        "target_landmark": "당항포",
+        "station_name": "당항포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.053564,
+          128.397735
+        ]
+      },
+      {
+        "target_landmark": "고성군청",
+        "station_name": "고성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 43,
+        "coordinates": [
+          34.999757,
+          128.325381
+        ]
+      },
+      {
+        "target_landmark": "고성시장",
+        "station_name": "고성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.999757,
+          128.325381
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "고성 중앙 공영주차장",
+        "coordinates": [
+          34.999357,
+          128.325782
+        ],
+        "capacity": 318,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "고성 제2 공영주차장",
+        "coordinates": [
+          34.971393,
+          128.319824
+        ],
+        "capacity": 109,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "고성군은 상족암과 공룡박물관, 당항포가 자리한 경남 남해안의 군이다.",
   "data_sources": [
     {
