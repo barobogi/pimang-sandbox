@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "철원초등학교 운동장",
+        "coordinates": [
+          38.243946,
+          127.111788
+        ],
+        "capacity": 4900,
+        "address": "강원특별자치도 철원군"
+      },
+      {
+        "name": "철원실내체육관",
+        "coordinates": [
+          38.171514,
+          127.21055
+        ],
+        "capacity": 800,
+        "address": "강원특별자치도 철원군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "노동당사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한탄강",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "철원평야",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "철원군청",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고석정",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
