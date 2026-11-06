@@ -147,6 +147,96 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부경대학교",
+        "station_name": "경성대·부경대역",
+        "line": "부산 2호선",
+        "exit_no": 8,
+        "walk_minutes": 6,
+        "coordinates": [
+          35.1328,
+          129.1013
+        ]
+      },
+      {
+        "target_landmark": "국립해양박물관",
+        "station_name": "국립해양박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.079453,
+          129.081058
+        ]
+      },
+      {
+        "target_landmark": "용당수변공원",
+        "station_name": "경성대·부경대역",
+        "line": "부산 2호선",
+        "exit_no": 8,
+        "walk_minutes": 15,
+        "coordinates": [
+          35.1328,
+          129.1013
+        ]
+      },
+      {
+        "target_landmark": "용호동 상권",
+        "station_name": "경성대·부경대역",
+        "line": "부산 2호선",
+        "exit_no": 8,
+        "walk_minutes": 25,
+        "coordinates": [
+          35.1328,
+          129.1013
+        ]
+      },
+      {
+        "target_landmark": "남산공원",
+        "station_name": "경성대·부경대역",
+        "line": "부산 2호선",
+        "exit_no": 8,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.1328,
+          129.1013
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남구 중앙 공영주차장",
+        "coordinates": [
+          35.1274,
+          129.1188
+        ],
+        "capacity": 88,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남구 제2 공영주차장",
+        "coordinates": [
+          35.124,
+          129.0988
+        ],
+        "capacity": 560,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "남구 제3 공영주차장",
+        "coordinates": [
+          35.132272,
+          129.104847
+        ],
+        "capacity": 168,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부산 남구는 대연동 상권과 부경대학교, 국립해양박물관이 자리한 부산 남부의 구이다.",
   "data_sources": [
     {
