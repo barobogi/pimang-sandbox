@@ -332,5 +332,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dalseo-gu, Daegu",
+      "landmarks": {
+        "성당공원": [
+          "Seongdang Park",
+          "Signature neighborhood park of Dalseo-gu and a favorite Daegu retreat."
+        ],
+        "이약산": [
+          "Iyaksan Mountain",
+          "Low hill in Dalseo-gu popular for downtown hiking."
+        ],
+        "달서공원": [
+          "Dalseo Park",
+          "Neighborhood park built in the Dalseo area."
+        ],
+        "상인락공원": [
+          "Sanginnak Park",
+          "Neighborhood park serving the Sangin area."
+        ],
+        "감삼공원": [
+          "Gamsam Park",
+          "Neighborhood park in Gamsam-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 达西区",
+      "landmarks": {
+        "성당공원": [
+          "聖堂公園",
+          "達西区聖堂洞に造られた代表的な近隣公園。大邱市民の憩いの名所。"
+        ],
+        "이약산": [
+          "イヤク山",
+          "達西区にある低い山。都心の登山名所。"
+        ],
+        "달서공원": [
+          "達西公園",
+          "達西一帯に造成された近隣公園。"
+        ],
+        "상인락공원": [
+          "上仁楽公園",
+          "上仁洞一帯に造成された近隣公園。"
+        ],
+        "감삼공원": [
+          "甘三公園",
+          "甘三洞に造成された近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 达西区",
+      "landmarks": {
+        "성당공원": [
+          "圣堂公园",
+          "达西区圣堂洞建成的代表性近邻公园，市民休闲胜地。"
+        ],
+        "이약산": [
+          "里药山",
+          "达西区内的矮山，城区登山胜地。"
+        ],
+        "달서공원": [
+          "达西公园",
+          "达西一带建成的近邻公园。"
+        ],
+        "상인락공원": [
+          "上仁乐园",
+          "上仁洞一带的近邻公园。"
+        ],
+        "감삼공원": [
+          "甘三公园",
+          "甘三洞的近邻公园。"
+        ]
+      }
+    }
   }
 }
