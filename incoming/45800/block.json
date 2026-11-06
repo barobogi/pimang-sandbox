@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "변산반도국립공원",
+        "station_name": "변산반도국립공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.646157,
+          126.582317
+        ]
+      },
+      {
+        "target_landmark": "채석강",
+        "station_name": "부안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.625836,
+          126.469378
+        ]
+      },
+      {
+        "target_landmark": "내소사",
+        "station_name": "내소사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.615918,
+          126.586451
+        ]
+      },
+      {
+        "target_landmark": "고선재",
+        "station_name": "고선재 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.6234,
+          126.7352
+        ]
+      },
+      {
+        "target_landmark": "선유도",
+        "station_name": "선유도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.81686,
+          126.423722
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부안 중앙 공영주차장",
+        "coordinates": [
+          35.629036,
+          126.470578
+        ],
+        "capacity": 324,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "부안 제2 공영주차장",
+        "coordinates": [
+          35.820461,
+          126.423722
+        ],
+        "capacity": 108,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "부안 제3 공영주차장",
+        "coordinates": [
+          35.646557,
+          126.584317
+        ],
+        "capacity": 93,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부안군은 변산반도국립공원과 채석강, 내소사, 고선재, 선유도 등 서해안 대표 관광 자원이 풍부한 전북 서북부의 군이다.",
   "data_sources": [
     {
