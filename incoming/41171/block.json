@@ -154,6 +154,84 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "안양예술공원",
+        "station_name": "안양역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 48,
+        "coordinates": [
+          37.417,
+          126.8866
+        ]
+      },
+      {
+        "target_landmark": "안양역 상권",
+        "station_name": "안양역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3954,
+          126.9556
+        ]
+      },
+      {
+        "target_landmark": "안양천",
+        "station_name": "안양천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.39272,
+          126.938107
+        ]
+      },
+      {
+        "target_landmark": "삼막사",
+        "station_name": "삼막사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.432973,
+          126.936568
+        ]
+      },
+      {
+        "target_landmark": "석수동 상권",
+        "station_name": "안양역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 28,
+        "coordinates": [
+          37.417,
+          126.8866
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "만안 중앙 공영주차장",
+        "coordinates": [
+          37.421752,
+          126.922966
+        ],
+        "capacity": 476,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "만안 제2 공영주차장",
+        "coordinates": [
+          37.39472,
+          126.939307
+        ],
+        "capacity": 500,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "안양 만안구는 안양역 상권과 안양예술공원이 함께한 안양 서부의 구이다.",
   "data_sources": [
     {
