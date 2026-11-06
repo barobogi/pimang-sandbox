@@ -147,6 +147,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "의정부역 상권",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "자작공원",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "의정부 경전철",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "호수공원",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "회룡역 상권",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 13,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의정부 중앙 공영주차장",
+        "coordinates": [
+          37.7366,
+          127.0558
+        ],
+        "capacity": 126,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "의정부 제2 공영주차장",
+        "coordinates": [
+          37.7356,
+          127.0488
+        ],
+        "capacity": 131,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "의정부 제3 공영주차장",
+        "coordinates": [
+          37.7396,
+          127.046
+        ],
+        "capacity": 462,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "의정부시는 서울 북쪽 관문의 대표 위성 도시로 의정부역 상권과 경전철, 자작공원이 함께한다.",
   "data_sources": [
     {
