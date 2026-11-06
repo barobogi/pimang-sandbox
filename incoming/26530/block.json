@@ -226,6 +226,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "사상초등학교 운동장",
+        "coordinates": [
+          35.159101,
+          128.984682
+        ],
+        "capacity": 6000,
+        "address": "부산광역시 사상구"
+      },
+      {
+        "name": "사상실내체육관",
+        "coordinates": [
+          35.153606,
+          128.987913
+        ],
+        "capacity": 6500,
+        "address": "부산광역시 사상구"
+      },
+      {
+        "name": "사상중앙공원 비상집합장소",
+        "coordinates": [
+          35.155597,
+          128.98157
+        ],
+        "capacity": 1200,
+        "address": "부산광역시 사상구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "삼락생태공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사상역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "하단에코랜드",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "괴정동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "모라동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부산 사상구는 사상역 상권과 삼락생태공원이 함께한 부산 서부의 구이다.",
   "data_sources": [
     {
