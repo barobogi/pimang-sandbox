@@ -1,0 +1,572 @@
+{
+  "block_code": "41117",
+  "block_name": "경기도 수원시 영통구",
+  "bbox": [
+    127.032369,
+    37.231186,
+    127.089871,
+    37.320589
+  ],
+  "center": [
+    37.275887,
+    127.06112
+  ],
+  "landmarks": [
+    {
+      "name": "광교호수공원",
+      "lat": 37.2833823,
+      "lng": 127.0664811,
+      "category": "호수/공원",
+      "description": "광교신도시 중앙의 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 209.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Gg_08.png"
+    },
+    {
+      "name": "매탄동 상권",
+      "lat": 37.258,
+      "lng": 127.05,
+      "category": "상권",
+      "description": "매탄동에 형성된 영통구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 26.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Yeongtong-gu_office.JPG/1280px-Yeongtong-gu_office.JPG"
+    },
+    {
+      "name": "삼성전자 수원기지",
+      "lat": 37.235,
+      "lng": 127.045,
+      "category": "산업/반도체",
+      "description": "국내 최대 반도체 생산 기지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 17.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/1280px-Samsung_headquarters.jpg"
+    },
+    {
+      "name": "영통동 상권",
+      "lat": 37.247,
+      "lng": 127.076,
+      "category": "상권",
+      "description": "영통동에 형성된 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 337.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Yeongtong-gu_office.JPG/1280px-Yeongtong-gu_office.JPG"
+    },
+    {
+      "name": "광교중앙역 상권",
+      "lat": 37.302,
+      "lng": 127.044,
+      "category": "상권",
+      "description": "광교중앙역 중심의 신도시 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%86%B5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 152.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Q21025132_Gwanggyo_Jungang_A01.jpg/1280px-Q21025132_Gwanggyo_Jungang_A01.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "영통 도심 하이라이트 시그니처 스카이 투어",
+      "description": "광교호수공원 → 광교중앙역 상권 → 매탄동 상권 → 삼성전자 수원기지 → 영통동 상권 순으로 이어지는 경기도 수원시 영통구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "광교호수공원",
+        "광교중앙역 상권",
+        "매탄동 상권",
+        "삼성전자 수원기지",
+        "영통동 상권"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "영통 도심 하이라이트 스카이 투어",
+      "description": "영통동 상권 → 매탄동 상권 → 광교중앙역 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 영통의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "영통동 상권",
+        "매탄동 상권",
+        "광교중앙역 상권"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "영통 자연 힐링 스카이 워크",
+      "description": "삼성전자 수원기지 → 광교호수공원 → 광교중앙역 상권 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 영통의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "삼성전자 수원기지",
+        "광교호수공원",
+        "광교중앙역 상권"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "광교호수공원 가마솥밥가",
+      "lat": 37.283802,
+      "lng": 127.066831,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "매탄동 상권 동네밥집",
+      "lat": 37.25842,
+      "lng": 127.04944,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "광교중앙역 상권 가마솥밥가",
+      "lat": 37.30137,
+      "lng": 127.04428,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "광교호수공원",
+        "station_name": "매탄권선역",
+        "line": "수인분당선",
+        "walk_minutes": 46,
+        "coordinates": [
+          37.2942,
+          127.032769
+        ]
+      },
+      {
+        "target_landmark": "매탄동 상권",
+        "station_name": "영통역",
+        "line": "수인분당선",
+        "walk_minutes": 8,
+        "coordinates": [
+          37.2541,
+          127.0454
+        ]
+      },
+      {
+        "target_landmark": "삼성전자 수원기지",
+        "station_name": "영통역",
+        "line": "수인분당선",
+        "walk_minutes": 30,
+        "coordinates": [
+          37.2541,
+          127.0454
+        ]
+      },
+      {
+        "target_landmark": "영통동 상권",
+        "station_name": "영통역",
+        "line": "수인분당선",
+        "walk_minutes": 40,
+        "coordinates": [
+          37.2541,
+          127.0454
+        ]
+      },
+      {
+        "target_landmark": "광교중앙역 상권",
+        "station_name": "매탄권선역",
+        "line": "수인분당선",
+        "walk_minutes": 19,
+        "coordinates": [
+          37.2942,
+          127.032769
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영통 중앙 공영주차장",
+        "coordinates": [
+          37.282582,
+          127.066481
+        ],
+        "capacity": 86,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영통 제2 공영주차장",
+        "coordinates": [
+          37.2604,
+          127.0504
+        ],
+        "capacity": 529,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영통초등학교 운동장",
+        "coordinates": [
+          37.290753,
+          127.063642
+        ],
+        "capacity": 4200,
+        "address": "경기도 수원시 영통구"
+      },
+      {
+        "name": "영통실내체육관",
+        "coordinates": [
+          37.256813,
+          127.04397
+        ],
+        "capacity": 6300,
+        "address": "경기도 수원시 영통구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "광교호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "매탄동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼성전자 수원기지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영통동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "광교중앙역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "광교호수공원 벚꽃",
+        "광교중앙역 상권 봄"
+      ],
+      "summer": [
+        "광교호수공원 여름 음악분수",
+        "영통동 상권 여름"
+      ],
+      "autumn": [
+        "광교호수공원 단풍",
+        "매탄동 상권 가을"
+      ],
+      "winter": [
+        "광교호수공원 겨울 빛축제",
+        "광교중앙역 상권 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "광교호수공원 야경",
+        "coordinates": [
+          37.283382,
+          127.066481
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "광교중앙역 상권 야경",
+        "coordinates": [
+          37.302,
+          127.044
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "수원 영통구는 광교신도시와 매탄동 상권이 자리한 수원 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongtong-gu, Suwon",
+      "landmarks": {
+        "광교호수공원": [
+          "Gwanggyo Lake Park",
+          "Signature lakeside park at the heart of Gwanggyo New City."
+        ],
+        "매탄동 상권": [
+          "Maetan-dong District",
+          "Commercial hub of Yeongtong-gu in Maetan-dong."
+        ],
+        "삼성전자 수원기지": [
+          "Samsung Electronics Suwon HQ",
+          "Korea's largest semiconductor production base."
+        ],
+        "영통동 상권": [
+          "Yeongtong-dong District",
+          "Signature commercial district in Yeongtong-dong."
+        ],
+        "광교중앙역 상권": [
+          "Gwanggyo Jungang Station District",
+          "New town commercial hub centered on Gwanggyo Jungang Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 霊通区",
+      "landmarks": {
+        "광교호수공원": [
+          "光教湖公園",
+          "光教新都市の中央にある代表的な湖畔公園。"
+        ],
+        "매탄동 상권": [
+          "梅灘洞商圏",
+          "梅灘洞に形成された霊通区を代表する商圏。"
+        ],
+        "삼성전자 수원기지": [
+          "サムスン電子水原基地",
+          "国内最大の半導体生産基地。"
+        ],
+        "영통동 상권": [
+          "霊通洞商圏",
+          "霊通洞に形成された代表的な商圏。"
+        ],
+        "광교중앙역 상권": [
+          "光教中央駅商圏",
+          "光教中央駅を中心とする新都市商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 灵通区",
+      "landmarks": {
+        "광교호수공원": [
+          "光教湖公园",
+          "光教新城中央的代表性湖畔公园。"
+        ],
+        "매탄동 상권": [
+          "梅滩洞商圈",
+          "梅滩洞形成的灵通区代表性商圈。"
+        ],
+        "삼성전자 수원기지": [
+          "三星电子水原基地",
+          "韩国最大的半导体生产基地。"
+        ],
+        "영통동 상권": [
+          "灵通洞商圈",
+          "灵通洞形成的代表性商圈。"
+        ],
+        "광교중앙역 상권": [
+          "光教中央站商圈",
+          "以光教中央站为中心的新城商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yt.suwon.go.kr",
+    "civil_service_center": {
+      "location_name": "영통구청 민원실 앞",
+      "coordinates": [
+        127.04526,
+        37.258601
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1899-3300",
+      "info": "경기도 수원시 영통구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "영통구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.06132,
+      37.275387
+    ],
+    "cctv_zone_count": 31,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "광교호수공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "영통 구민축제",
+    "typical_month": 10,
+    "venue_name": "광교호수공원",
+    "venue_coords": [
+      127.06092,
+      37.276387
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "영통구민체육관",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.04766,
+      37.260601
+    ],
+    "reservation_url": "https://www.yt.suwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "영통구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.04706,
+      37.259301
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "영통구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.04236,
+      37.258701
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "광교호수공원 가마솥밥가",
+    "coordinates": [
+      127.066831,
+      37.283802
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (영통구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=영통구청&goalx=127.045260&goaly=37.258601",
+    "kakaonavi_url": "kakaonavi://navigate?name=영통구청&x=127.045260&y=37.258601&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=영통구청&dlng=127.045260&dlat=37.258601&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "영통구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.06017,
+          37.275487
+        ],
+        [
+          127.06132,
+          37.275387
+        ],
+        [
+          127.06037,
+          37.274537
+        ]
+      ],
+      "cctv_linked_count": 10,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "영통구 중심상업거리",
+    "anchor_center": [
+      127.04686,
+      37.260268
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 329,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
