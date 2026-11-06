@@ -146,6 +146,86 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "행주산성",
+        "station_name": "대곡역",
+        "line": "서울 3호선·서해선",
+        "exit_no": 10,
+        "walk_minutes": 45,
+        "coordinates": [
+          37.629,
+          126.831
+        ]
+      },
+      {
+        "target_landmark": "화정동 상권",
+        "station_name": "대곡역",
+        "line": "서울 3호선·서해선",
+        "exit_no": 10,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.629,
+          126.831
+        ]
+      },
+      {
+        "target_landmark": "고양시청",
+        "station_name": "대곡역",
+        "line": "서울 3호선·서해선",
+        "exit_no": 10,
+        "walk_minutes": 43,
+        "coordinates": [
+          37.629,
+          126.831
+        ]
+      },
+      {
+        "target_landmark": "창릉천",
+        "station_name": "창릉천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.647037,
+          126.908223
+        ]
+      },
+      {
+        "target_landmark": "덕은공원",
+        "station_name": "대곡역",
+        "line": "서울 3호선·서해선",
+        "exit_no": 10,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.629,
+          126.831
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "덕양 중앙 공영주차장",
+        "coordinates": [
+          37.647837,
+          126.911023
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "덕양 제2 공영주차장",
+        "coordinates": [
+          37.657682,
+          126.830652
+        ],
+        "capacity": 352,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "고양 덕양구는 행주산성과 화정동 상권이 함께한 고양 중부의 구이다.",
   "data_sources": [
     {
