@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Daejeon",
+      "landmarks": {
+        "대전예술의전당": [
+          "Daejeon Arts Center",
+          "Daejeon's flagship complex for performances and exhibitions."
+        ],
+        "한밭수목원": [
+          "Hanbat Arboretum",
+          "Korea's largest urban artificial arboretum."
+        ],
+        "둔산동 상권": [
+          "Dunsan-dong District",
+          "Largest commercial hub of western Daejeon."
+        ],
+        "장태산": [
+          "Jangtaesan Mountain",
+          "Mountain on Seo-gu's south, famed for its natural recreation forest."
+        ],
+        "갑천": [
+          "Gapcheon Stream",
+          "Representative stream flowing through Daejeon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 西区",
+      "landmarks": {
+        "대전예술의전당": [
+          "大田芸術の殿堂",
+          "大田を代表する公演・展示の総合文化施設。"
+        ],
+        "한밭수목원": [
+          "ハンバッ樹木園",
+          "全国最大の都市型人工樹木園。"
+        ],
+        "둔산동 상권": [
+          "屯山洞商圏",
+          "大田西部最大の商業地域。"
+        ],
+        "장태산": [
+          "長泰山",
+          "西区の南にある山。長泰山自然休養林で有名。"
+        ],
+        "갑천": [
+          "甲川",
+          "大田を貫く代表的な支流。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 西区",
+      "landmarks": {
+        "대전예술의전당": [
+          "大田艺术殿堂",
+          "大田代表性的演出展览综合文化设施。"
+        ],
+        "한밭수목원": [
+          "韩巴树木园",
+          "全国规模最大的城市人工树木园。"
+        ],
+        "둔산동 상권": [
+          "屯山洞商圈",
+          "大田西部最大的商业区。"
+        ],
+        "장태산": [
+          "长泰山",
+          "西区南部的山，以自然休养林闻名。"
+        ],
+        "갑천": [
+          "甲川",
+          "纵贯大田的代表性河流。"
+        ]
+      }
+    }
   }
 }
