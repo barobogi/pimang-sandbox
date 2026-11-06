@@ -232,6 +232,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "금산초등학교 운동장",
+        "coordinates": [
+          36.08373,
+          127.449757
+        ],
+        "capacity": 4700,
+        "address": "충청남도 금산군"
+      },
+      {
+        "name": "금산실내체육관",
+        "coordinates": [
+          36.054684,
+          127.597017
+        ],
+        "capacity": 6800,
+        "address": "충청남도 금산군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "금산인삼시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "적벽강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "진악산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금산군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금산인삼관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "금산군은 인삼의 고장으로 유명하며 금산인삼시장과 적벽강, 진악산이 자리한 충남 남부의 군이다.",
   "data_sources": [
     {
