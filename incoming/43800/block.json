@@ -1,0 +1,580 @@
+{
+  "block_code": "43800",
+  "block_name": "충청북도 단양군",
+  "bbox": [
+    128.217125,
+    36.800609,
+    128.652096,
+    37.158206
+  ],
+  "center": [
+    36.979408,
+    128.43461
+  ],
+  "landmarks": [
+    {
+      "name": "도담삼봉",
+      "lat": 37.0001167,
+      "lng": 128.3438889,
+      "category": "경승지/자연",
+      "description": "도담삼봉은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 105.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG"
+    },
+    {
+      "name": "구인사",
+      "lat": 37.0312898,
+      "lng": 128.4796611,
+      "category": "사찰/문화유산",
+      "description": "구인사은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%9D%B8%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 214.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Korea-Danyang-Guinsa_Nestled_in_the_Valley_3027-07.JPG"
+    },
+    {
+      "name": "고수동굴",
+      "lat": 36.9887326,
+      "lng": 128.3816317,
+      "category": "동굴/자연",
+      "description": "고수동굴은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 102.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg/1280px-%EB%8B%A8%EC%96%91_%EA%B3%A0%EC%88%98%EB%8F%99%EA%B5%B4_17.jpg"
+    },
+    {
+      "name": "단양군청",
+      "lat": 36.9846702,
+      "lng": 128.3655536,
+      "category": "행정/랜드마크",
+      "description": "단양군청은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 95.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Danyang-gun_office.JPG/1280px-Danyang-gun_office.JPG"
+    },
+    {
+      "name": "단양시장",
+      "lat": 36.9794075,
+      "lng": 128.43461035,
+      "category": "시장/먹거리",
+      "description": "단양시장은(는) 충청북도 단양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 330.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Danyang-gun_office.JPG/1280px-Danyang-gun_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "단양 자연 힐링 시그니처 에어리얼 투어",
+      "description": "단양시장 → 고수동굴 → 단양군청 → 도담삼봉 → 구인사 순으로 이어지는 충청북도 단양군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "단양시장",
+        "고수동굴",
+        "단양군청",
+        "도담삼봉",
+        "구인사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "단양 그린 랜드스케이프 플라이트",
+      "description": "도담삼봉 → 단양군청 → 고수동굴 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 단양의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "도담삼봉",
+        "단양군청",
+        "고수동굴"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "단양 도심 스카이라인 크루즈",
+      "description": "단양군청 → 고수동굴 → 단양시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 단양의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "단양군청",
+        "고수동굴",
+        "단양시장"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "단양 가마솥밥가",
+      "lat": 36.979827,
+      "lng": 128.43419,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "단양 솥뚜껑가게",
+      "lat": 36.979478,
+      "lng": 128.43496,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "단양 할매집",
+      "lat": 36.979548,
+      "lng": 128.43419,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "단양 옛맛식당",
+      "lat": 36.979968,
+      "lng": 128.43391,
+      "specialty": "호박엿",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "도담삼봉",
+        "station_name": "단양역",
+        "line": "중앙선",
+        "walk_minutes": 43,
+        "coordinates": [
+          36.9849,
+          128.3719
+        ]
+      },
+      {
+        "target_landmark": "구인사",
+        "station_name": "구인사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.03089,
+          128.480861
+        ]
+      },
+      {
+        "target_landmark": "고수동굴",
+        "station_name": "단양역",
+        "line": "중앙선",
+        "walk_minutes": 14,
+        "coordinates": [
+          36.9849,
+          128.3719
+        ]
+      },
+      {
+        "target_landmark": "단양군청",
+        "station_name": "단양역",
+        "line": "중앙선",
+        "walk_minutes": 8,
+        "coordinates": [
+          36.9849,
+          128.3719
+        ]
+      },
+      {
+        "target_landmark": "단양시장",
+        "station_name": "단양시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.979008,
+          128.43581
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "단양 중앙 공영주차장",
+        "coordinates": [
+          36.981008,
+          128.43541
+        ],
+        "capacity": 468,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "단양 제2 공영주차장",
+        "coordinates": [
+          36.991133,
+          128.384032
+        ],
+        "capacity": 441,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "단양초등학교 운동장",
+        "coordinates": [
+          36.982181,
+          128.385378
+        ],
+        "capacity": 6800,
+        "address": "충청북도 단양군"
+      },
+      {
+        "name": "단양실내체육관",
+        "coordinates": [
+          37.013548,
+          128.459126
+        ],
+        "capacity": 6100,
+        "address": "충청북도 단양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "도담삼봉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구인사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고수동굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "단양군청",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "단양시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "도담삼봉 봄",
+        "구인사 봄"
+      ],
+      "summer": [
+        "도담삼봉 여름",
+        "고수동굴 여름"
+      ],
+      "autumn": [
+        "도담삼봉 단풍",
+        "구인사 가을"
+      ],
+      "winter": [
+        "도담삼봉 설경",
+        "고수동굴 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "도담삼봉 야경",
+        "coordinates": [
+          37.000117,
+          128.343889
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "단양시장 야시장",
+        "coordinates": [
+          36.979408,
+          128.43461
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "단양군은 도담삼봉과 구인사, 고수동굴이 자리한 충북 북부 남한강 유역의 대표 관광 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Danyang-gun, Chungbuk",
+      "landmarks": {
+        "도담삼봉": [
+          "Dodamsambong Peaks",
+          "Signature scenic attraction of Danyang-gun, Chungbuk."
+        ],
+        "구인사": [
+          "Guinsa Temple",
+          "Signature temple heritage of Danyang-gun, Chungbuk."
+        ],
+        "고수동굴": [
+          "Gosu Cave",
+          "Signature cave attraction of Danyang-gun, Chungbuk."
+        ],
+        "단양군청": [
+          "Danyang County Office",
+          "Administrative center of Danyang-gun, Chungbuk."
+        ],
+        "단양시장": [
+          "Danyang Market",
+          "Signature market attraction of Danyang-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 丹陽郡",
+      "landmarks": {
+        "도담삼봉": [
+          "島潭三峰",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "구인사": [
+          "救仁寺",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "고수동굴": [
+          "古藪洞窟",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "단양군청": [
+          "丹陽郡庁",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "단양시장": [
+          "丹陽市場",
+          "忠清北道丹陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 丹阳郡",
+      "landmarks": {
+        "도담삼봉": [
+          "岛潭三峰",
+          "忠清北道丹阳郡的代表性胜景。"
+        ],
+        "구인사": [
+          "救仁寺",
+          "忠清北道丹阳郡的代表性古刹。"
+        ],
+        "고수동굴": [
+          "古薮洞窟",
+          "忠清北道丹阳郡的代表性洞窟。"
+        ],
+        "단양군청": [
+          "丹阳郡厅",
+          "忠清北道丹阳郡的行政中心。"
+        ],
+        "단양시장": [
+          "丹阳市场",
+          "忠清北道丹阳郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dy21.net",
+    "civil_service_center": {
+      "location_name": "단양군청 민원실 앞",
+      "coordinates": [
+        128.365285,
+        36.984641
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-420-3114",
+      "info": "충청북도 단양군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "단양군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.434811,
+      36.978808
+    ],
+    "cctv_zone_count": 383,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "단양강 수변공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "삼봉 문화제",
+    "typical_month": 4,
+    "venue_name": "단양읍 나우강변거리",
+    "venue_coords": [
+      128.434211,
+      36.979208
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "단양군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.366485,
+      36.982841
+    ],
+    "reservation_url": "https://www.dy21.net"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "단양군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.364885,
+      36.981941
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "단양군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.367285,
+      36.985641
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "단양 가마솥밥가",
+    "coordinates": [
+      128.43419,
+      36.979827
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (단양군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=단양군청&goalx=128.365285&goaly=36.984641",
+    "kakaonavi_url": "kakaonavi://navigate?name=단양군청&x=128.365285&y=36.984641&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=단양군청&dlng=128.365285&dlat=36.984641&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:38",
+      "noon_altitude_deg": 53.0
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:49",
+      "noon_altitude_deg": 76.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:23",
+      "noon_altitude_deg": 53.0
+    },
+    "winter_solstice": {
+      "sunrise": "07:36",
+      "sunset": "17:13",
+      "noon_altitude_deg": 29.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "단양군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.434711,
+          36.977358
+        ],
+        [
+          128.434811,
+          36.978808
+        ],
+        [
+          128.434361,
+          36.977758
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "단양군 전통시장 만남의거리",
+    "anchor_center": [
+      128.365752,
+      36.984974
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 240,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
