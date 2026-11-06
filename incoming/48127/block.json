@@ -147,6 +147,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "마산역 상권",
+        "station_name": "마산회원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 25,
+        "coordinates": [
+          35.220234,
+          128.576185
+        ]
+      },
+      {
+        "target_landmark": "회원동 상권",
+        "station_name": "마산회원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.220234,
+          128.576185
+        ]
+      },
+      {
+        "target_landmark": "마산회원구청",
+        "station_name": "마산회원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.220234,
+          128.576185
+        ]
+      },
+      {
+        "target_landmark": "봉암갯벌",
+        "station_name": "봉암갯벌 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.21695,
+          128.626305
+        ]
+      },
+      {
+        "target_landmark": "내서읍 상권",
+        "station_name": "내서읍 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.247185,
+          128.510067
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "마산회원 중앙 공영주차장",
+        "coordinates": [
+          35.217834,
+          128.572985
+        ],
+        "capacity": 121,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "마산회원 제2 공영주차장",
+        "coordinates": [
+          35.237341,
+          128.575829
+        ],
+        "capacity": 257,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "마산회원구는 마산의 내륙 지역으로 마산역과 회원동 상권, 봉암갯벌이 자리한 창원 서북부의 구이다.",
   "data_sources": [
     {
