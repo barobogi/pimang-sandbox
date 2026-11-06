@@ -439,7 +439,7 @@
         35.503712
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "055-359-5114",
@@ -452,7 +452,8 @@
       128.799567,
       35.491991
     ],
-    "cctv_zone_count": 414
+    "cctv_zone_count": 414,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "밀양 시민공원",
