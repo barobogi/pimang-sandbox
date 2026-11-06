@@ -144,6 +144,97 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "팔리산",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      },
+      {
+        "target_landmark": "행인산",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      },
+      {
+        "target_landmark": "보개산자연휴양림",
+        "station_name": "중앙역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 35,
+        "coordinates": [
+          37.3196,
+          126.8764
+        ]
+      },
+      {
+        "target_landmark": "수암산",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 28,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      },
+      {
+        "target_landmark": "군곡공원",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "상록 중앙 공영주차장",
+        "coordinates": [
+          37.3004,
+          126.8704
+        ],
+        "capacity": 433,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "상록 제2 공영주차장",
+        "coordinates": [
+          37.3084,
+          126.8554
+        ],
+        "capacity": 446,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "상록 제3 공영주차장",
+        "coordinates": [
+          37.3092,
+          126.9024
+        ],
+        "capacity": 214,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "상록구는 안산시 북부에 위치한 구로 반월공단과 함께 이주노동 문화가 발달했고 팔리산·행인산·보개산 등의 산악 자연과 다문화 마을이 어우러져 있다.",
   "data_sources": [
     {
