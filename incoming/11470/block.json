@@ -147,6 +147,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "목동야구장",
+        "station_name": "목동역",
+        "line": "서울 5호선",
+        "exit_no": 4,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.5321,
+          126.8752
+        ]
+      },
+      {
+        "target_landmark": "목동공원",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      },
+      {
+        "target_landmark": "신정중앙시장",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      },
+      {
+        "target_landmark": "양천문화예술회관",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      },
+      {
+        "target_landmark": "안양천",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양천 중앙 공영주차장",
+        "coordinates": [
+          37.5256,
+          126.8716
+        ],
+        "capacity": 58,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양천 제2 공영주차장",
+        "coordinates": [
+          37.526,
+          126.8784
+        ],
+        "capacity": 348,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양천 제3 공영주차장",
+        "coordinates": [
+          37.5154,
+          126.8784
+        ],
+        "capacity": 130,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "양천구는 신정동과 목동을 중심으로 1980년대 택지개발로 성장한 자치구로, 목동 야구장과 MBC·SBS 등 방송사가 입지한 서울 남서부의 대표 주거 상업 지역이다.",
   "data_sources": [
     {
