@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "운주사",
+        "station_name": "운주사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.92552,
+          126.880938
+        ]
+      },
+      {
+        "target_landmark": "화순고인돌유적",
+        "station_name": "화순버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.017244,
+          127.011103
+        ]
+      },
+      {
+        "target_landmark": "화순적벽",
+        "station_name": "화순적벽 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.103425,
+          127.088424
+        ]
+      },
+      {
+        "target_landmark": "화순군청",
+        "station_name": "화순군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.06432,
+          126.987298
+        ]
+      },
+      {
+        "target_landmark": "화순시장",
+        "station_name": "화순시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.059575,
+          126.983414
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "화순 중앙 공영주차장",
+        "coordinates": [
+          35.017244,
+          127.010703
+        ],
+        "capacity": 110,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "화순 제2 공영주차장",
+        "coordinates": [
+          35.061575,
+          126.982214
+        ],
+        "capacity": 201,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "화순 제3 공영주차장",
+        "coordinates": [
+          35.06632,
+          126.987298
+        ],
+        "capacity": 93,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "화순군은 운주사와 화순고인돌유적, 적벽이 자리한 전남 중부의 군이다.",
   "data_sources": [
     {
