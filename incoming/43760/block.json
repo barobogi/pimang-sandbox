@@ -146,6 +146,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "농다리",
+        "station_name": "농다리 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.823833,
+          127.492933
+        ]
+      },
+      {
+        "target_landmark": "백곡저수지",
+        "station_name": "백곡저수지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.867998,
+          127.404699
+        ]
+      },
+      {
+        "target_landmark": "진천군청",
+        "station_name": "진천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 22,
+        "coordinates": [
+          36.858399,
+          127.45303
+        ]
+      },
+      {
+        "target_landmark": "생거진천거북이마을",
+        "station_name": "생거진천거북이마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.923203,
+          127.389004
+        ]
+      },
+      {
+        "target_landmark": "진천시장",
+        "station_name": "진천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.858399,
+          127.45303
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "진천 중앙 공영주차장",
+        "coordinates": [
+          36.860399,
+          127.44903
+        ],
+        "capacity": 315,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "진천 제2 공영주차장",
+        "coordinates": [
+          36.856627,
+          127.434975
+        ],
+        "capacity": 92,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "진천 제3 공영주차장",
+        "coordinates": [
+          36.872398,
+          127.405899
+        ],
+        "capacity": 153,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "진천군은 농다리와 생거진천 거북이 마을, 백곡저수지가 자리한 충북 중서부의 군이다.",
   "data_sources": [
     {
