@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "화순초등학교 운동장",
+        "coordinates": [
+          34.910694,
+          126.860736
+        ],
+        "capacity": 7000,
+        "address": "전라남도 화순군"
+      },
+      {
+        "name": "화순실내체육관",
+        "coordinates": [
+          35.021522,
+          126.97975
+        ],
+        "capacity": 4400,
+        "address": "전라남도 화순군"
+      },
+      {
+        "name": "화순중앙공원 비상집합장소",
+        "coordinates": [
+          35.130344,
+          127.069604
+        ],
+        "capacity": 4100,
+        "address": "전라남도 화순군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "운주사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화순고인돌유적",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화순적벽",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화순군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화순시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "화순군은 운주사와 화순고인돌유적, 적벽이 자리한 전남 중부의 군이다.",
   "data_sources": [
     {
