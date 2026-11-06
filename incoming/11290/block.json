@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성북초등학교 운동장",
+        "coordinates": [
+          37.588781,
+          126.990237
+        ],
+        "capacity": 2400,
+        "address": "서울특별시 성북구"
+      },
+      {
+        "name": "성북실내체육관",
+        "coordinates": [
+          37.583227,
+          127.044574
+        ],
+        "capacity": 1400,
+        "address": "서울특별시 성북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서울성곽길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고려대학교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정릉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성북동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼청동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "성북구는 서촌과 성북동, 정릉이 함께한 유서 깊은 자치구로 한옥과 대학, 도서관 등의 정적 문화가 발달했다.",
   "data_sources": [
     {
