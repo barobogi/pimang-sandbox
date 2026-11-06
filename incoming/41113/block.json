@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Kwonseon-gu, Suwon",
+      "landmarks": {
+        "국립식량과학원": [
+          "National Institute of Agricultural Sciences",
+          "Core institute of Korean agricultural research, based in Sudun-dong."
+        ],
+        "권선동 상권": [
+          "Kwonseon-dong District",
+          "Commercial hub of Kwonseon-gu in Kwonseon-dong."
+        ],
+        "세류역 상권": [
+          "Seryu Station District",
+          "Commercial hub centered on Seryu Station."
+        ],
+        "서둔공원": [
+          "Sudun Park",
+          "Park across the Sudun-dong area."
+        ],
+        "서둔천": [
+          "Suduncheon Stream",
+          "Stream flowing through Suwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 勸善区",
+      "landmarks": {
+        "국립식량과학원": [
+          "国立食糧科学研究院",
+          "国内農業研究の中心機関。書屯洞に位置する。"
+        ],
+        "권선동 상권": [
+          "勸善洞商圏",
+          "勸善洞に形成された勸善区を代表する商圏。"
+        ],
+        "세류역 상권": [
+          "細柳駅商圏",
+          "細柳駅を中心とする代表的な商圏。"
+        ],
+        "서둔공원": [
+          "書屯公園",
+          "書屯洞一帯の公園。"
+        ],
+        "서둔천": [
+          "書屯川",
+          "水原を流れる支流。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 劝善区",
+      "landmarks": {
+        "국립식량과학원": [
+          "国立粮食科学院",
+          "韩国农业研究的核心机构，位于书岘洞。"
+        ],
+        "권선동 상권": [
+          "劝善洞商圈",
+          "劝善洞形成的劝善区代表性商圈。"
+        ],
+        "세류역 상권": [
+          "细柳站商圈",
+          "以细柳站为中心的代表性商圈。"
+        ],
+        "서둔공원": [
+          "书岘公园",
+          "书岘洞一带的公园。"
+        ],
+        "서둔천": [
+          "书岘川",
+          "流经水原的河流。"
+        ]
+      }
+    }
   }
 }
