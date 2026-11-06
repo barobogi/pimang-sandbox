@@ -140,6 +140,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "구포역",
+        "station_name": "구포역 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.204908,
+          128.995701
+        ]
+      },
+      {
+        "target_landmark": "화명생태공원",
+        "station_name": "화명생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.238069,
+          129.003872
+        ]
+      },
+      {
+        "target_landmark": "낙동강",
+        "station_name": "낙동강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.210537,
+          128.999124
+        ]
+      },
+      {
+        "target_landmark": "덕천동 상권",
+        "station_name": "덕천동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.2046,
+          129.0114
+        ]
+      },
+      {
+        "target_landmark": "화명신도시",
+        "station_name": "화명신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.224932,
+          129.006815
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "북구 중앙 공영주차장",
+        "coordinates": [
+          35.224132,
+          129.009215
+        ],
+        "capacity": 433,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "북구 제2 공영주차장",
+        "coordinates": [
+          35.240869,
+          129.005472
+        ],
+        "capacity": 328,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "북구 제3 공영주차장",
+        "coordinates": [
+          35.2066,
+          129.0114
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 북구는 구포동과 화명동이 자리한 부산 북부의 주거 구로 낙동강과 금정산 사이에 있다.",
   "data_sources": [
     {
