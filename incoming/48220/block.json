@@ -1,0 +1,581 @@
+{
+  "block_code": "48220",
+  "block_name": "경상남도 통영시",
+  "bbox": [
+    128.080673,
+    34.205043,
+    128.816275,
+    34.979645
+  ],
+  "center": [
+    34.592344,
+    128.448474
+  ],
+  "landmarks": [
+    {
+      "name": "통영해상케이블카",
+      "lat": 34.827,
+      "lng": 128.432,
+      "category": "관광시설",
+      "description": "도남동과 미륵도를 잇는 해상 케이블카로 통영의 상징 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 176.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Korea-Tongyeong-Collage-01.jpg/1280px-Korea-Tongyeong-Collage-01.jpg"
+    },
+    {
+      "name": "동피랑마을",
+      "lat": 34.8456985,
+      "lng": 128.4275059,
+      "category": "문화마을",
+      "description": "옛 선원 마을에 벽화가 그려진 대표 문화 벽화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%94%BC%EB%9E%91%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 176.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%B0.svg/1280px-%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%B0.svg.png"
+    },
+    {
+      "name": "거북선전시관",
+      "lat": 34.83,
+      "lng": 128.435,
+      "category": "박물관/역사",
+      "description": "충무공이 건조한 거북선을 재현·전시하는 역사 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 177.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Korea-Tongyeong-Collage-01.jpg/1280px-Korea-Tongyeong-Collage-01.jpg"
+    },
+    {
+      "name": "한산도",
+      "lat": 34.7875823,
+      "lng": 128.4792425,
+      "category": "섬/관광",
+      "description": "한산도대첩이 일어난 유서 깊은 섬으로 비담계곡과 아름다운 해안 경관으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%82%B0%EB%8F%84",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 187.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Korea-Tongyeong-Hansan_Island-Overview-01.jpg/1280px-Korea-Tongyeong-Hansan_Island-Overview-01.jpg"
+    },
+    {
+      "name": "비봉산",
+      "lat": 34.839,
+      "lng": 128.425,
+      "category": "산/자연",
+      "description": "통영 도심에 자리한 산으로 정자에서 통영 항구가 내려다보인다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%98%81%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 175.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Insoo_peak.jpg/1280px-Insoo_peak.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "통영 역사·문화 시그니처 스카이 트레일",
+      "description": "한산도 → 통영해상케이블카 → 거북선전시관 → 비봉산 → 동피랑마을 순으로 이어지는 경상남도 통영시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "한산도",
+        "통영해상케이블카",
+        "거북선전시관",
+        "비봉산",
+        "동피랑마을"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "통영 역사문화 스카이 트레일",
+      "description": "동피랑마을 → 비봉산 → 거북선전시관 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 통영의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "동피랑마을",
+        "비봉산",
+        "거북선전시관"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "중앙시장 총무례",
+      "lat": 34.847,
+      "lng": 128.431,
+      "specialty": "해물뚝배기",
+      "category": "수산물"
+    },
+    {
+      "name": "통영 한상차림집",
+      "lat": 34.844,
+      "lng": 128.429,
+      "specialty": "유자새우",
+      "category": "향토음식"
+    },
+    {
+      "name": "한산도 본점",
+      "lat": 34.788212,
+      "lng": 128.479032,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "통영해상케이블카",
+        "station_name": "통영해상케이블카 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.8254,
+          128.4348
+        ]
+      },
+      {
+        "target_landmark": "동피랑마을",
+        "station_name": "동피랑마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.844098,
+          128.430306
+        ]
+      },
+      {
+        "target_landmark": "거북선전시관",
+        "station_name": "거북선전시관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.8284,
+          128.4378
+        ]
+      },
+      {
+        "target_landmark": "한산도",
+        "station_name": "통영버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.785982,
+          128.480842
+        ]
+      },
+      {
+        "target_landmark": "비봉산",
+        "station_name": "비봉산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.8374,
+          128.4278
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "통영 중앙 공영주차장",
+        "coordinates": [
+          34.785982,
+          128.480042
+        ],
+        "capacity": 87,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "통영 제2 공영주차장",
+        "coordinates": [
+          34.8262,
+          128.4332
+        ],
+        "capacity": 49,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "통영 제3 공영주차장",
+        "coordinates": [
+          34.8288,
+          128.435
+        ],
+        "capacity": 226,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "통영초등학교 운동장",
+        "coordinates": [
+          34.76202,
+          128.354049
+        ],
+        "capacity": 2300,
+        "address": "경상남도 통영시"
+      },
+      {
+        "name": "통영실내체육관",
+        "coordinates": [
+          34.774329,
+          128.529432
+        ],
+        "capacity": 6500,
+        "address": "경상남도 통영시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "통영해상케이블카",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동피랑마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거북선전시관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한산도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "비봉산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "통영해상케이블카 봄",
+        "동피랑마을 봄"
+      ],
+      "summer": [
+        "한산도 여름",
+        "통영해상케이블카 여름밤"
+      ],
+      "autumn": [
+        "비봉산 단풍",
+        "한산도 가을"
+      ],
+      "winter": [
+        "통영해상케이블카 겨울 조명",
+        "동피랑마을 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "통영해상케이블카 야경",
+        "coordinates": [
+          34.827,
+          128.432
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "동피랑마을 야경",
+        "coordinates": [
+          34.845698,
+          128.427506
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "비봉산 야경",
+        "coordinates": [
+          34.839,
+          128.425
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "통영시는 한산도와 미륵도 등 섬과 항구가 어우러진 남해안 대표 관광 도시로 삼학도 해전과 거북선 문화, 통영해상케이블카가 상징이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Tongyeong-si, Gyeongnam",
+      "landmarks": {
+        "통영해상케이블카": [
+          "Tongyeong Marine Cable Car",
+          "Sea cable car linking Donam-dong and Mireukdo, Tongyeong's signature attraction."
+        ],
+        "동피랑마을": [
+          "Dongpirang Mural Village",
+          "Culture village of murals painted over an old hillside village."
+        ],
+        "거북선전시관": [
+          "Turtle Ship Exhibition Hall",
+          "History hall reproducing and displaying Admiral Yi's turtle ship."
+        ],
+        "한산도": [
+          "Hansando Island",
+          "Historic island of the Hansan victory, famed for Bidam valley and coastal scenery."
+        ],
+        "비봉산": [
+          "Bibongsan Mountain",
+          "Downtown Tongyeong mountain whose pavilion overlooks the harbor."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 統営市",
+      "landmarks": {
+        "통영해상케이블카": [
+          "統営海上ケーブルカー",
+          "道南洞と弥勒島を結ぶ海上ケーブルカー。統営の象徴的な観光名所。"
+        ],
+        "동피랑마을": [
+          "東ピラン村",
+          "古い山村に壁画が描かれた代表的な文化壁画村。"
+        ],
+        "거북선전시관": [
+          "亀船展示館",
+          "忠武公が建造した亀船を再現・展示する歴史展示館。"
+        ],
+        "한산도": [
+          "閑山島",
+          "閑山島大捷が起きた由緒ある島。非陀渓谷と美しい海岸景観で有名。"
+        ],
+        "비봉산": [
+          "飛鳳山",
+          "統営都心にある山。あずまやから統営港を見下ろせる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 统营市",
+      "landmarks": {
+        "통영해상케이블카": [
+          "统营海上缆车",
+          "连接道南洞和弥勒岛的海上缆车，统营的象征性观光名所。"
+        ],
+        "동피랑마을": [
+          "东陂浪壁画村",
+          "旧山坡村落绘满壁画的代表性文化村。"
+        ],
+        "거북선전시관": [
+          "龟船展示馆",
+          "再现并展示忠武公所造龟船的历史展馆。"
+        ],
+        "한산도": [
+          "闲山岛",
+          "闲山岛大捷的历史岛屿，以非陀溪谷和秀丽海岸闻名。"
+        ],
+        "비봉산": [
+          "飞凤山",
+          "统营市区的山，亭中可俯瞰统营港。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.tongyeong.go.kr",
+    "civil_service_center": {
+      "location_name": "통영시청 민원실 앞",
+      "coordinates": [
+        128.423366,
+        34.842851
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "055-1577-0557",
+      "info": "경상남도 통영시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "통영시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.448774,
+      34.592844
+    ],
+    "cctv_zone_count": 118,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "통영 중앙근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "통영 한산대첩축제",
+    "typical_month": 8,
+    "venue_name": "통영 시민운동장",
+    "venue_coords": [
+      128.448674,
+      34.592644
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "통영시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      128.424166,
+      34.845051
+    ],
+    "reservation_url": "https://www.tongyeong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "통영시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.424166,
+      34.845251
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "통영시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.424366,
+      34.845651
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "중앙시장 총무례",
+    "coordinates": [
+      128.431,
+      34.847
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "해물뚝배기 (통영시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=통영시청&goalx=128.423366&goaly=34.842851",
+    "kakaonavi_url": "kakaonavi://navigate?name=통영시청&x=128.423366&y=34.842851&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=통영시청&dlng=128.423366&dlat=34.842851&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:38",
+      "noon_altitude_deg": 55.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:42",
+      "noon_altitude_deg": 78.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:23",
+      "noon_altitude_deg": 55.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:30",
+      "sunset": "17:20",
+      "noon_altitude_deg": 32.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "통영시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.449724,
+          34.593344
+        ],
+        [
+          128.448774,
+          34.592844
+        ],
+        [
+          128.448874,
+          34.593944
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "통영시 해안 카페거리",
+    "anchor_center": [
+      128.422099,
+      34.843784
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 340,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "coastal_promenade"
+  }
+}
