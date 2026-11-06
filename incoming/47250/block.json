@@ -1,0 +1,588 @@
+{
+  "block_code": "47250",
+  "block_name": "경상북도 상주시",
+  "bbox": [
+    127.796417,
+    36.23742,
+    128.341169,
+    36.656764
+  ],
+  "center": [
+    36.447092,
+    128.068793
+  ],
+  "landmarks": [
+    {
+      "name": "경천대",
+      "lat": 36.4582774,
+      "lng": 128.2437677,
+      "category": "경승지/자연",
+      "description": "경천대은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%B2%9C%EB%8C%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 265.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gyegoncheondae.jpg/1280px-Gyegoncheondae.jpg"
+    },
+    {
+      "name": "낙동강",
+      "lat": 36.4232325,
+      "lng": 128.2392457,
+      "category": "하천/자연",
+      "description": "낙동강은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 279.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EB%82%99%EB%8F%99%EA%B0%95.jpg/1280px-%EB%82%99%EB%8F%99%EA%B0%95.jpg"
+    },
+    {
+      "name": "상주자전거박물관",
+      "lat": 36.412474,
+      "lng": 128.11781,
+      "category": "박물관/문화",
+      "description": "상주자전거박물관은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%9E%90%EC%A0%84%EA%B1%B0%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 311.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/5/5a/%EC%83%81%EC%A3%BC_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%B0%95%EB%AC%BC%EA%B4%80.JPG/1280px-%EC%83%81%EC%A3%BC_%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%B0%95%EB%AC%BC%EA%B4%80.JPG"
+    },
+    {
+      "name": "상주시청",
+      "lat": 36.411013,
+      "lng": 128.1591081,
+      "category": "행정/랜드마크",
+      "description": "상주시청은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 296.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sangju_City_Hall.JPG/1280px-Sangju_City_Hall.JPG"
+    },
+    {
+      "name": "상주시장",
+      "lat": 36.447092049999995,
+      "lng": 128.06879295,
+      "category": "시장/먹거리",
+      "description": "상주시장은(는) 경상북도 상주시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EC%A3%BC%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 141.2
+      }
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "상주 자연 힐링 시그니처 에어리얼 투어",
+      "description": "상주시장 → 상주자전거박물관 → 상주시청 → 낙동강 → 경천대 순으로 이어지는 경상북도 상주시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "상주시장",
+        "상주자전거박물관",
+        "상주시청",
+        "낙동강",
+        "경천대"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "상주 그린 랜드스케이프 플라이트",
+      "description": "경천대 → 낙동강 → 상주시청 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 상주의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "경천대",
+        "낙동강",
+        "상주시청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "상주 도심 스카이라인 크루즈",
+      "description": "상주시청 → 상주자전거박물관 → 상주시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 상주의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "상주시청",
+        "상주자전거박물관",
+        "상주시장"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "상주 큰마당식당",
+      "lat": 36.446882,
+      "lng": 128.069213,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "상주 옛맛식당",
+      "lat": 36.446742,
+      "lng": 128.068583,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "상주 골목식당",
+      "lat": 36.447302,
+      "lng": 128.068793,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "상주 솥뚜껑가게",
+      "lat": 36.446602,
+      "lng": 128.068163,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "경천대",
+        "station_name": "경천대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.460677,
+          128.244168
+        ]
+      },
+      {
+        "target_landmark": "낙동강",
+        "station_name": "낙동강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.425632,
+          128.239646
+        ]
+      },
+      {
+        "target_landmark": "상주자전거박물관",
+        "station_name": "상주자전거박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.414874,
+          128.11821
+        ]
+      },
+      {
+        "target_landmark": "상주시청",
+        "station_name": "상주시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.413413,
+          128.159508
+        ]
+      },
+      {
+        "target_landmark": "상주시장",
+        "station_name": "상주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.448692,
+          128.069593
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "상주 중앙 공영주차장",
+        "coordinates": [
+          36.448292,
+          128.066393
+        ],
+        "capacity": 196,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "상주 제2 공영주차장",
+        "coordinates": [
+          36.410874,
+          128.11741
+        ],
+        "capacity": 291,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "상주 제3 공영주차장",
+        "coordinates": [
+          36.411413,
+          128.159908
+        ],
+        "capacity": 297,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "상주초등학교 운동장",
+        "coordinates": [
+          36.407322,
+          128.228363
+        ],
+        "capacity": 4800,
+        "address": "경상북도 상주시"
+      },
+      {
+        "name": "상주실내체육관",
+        "coordinates": [
+          36.40604,
+          128.249831
+        ],
+        "capacity": 2200,
+        "address": "경상북도 상주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "경천대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙동강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상주자전거박물관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상주시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상주시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "경천대 봄",
+        "낙동강 봄"
+      ],
+      "summer": [
+        "낙동강 여름",
+        "상주자전거박물관 여름"
+      ],
+      "autumn": [
+        "경천대 단풍",
+        "낙동강 억새"
+      ],
+      "winter": [
+        "경천대 설경",
+        "상주시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "경천대 야경",
+        "coordinates": [
+          36.458277,
+          128.243768
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "낙동강 야경",
+        "coordinates": [
+          36.423232,
+          128.239246
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "상주시는 낙동강과 경천대, 상주자전거박물관이 자리한 경북 서부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sangju-si, Gyeongbuk",
+      "landmarks": {
+        "경천대": [
+          "Gyeongcheondae Cliffs",
+          "Signature scenic attraction of Sangju-si, Gyeongbuk."
+        ],
+        "낙동강": [
+          "Nakdong River",
+          "Signature river attraction of Sangju-si, Gyeongbuk."
+        ],
+        "상주자전거박물관": [
+          "Sangju Bicycle Museum",
+          "Signature museum attraction of Sangju-si, Gyeongbuk."
+        ],
+        "상주시청": [
+          "Sangju City Hall",
+          "Administrative center of Sangju-si, Gyeongbuk."
+        ],
+        "상주시장": [
+          "Sangju Market",
+          "Signature market attraction of Sangju-si, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 尙州市",
+      "landmarks": {
+        "경천대": [
+          "鏡湖台",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "낙동강": [
+          "洛東江",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "상주자전거박물관": [
+          "尚州自転車博物館",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "상주시청": [
+          "尚州市庁",
+          "慶尚北道尚州市を代表する名所。"
+        ],
+        "상주시장": [
+          "尚州市場",
+          "慶尚北道尚州市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 尚州市",
+      "landmarks": {
+        "경천대": [
+          "镜湖台",
+          "庆尚北道尚州市的代表性胜景。"
+        ],
+        "낙동강": [
+          "洛东江",
+          "庆尚北道尚州市的代表性河流。"
+        ],
+        "상주자전거박물관": [
+          "尚州自行车博物馆",
+          "庆尚北道尚州市的代表性博物馆。"
+        ],
+        "상주시청": [
+          "尚州市厅",
+          "庆尚北道尚州市的行政中心。"
+        ],
+        "상주시장": [
+          "尚州市场",
+          "庆尚北道尚州市的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sangju.go.kr",
+    "civil_service_center": {
+      "location_name": "상주시청 민원실 앞",
+      "coordinates": [
+        128.158127,
+        36.398096
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-533-2001",
+      "info": "경상북도 상주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "상주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.068493,
+      36.446592
+    ],
+    "cctv_zone_count": 66,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "상주 시민공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "상주 곶감축제",
+    "typical_month": 12,
+    "venue_name": "낙동강 상주국민체육공원",
+    "venue_coords": [
+      128.069293,
+      36.447692
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "상주시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.157227,
+      36.396496
+    ],
+    "reservation_url": "https://www.sangju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "상주시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.158127,
+      36.399096
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "상주시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.160327,
+      36.397796
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "상주 솥뚜껑가게",
+    "coordinates": [
+      128.068163,
+      36.446602
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "편육무침 (상주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=상주시청&goalx=128.158127&goaly=36.398096",
+    "kakaonavi_url": "kakaonavi://navigate?name=상주시청&x=128.158127&y=36.398096&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=상주시청&dlng=128.158127&dlat=36.398096&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:31",
+      "sunset": "18:39",
+      "noon_altitude_deg": 53.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:49",
+      "noon_altitude_deg": 77.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:16",
+      "sunset": "18:24",
+      "noon_altitude_deg": 53.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:36",
+      "sunset": "17:16",
+      "noon_altitude_deg": 30.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "상주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.067043,
+          36.446492
+        ],
+        [
+          128.068493,
+          36.446592
+        ],
+        [
+          128.067493,
+          36.445592
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "상주시 중심상업거리",
+    "anchor_center": [
+      128.159394,
+      36.398363
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 90,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
