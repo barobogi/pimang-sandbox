@@ -446,7 +446,7 @@
         36.415034
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "054-730-6114",
@@ -459,7 +459,8 @@
       129.306433,
       36.470262
     ],
-    "cctv_zone_count": 216
+    "cctv_zone_count": 216,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "영덕군민공원",
