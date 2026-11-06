@@ -1,8 +1,16 @@
 {
   "block_code": "26350",
   "block_name": "부산광역시 해운대구",
-  "bbox": [129.1100, 35.1400, 129.2300, 35.2400],
-  "center": [35.1631, 129.1636],
+  "bbox": [
+    129.11,
+    35.14,
+    129.23,
+    35.24
+  ],
+  "center": [
+    35.1631,
+    129.1636
+  ],
   "landmarks": [
     {
       "name": "해운대해수욕장",
@@ -45,6 +53,67 @@
       "source_url": "https://www.haeundae.go.kr"
     }
   ],
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "해운대초등학교 운동장",
+        "coordinates": [
+          35.154072,
+          129.172795
+        ],
+        "capacity": 5200,
+        "address": "부산광역시 해운대구"
+      },
+      {
+        "name": "해운대실내체육관",
+        "coordinates": [
+          35.151215,
+          129.143137
+        ],
+        "capacity": 2300,
+        "address": "부산광역시 해운대구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "해운대해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "누리마루 APEC하우스",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영화의전당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신세계백화점 센텀시티점",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송정해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "해운대구는 신라 말기 석학 최치원 선생이 동백섬의 비경에 감탄하여 바위에 '해운대'를 새긴 것에서 지명이 유래하였습니다. 아름다운 자연 해안경관과 전통 온천, 그리고 현대적인 센텀시티와 마린시티의 MICE·영상 산업이 공존하는 글로벌 해양 문화 도시입니다.",
   "data_sources": [
     {
