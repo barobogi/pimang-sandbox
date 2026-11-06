@@ -418,10 +418,11 @@
     "civil_service_center": {
       "location_name": "아산시청 민원실 앞",
       "coordinates": [
-        126.973581,
-        36.794556
+        127.002558,
+        36.789944
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "041-540-2114",
