@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Boryeong-si, Chungnam",
+      "landmarks": {
+        "대천해수욕장": [
+          "Daecheon Beach",
+          "Signature beach attraction of Boryeong-si, Chungnam."
+        ],
+        "무창포해수욕장": [
+          "Muchangpo Beach",
+          "Signature beach attraction of Boryeong-si, Chungnam."
+        ],
+        "성주산": [
+          "Seongjusan Mountain",
+          "Signature mountain attraction of Boryeong-si, Chungnam."
+        ],
+        "보령시청": [
+          "Boryeong City Hall",
+          "Administrative center of Boryeong-si, Chungnam."
+        ],
+        "보령시장": [
+          "Boryeong Market",
+          "Signature market attraction of Boryeong-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 保寧市",
+      "landmarks": {
+        "대천해수욕장": [
+          "大川海水浴場",
+          "忠清南道保寧市を代表する名所。"
+        ],
+        "무창포해수욕장": [
+          "武倉浦海水浴場",
+          "忠清南道保寧市を代表する名所。"
+        ],
+        "성주산": [
+          "聖主山",
+          "忠清南道保寧市を代表する名所。"
+        ],
+        "보령시청": [
+          "保寧市庁",
+          "忠清南道保寧市を代表する名所。"
+        ],
+        "보령시장": [
+          "保寧市場",
+          "忠清南道保寧市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 保宁市",
+      "landmarks": {
+        "대천해수욕장": [
+          "大川海水浴场",
+          "忠清南道保宁市的代表性海滨。"
+        ],
+        "무창포해수욕장": [
+          "武仓浦海水浴场",
+          "忠清南道保宁市的代表性海滨。"
+        ],
+        "성주산": [
+          "圣主山",
+          "忠清南道保宁市的代表性山峦。"
+        ],
+        "보령시청": [
+          "保宁市厅",
+          "忠清南道保宁市的行政中心。"
+        ],
+        "보령시장": [
+          "保宁市场",
+          "忠清南道保宁市的代表性市场。"
+        ]
+      }
+    }
   }
 }
