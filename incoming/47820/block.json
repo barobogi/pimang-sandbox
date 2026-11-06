@@ -267,6 +267,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "운문사 봄",
+        "청도천 봄"
+      ],
+      "summer": [
+        "청도천 여름",
+        "운문사 계곡 여름"
+      ],
+      "autumn": [
+        "운문사 단풍",
+        "청도천 가을"
+      ],
+      "winter": [
+        "운문사 설경",
+        "청도소싸움경기장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청도천 야경",
+        "coordinates": [
+          35.661696,
+          128.719843
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "운문사 야경",
+        "coordinates": [
+          35.661096,
+          128.960287
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
   "data_sources": [
     {
