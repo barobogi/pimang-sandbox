@@ -1,0 +1,582 @@
+{
+  "block_code": "28177",
+  "block_name": "인천광역시 미추홀구",
+  "bbox": [
+    126.629047,
+    37.429981,
+    126.883,
+    37.48407
+  ],
+  "center": [
+    37.457026,
+    126.756023
+  ],
+  "landmarks": [
+    {
+      "name": "문학산",
+      "lat": 37.4315378,
+      "lng": 126.6770862,
+      "category": "산/자연",
+      "description": "미추홀구 문학동에 있는 해발 295m의 산으로 등산로와 산책로가 조성된 주민 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%95%99%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 67.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%EC%9D%B8%EC%B2%9C%EB%AC%B8%ED%95%99%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0_2024.jpg/1280px-%EC%9D%B8%EC%B2%9C%EB%AC%B8%ED%95%99%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0_2024.jpg"
+    },
+    {
+      "name": "인천SSG랜더스필드",
+      "lat": 37.4368743,
+      "lng": 126.6934004,
+      "category": "체육/야구",
+      "description": "문학동에 위치한 프로야구 인천의 홈구장으로 대형 스포츠 랜드마크다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9CSSG%EB%9E%9C%EB%8D%94%EC%8A%A4%ED%95%84%EB%93%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 67.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/20240504_IncheonSSGLandersField.jpg/1280px-20240504_IncheonSSGLandersField.jpg"
+    },
+    {
+      "name": "인하대학교",
+      "lat": 37.4494431,
+      "lng": 126.6534446,
+      "category": "교육/캠퍼스",
+      "description": "용현동에 위치한 사립 종합대학으로 항공·조선 분야로 유명한 인천 대표 명문대다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 84.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_University_Main_Hall.jpg/1280px-Korea_University_Main_Hall.jpg"
+    },
+    {
+      "name": "주안역",
+      "lat": 37.4633304,
+      "lng": 126.6804067,
+      "category": "교통/허브",
+      "description": "인천 지하철 1호선과 수도권 전철 1호선이 환승하는 서부 인천의 교통 요충지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%95%88%EC%97%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 96.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Korail_Gyeongin_Line_Juan_Station_Sign.JPG"
+    },
+    {
+      "name": "주안 로데오거리",
+      "lat": 37.451,
+      "lng": 126.883,
+      "category": "상권/문화",
+      "description": "주안역 남쪽에 형성된 청년 상권 거리로 음식점과 카페가 밀집한 먹거리 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 273.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%EC%B2%AD_2025%EB%85%84_12%EC%9B%94.jpg/1280px-%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%EC%B2%AD_2025%EB%85%84_12%EC%9B%94.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "미추홀 도심 하이라이트 시그니처 스카이 투어",
+      "description": "인천SSG랜더스필드 → 문학산 → 인하대학교 → 주안역 → 주안 로데오거리 순으로 이어지는 인천광역시 미추홀구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "인천SSG랜더스필드",
+        "문학산",
+        "인하대학교",
+        "주안역",
+        "주안 로데오거리"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "미추홀 도심 스카이라인 크루즈",
+      "description": "인천SSG랜더스필드 → 주안역 → 인하대학교 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 미추홀의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "인천SSG랜더스필드",
+        "주안역",
+        "인하대학교"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "인천SSG랜더스필드 큰마당식당",
+      "lat": 37.437224,
+      "lng": 126.69284,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "주안역 본점",
+      "lat": 37.46284,
+      "lng": 126.680827,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    },
+    {
+      "name": "문학산 큰마당식당",
+      "lat": 37.431538,
+      "lng": 126.677226,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "인하대학교 본점",
+      "lat": 37.450143,
+      "lng": 126.653585,
+      "specialty": "꼬막무침",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "문학산",
+        "station_name": "문학산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.431938,
+          126.675486
+        ]
+      },
+      {
+        "target_landmark": "인천SSG랜더스필드",
+        "station_name": "주안역",
+        "line": "수도권 1호선·인천 2호선",
+        "exit_no": 9,
+        "walk_minutes": 49,
+        "coordinates": [
+          37.4654,
+          126.6782
+        ]
+      },
+      {
+        "target_landmark": "인하대학교",
+        "station_name": "주안역",
+        "line": "수도권 1호선·인천 2호선",
+        "exit_no": 9,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.4654,
+          126.6782
+        ]
+      },
+      {
+        "target_landmark": "주안역",
+        "station_name": "주안역",
+        "line": "수도권 1호선·인천 2호선",
+        "exit_no": 9,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.4654,
+          126.6782
+        ]
+      },
+      {
+        "target_landmark": "주안 로데오거리",
+        "station_name": "주안 로데오거리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.4514,
+          126.8814
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "미추홀 중앙 공영주차장",
+        "coordinates": [
+          37.437274,
+          126.6954
+        ],
+        "capacity": 188,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "미추홀 제2 공영주차장",
+        "coordinates": [
+          37.46373,
+          126.680407
+        ],
+        "capacity": 175,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "미추홀 제3 공영주차장",
+        "coordinates": [
+          37.431538,
+          126.674686
+        ],
+        "capacity": 241,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "미추홀초등학교 운동장",
+        "coordinates": [
+          37.431063,
+          126.648136
+        ],
+        "capacity": 1200,
+        "address": "인천광역시 미추홀구"
+      },
+      {
+        "name": "미추홀실내체육관",
+        "coordinates": [
+          37.431063,
+          126.709708
+        ],
+        "capacity": 2800,
+        "address": "인천광역시 미추홀구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "문학산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인천SSG랜더스필드",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인하대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "주안역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주안 로데오거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "문학산 봄 진달래",
+        "인하대 캠퍼스 봄"
+      ],
+      "summer": [
+        "문학산 여름",
+        "주안 로데오거리 여름"
+      ],
+      "autumn": [
+        "문학산 단풍",
+        "인하대 캠퍼스 가을"
+      ],
+      "winter": [
+        "주안역 겨울 조명",
+        "문학산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "문학산 야경",
+        "coordinates": [
+          37.431538,
+          126.677086
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "인천SSG랜더스필드 야경",
+        "coordinates": [
+          37.436874,
+          126.6934
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "미추홀구는 2018년 남구에서 개편된 인천의 자치구로 옛 백제 미추홀 도성 유래 이름을 쓰며 주안과 숭의·용현 상권, 문학산과 인천 문학경기장이 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Michuhol-gu, Incheon",
+      "landmarks": {
+        "문학산": [
+          "Munhaksan Mountain",
+          "295 m peak in Munhak-dong with trails, a favorite residents' climb."
+        ],
+        "인천SSG랜더스필드": [
+          "Incheon SSG Landers Field",
+          "Home ballpark of Incheon's pro baseball club, a large sports landmark."
+        ],
+        "인하대학교": [
+          "Inha University",
+          "Private university in Yonghyeon-dong, famed for aviation and shipping and Incheon's top school."
+        ],
+        "주안역": [
+          "Juan Station",
+          "Key transit hub of western Incheon, transferring between Incheon Metro Line 1 and Line 1 of the capital network."
+        ],
+        "주안 로데오거리": [
+          "Juan Rodeo Street",
+          "Youth shopping street south of Juan Station, packed with eateries and cafes."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 弥鄒忽区",
+      "landmarks": {
+        "문학산": [
+          "文鶴山",
+          "弥鄒忽区文鶴洞にある標高295メートルの山。登山道と散歩道が整備された住民の名山。"
+        ],
+        "인천SSG랜더스필드": [
+          "仁川SSGランダースフィールド",
+          "文鶴洞にあるプロ野球・仁川のホーム球場。大型スポーツランドマーク。"
+        ],
+        "인하대학교": [
+          "仁荷大学校",
+          "龍現洞に位置する私立総合大学。航空・造船分野で有名な仁川を代表する名門大学。"
+        ],
+        "주안역": [
+          "朱安駅",
+          "仁川地下鉄1号線と首都圏電鉄1号線が乗り換えできる西部仁川の交通要衝。"
+        ],
+        "주안 로데오거리": [
+          "朱安ロデオ通り",
+          "朱安駅の南に形成された若者商圏の街。飲食店とカフェが密集するグルメの名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 弥邹忽区",
+      "landmarks": {
+        "문학산": [
+          "文鹤山",
+          "弥邹忽区文鹤洞海拔295米的山，建有登山步道，深受居民喜爱。"
+        ],
+        "인천SSG랜더스필드": [
+          "仁川SSG登陆者球场",
+          "位于文鹤洞的职棒仁川主场，大型体育地标。"
+        ],
+        "인하대학교": [
+          "仁荷大学",
+          "位于龙现洞的私立综合大学，以航空造船闻名，仁川的代表名校。"
+        ],
+        "주안역": [
+          "朱安站",
+          "仁川地铁1号线与首都圈电铁1号线换乘的西部仁川交通枢纽。"
+        ],
+        "주안 로데오거리": [
+          "朱安罗德奥街",
+          "朱安站南侧的青年商圈街区，餐厅咖啡馆云集。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.michuhol.go.kr",
+    "civil_service_center": {
+      "location_name": "미추홀구청 민원실 앞",
+      "coordinates": [
+        126.65237,
+        37.461174
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "032-887-1011",
+      "info": "인천광역시 미추홀구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "미추홀구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.755724,
+      37.457425
+    ],
+    "cctv_zone_count": 218,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "문학산공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "미추홀구민축제",
+    "typical_month": 10,
+    "venue_name": "미추홀구청 광장",
+    "venue_coords": [
+      126.755923,
+      37.457625
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "미추홀구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.64987,
+      37.459074
+    ],
+    "reservation_url": "https://www.michuhol.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "미추홀구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.65067,
+      37.461074
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "미추홀구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.65007,
+      37.459274
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "인하대학교 본점",
+    "coordinates": [
+      126.653585,
+      37.450143
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "꼬막무침 (미추홀구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=미추홀구청&goalx=126.652370&goaly=37.461174",
+    "kakaonavi_url": "kakaonavi://navigate?name=미추홀구청&x=126.652370&y=37.461174&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=미추홀구청&dlng=126.652370&dlat=37.461174&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:45",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:57",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:30",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "미추홀구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.754974,
+          37.457525
+        ],
+        [
+          126.755724,
+          37.457425
+        ],
+        [
+          126.755674,
+          37.457625
+        ]
+      ],
+      "cctv_linked_count": 10,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "미추홀구 중심상업거리",
+    "anchor_center": [
+      126.651503,
+      37.462774
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 349,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
