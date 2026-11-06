@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "무안초등학교 운동장",
+        "coordinates": [
+          34.851254,
+          126.550523
+        ],
+        "capacity": 6600,
+        "address": "전라남도 무안군"
+      },
+      {
+        "name": "무안실내체육관",
+        "coordinates": [
+          34.989102,
+          126.405101
+        ],
+        "capacity": 2400,
+        "address": "전라남도 무안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "회산백련지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "무안공항",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "초의선사유적지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "무안군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "무안시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "무안군은 회산백련지와 목포공항, 초의선사 유적이 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
