@@ -227,6 +227,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강북초등학교 운동장",
+        "coordinates": [
+          37.627681,
+          127.032536
+        ],
+        "capacity": 6400,
+        "address": "서울특별시 강북구"
+      },
+      {
+        "name": "강북실내체육관",
+        "coordinates": [
+          37.634792,
+          127.013323
+        ],
+        "capacity": 6700,
+        "address": "서울특별시 강북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수유리 먹거리 골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북한산우이절리공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "삼각산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "미아리고개",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "우이천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "강북구는 미아리와 수유리를 중심으로 한 도봉구에서 1995년 분리된 자치구로, 우이천과 북한산 자락이 자리하고 번데기와 막국수 먹거리 문화로 유명하다.",
   "data_sources": [
     {
