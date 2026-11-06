@@ -353,5 +353,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Seoul",
+      "landmarks": {
+        "명동": [
+          "Myeongdong",
+          "Korea's flagship shopping and beauty district, bustling with fashion and cosmetics stores."
+        ],
+        "N서울타워": [
+          "N Seoul Tower",
+          "Iconic observation tower atop Namsan offering panoramic views of Seoul."
+        ],
+        "덕수궁": [
+          "Deoksugung Palace",
+          "Historic palace where Western-style buildings and traditional royal architecture coexist."
+        ],
+        "명동성당": [
+          "Myeongdong Cathedral",
+          "Symbol of Korean Catholicism and a historic site of the democracy movement."
+        ],
+        "동대문시장": [
+          "Dongdaemun Market",
+          "Epicenter of Korea's 24-hour fashion wholesale and retail commerce."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 中区",
+      "landmarks": {
+        "명동": [
+          "明洞",
+          "ファッションと美容の観光スポットとして韓国を代表する繁華街。"
+        ],
+        "N서울타워": [
+          "Nソウルタワー",
+          "南山頂上に立つ展望タワーで、ソウルのシンボル。"
+        ],
+        "덕수궁": [
+          "徳寿宮",
+          "近代洋風建築と伝統宮殿が共存する由緒ある宮殿。"
+        ],
+        "명동성당": [
+          "明洞聖堂",
+          "韓国カトリックの象徴であり、民主化運動の歴史的現場。"
+        ],
+        "동대문시장": [
+          "東大門市場",
+          "24時間眠らないファッション卸・小売商圏の中心。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 中区",
+      "landmarks": {
+        "명동": [
+          "明洞",
+          "韩国代表性的时尚美妆观光商圈，人流如织。"
+        ],
+        "N서울타워": [
+          "N首尔塔",
+          "立于南山之巅的观景塔，是首尔的标志性建筑。"
+        ],
+        "덕수궁": [
+          "德寿宫",
+          "近代西式建筑与传统宫阙共存的历史宫殿。"
+        ],
+        "명동성당": [
+          "明洞圣堂",
+          "韩国天主教的象征，也是民主化运动的历史现场。"
+        ],
+        "동대문시장": [
+          "东大门市场",
+          "24小时不打烊的时尚批发零售商业中心。"
+        ]
+      }
+    }
   }
 }
