@@ -140,6 +140,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "학성공원",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 19,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "울산 병영성",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 44,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "울산박물관",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 17,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "태화강",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "최현배 생가",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 20,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "중구 중앙 공영주차장",
+        "coordinates": [
+          35.552038,
+          129.323122
+        ],
+        "capacity": 177,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "중구 제2 공영주차장",
+        "coordinates": [
+          35.5548,
+          129.3354
+        ],
+        "capacity": 255,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "울산 중구는 울산의 원도심으로 병영성과 학성공원, 울산박물관이 자리한 울산 중심 구이다.",
   "data_sources": [
     {
