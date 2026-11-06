@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gyeongju-si, Gyeongbuk",
+      "landmarks": {
+        "불국사": [
+          "Bulguksa Temple",
+          "Silla-era temple, a UNESCO site famed for Seokgatap and Dabotap pagodas."
+        ],
+        "석굴암": [
+          "Seokguram Grotto",
+          "Unified Silla-era grotto temple, a UNESCO site famed for its main Buddha."
+        ],
+        "첨성대": [
+          "Cheomseongdae Observatory",
+          "Silla stone structure known as East Asia's oldest observatory."
+        ],
+        "동궁과 월지": [
+          "Donggung Palace and Wolji Pond",
+          "Silla secondary palace site famed for its night views over the pond."
+        ],
+        "대릉원": [
+          "Daereungwon Tomb Complex",
+          "Cluster of dense Silla royal tombs."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 慶州市",
+      "landmarks": {
+        "불국사": [
+          "仏国寺",
+          "新羅時代に創建された代表的な寺。釈迦塔と多宝塔で有名。ユネスコ登録。"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "統一新羅時代を代表する石窟寺院。本尊仏で有名。ユネスコ登録。"
+        ],
+        "첨성대": [
+          "瞻星台",
+          "東洋最古の天文台とされる新羅時代の石造建築。"
+        ],
+        "동궁과 월지": [
+          "東宮と月池",
+          "新羅時代の離宮跡。月池の夜景で有名な代表的な文化遺跡。"
+        ],
+        "대릉원": [
+          "大陵苑",
+          "新羅の王陵が密集する古墳群。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 庆州市",
+      "landmarks": {
+        "불국사": [
+          "佛国寺",
+          "新罗时代创建的代表性古刹，以释迦塔和多宝塔闻名，列入世界遗产。"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "统一新罗时代的代表性石窟寺院，以本尊佛闻名，列入世界遗产。"
+        ],
+        "첨성대": [
+          "瞻星台",
+          "被认为是东方最古老天文台的新罗石造建筑。"
+        ],
+        "동궁과 월지": [
+          "东宫与月池",
+          "新罗时代行宫旧址，以月池夜景闻名的代表性文化遗迹。"
+        ],
+        "대릉원": [
+          "大陵苑",
+          "新罗王陵密集的古坟群。"
+        ]
+      }
+    }
   }
 }
