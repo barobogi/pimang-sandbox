@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부소산성",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 29,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "낙화암",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 34,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "정림사지",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 13,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "부여군청",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "궁남지",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부여 중앙 공영주차장",
+        "coordinates": [
+          36.270485,
+          126.912605
+        ],
+        "capacity": 44,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "부여 제2 공영주차장",
+        "coordinates": [
+          36.275313,
+          126.911621
+        ],
+        "capacity": 226,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "부여 제3 공영주차장",
+        "coordinates": [
+          36.278863,
+          126.916008
+        ],
+        "capacity": 175,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부여군은 백제 사비 도읍이었던 유서 깊은 고장으로 부소산성과 낙화암, 정림사지가 유네스코 세계유산으로 등재되었다.",
   "data_sources": [
     {
