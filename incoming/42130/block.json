@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Wonju-si, Gangwon",
+      "landmarks": {
+        "치악산": [
+          "Chiaksan Mountain",
+          "Yeongseo's highest peak at 1,288 m and main summit of Chiaksan National Park."
+        ],
+        "원주중앙시장": [
+          "Wonju Jungang Market",
+          "Traditional market in central Wonju, the heart of the old Wonju commerce."
+        ],
+        "봄내공원": [
+          "Bomnae Park",
+          "Signature neighborhood park in central Wonju, famed for cherry blossoms."
+        ],
+        "원주미로공원": [
+          "Wonju Maze Land",
+          "Korea's only natural maze park made of trees."
+        ],
+        "문막응원공성지": [
+          "Munmak Eungwon Fortress Site",
+          "Joseon-era fortress site near Munmak, a nationally designated fortress heritage."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 原州市",
+      "landmarks": {
+        "치악산": [
+          "雉岳山",
+          "標高1288メートルの嶺西最高峰。雉岳山国立公園の主峰。"
+        ],
+        "원주중앙시장": [
+          "原州中央市場",
+          "原州都心の中央にある伝統市場。昔の原州商圏の中心。"
+        ],
+        "봄내공원": [
+          "ポムネ公園",
+          "原州都心に造られた代表的な近隣公園。桜の名所。"
+        ],
+        "원주미로공원": [
+          "原州迷路公園",
+          "木を植えて作った国内唯一の自然迷路公園。"
+        ],
+        "문막응원공성지": [
+          "文幕応元城里址",
+          "朝鮮時代の原州付近の応元城里跡。全国の鉄城遺跡。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 原州市",
+      "landmarks": {
+        "치악산": [
+          "雉岳山",
+          "海拔1288米的岭西最高峰，雉岳山国立公园主峰。"
+        ],
+        "원주중앙시장": [
+          "原州中央市场",
+          "位于原州市中心的传统市场，旧原州商圈的核心。"
+        ],
+        "봄내공원": [
+          "春内公园",
+          "原州市中心的代表性近邻公园，赏樱胜地。"
+        ],
+        "원주미로공원": [
+          "原州迷宫公园",
+          "用树木种植而成的韩国唯一自然迷宫公园。"
+        ],
+        "문막응원공성지": [
+          "文幕应元城里址",
+          "朝鲜时代原州附近的应元城遗址。"
+        ]
+      }
+    }
   }
 }
