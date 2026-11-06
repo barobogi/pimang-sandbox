@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양양초등학교 운동장",
+        "coordinates": [
+          38.070569,
+          128.711056
+        ],
+        "capacity": 1800,
+        "address": "강원특별자치도 양양군"
+      },
+      {
+        "name": "양양실내체육관",
+        "coordinates": [
+          38.17834,
+          128.692893
+        ],
+        "capacity": 3500,
+        "address": "강원특별자치도 양양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "낙산해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙산사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽도해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양양군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남대천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "양양군은 낙산해수욕장과 서핑 해변, 낙산사가 자리한 강원 동해안 북부의 군이다.",
   "data_sources": [
     {
