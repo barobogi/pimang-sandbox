@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongdong-gun, Chungbuk",
+      "landmarks": {
+        "노근리평화공원": [
+          "Nogunri Peace Park",
+          "Peace park and visitor center commemorating the Korean War Nogunri incident."
+        ],
+        "반야사": [
+          "Banyasa Temple",
+          "Temple at the foot of Baekhwasan in Hwanggan-myeon, famed for its 500-year crape myrtle and Munsujeon Hall."
+        ],
+        "물한계곡": [
+          "Mulhan Valley",
+          "Pristine forest valley with some 20 km of deep gorges below Minjujisan, one of Korea's top ecotourism spots."
+        ],
+        "강선대": [
+          "Gangseondae Pavilion",
+          "Hexagonal pavilion on a Geumgang riverside rock, counted as the finest of the Yangsan Eight Views."
+        ],
+        "난계국악기제작촌": [
+          "Nangye Gugak Instrument Village",
+          "Gugak landmark with the birthplace of pansori master Nangye Park Yeon and an instrument-making experience village."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 永同郡",
+      "landmarks": {
+        "노근리평화공원": [
+          "老斤里平和公園",
+          "6・25戦争の老斤里事件を顕彰して造られた平和公園とビジターセンター。"
+        ],
+        "반야사": [
+          "般若寺",
+          "黄澗面白華山のふもとの寺。500年の百日紅と文殊殿が有名。"
+        ],
+        "물한계곡": [
+          "ムルハン渓谷",
+          "民周知山のふもとに20キロ余りの深い谷をなす原生林の渓谷。国内有数のエコ観光地。"
+        ],
+        "강선대": [
+          "姜仙台",
+          "楊山八景の中で最も美しいとされる錦江の岩の上の六角形のあずまや。"
+        ],
+        "난계국악기제작촌": [
+          "蘭渓国楽器製作村",
+          "パンソリの名唱・蘭渓朴燕先生の生家と楽器製作体験村が造られた国楽の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 永同郡",
+      "landmarks": {
+        "노근리평화공원": [
+          "老斤里和平公园",
+          "为纪念朝鲜战争老斤里事件而建的和平公园和访客中心。"
+        ],
+        "반야사": [
+          "般若寺",
+          "黄澗面白华山麓的古刹，以500年紫薇和文殊殿闻名。"
+        ],
+        "물한계곡": [
+          "物汉溪谷",
+          "民周知山麓绵延20余公里的原始林深谷，国内首屈一指的生态旅游地。"
+        ],
+        "강선대": [
+          "姜仙台",
+          "锦江岩石上的六角亭，被誉为杨山八景之最。"
+        ],
+        "난계국악기제작촌": [
+          "兰溪国乐器制作村",
+          "建有板索里名家兰溪朴燕先生故居和乐器制作体验村的国乐名胜。"
+        ]
+      }
+    }
   }
 }
