@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "해미읍성 봄",
+        "서산마애삼존불 봄"
+      ],
+      "summer": [
+        "천수만 여름",
+        "해미읍성 여름"
+      ],
+      "autumn": [
+        "해미읍성 단풍",
+        "천수만 가을"
+      ],
+      "winter": [
+        "천수만 겨울 철새",
+        "해미읍성 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "해미읍성 야경",
+        "coordinates": [
+          36.713174,
+          126.549093
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "천수만 야경",
+        "coordinates": [
+          36.619363,
+          126.391402
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "서산시는 서산마애삼존불과 해미읍성, 간척지 농업이 어우러진 충남 서북부의 도시이다.",
   "data_sources": [
     {
