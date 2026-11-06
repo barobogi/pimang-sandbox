@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Damyang-gun, Jeonnam",
+      "landmarks": {
+        "메타세쿼이아길": [
+          "Metasequoia Road",
+          "Korea's largest metasequoia-lined road, also a famous drama site."
+        ],
+        "죽녹원": [
+          "Juknokwon Bamboo Garden",
+          "Damyang's signature bamboo garden."
+        ],
+        "관방제": [
+          "Gwanbangje Reservoir",
+          "Joseon-era embankment and storied landmark of Damyang-eup."
+        ],
+        "소쇄원": [
+          "Soswaewon Garden",
+          "Representative Joseon-era seowon garden."
+        ],
+        "가사문학공원": [
+          "Gasa Literature Park",
+          "Theme park honoring gasa literature, Damyang's cultural landmark."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 潭陽郡",
+      "landmarks": {
+        "메타세쿼이아길": [
+          "メタセコイア並木",
+          "国内最大のメタセコイア並木道。ドラマ撮影地としても有名。"
+        ],
+        "죽녹원": [
+          "竹緑園",
+          "竹林が広がる潭陽を代表する竹の公園。"
+        ],
+        "관방제": [
+          "官防堤",
+          "朝鮮時代に造られた堤防。潭陽邑の由緒ある名所。"
+        ],
+        "소쇄원": [
+          "瀟灑園",
+          "朝鮮時代の別墅庭園を代表する名所。"
+        ],
+        "가사문학공원": [
+          "歌辞文学公園",
+          "歌辞文学を記念するテーマ公園。潭陽を代表する文化名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 潭阳郡",
+      "landmarks": {
+        "메타세쿼이아길": [
+          "水杉大道",
+          "国内最大的水杉林荫道，也是著名影视取景地。"
+        ],
+        "죽녹원": [
+          "竹绿园",
+          "竹林绵延的潭阳代表性竹园。"
+        ],
+        "관방제": [
+          "官防堤",
+          "朝鲜时代修建的堤坝，潭阳邑历史名胜。"
+        ],
+        "소쇄원": [
+          "潇洒园",
+          "朝鲜时代别墅庭园的代表性名胜。"
+        ],
+        "가사문학공원": [
+          "歌辞文学公园",
+          "纪念歌辞文学的主题公园，潭阳代表性文化名胜。"
+        ]
+      }
+    }
   }
 }
