@@ -337,5 +337,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangju-si, Gyeonggi",
+      "landmarks": {
+        "남한산성": [
+          "Namhansanseong Fortress",
+          "Joseon-era mountain fortress inscribed as a UNESCO World Heritage Site."
+        ],
+        "곤지암신도시": [
+          "Gonjiam New Town",
+          "Signature residential new town of Gwangju."
+        ],
+        "광주시청": [
+          "Gwangju City Hall",
+          "Administrative center of Gyeonggi Gwangju."
+        ],
+        "경안천": [
+          "Gyeongancheon Stream",
+          "Representative stream flowing through Gwangju."
+        ],
+        "초부지구": [
+          "Chobu District",
+          "Signature residential new town of Gwangju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 広州市",
+      "landmarks": {
+        "남한산성": [
+          "南漢山城",
+          "朝鮮時代の山城で、ユネスコ世界文化遺産。"
+        ],
+        "곤지암신도시": [
+          "崑智岩新都市",
+          "広州を代表する住宅新都市。"
+        ],
+        "광주시청": [
+          "広州市庁",
+          "京畿広州の行政中心。"
+        ],
+        "경안천": [
+          "慶安川",
+          "広州を流れる代表的な支流。"
+        ],
+        "초부지구": [
+          "草阜地区",
+          "広州を代表する住宅新都市。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 广州",
+      "landmarks": {
+        "남한산성": [
+          "南汉山城",
+          "朝鲜时代的山城，联合国教科文组织世界文化遗产。"
+        ],
+        "곤지암신도시": [
+          "昆池岩新城",
+          "广州的代表性居住新城。"
+        ],
+        "광주시청": [
+          "广州市厅",
+          "京畿广州的行政中心。"
+        ],
+        "경안천": [
+          "庆安川",
+          "流经广州的代表性河流。"
+        ],
+        "초부지구": [
+          "草阜地区",
+          "广州的代表性居住新城。"
+        ]
+      }
+    }
   }
 }
