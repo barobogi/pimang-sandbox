@@ -339,6 +339,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -507,5 +512,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "꼬막비빔밥 (신안군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=신안군청&goalx=126.352544&goaly=34.826811",
+    "kakaonavi_url": "kakaonavi://navigate?name=신안군청&x=126.352544&y=34.826811&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=신안군청&dlng=126.352544&dlat=34.826811&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:41",
+      "sunset": "18:49",
+      "noon_altitude_deg": 55.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:25",
+      "sunset": "19:53",
+      "noon_altitude_deg": 78.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:34",
+      "noon_altitude_deg": 55.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:31",
+      "noon_altitude_deg": 32.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "신안군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          125.612557,
+          34.584476
+        ],
+        [
+          125.611857,
+          34.585376
+        ],
+        [
+          125.611007,
+          34.586076
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "신안군 전통시장 만남의거리",
+    "anchor_center": [
+      126.352811,
+      34.828811
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 110,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
   }
 }
