@@ -147,6 +147,96 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "송도센트럴파크",
+        "station_name": "송도달빛축제공원역",
+        "line": "인천 1호선",
+        "exit_no": 6,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.3953,
+          126.6321
+        ]
+      },
+      {
+        "target_landmark": "송도컨베시아",
+        "station_name": "송도달빛축제공원역",
+        "line": "인천 1호선",
+        "exit_no": 6,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.3953,
+          126.6321
+        ]
+      },
+      {
+        "target_landmark": "선학국제빙상경기장",
+        "station_name": "선학국제빙상경기장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.434633,
+          126.70234
+        ]
+      },
+      {
+        "target_landmark": "동춘근린공원",
+        "station_name": "동춘역",
+        "line": "인천 1호선",
+        "exit_no": 9,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.4123,
+          126.6445
+        ]
+      },
+      {
+        "target_landmark": "인천대학교",
+        "station_name": "송도달빛축제공원역",
+        "line": "인천 1호선",
+        "exit_no": 6,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.3953,
+          126.6321
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "연수 중앙 공영주차장",
+        "coordinates": [
+          37.389856,
+          126.632755
+        ],
+        "capacity": 218,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "연수 제2 공영주차장",
+        "coordinates": [
+          37.3865,
+          126.6371
+        ],
+        "capacity": 358,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "연수 제3 공영주차장",
+        "coordinates": [
+          37.382568,
+          126.654231
+        ],
+        "capacity": 565,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "연수구는 동춘동과 선학동의 주거지와 송도국제도시가 함께한 인천의 신도시 자치구로 세계 최고 수준의 센트럴파크와 컨벤션시티, 인천대교가 상징이다.",
   "data_sources": [
     {
