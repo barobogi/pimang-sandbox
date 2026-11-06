@@ -1,0 +1,585 @@
+{
+  "block_code": "41820",
+  "block_name": "경기도 가평군",
+  "bbox": [
+    127.266318,
+    37.571708,
+    127.617141,
+    38.051124
+  ],
+  "center": [
+    37.811416,
+    127.44173
+  ],
+  "landmarks": [
+    {
+      "name": "아침고요수목원",
+      "lat": 37.7417282,
+      "lng": 127.3520162,
+      "category": "수목원/관광",
+      "description": "아침고요수목원은(는) 경기도 가평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B9%A8%EA%B3%A0%EC%9A%94%EC%88%98%EB%AA%A9%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 45.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Morning_Calm_Arboretum_Sign.jpg/1280px-Morning_Calm_Arboretum_Sign.jpg"
+    },
+    {
+      "name": "청평호",
+      "lat": 37.767365,
+      "lng": 127.5426867,
+      "category": "호수/자연",
+      "description": "청평호은(는) 경기도 가평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%ED%8F%89%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 298.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Chungpyeong_lake_on_August_4th%2C_2018.jpg/1280px-Chungpyeong_lake_on_August_4th%2C_2018.jpg"
+    },
+    {
+      "name": "명지산",
+      "lat": 37.9414798,
+      "lng": 127.4321451,
+      "category": "산/자연",
+      "description": "명지산은(는) 경기도 가평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%85%EC%A7%80%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 176.7
+      }
+    },
+    {
+      "name": "가평역 상권",
+      "lat": 37.811415749999995,
+      "lng": 127.4417296,
+      "category": "상권/교통",
+      "description": "가평역 상권은(는) 경기도 가평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 51.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gapyeong-gun_office.JPG/1280px-Gapyeong-gun_office.JPG"
+    },
+    {
+      "name": "쁘띠프랑스",
+      "lat": 37.7150813,
+      "lng": 127.4905281,
+      "category": "테마마을/관광",
+      "description": "쁘띠프랑스은(는) 경기도 가평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%81%98%EB%9D%A0%ED%94%84%EB%9E%91%EC%8A%A4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 338.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg/1280px-Petite_France_Gapyeong_2016-11-15_19_27_58_30883764212.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "가평 자연 힐링 시그니처 에어리얼 투어",
+      "description": "가평역 상권 → 청평호 → 쁘띠프랑스 → 아침고요수목원 → 명지산 순으로 이어지는 경기도 가평군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "가평역 상권",
+        "청평호",
+        "쁘띠프랑스",
+        "아침고요수목원",
+        "명지산"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "가평 산하 절경 에어리얼 투어",
+      "description": "아침고요수목원 → 청평호 → 명지산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 가평의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "아침고요수목원",
+        "청평호",
+        "명지산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "가평 도심 활력 에어리얼 코스",
+      "description": "가평역 상권 → 청평호 → 쁘띠프랑스 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 가평의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "가평역 상권",
+        "청평호",
+        "쁘띠프랑스"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "가평역 상권 가마솥밥가",
+      "lat": 37.811906,
+      "lng": 127.44124,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "쁘띠프랑스 본점",
+      "lat": 37.714591,
+      "lng": 127.490878,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "청평호 솥뚜껑가게",
+      "lat": 37.767015,
+      "lng": 127.543037,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "아침고요수목원 할매집",
+      "lat": 37.741868,
+      "lng": 127.352646,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "명지산 큰마당식당",
+      "lat": 37.94211,
+      "lng": 127.432355,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "아침고요수목원",
+        "station_name": "아침고요수목원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.742528,
+          127.350816
+        ]
+      },
+      {
+        "target_landmark": "청평호",
+        "station_name": "청평호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.768165,
+          127.541487
+        ]
+      },
+      {
+        "target_landmark": "명지산",
+        "station_name": "명지산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.94228,
+          127.430945
+        ]
+      },
+      {
+        "target_landmark": "가평역 상권",
+        "station_name": "가평역 상권 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.812216,
+          127.44053
+        ]
+      },
+      {
+        "target_landmark": "쁘띠프랑스",
+        "station_name": "쁘띠프랑스 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.715881,
+          127.489328
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "가평 중앙 공영주차장",
+        "coordinates": [
+          37.813416,
+          127.44133
+        ],
+        "capacity": 61,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "가평 제2 공영주차장",
+        "coordinates": [
+          37.716681,
+          127.490528
+        ],
+        "capacity": 182,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "가평초등학교 운동장",
+        "coordinates": [
+          37.692882,
+          127.3916
+        ],
+        "capacity": 3200,
+        "address": "경기도 가평군"
+      },
+      {
+        "name": "가평실내체육관",
+        "coordinates": [
+          37.794445,
+          127.563548
+        ],
+        "capacity": 2900,
+        "address": "경기도 가평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "아침고요수목원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청평호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "명지산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가평역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쁘띠프랑스",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "아침고요수목원 봄꽃",
+        "청평호 벚꽃"
+      ],
+      "summer": [
+        "청평호 여름",
+        "가평역 상권 여름"
+      ],
+      "autumn": [
+        "명지산 단풍",
+        "아침고요수목원 가을"
+      ],
+      "winter": [
+        "아침고요수목원 겨울 빛축제",
+        "명지산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청평호 야경",
+        "coordinates": [
+          37.767365,
+          127.542687
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "쁘띠프랑스 야경",
+        "coordinates": [
+          37.715081,
+          127.490528
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "가평군은 북한강과 청평호가 흐르는 경기 동북부의 군으로 아침고요수목원과 남이섬 인근의 수변 관광지가 유명하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gapyeong-gun, Gyeonggi",
+      "landmarks": {
+        "아침고요수목원": [
+          "The Garden of Morning Calm",
+          "Signature attraction of Gapyeong, Gyeonggi."
+        ],
+        "청평호": [
+          "Cheongpyeongho Lake",
+          "Signature lake attraction of Gapyeong, Gyeonggi."
+        ],
+        "명지산": [
+          "Myeongjisan Mountain",
+          "Signature mountain attraction of Gapyeong, Gyeonggi."
+        ],
+        "가평역 상권": [
+          "Gapyeong Station District",
+          "Signature station district of Gapyeong, Gyeonggi."
+        ],
+        "쁘띠프랑스": [
+          "Petite France",
+          "Signature attraction of Gapyeong, Gyeonggi."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 加平郡",
+      "landmarks": {
+        "아침고요수목원": [
+          "朝の静寂樹木園（アチンコヨ）",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "청평호": [
+          "清平湖",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "명지산": [
+          "鳴智山",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "가평역 상권": [
+          "加平駅商圏",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "쁘띠프랑스": [
+          "プチフランス",
+          "京畿道加平郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 加平郡",
+      "landmarks": {
+        "아침고요수목원": [
+          "晨静树木园",
+          "京畿道加平郡的代表性名胜。"
+        ],
+        "청평호": [
+          "清平湖",
+          "京畿道加平郡的代表性名湖。"
+        ],
+        "명지산": [
+          "鸣智山",
+          "京畿道加平郡的代表性名山。"
+        ],
+        "가평역 상권": [
+          "加平站商圈",
+          "京畿道加平郡的代表性站点商圈。"
+        ],
+        "쁘띠프랑스": [
+          "小法兰西村",
+          "京畿道加平郡的代表性名胜。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gp.go.kr",
+    "civil_service_center": {
+      "location_name": "가평군청 민원실 앞",
+      "coordinates": [
+        127.51261,
+        37.824849
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-580-2114",
+      "info": "경기도 가평군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "가평군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.44143,
+      37.811416
+    ],
+    "cctv_zone_count": 509,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "가평 중앙공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "가평 잣축제",
+    "typical_month": 10,
+    "venue_name": "가평군청 앞 광장",
+    "venue_coords": [
+      127.44223,
+      37.812016
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "가평군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.51281,
+      37.826749
+    ],
+    "reservation_url": "https://www.gp.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "가평군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.51151,
+      37.823149
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "가평군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.51021,
+      37.827649
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "명지산 큰마당식당",
+    "coordinates": [
+      127.432355,
+      37.94211
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "유과 (가평군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=가평군청&goalx=127.512610&goaly=37.824849",
+    "kakaonavi_url": "kakaonavi://navigate?name=가평군청&x=127.512610&y=37.824849&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=가평군청&dlng=127.512610&dlat=37.824849&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:42",
+      "noon_altitude_deg": 52.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:08",
+      "sunset": "19:55",
+      "noon_altitude_deg": 75.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:27",
+      "noon_altitude_deg": 52.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:15",
+      "noon_altitude_deg": 28.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "가평군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.44058,
+          37.810666
+        ],
+        [
+          127.44143,
+          37.811416
+        ],
+        [
+          127.44153,
+          37.810866
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "가평군 전통시장 만남의거리",
+    "anchor_center": [
+      127.51161,
+      37.824516
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 60,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
