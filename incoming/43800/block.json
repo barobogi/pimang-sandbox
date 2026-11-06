@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Danyang-gun, Chungbuk",
+      "landmarks": {
+        "도담삼봉": [
+          "Dodamsambong Peaks",
+          "Signature scenic attraction of Danyang-gun, Chungbuk."
+        ],
+        "구인사": [
+          "Guinsa Temple",
+          "Signature temple heritage of Danyang-gun, Chungbuk."
+        ],
+        "고수동굴": [
+          "Gosu Cave",
+          "Signature cave attraction of Danyang-gun, Chungbuk."
+        ],
+        "단양군청": [
+          "Danyang County Office",
+          "Administrative center of Danyang-gun, Chungbuk."
+        ],
+        "단양시장": [
+          "Danyang Market",
+          "Signature market attraction of Danyang-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 丹陽郡",
+      "landmarks": {
+        "도담삼봉": [
+          "島潭三峰",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "구인사": [
+          "救仁寺",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "고수동굴": [
+          "古藪洞窟",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "단양군청": [
+          "丹陽郡庁",
+          "忠清北道丹陽郡を代表する名所。"
+        ],
+        "단양시장": [
+          "丹陽市場",
+          "忠清北道丹陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 丹阳郡",
+      "landmarks": {
+        "도담삼봉": [
+          "岛潭三峰",
+          "忠清北道丹阳郡的代表性胜景。"
+        ],
+        "구인사": [
+          "救仁寺",
+          "忠清北道丹阳郡的代表性古刹。"
+        ],
+        "고수동굴": [
+          "古薮洞窟",
+          "忠清北道丹阳郡的代表性洞窟。"
+        ],
+        "단양군청": [
+          "丹阳郡厅",
+          "忠清北道丹阳郡的行政中心。"
+        ],
+        "단양시장": [
+          "丹阳市场",
+          "忠清北道丹阳郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
