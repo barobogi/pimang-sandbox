@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeosu-si, Jeonnam",
+      "landmarks": {
+        "오동도": [
+          "Odongdo Island",
+          "Signature island attraction famed for its lighthouse and coastal cliffs."
+        ],
+        "이순신광장": [
+          "Yi Sun-sin Plaza",
+          "Waterfront plaza in central Yeosu with the statue of Admiral Yi Sun-sin."
+        ],
+        "돌산공원": [
+          "Dolsan Park",
+          "Observatory park on Dolsando overlooking Yeosu Harbor."
+        ],
+        "여수해상케이블카": [
+          "Yeosu Marine Cable Car",
+          "Sea cable car linking Dolsando with the Yeosu mainland, a national favorite."
+        ],
+        "거북선광장": [
+          "Geobukseon (Turtle Ship) Plaza",
+          "Park at Yeosu Harbor featuring a turtle ship display."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 麗水市",
+      "landmarks": {
+        "오동도": [
+          "梧桐島",
+          "代表的な島の観光地。灯台と海岸絶景で有名。"
+        ],
+        "이순신광장": [
+          "李舜臣広場",
+          "麗水の都心の海岸に造られた広場。李舜臣銅像がある。"
+        ],
+        "돌산공원": [
+          "突山公園",
+          "突山島にある展望台公園。麗水港を見下ろせる。"
+        ],
+        "여수해상케이블카": [
+          "麗水海上ケーブルカー",
+          "突山島と麗水の本土を結ぶ海上ケーブルカー。国民的な観光名所。"
+        ],
+        "거북선광장": [
+          "亀船広場",
+          "麗水港に造られた公園。亀船の展示がある。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 丽水市",
+      "landmarks": {
+        "오동도": [
+          "梧桐岛",
+          "代表性岛屿观光地，以灯塔和海岸绝景闻名。"
+        ],
+        "이순신광장": [
+          "李舜臣广场",
+          "丽水市中心海滨广场，立有李舜臣铜像。"
+        ],
+        "돌산공원": [
+          "突山公园",
+          "突山岛上的观景公园，可俯瞰丽水港。"
+        ],
+        "여수해상케이블카": [
+          "丽水海上缆车",
+          "连接突山岛与丽水本土的海上缆车，国民观光名所。"
+        ],
+        "거북선광장": [
+          "龟船广场",
+          "丽水港畔的公园，展示龟船。"
+        ]
+      }
+    }
   }
 }
