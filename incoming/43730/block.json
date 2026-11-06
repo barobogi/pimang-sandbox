@@ -147,6 +147,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "정지용 생가",
+        "station_name": "정지용 생가 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.31218,
+          127.581594
+        ]
+      },
+      {
+        "target_landmark": "대청호",
+        "station_name": "대청호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.415819,
+          127.497107
+        ]
+      },
+      {
+        "target_landmark": "옥천군청",
+        "station_name": "옥천군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.303708,
+          127.57148
+        ]
+      },
+      {
+        "target_landmark": "옥천시장",
+        "station_name": "옥천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.30719,
+          127.689916
+        ]
+      },
+      {
+        "target_landmark": "향수공원",
+        "station_name": "향수공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.305126,
+          127.57265
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "옥천 중앙 공영주차장",
+        "coordinates": [
+          36.30639,
+          127.686716
+        ],
+        "capacity": 243,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "옥천 제2 공영주차장",
+        "coordinates": [
+          36.31258,
+          127.582394
+        ],
+        "capacity": 225,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "옥천 제3 공영주차장",
+        "coordinates": [
+          36.309126,
+          127.57025
+        ],
+        "capacity": 313,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "옥천군은 정지용 생가와 향수, 대청호가 자리한 충북 남부의 군이다.",
   "data_sources": [
     {
