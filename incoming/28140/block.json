@@ -354,5 +354,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Incheon",
+      "landmarks": {
+        "만석공원": [
+          "Manseok Park",
+          "Historic harbor park of the old Incheon Port."
+        ],
+        "송월동 골목": [
+          "Songwol-dong Fairy Tale Alley",
+          "Traditional culture alley through Songwol-dong."
+        ],
+        "동인천역 상권": [
+          "Dongincheon Station District",
+          "Commercial hub centered on Dongincheon Station."
+        ],
+        "화수진공원": [
+          "Hwasujin Park",
+          "Signature neighborhood park of Dong-gu."
+        ],
+        "영종대교": [
+          "Yeongjong Grand Bridge",
+          "Grand bridge linking Yeongjong Island with Dong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 東区",
+      "landmarks": {
+        "만석공원": [
+          "万石公園",
+          "仁川港の旧港公園。"
+        ],
+        "송월동 골목": [
+          "松月洞の路地",
+          "松月洞一帯の伝統文化の路地。"
+        ],
+        "동인천역 상권": [
+          "東仁川駅商圏",
+          "東仁川駅を中心とする代表的な商圏。"
+        ],
+        "화수진공원": [
+          "花水津公園",
+          "東区を代表する近隣公園。"
+        ],
+        "영종대교": [
+          "永宗大橋",
+          "永宗島と東区を結ぶ大橋。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 东区",
+      "landmarks": {
+        "만석공원": [
+          "万石公园",
+          "仁川港旧港区公园。"
+        ],
+        "송월동 골목": [
+          "松月洞童话巷",
+          "松月洞一带的传统文化街巷。"
+        ],
+        "동인천역 상권": [
+          "东仁川站商圈",
+          "以东仁川站为中心的代表性商圈。"
+        ],
+        "화수진공원": [
+          "花水津公园",
+          "东区的代表性近邻公园。"
+        ],
+        "영종대교": [
+          "永宗大桥",
+          "连接永宗岛与东区的大桥。"
+        ]
+      }
+    }
   }
 }
