@@ -1,0 +1,580 @@
+{
+  "block_code": "41650",
+  "block_name": "경기도 포천시",
+  "bbox": [
+    127.0903,
+    37.746968,
+    127.447076,
+    38.188321
+  ],
+  "center": [
+    37.967644,
+    127.268688
+  ],
+  "landmarks": [
+    {
+      "name": "산정호수",
+      "lat": 38.0709559,
+      "lng": 127.3209633,
+      "category": "호수/관광",
+      "description": "포천의 대표 호수 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 201.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg/1280px-Sanjeong_Lake_%28%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98%29%2C_December_2016.jpg"
+    },
+    {
+      "name": "한탄강",
+      "lat": 38.0731966,
+      "lng": 127.2087365,
+      "category": "하천/자연",
+      "description": "현무암 협곡이 아름다운 국가지질공원 강이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%83%84%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 155.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hantan_River_nearby_Goseokjeong.jpg/1280px-Hantan_River_nearby_Goseokjeong.jpg"
+    },
+    {
+      "name": "일동허브밸리",
+      "lat": 38.03,
+      "lng": 127.2,
+      "category": "테마공원",
+      "description": "허브 테마의 대표 관광 체험 단지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 139.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg/1280px-250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg"
+    },
+    {
+      "name": "포천시청",
+      "lat": 37.8949308,
+      "lng": 127.2003521,
+      "category": "행정/랜드마크",
+      "description": "포천시의 행정 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 36.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg/1280px-250207_%ED%8F%AC%EC%B2%9C%EC%8B%9C%EC%B2%AD_%EB%B3%B8%EA%B4%80.jpg"
+    },
+    {
+      "name": "운악산",
+      "lat": 37.87869,
+      "lng": 127.32288,
+      "category": "산/자연",
+      "description": "포천의 대표 등산 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 334.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "포천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "일동허브밸리 → 한탄강 → 산정호수 → 운악산 → 포천시청 순으로 이어지는 경기도 포천시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "일동허브밸리",
+        "한탄강",
+        "산정호수",
+        "운악산",
+        "포천시청"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "포천 그린 랜드스케이프 플라이트",
+      "description": "산정호수 → 한탄강 → 일동허브밸리 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 포천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "산정호수",
+        "한탄강",
+        "일동허브밸리"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "일동허브밸리 가마솥밥가",
+      "lat": 38.02937,
+      "lng": 127.19965,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "포천시청 솥뚜껑가게",
+      "lat": 37.895561,
+      "lng": 127.201052,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "운악산 가마솥밥가",
+      "lat": 37.87813,
+      "lng": 127.32281,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "산정호수 솥뚜껑가게",
+      "lat": 38.070256,
+      "lng": 127.320333,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "산정호수",
+        "station_name": "산정호수 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.070156,
+          127.320963
+        ]
+      },
+      {
+        "target_landmark": "한탄강",
+        "station_name": "한탄강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.072397,
+          127.208737
+        ]
+      },
+      {
+        "target_landmark": "일동허브밸리",
+        "station_name": "포천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.0296,
+          127.202
+        ]
+      },
+      {
+        "target_landmark": "포천시청",
+        "station_name": "포천시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.894131,
+          127.200352
+        ]
+      },
+      {
+        "target_landmark": "운악산",
+        "station_name": "운악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.87789,
+          127.32288
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "포천 중앙 공영주차장",
+        "coordinates": [
+          38.0316,
+          127.1984
+        ],
+        "capacity": 224,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "포천 제2 공영주차장",
+        "coordinates": [
+          37.894531,
+          127.201152
+        ],
+        "capacity": 51,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "포천 제3 공영주차장",
+        "coordinates": [
+          37.87989,
+          127.32248
+        ],
+        "capacity": 287,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "포천초등학교 운동장",
+        "coordinates": [
+          38.010889,
+          127.298272
+        ],
+        "capacity": 1300,
+        "address": "경기도 포천시"
+      },
+      {
+        "name": "포천실내체육관",
+        "coordinates": [
+          38.128429,
+          127.228989
+        ],
+        "capacity": 2500,
+        "address": "경기도 포천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "산정호수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한탄강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일동허브밸리",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "포천시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "운악산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "산정호수 벚꽃",
+        "운악산 봄 진달래"
+      ],
+      "summer": [
+        "산정호수 여름",
+        "한탄강 여름"
+      ],
+      "autumn": [
+        "운악산 단풍길",
+        "산정호수 가을"
+      ],
+      "winter": [
+        "산정호수 설경",
+        "운악산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "산정호수 야경",
+        "coordinates": [
+          38.070956,
+          127.320963
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "한탄강 야경",
+        "coordinates": [
+          38.073197,
+          127.208737
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "경기 포천시는 산정호수와 한탄강이 함께한 경기 북동부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Pocheon-si, Gyeonggi",
+      "landmarks": {
+        "산정호수": [
+          "Sanjeongho Lake",
+          "Pocheon's signature lakeside attraction."
+        ],
+        "한탄강": [
+          "Hantan River",
+          "National Geopark river famed for its beautiful basalt gorge."
+        ],
+        "일동허브밸리": [
+          "Idong Herb Valley",
+          "Signature herb-themed tourist experience complex."
+        ],
+        "포천시청": [
+          "Pocheon City Hall",
+          "Administrative center of Pocheon."
+        ],
+        "운악산": [
+          "Unaksan Mountain",
+          "Signature hiking mountain of Pocheon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 抱川市",
+      "landmarks": {
+        "산정호수": [
+          "山井湖",
+          "抱川を代表する湖の観光地。"
+        ],
+        "한탄강": [
+          "漢灘江",
+          "玄武岩の渓谷が美しい国立地質公園の川。"
+        ],
+        "일동허브밸리": [
+          "一東ハーブバレー",
+          "ハーブをテーマにした代表的な観光体験団地。"
+        ],
+        "포천시청": [
+          "抱川市庁",
+          "抱川市の行政中心。"
+        ],
+        "운악산": [
+          "雲岳山",
+          "抱川を代表する登山の名山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 抱川市",
+      "landmarks": {
+        "산정호수": [
+          "山井湖",
+          "抱川的代表性湖泊观光地。"
+        ],
+        "한탄강": [
+          "汉滩江",
+          "玄武岩峡谷秀美的国家地质公园河流。"
+        ],
+        "일동허브밸리": [
+          "一东香草谷",
+          "以香草为主题的代表性观光体验园区。"
+        ],
+        "포천시청": [
+          "抱川市厅",
+          "抱川市的行政中心。"
+        ],
+        "운악산": [
+          "云岳山",
+          "抱川的代表性登山名山。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.pcs21.go.kr",
+    "civil_service_center": {
+      "location_name": "포천시청 민원실 앞",
+      "coordinates": [
+        127.213502,
+        37.912635
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-538-2114",
+      "info": "경기도 포천시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "포천시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.268988,
+      37.968145
+    ],
+    "cctv_zone_count": 307,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "이동공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "산정호수 명성산 억새꽃 축제",
+    "typical_month": 10,
+    "venue_name": "산정호수 일대",
+    "venue_coords": [
+      127.268788,
+      37.967945
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "포천시 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.215902,
+      37.910735
+    ],
+    "reservation_url": "https://www.pcs21.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "포천시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.215102,
+      37.910135
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "포천시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.216302,
+      37.910435
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "일동허브밸리 가마솥밥가",
+    "coordinates": [
+      127.19965,
+      38.02937
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (포천시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=포천시청&goalx=127.213502&goaly=37.912635",
+    "kakaonavi_url": "kakaonavi://navigate?name=포천시청&x=127.213502&y=37.912635&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=포천시청&dlng=127.213502&dlat=37.912635&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.0
+    },
+    "summer_solstice": {
+      "sunrise": "05:08",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.0
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:15",
+      "noon_altitude_deg": 28.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "포천시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.268138,
+          37.968195
+        ],
+        [
+          127.268988,
+          37.968145
+        ],
+        [
+          127.269538,
+          37.968545
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "포천시 중심상업거리",
+    "anchor_center": [
+      127.212969,
+      37.912835
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 250,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
