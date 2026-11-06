@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Saha-gu, Busan",
+      "landmarks": {
+        "감천문화마을": [
+          "Gamcheon Culture Village",
+          "Village of terraced houses and murals along the hillside roads."
+        ],
+        "다대포해수욕장": [
+          "Dadaepo Beach",
+          "Beach at Busan's western end, meeting the Nakdong River estuary."
+        ],
+        "을숙도": [
+          "Eulsukdo Island",
+          "Migratory bird sanctuary and ecological park on the Nakdong estuary."
+        ],
+        "구평공원": [
+          "Gupyeong Park",
+          "Signature neighborhood park of Saha-gu."
+        ],
+        "하단동 상권": [
+          "Hadandong District",
+          "Largest commercial hub of Saha-gu in Hadan-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 沙下区",
+      "landmarks": {
+        "감천문화마을": [
+          "甘川文化村",
+          "山腹道路に段々状の家々と壁画が調和する代表的な壁画村。"
+        ],
+        "다대포해수욕장": [
+          "多大浦海水浴場",
+          "釜山の西の果てにある海水浴場。洛東江河口に面する。"
+        ],
+        "을숙도": [
+          "乙淑島",
+          "洛東江河の口の渡り鳥飛来地であり生態公園。"
+        ],
+        "구평공원": [
+          "亀坪公園",
+          "沙下区を代表する近隣公園。"
+        ],
+        "하단동 상권": [
+          "下端洞商圏",
+          "下端洞に形成された沙下区最大の商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 沙下区",
+      "landmarks": {
+        "감천문화마을": [
+          "甘川文化村",
+          "山腰道上阶梯式房屋与壁画交织的代表性文化村。"
+        ],
+        "다대포해수욕장": [
+          "多大浦海水浴场",
+          "位于釜山西端，紧邻洛东江入海口。"
+        ],
+        "을숙도": [
+          "乙淑岛",
+          "洛东江口候鸟栖息地，建有生态公园。"
+        ],
+        "구평공원": [
+          "龟坪公园",
+          "沙下区的代表性近邻公园。"
+        ],
+        "하단동 상권": [
+          "下端洞商圈",
+          "下端洞形成的沙下区最大商圈。"
+        ]
+      }
+    }
   }
 }
