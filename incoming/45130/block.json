@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "군산초등학교 운동장",
+        "coordinates": [
+          36.053206,
+          126.567975
+        ],
+        "capacity": 7000,
+        "address": "전북특별자치도 군산시"
+      },
+      {
+        "name": "군산실내체육관",
+        "coordinates": [
+          36.044592,
+          126.649447
+        ],
+        "capacity": 6600,
+        "address": "전북특별자치도 군산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "군산근대역사박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "경암동철길마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "군산내항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "월명공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "금강하구둑",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "군산시는 개항기 이후 근대 항만 도시로 성장한 전북 서부의 도시로 근대 건축 유산과 철길마을, 군산내항 등의 명소가 함께한다.",
   "data_sources": [
     {
