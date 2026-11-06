@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동해초등학교 운동장",
+        "coordinates": [
+          37.484515,
+          129.01745
+        ],
+        "capacity": 5700,
+        "address": "강원특별자치도 동해시"
+      },
+      {
+        "name": "동해실내체육관",
+        "coordinates": [
+          37.542439,
+          129.07972
+        ],
+        "capacity": 4200,
+        "address": "강원특별자치도 동해시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "무릉계곡",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천곡천연동굴",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "추암촛대바위",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동해시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "묵호항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "동해시는 동해안 무릉계곡과 천곡천연동굴, 추암촛대바위가 자리한 강원 영동의 해안 도시이다.",
   "data_sources": [
     {
