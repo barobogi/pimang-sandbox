@@ -417,5 +417,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.bucheon.go.kr",
+    "civil_service_center": {
+      "location_name": "부천시청 민원실 앞",
+      "coordinates": [
+        126.7919,
+        37.505742
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "032-320-3000",
+      "info": "경기도 부천시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "부천시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.7922,
+      37.506642
+    ],
+    "cctv_zone_count": 493
+  },
+  "urban_parks_trails": {
+    "park_name": "부천 중앙공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "부천국제판타스틱영화제",
+    "typical_month": 7,
+    "venue_name": "부천종합운동장 일대",
+    "venue_coords": [
+      126.7915,
+      37.506142
+    ]
   }
 }
