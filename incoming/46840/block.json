@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "회산백련지",
+        "station_name": "회산백련지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.860887,
+          126.527423
+        ]
+      },
+      {
+        "target_landmark": "무안공항",
+        "station_name": "무안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.99248,
+          126.382941
+        ]
+      },
+      {
+        "target_landmark": "초의선사유적지",
+        "station_name": "초의선사유적지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.852434,
+          126.4174
+        ]
+      },
+      {
+        "target_landmark": "무안군청",
+        "station_name": "무안군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.988456,
+          126.482907
+        ]
+      },
+      {
+        "target_landmark": "무안시장",
+        "station_name": "무안시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.991006,
+          126.473819
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "무안 중앙 공영주차장",
+        "coordinates": [
+          34.99008,
+          126.38534
+        ],
+        "capacity": 120,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "무안 제2 공영주차장",
+        "coordinates": [
+          34.991406,
+          126.474619
+        ],
+        "capacity": 313,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "무안군은 회산백련지와 목포공항, 초의선사 유적이 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
