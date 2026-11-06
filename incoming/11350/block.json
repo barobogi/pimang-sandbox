@@ -344,5 +344,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nowon-gu, Seoul",
+      "landmarks": {
+        "수락산": [
+          "Suraksan Mountain",
+          "638 m mountain spanning Nowon-gu and Guri, known for its hiking trails and national arboretum."
+        ],
+        "북서울미술관": [
+          "Buk-Seoul Museum of Art",
+          "Branch of the Seoul Museum of Art opened in 2007 in Junggye-dong."
+        ],
+        "광운대학교": [
+          "Kwangwoon University",
+          "Private university in Wolgye-dong renowned for its railway engineering programs."
+        ],
+        "노원문화예술회관": [
+          "Nowon Arts Center",
+          "Leading performance hall in Sanggye-dong hosting operas and concerts."
+        ],
+        "중계본동 시장": [
+          "Junggye Bon-dong Market",
+          "Traditional market near Junggye crossroads, the food hub of northern Nowon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 蘆原区",
+      "landmarks": {
+        "수락산": [
+          "水落山",
+          "蘆原区と九里市にまたがる標高638メートルの山。国民休養林と登山道で有名。"
+        ],
+        "북서울미술관": [
+          "北ソウル美術館",
+          "2007年に開館したソウル市立美術館の分館。中渓洞に位置する。"
+        ],
+        "광운대학교": [
+          "光雲大学校",
+          "月渓洞に位置する私立総合大学。鉄道関連学科で有名。"
+        ],
+        "노원문화예술회관": [
+          "蘆原文化芸術会館",
+          "上渓洞にある代表公演場。オペラやコンサートを開催する。"
+        ],
+        "중계본동 시장": [
+          "中渓本洞市場",
+          "中渓洞交差点近くの伝統市場で、北部蘆原の食の中心。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 芦原区",
+      "landmarks": {
+        "수락산": [
+          "水落山",
+          "跨芦原区与九里市，海拔638米，以国民休养林和登山道闻名。"
+        ],
+        "북서울미술관": [
+          "北首尔美术馆",
+          "2007年开馆的首尔市立美术馆分馆，位于中溪洞。"
+        ],
+        "광운대학교": [
+          "光云大学",
+          "位于月溪洞的私立综合大学，以铁道相关专业闻名。"
+        ],
+        "노원문화예술회관": [
+          "芦原文化艺术会馆",
+          "位于上溪洞的代表性演出场馆，举办歌剧、音乐会等。"
+        ],
+        "중계본동 시장": [
+          "中溪本洞市场",
+          "中溪十字路口附近的传统市场，是芦原北部美食中心。"
+        ]
+      }
+    }
   }
 }
