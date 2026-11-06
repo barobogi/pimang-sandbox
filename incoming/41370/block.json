@@ -154,6 +154,87 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "오산전적공원",
+        "station_name": "오산역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.1447,
+          127.0566
+        ]
+      },
+      {
+        "target_landmark": "세교지구",
+        "station_name": "오산역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 38,
+        "coordinates": [
+          37.1447,
+          127.0566
+        ]
+      },
+      {
+        "target_landmark": "오산시청",
+        "station_name": "오산역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 28,
+        "coordinates": [
+          37.1447,
+          127.0566
+        ]
+      },
+      {
+        "target_landmark": "오산문화예술회관",
+        "station_name": "오산역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 15,
+        "coordinates": [
+          37.1447,
+          127.0566
+        ]
+      },
+      {
+        "target_landmark": "오산동 상권",
+        "station_name": "오산역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 13,
+        "coordinates": [
+          37.1447,
+          127.0566
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "오산 중앙 공영주차장",
+        "coordinates": [
+          37.1512,
+          127.0556
+        ],
+        "capacity": 305,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "오산 제2 공영주차장",
+        "coordinates": [
+          37.1503,
+          127.0646
+        ],
+        "capacity": 65,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "오산시는 오산 전투 기념지와 세교지구가 함께한 경기 남부의 도시이다.",
   "data_sources": [
     {
