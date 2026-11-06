@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "내린천 봄 물길",
+        "방동약수 봄"
+      ],
+      "summer": [
+        "내린천 여름 래프팅",
+        "설악산 계곡 여름"
+      ],
+      "autumn": [
+        "설악산 단풍길",
+        "내린천 가을"
+      ],
+      "winter": [
+        "설악산 설경",
+        "방동약수 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "내린천 야경",
+        "coordinates": [
+          37.879464,
+          128.291062
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "설악산 야경",
+        "coordinates": [
+          38.13409,
+          128.417217
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "인제군은 설악산과 내린천, 방동약수, 빙어호가 자리한 강원 영동 북부의 군이다.",
   "data_sources": [
     {
