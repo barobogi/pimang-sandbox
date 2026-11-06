@@ -147,6 +147,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서울숲",
+        "station_name": "뚝섬역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 13,
+        "coordinates": [
+          37.5473,
+          127.0418
+        ]
+      },
+      {
+        "target_landmark": "뚝섬한강공원",
+        "station_name": "성수역",
+        "line": "서울 2호선",
+        "exit_no": 5,
+        "walk_minutes": 25,
+        "coordinates": [
+          37.5446,
+          127.0557
+        ]
+      },
+      {
+        "target_landmark": "성수대교",
+        "station_name": "뚝섬역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5473,
+          127.0418
+        ]
+      },
+      {
+        "target_landmark": "왕십리골목시장",
+        "station_name": "왕십리역",
+        "line": "서울 2·5호선",
+        "exit_no": 3,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5612,
+          127.0377
+        ]
+      },
+      {
+        "target_landmark": "성수동 카페거리",
+        "station_name": "뚝섬역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 7,
+        "coordinates": [
+          37.5473,
+          127.0418
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성동 중앙 공영주차장",
+        "coordinates": [
+          37.546,
+          127.0361
+        ],
+        "capacity": 566,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "성동 제2 공영주차장",
+        "coordinates": [
+          37.542918,
+          127.033212
+        ],
+        "capacity": 236,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "성동구는 조선 시대 한양의 동쪽 외곽에서 왕십리를 중심으로 발달한 구역으로, 한양도성 성곽과 청계천이 지나며 근현대에는 직조공업과 성수동 공장들이 산업의 중심이 되었다가 현재는 서울숲과 성수동 일대가 문화·생태 명소로 재탄생한 자치구이다.",
   "data_sources": [
     {
