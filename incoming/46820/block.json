@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Haenam-gun, Jeonnam",
+      "landmarks": {
+        "땅끝마을": [
+          "Ttangkkeut Village",
+          "Village at the Korean Peninsula's southern tip, famed for the Ttangkkeut monument and Mae Island sunrise."
+        ],
+        "대흥사": [
+          "Daeheungsa Temple",
+          "Baekje-era temple on Duryunsan, a Historic Site and Scenic Spot No. 508."
+        ],
+        "황산공원": [
+          "Hwangsan Park",
+          "Scenic park at the foot of Hwangsan, Haenam's home mountain."
+        ],
+        "미황사": [
+          "Mihwangsa Temple",
+          "Historic temple at the foot of Dalmasan, famed for its Daeungjeon Hall."
+        ],
+        "설아다원": [
+          "Seora Dawon Tea Plantation",
+          "Organic green tea farm attraction with tea experiences and hanok stays."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 海南郡",
+      "landmarks": {
+        "땅끝마을": [
+          "タンッット村",
+          "韓半島最南端の村。タヌッキト記念碑とメ島の日の出で有名。"
+        ],
+        "대흥사": [
+          "大興寺",
+          "百済時代に創建された頭輪山の代表的な寺。史跡第508号名勝。"
+        ],
+        "황산공원": [
+          "黄山公園",
+          "海南の鎮山・黄山のふもとの代表的な名勝。"
+        ],
+        "미황사": [
+          "美黄寺",
+          "達摩山のふもとの由緒ある寺。大雄殿が有名。"
+        ],
+        "설아다원": [
+          "雪亜茶園",
+          "有機緑茶畑のテーマ観光地。茶の体験と韓屋ステイが楽しめる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 海南郡",
+      "landmarks": {
+        "땅끝마을": [
+          "土地尽头村",
+          "朝鲜半岛最南端村落，以尽头碑和末岛日出闻名。"
+        ],
+        "대흥사": [
+          "大兴寺",
+          "百济时代创建的头轮山名刹，史迹第508号名胜。"
+        ],
+        "황산공원": [
+          "黄山公园",
+          "海南主山黄山麓的代表性胜景。"
+        ],
+        "미황사": [
+          "美黄寺",
+          "达摩山麓的古刹，以大雄殿闻名。"
+        ],
+        "설아다원": [
+          "雪雅茶园",
+          "有机绿茶田主题景区，可体验茶艺和韩屋住宿。"
+        ]
+      }
+    }
   }
 }
