@@ -1,0 +1,595 @@
+{
+  "block_code": "30200",
+  "block_name": "대전광역시 유성구",
+  "bbox": [
+    127.246319,
+    36.264484,
+    127.418716,
+    36.500212
+  ],
+  "center": [
+    36.382348,
+    127.332517
+  ],
+  "landmarks": [
+    {
+      "name": "대전엑스포과학공원",
+      "lat": 36.372,
+      "lng": 127.3825,
+      "category": "테마공원/과학",
+      "description": "1993 대전엑스포 부지에 조성된 과학 테마 공원으로 엑스포다리가 상징이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 284.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%EC%97%91%EC%8A%A4%ED%8F%AC%EA%B3%BC%ED%95%99%EA%B3%B5%EC%9B%90_%EC%A0%84%EA%B2%BD_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0.png/1280px-%EC%97%91%EC%8A%A4%ED%8F%AC%EA%B3%BC%ED%95%99%EA%B3%B5%EC%9B%90_%EC%A0%84%EA%B2%BD_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0.png"
+    },
+    {
+      "name": "KAIST",
+      "lat": 36.3703054,
+      "lng": 127.3620118,
+      "category": "교육/과학",
+      "description": "대한민국 대표 이공계 특성화 대학으로 대덕연구단지 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 296.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/KAIST_Main_entrance.jpg/1280px-KAIST_Main_entrance.jpg"
+    },
+    {
+      "name": "유성온천",
+      "lat": 36.3537327,
+      "lng": 127.3417016,
+      "category": "온천/관광",
+      "description": "온천거리로 유명한 유성 대표 온천지구다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 345.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C_%EC%A1%B1%EC%9A%95%EC%B2%B4%ED%97%98%EC%9E%A5.png/1280px-%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C_%EC%A1%B1%EC%9A%95%EC%B2%B4%ED%97%98%EC%9E%A5.png"
+    },
+    {
+      "name": "계족산",
+      "lat": 36.3,
+      "lng": 127.4,
+      "category": "산/자연",
+      "description": "유성구 남쪽에 자리한 산으로 등산로가 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%84%EC%A1%B1%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 326.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gyejoksan_Fortress.jpg/1280px-Gyejoksan_Fortress.jpg"
+    },
+    {
+      "name": "대덕연구개발단지",
+      "lat": 36.37,
+      "lng": 127.39,
+      "category": "과학/연구",
+      "description": "대한민국 최초의 과학 연구단지로 국가 연구기관이 밀집해 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%8D%95%EC%97%B0%EA%B5%AC%EB%8B%A8%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 285.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/ETRI-1%2C_Korea.jpg/1280px-ETRI-1%2C_Korea.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "유성 도심 하이라이트 시그니처 스카이 투어",
+      "description": "KAIST → 대전엑스포과학공원 → 대덕연구개발단지 → 유성온천 → 계족산 순으로 이어지는 대전광역시 유성구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "KAIST",
+        "대전엑스포과학공원",
+        "대덕연구개발단지",
+        "유성온천",
+        "계족산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "유성 도심 하이라이트 스카이 투어",
+      "description": "유성온천 → KAIST → 대덕연구개발단지 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 유성의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "유성온천",
+        "KAIST",
+        "대덕연구개발단지"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "유성 자연 힐링 스카이 워크",
+      "description": "대전엑스포과학공원 → 대덕연구개발단지 → 계족산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 유성의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "대전엑스포과학공원",
+        "대덕연구개발단지",
+        "계족산"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "유성온천 가마솥밥가",
+      "lat": 36.354083,
+      "lng": 127.341422,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "KAIST 큰마당식당",
+      "lat": 36.370795,
+      "lng": 127.361522,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "대전엑스포과학공원 골목식당",
+      "lat": 36.37193,
+      "lng": 127.38257,
+      "specialty": "곰탕",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대전엑스포과학공원",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 37,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      },
+      {
+        "target_landmark": "KAIST",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 15,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      },
+      {
+        "target_landmark": "유성온천",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 23,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      },
+      {
+        "target_landmark": "계족산",
+        "station_name": "계족산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.3004,
+          127.398
+        ]
+      },
+      {
+        "target_landmark": "대덕연구개발단지",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 45,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "유성 중앙 공영주차장",
+        "coordinates": [
+          36.352133,
+          127.342502
+        ],
+        "capacity": 137,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "유성 제2 공영주차장",
+        "coordinates": [
+          36.369505,
+          127.364412
+        ],
+        "capacity": 449,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "유성 제3 공영주차장",
+        "coordinates": [
+          36.37,
+          127.3809
+        ],
+        "capacity": 409,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "유성초등학교 운동장",
+        "coordinates": [
+          36.386598,
+          127.406121
+        ],
+        "capacity": 2500,
+        "address": "대전광역시 유성구"
+      },
+      {
+        "name": "유성실내체육관",
+        "coordinates": [
+          36.388856,
+          127.370419
+        ],
+        "capacity": 3600,
+        "address": "대전광역시 유성구"
+      },
+      {
+        "name": "유성중앙공원 비상집합장소",
+        "coordinates": [
+          36.387397,
+          127.35566
+        ],
+        "capacity": 1700,
+        "address": "대전광역시 유성구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대전엑스포과학공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "KAIST",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "유성온천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "계족산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대덕연구개발단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "유성온천 봄",
+        "계족산 봄 진달래"
+      ],
+      "summer": [
+        "대전엑스포과학공원 여름",
+        "계족산 여름"
+      ],
+      "autumn": [
+        "계족산 단풍",
+        "대전엑스포과학공원 가을"
+      ],
+      "winter": [
+        "대전엑스포과학공원 겨울 빛축제",
+        "유성온천 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대전엑스포과학공원 야경",
+        "coordinates": [
+          36.372,
+          127.3825
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "계족산 야경",
+        "coordinates": [
+          36.3,
+          127.4
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "유성구는 대덕연구단지와 KAIST, 충남대 등 과학·교육 도시의 중심이며 유성온천과 대전엑스포과학공원 등의 명소가 함께한 대전 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yuseong-gu, Daejeon",
+      "landmarks": {
+        "대전엑스포과학공원": [
+          "Expo Science Park",
+          "Science theme park built on the 1993 Daejeon Expo site, symbolized by the Expo Bridge."
+        ],
+        "KAIST": [
+          "KAIST",
+          "Korea's leading science and technology university, heart of the Daedeok research complex."
+        ],
+        "유성온천": [
+          "Yuseong Hot Springs",
+          "Yuseong's signature hot spring district, famed for its hot spring street."
+        ],
+        "계족산": [
+          "Gyejoksan Mountain",
+          "Mountain on Yuseong-gu's south with well-built hiking trails."
+        ],
+        "대덕연구개발단지": [
+          "Daedeok Research and Development Complex",
+          "Korea's first science research complex, dense with national research institutes."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 儒城区",
+      "landmarks": {
+        "대전엑스포과학공원": [
+          "大田エキスポ科学公園",
+          "1993年大田エキポ会場に造られた科学テーマパーク。エキポ橋がシンボル。"
+        ],
+        "KAIST": [
+          "KAIST（韓国科学技術院）",
+          "韓国を代表する理工系大学。大徳研究団地の中心。"
+        ],
+        "유성온천": [
+          "儒城温泉",
+          "温泉街で有名な儒城を代表する温泉地区。"
+        ],
+        "계족산": [
+          "鶏足山",
+          "儒城区の南に位置し、登山道が整備された名山。"
+        ],
+        "대덕연구개발단지": [
+          "大徳研究開発団地",
+          "韓国初の科学研究団地。国立研究機関が密集する。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 儒城区",
+      "landmarks": {
+        "대전엑스포과학공원": [
+          "大田世博会科学公园",
+          "建于1993年大田世博会会址的科学主题公园，世博桥是标志。"
+        ],
+        "KAIST": [
+          "韩国科学技术院（KAIST）",
+          "韩国顶尖理工院校，大德研究开发区的核心。"
+        ],
+        "유성온천": [
+          "儒城温泉",
+          "以温泉街闻名的儒城代表性温泉区。"
+        ],
+        "계족산": [
+          "鸡足山",
+          "位于儒城区南侧，建有登山步道的名山。"
+        ],
+        "대덕연구개발단지": [
+          "大德研究开发区",
+          "韩国首个科学研究园区，国家级研究机构云集。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yuseong.go.kr",
+    "civil_service_center": {
+      "location_name": "유성구청 민원실 앞",
+      "coordinates": [
+        127.34294,
+        36.357335
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "042-611-2114",
+      "info": "대전광역시 유성구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "유성구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.332217,
+      36.381748
+    ],
+    "cctv_zone_count": 350,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "한밭수목원",
+    "trail_length_km": 2.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "유성건강 페스티벌",
+    "typical_month": 7,
+    "venue_name": "유성온천욕장 일대",
+    "venue_coords": [
+      127.332417,
+      36.381848
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "유성구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.34324,
+      36.358135
+    ],
+    "reservation_url": "https://www.yuseong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "유성구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.34224,
+      36.356735
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "유성구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.34374,
+      36.359935
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "유성온천 가마솥밥가",
+    "coordinates": [
+      127.341422,
+      36.354083
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "빈대떡 (유성구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=유성구청&goalx=127.342940&goaly=36.357335",
+    "kakaonavi_url": "kakaonavi://navigate?name=유성구청&x=127.342940&y=36.357335&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=유성구청&dlng=127.342940&dlat=36.357335&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:42",
+      "noon_altitude_deg": 53.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:51",
+      "noon_altitude_deg": 77.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:27",
+      "noon_altitude_deg": 53.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:19",
+      "noon_altitude_deg": 30.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "유성구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.331667,
+          36.383198
+        ],
+        [
+          127.332217,
+          36.381748
+        ],
+        [
+          127.332817,
+          36.380998
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "유성구 중심상업거리",
+    "anchor_center": [
+      127.342207,
+      36.358535
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 320,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
