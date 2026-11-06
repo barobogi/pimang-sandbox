@@ -136,6 +136,85 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "성당공원",
+        "station_name": "상인역",
+        "line": "대구 2호선",
+        "exit_no": 7,
+        "walk_minutes": 26,
+        "coordinates": [
+          35.8368,
+          128.5562
+        ]
+      },
+      {
+        "target_landmark": "이약산",
+        "station_name": "이약산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.8076,
+          128.522
+        ]
+      },
+      {
+        "target_landmark": "달서공원",
+        "station_name": "상인역",
+        "line": "대구 2호선",
+        "exit_no": 7,
+        "walk_minutes": 47,
+        "coordinates": [
+          35.8368,
+          128.5562
+        ]
+      },
+      {
+        "target_landmark": "상인락공원",
+        "station_name": "상인락공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.7926,
+          128.532
+        ]
+      },
+      {
+        "target_landmark": "감삼공원",
+        "station_name": "상인역",
+        "line": "대구 2호선",
+        "exit_no": 7,
+        "walk_minutes": 43,
+        "coordinates": [
+          35.8368,
+          128.5562
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "달서 중앙 공영주차장",
+        "coordinates": [
+          35.82,
+          128.5276
+        ],
+        "capacity": 258,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "달서 제2 공영주차장",
+        "coordinates": [
+          35.8266,
+          128.538
+        ],
+        "capacity": 53,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "달서구는 대구 서부에 위치한 대규모 주거 도시로 성당공원과 이약산 등의 도심 자연과 함께 발달했다.",
   "data_sources": [
     {
