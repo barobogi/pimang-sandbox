@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Giheung-gu, Yongin",
+      "landmarks": {
+        "보정동 카페거리": [
+          "Bojeong-dong Cafe Street",
+          "Yongin's signature cafe street."
+        ],
+        "신갈지구": [
+          "Singal District",
+          "Signature residential new town of Giheung-gu."
+        ],
+        "기흥역 상권": [
+          "Giheung Station District",
+          "Commercial hub centered on Giheung Station."
+        ],
+        "동백지구": [
+          "Dongbaek District",
+          "Signature residential new town of Yongin."
+        ],
+        "기흥동 상권": [
+          "Giheung-dong District",
+          "Everyday commercial hub in Giheung-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 龍仁市 器興区",
+      "landmarks": {
+        "보정동 카페거리": [
+          "亭子洞カフェ街",
+          "龍仁を代表するカフェストリート。"
+        ],
+        "신갈지구": [
+          "新葛地区",
+          "器興区を代表する住宅新都市。"
+        ],
+        "기흥역 상권": [
+          "器興駅商圏",
+          "器興駅を中心とする代表的な商圏。"
+        ],
+        "동백지구": [
+          "冬柏地区",
+          "龍仁を代表する住宅新都市。"
+        ],
+        "기흥동 상권": [
+          "器興洞商圏",
+          "器興洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 龙仁市 器兴区",
+      "landmarks": {
+        "보정동 카페거리": [
+          "宝亭洞咖啡街",
+          "龙仁的代表性咖啡街。"
+        ],
+        "신갈지구": [
+          "新葛地区",
+          "器兴区的代表性居住新城。"
+        ],
+        "기흥역 상권": [
+          "器兴站商圈",
+          "以器兴站为中心的代表性商圈。"
+        ],
+        "동백지구": [
+          "冬柏地区",
+          "龙仁的代表性居住新城。"
+        ],
+        "기흥동 상권": [
+          "器兴洞商圈",
+          "器兴洞形成的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
