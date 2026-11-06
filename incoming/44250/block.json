@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "계룡산 봄 진달래",
+        "계룡문화예술의전당 봄"
+      ],
+      "summer": [
+        "계룡산 계곡 여름",
+        "계룡시장 여름"
+      ],
+      "autumn": [
+        "계룡산 단풍길",
+        "계룡시장 가을"
+      ],
+      "winter": [
+        "계룡산 설경",
+        "계룡대 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "계룡산 야경",
+        "coordinates": [
+          36.342433,
+          127.205981
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "계룡문화예술의전당 야경",
+        "coordinates": [
+          36.272894,
+          127.234127
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "계룡시는 대한민국 국군의 3군 본부가 자리한 군사 도시로 계룡산 자락의 계획 도시이다.",
   "data_sources": [
     {
