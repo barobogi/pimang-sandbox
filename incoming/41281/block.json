@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Deogyang-gu, Goyang",
+      "landmarks": {
+        "행주산성": [
+          "Haengjusanseong Fortress",
+          "Riverside fortress on the Han River, site of the great Haengju victory."
+        ],
+        "화정동 상권": [
+          "Hwajeong-dong District",
+          "Commercial hub of Deogyang-gu in Hwajeong-dong."
+        ],
+        "고양시청": [
+          "Goyang City Hall",
+          "Administrative center of Goyang."
+        ],
+        "창릉천": [
+          "Changneungcheon Stream",
+          "Stream flowing through Deogyang-gu."
+        ],
+        "덕은공원": [
+          "Deogeun Park",
+          "Signature neighborhood park of Deogyang-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 高陽市 徳陽区",
+      "landmarks": {
+        "행주산성": [
+          "幸州山城",
+          "漢江のほとりにある代表的な山城。幸州大捷の歴史を持つ。"
+        ],
+        "화정동 상권": [
+          "花井洞商圏",
+          "花井洞に形成された徳陽区を代表する商圏。"
+        ],
+        "고양시청": [
+          "高陽市庁",
+          "高陽市の行政中心。"
+        ],
+        "창릉천": [
+          "昌陵川",
+          "徳陽区を流れる支流。"
+        ],
+        "덕은공원": [
+          "徳隠公園",
+          "徳陽区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 高阳市 德阳区",
+      "landmarks": {
+        "행주산성": [
+          "幸州山城",
+          "汉江畔的代表性山城，留有幸州大捷的历史。"
+        ],
+        "화정동 상권": [
+          "花井洞商圈",
+          "花井洞形成的德阳区代表性商圈。"
+        ],
+        "고양시청": [
+          "高阳市厅",
+          "高阳市的行政中心。"
+        ],
+        "창릉천": [
+          "昌陵川",
+          "流经德阳区的河流。"
+        ],
+        "덕은공원": [
+          "德隐公园",
+          "德阳区的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
