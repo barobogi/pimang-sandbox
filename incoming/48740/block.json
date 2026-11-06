@@ -345,6 +345,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -470,5 +475,48 @@
       128.500376,
       35.527471
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "창녕군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.491282,
+      35.547625
+    ],
+    "reservation_url": "https://www.cng.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "창녕군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.491982,
+      35.544325
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "창녕군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.491782,
+      35.545325
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "창녕 솥뚜껑가게",
+    "coordinates": [
+      128.497849,
+      35.540442
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "멸치볶음 (창녕군 지정 모범음식점)"
   }
 }
