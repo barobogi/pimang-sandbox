@@ -147,6 +147,84 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "침산공원",
+        "station_name": "대구역",
+        "line": "KTX 경부선",
+        "walk_minutes": 26,
+        "coordinates": [
+          35.879,
+          128.5827
+        ]
+      },
+      {
+        "target_landmark": "구암동고분군",
+        "station_name": "칠곡운암역",
+        "line": "대구 3호선",
+        "exit_no": 5,
+        "walk_minutes": 23,
+        "coordinates": [
+          35.9016,
+          128.5534
+        ]
+      },
+      {
+        "target_landmark": "팔거산성",
+        "station_name": "칠곡운암역",
+        "line": "대구 3호선",
+        "exit_no": 5,
+        "walk_minutes": 43,
+        "coordinates": [
+          35.9016,
+          128.5534
+        ]
+      },
+      {
+        "target_landmark": "칠곡향교",
+        "station_name": "칠곡향교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.949958,
+          128.550311
+        ]
+      },
+      {
+        "target_landmark": "구암서원",
+        "station_name": "대구역",
+        "line": "KTX 경부선",
+        "walk_minutes": 38,
+        "coordinates": [
+          35.879,
+          128.5827
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "북구 중앙 공영주차장",
+        "coordinates": [
+          35.925748,
+          128.566647
+        ],
+        "capacity": 408,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "북구 제2 공영주차장",
+        "coordinates": [
+          35.948758,
+          128.548711
+        ],
+        "capacity": 384,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "대구 북구는 침산공원과 구암동고분군, 팔거산성 등 역사와 자연이 함께한 대구 북부의 구이다.",
   "data_sources": [
     {
