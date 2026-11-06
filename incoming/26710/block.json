@@ -436,7 +436,7 @@
         35.244394
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "051-709-4000",
@@ -449,7 +449,8 @@
       129.298522,
       35.257284
     ],
-    "cctv_zone_count": 31
+    "cctv_zone_count": 31,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "갈맷길(기장 둘레길)",
