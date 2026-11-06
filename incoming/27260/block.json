@@ -353,5 +353,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Suseong-gu, Daegu",
+      "landmarks": {
+        "수성못": [
+          "Suseongmot Lake",
+          "Signature lakeside park in central Daegu for strolls and fishing."
+        ],
+        "국채보상운동기념공원": [
+          "National Debt Repayment Movement Memorial Park",
+          "Historic park commemorating the 1907 debt repayment movement."
+        ],
+        "아르떼뮤지엄 대구": [
+          "Arte Museum Daegu",
+          "Large media art exhibition hall in Hwanggeum-dong."
+        ],
+        "수성갯벌체험장": [
+          "Suseong Mudflat Experience",
+          "Mudflat experience facility near Suseongmot Lake."
+        ],
+        "황령산": [
+          "Hwangnyeongsan Mountain",
+          "Low mountain on Suseong-gu's south with well-built hiking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 寿城区",
+      "landmarks": {
+        "수성못": [
+          "寿城池",
+          "大邱都心を代表する湖畔公園。散歩と釣りの名所。"
+        ],
+        "국채보상운동기념공원": [
+          "国債報償運動記念公園",
+          "1907年の国債報償運動を記念する歴史公園。"
+        ],
+        "아르떼뮤지엄 대구": [
+          "アルテミュージアム大邱",
+          "黄金洞にある大型メディアアート展示館。"
+        ],
+        "수성갯벌체험장": [
+          "寿城干潟体験場",
+          "寿城池の近くに造られた干潟体験施設。"
+        ],
+        "황령산": [
+          "荒嶺山",
+          "寿城区の南に位置し、登山道が整備された低い山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 寿城区",
+      "landmarks": {
+        "수성못": [
+          "寿城湖",
+          "大邱市中心的代表性湖畔公园，散步垂钓胜地。"
+        ],
+        "국채보상운동기념공원": [
+          "国债报偿运动纪念公园",
+          "纪念1907年国债报偿运动的历史公园。"
+        ],
+        "아르떼뮤지엄 대구": [
+          "ARTE MUSEUM大邱",
+          "位于黄金洞的大型媒体艺术展馆。"
+        ],
+        "수성갯벌체험장": [
+          "寿城滩涂体验场",
+          "寿城湖附近的滩涂体验设施。"
+        ],
+        "황령산": [
+          "荒岭山",
+          "寿城区南侧的矮山，建有登山步道。"
+        ]
+      }
+    }
   }
 }
