@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "회룡포",
+        "station_name": "회룡포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.573603,
+          128.320116
+        ]
+      },
+      {
+        "target_landmark": "초간정",
+        "station_name": "초간정 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.699382,
+          128.38057
+        ]
+      },
+      {
+        "target_landmark": "예천천문우주센터",
+        "station_name": "예천천문우주센터 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.699319,
+          128.503648
+        ]
+      },
+      {
+        "target_landmark": "예천군청",
+        "station_name": "예천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.64575,
+          128.436591
+        ]
+      },
+      {
+        "target_landmark": "예천시장",
+        "station_name": "예천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 22,
+        "coordinates": [
+          36.64575,
+          128.436591
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "예천 중앙 공영주차장",
+        "coordinates": [
+          36.64855,
+          128.436591
+        ],
+        "capacity": 252,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "예천 제2 공영주차장",
+        "coordinates": [
+          36.656524,
+          128.452512
+        ],
+        "capacity": 207,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "예천군은 회룡포와 초간정, 예천천문우주센터가 자리한 경북 중서부의 군이다.",
   "data_sources": [
     {
