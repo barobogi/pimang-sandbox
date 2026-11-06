@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Anseong-si, Gyeonggi",
+      "landmarks": {
+        "안성시청": [
+          "Anseong City Hall",
+          "Administrative center of Anseong."
+        ],
+        "안성문화예술회관": [
+          "Anseong Arts Center",
+          "Anseong's leading performance and exhibition venue."
+        ],
+        "서운동 상권": [
+          "Seoun-dong District",
+          "Commercial hub of Anseong in Seoun-dong."
+        ],
+        "공도읍 상권": [
+          "Gongdo-eup District",
+          "Everyday commercial hub across Gongdo-eup."
+        ],
+        "안성천": [
+          "Anseongcheon Stream",
+          "Representative stream flowing through Anseong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安城市",
+      "landmarks": {
+        "안성시청": [
+          "安城市庁",
+          "安城市の行政中心。"
+        ],
+        "안성문화예술회관": [
+          "安城文化芸術会館",
+          "安城を代表する公演・展示施設。"
+        ],
+        "서운동 상권": [
+          "徐雲洞商圏",
+          "徐雲洞に形成された安城を代表する商圏。"
+        ],
+        "공도읍 상권": [
+          "孔道邑商圏",
+          "孔道邑一帯の代表的な生活商圏。"
+        ],
+        "안성천": [
+          "安養川",
+          "安城を流れる代表的な支流。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安城市",
+      "landmarks": {
+        "안성시청": [
+          "安城市厅",
+          "安城市的行政中心。"
+        ],
+        "안성문화예술회관": [
+          "安城文化艺术会馆",
+          "安城代表性的演出展览场馆。"
+        ],
+        "서운동 상권": [
+          "瑞云洞商圈",
+          "瑞云洞形成的安城代表性商圈。"
+        ],
+        "공도읍 상권": [
+          "孔道邑商圈",
+          "孔道邑一带的代表性生活商圈。"
+        ],
+        "안성천": [
+          "安城川",
+          "流经安城的代表性河流。"
+        ]
+      }
+    }
   }
 }
