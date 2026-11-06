@@ -409,5 +409,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sunchang.go.kr",
+    "civil_service_center": {
+      "location_name": "순창군청 민원실 앞",
+      "coordinates": [
+        127.086804,
+        35.42738
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "063-650-1114",
+      "info": "전북특별자치도 순창군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "순창군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.086405,
+      35.42788
+    ],
+    "cctv_zone_count": 25
+  },
+  "urban_parks_trails": {
+    "park_name": "내장산도립공원",
+    "trail_length_km": 3.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "순창 고추축제",
+    "typical_month": 9,
+    "venue_name": "순창군민운동장",
+    "venue_coords": [
+      127.086705,
+      35.42818
+    ]
   }
 }
