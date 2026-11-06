@@ -297,6 +297,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "남한산성 봄 진달래",
+        "탄천 벚꽃길"
+      ],
+      "summer": [
+        "탄천 여름 물놀이",
+        "신흥시장 여름 야시장"
+      ],
+      "autumn": [
+        "남한산성 단풍길",
+        "탄천 억새"
+      ],
+      "winter": [
+        "남한산성 설경",
+        "신흥시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "남한산성 야경",
+        "coordinates": [
+          37.46876,
+          127.166995
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "탄천 야경",
+        "coordinates": [
+          37.441165,
+          127.119827
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "성남 수정구는 남한산성 북쪽 자락의 구로 신흥시장과 산성역 상권이 함께한다.",
   "data_sources": [
     {
