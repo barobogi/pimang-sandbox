@@ -357,5 +357,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Chuncheon-si, Gangwon",
+      "landmarks": {
+        "남이섬": [
+          "Nami Island",
+          "Island attraction formed by a Bukhan River dam, one of Korea's top resorts."
+        ],
+        "의암호": [
+          "Uiamho Lake",
+          "Lake at the heart of Chuncheon, home to the famous Lego-style landmark Uiambyeoljang."
+        ],
+        "삼악산": [
+          "Samaksan Mountain",
+          "636 m downtown mountain with the Samaksan Cable Car and log pavilion trail."
+        ],
+        "춘천 명동": [
+          "Chuncheon Myeongdong",
+          "Downtown commercial street famed for its dakgalbi (spicy chicken) alley."
+        ],
+        "춘천인형극장": [
+          "Chuncheon Puppet Theater",
+          "Korea's only puppet theater, home of the Chuncheon Puppet Festival."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 春川市",
+      "landmarks": {
+        "남이섬": [
+          "南怡島",
+          "北漢江のダム建設で形成された島の観光地。全国屈指の代表的な行楽地。"
+        ],
+        "의암호": [
+          "衣岩湖",
+          "春川都心の中央にある湖。有名なレゴ風ランドマーク・衣岩別荘とともにある。"
+        ],
+        "삼악산": [
+          "三岳山",
+          "標高636メートルの山。三岳山ケーブルカーと丸太のあずまやの道が整備された都心の名山。"
+        ],
+        "춘천 명동": [
+          "春川明洞",
+          "タッカルビ横丁で有名な春川都心の商業ストリート。"
+        ],
+        "춘천인형극장": [
+          "春川人形劇場",
+          "国内唯一の人形劇専門劇場。春川人形劇祭の拠点。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 春川市",
+      "landmarks": {
+        "남이섬": [
+          "南怡岛",
+          "因北汉江筑坝而形成的岛屿景区，全国顶级的代表性游园地。"
+        ],
+        "의암호": [
+          "衣岩湖",
+          "春川市中心的湖泊，与著名的乐高风格地标衣岩别墅相伴。"
+        ],
+        "삼악산": [
+          "三岳山",
+          "海拔636米的城中名山，建有缆车和木亭步道。"
+        ],
+        "춘천 명동": [
+          "春川明洞",
+          "以辣炒鸡排巷闻名的春川商业街。"
+        ],
+        "춘천인형극장": [
+          "春川木偶剧场",
+          "韩国唯一的木偶剧专门剧场，春川木偶节的大本营。"
+        ]
+      }
+    }
   }
 }
