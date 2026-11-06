@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "의왕초등학교 운동장",
+        "coordinates": [
+          37.383624,
+          126.984785
+        ],
+        "capacity": 6400,
+        "address": "경기도 의왕시"
+      },
+      {
+        "name": "의왕실내체육관",
+        "coordinates": [
+          37.373914,
+          126.976881
+        ],
+        "capacity": 2100,
+        "address": "경기도 의왕시"
+      },
+      {
+        "name": "의왕중앙공원 비상집합장소",
+        "coordinates": [
+          37.360454,
+          126.958416
+        ],
+        "capacity": 4300,
+        "address": "경기도 의왕시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "백운호수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오전동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "의왕박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "백운산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "내손동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "의왕시는 백운호수와 오전동 상권이 함께한 경기 남부의 도시이다.",
   "data_sources": [
     {
