@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Bundang-gu, Seongnam",
+      "landmarks": {
+        "판교테크노밸리": [
+          "Pangyo Techno Valley",
+          "Korea's largest cluster of IT companies."
+        ],
+        "정자동 상권": [
+          "Jeongja-dong District",
+          "Signature commercial hub of Seongnam."
+        ],
+        "야탑역 상권": [
+          "Yatap Station District",
+          "Commercial hub centered on Yatap Station."
+        ],
+        "분당중앙공원": [
+          "Bundang Central Park",
+          "Signature park at the heart of Bundang New Town."
+        ],
+        "수내공원": [
+          "Sunae Park",
+          "Signature park of Sunae-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 城南市 分当区",
+      "landmarks": {
+        "판교테크노밸리": [
+          "板橋テクノバレー",
+          "国内最大のIT企業集積団地。"
+        ],
+        "정자동 상권": [
+          "亭子洞商圏",
+          "城南市を代表する商業商圏。"
+        ],
+        "야탑역 상권": [
+          "野塔駅商圏",
+          "野塔駅を中心とする代表的な商圏。"
+        ],
+        "분당중앙공원": [
+          "分当中央公園",
+          "分当新都市の中央にある代表的な公園。"
+        ],
+        "수내공원": [
+          "水内公園",
+          "水内洞の代表的な公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 城南市 盆唐区",
+      "landmarks": {
+        "판교테크노밸리": [
+          "板桥科技谷",
+          "韩国最大的IT企业聚集园区。"
+        ],
+        "정자동 상권": [
+          "亭子洞商圈",
+          "城南代表性商业商圈。"
+        ],
+        "야탑역 상권": [
+          "野塔站商圈",
+          "以野塔站为中心的代表性商圈。"
+        ],
+        "분당중앙공원": [
+          "盆唐中央公园",
+          "盆唐新城中央的代表性公园。"
+        ],
+        "수내공원": [
+          "水内公园",
+          "水内洞的代表性公园。"
+        ]
+      }
+    }
   }
 }
