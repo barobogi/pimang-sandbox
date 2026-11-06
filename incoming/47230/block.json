@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongcheon-si, Gyeongbuk",
+      "landmarks": {
+        "은해사": [
+          "Eunhaesa Temple",
+          "Signature temple heritage of Yeongcheon-si, Gyeongbuk."
+        ],
+        "보현산": [
+          "Bohyeonsan Mountain",
+          "Signature mountain attraction of Yeongcheon-si, Gyeongbuk."
+        ],
+        "임고서원": [
+          "Imgo Seowon",
+          "Signature Confucian academy heritage of Yeongcheon-si, Gyeongbuk."
+        ],
+        "영천시청": [
+          "Yeongcheon City Hall",
+          "Administrative center of Yeongcheon-si, Gyeongbuk."
+        ],
+        "영천시장": [
+          "Yeongcheon Market",
+          "Signature market attraction of Yeongcheon-si, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 永川市",
+      "landmarks": {
+        "은해사": [
+          "銀海寺",
+          "慶尚北道永川市を代表する名所。"
+        ],
+        "보현산": [
+          "普賢山",
+          "慶尚北道永川市を代表する名所。"
+        ],
+        "임고서원": [
+          "臨皐書院",
+          "慶尚北道永川市を代表する名所。"
+        ],
+        "영천시청": [
+          "永川市庁",
+          "慶尚北道永川市を代表する名所。"
+        ],
+        "영천시장": [
+          "永川市場",
+          "慶尚北道永川市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 永川市",
+      "landmarks": {
+        "은해사": [
+          "银海寺",
+          "庆尚北道永川市的代表性古刹。"
+        ],
+        "보현산": [
+          "普贤山",
+          "庆尚北道永川市的代表性名山。"
+        ],
+        "임고서원": [
+          "临皋书院",
+          "庆尚北道永川市的代表性书院。"
+        ],
+        "영천시청": [
+          "永川市厅",
+          "庆尚北道永川市的行政中心。"
+        ],
+        "영천시장": [
+          "永川市场",
+          "庆尚北道永川市的代表性市场。"
+        ]
+      }
+    }
   }
 }
