@@ -153,6 +153,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청태산자연휴양림",
+        "station_name": "청태산자연휴양림 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.524669,
+          128.296574
+        ]
+      },
+      {
+        "target_landmark": "횡성호",
+        "station_name": "횡성호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.546297,
+          128.040822
+        ]
+      },
+      {
+        "target_landmark": "둔내면 상권",
+        "station_name": "둔내면 상권 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.511726,
+          128.220784
+        ]
+      },
+      {
+        "target_landmark": "횡성시장",
+        "station_name": "횡성시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.489326,
+          127.989201
+        ]
+      },
+      {
+        "target_landmark": "횡성군청",
+        "station_name": "횡성군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.49134,
+          127.98712
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "횡성 중앙 공영주차장",
+        "coordinates": [
+          37.492126,
+          127.988001
+        ],
+        "capacity": 273,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "횡성 제2 공영주차장",
+        "coordinates": [
+          37.49014,
+          127.98672
+        ],
+        "capacity": 278,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "횡성군은 강원 영서 내륙의 군으로 횡성한우와 둔내, 청태산 자연휴양림 등 산림 자원이 풍부한 지역이다.",
   "data_sources": [
     {
