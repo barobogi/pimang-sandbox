@@ -137,6 +137,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "구로디지털단지",
+        "station_name": "구일역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 35,
+        "coordinates": [
+          37.497,
+          126.8767
+        ]
+      },
+      {
+        "target_landmark": "구로공단",
+        "station_name": "구일역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 36,
+        "coordinates": [
+          37.497,
+          126.8767
+        ]
+      },
+      {
+        "target_landmark": "고척스카이돔",
+        "station_name": "구일역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.497,
+          126.8767
+        ]
+      },
+      {
+        "target_landmark": "도림천",
+        "station_name": "신도림역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.5088,
+          126.8912
+        ]
+      },
+      {
+        "target_landmark": "가산동 상권",
+        "station_name": "구일역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 26,
+        "coordinates": [
+          37.497,
+          126.8767
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "구로 중앙 공영주차장",
+        "coordinates": [
+          37.499394,
+          126.868673
+        ],
+        "capacity": 65,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구로 제2 공영주차장",
+        "coordinates": [
+          37.4798,
+          126.8828
+        ],
+        "capacity": 404,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구로 제3 공영주차장",
+        "coordinates": [
+          37.498108,
+          126.895574
+        ],
+        "capacity": 284,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "구로구는 대한민국 최초의 국가산업단지가 조성된 대표 공업 도시 구이며 구로디지털단지로 재탄생한 서울 남서부의 산업 중심지다.",
   "data_sources": [
     {
