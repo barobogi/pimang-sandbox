@@ -285,6 +285,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "태백산 봄 진달래",
+        "황지연못 봄"
+      ],
+      "summer": [
+        "태백산 여름",
+        "매봉산 여름"
+      ],
+      "autumn": [
+        "태백산 단풍길",
+        "매봉산 억새"
+      ],
+      "winter": [
+        "태백산 설경",
+        "황지연못 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "태백산 야경",
+        "coordinates": [
+          37.146823,
+          128.905738
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "황지연못 야경",
+        "coordinates": [
+          37.173139,
+          128.991036
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "태백시는 해발 700m 고원에 자리한 강원 영동 내륙의 도시로 태백산과 황지연못, 석탄박물관이 대표 명소이다.",
   "data_sources": [
     {
