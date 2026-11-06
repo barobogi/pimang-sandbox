@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "벽골제",
+        "station_name": "벽골제 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.752893,
+          126.852302
+        ]
+      },
+      {
+        "target_landmark": "금산사",
+        "station_name": "금산사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.722203,
+          127.052497
+        ]
+      },
+      {
+        "target_landmark": "만경평야",
+        "station_name": "만경평야 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.880648,
+          126.814695
+        ]
+      },
+      {
+        "target_landmark": "김제시청",
+        "station_name": "김제시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.80278,
+          126.879446
+        ]
+      },
+      {
+        "target_landmark": "김제시장",
+        "station_name": "김제시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.799334,
+          126.885226
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "김제 중앙 공영주차장",
+        "coordinates": [
+          35.751293,
+          126.851502
+        ],
+        "capacity": 76,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "김제 제2 공영주차장",
+        "coordinates": [
+          35.881848,
+          126.817095
+        ],
+        "capacity": 577,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "김제 제3 공영주차장",
+        "coordinates": [
+          35.80278,
+          126.879846
+        ],
+        "capacity": 354,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "김제시는 벽골제와 만경평야, 금산사가 자리한 전북 서부의 대표 농업 도시이다.",
   "data_sources": [
     {
