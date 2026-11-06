@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금성산",
+        "station_name": "금성산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.263228,
+          128.706485
+        ]
+      },
+      {
+        "target_landmark": "의성 탑리리 오층석탑",
+        "station_name": "의성 탑리리 오층석탑 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.255998,
+          128.681067
+        ]
+      },
+      {
+        "target_landmark": "의성군청",
+        "station_name": "의성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.354303,
+          128.699176
+        ]
+      },
+      {
+        "target_landmark": "의성시장",
+        "station_name": "의성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 14,
+        "coordinates": [
+          36.354303,
+          128.699176
+        ]
+      },
+      {
+        "target_landmark": "조문국박물관",
+        "station_name": "조문국박물관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.277472,
+          128.666429
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의성 중앙 공영주차장",
+        "coordinates": [
+          36.351503,
+          128.695976
+        ],
+        "capacity": 197,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "의성 제2 공영주차장",
+        "coordinates": [
+          36.347152,
+          128.701737
+        ],
+        "capacity": 30,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "의성군은 마늘의 고장으로 유명하며 금성산과 탑리리 오층석탑이 자리한 경북 중부의 군이다.",
   "data_sources": [
     {
