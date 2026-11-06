@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "광산초등학교 운동장",
+        "coordinates": [
+          35.200659,
+          126.808351
+        ],
+        "capacity": 6000,
+        "address": "광주광역시 광산구"
+      },
+      {
+        "name": "광산실내체육관",
+        "coordinates": [
+          35.167518,
+          126.808878
+        ],
+        "capacity": 4000,
+        "address": "광주광역시 광산구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "첨단지구",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송정역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "백호생태공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "우수영공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수완지구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "광주 광산구는 첨단지구와 송정역 상권이 자리한 광주 서부의 구이다.",
   "data_sources": [
     {
