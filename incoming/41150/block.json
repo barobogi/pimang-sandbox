@@ -355,5 +355,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uijeongbu-si, Gyeonggi",
+      "landmarks": {
+        "의정부역 상권": [
+          "Uijeongbu Station District",
+          "Commercial hub centered on Uijeongbu Station."
+        ],
+        "자작공원": [
+          "Jajak Park",
+          "Signature park of downtown Uijeongbu."
+        ],
+        "의정부 경전철": [
+          "Uijeongbu Light Rail",
+          "Signature light rail transit linking downtown Uijeongbu."
+        ],
+        "호수공원": [
+          "Lake Park",
+          "Uijeongbu's signature lakeside park."
+        ],
+        "회룡역 상권": [
+          "Hoeryong Station District",
+          "Everyday commercial hub centered on Hoeryong Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 議政府市",
+      "landmarks": {
+        "의정부역 상권": [
+          "議政府駅商圏",
+          "議政府駅を中心とする代表的な商業地域。"
+        ],
+        "자작공원": [
+          "自作公園",
+          "議政府都心を代表する公園。"
+        ],
+        "의정부 경전철": [
+          "議政府軽電鉄",
+          "議政府の都心を結ぶ代表的な公共交通。"
+        ],
+        "호수공원": [
+          "湖畔公園",
+          "議政府を代表する湖畔公園。"
+        ],
+        "회룡역 상권": [
+          "回龍駅商圏",
+          "回龍駅を中心とする代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 议政府市",
+      "landmarks": {
+        "의정부역 상권": [
+          "议政府站商圈",
+          "以议政府站为中心的代表性商业区。"
+        ],
+        "자작공원": [
+          "自作公园",
+          "议政府市中心的代表性公园。"
+        ],
+        "의정부 경전철": [
+          "议政府轻电铁",
+          "连接议政府市中心的代表性轨道交通。"
+        ],
+        "호수공원": [
+          "湖畔公园",
+          "议政府的代表性湖畔公园。"
+        ],
+        "회룡역 상권": [
+          "回龙站商圈",
+          "以回龙站为中心的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
