@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중원초등학교 운동장",
+        "coordinates": [
+          37.406815,
+          127.119139
+        ],
+        "capacity": 4600,
+        "address": "경기도 성남시 중원구"
+      },
+      {
+        "name": "중원실내체육관",
+        "coordinates": [
+          37.423022,
+          127.127781
+        ],
+        "capacity": 3200,
+        "address": "경기도 성남시 중원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "성남아트센터",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상대원동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "탄천",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성남문화원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "여수정공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "성남 중원구는 성남아트센터와 탄천이 자리한 성남 중부의 구이다.",
   "data_sources": [
     {
