@@ -147,6 +147,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "평촌 상권",
+        "station_name": "범계역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.3897,
+          126.9542
+        ]
+      },
+      {
+        "target_landmark": "관양동 상권",
+        "station_name": "평촌역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3943,
+          126.9474
+        ]
+      },
+      {
+        "target_landmark": "호계동 상권",
+        "station_name": "범계역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 16,
+        "coordinates": [
+          37.3897,
+          126.9542
+        ]
+      },
+      {
+        "target_landmark": "평촌중앙공원",
+        "station_name": "범계역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.3897,
+          126.9542
+        ]
+      },
+      {
+        "target_landmark": "비산공원",
+        "station_name": "평촌역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3943,
+          126.9474
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동안 중앙 공영주차장",
+        "coordinates": [
+          37.3978,
+          126.9596
+        ],
+        "capacity": 157,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동안 제2 공영주차장",
+        "coordinates": [
+          37.3938,
+          126.9516
+        ],
+        "capacity": 479,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동안 제3 공영주차장",
+        "coordinates": [
+          37.3916,
+          126.9484
+        ],
+        "capacity": 78,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "안양 동안구는 평촌신도시 상권이 자리한 안양 동부의 구이다.",
   "data_sources": [
     {
