@@ -215,6 +215,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "달서초등학교 운동장",
+        "coordinates": [
+          35.833331,
+          128.538462
+        ],
+        "capacity": 7500,
+        "address": "대구광역시 달서구"
+      },
+      {
+        "name": "달서실내체육관",
+        "coordinates": [
+          35.81139,
+          128.514916
+        ],
+        "capacity": 3700,
+        "address": "대구광역시 달서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "성당공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이약산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "달서공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상인락공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "감삼공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "달서구는 대구 서부에 위치한 대규모 주거 도시로 성당공원과 이약산 등의 도심 자연과 함께 발달했다.",
   "data_sources": [
     {
