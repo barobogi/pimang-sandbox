@@ -234,6 +234,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강서초등학교 운동장",
+        "coordinates": [
+          37.582519,
+          126.826738
+        ],
+        "capacity": 5100,
+        "address": "서울특별시 강서구"
+      },
+      {
+        "name": "강서실내체육관",
+        "coordinates": [
+          37.565824,
+          126.781752
+        ],
+        "capacity": 5200,
+        "address": "서울특별시 강서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서울식물원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "김포공항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "우장산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "염창한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "바우덕이극장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "강서구는 김포국민 공유지가 개발되어 형성된 서울 서남부의 자치구로 마곡지구에 서울식물원이 조성되었고 화곡·등촌·가양 등의 주거지가 발달했다.",
   "data_sources": [
     {
