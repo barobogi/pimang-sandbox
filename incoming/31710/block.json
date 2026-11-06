@@ -1,0 +1,590 @@
+{
+  "block_code": "31710",
+  "block_name": "울산광역시 울주군",
+  "bbox": [
+    128.970735,
+    35.186171,
+    129.60721,
+    35.72449
+  ],
+  "center": [
+    35.45533,
+    129.288973
+  ],
+  "landmarks": [
+    {
+      "name": "대곡천암각화",
+      "lat": 35.63,
+      "lng": 129.26,
+      "category": "유네스코/문화유산",
+      "description": "반구대와 함께 유네스코 세계유산으로 등재된 선사시대 암각화 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 172.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangudae3.jpg/1280px-Bangudae3.jpg"
+    },
+    {
+      "name": "천전리각사",
+      "lat": 35.64,
+      "lng": 129.27,
+      "category": "유네스코/문화유산",
+      "description": "신라 시대 각사 유적으로 세계유산 반구대 지구에 속한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 175.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ulju-gun_ULSAN.PNG"
+    },
+    {
+      "name": "간절감",
+      "lat": 35.5,
+      "lng": 129.233,
+      "category": "해양/관광",
+      "description": "간절목 일대 해안 조약돌 명소로 낚시와 드라이브 코스로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 134.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ulju-gun_ULSAN.PNG"
+    },
+    {
+      "name": "언양 자수정 동굴나라",
+      "lat": 35.548,
+      "lng": 129.19,
+      "category": "동굴/테마",
+      "description": "자수정 광산 폐갱도를 활용해 조성한 국내 최초의 인공동굴 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 139.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Am-Cave-Ul1.jpg/1280px-Am-Cave-Ul1.jpg"
+    },
+    {
+      "name": "온산항",
+      "lat": 35.43,
+      "lng": 129.31,
+      "category": "항구/어촌",
+      "description": "온산 지역의 대표 어항으로 어시장이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 325.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Onsan-yok_20080914.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "울주 역사·문화 시그니처 스카이 트레일",
+      "description": "온산항 → 간절감 → 언양 자수정 동굴나라 → 대곡천암각화 → 천전리각사 순으로 이어지는 울산광역시 울주군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "온산항",
+        "간절감",
+        "언양 자수정 동굴나라",
+        "대곡천암각화",
+        "천전리각사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "울주 세월을 나는 문화유산 플라이트",
+      "description": "천전리각사 → 대곡천암각화 → 언양 자수정 동굴나라 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 울주의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "천전리각사",
+        "대곡천암각화",
+        "언양 자수정 동굴나라"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "울주 도심 스카이라인 크루즈",
+      "description": "언양 자수정 동굴나라 → 간절감 → 온산항 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 울주의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "언양 자수정 동굴나라",
+        "간절감",
+        "온산항"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "온산항 본점",
+      "lat": 35.42986,
+      "lng": 129.3107,
+      "specialty": "고래고기구이",
+      "category": "수산물"
+    },
+    {
+      "name": "간절감 옛맛식당",
+      "lat": 35.49979,
+      "lng": 129.2323,
+      "specialty": "고래회무침",
+      "category": "수산물"
+    },
+    {
+      "name": "언양 자수정 동굴나라 골목식당",
+      "lat": 35.54737,
+      "lng": 129.18958,
+      "specialty": "왕새우탕",
+      "category": "수산물"
+    },
+    {
+      "name": "대곡천암각화 본점",
+      "lat": 35.62979,
+      "lng": 129.26021,
+      "specialty": "간장게장",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대곡천암각화",
+        "station_name": "대곡천암각화 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.6316,
+          129.258
+        ]
+      },
+      {
+        "target_landmark": "천전리각사",
+        "station_name": "천전리각사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.6416,
+          129.268
+        ]
+      },
+      {
+        "target_landmark": "간절감",
+        "station_name": "간절감 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.5016,
+          129.231
+        ]
+      },
+      {
+        "target_landmark": "언양 자수정 동굴나라",
+        "station_name": "언양 자수정 동굴나라 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.5496,
+          129.188
+        ]
+      },
+      {
+        "target_landmark": "온산항",
+        "station_name": "울주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.4308,
+          129.3096
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "울주 중앙 공영주차장",
+        "coordinates": [
+          35.4304,
+          129.312
+        ],
+        "capacity": 212,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "울주 제2 공영주차장",
+        "coordinates": [
+          35.4976,
+          129.2326
+        ],
+        "capacity": 59,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "울주 제3 공영주차장",
+        "coordinates": [
+          35.5488,
+          129.1912
+        ],
+        "capacity": 255,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "울주초등학교 운동장",
+        "coordinates": [
+          35.59579,
+          129.184937
+        ],
+        "capacity": 1300,
+        "address": "울산광역시 울주군"
+      },
+      {
+        "name": "울주실내체육관",
+        "coordinates": [
+          35.590134,
+          129.266866
+        ],
+        "capacity": 1300,
+        "address": "울산광역시 울주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대곡천암각화",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "천전리각사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "간절감",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "언양 자수정 동굴나라",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온산항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "간절곶 봄 바다",
+        "대곡천암각화 봄"
+      ],
+      "summer": [
+        "간절곶 여름",
+        "온산항 여름"
+      ],
+      "autumn": [
+        "천전리각사 가을",
+        "간절곶 억새"
+      ],
+      "winter": [
+        "간절곶 해맞이",
+        "언양 자수정 동굴나라 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "간절곶 야경",
+        "coordinates": [
+          35.5,
+          129.233
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "온산항 야경",
+        "coordinates": [
+          35.43,
+          129.31
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "울주군은 울산 서부의 광역 군으로 대곡천 반구대 암각화 등 유네스코 세계유산과 간절감, 언양 자수정 동굴나라 등 해양·내륙 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ulju-gun, Ulsan",
+      "landmarks": {
+        "대곡천암각화": [
+          "Cheonjeon-ri & Ugok-ri Petroglyphs",
+          "Prehistoric petroglyphs inscribed on UNESCO's World Heritage list together with Bangudae."
+        ],
+        "천전리각사": [
+          "Cheonjeon-ri Rock Carvings",
+          "Silla-era engraved Buddhist shrine images, part of the Bangudae World Heritage district."
+        ],
+        "간절감": [
+          "Ganjeolgam Point",
+          "Coastal pebble beach at Ganjeolmok, famed for fishing and scenic drives."
+        ],
+        "언양 자수정 동굴나라": [
+          "Eonyang Amethyst Cave World",
+          "Korea's first artificial cave attraction, built from a decommissioned amethyst mine."
+        ],
+        "온산항": [
+          "Onsan Port",
+          "Signature fishing port of the Onsan area, famed for its fish market."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 蔚州郡",
+      "landmarks": {
+        "대곡천암각화": [
+          "大谷川岩刻画",
+          "盤亀台とともにユネスコ世界遺産に登録された先史時代の岩刻画遺跡。"
+        ],
+        "천전리각사": [
+          "川前里刻石",
+          "新羅時代の刻石遺跡で、世界遺産の盤亀台地区に属する。"
+        ],
+        "간절감": [
+          "簡절감",
+          "簡절木一帯の海岸の玉石の名所。釣りとドライブコースで有名。"
+        ],
+        "언양 자수정 동굴나라": [
+          "彦陽アメジスト洞窟王国",
+          "アメジスト鉱山の廃坑を活用した国内初の人工洞窟観光地。"
+        ],
+        "온산항": [
+          "温山港",
+          "温山地区を代表する漁港。魚市場で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 蔚州郡",
+      "landmarks": {
+        "대곡천암각화": [
+          "大谷川岩刻画",
+          "与盘龟台一同列入联合国教科文组织世界遗产的史前岩刻画遗迹。"
+        ],
+        "천전리각사": [
+          "川前里刻石",
+          "新罗时代刻石遗迹，属世界遗产盘龟台地区。"
+        ],
+        "간절감": [
+          " Ganjeolgam海角",
+          "干旱木一带的海岸鹅卵石胜地，垂钓兜风皆宜。"
+        ],
+        "언양 자수정 동굴나라": [
+          "彦阳紫水晶洞窟王国",
+          "利用紫水晶矿废巷建成的韩国首个人工洞窟景区。"
+        ],
+        "온산항": [
+          "温山港",
+          "温山地区的代表性渔港，以鱼市闻名。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ulju.ulsan.kr",
+    "civil_service_center": {
+      "location_name": "울주군청 민원실 앞",
+      "coordinates": [
+        129.281989,
+        35.536376
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "052-229-7000",
+      "info": "울산광역시 울주군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "울주군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.288373,
+      35.455131
+    ],
+    "cctv_zone_count": 57,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "울주 반구대공원",
+    "trail_length_km": 2.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "울주 세계산식축제",
+    "typical_month": 10,
+    "venue_name": "울주군청 일대",
+    "venue_coords": [
+      129.288772,
+      35.45503
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "울주군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      129.281089,
+      35.534876
+    ],
+    "reservation_url": "https://www.ulju.ulsan.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "울주군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.280489,
+      35.538976
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "울주군청 공영주차장 급속충전소",
+    "coordinates": [
+      129.283689,
+      35.539176
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "언양 자수정 동굴나라 골목식당",
+    "coordinates": [
+      129.18958,
+      35.54737
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "왕새우탕 (울주군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=울주군청&goalx=129.281989&goaly=35.536376",
+    "kakaonavi_url": "kakaonavi://navigate?name=울주군청&x=129.281989&y=35.536376&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=울주군청&dlng=129.281989&dlat=35.536376&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:34",
+      "noon_altitude_deg": 54.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:08",
+      "sunset": "19:41",
+      "noon_altitude_deg": 78.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:11",
+      "sunset": "18:19",
+      "noon_altitude_deg": 54.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:29",
+      "sunset": "17:14",
+      "noon_altitude_deg": 31.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "울주군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.288223,
+          35.456281
+        ],
+        [
+          129.288373,
+          35.455131
+        ],
+        [
+          129.288123,
+          35.453831
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "울주군 전통시장 만남의거리",
+    "anchor_center": [
+      129.282122,
+      35.538243
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 30,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
