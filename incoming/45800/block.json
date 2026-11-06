@@ -223,6 +223,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "부안초등학교 운동장",
+        "coordinates": [
+          35.641117,
+          126.456911
+        ],
+        "capacity": 1300,
+        "address": "전북특별자치도 부안군"
+      },
+      {
+        "name": "부안실내체육관",
+        "coordinates": [
+          35.597799,
+          126.45847
+        ],
+        "capacity": 1300,
+        "address": "전북특별자치도 부안군"
+      },
+      {
+        "name": "부안중앙공원 비상집합장소",
+        "coordinates": [
+          35.566439,
+          126.463909
+        ],
+        "capacity": 6400,
+        "address": "전북특별자치도 부안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "변산반도국립공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "채석강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "내소사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고선재",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "선유도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "부안군은 변산반도국립공원과 채석강, 내소사, 고선재, 선유도 등 서해안 대표 관광 자원이 풍부한 전북 서북부의 군이다.",
   "data_sources": [
     {
