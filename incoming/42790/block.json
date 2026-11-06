@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화천산천어축제장 봄",
+        "파로호 벚꽃"
+      ],
+      "summer": [
+        "파로호 여름",
+        "평화의댐 여름"
+      ],
+      "autumn": [
+        "파로호 단풍",
+        "화천산천어축제장 가을"
+      ],
+      "winter": [
+        "화천산천어축제장 겨울 축제",
+        "파로호 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "파로호 야경",
+        "coordinates": [
+          38.144214,
+          127.908186
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "화천시장 야시장",
+        "coordinates": [
+          38.1043,
+          127.705127
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "화천군은 파로호와 화천어죽, 산천어축제로 유명한 강원 영서 북부의 군이다.",
   "data_sources": [
     {
