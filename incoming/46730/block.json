@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화엄사 봄",
+        "사성암 봄"
+      ],
+      "summer": [
+        "지리산 계곡 여름",
+        "화엄사 여름"
+      ],
+      "autumn": [
+        "지리산 단풍길",
+        "화엄사 가을"
+      ],
+      "winter": [
+        "지리산 설경",
+        "화엄사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "사성암 야경",
+        "coordinates": [
+          35.179837,
+          127.480641
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "구례시장 야시장",
+        "coordinates": [
+          35.230427,
+          127.495594
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "구례군은 지리산과 화엄사, 사성암이 자리한 전남 동부 산악 관광의 중심 군이다.",
   "data_sources": [
     {
