@@ -231,6 +231,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "함평초등학교 운동장",
+        "coordinates": [
+          35.139935,
+          126.459412
+        ],
+        "capacity": 3000,
+        "address": "전라남도 함평군"
+      },
+      {
+        "name": "함평실내체육관",
+        "coordinates": [
+          35.039516,
+          126.513158
+        ],
+        "capacity": 5400,
+        "address": "전라남도 함평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "함평자연생태공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "함평나비축제장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "함평군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "함평시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고막원천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "함평군은 함평나비축제와 함평자연생태공원, 고막원천이 자리한 전남 서부의 군이다.",
   "data_sources": [
     {
