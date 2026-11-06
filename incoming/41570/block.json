@@ -237,6 +237,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "김포초등학교 운동장",
+        "coordinates": [
+          37.719709,
+          126.529237
+        ],
+        "capacity": 2200,
+        "address": "경기도 김포시"
+      },
+      {
+        "name": "김포실내체육관",
+        "coordinates": [
+          37.653519,
+          126.642257
+        ],
+        "capacity": 7000,
+        "address": "경기도 김포시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "문수산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북변동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장기동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "김포문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "김포시는 한강 하구의 대표 도시로 문수산과 김포 평야가 함께한 경기 북서부의 도시이다.",
   "data_sources": [
     {
