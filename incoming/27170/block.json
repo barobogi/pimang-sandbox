@@ -147,6 +147,86 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "이현공원",
+        "station_name": "내당역",
+        "line": "대구 2호선",
+        "exit_no": 8,
+        "walk_minutes": 18,
+        "coordinates": [
+          35.865,
+          128.5544
+        ]
+      },
+      {
+        "target_landmark": "서대구역",
+        "station_name": "비산역",
+        "line": "대구 2호선",
+        "exit_no": 3,
+        "walk_minutes": 29,
+        "coordinates": [
+          35.8704,
+          128.5597
+        ]
+      },
+      {
+        "target_landmark": "와룡산",
+        "station_name": "와룡산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.884469,
+          128.519922
+        ]
+      },
+      {
+        "target_landmark": "만물백화점",
+        "station_name": "비산역",
+        "line": "대구 2호선",
+        "exit_no": 3,
+        "walk_minutes": 30,
+        "coordinates": [
+          35.8704,
+          128.5597
+        ]
+      },
+      {
+        "target_landmark": "초록꽃마당",
+        "station_name": "내당역",
+        "line": "대구 2호선",
+        "exit_no": 8,
+        "walk_minutes": 8,
+        "coordinates": [
+          35.865,
+          128.5544
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          35.875285,
+          128.546193
+        ],
+        "capacity": 30,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          35.880167,
+          128.539337
+        ],
+        "capacity": 54,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "대구 서구는 이현공원과 서대구역, 와룡산 둘레길이 자리한 대구 서부의 주거 상업 구이다.",
   "data_sources": [
     {
