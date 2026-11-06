@@ -1,0 +1,578 @@
+{
+  "block_code": "47930",
+  "block_name": "경상북도 울진군",
+  "bbox": [
+    129.07761,
+    36.640472,
+    129.496346,
+    37.149665
+  ],
+  "center": [
+    36.895069,
+    129.286978
+  ],
+  "landmarks": [
+    {
+      "name": "불영사",
+      "lat": 36.940014,
+      "lng": 129.272993,
+      "category": "사찰/문화유산",
+      "description": "불영사은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EC%98%81%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 166.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%EC%9A%B8%EC%A7%84_%EB%B6%88%EC%98%81%EC%82%AC_%EB%8C%80%EC%9B%85%EB%B3%B4%EC%A0%84_01.jpg"
+    },
+    {
+      "name": "왕피천",
+      "lat": 36.9648467,
+      "lng": 129.3950822,
+      "category": "하천/자연",
+      "description": "왕피천은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%99%95%ED%94%BC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 231.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Wangpicheon.jpg/1280px-Wangpicheon.jpg"
+    },
+    {
+      "name": "망양정",
+      "lat": 36.96816,
+      "lng": 129.4127875,
+      "category": "누정/경승지",
+      "description": "망양정은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%96%91%EC%A0%95",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 234.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg/1280px-%EB%A7%9D%EC%96%91%EC%A0%95-2%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg"
+    },
+    {
+      "name": "울진군청",
+      "lat": 36.9930768,
+      "lng": 129.4006345,
+      "category": "행정/랜드마크",
+      "description": "울진군청은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A7%84%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 222.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/%EB%A7%9D%EC%96%91%EC%A0%95-%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg/1280px-%EB%A7%9D%EC%96%91%EC%A0%95-%EC%9A%B8%EC%A7%84%EA%B5%B0.jpg"
+    },
+    {
+      "name": "울진시장",
+      "lat": 36.9918453,
+      "lng": 129.4023242,
+      "category": "시장/먹거리",
+      "description": "울진시장은(는) 경상북도 울진군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%A7%84%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 223.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Panoramic_view_of_Uljin-eup.jpg/1280px-Panoramic_view_of_Uljin-eup.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "울진 도심 하이라이트 시그니처 스카이 투어",
+      "description": "불영사 → 왕피천 → 망양정 → 울진시장 → 울진군청 순으로 이어지는 경상북도 울진군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "불영사",
+        "왕피천",
+        "망양정",
+        "울진시장",
+        "울진군청"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "울진 도심 스카이라인 크루즈",
+      "description": "망양정 → 울진시장 → 울진군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 울진의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "망양정",
+        "울진시장",
+        "울진군청"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "울진 할매집",
+      "lat": 36.991775,
+      "lng": 129.402884,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "울진 큰마당식당",
+      "lat": 36.991775,
+      "lng": 129.401624,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "울진 골목식당",
+      "lat": 36.992335,
+      "lng": 129.401904,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "울진 솥뚜껑가게",
+      "lat": 36.992405,
+      "lng": 129.402114,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불영사",
+        "station_name": "울진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.939614,
+          129.274993
+        ]
+      },
+      {
+        "target_landmark": "왕피천",
+        "station_name": "왕피천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.967647,
+          129.397482
+        ]
+      },
+      {
+        "target_landmark": "망양정",
+        "station_name": "망양정 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.97096,
+          129.415188
+        ]
+      },
+      {
+        "target_landmark": "울진군청",
+        "station_name": "울진군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.995877,
+          129.403034
+        ]
+      },
+      {
+        "target_landmark": "울진시장",
+        "station_name": "울진시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.994645,
+          129.404724
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "울진 중앙 공영주차장",
+        "coordinates": [
+          36.937614,
+          129.270993
+        ],
+        "capacity": 239,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "울진 제2 공영주차장",
+        "coordinates": [
+          36.967247,
+          129.397082
+        ],
+        "capacity": 117,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "울진초등학교 운동장",
+        "coordinates": [
+          36.946553,
+          129.311123
+        ],
+        "capacity": 6100,
+        "address": "경상북도 울진군"
+      },
+      {
+        "name": "울진실내체육관",
+        "coordinates": [
+          36.959259,
+          129.358912
+        ],
+        "capacity": 1100,
+        "address": "경상북도 울진군"
+      },
+      {
+        "name": "울진중앙공원 비상집합장소",
+        "coordinates": [
+          37.006518,
+          129.453959
+        ],
+        "capacity": 5000,
+        "address": "경상북도 울진군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "불영사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "왕피천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "망양정",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "울진군청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "울진시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "불영사 봄",
+        "왕피천 봄"
+      ],
+      "summer": [
+        "왕피천 여름",
+        "망양정 여름"
+      ],
+      "autumn": [
+        "불영사 단풍",
+        "망양정 가을"
+      ],
+      "winter": [
+        "망양정 해맞이",
+        "왕피천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "망양정 야경",
+        "coordinates": [
+          36.96816,
+          129.412788
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "왕피천 야경",
+        "coordinates": [
+          36.964847,
+          129.395082
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "울진군은 왕피천과 불영사, 망양정이 자리한 경북 동해안 최북단의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uljin-gun, Gyeongbuk",
+      "landmarks": {
+        "불영사": [
+          "Bulyeongsa Temple",
+          "Signature temple heritage of Uljin-gun, Gyeongbuk."
+        ],
+        "왕피천": [
+          "Wangpicheon Stream",
+          "Signature stream attraction of Uljin-gun, Gyeongbuk."
+        ],
+        "망양정": [
+          "Mangyangjeong Pavilion",
+          "Signature pavilion scenic site of Uljin-gun, Gyeongbuk."
+        ],
+        "울진군청": [
+          "Uljin County Office",
+          "Administrative center of Uljin-gun, Gyeongbuk."
+        ],
+        "울진시장": [
+          "Uljin Market",
+          "Signature market attraction of Uljin-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 蔚珍郡",
+      "landmarks": {
+        "불영사": [
+          "仏影寺",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "왕피천": [
+          "王避川",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "망양정": [
+          "望洋亭",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "울진군청": [
+          "蔚珍郡庁",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "울진시장": [
+          "蔚珍市場",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 蔚珍郡",
+      "landmarks": {
+        "불영사": [
+          "佛影寺",
+          "庆尚北道蔚珍郡的代表性古刹。"
+        ],
+        "왕피천": [
+          "王避川",
+          "庆尚北道蔚珍郡的代表性河流。"
+        ],
+        "망양정": [
+          "望洋亭",
+          "庆尚北道蔚珍郡的代表性楼亭胜景。"
+        ],
+        "울진군청": [
+          "蔚珍郡厅",
+          "庆尚北道蔚珍郡的行政中心。"
+        ],
+        "울진시장": [
+          "蔚珍市场",
+          "庆尚北道蔚珍郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.uljin.go.kr",
+    "civil_service_center": {
+      "location_name": "울진군청 민원실 앞",
+      "coordinates": [
+        129.401605,
+        36.997511
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-782-1501",
+      "info": "경상북도 울진군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "울진군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.286678,
+      36.895169
+    ],
+    "cctv_zone_count": 426,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "울진군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "울진대게축제",
+    "typical_month": 3,
+    "venue_name": "왕피천 일대",
+    "venue_coords": [
+      129.286678,
+      36.895369
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "울진군 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      129.400305,
+      36.998911
+    ],
+    "reservation_url": "https://www.uljin.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "울진군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.400005,
+      36.995611
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "울진군청 공영주차장 급속충전소",
+    "coordinates": [
+      129.400305,
+      36.998611
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "울진 솥뚜껑가게",
+    "coordinates": [
+      129.402114,
+      36.992405
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "편육무침 (울진군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=울진군청&goalx=129.401605&goaly=36.997511",
+    "kakaonavi_url": "kakaonavi://navigate?name=울진군청&x=129.401605&y=36.997511&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=울진군청&dlng=129.401605&dlat=36.997511&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:35",
+      "noon_altitude_deg": 53.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:04",
+      "sunset": "19:45",
+      "noon_altitude_deg": 76.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:11",
+      "sunset": "18:20",
+      "noon_altitude_deg": 53.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:33",
+      "sunset": "17:10",
+      "noon_altitude_deg": 29.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "울진군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.287328,
+          36.895269
+        ],
+        [
+          129.286678,
+          36.895169
+        ],
+        [
+          129.287228,
+          36.894519
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "울진군 전통시장 만남의거리",
+    "anchor_center": [
+      129.400272,
+      36.998311
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 50,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
