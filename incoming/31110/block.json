@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Ulsan",
+      "landmarks": {
+        "학성공원": [
+          "Hakseong Park",
+          "Signature park at the foot of Hakseong, Ulsan's home mountain."
+        ],
+        "울산 병영성": [
+          "Ulsan Byeongyeongseong Fortress",
+          "Site of the Joseon-era Gyeongsang Left Province military fortress, being turned into a Hangul village."
+        ],
+        "울산박물관": [
+          "Ulsan Museum",
+          "Signature museum exhibiting Ulsan's history and culture."
+        ],
+        "태화강": [
+          "Taehwa River",
+          "Representative river through Ulsan with waterfront parks and walking paths."
+        ],
+        "최현배 생가": [
+          "Choi Hyeon-bae's Birthplace",
+          "Birth home of the Hangul scholar Oesol Choi Hyeon-bae, with the Oesol trail."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 中区",
+      "landmarks": {
+        "학성공원": [
+          "鶴城公園",
+          "蔚山の鎮山・鶴城のふもとにある代表的な公園。"
+        ],
+        "울산 병영성": [
+          "蔚山兵営城",
+          "朝鮮時代の慶尚左道兵営城跡。ハングル村の造成が進む。"
+        ],
+        "울산박물관": [
+          "蔚山博物館",
+          "蔚山の歴史と文化を展示する代表的な博物館。"
+        ],
+        "태화강": [
+          "太和江",
+          "蔚山を貫く代表的な川。水辺公園と散策路が整備されている。"
+        ],
+        "최현배 생가": [
+          "崔鉉培生家",
+          "ハングル学者・外ソル崔鉉培先生の生家。外ソル探訪路が整備されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 中区",
+      "landmarks": {
+        "학성공원": [
+          "鹤城公园",
+          "蔚山主山鹤城山麓的代表性公园。"
+        ],
+        "울산 병영성": [
+          "蔚山兵营城",
+          "朝鲜时代庆尚左道兵营城址，正建设韩文村。"
+        ],
+        "울산박물관": [
+          "蔚山博物馆",
+          "展示蔚山历史文化的代表性博物馆。"
+        ],
+        "태화강": [
+          "太和江",
+          "纵贯蔚山的代表性河流，建有滨水公园和步道。"
+        ],
+        "최현배 생가": [
+          "崔铉培故居",
+          "韩文学者外索崔铉培先生的故居，建有外索探访路。"
+        ]
+      }
+    }
   }
 }
