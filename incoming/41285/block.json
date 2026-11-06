@@ -154,6 +154,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "일산호수공원",
+        "station_name": "일산호수공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.660406,
+          126.768844
+        ]
+      },
+      {
+        "target_landmark": "킨텍스",
+        "station_name": "킨텍스 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.666891,
+          126.749979
+        ]
+      },
+      {
+        "target_landmark": "정발산",
+        "station_name": "정발산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.661311,
+          126.774818
+        ]
+      },
+      {
+        "target_landmark": "라페스타",
+        "station_name": "라페스타 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.663941,
+          126.769857
+        ]
+      },
+      {
+        "target_landmark": "중산공원",
+        "station_name": "중산공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.693107,
+          126.78028
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "일산동 중앙 공영주차장",
+        "coordinates": [
+          37.690707,
+          126.78108
+        ],
+        "capacity": 368,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "일산동 제2 공영주차장",
+        "coordinates": [
+          37.661311,
+          126.772018
+        ],
+        "capacity": 169,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "일산동구는 2003년 고양시 구제 실시로 만들어진 구로 일산 호수공원과 킨텍스, 정발산 등 대규모 문화·전시 시설이 입지한 경기 북부 신도시 중심지이다.",
   "data_sources": [
     {
