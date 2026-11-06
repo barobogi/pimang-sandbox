@@ -336,6 +336,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -461,5 +466,48 @@
       128.659939,
       35.305253
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "의창구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      128.660498,
+      35.252197
+    ],
+    "reservation_url": "https://www.uichang.changwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "의창구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.661698,
+      35.251297
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "의창구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.661298,
+      35.252197
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "주남저수지 동네밥집",
+    "coordinates": [
+      128.678406,
+      35.304461
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "진주냉면 (의창구 지정 모범음식점)"
   }
 }
