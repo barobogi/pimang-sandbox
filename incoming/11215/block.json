@@ -338,5 +338,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangjin-gu, Seoul",
+      "landmarks": {
+        "어린이대공원": [
+          "Seoul Children's Grand Park",
+          "Large theme park for children with a zoo and amusement rides."
+        ],
+        "건대입구": [
+          "Konkuk University Area",
+          "Vibrant university district and hub of fashion and entertainment."
+        ],
+        "아차산": [
+          "Achasan Mountain",
+          "Riverside mountain preserving the remains of a Baekje-era fortress."
+        ],
+        "자양한강공원": [
+          "Jayang Hangang Park",
+          "Popular riverside park on the Jayang-dong waterfront."
+        ],
+        "광나루한강공원": [
+          "Gwangnaru Hangang Park",
+          "Riverside park at the Gwangjin-Gangdong boundary on the Han River."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 廣津区",
+      "landmarks": {
+        "어린이대공원": [
+          "子供大公園",
+          "動物園と遊具施設を備えた大型児童テーマパーク。"
+        ],
+        "건대입구": [
+          "建大入口",
+          "大学街の商圏とファッション・エンターテインメントの中心地。"
+        ],
+        "아차산": [
+          "峨嵯山",
+          "百済の峨嵯山城跡が残る漢江河岸の山。"
+        ],
+        "자양한강공원": [
+          "紫陽漢江公園",
+          "紫陽洞の水辺に広がる漢江公園。"
+        ],
+        "광나루한강공원": [
+          "広津渡漢江公園",
+          "広津区と江東区の境界の水辺に広がる漢江公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 广津区",
+      "landmarks": {
+        "어린이대공원": [
+          "首尔儿童大公园",
+          "设有动物园和游乐设施的大型儿童主题公园。"
+        ],
+        "건대입구": [
+          "建国大学入口商圈",
+          "大学商圈与时尚娱乐的中心地带。"
+        ],
+        "아차산": [
+          "峨嵯山",
+          "留有百济峨嵯山城遗迹的汉江畔名山。"
+        ],
+        "자양한강공원": [
+          "紫阳汉江公园",
+          "紫阳洞江边的代表性汉江公园。"
+        ],
+        "광나루한강공원": [
+          "广渡口汉江公园",
+          "位于广津区与江东区交界江畔的汉江公园。"
+        ]
+      }
+    }
   }
 }
