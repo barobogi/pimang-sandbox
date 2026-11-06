@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buyeo-gun, Chungnam",
+      "landmarks": {
+        "부소산성": [
+          "Busosanseong Fortress",
+          "UNESCO-listed fortress heritage of Buyeo-gun, Chungnam."
+        ],
+        "낙화암": [
+          "Nakhwaam Rock",
+          "Signature historic scenic cliff of Buyeo-gun, Chungnam."
+        ],
+        "정림사지": [
+          "Jeongnimsa Temple Site",
+          "UNESCO-listed temple site heritage of Buyeo-gun, Chungnam."
+        ],
+        "부여군청": [
+          "Buyeo County Office",
+          "Administrative center of Buyeo-gun, Chungnam."
+        ],
+        "궁남지": [
+          "Gungnamji Pond",
+          "Signature historic pond of Buyeo-gun, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 扶餘郡",
+      "landmarks": {
+        "부소산성": [
+          "扶蘇山城",
+          "ユネスコ登録の城郭。忠清南道扶餘郡を代表する名所。"
+        ],
+        "낙화암": [
+          "落花岩",
+          "忠清南道扶餘郡を代表する名所。"
+        ],
+        "정림사지": [
+          "定林寺址",
+          "ユネスコ登録の寺址。忠清南道扶餘郡を代表する名所。"
+        ],
+        "부여군청": [
+          "扶餘郡庁",
+          "忠清南道扶餘郡を代表する名所。"
+        ],
+        "궁남지": [
+          "宮南池",
+          "忠清南道扶餘郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 扶余郡",
+      "landmarks": {
+        "부소산성": [
+          "扶苏山城",
+          "列入世界遗产的城郭，忠清南道扶余郡的代表性古迹。"
+        ],
+        "낙화암": [
+          "落花岩",
+          "忠清南道扶余郡的代表性历史胜景。"
+        ],
+        "정림사지": [
+          "定林寺址",
+          "列入世界遗产的寺院遗址，忠清南道扶余郡的代表性遗迹。"
+        ],
+        "부여군청": [
+          "扶余郡厅",
+          "忠清南道扶余郡的行政中心。"
+        ],
+        "궁남지": [
+          "宫南池",
+          "忠清南道扶余郡的代表性古莲池。"
+        ]
+      }
+    }
   }
 }
