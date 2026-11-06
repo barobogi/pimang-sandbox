@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "구례초등학교 운동장",
+        "coordinates": [
+          35.27563,
+          127.489577
+        ],
+        "capacity": 4700,
+        "address": "전라남도 구례군"
+      },
+      {
+        "name": "구례실내체육관",
+        "coordinates": [
+          35.235111,
+          127.518807
+        ],
+        "capacity": 1800,
+        "address": "전라남도 구례군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "지리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화엄사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사성암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구례군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구례시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "구례군은 지리산과 화엄사, 사성암이 자리한 전남 동부 산악 관광의 중심 군이다.",
   "data_sources": [
     {
