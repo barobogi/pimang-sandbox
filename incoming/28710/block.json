@@ -223,6 +223,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강화초등학교 운동장",
+        "coordinates": [
+          37.642979,
+          126.533063
+        ],
+        "capacity": 6000,
+        "address": "인천광역시 강화군"
+      },
+      {
+        "name": "강화실내체육관",
+        "coordinates": [
+          37.601426,
+          126.526046
+        ],
+        "capacity": 1300,
+        "address": "인천광역시 강화군"
+      },
+      {
+        "name": "강화중앙공원 비상집합장소",
+        "coordinates": [
+          37.635838,
+          126.391072
+        ],
+        "capacity": 7100,
+        "address": "인천광역시 강화군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "전등사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "마니산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "강화부두리고인돌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "강화평화전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "강화산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "강화군은 고려 시대 몽골 침입 때 천도된 강도였던 유서 깊은 섬 군으로 강화산성과 전등사, 부두리고인돌, 마니산 등 풍부한 문화유산과 DMZ 관광 자원이 함께한다.",
   "data_sources": [
     {
