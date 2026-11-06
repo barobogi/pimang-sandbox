@@ -147,6 +147,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수리산",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "군포문화예술회관",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 15,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "금산동 상권",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "당정동 상권",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "군포공원",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "군포 중앙 공영주차장",
+        "coordinates": [
+          37.34802,
+          126.923158
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "군포 제2 공영주차장",
+        "coordinates": [
+          37.3538,
+          126.939
+        ],
+        "capacity": 71,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "군포 제3 공영주차장",
+        "coordinates": [
+          37.3612,
+          126.9372
+        ],
+        "capacity": 243,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "군포시는 수리산 공원이 자리한 경기 남부의 주거 도시이며 서울 남부 관문이다.",
   "data_sources": [
     {
