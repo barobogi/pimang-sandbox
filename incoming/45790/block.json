@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "고창읍성",
+        "station_name": "고창읍성 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.428764,
+          126.702001
+        ]
+      },
+      {
+        "target_landmark": "고창고인돌유적",
+        "station_name": "고창고인돌유적 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.447499,
+          126.646965
+        ]
+      },
+      {
+        "target_landmark": "선운사",
+        "station_name": "선운사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.496107,
+          126.575672
+        ]
+      },
+      {
+        "target_landmark": "고창군청",
+        "station_name": "고창군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.435008,
+          126.699297
+        ]
+      },
+      {
+        "target_landmark": "고창시장",
+        "station_name": "고창버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.443788,
+          126.522038
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "고창 중앙 공영주차장",
+        "coordinates": [
+          35.440588,
+          126.523238
+        ],
+        "capacity": 321,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "고창 제2 공영주차장",
+        "coordinates": [
+          35.496107,
+          126.579672
+        ],
+        "capacity": 219,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "고창 제3 공영주차장",
+        "coordinates": [
+          35.448699,
+          126.652165
+        ],
+        "capacity": 53,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "고창군은 고창읍성과 고인돌 유적, 선운사가 자리한 유네스코 세계유산의 고장이다.",
   "data_sources": [
     {
