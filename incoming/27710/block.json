@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dalseong-gun, Daegu",
+      "landmarks": {
+        "비슬산": [
+          "Biseulsan Mountain",
+          "Dalseong's signature peak, famed for its natural monument azalea colony."
+        ],
+        "도동서원": [
+          "Dodong Seowon",
+          "Joseon-era Confucian academy, a signature Confucian heritage of Dalseong's twelve views."
+        ],
+        "국립대구과학관": [
+          "National Daegu Science Museum",
+          "Large national science center in Yuga-myeon."
+        ],
+        "사문진주막촌": [
+          "Samunjin Jumak Village",
+          "Traditional culture village recreating an old tavern village."
+        ],
+        "옥포벚꽃길": [
+          "Okpo Cherry Blossom Road",
+          "Cherry blossom walkway along Okpocheon, Dalseong's signature spring scene."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 达城郡",
+      "landmarks": {
+        "비슬산": [
+          "琵瑟山",
+          "達城郡を代表する名山。天然記念物のツツジ群落で有名。"
+        ],
+        "도동서원": [
+          "道東書院",
+          "朝鮮時代の書院。達城十二景を代表する儒教文化遺産。"
+        ],
+        "국립대구과학관": [
+          "国立大邱科学館",
+          "友鹿面に構える大型の国立科学展示館。"
+        ],
+        "사문진주막촌": [
+          "沙門津主幕村",
+          "昔の宿場町を再現した伝統文化体験村。"
+        ],
+        "옥포벚꽃길": [
+          "玉浦桜並木",
+          "玉浦川沿いに広がる桜の散歩道で、達城を代表する春の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 达城郡",
+      "landmarks": {
+        "비슬산": [
+          "琵瑟山",
+          "达城郡代表名山，以天然纪念物杜鹃花群落闻名。"
+        ],
+        "도동서원": [
+          "道东书院",
+          "朝鲜时代书院，达城十二景代表的儒学文化遗产。"
+        ],
+        "국립대구과학관": [
+          "国立大邱科学馆",
+          "位于瑜珈面的大型国立科学馆。"
+        ],
+        "사문진주막촌": [
+          "沙门津酒幕村",
+          "再现旧时酒肆村落的传统文化体验村。"
+        ],
+        "옥포벚꽃길": [
+          "玉浦樱花路",
+          "沿玉浦川延伸的樱花步道，达城代表性春景。"
+        ]
+      }
+    }
   }
 }
