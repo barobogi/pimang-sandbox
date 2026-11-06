@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "파주초등학교 운동장",
+        "coordinates": [
+          37.917052,
+          126.772045
+        ],
+        "capacity": 7300,
+        "address": "경기도 파주시"
+      },
+      {
+        "name": "파주실내체육관",
+        "coordinates": [
+          37.933033,
+          126.754474
+        ],
+        "capacity": 800,
+        "address": "경기도 파주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "임진각평화누리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도라전망대",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "헤이리문화마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "운정호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "감악산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "파주시는 조선 시대 파평 윤씨 집성촌과 근현대 군사 요충지였던 지역으로 임진각과 도라전망대 등 DMZ 관광 자원, 헤이리문화마을과 운정신도시가 함께 발달했다.",
   "data_sources": [
     {
