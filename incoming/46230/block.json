@@ -146,6 +146,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "백운산",
+        "station_name": "백운산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.107578,
+          127.622525
+        ]
+      },
+      {
+        "target_landmark": "광양만",
+        "station_name": "광양만 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.9112,
+          127.5712
+        ]
+      },
+      {
+        "target_landmark": "몽덕해수욕장",
+        "station_name": "광양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 45,
+        "coordinates": [
+          34.952,
+          127.6076
+        ]
+      },
+      {
+        "target_landmark": "포스코 광양제철소",
+        "station_name": "광양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.952,
+          127.6076
+        ]
+      },
+      {
+        "target_landmark": "을족도",
+        "station_name": "을족도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.9902,
+          127.5452
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광양 중앙 공영주차장",
+        "coordinates": [
+          34.9524,
+          127.6092
+        ],
+        "capacity": 284,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "광양 제2 공영주차장",
+        "coordinates": [
+          35.108378,
+          127.619725
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "광양시는 광양만과 백운산이 어우러진 전남 동부의 산업·관광 도시로 포스코 광양제철소와 몽덕해수욕장이 함께한다.",
   "data_sources": [
     {
