@@ -154,6 +154,84 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "안산호수공원",
+        "station_name": "안산역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.3219,
+          126.842758
+        ]
+      },
+      {
+        "target_landmark": "대부도",
+        "station_name": "대부도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.257397,
+          126.58912
+        ]
+      },
+      {
+        "target_landmark": "반월국가산업단지",
+        "station_name": "반월국가산업단지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.315623,
+          126.761015
+        ]
+      },
+      {
+        "target_landmark": "와동 상권",
+        "station_name": "안산역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 44,
+        "coordinates": [
+          37.3219,
+          126.842758
+        ]
+      },
+      {
+        "target_landmark": "선감도",
+        "station_name": "선감도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.225899,
+          126.638667
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "단원 중앙 공영주차장",
+        "coordinates": [
+          37.254597,
+          126.59072
+        ],
+        "capacity": 278,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "단원 제2 공영주차장",
+        "coordinates": [
+          37.222299,
+          126.637467
+        ],
+        "capacity": 208,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "안산 단원구는 안산호수공원과 대부도, 반월국가산업단지가 함께한 안산 서부의 구이다.",
   "data_sources": [
     {
