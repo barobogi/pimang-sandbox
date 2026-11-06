@@ -351,5 +351,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dobong-gu, Seoul",
+      "landmarks": {
+        "도봉산": [
+          "Dobongsan Mountain",
+          "Beloved 740 m hiking peak and national tourist attraction."
+        ],
+        "도봉산도립공원": [
+          "Dobongsan Provincial Park",
+          "Neighborhood park at the foot of Dobongsan."
+        ],
+        "창동신도시": [
+          "Chang-dong New Town",
+          "Large-scale new town district centered on Chang-dong Station."
+        ],
+        "사패산": [
+          "Sapaesan Mountain",
+          "Northern boundary mountain shared with Uijeongbu."
+        ],
+        "쌍문동 상권": [
+          "Ssangmun-dong Commercial District",
+          "Everyday commercial hub representing Dobong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 道峰区",
+      "landmarks": {
+        "도봉산": [
+          "道峰山",
+          "標高740メートルを誇る代表的な登山名山。"
+        ],
+        "도봉산도립공원": [
+          "道峰山都立公園",
+          "道峰山のふもとに広がる代表的な近隣公園。"
+        ],
+        "창동신도시": [
+          "倉洞新都市",
+          "倉洞駅を中心に造成された大規模ニュータウン商圏。"
+        ],
+        "사패산": [
+          "沙怕山",
+          "議政府と境をなす道峰区北部の山。"
+        ],
+        "쌍문동 상권": [
+          "双門洞商圏",
+          "双門洞に形成された道峰区を代表する生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 道峰区",
+      "landmarks": {
+        "도봉산": [
+          "道峰山",
+          "海拔740米，是韩国人气极高的登山名山。"
+        ],
+        "도봉산도립공원": [
+          "道峰山道立公园",
+          "道峰山麓的大型近邻公园。"
+        ],
+        "창동신도시": [
+          "仓洞新城市",
+          "以仓洞站为中心建成的大型新城商圈。"
+        ],
+        "사패산": [
+          "沙岘山",
+          "与议政府市交界的道峰区北部山峰。"
+        ],
+        "쌍문동 상권": [
+          "双门洞商圈",
+          "双门洞形成的道峰区代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
