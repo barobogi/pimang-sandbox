@@ -433,10 +433,11 @@
     "civil_service_center": {
       "location_name": "평창군청 민원실 앞",
       "coordinates": [
-        128.50382,
-        37.54461
+        128.390029,
+        37.369285
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "033-330-2000",
