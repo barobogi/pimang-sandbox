@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Tongyeong-si, Gyeongnam",
+      "landmarks": {
+        "통영해상케이블카": [
+          "Tongyeong Marine Cable Car",
+          "Sea cable car linking Donam-dong and Mireukdo, Tongyeong's signature attraction."
+        ],
+        "동피랑마을": [
+          "Dongpirang Mural Village",
+          "Culture village of murals painted over an old hillside village."
+        ],
+        "거북선전시관": [
+          "Turtle Ship Exhibition Hall",
+          "History hall reproducing and displaying Admiral Yi's turtle ship."
+        ],
+        "한산도": [
+          "Hansando Island",
+          "Historic island of the Hansan victory, famed for Bidam valley and coastal scenery."
+        ],
+        "비봉산": [
+          "Bibongsan Mountain",
+          "Downtown Tongyeong mountain whose pavilion overlooks the harbor."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 統営市",
+      "landmarks": {
+        "통영해상케이블카": [
+          "統営海上ケーブルカー",
+          "道南洞と弥勒島を結ぶ海上ケーブルカー。統営の象徴的な観光名所。"
+        ],
+        "동피랑마을": [
+          "東ピラン村",
+          "古い山村に壁画が描かれた代表的な文化壁画村。"
+        ],
+        "거북선전시관": [
+          "亀船展示館",
+          "忠武公が建造した亀船を再現・展示する歴史展示館。"
+        ],
+        "한산도": [
+          "閑山島",
+          "閑山島大捷が起きた由緒ある島。非陀渓谷と美しい海岸景観で有名。"
+        ],
+        "비봉산": [
+          "飛鳳山",
+          "統営都心にある山。あずまやから統営港を見下ろせる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 统营市",
+      "landmarks": {
+        "통영해상케이블카": [
+          "统营海上缆车",
+          "连接道南洞和弥勒岛的海上缆车，统营的象征性观光名所。"
+        ],
+        "동피랑마을": [
+          "东陂浪壁画村",
+          "旧山坡村落绘满壁画的代表性文化村。"
+        ],
+        "거북선전시관": [
+          "龟船展示馆",
+          "再现并展示忠武公所造龟船的历史展馆。"
+        ],
+        "한산도": [
+          "闲山岛",
+          "闲山岛大捷的历史岛屿，以非陀溪谷和秀丽海岸闻名。"
+        ],
+        "비봉산": [
+          "飞凤山",
+          "统营市区的山，亭中可俯瞰统营港。"
+        ]
+      }
+    }
   }
 }
