@@ -296,6 +296,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "행주산성 봄 산책",
+        "창릉천 벚꽃"
+      ],
+      "summer": [
+        "창릉천 여름 물놀이",
+        "덕은공원 여름"
+      ],
+      "autumn": [
+        "행주산성 단풍",
+        "창릉천 억새"
+      ],
+      "winter": [
+        "행주산성 설경",
+        "고양시청 겨울 조명"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "행주산성 야경",
+        "coordinates": [
+          37.600942,
+          126.82431
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "창릉천 야경",
+        "coordinates": [
+          37.648237,
+          126.909423
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "고양 덕양구는 행주산성과 화정동 상권이 함께한 고양 중부의 구이다.",
   "data_sources": [
     {
