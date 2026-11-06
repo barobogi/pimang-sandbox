@@ -130,6 +130,86 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서면",
+        "station_name": "서면역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 3,
+        "coordinates": [
+          35.1578,
+          129.0567
+        ]
+      },
+      {
+        "target_landmark": "개금벚꽃길",
+        "station_name": "서면역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 31,
+        "coordinates": [
+          35.1578,
+          129.0567
+        ]
+      },
+      {
+        "target_landmark": "초읍어린이대공원",
+        "station_name": "서면역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 6,
+        "coordinates": [
+          35.1578,
+          129.0567
+        ]
+      },
+      {
+        "target_landmark": "부전도서관",
+        "station_name": "서면역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 8,
+        "coordinates": [
+          35.1578,
+          129.0567
+        ]
+      },
+      {
+        "target_landmark": "엄광산",
+        "station_name": "엄광산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.135073,
+          129.019503
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부산진 중앙 공영주차장",
+        "coordinates": [
+          35.1578,
+          129.0496
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "부산진 제2 공영주차장",
+        "coordinates": [
+          35.158508,
+          129.061503
+        ],
+        "capacity": 418,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부산 부산진구는 서면 상권과 개금벚꽃길이 자리한 부산 도심의 중심 구이다.",
   "data_sources": [
     {
