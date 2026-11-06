@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "대청호 벚꽃",
+        "향수공원 봄"
+      ],
+      "summer": [
+        "대청호 여름",
+        "향수공원 여름"
+      ],
+      "autumn": [
+        "대청호 단풍",
+        "정지용 생가 가을"
+      ],
+      "winter": [
+        "대청호 설경",
+        "옥천시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대청호 야경",
+        "coordinates": [
+          36.418619,
+          127.497107
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "향수공원 야경",
+        "coordinates": [
+          36.307926,
+          127.57265
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "옥천군은 정지용 생가와 향수, 대청호가 자리한 충북 남부의 군이다.",
   "data_sources": [
     {
