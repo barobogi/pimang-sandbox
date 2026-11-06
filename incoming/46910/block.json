@@ -1,0 +1,578 @@
+{
+  "block_code": "46910",
+  "block_name": "전라남도 신안군",
+  "bbox": [
+    124.836426,
+    33.796714,
+    126.386687,
+    35.373638
+  ],
+  "center": [
+    34.585176,
+    125.611557
+  ],
+  "landmarks": [
+    {
+      "name": "흑산도",
+      "lat": 34.6608507,
+      "lng": 125.4060994,
+      "category": "섬/국립공원",
+      "description": "다도해 최남단의 대표 섬으로 흑산도국립공원이 지정되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%82%B0%EB%8F%84",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 114.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Korea-Heuksando_Island-01.jpg/1280px-Korea-Heuksando_Island-01.jpg"
+    },
+    {
+      "name": "홍도",
+      "lat": 34.6913934,
+      "lng": 125.2003143,
+      "category": "섬/국립공원",
+      "description": "기암괴석과 해안 절경이 아름다운 대표 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 107.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Korea-Hongdo_Island-02.jpg/1280px-Korea-Hongdo_Island-02.jpg"
+    },
+    {
+      "name": "증도",
+      "lat": 34.9867941,
+      "lng": 126.1609778,
+      "category": "갯벌/생태",
+      "description": "유네스코 세계자연유산 신안 갯벌의 대표 갯벌 지구다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 228.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg/1280px-KOCIS_Jeungdo_%28Jeung_Island%29%2C_near_Mokpo_City_%286285147251%29.jpg"
+    },
+    {
+      "name": "비금도",
+      "lat": 34.7615612,
+      "lng": 125.9258143,
+      "category": "섬/어촌",
+      "description": "도서 지역의 대표 어촌 섬으로 어항과 해안 절경이 아름답다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 235.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Korea-Heuksando_Island-06.jpg/1280px-Korea-Heuksando_Island-06.jpg"
+    },
+    {
+      "name": "도초도",
+      "lat": 34.6970386,
+      "lng": 125.9619174,
+      "category": "섬/어촌",
+      "description": "우이도 등 부속 섬과 함께한 대표 어촌 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 248.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Seonammun_Bridge.jpg/1280px-Seonammun_Bridge.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "신안 해안 절경 시그니처 드론 플라이트",
+      "description": "흑산도 → 홍도 → 비금도 → 도초도 → 증도 순으로 이어지는 전라남도 신안군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "흑산도",
+        "홍도",
+        "비금도",
+        "도초도",
+        "증도"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "신안 푸른 해안선 에어리얼 크루즈",
+      "description": "홍도 → 흑산도 → 증도 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 신안의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "홍도",
+        "흑산도",
+        "증도"
+      ],
+      "duration_hours": 4.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "흑산도 큰마당식당",
+      "lat": 34.661481,
+      "lng": 125.405399,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "비금도 가마솥밥가",
+      "lat": 34.761071,
+      "lng": 125.925604,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "도초도 큰마당식당",
+      "lat": 34.697109,
+      "lng": 125.962057,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "홍도 할매집",
+      "lat": 34.692023,
+      "lng": 125.199824,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "흑산도",
+        "station_name": "신안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.660851,
+          125.408099
+        ]
+      },
+      {
+        "target_landmark": "홍도",
+        "station_name": "홍도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.688993,
+          125.203114
+        ]
+      },
+      {
+        "target_landmark": "증도",
+        "station_name": "증도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.984394,
+          126.163778
+        ]
+      },
+      {
+        "target_landmark": "비금도",
+        "station_name": "비금도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.759161,
+          125.928614
+        ]
+      },
+      {
+        "target_landmark": "도초도",
+        "station_name": "도초도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.694639,
+          125.964717
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "신안 중앙 공영주차장",
+        "coordinates": [
+          34.660051,
+          125.405699
+        ],
+        "capacity": 140,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "신안 제2 공영주차장",
+        "coordinates": [
+          34.761161,
+          125.927814
+        ],
+        "capacity": 78,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "신안초등학교 운동장",
+        "coordinates": [
+          34.480192,
+          125.451946
+        ],
+        "capacity": 1400,
+        "address": "전라남도 신안군"
+      },
+      {
+        "name": "신안실내체육관",
+        "coordinates": [
+          34.484198,
+          125.22377
+        ],
+        "capacity": 2200,
+        "address": "전라남도 신안군"
+      },
+      {
+        "name": "신안중앙공원 비상집합장소",
+        "coordinates": [
+          34.870947,
+          126.147104
+        ],
+        "capacity": 1700,
+        "address": "전라남도 신안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "흑산도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "홍도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증도",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "비금도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도초도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "홍도 봄",
+        "증도 봄 갯벌"
+      ],
+      "summer": [
+        "홍도 여름 해변",
+        "비금도 여름"
+      ],
+      "autumn": [
+        "증도 갈대",
+        "도초도 가을"
+      ],
+      "winter": [
+        "흑산도 겨울 해변",
+        "증도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "홍도 야경",
+        "coordinates": [
+          34.691393,
+          125.200314
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "증도 야경",
+        "coordinates": [
+          34.986794,
+          126.160978
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "신안군은 흑산도와 홍도, 증도 등 다도해의 섬들과 유네스코 세계자연유산 갯벌을 품은 전남 서남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sinan-gun, Jeonnam",
+      "landmarks": {
+        "흑산도": [
+          "Heuksando Island",
+          "Southernmost signature island of Dadohae, within Heuksando National Park."
+        ],
+        "홍도": [
+          "Hongdo Island",
+          "National park island famed for fantastic rock formations and coastal scenery."
+        ],
+        "증도": [
+          "Jeungdo Island",
+          "Signature mudflat district of the UNESCO-listed Sinan tidal flats."
+        ],
+        "비금도": [
+          "Bigeumdo Island",
+          "Representative fishing island with a pretty harbor and coastal scenery."
+        ],
+        "도초도": [
+          "Dochodo Island",
+          "Representative fishing island with its与附属岛屿."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 新安郡",
+      "landmarks": {
+        "흑산도": [
+          "黒山島",
+          "多島海最南端を代表する島。黒山島国立公園に指定されている。"
+        ],
+        "홍도": [
+          "紅島",
+          "奇岩怪石と海岸絶景が美しい代表的な島。"
+        ],
+        "증도": [
+          "曽島",
+          "ユネスコ世界自然遺産・新安干潟を代表する干潟地区。"
+        ],
+        "비금도": [
+          "飛禽島",
+          "島嶼地域を代表する漁村の島。漁港と海岸絶景が美しい。"
+        ],
+        "도초도": [
+          "都草島",
+          "牛島などとともにある代表的な漁村の島。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 新安郡",
+      "landmarks": {
+        "흑산도": [
+          "黑山岛",
+          "多岛海最南端的代表性岛屿，属黑山岛国立公园。"
+        ],
+        "홍도": [
+          "红岛",
+          "以奇岩怪石和海岸绝景闻名的代表性岛屿。"
+        ],
+        "증도": [
+          "曾岛",
+          "联合国教科文组织世界自然遗产新安滩涂的代表性滩涂区。"
+        ],
+        "비금도": [
+          "飞禽岛",
+          "群岛地区的代表性渔村岛，渔港和海岸景色秀美。"
+        ],
+        "도초도": [
+          "都草岛",
+          "与牛衣岛等属岛相伴的代表性渔村岛。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.shinan.go.kr",
+    "civil_service_center": {
+      "location_name": "신안군청 민원실 앞",
+      "coordinates": [
+        126.352544,
+        34.826811
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-271-1004",
+      "info": "전라남도 신안군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "신안군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      125.611857,
+      34.585376
+    ],
+    "cctv_zone_count": 174,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "신안 중앙공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "임자 모래 체험축제",
+    "typical_month": 7,
+    "venue_name": "신안군청(지도읍) 앞 광장",
+    "venue_coords": [
+      125.611356,
+      34.585776
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "신안군 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.353444,
+      34.828611
+    ],
+    "reservation_url": "https://www.shinan.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "신안군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.350744,
+      34.826911
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "신안군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.355444,
+      34.826011
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "홍도 할매집",
+    "coordinates": [
+      125.199824,
+      34.692023
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "꼬막비빔밥 (신안군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=신안군청&goalx=126.352544&goaly=34.826811",
+    "kakaonavi_url": "kakaonavi://navigate?name=신안군청&x=126.352544&y=34.826811&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=신안군청&dlng=126.352544&dlat=34.826811&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:41",
+      "sunset": "18:49",
+      "noon_altitude_deg": 55.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:25",
+      "sunset": "19:53",
+      "noon_altitude_deg": 78.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:34",
+      "noon_altitude_deg": 55.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:31",
+      "noon_altitude_deg": 32.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "신안군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          125.612557,
+          34.584476
+        ],
+        [
+          125.611857,
+          34.585376
+        ],
+        [
+          125.611007,
+          34.586076
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "신안군 전통시장 만남의거리",
+    "anchor_center": [
+      126.352811,
+      34.828811
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 110,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
