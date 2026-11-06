@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "경포해수욕장",
+        "station_name": "경포해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.803448,
+          128.910712
+        ]
+      },
+      {
+        "target_landmark": "오죽헌",
+        "station_name": "강릉역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 41,
+        "coordinates": [
+          37.7645,
+          128.9046
+        ]
+      },
+      {
+        "target_landmark": "안목해변 커피거리",
+        "station_name": "강릉역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 31,
+        "coordinates": [
+          37.7645,
+          128.9046
+        ]
+      },
+      {
+        "target_landmark": "쇠소깍",
+        "station_name": "쇠소깍 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.7696,
+          128.9488
+        ]
+      },
+      {
+        "target_landmark": "주문진해수욕장",
+        "station_name": "주문진해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.909024,
+          128.822008
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강릉 중앙 공영주차장",
+        "coordinates": [
+          37.773,
+          128.9242
+        ],
+        "capacity": 434,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "강릉 제2 공영주차장",
+        "coordinates": [
+          37.772,
+          128.9472
+        ],
+        "capacity": 449,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "강릉 제3 공영주차장",
+        "coordinates": [
+          37.803048,
+          128.908312
+        ],
+        "capacity": 429,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "강릉시는 옛 영동 지역의 중심지로 조선 시대 명주부였던 유서 깊은 도시이며 경포와 안목해변, 주문진 등 동해 해안 관광과 오죽헌·선교장 등 전통 문화 명소가 함께한다.",
   "data_sources": [
     {
