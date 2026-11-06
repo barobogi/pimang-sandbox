@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.506528,
+          129.406682
+        ],
+        "capacity": 5200,
+        "address": "울산광역시 북구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.518532,
+          129.444613
+        ],
+        "capacity": 4000,
+        "address": "울산광역시 북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대왕암공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일산해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "강동 풍력발전단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "달천천 수변공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "연암공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "울산 북구는 울산의 북부 구로 대왕암공원과 일산해수욕장 등 동해 해안 명소가 자리한다.",
   "data_sources": [
     {
