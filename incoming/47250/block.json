@@ -293,6 +293,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "경천대 봄",
+        "낙동강 봄"
+      ],
+      "summer": [
+        "낙동강 여름",
+        "상주자전거박물관 여름"
+      ],
+      "autumn": [
+        "경천대 단풍",
+        "낙동강 억새"
+      ],
+      "winter": [
+        "경천대 설경",
+        "상주시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "경천대 야경",
+        "coordinates": [
+          36.458277,
+          128.243768
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "낙동강 야경",
+        "coordinates": [
+          36.423232,
+          128.239246
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "상주시는 낙동강과 경천대, 상주자전거박물관이 자리한 경북 서부의 도시이다.",
   "data_sources": [
     {
