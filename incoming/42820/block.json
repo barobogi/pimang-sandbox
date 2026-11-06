@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Goseong-gun, Gangwon",
+      "landmarks": {
+        "금강산전망대": [
+          "Geumgangsan Observatory",
+          "Goseong's signature observatory with the closest view of North Korea's Geumgangsan."
+        ],
+        "화진포": [
+          "Hwajinpo Beach",
+          "Sandy shore at the northern end of the East Sea, with the Hwajinpo observatory and birch woods."
+        ],
+        "선인장온천": [
+          "Seoninjang Hot Springs",
+          "Hot spring resort in Toseong-myeon, famed for its cactus-viewing spa facilities."
+        ],
+        "고성수복기념관": [
+          "Goseong Reunification Memorial Hall",
+          "Memorial museum exhibiting the history of recapture during the Korean War."
+        ],
+        "간성성당": [
+          "Ganseong Catholic Church",
+          "Catholic church in Ganseong-eup, once a center of early mission work on the East Sea coast."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 高城郡",
+      "landmarks": {
+        "금강산전망대": [
+          "金剛山展望台",
+          "北側の金剛山を最も近くに望める高城を代表する展望施設。"
+        ],
+        "화진포": [
+          "花津浦",
+          "東海最北端の砂浜。花津浦展望台と白樺の森がともにある。"
+        ],
+        "선인장온천": [
+          "仙人掌温泉",
+          "土城面一帯の温泉観光地。サボテンが見られる温泉施設で有名。"
+        ],
+        "고성수복기념관": [
+          "高城収復記念館",
+          "6・25戦争の収復の歴史を展示する記念館。"
+        ],
+        "간성성당": [
+          "干城聖堂",
+          "干城邑にある韓国カトリック聖堂。東海地方初期伝教の中心地だった。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 高城郡",
+      "landmarks": {
+        "금강산전망대": [
+          "金刚山展望台",
+          "可最近眺望朝鲜金刚山的高城代表性展望台。"
+        ],
+        "화진포": [
+          "花津浦",
+          "东海岸最北端的沙滩，配有花津浦展望台和白桦林。"
+        ],
+        "선인장온천": [
+          "仙人掌温泉",
+          "土城面一带的温泉观光地，以可赏仙人掌的温泉设施闻名。"
+        ],
+        "고성수복기념관": [
+          "高城收复纪念馆",
+          "展示朝鲜战争收复历史的纪念馆。"
+        ],
+        "간성성당": [
+          "杆城圣堂",
+          "杆城邑的天主教堂，曾是东海岸早期传教中心。"
+        ]
+      }
+    }
   }
 }
