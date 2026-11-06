@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "합천초등학교 운동장",
+        "coordinates": [
+          35.822804,
+          128.157659
+        ],
+        "capacity": 7400,
+        "address": "경상남도 합천군"
+      },
+      {
+        "name": "합천실내체육관",
+        "coordinates": [
+          35.640774,
+          127.968295
+        ],
+        "capacity": 4300,
+        "address": "경상남도 합천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "해인사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "합천호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "황매산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "합천군청",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "합천시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "합천군은 해인사 장경판전과 합천호, 황매산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
