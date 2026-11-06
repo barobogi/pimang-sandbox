@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대천해수욕장",
+        "station_name": "대천해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.31014,
+          126.51072
+        ]
+      },
+      {
+        "target_landmark": "무창포해수욕장",
+        "station_name": "무창포해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.243584,
+          126.534064
+        ]
+      },
+      {
+        "target_landmark": "성주산",
+        "station_name": "성주산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.36663,
+          126.68219
+        ]
+      },
+      {
+        "target_landmark": "보령시청",
+        "station_name": "보령시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.332482,
+          126.610931
+        ]
+      },
+      {
+        "target_landmark": "보령시장",
+        "station_name": "보령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.338363,
+          126.130033
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "보령 중앙 공영주차장",
+        "coordinates": [
+          36.335163,
+          126.133633
+        ],
+        "capacity": 269,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "보령 제2 공영주차장",
+        "coordinates": [
+          36.31174,
+          126.51392
+        ],
+        "capacity": 252,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "보령시는 대천해수욕장과 무창포, 성주산이 자리한 충남 서해안의 대표 관광 도시이다.",
   "data_sources": [
     {
