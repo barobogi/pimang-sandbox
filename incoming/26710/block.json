@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "기장초등학교 운동장",
+        "coordinates": [
+          35.190395,
+          129.238858
+        ],
+        "capacity": 2400,
+        "address": "부산광역시 기장군"
+      },
+      {
+        "name": "기장실내체육관",
+        "coordinates": [
+          35.372034,
+          129.233855
+        ],
+        "capacity": 1400,
+        "address": "부산광역시 기장군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청사포",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장안사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "임랑해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "해동용궁사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "오시리아관광단지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "부산 기장군은 기장읍과 장안·일광·정관·철마가 함께한 부산 동부의 해안 군으로 청사포와 해동용궁사 등 해안 명소가 있다.",
   "data_sources": [
     {
