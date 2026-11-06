@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seocheon-gun, Chungnam",
+      "landmarks": {
+        "마량리동백나무숲": [
+          "Maryang-ri Camellia Forest",
+          "Natural Monument No. 169, a grove of some 80 five-hundred-year camellias with sunrise and sunset views from Camellia Pavilion."
+        ],
+        "한산모시마을": [
+          "Hansan Mosi (Ramie) Village",
+          "Home of UNESCO-listed Hansan ramie weaving, with a fabric museum and craft workshops."
+        ],
+        "국립생태원": [
+          "National Ecology Institute",
+          "National ecological research body with greenhouses of the world's five climate zones."
+        ],
+        "금강하굿둑 철새도래지": [
+          "Geum River Estuary Migratory Bird Sanctuary",
+          "Premier estuary bird sanctuary drawing some 500,000 birds of 40-plus species each winter."
+        ],
+        "문헌서원": [
+          "Munheonseowon Confucian Academy",
+          "Royal-chartered seowon honoring Yi Gok and Yi Saek, famed for its crape myrtle scenery."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 舒川郡",
+      "landmarks": {
+        "마량리동백나무숲": [
+          "馬良里椿の森",
+          "樹齢500年の椿80本が群れる天然記念物第169号。椿亭から日の出・日の入りが眺められる。"
+        ],
+        "한산모시마을": [
+          "韓山苧麻村",
+          "ユネスコ無形文化遺産・韓山苧麻織りの本場。苧麻展示館と工房がある。"
+        ],
+        "국립생태원": [
+          "国立生態園",
+          "世界五大気候帯の温室エコリウムを備えた国家の生態専門機関。"
+        ],
+        "금강하굿둑 철새도래지": [
+          "錦江河口の渡り鳥飛来地",
+          "冬に40種余り50万羽の渡り鳥が訪れる錦江河の口を代表する渡り鳥の聖地。"
+        ],
+        "문헌서원": [
+          "文憲書院",
+          "李穀と李穡を追慕して建てられた賜額書院。百日紅の景観で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 舒川郡",
+      "landmarks": {
+        "마량리동백나무숲": [
+          "马良里山茶树林",
+          "80株树龄500年的山茶聚生，为天然纪念物第169号，可在茶花亭观日出日落。"
+        ],
+        "한산모시마을": [
+          "韩山苎麻村",
+          "联合国教科文组织非遗韩山苎麻纺织的故乡，设苎麻展示馆和工艺作坊。"
+        ],
+        "국립생태원": [
+          "国立生态园",
+          "设有世界五大气候带温室的国家生态专门机构。"
+        ],
+        "금강하굿둑 철새도래지": [
+          "锦江口候鸟栖息地",
+          "冬季有40多种50万只候鸟栖息的锦江口代表性候鸟圣地。"
+        ],
+        "문헌서원": [
+          "文宪书院",
+          "为缅怀李谷和李穑而建的赐额书院，以紫薇花景闻名。"
+        ]
+      }
+    }
   }
 }
