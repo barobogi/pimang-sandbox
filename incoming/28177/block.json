@@ -137,6 +137,95 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "문학산",
+        "station_name": "문학산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.431938,
+          126.675486
+        ]
+      },
+      {
+        "target_landmark": "인천SSG랜더스필드",
+        "station_name": "주안역",
+        "line": "수도권 1호선·인천 2호선",
+        "exit_no": 9,
+        "walk_minutes": 49,
+        "coordinates": [
+          37.4654,
+          126.6782
+        ]
+      },
+      {
+        "target_landmark": "인하대학교",
+        "station_name": "주안역",
+        "line": "수도권 1호선·인천 2호선",
+        "exit_no": 9,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.4654,
+          126.6782
+        ]
+      },
+      {
+        "target_landmark": "주안역",
+        "station_name": "주안역",
+        "line": "수도권 1호선·인천 2호선",
+        "exit_no": 9,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.4654,
+          126.6782
+        ]
+      },
+      {
+        "target_landmark": "주안 로데오거리",
+        "station_name": "주안 로데오거리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.4514,
+          126.8814
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "미추홀 중앙 공영주차장",
+        "coordinates": [
+          37.437274,
+          126.6954
+        ],
+        "capacity": 188,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "미추홀 제2 공영주차장",
+        "coordinates": [
+          37.46373,
+          126.680407
+        ],
+        "capacity": 175,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "미추홀 제3 공영주차장",
+        "coordinates": [
+          37.431538,
+          126.674686
+        ],
+        "capacity": 241,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "미추홀구는 2018년 남구에서 개편된 인천의 자치구로 옛 백제 미추홀 도성 유래 이름을 쓰며 주안과 숭의·용현 상권, 문학산과 인천 문학경기장이 자리한다.",
   "data_sources": [
     {
