@@ -213,6 +213,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "계룡초등학교 운동장",
+        "coordinates": [
+          36.311677,
+          127.225647
+        ],
+        "capacity": 5400,
+        "address": "충청남도 계룡시"
+      },
+      {
+        "name": "계룡실내체육관",
+        "coordinates": [
+          36.347978,
+          127.219709
+        ],
+        "capacity": 3100,
+        "address": "충청남도 계룡시"
+      },
+      {
+        "name": "계룡중앙공원 비상집합장소",
+        "coordinates": [
+          36.287936,
+          127.261203
+        ],
+        "capacity": 5400,
+        "address": "충청남도 계룡시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "계룡대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "계룡산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "계룡시청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "계룡시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "계룡문화예술의전당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "계룡시는 대한민국 국군의 3군 본부가 자리한 군사 도시로 계룡산 자락의 계획 도시이다.",
   "data_sources": [
     {
