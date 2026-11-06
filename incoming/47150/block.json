@@ -223,6 +223,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "김천초등학교 운동장",
+        "coordinates": [
+          36.180932,
+          128.097521
+        ],
+        "capacity": 5100,
+        "address": "경상북도 김천시"
+      },
+      {
+        "name": "김천실내체육관",
+        "coordinates": [
+          36.159076,
+          128.14877
+        ],
+        "capacity": 4600,
+        "address": "경상북도 김천시"
+      },
+      {
+        "name": "김천중앙공원 비상집합장소",
+        "coordinates": [
+          36.164992,
+          128.089444
+        ],
+        "capacity": 2500,
+        "address": "경상북도 김천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "김천약령시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "감고도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대장부공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "김천혁신도시",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "김천문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "김천시는 조선 시대 선산 지역의 중심지로 근현대 교통 요충지이자 혁신도시가 발달한 경북 서부의 도시다.",
   "data_sources": [
     {
