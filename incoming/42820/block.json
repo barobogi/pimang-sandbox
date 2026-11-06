@@ -323,6 +323,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -491,5 +496,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "감자전 (고성군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=고성군청&goalx=128.467846&goaly=38.380032",
+    "kakaonavi_url": "kakaonavi://navigate?name=고성군청&x=128.467846&y=38.380032&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=고성군청&dlng=128.467846&dlat=38.380032&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:38",
+      "noon_altitude_deg": 51.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:02",
+      "sunset": "19:53",
+      "noon_altitude_deg": 75.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:23",
+      "noon_altitude_deg": 51.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:09",
+      "noon_altitude_deg": 28.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "고성군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.524751,
+          38.404075
+        ],
+        [
+          128.525701,
+          38.402825
+        ],
+        [
+          128.525351,
+          38.404125
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "고성군 전통시장 만남의거리",
+    "anchor_center": [
+      128.468846,
+      38.379899
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 340,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
   }
 }
