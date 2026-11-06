@@ -154,6 +154,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "두물머리",
+        "station_name": "두물머리 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.564622,
+          127.383387
+        ]
+      },
+      {
+        "target_landmark": "양수리",
+        "station_name": "양수리 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.549519,
+          127.32062
+        ]
+      },
+      {
+        "target_landmark": "용문사",
+        "station_name": "용문사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.550666,
+          127.572344
+        ]
+      },
+      {
+        "target_landmark": "양평역",
+        "station_name": "양평역 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.494047,
+          127.493097
+        ]
+      },
+      {
+        "target_landmark": "소싸울너른공원",
+        "station_name": "소싸울너른공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5112,
+          127.3012
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양평 중앙 공영주차장",
+        "coordinates": [
+          37.549866,
+          127.571544
+        ],
+        "capacity": 58,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양평 제2 공영주차장",
+        "coordinates": [
+          37.490447,
+          127.492297
+        ],
+        "capacity": 526,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "양평군은 한강과 남한강, 북한강이 어우러진 경기 동부의 군으로 두물머리와 양수리 등의 수변 명소와 용문산 국민관광지, 소싸울너른공원 등이 함께한다.",
   "data_sources": [
     {
