@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Guri-si, Gyeonggi",
+      "landmarks": {
+        "아차산": [
+          "Achasan Mountain",
+          "Signature mountain preserving the remains of a Baekje fortress."
+        ],
+        "갈매시장": [
+          "Galmae Market",
+          "Guri's signature traditional market."
+        ],
+        "갈매공원": [
+          "Galmae Park",
+          "Signature neighborhood park of Galmae-dong."
+        ],
+        "인창동 상권": [
+          "Inchang-dong District",
+          "Commercial hub of Guri in Inchang-dong."
+        ],
+        "사패산": [
+          "Sapaesan Mountain",
+          "Mountain on the Guri-Uijeongbu boundary."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 九里市",
+      "landmarks": {
+        "아차산": [
+          "峨嵯山",
+          "百済の峨嵯山城跡が残る代表的な山。"
+        ],
+        "갈매시장": [
+          "葛梅市場",
+          "九里を代表する伝統市場。"
+        ],
+        "갈매공원": [
+          "葛梅公園",
+          "葛梅洞を代表する近隣公園。"
+        ],
+        "인창동 상권": [
+          "印倉洞商圏",
+          "印倉洞に形成された九里を代表する商圏。"
+        ],
+        "사패산": [
+          "賜牌山",
+          "九里と議政府の境界の代表的な山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 九里市",
+      "landmarks": {
+        "아차산": [
+          "峨嵯山",
+          "留有百济峨嵯山城遗迹的代表名山。"
+        ],
+        "갈매시장": [
+          "葛梅市场",
+          "九里的代表性传统市场。"
+        ],
+        "갈매공원": [
+          "葛梅公园",
+          "葛梅洞的代表性近邻公园。"
+        ],
+        "인창동 상권": [
+          "印仓洞商圈",
+          "印仓洞形成的九里代表性商圈。"
+        ],
+        "사패산": [
+          "赐牌山",
+          "九里与议政府交界的代表山峰。"
+        ]
+      }
+    }
   }
 }
