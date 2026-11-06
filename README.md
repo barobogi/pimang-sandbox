@@ -6,6 +6,15 @@ This repository is an open collaboration workspace for creating, testing, and su
 
 ---
 
+> [!IMPORTANT]
+> **🚀 ACTIVE TASK (2026-11-07): 종로구 1차 최우선 12대 시그니처 앵커 블록 구현**
+> - **최우선 12대 지시서**: [`TASK_REQUEST_20261107_JONGNO_LEGO_PRIORITY12.md`](TASK_REQUEST_20261107_JONGNO_LEGO_PRIORITY12.md)
+> - **50대 블록 마스터 설계안**: [`TASK_REQUEST_20261107_JONGNO_LEGO_50BLOCKS.md`](TASK_REQUEST_20261107_JONGNO_LEGO_50BLOCKS.md)
+> - **종로구 1,000대 시그니처 마스터 DB**: [`examples/jongno_1000_signature_master.json`](examples/jongno_1000_signature_master.json)
+> - **작업 브랜치**: `feature/jongno-signature-lego-blocks` (PR 대상: `main`)
+
+---
+
 ## 🎯 Purpose
 
 - Provide an open specification for administrative district blocks in South Korea.
