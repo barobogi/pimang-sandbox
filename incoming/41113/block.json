@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "권선초등학교 운동장",
+        "coordinates": [
+          37.280039,
+          127.019174
+        ],
+        "capacity": 1200,
+        "address": "경기도 수원시 권선구"
+      },
+      {
+        "name": "권선실내체육관",
+        "coordinates": [
+          37.27202,
+          127.00585
+        ],
+        "capacity": 2900,
+        "address": "경기도 수원시 권선구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "국립식량과학원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "권선동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "세류역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서둔공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서둔천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "수원 권선구는 국립식량과학원과 세류역 상권이 자리한 수원 서부의 구이다.",
   "data_sources": [
     {
