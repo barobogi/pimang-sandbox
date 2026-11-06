@@ -346,5 +346,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gapyeong-gun, Gyeonggi",
+      "landmarks": {
+        "아침고요수목원": [
+          "The Garden of Morning Calm",
+          "Signature attraction of Gapyeong, Gyeonggi."
+        ],
+        "청평호": [
+          "Cheongpyeongho Lake",
+          "Signature lake attraction of Gapyeong, Gyeonggi."
+        ],
+        "명지산": [
+          "Myeongjisan Mountain",
+          "Signature mountain attraction of Gapyeong, Gyeonggi."
+        ],
+        "가평역 상권": [
+          "Gapyeong Station District",
+          "Signature station district of Gapyeong, Gyeonggi."
+        ],
+        "쁘띠프랑스": [
+          "Petite France",
+          "Signature attraction of Gapyeong, Gyeonggi."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 加平郡",
+      "landmarks": {
+        "아침고요수목원": [
+          "朝の静寂樹木園（アチンコヨ）",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "청평호": [
+          "清平湖",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "명지산": [
+          "鳴智山",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "가평역 상권": [
+          "加平駅商圏",
+          "京畿道加平郡を代表する名所。"
+        ],
+        "쁘띠프랑스": [
+          "プチフランス",
+          "京畿道加平郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 加平郡",
+      "landmarks": {
+        "아침고요수목원": [
+          "晨静树木园",
+          "京畿道加平郡的代表性名胜。"
+        ],
+        "청평호": [
+          "清平湖",
+          "京畿道加平郡的代表性名湖。"
+        ],
+        "명지산": [
+          "鸣智山",
+          "京畿道加平郡的代表性名山。"
+        ],
+        "가평역 상권": [
+          "加平站商圈",
+          "京畿道加平郡的代表性站点商圈。"
+        ],
+        "쁘띠프랑스": [
+          "小法兰西村",
+          "京畿道加平郡的代表性名胜。"
+        ]
+      }
+    }
   }
 }
