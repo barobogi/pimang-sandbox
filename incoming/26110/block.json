@@ -1,0 +1,609 @@
+{
+  "block_code": "26110",
+  "block_name": "부산광역시 중구",
+  "bbox": [
+    129.02121,
+    35.094108,
+    129.053895,
+    35.11636
+  ],
+  "center": [
+    35.105234,
+    129.037553
+  ],
+  "landmarks": [
+    {
+      "name": "국제시장",
+      "lat": 35.1011643,
+      "lng": 129.0281925,
+      "category": "시장/상권",
+      "description": "6·25 이후 형성된 부산 최대 전통시장으로 영화 배경으로도 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 62.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kookje_Market.jpg/1280px-Kookje_Market.jpg"
+    },
+    {
+      "name": "용두산공원",
+      "lat": 35.1004923,
+      "lng": 129.0326268,
+      "category": "공원/전망대",
+      "description": "용두산 정상의 부산타워가 있는 대표 전망 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%91%90%EC%82%B0%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 40.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Busan_Tower_and_Yongdusan_Park_20200522_003.jpg/1280px-Busan_Tower_and_Yongdusan_Park_20200522_003.jpg"
+    },
+    {
+      "name": "광복동",
+      "lat": 35.1003589,
+      "lng": 129.0306071,
+      "category": "상권/번화가",
+      "description": "부산 도심의 대표 번화가로 패션과 쇼핑의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 49.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/1908%EB%85%84%EA%B2%BD_%EB%B6%80%EC%82%B0_%EC%A4%91%EA%B5%AC_%EA%B4%91%EB%B3%B5%EB%8F%99_%EC%9E%A5%EC%88%98%ED%86%B5.jpg/1280px-1908%EB%85%84%EA%B2%BD_%EB%B6%80%EC%82%B0_%EC%A4%91%EA%B5%AC_%EA%B4%91%EB%B3%B5%EB%8F%99_%EC%9E%A5%EC%88%98%ED%86%B5.jpg"
+    },
+    {
+      "name": "자갈치시장",
+      "lat": 35.0966115,
+      "lng": 129.0305184,
+      "category": "수산시장",
+      "description": "국내 최대 수산물 시장으로 생선회와 먹거리로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B0%88%EC%B9%98%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 33.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Jagalchi_Market_20200523_019.jpg/1280px-Jagalchi_Market_20200523_019.jpg"
+    },
+    {
+      "name": "부산항",
+      "lat": 35.1026,
+      "lng": 129.0405108,
+      "category": "항구/인프라",
+      "description": "대한민국 최대 무역항으로 부산의 역사와 함께한 대표 항구다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%ED%95%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 317.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Busan-port-from-Busan-tower-2.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "중구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "부산항 → 용두산공원 → 광복동 → 국제시장 → 자갈치시장 순으로 이어지는 부산광역시 중구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "부산항",
+        "용두산공원",
+        "광복동",
+        "국제시장",
+        "자갈치시장"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "중구 산하 절경 에어리얼 투어",
+      "description": "용두산공원 → 광복동 → 자갈치시장 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 중구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "용두산공원",
+        "광복동",
+        "자갈치시장"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "중구 도심 활력 에어리얼 코스",
+      "description": "국제시장 → 광복동 → 용두산공원 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 중구의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "국제시장",
+        "광복동",
+        "용두산공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "자갈치시장",
+      "lat": 35.0965,
+      "lng": 129.0348,
+      "specialty": "활어회",
+      "category": "수산물"
+    },
+    {
+      "name": "원조부산족발",
+      "lat": 35.1048,
+      "lng": 129.033,
+      "specialty": "돼지족발",
+      "category": "향토음식"
+    },
+    {
+      "name": "삼진복국",
+      "lat": 35.1007,
+      "lng": 129.0319,
+      "specialty": "복국",
+      "category": "한식"
+    },
+    {
+      "name": "소문진참젓갈",
+      "lat": 35.0969,
+      "lng": 129.0355,
+      "specialty": "참젓갈",
+      "category": "수산물"
+    },
+    {
+      "name": "국제 가마솥밥가",
+      "lat": 35.101794,
+      "lng": 129.028822,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "국제시장",
+        "station_name": "남포역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.0975,
+          129.0342
+        ]
+      },
+      {
+        "target_landmark": "용두산공원",
+        "station_name": "남포역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 5,
+        "coordinates": [
+          35.0975,
+          129.0342
+        ]
+      },
+      {
+        "target_landmark": "광복동",
+        "station_name": "남포역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 7,
+        "coordinates": [
+          35.0975,
+          129.0342
+        ]
+      },
+      {
+        "target_landmark": "자갈치시장",
+        "station_name": "남포역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 5,
+        "coordinates": [
+          35.0975,
+          129.0342
+        ]
+      },
+      {
+        "target_landmark": "부산항",
+        "station_name": "중앙역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 5,
+        "coordinates": [
+          35.1048,
+          129.0375
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "자갈치 공영주차장",
+        "coordinates": [
+          35.0966,
+          129.0368
+        ],
+        "capacity": 260,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "부산역 인근 공영주차장",
+        "coordinates": [
+          35.11596,
+          129.0408
+        ],
+        "capacity": 310,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.103707,
+          129.027172
+        ],
+        "capacity": 6500,
+        "address": "부산광역시 중구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.102965,
+          129.035724
+        ],
+        "capacity": 7400,
+        "address": "부산광역시 중구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          35.097474,
+          129.030186
+        ],
+        "capacity": 4600,
+        "address": "부산광역시 중구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "국제시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용두산공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광복동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "자갈치시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "부산항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "용두산공원 벚꽃",
+        "광복동 봄 거리"
+      ],
+      "summer": [
+        "자갈치시장 여름 야시장",
+        "부산항 여름밤"
+      ],
+      "autumn": [
+        "용두산공원 단풍",
+        "국제시장 가을"
+      ],
+      "winter": [
+        "광복동 겨울 빛축제",
+        "국제시장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "용두산공원 야경",
+        "coordinates": [
+          35.100492,
+          129.032627
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "부산항 야경",
+        "coordinates": [
+          35.1026,
+          129.040511
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "자갈치시장 야시장",
+        "coordinates": [
+          35.096612,
+          129.030518
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "부산 중구는 개항기 이후 부산의 원도심으로 국제시장과 광복동, 용두산공원이 자리한 부산 상업·관광 중심지다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Busan",
+      "landmarks": {
+        "국제시장": [
+          "Gukje Market",
+          "Busan's largest traditional market, formed after the Korean War and famed as a film backdrop."
+        ],
+        "용두산공원": [
+          "Yongdusan Park",
+          "Scenic lookout park crowned by Busan Tower on Yongdusan's summit."
+        ],
+        "광복동": [
+          "Gwangbok-dong",
+          "Bustling heart of downtown Busan and center of fashion and shopping."
+        ],
+        "자갈치시장": [
+          "Jagalchi Market",
+          "Korea's largest seafood market, famous for fresh fish and street food."
+        ],
+        "부산항": [
+          "Busan Port",
+          "Korea's largest trading port, a harbor woven into Busan's history."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 中区",
+      "landmarks": {
+        "국제시장": [
+          "国際市場",
+          "6・25後に形成された釜山最大の伝統市場。映画の舞台としても有名。"
+        ],
+        "용두산공원": [
+          "龍頭山公園",
+          "龍頭山頂上の釜山タワーが立つ代表的な眺望スポット。"
+        ],
+        "광복동": [
+          "光復洞",
+          "釜山の都心を代表する繁華街で、ファッションとショッピングの中心。"
+        ],
+        "자갈치시장": [
+          "チャガルチ市場",
+          "国内最大の水産物市場。活き造りと屋台グルメで有名。"
+        ],
+        "부산항": [
+          "釜山港",
+          "大韓民国最大の貿易港で、釜山の歴史とともに歩んできた代表的な港。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 中区",
+      "landmarks": {
+        "국제시장": [
+          "国际市场",
+          "朝鲜战争后形成的釜山最大传统市场，也是著名电影取景地。"
+        ],
+        "용두산공원": [
+          "龙头山公园",
+          "龙头山山顶坐落釜山塔，是代表性观景胜地。"
+        ],
+        "광복동": [
+          "光复路",
+          "釜山市中心的代表性繁华街，是时尚购物胜地。"
+        ],
+        "자갈치시장": [
+          "札嘎其市场",
+          "韩国最大的水产市场，以生鱼片和海鲜美食闻名。"
+        ],
+        "부산항": [
+          "釜山港",
+          "韩国最大的贸易港，与釜山历史相伴的代表性港口。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.bsjunggu.go.kr",
+    "civil_service_center": {
+      "location_name": "중구청 민원실 앞",
+      "coordinates": [
+        129.034634,
+        35.108152
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "051-600-4000",
+      "info": "부산광역시 중구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "중구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.036953,
+      35.105434
+    ],
+    "cctv_zone_count": 248,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "용두산공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "자갈치축제",
+    "typical_month": 10,
+    "venue_name": "자갈치시장 일대",
+    "venue_coords": [
+      129.037252,
+      35.105134
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "중구민체육관",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      129.035634,
+      35.109852
+    ],
+    "reservation_url": "https://www.bsjunggu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "중구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      129.037134,
+      35.107252
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "중구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.036634,
+      35.109252
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "소문진참젓갈",
+    "coordinates": [
+      129.0355,
+      35.0969
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "참젓갈 (중구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=중구청&goalx=129.034634&goaly=35.108152",
+    "kakaonavi_url": "kakaonavi://navigate?name=중구청&x=129.034634&y=35.108152&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=중구청&dlng=129.034634&dlat=35.108152&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:27",
+      "sunset": "18:35",
+      "noon_altitude_deg": 54.9
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:41",
+      "noon_altitude_deg": 78.3
+    },
+    "autumn_equinox": {
+      "sunrise": "06:12",
+      "sunset": "18:20",
+      "noon_altitude_deg": 54.9
+    },
+    "winter_solstice": {
+      "sunrise": "07:29",
+      "sunset": "17:16",
+      "noon_altitude_deg": 31.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "중구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.037503,
+          35.105684
+        ],
+        [
+          129.036953,
+          35.105434
+        ],
+        [
+          129.035753,
+          35.106534
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "중구 광복로 패션의거리",
+    "anchor_center": [
+      129.035034,
+      35.106485
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 190,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
