@@ -147,6 +147,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "감곡매괴성모순례지성당",
+        "station_name": "감곡매괴성모순례지성당 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.9649,
+          127.6981
+        ]
+      },
+      {
+        "target_landmark": "철박물관",
+        "station_name": "철박물관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.089326,
+          127.649143
+        ]
+      },
+      {
+        "target_landmark": "수안봉온천",
+        "station_name": "수안봉온천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.9384,
+          127.6596
+        ]
+      },
+      {
+        "target_landmark": "설성공원",
+        "station_name": "음성역",
+        "line": "중부내륙선",
+        "walk_minutes": 30,
+        "coordinates": [
+          36.9352,
+          127.7148
+        ]
+      },
+      {
+        "target_landmark": "미타사",
+        "station_name": "음성역",
+        "line": "중부내륙선",
+        "walk_minutes": 25,
+        "coordinates": [
+          36.9352,
+          127.7148
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "음성 중앙 공영주차장",
+        "coordinates": [
+          36.9416,
+          127.6596
+        ],
+        "capacity": 229,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "음성 제2 공영주차장",
+        "coordinates": [
+          36.9645,
+          127.6989
+        ],
+        "capacity": 101,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "음성 제3 공영주차장",
+        "coordinates": [
+          36.933097,
+          127.690764
+        ],
+        "capacity": 326,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "음성군은 충북 서북부의 군으로 감곡매괴성모순례지성당과 철박물관, 수안봉온천 등의 명소와 함께 근현대 농산물·의약 산업 도시로 성장한 지역이다.",
   "data_sources": [
     {
