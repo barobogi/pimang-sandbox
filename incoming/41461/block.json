@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "에버랜드 튤립축제",
+        "윤봉길 의사 유적 봄"
+      ],
+      "summer": [
+        "캐리비안베이",
+        "보개산 여름"
+      ],
+      "autumn": [
+        "보개산 단풍",
+        "용인 자연휴양림 가을"
+      ],
+      "winter": [
+        "에버랜드 겨울 빛축제",
+        "보개산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "에버랜드 야경",
+        "coordinates": [
+          37.293475,
+          127.202479
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "보개산 야경",
+        "coordinates": [
+          37.233,
+          127.27
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "용인 처인구는 에버랜드와 윤봉길 의사 유적이 함께한 용인 남부의 구이다.",
   "data_sources": [
     {
