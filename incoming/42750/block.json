@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영월초등학교 운동장",
+        "coordinates": [
+          37.261018,
+          128.599939
+        ],
+        "capacity": 5200,
+        "address": "강원특별자치도 영월군"
+      },
+      {
+        "name": "영월실내체육관",
+        "coordinates": [
+          37.224545,
+          128.565888
+        ],
+        "capacity": 4000,
+        "address": "강원특별자치도 영월군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동강",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청령포",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한반도지형",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영월군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고씨동굴",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "영월군은 동강과 한반도 지형, 김삿갓 유적, 단종 유배지 청령포가 자리한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
