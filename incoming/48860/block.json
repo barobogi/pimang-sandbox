@@ -140,6 +140,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동의보감촌",
+        "station_name": "동의보감촌 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.437708,
+          127.829655
+        ]
+      },
+      {
+        "target_landmark": "대원사",
+        "station_name": "대원사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.353838,
+          127.808361
+        ]
+      },
+      {
+        "target_landmark": "지리산",
+        "station_name": "지리산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.292111,
+          127.823441
+        ]
+      },
+      {
+        "target_landmark": "산청군청",
+        "station_name": "산청버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 7,
+        "coordinates": [
+          35.412976,
+          127.877767
+        ]
+      },
+      {
+        "target_landmark": "산청시장",
+        "station_name": "산청버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.412976,
+          127.877767
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "산청 중앙 공영주차장",
+        "coordinates": [
+          35.414576,
+          127.874967
+        ],
+        "capacity": 139,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "산청 제2 공영주차장",
+        "coordinates": [
+          35.417161,
+          127.871073
+        ],
+        "capacity": 209,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "산청군은 지리산과 대원사, 동의보감촌이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
