@@ -225,6 +225,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.889941,
+          128.588394
+        ],
+        "capacity": 5500,
+        "address": "대구광역시 북구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.91179,
+          128.5426
+        ],
+        "capacity": 4700,
+        "address": "대구광역시 북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "침산공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구암동고분군",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "팔거산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "칠곡향교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "구암서원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "대구 북구는 침산공원과 구암동고분군, 팔거산성 등 역사와 자연이 함께한 대구 북부의 구이다.",
   "data_sources": [
     {
