@@ -143,6 +143,94 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "스타필드 하남",
+        "station_name": "하남검단산역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 19,
+        "coordinates": [
+          37.5436,
+          127.2089
+        ]
+      },
+      {
+        "target_landmark": "검단산",
+        "station_name": "검단산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.516055,
+          127.249354
+        ]
+      },
+      {
+        "target_landmark": "망월사",
+        "station_name": "망월사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.476215,
+          127.19585
+        ]
+      },
+      {
+        "target_landmark": "미사한강공원",
+        "station_name": "미사한강공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.574969,
+          127.180472
+        ]
+      },
+      {
+        "target_landmark": "덕풍공원",
+        "station_name": "하남풍산역",
+        "line": "서울 5호선",
+        "exit_no": 9,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5374,
+          127.1999
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "하남 중앙 공영주차장",
+        "coordinates": [
+          37.53447,
+          127.198786
+        ],
+        "capacity": 263,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "하남 제2 공영주차장",
+        "coordinates": [
+          37.545845,
+          127.222457
+        ],
+        "capacity": 431,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "하남 제3 공영주차장",
+        "coordinates": [
+          37.518055,
+          127.248954
+        ],
+        "capacity": 236,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "하남시는 조선 시대 광주부 관내 지역으로 경강선 개통과 함께 서울 동남부의 위성도시로 성장했고 스타필드 하남과 미사일대, 검단산과 망월사 등 도시 명소가 자리한다.",
   "data_sources": [
     {
