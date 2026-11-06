@@ -143,6 +143,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서울식물원",
+        "station_name": "마곡나루역",
+        "line": "서울 9호선",
+        "exit_no": 10,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.5685,
+          126.8267
+        ]
+      },
+      {
+        "target_landmark": "김포공항",
+        "station_name": "김포공항역",
+        "line": "서울 5·9호선·공항철도",
+        "exit_no": 5,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.5624,
+          126.8024
+        ]
+      },
+      {
+        "target_landmark": "우장산공원",
+        "station_name": "마곡나루역",
+        "line": "서울 9호선",
+        "exit_no": 10,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.5685,
+          126.8267
+        ]
+      },
+      {
+        "target_landmark": "염창한강공원",
+        "station_name": "화곡역",
+        "line": "서울 5호선",
+        "exit_no": 7,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.5446,
+          126.8472
+        ]
+      },
+      {
+        "target_landmark": "바우덕이극장",
+        "station_name": "화곡역",
+        "line": "서울 5호선",
+        "exit_no": 7,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.5446,
+          126.8472
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강서 중앙 공영주차장",
+        "coordinates": [
+          37.572266,
+          126.835864
+        ],
+        "capacity": 288,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "강서 제2 공영주차장",
+        "coordinates": [
+          37.5582,
+          126.836
+        ],
+        "capacity": 441,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "강서 제3 공영주차장",
+        "coordinates": [
+          37.559,
+          126.8496
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "강서구는 김포국민 공유지가 개발되어 형성된 서울 서남부의 자치구로 마곡지구에 서울식물원이 조성되었고 화곡·등촌·가양 등의 주거지가 발달했다.",
   "data_sources": [
     {
