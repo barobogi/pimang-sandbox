@@ -267,6 +267,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "축령산 봄 편백숲",
+        "백양사 봄"
+      ],
+      "summer": [
+        "축령산 여름 편백숲",
+        "백양사 계곡 여름"
+      ],
+      "autumn": [
+        "백양사 단풍",
+        "축령산 가을"
+      ],
+      "winter": [
+        "축령산 설경",
+        "백양사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "축령산 야경",
+        "coordinates": [
+          35.367521,
+          126.727915
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "백양사 야경",
+        "coordinates": [
+          35.431719,
+          126.80776
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
   "data_sources": [
     {
