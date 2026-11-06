@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gunwi-gun, Daegu",
+      "landmarks": {
+        "병암": [
+          " Byeongam Hermitage",
+          "Gunwi's signature temple at the foot of Byeongamsan."
+        ],
+        "화수서원": [
+          "Hwasu Seowon",
+          "Signature Confucian academy of the Gunwi region from the Joseon era."
+        ],
+        "삼형제봉": [
+          "Three Brothers Peaks",
+          "Gunwi's signature mountain landmark."
+        ],
+        "고정산성": [
+          "Gojeongsanseong Fortress",
+          "Ancient fortress remains and a historic defensive site of Gunwi."
+        ],
+        "군위문화예술회관": [
+          "Gunwi Culture and Arts Center",
+          "Gunwi's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 军威郡",
+      "landmarks": {
+        "병암": [
+          "氷庵",
+          "軍威を代表する寺院で、氷庵山のふもとに位置する。"
+        ],
+        "화수서원": [
+          "花樹書院",
+          "朝鮮時代の軍威地域を代表する書院。"
+        ],
+        "삼형제봉": [
+          "三兄弟峰",
+          "軍威を代表する名山。"
+        ],
+        "고정산성": [
+          "高政山城",
+          "軍威の古い山城遺跡で、由緒ある防守遺構。"
+        ],
+        "군위문화예술회관": [
+          "軍威文化芸術会館",
+          "軍威を代表する公演・展示施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 军威郡",
+      "landmarks": {
+        "병암": [
+          "冰庵",
+          "军威代表性寺院，坐落于冰庵山麓。"
+        ],
+        "화수서원": [
+          "花树书院",
+          "朝鲜时代军威地区的代表性书院。"
+        ],
+        "삼형제봉": [
+          "三兄弟峰",
+          "军威的代表名山。"
+        ],
+        "고정산성": [
+          "高政山城",
+          "军威古老山城遗迹，历史悠久的防御设施。"
+        ],
+        "군위문화예술회관": [
+          "军威文化艺术会馆",
+          "军威代表性演出展览场馆。"
+        ]
+      }
+    }
   }
 }
