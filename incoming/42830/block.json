@@ -1,0 +1,569 @@
+{
+  "block_code": "42830",
+  "block_name": "강원특별자치도 양양군",
+  "bbox": [
+    128.404247,
+    37.862019,
+    128.997688,
+    38.250832
+  ],
+  "center": [
+    38.056425,
+    128.700968
+  ],
+  "landmarks": [
+    {
+      "name": "낙산해수욕장",
+      "lat": 38.1156348,
+      "lng": 128.636006,
+      "category": "해수욕장",
+      "description": "낙산해수욕장은(는) 강원특별자치도 양양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 139.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%EB%82%99%EC%82%B0%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
+    },
+    {
+      "name": "낙산사",
+      "lat": 38.124506,
+      "lng": 128.6291359,
+      "category": "사찰/문화유산",
+      "description": "낙산사은(는) 강원특별자치도 양양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%EC%82%B0%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 140.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Korea-Naksansa_2215-07_grounds.JPG"
+    },
+    {
+      "name": "죽도해수욕장",
+      "lat": 37.971635,
+      "lng": 128.759838,
+      "category": "해수욕장",
+      "description": "죽도해수욕장은(는) 강원특별자치도 양양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 331.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Naksan_Temple.jpg/1280px-Naksan_Temple.jpg"
+    },
+    {
+      "name": "양양군청",
+      "lat": 38.075494,
+      "lng": 128.619005,
+      "category": "행정/랜드마크",
+      "description": "양양군청은(는) 강원특별자치도 양양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 106.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Naksan_Temple.jpg/1280px-Naksan_Temple.jpg"
+    },
+    {
+      "name": "남대천",
+      "lat": 38.1074693,
+      "lng": 128.644552,
+      "category": "하천/자연",
+      "description": "남대천은(는) 강원특별자치도 양양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8C%80%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 139.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%EA%B0%95%EB%A6%89%EC%8B%9C_%EB%82%A8%EB%8C%80%EC%B2%9C_2016-10-25_18.00.44.jpg/1280px-%EA%B0%95%EB%A6%89%EC%8B%9C_%EB%82%A8%EB%8C%80%EC%B2%9C_2016-10-25_18.00.44.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "양양 해안 절경 시그니처 드론 플라이트",
+      "description": "양양군청 → 남대천 → 낙산해수욕장 → 낙산사 → 죽도해수욕장 순으로 이어지는 강원특별자치도 양양군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "양양군청",
+        "남대천",
+        "낙산해수욕장",
+        "낙산사",
+        "죽도해수욕장"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "양양 푸른 해안선 에어리얼 크루즈",
+      "description": "죽도해수욕장 → 낙산해수욕장 → 낙산사 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 양양의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "죽도해수욕장",
+        "낙산해수욕장",
+        "낙산사"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "남대천 동네밥집",
+      "lat": 38.106909,
+      "lng": 128.644412,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "양양군청 할매집",
+      "lat": 38.076054,
+      "lng": 128.619075,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "낙산해수욕장 할매집",
+      "lat": 38.116125,
+      "lng": 128.635796,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "낙산사 동네밥집",
+      "lat": 38.123946,
+      "lng": 128.628436,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "낙산해수욕장",
+        "station_name": "양양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 19,
+        "coordinates": [
+          38.105869,
+          128.644952
+        ]
+      },
+      {
+        "target_landmark": "낙산사",
+        "station_name": "양양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 36,
+        "coordinates": [
+          38.105869,
+          128.644952
+        ]
+      },
+      {
+        "target_landmark": "죽도해수욕장",
+        "station_name": "죽도해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.973235,
+          128.761438
+        ]
+      },
+      {
+        "target_landmark": "양양군청",
+        "station_name": "양양군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.077094,
+          128.620605
+        ]
+      },
+      {
+        "target_landmark": "남대천",
+        "station_name": "양양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.105869,
+          128.644952
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양양 중앙 공영주차장",
+        "coordinates": [
+          38.107869,
+          128.642552
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "양양 제2 공영주차장",
+        "coordinates": [
+          38.076694,
+          128.620205
+        ],
+        "capacity": 271,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양양초등학교 운동장",
+        "coordinates": [
+          38.070569,
+          128.711056
+        ],
+        "capacity": 1800,
+        "address": "강원특별자치도 양양군"
+      },
+      {
+        "name": "양양실내체육관",
+        "coordinates": [
+          38.17834,
+          128.692893
+        ],
+        "capacity": 3500,
+        "address": "강원특별자치도 양양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "낙산해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙산사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽도해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양양군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남대천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "낙산사 봄 바다",
+        "남대천 벚꽃"
+      ],
+      "summer": [
+        "낙산해수욕장 여름",
+        "죽도해수욕장 여름"
+      ],
+      "autumn": [
+        "낙산사 단풍",
+        "남대천 가을"
+      ],
+      "winter": [
+        "낙산사 해맞이",
+        "낙산해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "낙산해수욕장 야경",
+        "coordinates": [
+          38.115635,
+          128.636006
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "낙산사 야경",
+        "coordinates": [
+          38.124506,
+          128.629136
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "양양군은 낙산해수욕장과 서핑 해변, 낙산사가 자리한 강원 동해안 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangyang-gun, Gangwon",
+      "landmarks": {
+        "낙산해수욕장": [
+          "Naksan Beach",
+          "Signature beach attraction of Yangyang-gun, Gangwon."
+        ],
+        "낙산사": [
+          "Naksansa Temple",
+          "Signature temple heritage of Yangyang-gun, Gangwon."
+        ],
+        "죽도해수욕장": [
+          "Jukdo Beach",
+          "Signature beach attraction of Yangyang-gun, Gangwon."
+        ],
+        "양양군청": [
+          "Yangyang County Office",
+          "Administrative center of Yangyang-gun, Gangwon."
+        ],
+        "남대천": [
+          "Namdaechon Stream",
+          "Signature stream attraction of Yangyang-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 襄陽郡",
+      "landmarks": {
+        "낙산해수욕장": [
+          "洛山海水浴場",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "낙산사": [
+          "洛山寺",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "죽도해수욕장": [
+          "竹島海水浴場",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "양양군청": [
+          "襄陽郡庁",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "남대천": [
+          "南大川",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 襄阳郡",
+      "landmarks": {
+        "낙산해수욕장": [
+          "洛山海水浴场",
+          "江原特别自治道襄阳郡的代表性海滨。"
+        ],
+        "낙산사": [
+          "洛山寺",
+          "江原特别自治道襄阳郡的代表性古刹。"
+        ],
+        "죽도해수욕장": [
+          "竹岛海水浴场",
+          "江原特别自治道襄阳郡的代表性海滨。"
+        ],
+        "양양군청": [
+          "襄阳郡厅",
+          "江原特别自治道襄阳郡的行政中心。"
+        ],
+        "남대천": [
+          "南大川",
+          "江原特别自治道襄阳郡的代表性河流。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yangyang.go.kr",
+    "civil_service_center": {
+      "location_name": "양양군청 민원실 앞",
+      "coordinates": [
+        128.622351,
+        38.076576
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-670-2114",
+      "info": "강원특별자치도 양양군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "양양군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.701567,
+      38.057026
+    ],
+    "cctv_zone_count": 176,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "낙산해변공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "양양 서핑축제",
+    "typical_month": 7,
+    "venue_name": "양양 서핑거리(전전리) 일대",
+    "venue_coords": [
+      128.701067,
+      38.056826
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "양양군 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.620851,
+      38.078076
+    ],
+    "reservation_url": "https://www.yangyang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "양양군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.624851,
+      38.079176
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "양양군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.623851,
+      38.074176
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "양양군청 할매집",
+    "coordinates": [
+      128.619075,
+      38.076054
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "황태구이 (양양군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=양양군청&goalx=128.622351&goaly=38.076576",
+    "kakaonavi_url": "kakaonavi://navigate?name=양양군청&x=128.622351&y=38.076576&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=양양군청&dlng=128.622351&dlat=38.076576&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:37",
+      "noon_altitude_deg": 51.9
+    },
+    "summer_solstice": {
+      "sunrise": "05:02",
+      "sunset": "19:51",
+      "noon_altitude_deg": 75.4
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:22",
+      "noon_altitude_deg": 51.9
+    },
+    "winter_solstice": {
+      "sunrise": "07:38",
+      "sunset": "17:09",
+      "noon_altitude_deg": 28.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "양양군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.700867,
+          38.056226
+        ],
+        [
+          128.701567,
+          38.057026
+        ],
+        [
+          128.701167,
+          38.056676
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "양양군 전통시장 만남의거리",
+    "anchor_center": [
+      128.622484,
+      38.076709
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 350,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
