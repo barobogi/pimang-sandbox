@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ulju-gun, Ulsan",
+      "landmarks": {
+        "대곡천암각화": [
+          "Cheonjeon-ri & Ugok-ri Petroglyphs",
+          "Prehistoric petroglyphs inscribed on UNESCO's World Heritage list together with Bangudae."
+        ],
+        "천전리각사": [
+          "Cheonjeon-ri Rock Carvings",
+          "Silla-era engraved Buddhist shrine images, part of the Bangudae World Heritage district."
+        ],
+        "간절감": [
+          "Ganjeolgam Point",
+          "Coastal pebble beach at Ganjeolmok, famed for fishing and scenic drives."
+        ],
+        "언양 자수정 동굴나라": [
+          "Eonyang Amethyst Cave World",
+          "Korea's first artificial cave attraction, built from a decommissioned amethyst mine."
+        ],
+        "온산항": [
+          "Onsan Port",
+          "Signature fishing port of the Onsan area, famed for its fish market."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 蔚州郡",
+      "landmarks": {
+        "대곡천암각화": [
+          "大谷川岩刻画",
+          "盤亀台とともにユネスコ世界遺産に登録された先史時代の岩刻画遺跡。"
+        ],
+        "천전리각사": [
+          "川前里刻石",
+          "新羅時代の刻石遺跡で、世界遺産の盤亀台地区に属する。"
+        ],
+        "간절감": [
+          "簡절감",
+          "簡절木一帯の海岸の玉石の名所。釣りとドライブコースで有名。"
+        ],
+        "언양 자수정 동굴나라": [
+          "彦陽アメジスト洞窟王国",
+          "アメジスト鉱山の廃坑を活用した国内初の人工洞窟観光地。"
+        ],
+        "온산항": [
+          "温山港",
+          "温山地区を代表する漁港。魚市場で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 蔚州郡",
+      "landmarks": {
+        "대곡천암각화": [
+          "大谷川岩刻画",
+          "与盘龟台一同列入联合国教科文组织世界遗产的史前岩刻画遗迹。"
+        ],
+        "천전리각사": [
+          "川前里刻石",
+          "新罗时代刻石遗迹，属世界遗产盘龟台地区。"
+        ],
+        "간절감": [
+          " Ganjeolgam海角",
+          "干旱木一带的海岸鹅卵石胜地，垂钓兜风皆宜。"
+        ],
+        "언양 자수정 동굴나라": [
+          "彦阳紫水晶洞窟王国",
+          "利用紫水晶矿废巷建成的韩国首个人工洞窟景区。"
+        ],
+        "온산항": [
+          "温山港",
+          "温山地区的代表性渔港，以鱼市闻名。"
+        ]
+      }
+    }
   }
 }
