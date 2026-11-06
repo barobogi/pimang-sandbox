@@ -145,6 +145,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "함평자연생태공원",
+        "station_name": "함평버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.136118,
+          126.503643
+        ]
+      },
+      {
+        "target_landmark": "함평나비축제장",
+        "station_name": "함평나비축제장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.057199,
+          126.518075
+        ]
+      },
+      {
+        "target_landmark": "함평군청",
+        "station_name": "함평군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.066765,
+          126.514682
+        ]
+      },
+      {
+        "target_landmark": "함평시장",
+        "station_name": "함평시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.064755,
+          126.521342
+        ]
+      },
+      {
+        "target_landmark": "고막원천",
+        "station_name": "고막원천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.030153,
+          126.592158
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "함평 중앙 공영주차장",
+        "coordinates": [
+          35.136918,
+          126.502043
+        ],
+        "capacity": 110,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "함평 제2 공영주차장",
+        "coordinates": [
+          35.068365,
+          126.516682
+        ],
+        "capacity": 174,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "함평 제3 공영주차장",
+        "coordinates": [
+          35.065155,
+          126.522542
+        ],
+        "capacity": 329,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "함평군은 함평나비축제와 함평자연생태공원, 고막원천이 자리한 전남 서부의 군이다.",
   "data_sources": [
     {
