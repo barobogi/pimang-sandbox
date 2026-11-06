@@ -437,10 +437,11 @@
     "civil_service_center": {
       "location_name": "동구청 민원실 앞",
       "coordinates": [
-        126.628811,
-        37.485619
+        126.647152,
+        37.474653
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "032-770-6114",
