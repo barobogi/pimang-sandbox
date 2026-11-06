@@ -1,0 +1,584 @@
+{
+  "block_code": "41463",
+  "block_name": "경기도 용인시 기흥구",
+  "bbox": [
+    127.064121,
+    37.215568,
+    127.17694,
+    37.327
+  ],
+  "center": [
+    37.271284,
+    127.120531
+  ],
+  "landmarks": [
+    {
+      "name": "보정동 카페거리",
+      "lat": 37.313,
+      "lng": 127.09,
+      "category": "카페/문화",
+      "description": "용인의 대표 카페 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%A0%95%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 149.8
+      }
+    },
+    {
+      "name": "신갈지구",
+      "lat": 37.289,
+      "lng": 127.114,
+      "category": "신도시",
+      "description": "기흥구의 대표 주거 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 163.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Q46209_Singal_A01.JPG/1280px-Q46209_Singal_A01.JPG"
+    },
+    {
+      "name": "기흥역 상권",
+      "lat": 37.276,
+      "lng": 127.128,
+      "category": "상권",
+      "description": "기흥역 중심의 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 231.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Q16273_Giheung_A01.JPG/1280px-Q16273_Giheung_A01.JPG"
+    },
+    {
+      "name": "동백지구",
+      "lat": 37.327,
+      "lng": 127.129,
+      "category": "신도시",
+      "description": "용인의 대표 주거 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 186.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Giheung-gu_office.JPG/1280px-Giheung-gu_office.JPG"
+    },
+    {
+      "name": "기흥동 상권",
+      "lat": 37.281,
+      "lng": 127.126,
+      "category": "상권",
+      "description": "기흥동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%9D%A5%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 204.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Giheung-gu_office.JPG/1280px-Giheung-gu_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "기흥 도심 하이라이트 시그니처 스카이 투어",
+      "description": "기흥역 상권 → 기흥동 상권 → 신갈지구 → 보정동 카페거리 → 동백지구 순으로 이어지는 경기도 용인시 기흥구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "기흥역 상권",
+        "기흥동 상권",
+        "신갈지구",
+        "보정동 카페거리",
+        "동백지구"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "기흥 도심 활력 에어리얼 코스",
+      "description": "보정동 카페거리 → 신갈지구 → 기흥역 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 기흥의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "보정동 카페거리",
+        "신갈지구",
+        "기흥역 상권"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "기흥역 상권 동네밥집",
+      "lat": 37.27551,
+      "lng": 127.12758,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "기흥동 상권 동네밥집",
+      "lat": 37.28156,
+      "lng": 127.12537,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "신갈지구 할매집",
+      "lat": 37.28907,
+      "lng": 127.11379,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "보정동 카페거리 큰마당식당",
+      "lat": 37.31314,
+      "lng": 127.09014,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "동백지구 할매집",
+      "lat": 37.3266,
+      "lng": 127.12872,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "보정동 카페거리",
+        "station_name": "보정동 카페거리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3158,
+          127.088
+        ]
+      },
+      {
+        "target_landmark": "신갈지구",
+        "station_name": "기흥역",
+        "line": "수인분당선·용인 에버라인",
+        "walk_minutes": 38,
+        "coordinates": [
+          37.2755,
+          127.1385
+        ]
+      },
+      {
+        "target_landmark": "기흥역 상권",
+        "station_name": "기흥역",
+        "line": "수인분당선·용인 에버라인",
+        "walk_minutes": 13,
+        "coordinates": [
+          37.2755,
+          127.1385
+        ]
+      },
+      {
+        "target_landmark": "동백지구",
+        "station_name": "동백지구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3266,
+          127.127
+        ]
+      },
+      {
+        "target_landmark": "기흥동 상권",
+        "station_name": "기흥역",
+        "line": "수인분당선·용인 에버라인",
+        "walk_minutes": 18,
+        "coordinates": [
+          37.2755,
+          127.1385
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "기흥 중앙 공영주차장",
+        "coordinates": [
+          37.2768,
+          127.1304
+        ],
+        "capacity": 467,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "기흥 제2 공영주차장",
+        "coordinates": [
+          37.2814,
+          127.1284
+        ],
+        "capacity": 511,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "기흥초등학교 운동장",
+        "coordinates": [
+          37.309322,
+          127.080534
+        ],
+        "capacity": 5600,
+        "address": "경기도 용인시 기흥구"
+      },
+      {
+        "name": "기흥실내체육관",
+        "coordinates": [
+          37.273313,
+          127.121922
+        ],
+        "capacity": 4000,
+        "address": "경기도 용인시 기흥구"
+      },
+      {
+        "name": "기흥중앙공원 비상집합장소",
+        "coordinates": [
+          37.263608,
+          127.127466
+        ],
+        "capacity": 7500,
+        "address": "경기도 용인시 기흥구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "보정동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신갈지구",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "기흥역 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동백지구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "기흥동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "보정동 카페거리 봄꽃",
+        "동백지구 봄"
+      ],
+      "summer": [
+        "보정동 카페거리 여름밤",
+        "기흥역 상권 여름"
+      ],
+      "autumn": [
+        "동백지구 단풍",
+        "보정동 카페거리 가을"
+      ],
+      "winter": [
+        "기흥역 상권 겨울 조명",
+        "동백지구 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "보정동 카페거리 야경",
+        "coordinates": [
+          37.313,
+          127.09
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "기흥역 상권 야경",
+        "coordinates": [
+          37.276,
+          127.128
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "용인 기흥구는 보정동 카페거리와 신갈지구가 함께한 용인 중부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Giheung-gu, Yongin",
+      "landmarks": {
+        "보정동 카페거리": [
+          "Bojeong-dong Cafe Street",
+          "Yongin's signature cafe street."
+        ],
+        "신갈지구": [
+          "Singal District",
+          "Signature residential new town of Giheung-gu."
+        ],
+        "기흥역 상권": [
+          "Giheung Station District",
+          "Commercial hub centered on Giheung Station."
+        ],
+        "동백지구": [
+          "Dongbaek District",
+          "Signature residential new town of Yongin."
+        ],
+        "기흥동 상권": [
+          "Giheung-dong District",
+          "Everyday commercial hub in Giheung-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 龍仁市 器興区",
+      "landmarks": {
+        "보정동 카페거리": [
+          "亭子洞カフェ街",
+          "龍仁を代表するカフェストリート。"
+        ],
+        "신갈지구": [
+          "新葛地区",
+          "器興区を代表する住宅新都市。"
+        ],
+        "기흥역 상권": [
+          "器興駅商圏",
+          "器興駅を中心とする代表的な商圏。"
+        ],
+        "동백지구": [
+          "冬柏地区",
+          "龍仁を代表する住宅新都市。"
+        ],
+        "기흥동 상권": [
+          "器興洞商圏",
+          "器興洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 龙仁市 器兴区",
+      "landmarks": {
+        "보정동 카페거리": [
+          "宝亭洞咖啡街",
+          "龙仁的代表性咖啡街。"
+        ],
+        "신갈지구": [
+          "新葛地区",
+          "器兴区的代表性居住新城。"
+        ],
+        "기흥역 상권": [
+          "器兴站商圈",
+          "以器兴站为中心的代表性商圈。"
+        ],
+        "동백지구": [
+          "冬柏地区",
+          "龙仁的代表性居住新城。"
+        ],
+        "기흥동 상권": [
+          "器兴洞商圈",
+          "器兴洞形成的代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.giheunggu.go.kr",
+    "civil_service_center": {
+      "location_name": "기흥구청 민원실 앞",
+      "coordinates": [
+        127.113209,
+        37.282613
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1577-1122",
+      "info": "경기도 용인시 기흥구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "기흥구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.120631,
+      37.271784
+    ],
+    "cctv_zone_count": 413,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "흥덕근린공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "기흥 구민축제",
+    "typical_month": 10,
+    "venue_name": "기흥구청 광장",
+    "venue_coords": [
+      127.120931,
+      37.271284
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "기흥구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.113009,
+      37.282213
+    ],
+    "reservation_url": "https://www.giheunggu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "기흥구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.110709,
+      37.283613
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "기흥구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.110309,
+      37.283113
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "보정동 카페거리 큰마당식당",
+    "coordinates": [
+      127.09014,
+      37.31314
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (기흥구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=기흥구청&goalx=127.113209&goaly=37.282613",
+    "kakaonavi_url": "kakaonavi://navigate?name=기흥구청&x=127.113209&y=37.282613&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=기흥구청&dlng=127.113209&dlat=37.282613&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:42",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "기흥구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.119931,
+          37.272134
+        ],
+        [
+          127.120631,
+          37.271784
+        ],
+        [
+          127.120031,
+          37.271684
+        ]
+      ],
+      "cctv_linked_count": 11,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "기흥구 중심상업거리",
+    "anchor_center": [
+      127.111542,
+      37.28308
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 171,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
