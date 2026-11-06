@@ -129,6 +129,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "태백산",
+        "station_name": "태백산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.146423,
+          128.904138
+        ]
+      },
+      {
+        "target_landmark": "황지연못",
+        "station_name": "태백역",
+        "line": "태백선",
+        "walk_minutes": 18,
+        "coordinates": [
+          37.1628,
+          128.9854
+        ]
+      },
+      {
+        "target_landmark": "태백석탄박물관",
+        "station_name": "태백석탄박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.116976,
+          128.948957
+        ]
+      },
+      {
+        "target_landmark": "태백시청",
+        "station_name": "태백역",
+        "line": "태백선",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.1628,
+          128.9854
+        ]
+      },
+      {
+        "target_landmark": "매봉산",
+        "station_name": "매봉산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.2108,
+          128.965303
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "태백 중앙 공영주차장",
+        "coordinates": [
+          37.2104,
+          128.966103
+        ],
+        "capacity": 146,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "태백 제2 공영주차장",
+        "coordinates": [
+          37.173939,
+          128.991836
+        ],
+        "capacity": 218,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "태백 제3 공영주차장",
+        "coordinates": [
+          37.162497,
+          128.985765
+        ],
+        "capacity": 136,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "태백시는 해발 700m 고원에 자리한 강원 영동 내륙의 도시로 태백산과 황지연못, 석탄박물관이 대표 명소이다.",
   "data_sources": [
     {
