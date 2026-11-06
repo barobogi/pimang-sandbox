@@ -232,6 +232,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "단원초등학교 운동장",
+        "coordinates": [
+          37.345574,
+          126.749892
+        ],
+        "capacity": 2000,
+        "address": "경기도 안산시 단원구"
+      },
+      {
+        "name": "단원실내체육관",
+        "coordinates": [
+          37.269085,
+          126.515723
+        ],
+        "capacity": 6000,
+        "address": "경기도 안산시 단원구"
+      },
+      {
+        "name": "단원중앙공원 비상집합장소",
+        "coordinates": [
+          37.335973,
+          126.763289
+        ],
+        "capacity": 6800,
+        "address": "경기도 안산시 단원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "안산호수공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대부도",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "반월국가산업단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "와동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "선감도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "안산 단원구는 안산호수공원과 대부도, 반월국가산업단지가 함께한 안산 서부의 구이다.",
   "data_sources": [
     {
