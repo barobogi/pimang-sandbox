@@ -351,5 +351,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangseo-gu, Seoul",
+      "landmarks": {
+        "서울식물원": [
+          "Seoul Botanic Park",
+          "Large botanic garden at Magok with a world-famous greenhouse forest wall."
+        ],
+        "김포공항": [
+          "Gimpo Airport",
+          "Seoul's historic gateway airport opened in 1939, now serving domestic and select international routes."
+        ],
+        "우장산공원": [
+          "Ujangsan Park",
+          "Neighborhood park on Ujangsan with hiking and walking trails."
+        ],
+        "염창한강공원": [
+          "Yeomchang Hangang Park",
+          "Riverside park with bike paths and sports facilities on the Yeomchang waterfront."
+        ],
+        "바우덕이극장": [
+          "Baudeogi Theater",
+          "Theater dedicated to traditional puppet plays and pansori in Hwagok-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 江西区",
+      "landmarks": {
+        "서울식물원": [
+          "ソウル植物園",
+          "麻谷に造られた大型植物園。温室のフォレストウォールが世界的に有名。"
+        ],
+        "김포공항": [
+          "金浦空港",
+          "1939年開港のソウルの玄関口。国内線と一部国際線が発着する。"
+        ],
+        "우장산공원": [
+          "雨装山公園",
+          "雨装山のふもとに広がる近隣公園。登山道と散歩道が整備されている。"
+        ],
+        "염창한강공원": [
+          "塩倉漢江公園",
+          "塩倉地区の水辺公園。自転車道と体育施設を併設する。"
+        ],
+        "바우덕이극장": [
+          "バウドッキ劇場",
+          "花谷洞にある伝統人形劇専門劇場。パンソリと人形劇の公演で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 江西区",
+      "landmarks": {
+        "서울식물원": [
+          "首尔植物园",
+          "位于麻谷的大型植物园，其温室植物墙闻名世界。"
+        ],
+        "김포공항": [
+          "金浦机场",
+          "1939年启用的首尔门户机场，现运营国内线及部分国际航线。"
+        ],
+        "우장산공원": [
+          "雨装山公园",
+          "雨装山麓的近邻公园，设有登山道和散步道。"
+        ],
+        "염창한강공원": [
+          "盐仓汉江公园",
+          "盐仓江边公园，配有自行车道和体育设施。"
+        ],
+        "바우덕이극장": [
+          "传统木偶剧专馆",
+          "位于花谷洞的传统木偶剧专门剧场，以板索里和木偶戏闻名。"
+        ]
+      }
+    }
   }
 }
