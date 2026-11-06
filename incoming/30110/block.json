@@ -226,6 +226,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          36.339611,
+          127.450295
+        ],
+        "capacity": 2100,
+        "address": "대전광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          36.365864,
+          127.452096
+        ],
+        "capacity": 3500,
+        "address": "대전광역시 동구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          36.407535,
+          127.47999
+        ],
+        "capacity": 1700,
+        "address": "대전광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대전역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대전복합터미널",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대청호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만인산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "식장산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "대전 동구는 대전역과 대전복합터미널이 자리한 대전 동부의 관문 구로 만인산과 식장산, 대청호 등 자연 명소가 함께한다.",
   "data_sources": [
     {
