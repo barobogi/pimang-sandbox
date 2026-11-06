@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "병암",
+        "station_name": "병암 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.8764,
+          128.6316
+        ]
+      },
+      {
+        "target_landmark": "화수서원",
+        "station_name": "화수서원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.9126,
+          128.5716
+        ]
+      },
+      {
+        "target_landmark": "삼형제봉",
+        "station_name": "군위버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.012,
+          128.568
+        ]
+      },
+      {
+        "target_landmark": "고정산성",
+        "station_name": "고정산성 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.8976,
+          128.6016
+        ]
+      },
+      {
+        "target_landmark": "군위문화예술회관",
+        "station_name": "군위문화예술회관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.234714,
+          128.575334
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "군위 중앙 공영주차장",
+        "coordinates": [
+          36.0076,
+          128.568
+        ],
+        "capacity": 117,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "군위 제2 공영주차장",
+        "coordinates": [
+          36.238314,
+          128.575734
+        ],
+        "capacity": 186,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "대구 군위군은 2023년 경북에서 대구로 편입된 군으로 병암과 화수서원, 삼형제봉 등의 문화·자연 명소가 함께한 내륙 군이다.",
   "data_sources": [
     {
