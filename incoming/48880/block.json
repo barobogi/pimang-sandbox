@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수승대",
+        "station_name": "수승대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.760981,
+          127.831667
+        ]
+      },
+      {
+        "target_landmark": "덕유산",
+        "station_name": "덕유산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.872934,
+          127.767324
+        ]
+      },
+      {
+        "target_landmark": "거창창포원",
+        "station_name": "거창창포원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.654727,
+          127.938605
+        ]
+      },
+      {
+        "target_landmark": "거창군청",
+        "station_name": "거창군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.687298,
+          127.906896
+        ]
+      },
+      {
+        "target_landmark": "거창시장",
+        "station_name": "거창버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.713796,
+          127.887873
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "거창 중앙 공영주차장",
+        "coordinates": [
+          35.712196,
+          127.887873
+        ],
+        "capacity": 247,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "거창 제2 공영주차장",
+        "coordinates": [
+          35.685698,
+          127.908895
+        ],
+        "capacity": 127,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "거창 제3 공영주차장",
+        "coordinates": [
+          35.758981,
+          127.834867
+        ],
+        "capacity": 47,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
   "data_sources": [
     {
