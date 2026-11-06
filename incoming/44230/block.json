@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "관촉사 봄",
+        "탑정호 벚꽃"
+      ],
+      "summer": [
+        "탑정호 여름",
+        "대둔산 여름"
+      ],
+      "autumn": [
+        "대둔산 단풍",
+        "관촉사 가을"
+      ],
+      "winter": [
+        "관촉사 설경",
+        "강경젓갈시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "탑정호 야경",
+        "coordinates": [
+          36.178377,
+          127.17984
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "관촉사 야경",
+        "coordinates": [
+          36.188448,
+          127.113025
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "논산시는 백제 유적인 관촉사 미륵보살입상과 강경젓갈시장, 딸기 재배로 유명한 충남 남부의 도시이다.",
   "data_sources": [
     {
