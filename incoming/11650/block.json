@@ -1,0 +1,584 @@
+{
+  "block_code": "11650",
+  "block_name": "서울특별시 서초구",
+  "bbox": [
+    126.980548,
+    37.428542,
+    127.096454,
+    37.525883
+  ],
+  "center": [
+    37.477213,
+    127.038501
+  ],
+  "landmarks": [
+    {
+      "name": "반포한강공원",
+      "lat": 37.5124766,
+      "lng": 127.000102,
+      "category": "한강공원",
+      "description": "반포대교 달빛무지개분수로 유명한 대표 한강 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%8F%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 139.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/%EA%B3%A0_%EC%86%90%EC%A0%95%EB%AF%BC_%EC%B6%94%EB%AA%A8_%EA%B3%B5%EA%B0%84.jpg/1280px-%EA%B3%A0_%EC%86%90%EC%A0%95%EB%AF%BC_%EC%B6%94%EB%AA%A8_%EA%B3%B5%EA%B0%84.jpg"
+    },
+    {
+      "name": "서래마을",
+      "lat": 37.5001774,
+      "lng": 127.003807,
+      "category": "마을/카페",
+      "description": "국제적 분위기의 카페 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%9E%98%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 129.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Seorae_Village_scene.jpg"
+    },
+    {
+      "name": "양재동 상권",
+      "lat": 37.4845,
+      "lng": 127.0345,
+      "category": "상권",
+      "description": "양재역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 156.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Yangjae_1-dong_Comunity_Service_Center_20140613_193838.JPG/1280px-Yangjae_1-dong_Comunity_Service_Center_20140613_193838.JPG"
+    },
+    {
+      "name": "우면산",
+      "lat": 37.4670146,
+      "lng": 127.0050138,
+      "category": "산/자연",
+      "description": "서초구 남쪽의 산으로 등산로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A9%B4%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 69.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%EC%9A%B0%EB%A9%B4%EC%82%B0_%ED%84%B0%EB%84%90_%EC%A7%80%EB%B6%84_%EB%B3%80%ED%99%94.jpg"
+    },
+    {
+      "name": "법조타운",
+      "lat": 37.484,
+      "lng": 127.009,
+      "category": "공공/행정",
+      "description": "대법원과 법원·검찰이 밀집한 대한민국 법조의 중심지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B4%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 106.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Seoul_Seocho-gu.svg/1280px-Seoul_Seocho-gu.svg.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "서초 도심 하이라이트 시그니처 스카이 투어",
+      "description": "양재동 상권 → 법조타운 → 서래마을 → 반포한강공원 → 우면산 순으로 이어지는 서울특별시 서초구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "양재동 상권",
+        "법조타운",
+        "서래마을",
+        "반포한강공원",
+        "우면산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "서초 도심 스카이라인 크루즈",
+      "description": "서래마을 → 법조타운 → 양재동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 서초의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "서래마을",
+        "법조타운",
+        "양재동 상권"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "서초 그린 랜드스케이프 플라이트",
+      "description": "반포한강공원 → 서래마을 → 우면산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 서초의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "반포한강공원",
+        "서래마을",
+        "우면산"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "양재동 상권 골목식당",
+      "lat": 37.48387,
+      "lng": 127.03387,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "법조타운 옛맛식당",
+      "lat": 37.48386,
+      "lng": 127.00956,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "우면산 솥뚜껑가게",
+      "lat": 37.467715,
+      "lng": 127.005294,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "서래마을 옛맛식당",
+      "lat": 37.499547,
+      "lng": 127.003107,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "반포한강공원",
+        "station_name": "교대역",
+        "line": "서울 2·3호선",
+        "exit_no": 5,
+        "walk_minutes": 37,
+        "coordinates": [
+          37.4923,
+          127.0146
+        ]
+      },
+      {
+        "target_landmark": "서래마을",
+        "station_name": "교대역",
+        "line": "서울 2·3호선",
+        "exit_no": 5,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.4923,
+          127.0146
+        ]
+      },
+      {
+        "target_landmark": "양재동 상권",
+        "station_name": "서초역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 15,
+        "coordinates": [
+          37.4918,
+          127.0272
+        ]
+      },
+      {
+        "target_landmark": "우면산",
+        "station_name": "방배역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.481,
+          127.0064
+        ]
+      },
+      {
+        "target_landmark": "법조타운",
+        "station_name": "방배역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.481,
+          127.0064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서초 중앙 공영주차장",
+        "coordinates": [
+          37.4857,
+          127.0329
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서초 제2 공영주차장",
+        "coordinates": [
+          37.4848,
+          127.0082
+        ],
+        "capacity": 430,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서초초등학교 운동장",
+        "coordinates": [
+          37.523936,
+          126.986027
+        ],
+        "capacity": 6600,
+        "address": "서울특별시 서초구"
+      },
+      {
+        "name": "서초실내체육관",
+        "coordinates": [
+          37.504797,
+          127.002206
+        ],
+        "capacity": 6000,
+        "address": "서울특별시 서초구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "반포한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서래마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "양재동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "우면산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "법조타운",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "반포한강공원 벚꽃",
+        "서래마을 봄 골목"
+      ],
+      "summer": [
+        "반포한강공원 물놀이장",
+        "우면산 여름 숲"
+      ],
+      "autumn": [
+        "우면산 단풍길",
+        "반포한강공원 억새"
+      ],
+      "winter": [
+        "반포한강공원 겨울 빛축제",
+        "서래마을 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "반포한강공원 야경",
+        "coordinates": [
+          37.512477,
+          127.000102
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "우면산 야경",
+        "coordinates": [
+          37.467015,
+          127.005014
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "서초구는 강남 남부의 대표 고급 주거·상업 구로 서초동과 반포동, 양재동 상권과 법조타운이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seocho-gu, Seoul",
+      "landmarks": {
+        "반포한강공원": [
+          "Banpo Hangang Park",
+          "Riverside park famous for the Banpo Bridge Moonlight Rainbow Fountain."
+        ],
+        "서래마을": [
+          "Seorae Village",
+          "Internationally flavored cafe village known as the French quarter."
+        ],
+        "양재동 상권": [
+          "Yangjae-dong District",
+          "Major commercial hub centered on Yangjae Station."
+        ],
+        "우면산": [
+          "Umyeonsan Mountain",
+          "Mountain on Seocho's southern edge with well-built hiking trails."
+        ],
+        "법조타운": [
+          "Legal Town",
+          "Center of Korea's judiciary, dense with the Supreme Court, courts, and prosecutors' offices."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 瑞草区",
+      "landmarks": {
+        "반포한강공원": [
+          "盤浦漢江公園",
+          "盤浦大橋の月光虹噴水で有名な代表的な漢江公園。"
+        ],
+        "서래마을": [
+          "西来村",
+          "国際的な雰囲気のカフェ村。"
+        ],
+        "양재동 상권": [
+          "良才洞商圏",
+          "良才駅を中心とする代表的な商業地域。"
+        ],
+        "우면산": [
+          "牛眠山",
+          "瑞草区の南に位置し、登山道が整備された山。"
+        ],
+        "법조타운": [
+          "法曹タウン",
+          "大法院や裁判所・検察が集積する韓国法曹の中心地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 瑞草区",
+      "landmarks": {
+        "반포한강공원": [
+          "盘浦汉江公园",
+          "以盘浦大桥月光彩虹喷泉闻名的代表性汉江公园。"
+        ],
+        "서래마을": [
+          "盘浦法国村",
+          "富有国际风情的咖啡馆村落。"
+        ],
+        "양재동 상권": [
+          "良才洞商圈",
+          "以良才站为中心的代表性商业区。"
+        ],
+        "우면산": [
+          "牛眠山",
+          "位于瑞草区南侧，建有完善的登山步道。"
+        ],
+        "법조타운": [
+          "法律城",
+          "最高法院及法院、检察院云集的韩国司法中心。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seocho.go.kr",
+    "civil_service_center": {
+      "location_name": "서초구청 민원실 앞",
+      "coordinates": [
+        127.033459,
+        37.483593
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2155-6114",
+      "info": "서울특별시 서초구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서초구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.039001,
+      37.477112
+    ],
+    "cctv_zone_count": 26,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "반포한강공원",
+    "trail_length_km": 2.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "서초 문화야행",
+    "typical_month": 10,
+    "venue_name": "반포한강공원",
+    "venue_coords": [
+      127.038401,
+      37.476613
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서초구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.032259,
+      37.485993
+    ],
+    "reservation_url": "https://www.seocho.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서초구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.036259,
+      37.485693
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서초구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.031459,
+      37.483193
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "서래마을 옛맛식당",
+    "coordinates": [
+      127.003107,
+      37.499547
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "평양냉면 (서초구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=서초구청&goalx=127.033459&goaly=37.483593",
+    "kakaonavi_url": "kakaonavi://navigate?name=서초구청&x=127.033459&y=37.483593&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=서초구청&dlng=127.033459&dlat=37.483593&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "서초구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.039851,
+          37.476262
+        ],
+        [
+          127.039001,
+          37.477112
+        ],
+        [
+          127.039001,
+          37.478162
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "서초 방배동 카페골목",
+    "anchor_center": [
+      127.031659,
+      37.483393
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 130,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "cafe_culture_street"
+  }
+}
