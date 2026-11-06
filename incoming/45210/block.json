@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "김제초등학교 운동장",
+        "coordinates": [
+          35.775037,
+          126.77642
+        ],
+        "capacity": 7000,
+        "address": "전북특별자치도 김제시"
+      },
+      {
+        "name": "김제실내체육관",
+        "coordinates": [
+          35.758586,
+          127.074674
+        ],
+        "capacity": 1900,
+        "address": "전북특별자치도 김제시"
+      },
+      {
+        "name": "김제중앙공원 비상집합장소",
+        "coordinates": [
+          35.887596,
+          126.890603
+        ],
+        "capacity": 4100,
+        "address": "전북특별자치도 김제시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "벽골제",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금산사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만경평야",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "김제시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "김제시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "김제시는 벽골제와 만경평야, 금산사가 자리한 전북 서부의 대표 농업 도시이다.",
   "data_sources": [
     {
