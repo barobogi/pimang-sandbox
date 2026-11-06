@@ -137,6 +137,97 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부산아시아드주경기장",
+        "station_name": "연산역",
+        "line": "부산 1·3호선",
+        "exit_no": 5,
+        "walk_minutes": 21,
+        "coordinates": [
+          35.1695,
+          129.0757
+        ]
+      },
+      {
+        "target_landmark": "연산동 상권",
+        "station_name": "연산역",
+        "line": "부산 1·3호선",
+        "exit_no": 5,
+        "walk_minutes": 22,
+        "coordinates": [
+          35.1695,
+          129.0757
+        ]
+      },
+      {
+        "target_landmark": "온천천",
+        "station_name": "연산역",
+        "line": "부산 1·3호선",
+        "exit_no": 5,
+        "walk_minutes": 40,
+        "coordinates": [
+          35.1695,
+          129.0757
+        ]
+      },
+      {
+        "target_landmark": "배산",
+        "station_name": "연산역",
+        "line": "부산 1·3호선",
+        "exit_no": 5,
+        "walk_minutes": 27,
+        "coordinates": [
+          35.1695,
+          129.0757
+        ]
+      },
+      {
+        "target_landmark": "거제동 상권",
+        "station_name": "연산역",
+        "line": "부산 1·3호선",
+        "exit_no": 5,
+        "walk_minutes": 8,
+        "coordinates": [
+          35.1695,
+          129.0757
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "연제 중앙 공영주차장",
+        "coordinates": [
+          35.178,
+          129.0882
+        ],
+        "capacity": 268,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "연제 제2 공영주차장",
+        "coordinates": [
+          35.191695,
+          129.081197
+        ],
+        "capacity": 452,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "연제 제3 공영주차장",
+        "coordinates": [
+          35.174673,
+          129.094551
+        ],
+        "capacity": 66,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부산 연제구는 연산동 상권과 부산아시아드주경기장, 온천천이 함께한 부산 중부의 구이다.",
   "data_sources": [
     {
