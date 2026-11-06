@@ -276,6 +276,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "무학산 봄 진달래",
+        "돝섬 봄"
+      ],
+      "summer": [
+        "마산항 여름",
+        "돝섬 여름"
+      ],
+      "autumn": [
+        "무학산 단풍",
+        "마산어시장 가을"
+      ],
+      "winter": [
+        "무학산 설경",
+        "마산어시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "마산항 야경",
+        "coordinates": [
+          35.202663,
+          128.597797
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "무학산 야경",
+        "coordinates": [
+          35.210107,
+          128.535514
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "마산합포구는 마산 원도심과 마산항, 돝섬이 자리한 창원 서부의 구이다.",
   "data_sources": [
     {
