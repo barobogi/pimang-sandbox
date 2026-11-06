@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "마이산 봄",
+        "용담호 벚꽃"
+      ],
+      "summer": [
+        "마이산 여름",
+        "용담호 여름"
+      ],
+      "autumn": [
+        "마이산 단풍",
+        "진안시장 가을"
+      ],
+      "winter": [
+        "마이산 설경",
+        "용담호 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "마이산 야경",
+        "coordinates": [
+          35.766588,
+          127.414566
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "용담호 야경",
+        "coordinates": [
+          35.893809,
+          127.495392
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "진안군은 마이산과 용담호, 진안고원이 자리한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
