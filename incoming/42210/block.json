@@ -346,5 +346,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sokcho-si, Gangwon",
+      "landmarks": {
+        "설악산": [
+          "Seoraksan Mountain",
+          "Signature mountain attraction of Sokcho, Gangwon."
+        ],
+        "영랑호": [
+          "Yeongnangho Lake",
+          "Signature lake attraction of Sokcho, Gangwon."
+        ],
+        "속초해수욕장": [
+          "Sokcho Beach",
+          "Signature beach attraction of Sokcho, Gangwon."
+        ],
+        "청초호": [
+          "Cheongchoho Lake",
+          "Signature lakeside attraction of Sokcho, Gangwon."
+        ],
+        "속초시청": [
+          "Sokcho City Hall",
+          "Administrative center of Sokcho, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 束草市",
+      "landmarks": {
+        "설악산": [
+          "雪岳山",
+          "江原特別自治道束草市を代表する名所。"
+        ],
+        "영랑호": [
+          "永郎湖",
+          "江原特別自治道束草市を代表する名所。"
+        ],
+        "속초해수욕장": [
+          "束草海水浴場",
+          "江原特別自治道束草市を代表する名所。"
+        ],
+        "청초호": [
+          "清草湖",
+          "江原特別自治道束草市を代表する名所。"
+        ],
+        "속초시청": [
+          "束草市庁",
+          "江原特別自治道束草市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 束草市",
+      "landmarks": {
+        "설악산": [
+          "雪岳山",
+          "江原特别自治道束草市的代表性名山。"
+        ],
+        "영랑호": [
+          "永郎湖",
+          "江原特别自治道束草市的代表性湖泊。"
+        ],
+        "속초해수욕장": [
+          "束草海水浴场",
+          "江原特别自治道束草市的代表性海滨。"
+        ],
+        "청초호": [
+          "青草湖",
+          "江原特别自治道束草市的代表性湖泊。"
+        ],
+        "속초시청": [
+          "束草市厅",
+          "江原特别自治道束草市的行政中心。"
+        ]
+      }
+    }
   }
 }
