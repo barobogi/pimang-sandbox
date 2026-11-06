@@ -332,5 +332,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sunchang-gun, Jeonbuk",
+      "landmarks": {
+        "강천산": [
+          "Gangcheonsan Mountain",
+          "Signature mountain attraction of Sunchang-gun, Jeonbuk."
+        ],
+        "순창고추장민속마을": [
+          "Sunchang Gochujang Village",
+          "Signature traditional village attraction of Sunchang-gun, Jeonbuk."
+        ],
+        "순창군청": [
+          "Sunchang County Office",
+          "Administrative center of Sunchang-gun, Jeonbuk."
+        ],
+        "순창시장": [
+          "Sunchang Market",
+          "Signature market attraction of Sunchang-gun, Jeonbuk."
+        ],
+        "회문산": [
+          "Hoemunsan Mountain",
+          "Signature mountain attraction of Sunchang-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 淳昌郡",
+      "landmarks": {
+        "강천산": [
+          "剛泉山",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "순창고추장민속마을": [
+          "淳昌コチュジャン民俗村",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "순창군청": [
+          "淳昌郡庁",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "순창시장": [
+          "淳昌市場",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ],
+        "회문산": [
+          "灰紋山",
+          "全北特別自治道淳昌郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 淳昌郡",
+      "landmarks": {
+        "강천산": [
+          "刚泉山",
+          "全北特别自治道淳昌郡的代表性名山。"
+        ],
+        "순창고추장민속마을": [
+          "淳昌辣椒酱民俗村",
+          "全北特别自治道淳昌郡的代表性传统村落。"
+        ],
+        "순창군청": [
+          "淳昌郡厅",
+          "全北特别自治道淳昌郡的行政中心。"
+        ],
+        "순창시장": [
+          "淳昌市场",
+          "全北特别自治道淳昌郡的代表性市场。"
+        ],
+        "회문산": [
+          "恢文山",
+          "全北特别自治道淳昌郡的代表性名山。"
+        ]
+      }
+    }
   }
 }
