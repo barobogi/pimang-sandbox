@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangseo-gu, Busan",
+      "landmarks": {
+        "을숙도생태공원": [
+          "Eulsukdo Ecological Park",
+          "Park on Eulsukdo, a UNESCO Biosphere Reserve and migratory bird haven on the Nakdong estuary."
+        ],
+        "벚꽃공원": [
+          "Cherry Blossom Park",
+          "Cherry-blossom theme park in Gangseo-gu and a signature spring attraction."
+        ],
+        "가덕도": [
+          "Gadeokdo Island",
+          "Busan's westernmost island, known for mudflats, beaches, and the new airport site."
+        ],
+        "지사문화마을": [
+          "Jisa Culture Village",
+          "Culture village created in Jisa-dong, Gangseo-gu."
+        ],
+        "낙동강하구에코센터": [
+          "Nakdong Estuary Eco Center",
+          "Environmental learning center exhibiting the Nakdong River estuary ecosystem."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 江西区",
+      "landmarks": {
+        "을숙도생태공원": [
+          "乙淑島生態公園",
+          "洛東江河の口の渡り鳥飛来地で、ユネスコ生物圏保存地域の乙淑島にある生態公園。"
+        ],
+        "벚꽃공원": [
+          "桜公園",
+          "江西区に造られた桜テーマ公園で、春の代表的な名所。"
+        ],
+        "가덕도": [
+          "加徳島",
+          "釜山最西端の島。干潟と海水浴場、新空港用地として知られる。"
+        ],
+        "지사문화마을": [
+          "知士文化村",
+          "江西区知士洞に造成された文化村。"
+        ],
+        "낙동강하구에코센터": [
+          "洛東江河の口エコセンター",
+          "洛東江河口の生態を展示する環境学習施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 江西区",
+      "landmarks": {
+        "을숙도생태공원": [
+          "乙淑岛生态公园",
+          "洛东江口候鸟栖息地，属联合国教科文组织生物圈保护区的生态公园。"
+        ],
+        "벚꽃공원": [
+          "樱花公园",
+          "江西区的樱花主题公园，春季代表性名胜。"
+        ],
+        "가덕도": [
+          "加德岛",
+          "釜山最西端的岛屿，以滩涂、海水浴场和新机场用地闻名。"
+        ],
+        "지사문화마을": [
+          "知士文化村",
+          "江西区知士洞建成的文化村落。"
+        ],
+        "낙동강하구에코센터": [
+          "洛东江口生态中心",
+          "展示洛东江口生态的环境教育设施。"
+        ]
+      }
+    }
   }
 }
