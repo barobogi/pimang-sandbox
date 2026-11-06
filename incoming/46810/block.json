@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "다산초당",
+        "station_name": "다산초당 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.579977,
+          126.747838
+        ]
+      },
+      {
+        "target_landmark": "백련사",
+        "station_name": "백련사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.587006,
+          126.750543
+        ]
+      },
+      {
+        "target_landmark": "강진만",
+        "station_name": "강진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.620719,
+          126.770563
+        ]
+      },
+      {
+        "target_landmark": "강진군청",
+        "station_name": "강진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 34,
+        "coordinates": [
+          34.620719,
+          126.770563
+        ]
+      },
+      {
+        "target_landmark": "강진시장",
+        "station_name": "강진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 31,
+        "coordinates": [
+          34.620719,
+          126.770563
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강진 중앙 공영주차장",
+        "coordinates": [
+          34.61832,
+          126.771763
+        ],
+        "capacity": 160,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "강진 제2 공영주차장",
+        "coordinates": [
+          34.642648,
+          126.770481
+        ],
+        "capacity": 228,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "강진 제3 공영주차장",
+        "coordinates": [
+          34.642372,
+          126.768611
+        ],
+        "capacity": 125,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "강진군은 다산 초당과 백련사, 강진만 갯벌이 자리한 전남 남해안의 역사 문화 군이다.",
   "data_sources": [
     {
