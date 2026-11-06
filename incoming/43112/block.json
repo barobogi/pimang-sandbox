@@ -206,6 +206,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서원초등학교 운동장",
+        "coordinates": [
+          36.642736,
+          127.464402
+        ],
+        "capacity": 1600,
+        "address": "충청북도 청주시 서원구"
+      },
+      {
+        "name": "서원실내체육관",
+        "coordinates": [
+          36.597937,
+          127.465464
+        ],
+        "capacity": 2100,
+        "address": "충청북도 청주시 서원구"
+      },
+      {
+        "name": "서원중앙공원 비상집합장소",
+        "coordinates": [
+          36.57195,
+          127.43222
+        ],
+        "capacity": 4500,
+        "address": "충청북도 청주시 서원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "무심천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서원대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청주고인쇄박물관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서원구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청주시립미술관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "청주 서원구는 청주 동남부의 구로 청주대교와 무심천, 서원대학교가 자리한 주거 교육 지역이다.",
   "data_sources": [
     {
