@@ -289,6 +289,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "정릉 벚꽃길",
+        "서울성곽길 봄 산책"
+      ],
+      "summer": [
+        "성북동 여름 골목",
+        "고려대학교 여름 캠퍼스"
+      ],
+      "autumn": [
+        "서울성곽길 단풍",
+        "정릉 가을 숲"
+      ],
+      "winter": [
+        "성북동 설경",
+        "서울성곽길 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "서울성곽길 야경",
+        "coordinates": [
+          37.592,
+          126.99
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "성북동 야경",
+        "coordinates": [
+          37.59552,
+          126.99215
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "성북구는 서촌과 성북동, 정릉이 함께한 유서 깊은 자치구로 한옥과 대학, 도서관 등의 정적 문화가 발달했다.",
   "data_sources": [
     {
