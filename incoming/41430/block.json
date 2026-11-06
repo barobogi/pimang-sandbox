@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uiwang-si, Gyeonggi",
+      "landmarks": {
+        "백운호수": [
+          "Baegunho Lake",
+          "Uiwang's signature lakeside attraction."
+        ],
+        "오전동 상권": [
+          "Ojeon-dong District",
+          "Commercial hub of Uiwang in Ojeon-dong."
+        ],
+        "의왕박물관": [
+          "Uiwang Museum",
+          "Uiwang's signature cultural facility."
+        ],
+        "백운산": [
+          "Baegunsan Mountain",
+          "Mountain on the Uiwang-Ansan boundary."
+        ],
+        "내손동 상권": [
+          "Naeson-dong District",
+          "Everyday commercial hub in Naeson-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 儀旺市",
+      "landmarks": {
+        "백운호수": [
+          "白雲湖",
+          "儀旺を代表する湖の観光地。"
+        ],
+        "오전동 상권": [
+          "午前洞商圏",
+          "午前洞に形成された儀旺を代表する商圏。"
+        ],
+        "의왕박물관": [
+          "儀旺博物館",
+          "儀旺を代表する文化施設。"
+        ],
+        "백운산": [
+          "白雲山",
+          "儀旺と安山の境界の代表的な山。"
+        ],
+        "내손동 상권": [
+          "内孫洞商圏",
+          "内孫洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 义王市",
+      "landmarks": {
+        "백운호수": [
+          "白云湖",
+          "义王的代表性湖泊观光地。"
+        ],
+        "오전동 상권": [
+          "五全洞商圈",
+          "五全洞形成的义王代表性商圈。"
+        ],
+        "의왕박물관": [
+          "义王博物馆",
+          "义王的代表性文化设施。"
+        ],
+        "백운산": [
+          "白云山",
+          "义王与安山交界的代表山峰。"
+        ],
+        "내손동 상권": [
+          "内孙洞商圈",
+          "内孙洞形成的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
