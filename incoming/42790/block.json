@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "화천초등학교 운동장",
+        "coordinates": [
+          38.103841,
+          127.859843
+        ],
+        "capacity": 800,
+        "address": "강원특별자치도 화천군"
+      },
+      {
+        "name": "화천실내체육관",
+        "coordinates": [
+          38.155373,
+          127.731458
+        ],
+        "capacity": 6100,
+        "address": "강원특별자치도 화천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "파로호",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화천산천어축제장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화천군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화천시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "평화의댐",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "화천군은 파로호와 화천어죽, 산천어축제로 유명한 강원 영서 북부의 군이다.",
   "data_sources": [
     {
