@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Muan-gun, Jeonnam",
+      "landmarks": {
+        "회산백련지": [
+          "Hoesan Baengnyeonji Pond",
+          "Signature lotus pond attraction of Muan-gun, Jeonnam."
+        ],
+        "무안공항": [
+          "Muan International Airport",
+          "Signature aviation attraction of Muan-gun, Jeonnam."
+        ],
+        "초의선사유적지": [
+          "Master Choui Historic Site",
+          "Signature historic site of Muan-gun, Jeonnam."
+        ],
+        "무안군청": [
+          "Muan County Office",
+          "Administrative center of Muan-gun, Jeonnam."
+        ],
+        "무안시장": [
+          "Muan Market",
+          "Signature market attraction of Muan-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 務安郡",
+      "landmarks": {
+        "회산백련지": [
+          "会山白蓮池",
+          "全羅南道務安郡を代表する名所。"
+        ],
+        "무안공항": [
+          "務安空港",
+          "全羅南道務安郡を代表する名所。"
+        ],
+        "초의선사유적지": [
+          "草衣禅師遺跡地",
+          "全羅南道務安郡を代表する名所。"
+        ],
+        "무안군청": [
+          "務安郡庁",
+          "全羅南道務安郡を代表する名所。"
+        ],
+        "무안시장": [
+          "務安市場",
+          "全羅南道務安郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 务安郡",
+      "landmarks": {
+        "회산백련지": [
+          "会山白莲池",
+          "全罗南道务安郡的代表性莲池。"
+        ],
+        "무안공항": [
+          "务安国际机场",
+          "全罗南道务安郡的代表性航空枢纽。"
+        ],
+        "초의선사유적지": [
+          "草衣禅师遗迹地",
+          "全罗南道务安郡的代表性历史遗迹。"
+        ],
+        "무안군청": [
+          "务安郡厅",
+          "全罗南道务安郡的行政中心。"
+        ],
+        "무안시장": [
+          "务安市场",
+          "全罗南道务安郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
