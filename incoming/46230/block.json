@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangyang-si, Jeonnam",
+      "landmarks": {
+        "백운산": [
+          "Baegunsan Mountain",
+          "Gwangyang's signature peak at 1,217 m."
+        ],
+        "광양만": [
+          "Gwangyang Bay",
+          "Signature bay of the southern coast, mixing container terminals and mudflats."
+        ],
+        "몽덕해수욕장": [
+          "Mongdeok Beach",
+          "Gwangyang's signature beach, a summer family spot."
+        ],
+        "포스코 광양제철소": [
+          "POSCO Gwangyang Works",
+          "World-class steel plant and heart of Gwangyang industry."
+        ],
+        "을족도": [
+          "Euljokdo Island",
+          "Island at the Seomjin River estuary, famed for historic war remains and scenery."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 光陽市",
+      "landmarks": {
+        "백운산": [
+          "白雲山",
+          "標高1217メートルの光陽を代表する名山。"
+        ],
+        "광양만": [
+          "光陽湾",
+          "南海岸を代表する湾。コンテナ港と干潟が共存する。"
+        ],
+        "몽덕해수욕장": [
+          "夢徳海水浴場",
+          "光陽を代表する海水浴場。夏の家族行楽の名所。"
+        ],
+        "포스코 광양제철소": [
+          "POSCO光陽製鉄所",
+          "世界最大級の製鉄生産施設。光陽産業の中心。"
+        ],
+        "을족도": [
+          "乙卒島",
+          "蟾津江河の口の島。由緒ある戦争遺跡と風景で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 光阳市",
+      "landmarks": {
+        "백운산": [
+          "白云山",
+          "海拔1217米的光阳代表名山。"
+        ],
+        "광양만": [
+          "光阳湾",
+          "南海岸代表性海湾，集装箱港与滩涂共存。"
+        ],
+        "몽덕해수욕장": [
+          "梦德海水浴场",
+          "光阳代表性海滨浴场，夏日亲子胜地。"
+        ],
+        "포스코 광양제철소": [
+          "浦项光阳钢铁厂",
+          "世界级钢铁生产基地，光阳产业的核心。"
+        ],
+        "을족도": [
+          "乙簇岛",
+          "蟾津江口的岛屿，以古战争遗迹和风光闻名。"
+        ]
+      }
+    }
   }
 }
