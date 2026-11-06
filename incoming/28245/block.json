@@ -299,6 +299,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "계양산 봄 진달래",
+        "계양천 벚꽃"
+      ],
+      "summer": [
+        "계양산 계곡 여름",
+        "계양천 여름"
+      ],
+      "autumn": [
+        "계양산 단풍",
+        "계양천 억새"
+      ],
+      "winter": [
+        "계양산 설경",
+        "계양문화예술회관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "계양산 야경",
+        "coordinates": [
+          37.557897,
+          126.711234
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "계양천 야경",
+        "coordinates": [
+          37.574147,
+          126.709334
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "인천 계양구는 계양산과 계양역 신도시가 자리한 인천 북부의 주거 구이다.",
   "data_sources": [
     {
