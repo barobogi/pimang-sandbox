@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금산사 봄",
+        "벽골제 봄"
+      ],
+      "summer": [
+        "금산사 여름",
+        "만경평야 여름"
+      ],
+      "autumn": [
+        "금산사 단풍",
+        "벽골제 가을"
+      ],
+      "winter": [
+        "금산사 설경",
+        "김제시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "금산사 야경",
+        "coordinates": [
+          35.723003,
+          127.053697
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "벽골제 야경",
+        "coordinates": [
+          35.753693,
+          126.853502
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "김제시는 벽골제와 만경평야, 금산사가 자리한 전북 서부의 대표 농업 도시이다.",
   "data_sources": [
     {
