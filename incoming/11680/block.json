@@ -355,5 +355,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangnam-gu, Seoul",
+      "landmarks": {
+        "강남역": [
+          "Gangnam Station Area",
+          "Korea's signature bustling district, famed for its food alleys."
+        ],
+        "가로수길": [
+          "Garosu-gil",
+          "Signature fashion and cafe street of Sinsa-dong."
+        ],
+        "청담동": [
+          "Cheongdam-dong",
+          "Heart of luxury fashion brands and the beauty industry."
+        ],
+        "테헤란로": [
+          "Teheran-ro",
+          "One of Korea's largest business boulevards."
+        ],
+        "도산공원": [
+          "Dosan Park",
+          "Representative urban park at the heart of Sinsa-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 江南区",
+      "landmarks": {
+        "강남역": [
+          "江南駅周辺",
+          "韓国を代表する繁華街。江南駅グルメ横丁が有名。"
+        ],
+        "가로수길": [
+          "カロスキル",
+          "新沙洞を代表するファッション・カフェストリート。"
+        ],
+        "청담동": [
+          "清潭洞",
+          "高級ファッションブランドとビューティー産業の中心地。"
+        ],
+        "테헤란로": [
+          "テヘラン路",
+          "韓国最大級のビジネス街。"
+        ],
+        "도산공원": [
+          "島山公園",
+          "新沙洞の中心に造られた代表的な都市公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 江南区",
+      "landmarks": {
+        "강남역": [
+          "江南站商圈",
+          "韩国代表性繁华街区，江南站美食巷远近闻名。"
+        ],
+        "가로수길": [
+          "新沙洞林荫道",
+          "新沙洞的代表性时尚与咖啡街区。"
+        ],
+        "청담동": [
+          "清潭洞",
+          "高端时尚品牌与美容产业的核心地带。"
+        ],
+        "테헤란로": [
+          "德黑兰路",
+          "韩国规模最大的商务街之一。"
+        ],
+        "도산공원": [
+          "岛山公园",
+          "位于新沙洞中心的代表性城市公园。"
+        ]
+      }
+    }
   }
 }
