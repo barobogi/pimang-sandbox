@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongwol-gun, Gangwon",
+      "landmarks": {
+        "동강": [
+          "Dong River",
+          "Signature river attraction of Yeongwol-gun, Gangwon."
+        ],
+        "청령포": [
+          "Cheongnyeongpo",
+          "Historic site attraction of Yeongwol-gun, Gangwon."
+        ],
+        "한반도지형": [
+          "Korean Peninsula Terrain",
+          "Signature natural lookout of Yeongwol-gun, Gangwon."
+        ],
+        "영월군청": [
+          "Yeongwol County Office",
+          "Administrative center of Yeongwol-gun, Gangwon."
+        ],
+        "고씨동굴": [
+          "Gossi Cave",
+          "Signature cave attraction of Yeongwol-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 寧越郡",
+      "landmarks": {
+        "동강": [
+          "東江",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "청령포": [
+          "荘陵…ではなく青冷浦",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "한반도지형": [
+          "韓半島地形",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "영월군청": [
+          "寧越郡庁",
+          "江原特別自治道寧越郡を代表する名所。"
+        ],
+        "고씨동굴": [
+          "高氏洞窟",
+          "江原特別自治道寧越郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 宁越郡",
+      "landmarks": {
+        "동강": [
+          "东江",
+          "江原特别自治道宁越郡的代表性河流。"
+        ],
+        "청령포": [
+          "清冷浦",
+          "江原特别自治道宁越郡的代表性古迹。"
+        ],
+        "한반도지형": [
+          "朝鲜半岛地形",
+          "江原特别自治道宁越郡的代表性自然观景地。"
+        ],
+        "영월군청": [
+          "宁越郡厅",
+          "江原特别自治道宁越郡的行政中心。"
+        ],
+        "고씨동굴": [
+          "高氏洞窟",
+          "江原特别自治道宁越郡的代表性洞窟。"
+        ]
+      }
+    }
   }
 }
