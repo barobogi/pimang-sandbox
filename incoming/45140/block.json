@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Iksan-si, Jeonbuk",
+      "landmarks": {
+        "미륵사지": [
+          "Mireuksa Temple Site",
+          "Baekje's largest temple site, famed for its stone pagoda."
+        ],
+        "왕궁리유적": [
+          "Wanggung-ri Site",
+          "Ancient site believed to be a Baekje royal palace in Iksan."
+        ],
+        "선제고": [
+          "Seonjesa Granary Site",
+          "Historic Baekje-era grain storage site."
+        ],
+        "탄정천": [
+          "Tanjeongcheon Stream",
+          "Stream through western Iksan with riverside trails."
+        ],
+        "원광대학교": [
+          "Wonkwang University",
+          "Private university in Iksan grounded in Buddhist ideals."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 益山市",
+      "landmarks": {
+        "미륵사지": [
+          "弥勒寺址",
+          "百済最大の寺院跡。石塔で有名な代表的な文化遺産。"
+        ],
+        "왕궁리유적": [
+          "王宮里遺跡",
+          "百済益山の王宮跡と推定される代表的な遺跡。"
+        ],
+        "선제고": [
+          "善制庫",
+          "百済時代の穀物倉庫跡。由緒ある代表的な遺跡。"
+        ],
+        "탄정천": [
+          "彈定川",
+          "益山西部を流れる支流。水辺の散歩道が整備されている。"
+        ],
+        "원광대학교": [
+          "圓光大学校",
+          "益山に位置する私立総合大学。仏教精神の教育機関。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 益山市",
+      "landmarks": {
+        "미륵사지": [
+          "弥勒寺址",
+          "百济最大寺院遗址，以石塔闻名的代表性文化遗产。"
+        ],
+        "왕궁리유적": [
+          "王宫里遗迹",
+          "推测为百济益山王宫旧址的代表性遗迹。"
+        ],
+        "선제고": [
+          "善制库",
+          "百济时代的粮仓遗址，历史悠久的代表性遗迹。"
+        ],
+        "탄정천": [
+          "弹定川",
+          "流经益山西部的河流，建有滨水步道。"
+        ],
+        "원광대학교": [
+          "圆光大学",
+          "位于益山的私立综合大学，以佛教精神立校。"
+        ]
+      }
+    }
   }
 }
