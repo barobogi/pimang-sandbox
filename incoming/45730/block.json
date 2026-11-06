@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "덕유산",
+        "station_name": "덕유산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.857613,
+          127.744118
+        ]
+      },
+      {
+        "target_landmark": "무주구천동",
+        "station_name": "무주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.901423,
+          127.776699
+        ]
+      },
+      {
+        "target_landmark": "태권도원",
+        "station_name": "태권도원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.992694,
+          127.772174
+        ]
+      },
+      {
+        "target_landmark": "적상산성",
+        "station_name": "적상산성 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.0006,
+          127.8176
+        ]
+      },
+      {
+        "target_landmark": "설천봉",
+        "station_name": "설천봉 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.863176,
+          127.741112
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "무주 중앙 공영주차장",
+        "coordinates": [
+          35.901023,
+          127.775499
+        ],
+        "capacity": 256,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "무주 제2 공영주차장",
+        "coordinates": [
+          35.867176,
+          127.745112
+        ],
+        "capacity": 184,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "무주군은 덕유산 국립공원과 무주구천동, 태권도원이 자리한 전북 동북부의 군으로 백두대간의 산악 자연이 풍부하다.",
   "data_sources": [
     {
