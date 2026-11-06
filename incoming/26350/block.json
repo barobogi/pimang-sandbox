@@ -147,6 +147,97 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "해운대해수욕장",
+        "station_name": "해운대역",
+        "line": "부산 2호선",
+        "exit_no": 3,
+        "walk_minutes": 7,
+        "coordinates": [
+          35.1636,
+          129.1583
+        ]
+      },
+      {
+        "target_landmark": "센텀시티",
+        "station_name": "재송역",
+        "line": "부산 2호선·동해선 광역전철",
+        "exit_no": 5,
+        "walk_minutes": 3,
+        "coordinates": [
+          35.1702,
+          129.1322
+        ]
+      },
+      {
+        "target_landmark": "동백섬",
+        "station_name": "해운대역",
+        "line": "부산 2호선",
+        "exit_no": 3,
+        "walk_minutes": 17,
+        "coordinates": [
+          35.1636,
+          129.1583
+        ]
+      },
+      {
+        "target_landmark": "달맞이길",
+        "station_name": "중동역",
+        "line": "부산 2호선",
+        "exit_no": 3,
+        "walk_minutes": 25,
+        "coordinates": [
+          35.1638,
+          129.1654
+        ]
+      },
+      {
+        "target_landmark": "해운대시장",
+        "station_name": "중동역",
+        "line": "부산 2호선",
+        "exit_no": 3,
+        "walk_minutes": 7,
+        "coordinates": [
+          35.1638,
+          129.1654
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "해운대광장 공영주차장",
+        "coordinates": [
+          35.1589,
+          129.1601
+        ],
+        "capacity": 150,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "해운대 해변로 공영주차장",
+        "coordinates": [
+          35.1616,
+          129.1627
+        ],
+        "capacity": 220,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "달맞이길 공영주차장",
+        "coordinates": [
+          35.1687,
+          129.172
+        ],
+        "capacity": 120,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부산 해운대구는 해운대해수욕장과 센텀시티가 자리한 부산 대표 국제 관광·비즈니스 중심지다.",
   "data_sources": [
     {
