@@ -237,6 +237,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "과천초등학교 운동장",
+        "coordinates": [
+          37.438767,
+          127.015547
+        ],
+        "capacity": 4200,
+        "address": "경기도 과천시"
+      },
+      {
+        "name": "과천실내체육관",
+        "coordinates": [
+          37.430995,
+          127.010901
+        ],
+        "capacity": 4900,
+        "address": "경기도 과천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "국립과천과학관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서울대공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정부과천청사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "관악산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문원동 상권",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "과천시는 국립과천과학관과 서울대공원이 자리한 계획 도시이자 수도권 남부의 문화 과학 도시이다.",
   "data_sources": [
     {
