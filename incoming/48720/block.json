@@ -130,6 +130,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "충익사",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 10,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      },
+      {
+        "target_landmark": "정암나루",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 44,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      },
+      {
+        "target_landmark": "한우산",
+        "station_name": "한우산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.39562,
+          128.190363
+        ]
+      },
+      {
+        "target_landmark": "의령군청",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      },
+      {
+        "target_landmark": "의령시장",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의령 중앙 공영주차장",
+        "coordinates": [
+          35.323335,
+          128.262308
+        ],
+        "capacity": 181,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "의령 제2 공영주차장",
+        "coordinates": [
+          35.317857,
+          128.261114
+        ],
+        "capacity": 234,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "의령 제3 공영주차장",
+        "coordinates": [
+          35.39282,
+          128.191963
+        ],
+        "capacity": 248,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "의령군은 홍의장군 곽재우 유적과 정암나루, 한우산이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
