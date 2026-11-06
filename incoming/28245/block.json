@@ -238,6 +238,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "계양초등학교 운동장",
+        "coordinates": [
+          37.558466,
+          126.711871
+        ],
+        "capacity": 3500,
+        "address": "인천광역시 계양구"
+      },
+      {
+        "name": "계양실내체육관",
+        "coordinates": [
+          37.573473,
+          126.74912
+        ],
+        "capacity": 6600,
+        "address": "인천광역시 계양구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "계양산",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "계양역 신도시",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "작전동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "계양천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "계양문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "인천 계양구는 계양산과 계양역 신도시가 자리한 인천 북부의 주거 구이다.",
   "data_sources": [
     {
