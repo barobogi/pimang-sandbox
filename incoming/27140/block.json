@@ -334,5 +334,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Daegu",
+      "landmarks": {
+        "팔공산": [
+          "Palgongsan Mountain",
+          "Signature peak rising like a screen across Daegu's north."
+        ],
+        "동화사": [
+          "Donghwasa Temple",
+          "Silla-era temple on Palgongsan, famed for the Biroam Hermitage and Gatbawi."
+        ],
+        "동촌유원지": [
+          "Dongchon Resort",
+          "Riverside resort on the Geumho River, a summer family destination."
+        ],
+        "대구오페라하우스": [
+          "Daegu Opera House",
+          "Large opera house built in Sinseo-dong."
+        ],
+        "아양교": [
+          "Ayanggyo Area",
+          "Signature crossroads of Dong-gu and center of local commerce."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 東区",
+      "landmarks": {
+        "팔공산": [
+          "八公山",
+          "大邱の北を屏風のように囲む代表的な名山。"
+        ],
+        "동화사": [
+          "桐華寺",
+          "新羅時代に創建された八公山の代表的な寺。毘盧庵と関峰が有名。"
+        ],
+        "동촌유원지": [
+          "東村遊園地",
+          "琴湖江のほとりの代表的な遊園地。夏の家族行楽の名所。"
+        ],
+        "대구오페라하우스": [
+          "大邱オペラハウス",
+          "新西瓜洞に造られた大型オペラ専用劇場。"
+        ],
+        "아양교": [
+          "阿養橋",
+          "東区都心の代表的な交差点で、商圏の中心。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 东区",
+      "landmarks": {
+        "팔공산": [
+          "八公山",
+          "如屏风般环抱大邱北部的代表名山。"
+        ],
+        "동화사": [
+          "桐华寺",
+          "新罗时代创建的八公山名刹，以毗卢庵和笠岩闻名。"
+        ],
+        "동촌유원지": [
+          "东村游园地",
+          "琴湖江畔的代表性游乐园，夏日亲子胜地。"
+        ],
+        "대구오페라하우스": [
+          "大邱歌剧院",
+          "位于新西洞的大型歌剧专用演出场馆。"
+        ],
+        "아양교": [
+          "阿养桥",
+          "东区市中心的代表性路口和商圈中心。"
+        ]
+      }
+    }
   }
 }
