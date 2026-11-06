@@ -1,0 +1,579 @@
+{
+  "block_code": "44760",
+  "block_name": "충청남도 부여군",
+  "bbox": [
+    126.681376,
+    36.072254,
+    127.069695,
+    36.386763
+  ],
+  "center": [
+    36.229508,
+    126.875535
+  ],
+  "landmarks": [
+    {
+      "name": "부소산성",
+      "lat": 36.2892424,
+      "lng": 126.9151865,
+      "category": "유네스코/성곽",
+      "description": "부소산성은(는) 충청남도 부여군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%86%8C%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 208.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/1280px-Buyeo_198.JPG"
+    },
+    {
+      "name": "낙화암",
+      "lat": 36.2924042,
+      "lng": 126.9121858,
+      "category": "경승지/역사",
+      "description": "낙화암은(는) 충청남도 부여군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%99%ED%99%94%EC%95%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 205.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%EB%82%99%ED%99%94%EC%95%94.jpg"
+    },
+    {
+      "name": "정림사지",
+      "lat": 36.2792635,
+      "lng": 126.9144085,
+      "category": "유네스코/사지",
+      "description": "정림사지은(는) 충청남도 부여군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 212.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80-Jeongnimsa-Temple-Site-6.jpg/1280px-%EC%A0%95%EB%A6%BC%EC%82%AC%EC%A7%80-Jeongnimsa-Temple-Site-6.jpg"
+    },
+    {
+      "name": "부여군청",
+      "lat": 36.2753132,
+      "lng": 126.9100207,
+      "category": "행정/랜드마크",
+      "description": "부여군청은(는) 충청남도 부여군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%97%AC%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 211.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Buyeo_198.JPG/1280px-Buyeo_198.JPG"
+    },
+    {
+      "name": "궁남지",
+      "lat": 36.2696855,
+      "lng": 126.9122051,
+      "category": "연못/유적",
+      "description": "궁남지은(는) 충청남도 부여군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B6%81%EB%82%A8%EC%A7%80",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 216.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Gungnamji_011.jpg/1280px-Gungnamji_011.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "부여 역사·문화 시그니처 스카이 트레일",
+      "description": "궁남지 → 부여군청 → 정림사지 → 부소산성 → 낙화암 순으로 이어지는 충청남도 부여군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "궁남지",
+        "부여군청",
+        "정림사지",
+        "부소산성",
+        "낙화암"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "부여 고즈넉한 역사 스카이 산책",
+      "description": "낙화암 → 부소산성 → 정림사지 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 부여의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "낙화암",
+        "부소산성",
+        "정림사지"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "궁남지 본점",
+      "lat": 36.268985,
+      "lng": 126.912135,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "부여군청 가마솥밥가",
+      "lat": 36.275243,
+      "lng": 126.909461,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "정림사지 큰마당식당",
+      "lat": 36.279894,
+      "lng": 126.914338,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "부소산성 할매집",
+      "lat": 36.288542,
+      "lng": 126.914766,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부소산성",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 29,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "낙화암",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 34,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "정림사지",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 13,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "부여군청",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      },
+      {
+        "target_landmark": "궁남지",
+        "station_name": "부여버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.270885,
+          126.913005
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부여 중앙 공영주차장",
+        "coordinates": [
+          36.270485,
+          126.912605
+        ],
+        "capacity": 44,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "부여 제2 공영주차장",
+        "coordinates": [
+          36.275313,
+          126.911621
+        ],
+        "capacity": 226,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "부여 제3 공영주차장",
+        "coordinates": [
+          36.278863,
+          126.916008
+        ],
+        "capacity": 175,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "부여초등학교 운동장",
+        "coordinates": [
+          36.271834,
+          126.918037
+        ],
+        "capacity": 900,
+        "address": "충청남도 부여군"
+      },
+      {
+        "name": "부여실내체육관",
+        "coordinates": [
+          36.246599,
+          126.922984
+        ],
+        "capacity": 2800,
+        "address": "충청남도 부여군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "부소산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙화암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정림사지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "부여군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "궁남지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "궁남지 봄 연꽃",
+        "부소산성 봄"
+      ],
+      "summer": [
+        "궁남지 여름 연꽃",
+        "낙화암 여름"
+      ],
+      "autumn": [
+        "부소산성 단풍",
+        "정림사지 가을"
+      ],
+      "winter": [
+        "궁남지 설경",
+        "부소산성 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "궁남지 야경",
+        "coordinates": [
+          36.269686,
+          126.912205
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "부소산성 야경",
+        "coordinates": [
+          36.289242,
+          126.915187
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "부여군은 백제 사비 도읍이었던 유서 깊은 고장으로 부소산성과 낙화암, 정림사지가 유네스코 세계유산으로 등재되었다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buyeo-gun, Chungnam",
+      "landmarks": {
+        "부소산성": [
+          "Busosanseong Fortress",
+          "UNESCO-listed fortress heritage of Buyeo-gun, Chungnam."
+        ],
+        "낙화암": [
+          "Nakhwaam Rock",
+          "Signature historic scenic cliff of Buyeo-gun, Chungnam."
+        ],
+        "정림사지": [
+          "Jeongnimsa Temple Site",
+          "UNESCO-listed temple site heritage of Buyeo-gun, Chungnam."
+        ],
+        "부여군청": [
+          "Buyeo County Office",
+          "Administrative center of Buyeo-gun, Chungnam."
+        ],
+        "궁남지": [
+          "Gungnamji Pond",
+          "Signature historic pond of Buyeo-gun, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 扶餘郡",
+      "landmarks": {
+        "부소산성": [
+          "扶蘇山城",
+          "ユネスコ登録の城郭。忠清南道扶餘郡を代表する名所。"
+        ],
+        "낙화암": [
+          "落花岩",
+          "忠清南道扶餘郡を代表する名所。"
+        ],
+        "정림사지": [
+          "定林寺址",
+          "ユネスコ登録の寺址。忠清南道扶餘郡を代表する名所。"
+        ],
+        "부여군청": [
+          "扶餘郡庁",
+          "忠清南道扶餘郡を代表する名所。"
+        ],
+        "궁남지": [
+          "宮南池",
+          "忠清南道扶餘郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 扶余郡",
+      "landmarks": {
+        "부소산성": [
+          "扶苏山城",
+          "列入世界遗产的城郭，忠清南道扶余郡的代表性古迹。"
+        ],
+        "낙화암": [
+          "落花岩",
+          "忠清南道扶余郡的代表性历史胜景。"
+        ],
+        "정림사지": [
+          "定林寺址",
+          "列入世界遗产的寺院遗址，忠清南道扶余郡的代表性遗迹。"
+        ],
+        "부여군청": [
+          "扶余郡厅",
+          "忠清南道扶余郡的行政中心。"
+        ],
+        "궁남지": [
+          "宫南池",
+          "忠清南道扶余郡的代表性古莲池。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.buyeo.go.kr",
+    "civil_service_center": {
+      "location_name": "부여군청 민원실 앞",
+      "coordinates": [
+        126.910467,
+        36.274171
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "041-830-2114",
+      "info": "충청남도 부여군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "부여군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.876036,
+      36.228909
+    ],
+    "cctv_zone_count": 327,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "궁남지 근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "부여 백제문화제",
+    "typical_month": 10,
+    "venue_name": "부여 백제문화관 일대",
+    "venue_coords": [
+      126.875135,
+      36.230009
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "부여군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.910967,
+      36.272471
+    ],
+    "reservation_url": "https://www.buyeo.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "부여군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.909167,
+      36.273671
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "부여군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.909367,
+      36.272871
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "궁남지 본점",
+    "coordinates": [
+      126.912135,
+      36.268985
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "아구찜 (부여군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=부여군청&goalx=126.910467&goaly=36.274171",
+    "kakaonavi_url": "kakaonavi://navigate?name=부여군청&x=126.910467&y=36.274171&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=부여군청&dlng=126.910467&dlat=36.274171&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 53.8
+    },
+    "summer_solstice": {
+      "sunrise": "05:15",
+      "sunset": "19:53",
+      "noon_altitude_deg": 77.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 53.8
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:22",
+      "noon_altitude_deg": 30.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "부여군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.877486,
+          36.227809
+        ],
+        [
+          126.876036,
+          36.228909
+        ],
+        [
+          126.877086,
+          36.229559
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "부여군 역사문화 골목길",
+    "anchor_center": [
+      126.911734,
+      36.273904
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 120,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "heritage_alley"
+  }
+}
