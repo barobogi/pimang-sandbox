@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "대관령 봄 양떼목장",
+        "오대산 봄"
+      ],
+      "summer": [
+        "평창올림픽플라자 여름",
+        "오대산 계곡 여름"
+      ],
+      "autumn": [
+        "오대산 단풍길",
+        "대관령 억새"
+      ],
+      "winter": [
+        "대관령 설경",
+        "월정사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대관령 야경",
+        "coordinates": [
+          37.689528,
+          128.753296
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "월정사 야경",
+        "coordinates": [
+          37.731937,
+          128.591995
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "평창군은 대관령과 2018 동계올림픽 개최지, 월정사와 오대산이 자리한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
