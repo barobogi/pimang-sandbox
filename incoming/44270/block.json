@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "당진초등학교 운동장",
+        "coordinates": [
+          36.836894,
+          126.777447
+        ],
+        "capacity": 1200,
+        "address": "충청남도 당진시"
+      },
+      {
+        "name": "당진실내체육관",
+        "coordinates": [
+          36.930105,
+          126.646864
+        ],
+        "capacity": 1000,
+        "address": "충청남도 당진시"
+      },
+      {
+        "name": "당진중앙공원 비상집합장소",
+        "coordinates": [
+          36.9018,
+          126.623548
+        ],
+        "capacity": 3000,
+        "address": "충청남도 당진시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "삽교호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "왜목마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "당진시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "당진시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "현대제철 당진제철소",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "당진시는 삽교호와 왜목마을, 도비도? 아니라 현대제철이 자리한 충남 서해안 산업·관광 도시이다.",
   "data_sources": [
     {
