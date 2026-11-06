@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "동의보감촌 봄",
+        "대원사 봄"
+      ],
+      "summer": [
+        "지리산 계곡 여름",
+        "동의보감촌 여름"
+      ],
+      "autumn": [
+        "지리산 단풍길",
+        "대원사 가을"
+      ],
+      "winter": [
+        "지리산 설경",
+        "동의보감촌 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "동의보감촌 야경",
+        "coordinates": [
+          35.439308,
+          127.828055
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "지리산 야경",
+        "coordinates": [
+          35.293711,
+          127.821841
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "산청군은 지리산과 대원사, 동의보감촌이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
