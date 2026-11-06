@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "감천문화마을 봄 골목",
+        "을숙도 벚꽃"
+      ],
+      "summer": [
+        "다대포해수욕장 여름",
+        "을숙도 여름"
+      ],
+      "autumn": [
+        "을숙도 억새",
+        "감천문화마을 가을"
+      ],
+      "winter": [
+        "감천문화마을 겨울",
+        "다대포해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "감천문화마을 야경",
+        "coordinates": [
+          35.096337,
+          129.00879
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "다대포해수욕장 야경",
+        "coordinates": [
+          35.04684,
+          128.964038
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "부산 사하구는 감천문화마을과 다대포, 을숙도가 자리한 부산 서부의 해안 구이다.",
   "data_sources": [
     {
