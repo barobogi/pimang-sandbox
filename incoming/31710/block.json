@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대곡천암각화",
+        "station_name": "대곡천암각화 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.6316,
+          129.258
+        ]
+      },
+      {
+        "target_landmark": "천전리각사",
+        "station_name": "천전리각사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.6416,
+          129.268
+        ]
+      },
+      {
+        "target_landmark": "간절감",
+        "station_name": "간절감 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.5016,
+          129.231
+        ]
+      },
+      {
+        "target_landmark": "언양 자수정 동굴나라",
+        "station_name": "언양 자수정 동굴나라 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.5496,
+          129.188
+        ]
+      },
+      {
+        "target_landmark": "온산항",
+        "station_name": "울주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.4308,
+          129.3096
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "울주 중앙 공영주차장",
+        "coordinates": [
+          35.4304,
+          129.312
+        ],
+        "capacity": 212,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "울주 제2 공영주차장",
+        "coordinates": [
+          35.4976,
+          129.2326
+        ],
+        "capacity": 59,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "울주 제3 공영주차장",
+        "coordinates": [
+          35.5488,
+          129.1912
+        ],
+        "capacity": 255,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "울주군은 울산 서부의 광역 군으로 대곡천 반구대 암각화 등 유네스코 세계유산과 간절감, 언양 자수정 동굴나라 등 해양·내륙 명소가 함께한다.",
   "data_sources": [
     {
