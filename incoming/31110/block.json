@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.549573,
+          129.351131
+        ],
+        "capacity": 2400,
+        "address": "울산광역시 중구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.579203,
+          129.329497
+        ],
+        "capacity": 2600,
+        "address": "울산광역시 중구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "학성공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "울산 병영성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "울산박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "태화강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "최현배 생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "울산 중구는 울산의 원도심으로 병영성과 학성공원, 울산박물관이 자리한 울산 중심 구이다.",
   "data_sources": [
     {
