@@ -1,0 +1,573 @@
+{
+  "block_code": "26140",
+  "block_name": "부산광역시 서구",
+  "bbox": [
+    128.999104,
+    34.895045,
+    129.100831,
+    35.140193
+  ],
+  "center": [
+    35.017619,
+    129.049968
+  ],
+  "landmarks": [
+    {
+      "name": "아미산",
+      "lat": 35.1027083,
+      "lng": 129.0129167,
+      "category": "산/도심산",
+      "description": "부산 도심 서쪽의 낮은 산으로 아미산 전망대가 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 160.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Korea-Gyeongbokgung-Amisan-01.jpg"
+    },
+    {
+      "name": "송도해상케이블카",
+      "lat": 35.0689247,
+      "lng": 129.0220234,
+      "category": "관광시설",
+      "description": "송도 바다 위를 지나는 해상 케이블카로 부산의 대표 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 156.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Busan_-_Namhang_bridge.jpg/1280px-Busan_-_Namhang_bridge.jpg"
+    },
+    {
+      "name": "송도해수욕장",
+      "lat": 35.0755128,
+      "lng": 129.0173082,
+      "category": "해수욕장",
+      "description": "암남공원과 함께한 부산의 대표 오래된 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%EB%8F%84%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 155.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Busan_-_Songdo_beach.jpg/1280px-Busan_-_Songdo_beach.jpg"
+    },
+    {
+      "name": "암남공원",
+      "lat": 35.0580746,
+      "lng": 129.015292,
+      "category": "공원/해안",
+      "description": "송도 해안 절벽 위에 조성된 전망 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 144.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SouthYFZ.jpg/1280px-SouthYFZ.jpg"
+    },
+    {
+      "name": "영주산",
+      "lat": 35.094,
+      "lng": 129.012,
+      "category": "산/자연",
+      "description": "서구 남쪽의 낮은 산으로 산책로가 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 157.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%EC%98%81%EC%A3%BC%EC%82%B0%28%EC%98%81%EB%AA%A8%EB%A3%A8%29.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "서구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "암남공원 → 송도해상케이블카 → 송도해수욕장 → 영주산 → 아미산 순으로 이어지는 부산광역시 서구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "암남공원",
+        "송도해상케이블카",
+        "송도해수욕장",
+        "영주산",
+        "아미산"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "서구 산하 절경 에어리얼 투어",
+      "description": "아미산 → 영주산 → 암남공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 서구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "아미산",
+        "영주산",
+        "암남공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "암남공원 솥뚜껑가게",
+      "lat": 35.057445,
+      "lng": 129.015922,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "송도해상케이블카 옛맛식당",
+      "lat": 35.069205,
+      "lng": 129.021603,
+      "specialty": "밀면",
+      "category": "향토음식"
+    },
+    {
+      "name": "송도해수욕장 솥뚜껑가게",
+      "lat": 35.075093,
+      "lng": 129.016888,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "영주산 옛맛식당",
+      "lat": 35.09393,
+      "lng": 129.01242,
+      "specialty": "조개구이",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "아미산",
+        "station_name": "토성역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 14,
+        "coordinates": [
+          35.0961,
+          129.0199
+        ]
+      },
+      {
+        "target_landmark": "송도해상케이블카",
+        "station_name": "동대역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 38,
+        "coordinates": [
+          35.0929,
+          129.0232
+        ]
+      },
+      {
+        "target_landmark": "송도해수욕장",
+        "station_name": "동대역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 29,
+        "coordinates": [
+          35.0929,
+          129.0232
+        ]
+      },
+      {
+        "target_landmark": "암남공원",
+        "station_name": "암남공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.059675,
+          129.016892
+        ]
+      },
+      {
+        "target_landmark": "영주산",
+        "station_name": "토성역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 11,
+        "coordinates": [
+          35.0961,
+          129.0199
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          35.057275,
+          129.014492
+        ],
+        "capacity": 497,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          35.069325,
+          129.023223
+        ],
+        "capacity": 95,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.125101,
+          129.003537
+        ],
+        "capacity": 5100,
+        "address": "부산광역시 서구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.102571,
+          129.031276
+        ],
+        "capacity": 4500,
+        "address": "부산광역시 서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "아미산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송도해상케이블카",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송도해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "암남공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영주산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "송도해수욕장 봄 산책",
+        "아미산 봄 진달래"
+      ],
+      "summer": [
+        "송도해수욕장 여름",
+        "송도해상케이블카 여름밤"
+      ],
+      "autumn": [
+        "아미산 단풍",
+        "암남공원 가을"
+      ],
+      "winter": [
+        "송도해상케이블카 겨울 조명",
+        "영주산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "송도해상케이블카 야경",
+        "coordinates": [
+          35.068925,
+          129.022023
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "암남공원 야경",
+        "coordinates": [
+          35.058075,
+          129.015292
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "부산 서구는 부산 원도심의 서쪽 구로 아미산과 대신동 상권, 충무동 등이 함께한 주거 상업 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Busan",
+      "landmarks": {
+        "아미산": [
+          "Ami Mountain",
+          "Low downtown hill in western Busan, known for its observation deck."
+        ],
+        "송도해상케이블카": [
+          "Songdo Marine Cable Car",
+          "Cable car gliding over the sea at Songdo, a Busan signature attraction."
+        ],
+        "송도해수욕장": [
+          "Songdo Beach",
+          "Busan's oldest beach, paired with Amnam Park."
+        ],
+        "암남공원": [
+          "Amnam Park",
+          "Clifftop lookout park above the Songdo coastline."
+        ],
+        "영주산": [
+          "Yeongju Mountain",
+          "Low hill on Seo-gu's south with walking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 西区",
+      "landmarks": {
+        "아미산": [
+          "峨眉山",
+          "釜山都心の西にある低い山。峨眉山展望台が有名。"
+        ],
+        "송도해상케이블카": [
+          "松島海上ケーブルカー",
+          "松島の海上を渡るケーブルカーで、釜山を代表する観光名所。"
+        ],
+        "송도해수욕장": [
+          "松島海水浴場",
+          "岩南公園とともに釜山を代表する歴史ある海水浴場。"
+        ],
+        "암남공원": [
+          "岩南公園",
+          "松島の海岸断崖の上に造られた展望公園。"
+        ],
+        "영주산": [
+          "ヨンジュ山",
+          "西区の南にある低い山。散策路が整備されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 西区",
+      "landmarks": {
+        "아미산": [
+          "峨眉山",
+          "釜山城区西部的矮山，以峨眉山展望台闻名。"
+        ],
+        "송도해상케이블카": [
+          "松岛海上缆车",
+          "横跨松岛海面的海上缆车，是釜山的代表性观光项目。"
+        ],
+        "송도해수욕장": [
+          "松岛海水浴场",
+          "与岩南公园相伴的釜山历史最悠久的海水浴场。"
+        ],
+        "암남공원": [
+          "岩南公园",
+          "建于松岛海岸峭壁之上的观景公园。"
+        ],
+        "영주산": [
+          "影州山",
+          "西区南部的矮山，设有散步道。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.bsseogu.go.kr",
+    "civil_service_center": {
+      "location_name": "서구청 민원실 앞",
+      "coordinates": [
+        129.019214,
+        35.108477
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "051-240-4000",
+      "info": "부산광역시 서구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.049567,
+      35.017419
+    ],
+    "cctv_zone_count": 169,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "부민공원",
+    "trail_length_km": 0.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "부산 서구 구민축제",
+    "typical_month": 10,
+    "venue_name": "부민공원",
+    "venue_coords": [
+      129.049567,
+      35.017319
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      129.017814,
+      35.107777
+    ],
+    "reservation_url": "https://www.bsseogu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      129.020114,
+      35.107877
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.018814,
+      35.105877
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "송도해수욕장 솥뚜껑가게",
+    "coordinates": [
+      129.016888,
+      35.075093
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "씨앗호떡 (서구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=서구청&goalx=129.019214&goaly=35.108477",
+    "kakaonavi_url": "kakaonavi://navigate?name=서구청&x=129.019214&y=35.108477&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=서구청&dlng=129.019214&dlat=35.108477&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:27",
+      "sunset": "18:35",
+      "noon_altitude_deg": 55.0
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:41",
+      "noon_altitude_deg": 78.4
+    },
+    "autumn_equinox": {
+      "sunrise": "06:12",
+      "sunset": "18:20",
+      "noon_altitude_deg": 55.0
+    },
+    "winter_solstice": {
+      "sunrise": "07:28",
+      "sunset": "17:16",
+      "noon_altitude_deg": 31.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "서구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.048517,
+          35.017619
+        ],
+        [
+          129.049567,
+          35.017419
+        ],
+        [
+          129.050117,
+          35.018569
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "서구 중심상업거리",
+    "anchor_center": [
+      129.020681,
+      35.10941
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 220,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
