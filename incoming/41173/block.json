@@ -238,6 +238,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동안초등학교 운동장",
+        "coordinates": [
+          37.3817,
+          126.958417
+        ],
+        "capacity": 6500,
+        "address": "경기도 안양시 동안구"
+      },
+      {
+        "name": "동안실내체육관",
+        "coordinates": [
+          37.39225,
+          126.946247
+        ],
+        "capacity": 6500,
+        "address": "경기도 안양시 동안구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "평촌 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "관양동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "호계동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "평촌중앙공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "비산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "안양 동안구는 평촌신도시 상권이 자리한 안양 동부의 구이다.",
   "data_sources": [
     {
