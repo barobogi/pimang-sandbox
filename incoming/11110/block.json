@@ -344,5 +344,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jongno-gu, Seoul",
+      "landmarks": {
+        "경복궁": [
+          "Gyeongbokgung Palace",
+          "The main royal palace of the Joseon Dynasty, featuring Geunjeongjeon Hall and Gyeonghoeru Pavilion."
+        ],
+        "창덕궁": [
+          "Changdeokgung Palace",
+          "UNESCO World Heritage palace renowned for its harmony with the surrounding nature."
+        ],
+        "광화문광장": [
+          "Gwanghwamun Square",
+          "Central pedestrian plaza of Korean history, home to the statue of King Sejong the Great."
+        ],
+        "북촌한옥마을": [
+          "Bukchon Hanok Village",
+          "Preserved district dense with traditional hanok houses, once home to Joseon-era aristocrats."
+        ],
+        "인사동": [
+          "Insa-dong",
+          "Representative traditional culture street lined with craft shops, galleries, and teahouses."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 鐘路区",
+      "landmarks": {
+        "경복궁": [
+          "景福宮",
+          "朝鮮王朝の正宮。勤政殿や慶会楼など代表的な伝統建築を見どころとする。"
+        ],
+        "창덕궁": [
+          "昌徳宮",
+          "自然と建築の調和が認められたユネスコ世界文化遺産の宮殿。"
+        ],
+        "광화문광장": [
+          "光化門広場",
+          "世宗大王銅像が立つ、韓国史の中心地である歩行者広場。"
+        ],
+        "북촌한옥마을": [
+          "北村韓屋村",
+          "朝鮮時代の両班の居住地だった伝統韓屋が密集して保存される地区。"
+        ],
+        "인사동": [
+          "仁寺洞",
+          "伝統工芸やギャラリー、茶屋が集まる韓国を代表する伝統文化ストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 钟路区",
+      "landmarks": {
+        "경복궁": [
+          "景福宫",
+          "朝鲜王朝的正宫，坐落着勤政殿、庆会楼等代表性传统建筑。"
+        ],
+        "창덕궁": [
+          "昌德宫",
+          "以建筑与自然和谐相融著称，被列入联合国教科文组织世界文化遗产。"
+        ],
+        "광화문광장": [
+          "光化门广场",
+          "矗立着世宗大王铜像的步行广场，是韩国历史的中心。"
+        ],
+        "북촌한옥마을": [
+          "北村韩屋村",
+          "朝鲜时代两班贵族的居住地，传统韩屋密集保存至今。"
+        ],
+        "인사동": [
+          "仁寺洞",
+          "汇集传统工艺店、画廊和茶馆的代表性传统文化街区。"
+        ]
+      }
+    }
   }
 }
