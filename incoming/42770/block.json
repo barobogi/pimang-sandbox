@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeongseon-gun, Gangwon",
+      "landmarks": {
+        "화암동굴": [
+          "Hwaam Cave",
+          "Signature cave attraction of Jeongseon-gun, Gangwon."
+        ],
+        "정암사": [
+          "Jeongamsa Temple",
+          "Signature temple heritage of Jeongseon-gun, Gangwon."
+        ],
+        "동강": [
+          "Dong River",
+          "Signature river attraction of Jeongseon-gun, Gangwon."
+        ],
+        "정선시장": [
+          "Jeongseon Market",
+          "Signature market attraction of Jeongseon-gun, Gangwon."
+        ],
+        "정선군청": [
+          "Jeongseon County Office",
+          "Administrative center of Jeongseon-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 旌善郡",
+      "landmarks": {
+        "화암동굴": [
+          "花岩洞窟",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "정암사": [
+          "浄岩寺",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "동강": [
+          "東江",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "정선시장": [
+          "旌善市場",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "정선군청": [
+          "旌善郡庁",
+          "江原特別自治道旌善郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 旌善郡",
+      "landmarks": {
+        "화암동굴": [
+          "花岩洞窟",
+          "江原特别自治道旌善郡的代表性洞窟。"
+        ],
+        "정암사": [
+          "净岩寺",
+          "江原特别自治道旌善郡的代表性古刹。"
+        ],
+        "동강": [
+          "东江",
+          "江原特别自治道旌善郡的代表性河流。"
+        ],
+        "정선시장": [
+          "旌善市场",
+          "江原特别自治道旌善郡的代表性市场。"
+        ],
+        "정선군청": [
+          "旌善郡厅",
+          "江原特别自治道旌善郡的行政中心。"
+        ]
+      }
+    }
   }
 }
