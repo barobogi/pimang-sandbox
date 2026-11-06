@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "광교호수공원",
+        "station_name": "매탄권선역",
+        "line": "수인분당선",
+        "walk_minutes": 46,
+        "coordinates": [
+          37.2942,
+          127.032769
+        ]
+      },
+      {
+        "target_landmark": "매탄동 상권",
+        "station_name": "영통역",
+        "line": "수인분당선",
+        "walk_minutes": 8,
+        "coordinates": [
+          37.2541,
+          127.0454
+        ]
+      },
+      {
+        "target_landmark": "삼성전자 수원기지",
+        "station_name": "영통역",
+        "line": "수인분당선",
+        "walk_minutes": 30,
+        "coordinates": [
+          37.2541,
+          127.0454
+        ]
+      },
+      {
+        "target_landmark": "영통동 상권",
+        "station_name": "영통역",
+        "line": "수인분당선",
+        "walk_minutes": 40,
+        "coordinates": [
+          37.2541,
+          127.0454
+        ]
+      },
+      {
+        "target_landmark": "광교중앙역 상권",
+        "station_name": "매탄권선역",
+        "line": "수인분당선",
+        "walk_minutes": 19,
+        "coordinates": [
+          37.2942,
+          127.032769
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영통 중앙 공영주차장",
+        "coordinates": [
+          37.282582,
+          127.066481
+        ],
+        "capacity": 86,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영통 제2 공영주차장",
+        "coordinates": [
+          37.2604,
+          127.0504
+        ],
+        "capacity": 529,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "수원 영통구는 광교신도시와 매탄동 상권이 자리한 수원 동부의 구이다.",
   "data_sources": [
     {
