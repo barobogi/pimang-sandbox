@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "강구항",
+        "station_name": "강구항 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.357948,
+          129.393584
+        ]
+      },
+      {
+        "target_landmark": "영덕해맞이공원",
+        "station_name": "영덕해맞이공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.428566,
+          129.436079
+        ]
+      },
+      {
+        "target_landmark": "영덕군청",
+        "station_name": "영덕군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.416223,
+          129.366065
+        ]
+      },
+      {
+        "target_landmark": "영덕시장",
+        "station_name": "영덕시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.407835,
+          129.370662
+        ]
+      },
+      {
+        "target_landmark": "오십천",
+        "station_name": "영덕버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.429389,
+          129.310696
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영덕 중앙 공영주차장",
+        "coordinates": [
+          36.426589,
+          129.312696
+        ],
+        "capacity": 257,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영덕 제2 공영주차장",
+        "coordinates": [
+          36.415423,
+          129.366865
+        ],
+        "capacity": 92,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "영덕 제3 공영주차장",
+        "coordinates": [
+          36.404635,
+          129.370662
+        ],
+        "capacity": 148,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "영덕군은 대게의 고장으로 유명하며 강구항과 영덕해맞이공원이 자리한 경북 동해안의 군이다.",
   "data_sources": [
     {
