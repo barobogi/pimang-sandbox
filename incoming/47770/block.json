@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "영덕해맞이공원 봄",
+        "강구항 봄"
+      ],
+      "summer": [
+        "강구항 여름",
+        "오십천 여름"
+      ],
+      "autumn": [
+        "영덕해맞이공원 가을",
+        "오십천 억새"
+      ],
+      "winter": [
+        "영덕해맞이공원 해맞이",
+        "강구항 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "영덕해맞이공원 야경",
+        "coordinates": [
+          36.427366,
+          129.435279
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "강구항 야경",
+        "coordinates": [
+          36.356748,
+          129.392784
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "영덕군은 대게의 고장으로 유명하며 강구항과 영덕해맞이공원이 자리한 경북 동해안의 군이다.",
   "data_sources": [
     {
