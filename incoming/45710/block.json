@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Wanju-gun, Jeonbuk",
+      "landmarks": {
+        "대둔산": [
+          "Daedunsan Mountain",
+          "Signature mountain attraction of Wanju-gun, Jeonbuk."
+        ],
+        "위봉사": [
+          "Unbongsa Temple",
+          "Signature temple heritage of Wanju-gun, Jeonbuk."
+        ],
+        "모악산": [
+          "Moaksan Mountain",
+          "Signature mountain attraction of Wanju-gun, Jeonbuk."
+        ],
+        "완주군청": [
+          "Wanju County Office",
+          "Administrative center of Wanju-gun, Jeonbuk."
+        ],
+        "완주시장": [
+          "Wanju Market",
+          "Signature market attraction of Wanju-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 完州郡",
+      "landmarks": {
+        "대둔산": [
+          "大屯山",
+          "全北特別自治道完州郡を代表する名所。"
+        ],
+        "위봉사": [
+          "雲峰寺",
+          "全北特別自治道完州郡を代表する名所。"
+        ],
+        "모악산": [
+          "母嶽山",
+          "全北特別自治道完州郡を代表する名所。"
+        ],
+        "완주군청": [
+          "完州郡庁",
+          "全北特別自治道完州郡を代表する名所。"
+        ],
+        "완주시장": [
+          "完州市場",
+          "全北特別自治道完州郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 完州郡",
+      "landmarks": {
+        "대둔산": [
+          "大屯山",
+          "全北特别自治道完州郡的代表性名山。"
+        ],
+        "위봉사": [
+          "云峰寺",
+          "全北特别自治道完州郡的代表性古刹。"
+        ],
+        "모악산": [
+          "母岳山",
+          "全北特别自治道完州郡的代表性名山。"
+        ],
+        "완주군청": [
+          "完州郡厅",
+          "全北特别自治道完州郡的行政中心。"
+        ],
+        "완주시장": [
+          "完州市场",
+          "全北特别自治道完州郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
