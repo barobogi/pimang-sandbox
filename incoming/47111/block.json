@@ -267,6 +267,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "형산강 벚꽃길",
+        "상원대공원 봄"
+      ],
+      "summer": [
+        "형산강 여름",
+        "오천항 여름"
+      ],
+      "autumn": [
+        "형산강 억새",
+        "죽도시장 가을"
+      ],
+      "winter": [
+        "형산강 겨울 철새",
+        "상원대공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "죽도시장 야시장",
+        "coordinates": [
+          36.03501,
+          129.367751
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "형산강 야경",
+        "coordinates": [
+          36.005132,
+          129.359976
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "포항시 남구는 포항의 산업 심장부로 포스코와 죽도시장, 오천항, 형산강이 자리한 포항 남부의 구이다.",
   "data_sources": [
     {
