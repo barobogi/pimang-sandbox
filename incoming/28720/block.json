@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "덕적도 봄 바다",
+        "자월도 봄"
+      ],
+      "summer": [
+        "백령도 여름 해변",
+        "대청도 여름"
+      ],
+      "autumn": [
+        "덕적도 가을 갯벌",
+        "백령도 가을"
+      ],
+      "winter": [
+        "백령도 겨울 해변",
+        "연평도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "자월도 야경",
+        "coordinates": [
+          37.258004,
+          126.305584
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "덕적도 야경",
+        "coordinates": [
+          37.241879,
+          126.115593
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "인천 옹진군은 백령도와 연평도, 대청도 등 서해 5도를 포함한 최서단 군으로 해안 절경과 수산 자원이 풍부하다.",
   "data_sources": [
     {
