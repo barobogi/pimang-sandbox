@@ -229,6 +229,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "가평초등학교 운동장",
+        "coordinates": [
+          37.692882,
+          127.3916
+        ],
+        "capacity": 3200,
+        "address": "경기도 가평군"
+      },
+      {
+        "name": "가평실내체육관",
+        "coordinates": [
+          37.794445,
+          127.563548
+        ],
+        "capacity": 2900,
+        "address": "경기도 가평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "아침고요수목원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청평호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "명지산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가평역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쁘띠프랑스",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "가평군은 북한강과 청평호가 흐르는 경기 동북부의 군으로 아침고요수목원과 남이섬 인근의 수변 관광지가 유명하다.",
   "data_sources": [
     {
