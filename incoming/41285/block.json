@@ -356,5 +356,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ilsandong-gu, Goyang",
+      "landmarks": {
+        "일산호수공원": [
+          "Ilsan Lake Park",
+          "Large park along the Janghang lake, Gyeonggi's signature lakeside attraction."
+        ],
+        "킨텍스": [
+          "KINTEX",
+          "Korea's largest international exhibition center, hub of global expos and conventions."
+        ],
+        "정발산": [
+          "Jeongbalsan Mountain",
+          "538 m peak in Madu-dong with the Jeongbalsan Haengju neighborhood park."
+        ],
+        "라페스타": [
+          "La Festa",
+          "Large shopping complex in Madu-dong, a culture and shopping destination."
+        ],
+        "중산공원": [
+          "Jungsan Park",
+          "Neighborhood park in Jungsan-dong, a retreat for Ilsan New Town residents."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 高陽市 一山東区",
+      "landmarks": {
+        "일산호수공원": [
+          "一山湖公園",
+          "長湖地区の湖に沿って造られた大型公園。京畿道を代表する湖の名所。"
+        ],
+        "킨텍스": [
+          "KINTEX（キンテックス）",
+          "韓国最大の国際展示場。国際展示とコンベンションの中心地。"
+        ],
+        "정발산": [
+          "鼎鉢山",
+          "馬頭洞にある標高538メートルの山。鼎鉢山幸州近隣公園とともに広がる。"
+        ],
+        "라페스타": [
+          "ラ・フェスタ",
+          "一山東区馬頭洞にある大型複合ショッピングモール。文化ショッピングの名所。"
+        ],
+        "중산공원": [
+          "重山公園",
+          "重山洞に造られた近隣公園。一山新都市住民の憩いの場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 高阳市 一山东区",
+      "landmarks": {
+        "일산호수공원": [
+          "一山湖公园",
+          "沿长湖地区湖面建成的大型公园，京畿道代表性湖景名胜。"
+        ],
+        "킨텍스": [
+          "KINTEX会展中心",
+          "韩国规模最大的国际展览设施，国际展会中心。"
+        ],
+        "정발산": [
+          "鼎钵山",
+          "马头洞海拔538米的山，与鼎钵山行州近邻公园相伴。"
+        ],
+        "라페스타": [
+          "La Festa购物中心",
+          "马头洞的大型复合购物中心，文化购物胜地。"
+        ],
+        "중산공원": [
+          "中山公园",
+          "中山洞的近邻公园，一山新城居民的休憩地。"
+        ]
+      }
+    }
   }
 }
