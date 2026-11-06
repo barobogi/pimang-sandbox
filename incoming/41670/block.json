@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "세종대왕 영릉 봄 산책",
+        "신륵사 봄"
+      ],
+      "summer": [
+        "남한강 여름",
+        "신륵사 여름"
+      ],
+      "autumn": [
+        "신륵사 단풍",
+        "남한강 억새"
+      ],
+      "winter": [
+        "세종대왕 영릉 설경",
+        "여주시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "남한강 야경",
+        "coordinates": [
+          37.346011,
+          127.597021
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "신륵사 야경",
+        "coordinates": [
+          37.30123,
+          127.654317
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "경기 여주시는 세종대왕 영릉이 자리한 역사의 고장이자 남한강의 대표 도시이다.",
   "data_sources": [
     {
