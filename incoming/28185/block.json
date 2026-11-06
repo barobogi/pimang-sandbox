@@ -363,5 +363,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeonsu-gu, Incheon",
+      "landmarks": {
+        "송도센트럴파크": [
+          "Songdo Central Park",
+          "Waterfront park blending sea and fresh water at the heart of Songdo, famous for water taxis and cycling."
+        ],
+        "송도컨베시아": [
+          "Songdo Convensia",
+          "International convention center of Songdo, a landmark venue for global meetings."
+        ],
+        "선학국제빙상경기장": [
+          "Seonhak International Ice Rink",
+          "International speed skating venue of the 2014 Incheon Asian Games, now a multiplex sports facility."
+        ],
+        "동춘근린공원": [
+          "Dongchun Neighborhood Park",
+          "Neighborhood park in Dongchun-dong, Yeonsu residents' favorite retreat."
+        ],
+        "인천대학교": [
+          "University of Incheon",
+          "Incheon's flagship national (city) university at the Songdo campus in Yeonsu-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 延寿区",
+      "landmarks": {
+        "송도센트럴파크": [
+          "松島セントラルパーク",
+          "松島国際都市の中央に造られた海水と淡水が調和する水辺公園。水上タクシーとサイクリングで有名。"
+        ],
+        "송도컨베시아": [
+          "松島コンベンシア",
+          "松島国際都市の国際コンベンションセンター。国際会議と行事が開かれるランドマーク建築。"
+        ],
+        "선학국제빙상경기장": [
+          "仙鶴国際スケート競技場",
+          "2014年仁川アジア大会の国際スケート競技場。現在は複合体育施設として運営される。"
+        ],
+        "동춘근린공원": [
+          "東春近隣公園",
+          "東春洞に造られた近隣公園。延寿区住民の代表的な憩いの場。"
+        ],
+        "인천대학교": [
+          "仁川大学校",
+          "延寿区松島キャンパスに位置する仁川を代表する国立（市立）総合大学。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 延寿区",
+      "landmarks": {
+        "송도센트럴파크": [
+          "松岛中央公园",
+          "松岛国际城中央的海水淡水交融的滨水公园，以水上出租车和骑行闻名。"
+        ],
+        "송도컨베시아": [
+          "松岛会展中心",
+          "松岛国际城的国际会展中心，举办国际会议与活动的地标建筑。"
+        ],
+        "선학국제빙상경기장": [
+          "仙鹤国际滑冰馆",
+          "2014仁川亚运会国际速滑赛场，现为综合体育设施。"
+        ],
+        "동춘근린공원": [
+          "东春近邻公园",
+          "东春洞建成的近邻公园，延寿区居民的休憩胜地。"
+        ],
+        "인천대학교": [
+          "仁川大学",
+          "位于延寿区松岛校区的仁川代表性国立（市立）综合大学。"
+        ]
+      }
+    }
   }
 }
