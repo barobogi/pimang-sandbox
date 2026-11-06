@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geumsan-gun, Chungnam",
+      "landmarks": {
+        "금산인삼시장": [
+          "Geumsan Ginseng Market",
+          "Signature specialty market of Geumsan-gun, Chungnam."
+        ],
+        "적벽강": [
+          "Jeokbyeokgang River",
+          "Signature scenic river of Geumsan-gun, Chungnam."
+        ],
+        "진악산": [
+          "Jinaksan Mountain",
+          "Signature mountain attraction of Geumsan-gun, Chungnam."
+        ],
+        "금산군청": [
+          "Geumsan County Office",
+          "Administrative center of Geumsan-gun, Chungnam."
+        ],
+        "금산인삼관": [
+          "Geumsan Ginseng Exhibition Hall",
+          "Signature specialty exhibition hall of Geumsan-gun, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 錦山郡",
+      "landmarks": {
+        "금산인삼시장": [
+          "錦山人参市場",
+          "忠清南道錦山郡を代表する名所。"
+        ],
+        "적벽강": [
+          "赤壁江",
+          "忠清南道錦山郡を代表する名所。"
+        ],
+        "진악산": [
+          "鎮嶽山",
+          "忠清南道錦山郡を代表する名所。"
+        ],
+        "금산군청": [
+          "錦山郡庁",
+          "忠清南道錦山郡を代表する名所。"
+        ],
+        "금산인삼관": [
+          "錦山人参館",
+          "忠清南道錦山郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 锦山郡",
+      "landmarks": {
+        "금산인삼시장": [
+          "锦山人参市场",
+          "忠清南道锦山郡的代表性特产市场。"
+        ],
+        "적벽강": [
+          "赤壁江",
+          "忠清南道锦山郡的代表性胜景河流。"
+        ],
+        "진악산": [
+          "镇岳山",
+          "忠清南道锦山郡的代表性名山。"
+        ],
+        "금산군청": [
+          "锦山郡厅",
+          "忠清南道锦山郡的行政中心。"
+        ],
+        "금산인삼관": [
+          "锦山人参馆",
+          "忠清南道锦山郡的代表性特产展馆。"
+        ]
+      }
+    }
   }
 }
