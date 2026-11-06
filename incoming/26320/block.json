@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buk-gu, Busan",
+      "landmarks": {
+        "구포역": [
+          "Gupo Station",
+          "Station on the Gyeongbu Line, a signature rail spot of Buk-gu."
+        ],
+        "화명생태공원": [
+          "Hwamyeong Ecological Park",
+          "Signature ecological park built in Hwamyeong-dong."
+        ],
+        "낙동강": [
+          "Nakdong River",
+          "Korea's longest river, flowing along Buk-gu's western edge."
+        ],
+        "덕천동 상권": [
+          "Deokcheon-dong District",
+          "Commercial hub of Buk-gu centered on Deokcheon-dong."
+        ],
+        "화명신도시": [
+          "Hwamyeong New Town",
+          "Major residential new town built in Hwamyeong-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 北区",
+      "landmarks": {
+        "구포역": [
+          "亀浦駅",
+          "京釜線の駅で、北区を代表する鉄道の名所。"
+        ],
+        "화명생태공원": [
+          "華明生態公園",
+          "華明洞に造られた代表的な生態公園。"
+        ],
+        "낙동강": [
+          "洛東江",
+          "北区の西側境界を流れる韓国最大の川。"
+        ],
+        "덕천동 상권": [
+          "徳川洞商圏",
+          "徳川洞に形成された北区を代表する商圏。"
+        ],
+        "화명신도시": [
+          "華明新都市",
+          "華明洞に造られた北区を代表する住宅ニュータウン。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 北区",
+      "landmarks": {
+        "구포역": [
+          "龟浦站",
+          "京釜线车站，北区代表性铁道地标。"
+        ],
+        "화명생태공원": [
+          "华明生态公园",
+          "华明洞建成的代表性生态公园。"
+        ],
+        "낙동강": [
+          "洛东江",
+          "流经北区西缘的韩国最大河流。"
+        ],
+        "덕천동 상권": [
+          "德川洞商圈",
+          "德川洞形成的北区代表性商圈。"
+        ],
+        "화명신도시": [
+          "华明新城",
+          "华明洞建成的北区代表性居住新城。"
+        ]
+      }
+    }
   }
 }
