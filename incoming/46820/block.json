@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "해남초등학교 운동장",
+        "coordinates": [
+          34.354713,
+          126.512881
+        ],
+        "capacity": 3300,
+        "address": "전라남도 해남군"
+      },
+      {
+        "name": "해남실내체육관",
+        "coordinates": [
+          34.527863,
+          126.656658
+        ],
+        "capacity": 2200,
+        "address": "전라남도 해남군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "땅끝마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대흥사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "황산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "미황사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "설아다원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "해남군은 한반도 남쪽 끝 땅끝마을과 대흥사, 황산공원이 자리한 전남 최남단의 군으로 유서 깊은 사찰 문화와 해안 자연이 함께한다.",
   "data_sources": [
     {
