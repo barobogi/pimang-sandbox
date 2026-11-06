@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "파로호",
+        "station_name": "파로호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.144214,
+          127.906986
+        ]
+      },
+      {
+        "target_landmark": "화천산천어축제장",
+        "station_name": "화천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.141172,
+          127.673285
+        ]
+      },
+      {
+        "target_landmark": "화천군청",
+        "station_name": "화천군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.106216,
+          127.707029
+        ]
+      },
+      {
+        "target_landmark": "화천시장",
+        "station_name": "화천시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.1043,
+          127.703927
+        ]
+      },
+      {
+        "target_landmark": "평화의댐",
+        "station_name": "평화의댐 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.210788,
+          127.844565
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "화천 중앙 공영주차장",
+        "coordinates": [
+          38.143572,
+          127.669685
+        ],
+        "capacity": 89,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "화천 제2 공영주차장",
+        "coordinates": [
+          38.1039,
+          127.706327
+        ],
+        "capacity": 72,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "화천군은 파로호와 화천어죽, 산천어축제로 유명한 강원 영서 북부의 군이다.",
   "data_sources": [
     {
