@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gurye-gun, Jeonnam",
+      "landmarks": {
+        "지리산": [
+          "Jirisan Mountain",
+          "Signature national park mountain of Gurye-gun, Jeonnam."
+        ],
+        "화엄사": [
+          "Hwaeomsa Temple",
+          "Signature temple heritage of Gurye-gun, Jeonnam."
+        ],
+        "사성암": [
+          "Saseongam Hermitage",
+          "Signature hermitage scenic site of Gurye-gun, Jeonnam."
+        ],
+        "구례군청": [
+          "Gurye County Office",
+          "Administrative center of Gurye-gun, Jeonnam."
+        ],
+        "구례시장": [
+          "Gurye Market",
+          "Signature market attraction of Gurye-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 求禮郡",
+      "landmarks": {
+        "지리산": [
+          "智異山",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "화엄사": [
+          "華厳寺",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "사성암": [
+          "子目庵",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "구례군청": [
+          "求禮郡庁",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "구례시장": [
+          "求禮市場",
+          "全羅南道求禮郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 求礼郡",
+      "landmarks": {
+        "지리산": [
+          "智异山",
+          "全罗南道求礼郡的代表性国立公园名山。"
+        ],
+        "화엄사": [
+          "华严寺",
+          "全罗南道求礼郡的代表性古刹。"
+        ],
+        "사성암": [
+          "四溟庵",
+          "全罗南道求礼郡的代表性岩庵胜景。"
+        ],
+        "구례군청": [
+          "求礼郡厅",
+          "全罗南道求礼郡的行政中心。"
+        ],
+        "구례시장": [
+          "求礼市场",
+          "全罗南道求礼郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
