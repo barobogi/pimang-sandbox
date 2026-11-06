@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "세종특별자치초등학교 운동장",
+        "coordinates": [
+          36.508469,
+          127.260498
+        ],
+        "capacity": 1800,
+        "address": "세종특별자치시"
+      },
+      {
+        "name": "세종특별자치실내체육관",
+        "coordinates": [
+          36.49413,
+          127.25708
+        ],
+        "capacity": 3800,
+        "address": "세종특별자치시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "정부세종청사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "세종호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "은어송마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "전의향교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부강나루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "세종특별자치시는 연기군 전역과 공주·청주·대전 일부를 합쳐 2012년에 출범한 행정 중심 복합도시로 정부 세종청사가 자리하고 호남평야와 금강 유역의 농경지가 함께한다.",
   "data_sources": [
     {
