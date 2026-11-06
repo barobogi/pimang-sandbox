@@ -138,6 +138,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "옥정호",
+        "station_name": "옥정호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.598987,
+          127.110358
+        ]
+      },
+      {
+        "target_landmark": "임실치즈테마파크",
+        "station_name": "임실버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 37,
+        "coordinates": [
+          35.616412,
+          127.282274
+        ]
+      },
+      {
+        "target_landmark": "성수산",
+        "station_name": "성수산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.52254,
+          127.19103
+        ]
+      },
+      {
+        "target_landmark": "임실군청",
+        "station_name": "임실버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 9,
+        "coordinates": [
+          35.616412,
+          127.282274
+        ]
+      },
+      {
+        "target_landmark": "임실시장",
+        "station_name": "임실버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.616412,
+          127.282274
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "임실 중앙 공영주차장",
+        "coordinates": [
+          35.613612,
+          127.282674
+        ],
+        "capacity": 59,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "임실 제2 공영주차장",
+        "coordinates": [
+          35.618089,
+          127.289712
+        ],
+        "capacity": 216,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "임실 제3 공영주차장",
+        "coordinates": [
+          35.634494,
+          127.304364
+        ],
+        "capacity": 174,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "임실군은 임실치즈로 유명하며 옥정호와 성수산, 임실치즈테마파크가 자리한 전북 남부의 군이다.",
   "data_sources": [
     {
