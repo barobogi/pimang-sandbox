@@ -215,6 +215,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "의창초등학교 운동장",
+        "coordinates": [
+          35.301144,
+          128.676539
+        ],
+        "capacity": 2100,
+        "address": "경상남도 창원시 의창구"
+      },
+      {
+        "name": "의창실내체육관",
+        "coordinates": [
+          35.266379,
+          128.635497
+        ],
+        "capacity": 4000,
+        "address": "경상남도 창원시 의창구"
+      },
+      {
+        "name": "의창중앙공원 비상집합장소",
+        "coordinates": [
+          35.240688,
+          128.629071
+        ],
+        "capacity": 3600,
+        "address": "경상남도 창원시 의창구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "주남저수지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "남산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "사화공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕정공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소계체육공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "의창구는 2010년 창원시 통합과 함께 설치된 창원 북부의 구로 주남저수지 두루미 도래지와 대원동 택지지구 등이 함께한 창원의 관문 지역이다.",
   "data_sources": [
     {
