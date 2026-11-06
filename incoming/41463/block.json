@@ -219,6 +219,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "기흥초등학교 운동장",
+        "coordinates": [
+          37.309322,
+          127.080534
+        ],
+        "capacity": 5600,
+        "address": "경기도 용인시 기흥구"
+      },
+      {
+        "name": "기흥실내체육관",
+        "coordinates": [
+          37.273313,
+          127.121922
+        ],
+        "capacity": 4000,
+        "address": "경기도 용인시 기흥구"
+      },
+      {
+        "name": "기흥중앙공원 비상집합장소",
+        "coordinates": [
+          37.263608,
+          127.127466
+        ],
+        "capacity": 7500,
+        "address": "경기도 용인시 기흥구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "보정동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신갈지구",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "기흥역 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동백지구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "기흥동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "용인 기흥구는 보정동 카페거리와 신갈지구가 함께한 용인 중부의 구이다.",
   "data_sources": [
     {
