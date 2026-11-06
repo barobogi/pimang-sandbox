@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수승대 봄",
+        "거창창포원 봄"
+      ],
+      "summer": [
+        "수승대 여름 물놀이",
+        "덕유산 계곡 여름"
+      ],
+      "autumn": [
+        "덕유산 단풍",
+        "거창창포원 가을"
+      ],
+      "winter": [
+        "수승대 설경",
+        "거창창포원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "수승대 야경",
+        "coordinates": [
+          35.759781,
+          127.834467
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "거창창포원 야경",
+        "coordinates": [
+          35.653527,
+          127.941405
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
   "data_sources": [
     {
