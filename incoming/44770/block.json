@@ -1,0 +1,598 @@
+{
+  "block_code": "44770",
+  "block_name": "충청남도 서천군",
+  "bbox": [
+    126.376356,
+    35.983836,
+    126.871198,
+    36.191854
+  ],
+  "center": [
+    36.087845,
+    126.623777
+  ],
+  "landmarks": [
+    {
+      "name": "마량리동백나무숲",
+      "lat": 36.0355,
+      "lng": 126.6395,
+      "category": "천연기념물/자연",
+      "description": "500년 수령 동백나무 80그루가 군락을 이룬 천연기념물 제169호로 동백정에서 일출·일몰을 볼 수 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 346.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Camellia_japonica_NBG.jpg/1280px-Camellia_japonica_NBG.jpg"
+    },
+    {
+      "name": "한산모시마을",
+      "lat": 36.1305,
+      "lng": 126.705,
+      "category": "문화/무형유산",
+      "description": "유네스코 인류무형문화유산 한산모시짜기의 본산으로 모시전시관과 공예 공방이 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%82%B0%EB%AA%A8%EC%8B%9C%EC%A7%9C%EA%B8%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 237.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    },
+    {
+      "name": "국립생태원",
+      "lat": 36.0349778,
+      "lng": 126.7190077,
+      "category": "생태/전시",
+      "description": "세계 5대 기후대 온실 에코리움을 갖춘 국가 생태 전문기관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 304.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg/1280px-%EA%B5%AD%EB%A6%BD%EC%83%9D%ED%83%9C%EC%9B%90.jpg"
+    },
+    {
+      "name": "금강하굿둑 철새도래지",
+      "lat": 36.062,
+      "lng": 126.7,
+      "category": "생태/철새",
+      "description": "겨울철 40여 종 50만 마리 철새가 찾는 금강 하구의 대표 철새 도래지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg/1280px-Museum_of_National_Marine_Biodiversity_Institute_of_Korea.jpg"
+    },
+    {
+      "name": "문헌서원",
+      "lat": 36.091231,
+      "lng": 126.785611,
+      "category": "서원/문화유산",
+      "description": "이곡과 이색을 추모하기 위해 세워진 사액 서원으로 배롱나무 경관으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%97%8C%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 268.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%EC%84%9C%EC%B2%9C_%EB%AC%B8%ED%97%8C%EC%84%9C%EC%9B%90.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "서천 역사·문화 시그니처 스카이 트레일",
+      "description": "마량리동백나무숲 → 금강하굿둑 철새도래지 → 국립생태원 → 문헌서원 → 한산모시마을 순으로 이어지는 충청남도 서천군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "마량리동백나무숲",
+        "금강하굿둑 철새도래지",
+        "국립생태원",
+        "문헌서원",
+        "한산모시마을"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "서천 고즈넉한 역사 스카이 산책",
+      "description": "마량리동백나무숲 → 한산모시마을 → 문헌서원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 서천의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "마량리동백나무숲",
+        "한산모시마을",
+        "문헌서원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "서천 산하 절경 에어리얼 투어",
+      "description": "국립생태원 → 금강하굿둑 철새도래지 → 마량리동백나무숲 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 서천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "국립생태원",
+        "금강하굿둑 철새도래지",
+        "마량리동백나무숲"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "마량리동백나무숲 동네밥집",
+      "lat": 36.03522,
+      "lng": 126.63915,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "금강하굿둑 철새도래지 할매집",
+      "lat": 36.06172,
+      "lng": 126.6993,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "한산모시마을 옛맛식당",
+      "lat": 36.13071,
+      "lng": 126.70458,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "국립생태원 골목식당",
+      "lat": 36.035048,
+      "lng": 126.718518,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "마량리동백나무숲",
+        "station_name": "마량리동백나무숲 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.0359,
+          126.6391
+        ]
+      },
+      {
+        "target_landmark": "한산모시마을",
+        "station_name": "한산모시마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.1309,
+          126.7046
+        ]
+      },
+      {
+        "target_landmark": "국립생태원",
+        "station_name": "장항역",
+        "line": "장항선",
+        "walk_minutes": 38,
+        "coordinates": [
+          36.0292,
+          126.69
+        ]
+      },
+      {
+        "target_landmark": "금강하굿둑 철새도래지",
+        "station_name": "금강하굿둑 철새도래지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.0624,
+          126.6996
+        ]
+      },
+      {
+        "target_landmark": "문헌서원",
+        "station_name": "문헌서원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.091631,
+          126.785211
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서천 중앙 공영주차장",
+        "coordinates": [
+          36.0347,
+          126.6391
+        ],
+        "capacity": 353,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서천 제2 공영주차장",
+        "coordinates": [
+          36.062,
+          126.6996
+        ],
+        "capacity": 167,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "서천 제3 공영주차장",
+        "coordinates": [
+          36.1281,
+          126.7066
+        ],
+        "capacity": 378,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서천초등학교 운동장",
+        "coordinates": [
+          36.044206,
+          126.702992
+        ],
+        "capacity": 5700,
+        "address": "충청남도 서천군"
+      },
+      {
+        "name": "서천실내체육관",
+        "coordinates": [
+          36.103236,
+          126.720129
+        ],
+        "capacity": 900,
+        "address": "충청남도 서천군"
+      },
+      {
+        "name": "서천중앙공원 비상집합장소",
+        "coordinates": [
+          36.034323,
+          126.698081
+        ],
+        "capacity": 2500,
+        "address": "충청남도 서천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "마량리동백나무숲",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "한산모시마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국립생태원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "금강하굿둑 철새도래지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문헌서원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "마량리동백나무숲 봄",
+        "한산모시마을 봄"
+      ],
+      "summer": [
+        "국립생태원 여름",
+        "서천 해변 여름"
+      ],
+      "autumn": [
+        "국립생태원 가을",
+        "문헌서원 가을"
+      ],
+      "winter": [
+        "금강하굿둑 철새도래지 겨울",
+        "마량리동백나무숲 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "국립생태원 야경",
+        "coordinates": [
+          36.034978,
+          126.719008
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "금강하굿둑 야경",
+        "coordinates": [
+          36.062,
+          126.7
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "서천군은 충남 서남단에 위치한 군으로 금강 하구 갯벌이 유네스코 세계자연유산에 등재되었고 한산모시짜기의 고장이며 서천9경 등 생태 관광 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seocheon-gun, Chungnam",
+      "landmarks": {
+        "마량리동백나무숲": [
+          "Maryang-ri Camellia Forest",
+          "Natural Monument No. 169, a grove of some 80 five-hundred-year camellias with sunrise and sunset views from Camellia Pavilion."
+        ],
+        "한산모시마을": [
+          "Hansan Mosi (Ramie) Village",
+          "Home of UNESCO-listed Hansan ramie weaving, with a fabric museum and craft workshops."
+        ],
+        "국립생태원": [
+          "National Ecology Institute",
+          "National ecological research body with greenhouses of the world's five climate zones."
+        ],
+        "금강하굿둑 철새도래지": [
+          "Geum River Estuary Migratory Bird Sanctuary",
+          "Premier estuary bird sanctuary drawing some 500,000 birds of 40-plus species each winter."
+        ],
+        "문헌서원": [
+          "Munheonseowon Confucian Academy",
+          "Royal-chartered seowon honoring Yi Gok and Yi Saek, famed for its crape myrtle scenery."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 舒川郡",
+      "landmarks": {
+        "마량리동백나무숲": [
+          "馬良里椿の森",
+          "樹齢500年の椿80本が群れる天然記念物第169号。椿亭から日の出・日の入りが眺められる。"
+        ],
+        "한산모시마을": [
+          "韓山苧麻村",
+          "ユネスコ無形文化遺産・韓山苧麻織りの本場。苧麻展示館と工房がある。"
+        ],
+        "국립생태원": [
+          "国立生態園",
+          "世界五大気候帯の温室エコリウムを備えた国家の生態専門機関。"
+        ],
+        "금강하굿둑 철새도래지": [
+          "錦江河口の渡り鳥飛来地",
+          "冬に40種余り50万羽の渡り鳥が訪れる錦江河の口を代表する渡り鳥の聖地。"
+        ],
+        "문헌서원": [
+          "文憲書院",
+          "李穀と李穡を追慕して建てられた賜額書院。百日紅の景観で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 舒川郡",
+      "landmarks": {
+        "마량리동백나무숲": [
+          "马良里山茶树林",
+          "80株树龄500年的山茶聚生，为天然纪念物第169号，可在茶花亭观日出日落。"
+        ],
+        "한산모시마을": [
+          "韩山苎麻村",
+          "联合国教科文组织非遗韩山苎麻纺织的故乡，设苎麻展示馆和工艺作坊。"
+        ],
+        "국립생태원": [
+          "国立生态园",
+          "设有世界五大气候带温室的国家生态专门机构。"
+        ],
+        "금강하굿둑 철새도래지": [
+          "锦江口候鸟栖息地",
+          "冬季有40多种50万只候鸟栖息的锦江口代表性候鸟圣地。"
+        ],
+        "문헌서원": [
+          "文宪书院",
+          "为缅怀李谷和李穑而建的赐额书院，以紫薇花景闻名。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seocheon.go.kr",
+    "civil_service_center": {
+      "location_name": "서천군청 민원실 앞",
+      "coordinates": [
+        126.691691,
+        36.07986
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "041-950-4114",
+      "info": "충청남도 서천군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서천군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.623877,
+      36.088145
+    ],
+    "cctv_zone_count": 154,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "서천군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "한산모시문화제",
+    "typical_month": 6,
+    "venue_name": "서천국화테마단지",
+    "venue_coords": [
+      126.623377,
+      36.088345
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서천군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.691091,
+      36.07916
+    ],
+    "reservation_url": "https://www.seocheon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서천군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.694291,
+      36.08156
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서천군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.694291,
+      36.08106
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "국립생태원 골목식당",
+    "coordinates": [
+      126.718518,
+      36.035048
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "들깨칼국수 (서천군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=서천군청&goalx=126.691691&goaly=36.079860",
+    "kakaonavi_url": "kakaonavi://navigate?name=서천군청&x=126.691691&y=36.079860&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=서천군청&dlng=126.691691&dlat=36.079860&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:37",
+      "sunset": "18:45",
+      "noon_altitude_deg": 53.9
+    },
+    "summer_solstice": {
+      "sunrise": "05:17",
+      "sunset": "19:53",
+      "noon_altitude_deg": 77.4
+    },
+    "autumn_equinox": {
+      "sunrise": "06:22",
+      "sunset": "18:30",
+      "noon_altitude_deg": 53.9
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:23",
+      "noon_altitude_deg": 30.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "서천군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.623527,
+          36.086845
+        ],
+        [
+          126.623877,
+          36.088145
+        ],
+        [
+          126.623027,
+          36.086745
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "서천군 전통시장 만남의거리",
+    "anchor_center": [
+      126.690091,
+      36.078727
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 130,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
