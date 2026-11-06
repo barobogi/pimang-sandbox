@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Suji-gu, Yongin",
+      "landmarks": {
+        "죽전역 상권": [
+          "Jukjeon Station District",
+          "Largest commercial hub of Suji-gu."
+        ],
+        "죽전동 카페거리": [
+          "Jukjeon-dong Cafe Street",
+          "Signature cafe street across Jukjeon-dong."
+        ],
+        "동천동 상권": [
+          "Dongcheon-dong District",
+          "Everyday commercial hub in Dongcheon-dong."
+        ],
+        "보정동 카페거리": [
+          "Bojeong-dong Cafe Street",
+          "Signature cafe street near Suji-gu."
+        ],
+        "수지공원": [
+          "Suji Park",
+          "Signature neighborhood park of Suji-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 龍仁市 水枝区",
+      "landmarks": {
+        "죽전역 상권": [
+          "竹田駅商圏",
+          "水枝区最大の商業商圏。"
+        ],
+        "죽전동 카페거리": [
+          "竹田洞カフェ街",
+          "竹田洞一帯を代表するカフェストリート。"
+        ],
+        "동천동 상권": [
+          "東川洞商圏",
+          "東川洞に形成された代表的な生活商圏。"
+        ],
+        "보정동 카페거리": [
+          "亭子洞カフェ街",
+          "水枝区に隣接する代表的なカフェストリート。"
+        ],
+        "수지공원": [
+          "水枝公園",
+          "水枝区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 龙仁市 水枝区",
+      "landmarks": {
+        "죽전역 상권": [
+          "竹田站商圈",
+          "水枝区最大的商业区。"
+        ],
+        "죽전동 카페거리": [
+          "竹田洞咖啡街",
+          "竹田洞一带的代表性咖啡街。"
+        ],
+        "동천동 상권": [
+          "东川洞商圈",
+          "东川洞形成的代表性生活商圈。"
+        ],
+        "보정동 카페거리": [
+          "宝亭洞咖啡街",
+          "毗邻水枝区的代表性咖啡街。"
+        ],
+        "수지공원": [
+          "水枝公园",
+          "水枝区的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
