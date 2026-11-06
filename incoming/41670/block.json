@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "여주초등학교 운동장",
+        "coordinates": [
+          37.327339,
+          127.330971
+        ],
+        "capacity": 2300,
+        "address": "경기도 여주시"
+      },
+      {
+        "name": "여주실내체육관",
+        "coordinates": [
+          37.347335,
+          127.638896
+        ],
+        "capacity": 4200,
+        "address": "경기도 여주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "세종대왕 영릉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남한강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신륵사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여주시청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여주시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "경기 여주시는 세종대왕 영릉이 자리한 역사의 고장이자 남한강의 대표 도시이다.",
   "data_sources": [
     {
