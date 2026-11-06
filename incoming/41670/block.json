@@ -1,0 +1,582 @@
+{
+  "block_code": "41670",
+  "block_name": "경기도 여주시",
+  "bbox": [
+    127.322,
+    37.135055,
+    127.770556,
+    37.439536
+  ],
+  "center": [
+    37.287296,
+    127.546278
+  ],
+  "landmarks": [
+    {
+      "name": "세종대왕 영릉",
+      "lat": 37.292,
+      "lng": 127.322,
+      "category": "유네스코/왕릉",
+      "description": "세종대왕과 소헌왕후의 왕릉으로 유네스코 세계유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 91.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Korea_Yeouido_Summer_20140805_11_%2814862134703%29.jpg/1280px-Korea_Yeouido_Summer_20140805_11_%2814862134703%29.jpg"
+    },
+    {
+      "name": "남한강",
+      "lat": 37.3460111,
+      "lng": 127.597021,
+      "category": "하천/자연",
+      "description": "여주를 관통하는 대표 강이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 214.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Namhan_River_in_front_of_Yeoju_Library.jpg/1280px-Namhan_River_in_front_of_Yeoju_Library.jpg"
+    },
+    {
+      "name": "신륵사",
+      "lat": 37.3012303,
+      "lng": 127.654317,
+      "category": "사찰/문화유산",
+      "description": "유서 깊은 대표 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%A5%B5%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 260.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%EC%8B%A0%EB%A5%B5%EC%82%AC_%EC%A0%84%EA%B2%BD_2.jpg"
+    },
+    {
+      "name": "여주시청",
+      "lat": 37.2982294,
+      "lng": 127.6371406,
+      "category": "행정/랜드마크",
+      "description": "여주시의 행정 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 261.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Yeoju_City_office.jpg"
+    },
+    {
+      "name": "여주시장",
+      "lat": 37.29,
+      "lng": 127.64,
+      "category": "시장",
+      "description": "여주의 대표 전통시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Yeoju_City_office.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "여주 역사·문화 시그니처 스카이 트레일",
+      "description": "남한강 → 여주시청 → 여주시장 → 신륵사 → 세종대왕 영릉 순으로 이어지는 경기도 여주시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "남한강",
+        "여주시청",
+        "여주시장",
+        "신륵사",
+        "세종대왕 영릉"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "여주 역사문화 스카이 트레일",
+      "description": "세종대왕 영릉 → 남한강 → 신륵사 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 여주의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "세종대왕 영릉",
+        "남한강",
+        "신륵사"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "여주 도심 하이라이트 스카이 투어",
+      "description": "여주시장 → 여주시청 → 신륵사 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 여주의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "여주시장",
+        "여주시청",
+        "신륵사"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "여주 동네밥집",
+      "lat": 37.29014,
+      "lng": 127.63951,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "여주 본점",
+      "lat": 37.28993,
+      "lng": 127.63951,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "여주 옛맛식당",
+      "lat": 37.28937,
+      "lng": 127.6393,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "세종대왕 영릉",
+        "station_name": "세종대왕 영릉 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2924,
+          127.3244
+        ]
+      },
+      {
+        "target_landmark": "남한강",
+        "station_name": "남한강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.346411,
+          127.599421
+        ]
+      },
+      {
+        "target_landmark": "신륵사",
+        "station_name": "신륵사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.30163,
+          127.656717
+        ]
+      },
+      {
+        "target_landmark": "여주시청",
+        "station_name": "여주시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.298629,
+          127.639541
+        ]
+      },
+      {
+        "target_landmark": "여주시장",
+        "station_name": "여주시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2904,
+          127.6424
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "여주 중앙 공영주차장",
+        "coordinates": [
+          37.346011,
+          127.595821
+        ],
+        "capacity": 113,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "여주 제2 공영주차장",
+        "coordinates": [
+          37.299429,
+          127.637141
+        ],
+        "capacity": 161,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "여주 제3 공영주차장",
+        "coordinates": [
+          37.2924,
+          127.6424
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "여주초등학교 운동장",
+        "coordinates": [
+          37.327339,
+          127.330971
+        ],
+        "capacity": 2300,
+        "address": "경기도 여주시"
+      },
+      {
+        "name": "여주실내체육관",
+        "coordinates": [
+          37.347335,
+          127.638896
+        ],
+        "capacity": 4200,
+        "address": "경기도 여주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "세종대왕 영릉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남한강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신륵사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여주시청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여주시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "세종대왕 영릉 봄 산책",
+        "신륵사 봄"
+      ],
+      "summer": [
+        "남한강 여름",
+        "신륵사 여름"
+      ],
+      "autumn": [
+        "신륵사 단풍",
+        "남한강 억새"
+      ],
+      "winter": [
+        "세종대왕 영릉 설경",
+        "여주시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "남한강 야경",
+        "coordinates": [
+          37.346011,
+          127.597021
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "신륵사 야경",
+        "coordinates": [
+          37.30123,
+          127.654317
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "경기 여주시는 세종대왕 영릉이 자리한 역사의 고장이자 남한강의 대표 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeoju-si, Gyeonggi",
+      "landmarks": {
+        "세종대왕 영릉": [
+          "Royal Tomb of King Sejong (Yeongneung)",
+          "Tomb of King Sejong and Queen Soheon, inscribed on UNESCO's World Heritage list."
+        ],
+        "남한강": [
+          "South Han River",
+          "Representative river flowing through Yeoju."
+        ],
+        "신륵사": [
+          "Silleuksa Temple",
+          "Historic signature temple."
+        ],
+        "여주시청": [
+          "Yeoju City Hall",
+          "Administrative center of Yeoju."
+        ],
+        "여주시장": [
+          "Yeoju Market",
+          "Yeoju's signature traditional market."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 驪州市",
+      "landmarks": {
+        "세종대왕 영릉": [
+          "世宗大王 英陵",
+          "世宗大王と昭憲王后の王陵。ユネスコ世界遺産。"
+        ],
+        "남한강": [
+          "南漢江",
+          "驪州を貫く代表的な川。"
+        ],
+        "신륵사": [
+          "神勒寺",
+          "由緒ある代表的な寺院。"
+        ],
+        "여주시청": [
+          "驪州市庁",
+          "驪州市の行政中心。"
+        ],
+        "여주시장": [
+          "驪州市場",
+          "驪州を代表する伝統市場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 骊州市",
+      "landmarks": {
+        "세종대왕 영릉": [
+          "世宗大王英陵",
+          "世宗大王和昭宪王后的王陵，联合国教科文组织世界遗产。"
+        ],
+        "남한강": [
+          "南汉江",
+          "纵贯骊州的代表性河流。"
+        ],
+        "신륵사": [
+          "神勒寺",
+          "历史悠久的代表性古刹。"
+        ],
+        "여주시청": [
+          "骊州市厅",
+          "骊州市的行政中心。"
+        ],
+        "여주시장": [
+          "骊州市场",
+          "骊州的代表性传统市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yeoju.go.kr",
+    "civil_service_center": {
+      "location_name": "여주시청 민원실 앞",
+      "coordinates": [
+        127.648924,
+        37.254937
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-883-2114",
+      "info": "경기도 여주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "여주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.545878,
+      37.286895
+    ],
+    "cctv_zone_count": 288,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "여주 중앙공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "명성황후 추모제",
+    "typical_month": 10,
+    "venue_name": "세종대왕 유적지 일대",
+    "venue_coords": [
+      127.545678,
+      37.287396
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "여주시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.646524,
+      37.255337
+    ],
+    "reservation_url": "https://www.yeoju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "여주시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.648624,
+      37.257737
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "여주시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.650824,
+      37.252237
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "여주 동네밥집",
+    "coordinates": [
+      127.63951,
+      37.29014
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (여주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=여주시청&goalx=127.648924&goaly=37.254937",
+    "kakaonavi_url": "kakaonavi://navigate?name=여주시청&x=127.648924&y=37.254937&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=여주시청&dlng=127.648924&dlat=37.254937&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:42",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:53",
+      "noon_altitude_deg": 76.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:27",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:16",
+      "noon_altitude_deg": 29.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "여주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.544728,
+          37.288245
+        ],
+        [
+          127.545878,
+          37.286895
+        ],
+        [
+          127.546278,
+          37.286695
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "여주시 중심상업거리",
+    "anchor_center": [
+      127.648724,
+      37.253804
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 270,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
