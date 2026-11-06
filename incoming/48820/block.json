@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Goseong-gun, Gyeongnam",
+      "landmarks": {
+        "상족암": [
+          "Sangjokam Dinosaur Coast",
+          "Signature coastal attraction of Goseong-gun, Gyeongnam."
+        ],
+        "고성공룡박물관": [
+          "Goseong Dinosaur Museum",
+          "Signature natural history museum of Goseong-gun, Gyeongnam."
+        ],
+        "당항포": [
+          "Danghangpo",
+          "Signature port attraction of Goseong-gun, Gyeongnam."
+        ],
+        "고성군청": [
+          "Goseong County Office",
+          "Administrative center of Goseong-gun, Gyeongnam."
+        ],
+        "고성시장": [
+          "Goseong Market",
+          "Signature market attraction of Goseong-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 高城郡",
+      "landmarks": {
+        "상족암": [
+          "上族巌",
+          "慶尚南道高城郡を代表する名所。"
+        ],
+        "고성공룡박물관": [
+          "高城恐竜博物館",
+          "慶尚南道高城郡を代表する名所。"
+        ],
+        "당항포": [
+          "唐項浦",
+          "慶尚南道高城郡を代表する名所。"
+        ],
+        "고성군청": [
+          "高城郡庁",
+          "慶尚南道高城郡を代表する名所。"
+        ],
+        "고성시장": [
+          "高城市場",
+          "慶尚南道高城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 高城郡",
+      "landmarks": {
+        "상족암": [
+          "上足岩",
+          "庆尚南道高城郡的代表性海岸名胜。"
+        ],
+        "고성공룡박물관": [
+          "高城恐龙博物馆",
+          "庆尚南道高城郡的代表性自然博物馆。"
+        ],
+        "당항포": [
+          "唐项浦",
+          "庆尚南道高城郡的代表性港口名胜。"
+        ],
+        "고성군청": [
+          "高城郡厅",
+          "庆尚南道高城郡的行政中心。"
+        ],
+        "고성시장": [
+          "高城市场",
+          "庆尚南道高城郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
