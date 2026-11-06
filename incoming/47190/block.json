@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gumi-si, Gyeongbuk",
+      "landmarks": {
+        "금오산": [
+          "Geumosan Mountain",
+          "Gyeongbuk's signature 977 m peak, famed for the Geumosan Cheongnyangdae cliffs."
+        ],
+        "경천대": [
+          "Cheongnyangdae Cliffs",
+          "Signature cliff of Geumosan, famed for climbing and views."
+        ],
+        "사인암": [
+          "Sainam Hermitage",
+          "Temple at the foot of Geumosan, famed for winter snow scenes."
+        ],
+        "구미공단": [
+          "Gumi Industrial Complex",
+          "One of Korea's first industrial complexes and heart of the electronics industry."
+        ],
+        "구미문화예술회관": [
+          "Gumi Arts Center",
+          "Gumi's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 龜尾市",
+      "landmarks": {
+        "금오산": [
+          "金烏山",
+          "標高977メートルの慶北を代表する名山。金烏山青蓮台の断崖が有名。"
+        ],
+        "경천대": [
+          "青蓮台",
+          "金烏山を代表する断崖。登山と眺望で有名。"
+        ],
+        "사인암": [
+          "師印庵",
+          "金烏山のふもとの寺。冬の雪景色と四季の風景で有名。"
+        ],
+        "구미공단": [
+          "亀尾工団",
+          "国内初の産業団地の一つ。電子産業の中心地。"
+        ],
+        "구미문화예술회관": [
+          "亀尾文化芸術会館",
+          "亀尾を代表する公演・展示の文化施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 龟尾市",
+      "landmarks": {
+        "금오산": [
+          "金乌山",
+          "海拔977米的庆北代表名山，金乌山青莲台峭壁闻名。"
+        ],
+        "경천대": [
+          "青莲台",
+          "金乌山代表性峭壁，以攀岩和观景闻名。"
+        ],
+        "사인암": [
+          "师印庵",
+          "金乌山麓的古寺，以冬日雪景和四季风光闻名。"
+        ],
+        "구미공단": [
+          "龟尾工业园",
+          "韩国最早的产业园之一，电子产业中心。"
+        ],
+        "구미문화예술회관": [
+          "龟尾文化艺术会馆",
+          "龟尾代表性的演出展览文化设施。"
+        ]
+      }
+    }
   }
 }
