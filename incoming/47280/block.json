@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "문경새",
+        "station_name": "문경새 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.8754,
+          128.1472
+        ]
+      },
+      {
+        "target_landmark": "주흘관문",
+        "station_name": "주흘관문 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.8916,
+          128.1512
+        ]
+      },
+      {
+        "target_landmark": "표충비",
+        "station_name": "표충비 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.8204,
+          128.1992
+        ]
+      },
+      {
+        "target_landmark": "문경향교",
+        "station_name": "문경버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.6108,
+          128.1798
+        ]
+      },
+      {
+        "target_landmark": "추점사",
+        "station_name": "문경버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 15,
+        "coordinates": [
+          36.6108,
+          128.1798
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "문경 중앙 공영주차장",
+        "coordinates": [
+          36.6088,
+          128.1818
+        ],
+        "capacity": 141,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "문경 제2 공영주차장",
+        "coordinates": [
+          36.6158,
+          128.1904
+        ],
+        "capacity": 103,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "문경시는 조선 시대 영남과 한양을 잇는 문경새 관문이 있던 유서 깊은 도시로 주흘관문과 표충비 등 역사 유적과 산악 자연이 함께한다.",
   "data_sources": [
     {
