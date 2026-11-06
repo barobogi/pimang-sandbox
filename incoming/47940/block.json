@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ulleung-gun, Gyeongbuk",
+      "landmarks": {
+        "독도": [
+          "Dokdo Island",
+          "Korea's easternmost island and a symbol of Korean territory."
+        ],
+        "관음도": [
+          "Gwaneumdo Rock",
+          "Symbolic sea stack of Ulleungdo, famed for its marine scenery and cliffs."
+        ],
+        "서빙백류지": [
+          "Seobingbaekji Valley",
+          "Ulleungdo's signature natural spot of cedar forest and valley."
+        ],
+        "저동방죽": [
+          "Jeodong Breakwater",
+          "Scenic spot of the Jeodong harbor breakwater and coastal village of Ulleungdo."
+        ],
+        "통구미": [
+          "Tonggumi Coast",
+          "Southern coast of Ulleungdo famed for cliffs meeting the sea."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 鬱陵郡",
+      "landmarks": {
+        "독도": [
+          "独島",
+          "大韓民国最東端の島で、韓国領土の象徴。"
+        ],
+        "관음도": [
+          "観音島",
+          "鬱陵島の象徴的な岩島。海上絶景と岩の断崖が有名。"
+        ],
+        "서빙백류지": [
+          "ソビンベク流",
+          "杉の森と渓谷が調和する鬱陵島を代表する自然の名所。"
+        ],
+        "저동방죽": [
+          "楸洞防潮堤",
+          "鬱陵島楸洞港の防波堤と海岸村の風景が美しい名所。"
+        ],
+        "통구미": [
+          "桶丘美",
+          "鬱陵島南岸の絶景。断崖と海が調和する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 郁陵郡",
+      "landmarks": {
+        "독도": [
+          "独岛",
+          "韩国最东端的岛屿，韩国领土的象征。"
+        ],
+        "관음도": [
+          "观音岛",
+          "郁陵岛的标志性岩岛，以海上绝景和岩崖闻名。"
+        ],
+        "서빙백류지": [
+          "西滨白溪谷",
+          "杉树林与溪谷交融的郁陵岛代表性自然名胜。"
+        ],
+        "저동방죽": [
+          "楸洞防波堤",
+          "郁陵岛楸洞港防波堤与海岸村落风光秀美之地。"
+        ],
+        "통구미": [
+          "桶丘尾海岸",
+          "郁陵岛南岸绝景，峭壁与大海交融的名胜。"
+        ]
+      }
+    }
   }
 }
