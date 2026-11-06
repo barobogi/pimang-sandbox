@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서대문초등학교 운동장",
+        "coordinates": [
+          37.574568,
+          126.968122
+        ],
+        "capacity": 4100,
+        "address": "서울특별시 서대문구"
+      },
+      {
+        "name": "서대문실내체육관",
+        "coordinates": [
+          37.574706,
+          126.955944
+        ],
+        "capacity": 4300,
+        "address": "서울특별시 서대문구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "독립문",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서대문형무소역사관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연세대학교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이화여자대학교",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "홍제천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "서대문구는 연세대학교와 이화여자대학교가 자리한 학문의 거리이자 독립문과 서대문형무소 등 역사 유적이 함께한 자치구이다.",
   "data_sources": [
     {
