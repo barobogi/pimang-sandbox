@@ -352,6 +352,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -477,5 +482,48 @@
       127.212987,
       37.53092
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "하남시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.213996,
+      37.540809
+    ],
+    "reservation_url": "https://www.hanam.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "하남시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.216996,
+      37.537709
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "하남시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.212096,
+      37.536809
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "미사한강공원 골목식당",
+    "coordinates": [
+      127.180402,
+      37.576359
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "유과 (하남시 지정 모범음식점)"
   }
 }
