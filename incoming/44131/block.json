@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongnam-gu, Cheonan",
+      "landmarks": {
+        "독립기념관": [
+          "Independence Hall of Korea",
+          "National memorial honoring the independence movement and the spirit of self-reliance, Cheonan's signature attraction."
+        ],
+        "천안흥타령난장": [
+          "Cheonan Heungtaryeong Nanjang",
+          "Traditional market-style cultural complex symbolizing Heungtaryeong culture."
+        ],
+        "광덕산": [
+          "Gwangdeoksan Mountain",
+          "699 m peak with Gwangdeoksa Temple, a signature Cheonan mountain."
+        ],
+        "태조산": [
+          "Taejosan Mountain",
+          "Mountain north of downtown Cheonan with hiking trails."
+        ],
+        "천안 남산공원": [
+          "Cheonan Namsan Park",
+          "Signature urban park on the south side of downtown Cheonan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 天安市 東南区",
+      "landmarks": {
+        "독립기념관": [
+          "独立記念館",
+          "独立運動と自主精神を記念する国家記念館。天安を代表する名所。"
+        ],
+        "천안흥타령난장": [
+          "天安興打令ナンジャン",
+          "興打令文化を象徴する伝統市場型複合文化空間。"
+        ],
+        "광덕산": [
+          "広徳山",
+          "標高699メートルの山。広徳寺とともに天安を代表する名山。"
+        ],
+        "태조산": [
+          "太祖山",
+          "天安市内の北にある山。登山道が整備された名山。"
+        ],
+        "천안 남산공원": [
+          "天安南山公園",
+          "天安市内の南に造られた代表的な都市公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 天安市 东南区",
+      "landmarks": {
+        "독립기념관": [
+          "独立纪念馆",
+          "纪念独立运动和自主精神的国家纪念馆，天安代表性名胜。"
+        ],
+        "천안흥타령난장": [
+          "天安兴打令南戏场",
+          "象征兴打令文化的传统市场型复合文化空间。"
+        ],
+        "광덕산": [
+          "广德山",
+          "海拔699米，与广德寺相伴的天安代表名山。"
+        ],
+        "태조산": [
+          "太祖山",
+          "位于天安市区北侧，建有登山步道的名山。"
+        ],
+        "천안 남산공원": [
+          "天安南山公园",
+          "天安市区南侧的代表性城市公园。"
+        ]
+      }
+    }
   }
 }
