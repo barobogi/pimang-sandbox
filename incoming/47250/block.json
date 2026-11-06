@@ -146,6 +146,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "경천대",
+        "station_name": "경천대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.460677,
+          128.244168
+        ]
+      },
+      {
+        "target_landmark": "낙동강",
+        "station_name": "낙동강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.425632,
+          128.239646
+        ]
+      },
+      {
+        "target_landmark": "상주자전거박물관",
+        "station_name": "상주자전거박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.414874,
+          128.11821
+        ]
+      },
+      {
+        "target_landmark": "상주시청",
+        "station_name": "상주시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.413413,
+          128.159508
+        ]
+      },
+      {
+        "target_landmark": "상주시장",
+        "station_name": "상주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.448692,
+          128.069593
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "상주 중앙 공영주차장",
+        "coordinates": [
+          36.448292,
+          128.066393
+        ],
+        "capacity": 196,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "상주 제2 공영주차장",
+        "coordinates": [
+          36.410874,
+          128.11741
+        ],
+        "capacity": 291,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "상주 제3 공영주차장",
+        "coordinates": [
+          36.411413,
+          128.159908
+        ],
+        "capacity": 297,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "상주시는 낙동강과 경천대, 상주자전거박물관이 자리한 경북 서부의 도시이다.",
   "data_sources": [
     {
