@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jungnang-gu, Seoul",
+      "landmarks": {
+        "망우리공원": [
+          "Mangwuri Park",
+          "Large neighborhood park near Sangbong Station with a cloud bridge and lotus pond."
+        ],
+        "봉화산": [
+          "Bonghwasan Mountain",
+          "358 m hiking favorite known for its rocky ridge and Eastern Philosophy Park."
+        ],
+        "용마랜드": [
+          "Yongma Land",
+          "Retro hillside amusement park being rediscovered as a nostalgic landmark."
+        ],
+        "중랑천": [
+          "Jungnangcheon Stream",
+          "Seoul tributary flowing through Jungnang-gu into the Han River, lined with trails."
+        ],
+        "면목동 먹자골목": [
+          "Myeonmok-dong Food Alley",
+          "Food market alley forming the heart of the Myeonmok neighborhood commerce."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 中浪区",
+      "landmarks": {
+        "망우리공원": [
+          "忘憂里公園",
+          "上鳳駅近くに造られた雲橋やハス池のある大型近隣公園。"
+        ],
+        "봉화산": [
+          "鳳凰山",
+          "標高358メートルの山。岩稜と東洋哲学公園で有名な週末のハイキングスポット。"
+        ],
+        "용마랜드": [
+          "龍馬ランド",
+          "龍馬山のふもとにある遊園地。レトロな名所として再注目されている。"
+        ],
+        "중랑천": [
+          "中浪川",
+          "中浪区を南北に貫き漢江へ注ぐソウルの支流。遊歩道が整備されている。"
+        ],
+        "면목동 먹자골목": [
+          "面牧洞フード横丁",
+          "面牧洞一帯に形成された食の市場街。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 中浪区",
+      "landmarks": {
+        "망우리공원": [
+          "忘忧里公园",
+          "上凤站附近的大型近邻公园，设有云桥和莲花池。"
+        ],
+        "봉화산": [
+          "凤凰山",
+          "海拔358米，以岩岭和东洋哲学公园著称的周末登山胜地。"
+        ],
+        "용마랜드": [
+          "龙马乐园",
+          "龙马山脚下的游乐园，作为怀旧景点重新受到关注。"
+        ],
+        "중랑천": [
+          "中浪川",
+          "纵贯中浪区汇入汉江的首尔支流，沿岸设有步道。"
+        ],
+        "면목동 먹자골목": [
+          "面牧洞美食巷",
+          "面牧洞一带的美食市场街，是当地生活商圈的核心。"
+        ]
+      }
+    }
   }
 }
