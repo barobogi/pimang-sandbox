@@ -406,10 +406,11 @@
     "civil_service_center": {
       "location_name": "청도군청 민원실 앞",
       "coordinates": [
-        128.786729,
-        35.706855
+        128.740724,
+        35.643794
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "054-370-6114",
