@@ -144,6 +144,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "도봉산",
+        "station_name": "도봉산역",
+        "line": "서울 4호선",
+        "exit_no": 1,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.6897,
+          127.0456
+        ]
+      },
+      {
+        "target_landmark": "도봉산도립공원",
+        "station_name": "방학역",
+        "line": "서울 1호선",
+        "exit_no": 9,
+        "walk_minutes": 35,
+        "coordinates": [
+          37.6683,
+          127.0462
+        ]
+      },
+      {
+        "target_landmark": "창동신도시",
+        "station_name": "창동역",
+        "line": "서울 1·4호선",
+        "exit_no": 9,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.6552,
+          127.0471
+        ]
+      },
+      {
+        "target_landmark": "사패산",
+        "station_name": "도봉산역",
+        "line": "서울 4호선",
+        "exit_no": 1,
+        "walk_minutes": 42,
+        "coordinates": [
+          37.6897,
+          127.0456
+        ]
+      },
+      {
+        "target_landmark": "쌍문동 상권",
+        "station_name": "쌍문역",
+        "line": "서울 4호선",
+        "exit_no": 1,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.6488,
+          127.0339
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "도봉 중앙 공영주차장",
+        "coordinates": [
+          37.6694,
+          127.0156
+        ],
+        "capacity": 328,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "도봉 제2 공영주차장",
+        "coordinates": [
+          37.6446,
+          127.0322
+        ],
+        "capacity": 189,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "도봉구는 도봉산 자락의 북부 자치구로 도봉산 국민관광지와 창동 신도시가 발달했다.",
   "data_sources": [
     {
