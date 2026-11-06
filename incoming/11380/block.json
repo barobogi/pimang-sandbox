@@ -351,5 +351,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Eunpyeong-gu, Seoul",
+      "landmarks": {
+        "불암산": [
+          "Buramsan Mountain",
+          "Hiking spot on the Eunpyeong-Nowon boundary."
+        ],
+        "북한산국립공원": [
+          "Bukhansan National Park",
+          "One of Korea's premier national parks stretching along Eunpyeong's northern edge."
+        ],
+        "연신내": [
+          "Yeonsinnae District",
+          "Eunpyeong's largest commercial and retail hub."
+        ],
+        "은평한옥마을": [
+          "Eunpyeong Hanok Village",
+          "Traditional hanok village built in western Seoul."
+        ],
+        "진관사": [
+          "Jingwansa Temple",
+          "Historic Buddhist temple in Jingwan-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 恩平区",
+      "landmarks": {
+        "불암산": [
+          "仏岩山",
+          "恩平区と蘆原区の境界に位置する登山の名所。"
+        ],
+        "북한산국립공원": [
+          "北漢山国立公園",
+          "恩平区の北側に広がる韓国屈指の国立公園。"
+        ],
+        "연신내": [
+          "延禧內",
+          "恩平区最大の繁華街。"
+        ],
+        "은평한옥마을": [
+          "恩平韓屋村",
+          "ソウル西部に造成された伝統韓屋の町。"
+        ],
+        "진관사": [
+          "津寛寺",
+          "津寛洞に位置する由緒ある寺院。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 恩平区",
+      "landmarks": {
+        "불암산": [
+          "佛岩山",
+          "位于恩平区与芦原区交界处的登山胜地。"
+        ],
+        "북한산국립공원": [
+          "北汉山国立公园",
+          "沿恩平区北侧延伸的韩国一流国立公园。"
+        ],
+        "연신내": [
+          "延新川",
+          "恩平区最大的商业繁华区。"
+        ],
+        "은평한옥마을": [
+          "恩平韩屋村",
+          "建于首尔西部的传统韩屋村落。"
+        ],
+        "진관사": [
+          "津宽寺",
+          "位于津宽洞的千年古刹。"
+        ]
+      }
+    }
   }
 }
