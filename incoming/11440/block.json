@@ -430,10 +430,11 @@
     "civil_service_center": {
       "location_name": "마포구청 민원실 앞",
       "coordinates": [
-        126.908362,
-        37.562703
+        126.901491,
+        37.566325
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "02-3153-8114",
