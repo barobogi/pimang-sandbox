@@ -147,6 +147,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "도담삼봉",
+        "station_name": "단양역",
+        "line": "중앙선",
+        "walk_minutes": 43,
+        "coordinates": [
+          36.9849,
+          128.3719
+        ]
+      },
+      {
+        "target_landmark": "구인사",
+        "station_name": "구인사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.03089,
+          128.480861
+        ]
+      },
+      {
+        "target_landmark": "고수동굴",
+        "station_name": "단양역",
+        "line": "중앙선",
+        "walk_minutes": 14,
+        "coordinates": [
+          36.9849,
+          128.3719
+        ]
+      },
+      {
+        "target_landmark": "단양군청",
+        "station_name": "단양역",
+        "line": "중앙선",
+        "walk_minutes": 8,
+        "coordinates": [
+          36.9849,
+          128.3719
+        ]
+      },
+      {
+        "target_landmark": "단양시장",
+        "station_name": "단양시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.979008,
+          128.43581
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "단양 중앙 공영주차장",
+        "coordinates": [
+          36.981008,
+          128.43541
+        ],
+        "capacity": 468,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "단양 제2 공영주차장",
+        "coordinates": [
+          36.991133,
+          128.384032
+        ],
+        "capacity": 441,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "단양군은 도담삼봉과 구인사, 고수동굴이 자리한 충북 북부 남한강 유역의 대표 관광 군이다.",
   "data_sources": [
     {
