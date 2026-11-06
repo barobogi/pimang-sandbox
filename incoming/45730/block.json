@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "무주초등학교 운동장",
+        "coordinates": [
+          35.846746,
+          127.728281
+        ],
+        "capacity": 3300,
+        "address": "전북특별자치도 무주군"
+      },
+      {
+        "name": "무주실내체육관",
+        "coordinates": [
+          35.872585,
+          127.7419
+        ],
+        "capacity": 7400,
+        "address": "전북특별자치도 무주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "덕유산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "무주구천동",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태권도원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "적상산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "설천봉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "무주군은 덕유산 국립공원과 무주구천동, 태권도원이 자리한 전북 동북부의 군으로 백두대간의 산악 자연이 풍부하다.",
   "data_sources": [
     {
