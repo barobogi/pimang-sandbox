@@ -1,0 +1,569 @@
+{
+  "block_code": "47840",
+  "block_name": "경상북도 성주군",
+  "bbox": [
+    128.046942,
+    35.775654,
+    128.398934,
+    36.055899
+  ],
+  "center": [
+    35.915777,
+    128.222938
+  ],
+  "landmarks": [
+    {
+      "name": "세종대왕자태실",
+      "lat": 35.9743171,
+      "lng": 128.2866588,
+      "category": "유적/문화유산",
+      "description": "세종대왕자태실은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 221.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%EC%84%B1%EC%A3%BC6%EA%B2%BD%28%EC%84%B8%EC%A2%85%EB%8C%80%EC%99%95%EC%9E%90%ED%83%9C%EC%8B%A4%29_1.jpg"
+    },
+    {
+      "name": "성주군청",
+      "lat": 35.919224,
+      "lng": 128.2830723,
+      "category": "행정/랜드마크",
+      "description": "성주군청은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 266.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Seongju-gun_office.JPG/1280px-Seongju-gun_office.JPG"
+    },
+    {
+      "name": "성주시장",
+      "lat": 35.9150253,
+      "lng": 128.285479,
+      "category": "시장/먹거리",
+      "description": "성주시장은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 270.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Seongju-gun_office.JPG/1280px-Seongju-gun_office.JPG"
+    },
+    {
+      "name": "가야산",
+      "lat": 35.8235606,
+      "lng": 128.1205916,
+      "category": "산/국립공원",
+      "description": "가야산은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%95%BC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 41.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/GayaSanghwangbong.jpg"
+    },
+    {
+      "name": "성주버스터미널",
+      "lat": 35.917007,
+      "lng": 128.285316,
+      "category": "상권/교통",
+      "description": "성주버스터미널은(는) 경상북도 성주군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%A3%BC%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Seongju_Bus_Terminal.JPG/1280px-Seongju_Bus_Terminal.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "성주 역사·문화 시그니처 스카이 트레일",
+      "description": "성주군청 → 성주버스터미널 → 성주시장 → 세종대왕자태실 → 가야산 순으로 이어지는 경상북도 성주군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "성주군청",
+        "성주버스터미널",
+        "성주시장",
+        "세종대왕자태실",
+        "가야산"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "성주 세월을 나는 문화유산 플라이트",
+      "description": "세종대왕자태실 → 성주군청 → 성주버스터미널 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 성주의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "세종대왕자태실",
+        "성주군청",
+        "성주버스터미널"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "성주 할매집",
+      "lat": 35.915655,
+      "lng": 128.286109,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "성주 본점",
+      "lat": 35.915165,
+      "lng": 128.285759,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "성주 큰마당식당",
+      "lat": 35.914675,
+      "lng": 128.285199,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "성주 솥뚜껑가게",
+      "lat": 35.914605,
+      "lng": 128.286109,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "세종대왕자태실",
+        "station_name": "세종대왕자태실 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.977117,
+          128.286259
+        ]
+      },
+      {
+        "target_landmark": "성주군청",
+        "station_name": "성주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.917224,
+          128.284272
+        ]
+      },
+      {
+        "target_landmark": "성주시장",
+        "station_name": "성주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.917224,
+          128.284272
+        ]
+      },
+      {
+        "target_landmark": "가야산",
+        "station_name": "가야산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.826361,
+          128.120192
+        ]
+      },
+      {
+        "target_landmark": "성주버스터미널",
+        "station_name": "성주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.917224,
+          128.284272
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성주 중앙 공영주차장",
+        "coordinates": [
+          35.918424,
+          128.283472
+        ],
+        "capacity": 262,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "성주 제2 공영주차장",
+        "coordinates": [
+          35.915407,
+          128.284116
+        ],
+        "capacity": 314,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성주초등학교 운동장",
+        "coordinates": [
+          35.939919,
+          128.273905
+        ],
+        "capacity": 5500,
+        "address": "경상북도 성주군"
+      },
+      {
+        "name": "성주실내체육관",
+        "coordinates": [
+          35.949269,
+          128.334954
+        ],
+        "capacity": 3500,
+        "address": "경상북도 성주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "세종대왕자태실",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성주군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "성주시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가야산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성주버스터미널",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "가야산 봄",
+        "세종대왕자태실 봄"
+      ],
+      "summer": [
+        "가야산 계곡 여름",
+        "성주버스터미널 여름"
+      ],
+      "autumn": [
+        "가야산 단풍길",
+        "세종대왕자태실 가을"
+      ],
+      "winter": [
+        "가야산 설경",
+        "성주시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "가야산 야경",
+        "coordinates": [
+          35.823561,
+          128.120592
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "성주시장 야시장",
+        "coordinates": [
+          35.915025,
+          128.285479
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "성주군은 참외의 고장으로 유명하며 세종대왕자태실과 가야산이 자리한 경북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongju-gun, Gyeongbuk",
+      "landmarks": {
+        "세종대왕자태실": [
+          "King Sejong's Royal Placenta Chamber",
+          "Signature historic site heritage of Seongju-gun, Gyeongbuk."
+        ],
+        "성주군청": [
+          "Seongju County Office",
+          "Administrative center of Seongju-gun, Gyeongbuk."
+        ],
+        "성주시장": [
+          "Seongju Market",
+          "Signature market attraction of Seongju-gun, Gyeongbuk."
+        ],
+        "가야산": [
+          "Gayasan Mountain",
+          "Signature national park mountain of Seongju-gun, Gyeongbuk."
+        ],
+        "성주버스터미널": [
+          "Seongju Bus Terminal",
+          "Signature transit hub attraction of Seongju-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 星州郡",
+      "landmarks": {
+        "세종대왕자태실": [
+          "世宗大王子胎室",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "성주군청": [
+          "星州郡庁",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "성주시장": [
+          "星州市場",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "가야산": [
+          "伽倻山",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "성주버스터미널": [
+          "星州バスターミナル",
+          "慶尚北道星州郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 星州郡",
+      "landmarks": {
+        "세종대왕자태실": [
+          "世宗大王胎室",
+          "庆尚北道星州郡的代表性历史遗迹。"
+        ],
+        "성주군청": [
+          "星州郡厅",
+          "庆尚北道星州郡的行政中心。"
+        ],
+        "성주시장": [
+          "星州市场",
+          "庆尚北道星州郡的代表性市场。"
+        ],
+        "가야산": [
+          "伽倻山",
+          "庆尚北道星州郡的代表性国立公园名山。"
+        ],
+        "성주버스터미널": [
+          "星州巴士客运站",
+          "庆尚北道星州郡的代表性交通枢纽。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sj.go.kr",
+    "civil_service_center": {
+      "location_name": "성주군청 민원실 앞",
+      "coordinates": [
+        128.272467,
+        35.928666
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-933-0021",
+      "info": "경상북도 성주군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "성주군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.223038,
+      35.915877
+    ],
+    "cctv_zone_count": 236,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "성주군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "성주 참외축제",
+    "typical_month": 5,
+    "venue_name": "성주읍 일대",
+    "venue_coords": [
+      128.222338,
+      35.916176
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "성주군 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.270167,
+      35.930666
+    ],
+    "reservation_url": "https://www.sj.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "성주군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.270367,
+      35.928066
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "성주군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.273467,
+      35.931666
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "성주 본점",
+    "coordinates": [
+      128.285759,
+      35.915165
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (성주군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=성주군청&goalx=128.272467&goaly=35.928666",
+    "kakaonavi_url": "kakaonavi://navigate?name=성주군청&x=128.272467&y=35.928666&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=성주군청&dlng=128.272467&dlat=35.928666&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:39",
+      "noon_altitude_deg": 54.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:47",
+      "noon_altitude_deg": 77.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:24",
+      "noon_altitude_deg": 54.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:34",
+      "sunset": "17:17",
+      "noon_altitude_deg": 30.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "성주군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.223838,
+          35.915077
+        ],
+        [
+          128.223038,
+          35.915877
+        ],
+        [
+          128.223788,
+          35.916977
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "성주군 전통시장 만남의거리",
+    "anchor_center": [
+      128.273867,
+      35.927799
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 320,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
