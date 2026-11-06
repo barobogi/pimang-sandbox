@@ -344,6 +344,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -469,5 +474,49 @@
       128.061416,
       37.748591
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "홍천군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.884147,
+      37.694917
+    ],
+    "reservation_url": "https://www.hongcheon.gangwon.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "홍천군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.883547,
+      37.692617
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "홍천군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.880947,
+      37.693417
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "홍천강 옛맛식당",
+    "coordinates": [
+      127.971314,
+      37.766843
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (홍천군 지정 모범음식점)"
   }
 }
