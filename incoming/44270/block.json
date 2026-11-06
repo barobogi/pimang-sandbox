@@ -1,0 +1,581 @@
+{
+  "block_code": "44270",
+  "block_name": "충청남도 당진시",
+  "bbox": [
+    126.354339,
+    36.747909,
+    126.858661,
+    37.096049
+  ],
+  "center": [
+    36.921979,
+    126.6065
+  ],
+  "landmarks": [
+    {
+      "name": "삽교호",
+      "lat": 36.8620572,
+      "lng": 126.8361862,
+      "category": "호수/관광",
+      "description": "삽교호은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BD%EA%B5%90%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 288.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%EC%82%BD%EA%B5%90%EB%B0%A9%EC%A1%B0%EC%A0%9C_2025.jpg"
+    },
+    {
+      "name": "왜목마을",
+      "lat": 36.9219787,
+      "lng": 126.6064996,
+      "category": "마을/일출",
+      "description": "왜목마을은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 46.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Carousel.jpg"
+    },
+    {
+      "name": "당진시청",
+      "lat": 36.8899526,
+      "lng": 126.6457659,
+      "category": "행정/랜드마크",
+      "description": "당진시청은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 315.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Dangjin_City_Hall.JPG/1280px-Dangjin_City_Hall.JPG"
+    },
+    {
+      "name": "당진시장",
+      "lat": 36.8880287,
+      "lng": 126.6262114,
+      "category": "시장/먹거리",
+      "description": "당진시장은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 335.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dangjin_Bus_16-1.JPG"
+    },
+    {
+      "name": "현대제철 당진제철소",
+      "lat": 36.9761796,
+      "lng": 126.6951681,
+      "category": "산업/철강",
+      "description": "현대제철 당진제철소은(는) 충청남도 당진시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%EC%A7%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 232.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/20110201_hyundai_motor_group.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "당진 도심 하이라이트 시그니처 스카이 투어",
+      "description": "왜목마을 → 당진시장 → 당진시청 → 현대제철 당진제철소 → 삽교호 순으로 이어지는 충청남도 당진시의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "왜목마을",
+        "당진시장",
+        "당진시청",
+        "현대제철 당진제철소",
+        "삽교호"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "당진 도심 하이라이트 스카이 투어",
+      "description": "왜목마을 → 당진시장 → 당진시청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 당진의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "왜목마을",
+        "당진시장",
+        "당진시청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "당진 자연 힐링 스카이 워크",
+      "description": "삽교호 → 당진시청 → 현대제철 당진제철소 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 당진의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "삽교호",
+        "당진시청",
+        "현대제철 당진제철소"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "당진 할매집",
+      "lat": 36.887819,
+      "lng": 126.626911,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "당진 솥뚜껑가게",
+      "lat": 36.888519,
+      "lng": 126.626771,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "당진 골목식당",
+      "lat": 36.887329,
+      "lng": 126.626911,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "삽교호",
+        "station_name": "삽교호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.861257,
+          126.833786
+        ]
+      },
+      {
+        "target_landmark": "왜목마을",
+        "station_name": "당진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.923979,
+          126.6085
+        ]
+      },
+      {
+        "target_landmark": "당진시청",
+        "station_name": "당진시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.889153,
+          126.643366
+        ]
+      },
+      {
+        "target_landmark": "당진시장",
+        "station_name": "당진시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.887229,
+          126.623811
+        ]
+      },
+      {
+        "target_landmark": "현대제철 당진제철소",
+        "station_name": "현대제철 당진제철소 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.97538,
+          126.692768
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "당진 중앙 공영주차장",
+        "coordinates": [
+          36.923979,
+          126.6049
+        ],
+        "capacity": 233,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "당진 제2 공영주차장",
+        "coordinates": [
+          36.887629,
+          126.624211
+        ],
+        "capacity": 290,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "당진초등학교 운동장",
+        "coordinates": [
+          36.836894,
+          126.777447
+        ],
+        "capacity": 1200,
+        "address": "충청남도 당진시"
+      },
+      {
+        "name": "당진실내체육관",
+        "coordinates": [
+          36.930105,
+          126.646864
+        ],
+        "capacity": 1000,
+        "address": "충청남도 당진시"
+      },
+      {
+        "name": "당진중앙공원 비상집합장소",
+        "coordinates": [
+          36.9018,
+          126.623548
+        ],
+        "capacity": 3000,
+        "address": "충청남도 당진시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "삽교호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "왜목마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "당진시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "당진시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "현대제철 당진제철소",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "삽교호 봄",
+        "왜목마을 봄 바다"
+      ],
+      "summer": [
+        "삽교호 여름",
+        "왜목마을 여름"
+      ],
+      "autumn": [
+        "삽교호 갈대",
+        "왜목마을 가을"
+      ],
+      "winter": [
+        "왜목마을 해맞이",
+        "삽교호 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "삽교호 야경",
+        "coordinates": [
+          36.862057,
+          126.836186
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "왜목마을 야경",
+        "coordinates": [
+          36.921979,
+          126.6065
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "당진시는 삽교호와 왜목마을, 도비도? 아니라 현대제철이 자리한 충남 서해안 산업·관광 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dangjin-si, Chungnam",
+      "landmarks": {
+        "삽교호": [
+          "Sapgyoho Lake",
+          "Signature lake attraction of Dangjin-si, Chungnam."
+        ],
+        "왜목마을": [
+          "Waemok Village",
+          "Signature sunrise village attraction of Dangjin-si, Chungnam."
+        ],
+        "당진시청": [
+          "Dangjin City Hall",
+          "Administrative center of Dangjin-si, Chungnam."
+        ],
+        "당진시장": [
+          "Dangjin Market",
+          "Signature market attraction of Dangjin-si, Chungnam."
+        ],
+        "현대제철 당진제철소": [
+          "Hyundai Steel Dangjin Works",
+          "Signature steel industry attraction of Dangjin-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 唐津市",
+      "landmarks": {
+        "삽교호": [
+          "挿橋湖",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "왜목마을": [
+          "倭木村",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "당진시청": [
+          "唐津市庁",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "당진시장": [
+          "唐津市場",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "현대제철 당진제철소": [
+          "現代製鉄唐津製鉄所",
+          "忠清南道唐津市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 唐津市",
+      "landmarks": {
+        "삽교호": [
+          "挢桥湖",
+          "忠清南道唐津市的代表性湖泊。"
+        ],
+        "왜목마을": [
+          "倭木村",
+          "忠清南道唐津市的代表性日出村落。"
+        ],
+        "당진시청": [
+          "唐津市厅",
+          "忠清南道唐津市的行政中心。"
+        ],
+        "당진시장": [
+          "唐津市场",
+          "忠清南道唐津市的代表性市场。"
+        ],
+        "현대제철 당진제철소": [
+          "现代制铁唐津钢铁厂",
+          "忠清南道唐津市的代表性钢铁工业地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dangjin.go.kr",
+    "civil_service_center": {
+      "location_name": "당진시청 민원실 앞",
+      "coordinates": [
+        126.642328,
+        36.89102
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "041-350-3114",
+      "info": "충청남도 당진시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "당진시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.6065,
+      36.922279
+    ],
+    "cctv_zone_count": 455,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "당진 시민공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "기지시줄다리기 축제",
+    "typical_month": 4,
+    "venue_name": "당진시청 앞 광장",
+    "venue_coords": [
+      126.6064,
+      36.921379
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "당진시 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.641428,
+      36.89272
+    ],
+    "reservation_url": "https://www.dangjin.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "당진시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.643328,
+      36.89292
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "당진시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.642728,
+      36.89302
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "당진 할매집",
+    "coordinates": [
+      126.626911,
+      36.887819
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "아구찜 (당진시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=당진시청&goalx=126.642328&goaly=36.891020",
+    "kakaonavi_url": "kakaonavi://navigate?name=당진시청&x=126.642328&y=36.891020&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=당진시청&dlng=126.642328&dlat=36.891020&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:37",
+      "sunset": "18:45",
+      "noon_altitude_deg": 53.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:14",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:22",
+      "sunset": "18:30",
+      "noon_altitude_deg": 53.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:21",
+      "noon_altitude_deg": 29.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "당진시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.6061,
+          36.922029
+        ],
+        [
+          126.6065,
+          36.922279
+        ],
+        [
+          126.606,
+          36.921979
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "당진시 중심상업거리",
+    "anchor_center": [
+      126.644328,
+      36.891753
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 350,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
