@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangpyeong-gun, Gyeonggi",
+      "landmarks": {
+        "두물머리": [
+          "Dumulmeori",
+          "Where the North and South Han rivers meet to form the Han River, a beloved landmark famous as a drama site."
+        ],
+        "양수리": [
+          "Yangsu-ri",
+          "Riverine triangle near Dumulmeori, famous as a drama site and sunset spot."
+        ],
+        "용문사": [
+          "Yongmunsa Temple",
+          "Large temple at the foot of Yongmunsan, with historic royal patronage from the Joseon court."
+        ],
+        "양평역": [
+          "Yangpyeong Station",
+          "Jungang Line station preserving old station culture as a local hub."
+        ],
+        "소싸울너른공원": [
+          "Sossaulneoreun Park",
+          "Historic park on the site of the Joseon-Later Jin battle of Sossaul."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 揚平郡",
+      "landmarks": {
+        "두물머리": [
+          "ドゥルモリ",
+          "北漢江と南漢江が出会い漢江となる地点。ドラマ撮影地として有名な国民的名所。"
+        ],
+        "양수리": [
+          "両水里",
+          "ドゥルモリ近くの南漢江・北漢江の三角州。ドラマ撮影地と夕景の名所。"
+        ],
+        "용문사": [
+          "龍門寺",
+          "龍門山のふもとにある大型寺院。朝鮮王朝の後援を受けた由緒ある寺。"
+        ],
+        "양평역": [
+          "揚平駅",
+          "中央線の駅。旧駅舎の文化が保存された地域の中心地。"
+        ],
+        "소싸울너른공원": [
+          "ソッサウル公園",
+          "朝鮮と後金のソッサウル戦が起きた地域に造られた歴史公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 扬平郡",
+      "landmarks": {
+        "두물머리": [
+          "两水头",
+          "北汉江与南汉江交汇成汉江之处，因影视剧取景闻名的国民名胜。"
+        ],
+        "양수리": [
+          "两水里",
+          "两水头附近的南汉江北汉江三角洲，影视取景地和日落名胜。"
+        ],
+        "용문사": [
+          "龙门寺",
+          "龙门山麓的大型寺院，曾受朝鲜朝廷庇佑的古刹。"
+        ],
+        "양평역": [
+          "扬平站",
+          "中央线的铁路车站，保留旧站舍文化的地方中心。"
+        ],
+        "소싸울너른공원": [
+          "沙尔宽公园",
+          "建于朝鲜与后金沙尔宽之战旧址的历史公园。"
+        ]
+      }
+    }
   }
 }
