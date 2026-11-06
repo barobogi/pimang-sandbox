@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangsan-gu, Gwangju",
+      "landmarks": {
+        "첨단지구": [
+          "Cheomdan District",
+          "Signature new town district of Gwangsan-gu."
+        ],
+        "송정역 상권": [
+          "Songjeong Station District",
+          "Commercial hub centered on Songjeong Station."
+        ],
+        "백호생태공원": [
+          "Baekho Ecological Park",
+          "Signature ecological park of Gwangsan-gu."
+        ],
+        "우수영공원": [
+          "Usuyeong Park",
+          "Signature park of Gwangsan-gu."
+        ],
+        "수완지구": [
+          "Suwan District",
+          "Signature residential new town of Gwangsan-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "光州広域市 光山区",
+      "landmarks": {
+        "첨단지구": [
+          "尖端地区",
+          "光山区を代表する新都市商圏。"
+        ],
+        "송정역 상권": [
+          "松汀駅商圏",
+          "松汀駅を中心とする代表的な商圏。"
+        ],
+        "백호생태공원": [
+          "白湖生態公園",
+          "光山区を代表する生態公園。"
+        ],
+        "우수영공원": [
+          "牛秀永公園",
+          "光山区を代表する公園。"
+        ],
+        "수완지구": [
+          "秀巌地区",
+          "光山区を代表する住宅新都市。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "光州广域市 光山区",
+      "landmarks": {
+        "첨단지구": [
+          "尖端地区",
+          "光山区代表性的新城商圈。"
+        ],
+        "송정역 상권": [
+          "松汀站商圈",
+          "以松汀站为中心的代表性商圈。"
+        ],
+        "백호생태공원": [
+          "白湖生态公园",
+          "光山区的代表性生态公园。"
+        ],
+        "우수영공원": [
+          "牛秀永公园",
+          "光山区的代表性公园。"
+        ],
+        "수완지구": [
+          "秀岩地区",
+          "光山区代表性的居住新城。"
+        ]
+      }
+    }
   }
 }
