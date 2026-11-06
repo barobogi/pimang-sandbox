@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금강산전망대",
+        "station_name": "금강산전망대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.599974,
+          128.350042
+        ]
+      },
+      {
+        "target_landmark": "화진포",
+        "station_name": "화진포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.451036,
+          128.439188
+        ]
+      },
+      {
+        "target_landmark": "선인장온천",
+        "station_name": "선인장온천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.2112,
+          128.3984
+        ]
+      },
+      {
+        "target_landmark": "고성수복기념관",
+        "station_name": "고성수복기념관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.2612,
+          128.3784
+        ]
+      },
+      {
+        "target_landmark": "간성성당",
+        "station_name": "고성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.376762,
+          128.467759
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "고성 중앙 공영주차장",
+        "coordinates": [
+          38.380762,
+          128.466959
+        ],
+        "capacity": 125,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "고성 제2 공영주차장",
+        "coordinates": [
+          38.449836,
+          128.439988
+        ],
+        "capacity": 248,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "고성군은 간성이 옛 이름인 강원 동북부의 군으로 금강산전망대와 화진포 등 DMZ·동해 관광 자원과 함께 옛 금강산 관광의 관문이었다.",
   "data_sources": [
     {
