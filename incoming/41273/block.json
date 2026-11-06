@@ -353,6 +353,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -478,5 +483,48 @@
       126.560853,
       37.210888
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "단원구민체육관",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.809359,
+      37.317575
+    ],
+    "reservation_url": "https://www.danwon-gu.iansan.net"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "단원구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.811959,
+      37.320575
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "단원구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.811059,
+      37.318175
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "와동 상권 가마솥밥가",
+    "coordinates": [
+      126.81042,
+      37.31242
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (단원구 지정 모범음식점)"
   }
 }
