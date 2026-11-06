@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "계룡대",
+        "station_name": "계룡대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.309042,
+          127.219794
+        ]
+      },
+      {
+        "target_landmark": "계룡산",
+        "station_name": "계룡산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.343233,
+          127.203581
+        ]
+      },
+      {
+        "target_landmark": "계룡시청",
+        "station_name": "계룡버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.273267,
+          127.248919
+        ]
+      },
+      {
+        "target_landmark": "계룡시장",
+        "station_name": "계룡버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 33,
+        "coordinates": [
+          36.273267,
+          127.248919
+        ]
+      },
+      {
+        "target_landmark": "계룡문화예술의전당",
+        "station_name": "계룡버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 19,
+        "coordinates": [
+          36.273267,
+          127.248919
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "계룡 중앙 공영주차장",
+        "coordinates": [
+          36.276867,
+          127.250519
+        ],
+        "capacity": 114,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "계룡 제2 공영주차장",
+        "coordinates": [
+          36.274094,
+          127.234527
+        ],
+        "capacity": 144,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "계룡시는 대한민국 국군의 3군 본부가 자리한 군사 도시로 계룡산 자락의 계획 도시이다.",
   "data_sources": [
     {
