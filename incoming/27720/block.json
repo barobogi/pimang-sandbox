@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "군위초등학교 운동장",
+        "coordinates": [
+          35.885022,
+          128.623019
+        ],
+        "capacity": 5200,
+        "address": "대구광역시 군위군"
+      },
+      {
+        "name": "군위실내체육관",
+        "coordinates": [
+          35.942872,
+          128.588436
+        ],
+        "capacity": 7500,
+        "address": "대구광역시 군위군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "병암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화수서원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼형제봉",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고정산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "군위문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "대구 군위군은 2023년 경북에서 대구로 편입된 군으로 병암과 화수서원, 삼형제봉 등의 문화·자연 명소가 함께한 내륙 군이다.",
   "data_sources": [
     {
