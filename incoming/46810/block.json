@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangjin-gun, Jeonnam",
+      "landmarks": {
+        "다산초당": [
+          "Dasan Chodang Hut",
+          "Historic site of scholar Jeong Yak-yong's exile."
+        ],
+        "백련사": [
+          "Baengnyeonsa Temple",
+          "Signature temple heritage of Gangjin-gun, Jeonnam."
+        ],
+        "강진만": [
+          "Gangjin Bay",
+          "Signature bay attraction of Gangjin-gun, Jeonnam."
+        ],
+        "강진군청": [
+          "Gangjin County Office",
+          "Administrative center of Gangjin-gun, Jeonnam."
+        ],
+        "강진시장": [
+          "Gangjin Market",
+          "Signature market attraction of Gangjin-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 康津郡",
+      "landmarks": {
+        "다산초당": [
+          "茶山草堂",
+          "全羅南道康津郡を代表する名所。"
+        ],
+        "백련사": [
+          "白蓮寺",
+          "全羅南道康津郡を代表する名所。"
+        ],
+        "강진만": [
+          "康津湾",
+          "全羅南道康津郡を代表する名所。"
+        ],
+        "강진군청": [
+          "康津郡庁",
+          "全羅南道康津郡を代表する名所。"
+        ],
+        "강진시장": [
+          "康津市場",
+          "全羅南道康津郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 康津郡",
+      "landmarks": {
+        "다산초당": [
+          "茶山草堂",
+          "全罗南道康津郡的代表性历史遗迹。"
+        ],
+        "백련사": [
+          "白莲寺",
+          "全罗南道康津郡的代表性古刹。"
+        ],
+        "강진만": [
+          "康津湾",
+          "全罗南道康津郡的代表性海湾。"
+        ],
+        "강진군청": [
+          "康津郡厅",
+          "全罗南道康津郡的行政中心。"
+        ],
+        "강진시장": [
+          "康津市场",
+          "全罗南道康津郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
