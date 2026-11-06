@@ -140,6 +140,96 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "국립서울현충원",
+        "station_name": "노들역",
+        "line": "서울 9호선",
+        "exit_no": 9,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.5057,
+          126.9703
+        ]
+      },
+      {
+        "target_landmark": "노량진수산시장",
+        "station_name": "노들역",
+        "line": "서울 9호선",
+        "exit_no": 9,
+        "walk_minutes": 43,
+        "coordinates": [
+          37.5057,
+          126.9703
+        ]
+      },
+      {
+        "target_landmark": "중앙대학교",
+        "station_name": "노들역",
+        "line": "서울 9호선",
+        "exit_no": 9,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.5057,
+          126.9703
+        ]
+      },
+      {
+        "target_landmark": "노들섬",
+        "station_name": "노들역",
+        "line": "서울 9호선",
+        "exit_no": 9,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.5057,
+          126.9703
+        ]
+      },
+      {
+        "target_landmark": "보라매공원",
+        "station_name": "보라매공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.492042,
+          126.918074
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동작 중앙 공영주차장",
+        "coordinates": [
+          37.514316,
+          126.936937
+        ],
+        "capacity": 42,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동작 제2 공영주차장",
+        "coordinates": [
+          37.507618,
+          126.961669
+        ],
+        "capacity": 183,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동작 제3 공영주차장",
+        "coordinates": [
+          37.495242,
+          126.921674
+        ],
+        "capacity": 514,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "동작구는 노량진 수산시장과 국립서울현충원, 중앙대학교가 자리한 서울 남부의 자치구로 한강 노들섬과 보라매공원 등 생활 문화 공간이 발달했다.",
   "data_sources": [
     {
