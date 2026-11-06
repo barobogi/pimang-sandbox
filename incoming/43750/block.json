@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "좌구산 봄 진달래",
+        "삼기저수지 봄"
+      ],
+      "summer": [
+        "좌구산천문대 여름",
+        "삼기저수지 여름"
+      ],
+      "autumn": [
+        "좌구산 단풍",
+        "증평시장 가을"
+      ],
+      "winter": [
+        "좌구산천문대 겨울 별빛",
+        "좌구산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "좌구산천문대 야경",
+        "coordinates": [
+          36.703656,
+          127.653153
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "좌구산 야경",
+        "coordinates": [
+          36.71623,
+          127.663075
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "증평군은 좌구산 천문대와 삼기저수지가 자리한 충북 중부의 군이다.",
   "data_sources": [
     {
