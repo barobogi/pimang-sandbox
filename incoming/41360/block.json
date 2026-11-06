@@ -240,6 +240,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남양주초등학교 운동장",
+        "coordinates": [
+          37.602971,
+          127.182866
+        ],
+        "capacity": 7400,
+        "address": "경기도 남양주시"
+      },
+      {
+        "name": "남양주실내체육관",
+        "coordinates": [
+          37.554107,
+          127.306931
+        ],
+        "capacity": 6400,
+        "address": "경기도 남양주시"
+      },
+      {
+        "name": "남양주중앙공원 비상집합장소",
+        "coordinates": [
+          37.641547,
+          127.10844
+        ],
+        "capacity": 1900,
+        "address": "경기도 남양주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "다산신도시",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "남한강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "별내신도시",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "마석역 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사릉역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "남양주시는 남한강과 북한강이 흐르는 경기 동부 최대의 도시로 다산·별내 신도시와 경춘선이 함께한다.",
   "data_sources": [
     {
