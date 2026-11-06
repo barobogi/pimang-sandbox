@@ -433,10 +433,11 @@
     "civil_service_center": {
       "location_name": "울릉군청 민원실 앞",
       "coordinates": [
-        131.257531,
-        37.395698
+        130.905782,
+        37.484419
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "054-791-2191",
