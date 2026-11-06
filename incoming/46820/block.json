@@ -1,0 +1,590 @@
+{
+  "block_code": "46820",
+  "block_name": "전라남도 해남군",
+  "bbox": [
+    126.220987,
+    34.286226,
+    126.742573,
+    34.772368
+  ],
+  "center": [
+    34.529297,
+    126.48178
+  ],
+  "landmarks": [
+    {
+      "name": "땅끝마을",
+      "lat": 34.3001266,
+      "lng": 126.5270909,
+      "category": "마을/관광",
+      "description": "한반도 최남단의 마을로 땅끝기념비와 맴섬 일출로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%95%85%EB%81%9D%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 350.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Korea-Ttangkkeut-01.jpg/1280px-Korea-Ttangkkeut-01.jpg"
+    },
+    {
+      "name": "대흥사",
+      "lat": 34.4763626,
+      "lng": 126.6159543,
+      "category": "사찰/문화유산",
+      "description": "백제 시대 창건된 두륜산의 대표 사찰로 사적 제508호 명승이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%9D%A5%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 295.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daeheungsa_11-03896.JPG"
+    },
+    {
+      "name": "황산공원",
+      "lat": 34.582,
+      "lng": 126.604,
+      "category": "공원/경승지",
+      "description": "해남의 진산 황산 자락의 대표 경승지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 242.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg"
+    },
+    {
+      "name": "미황사",
+      "lat": 34.3825907,
+      "lng": 126.5775436,
+      "category": "사찰/문화유산",
+      "description": "달마산 자락의 유서 깊은 사찰로 대웅전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%ED%99%A9%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 331.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mihwangsa_11-03714.JPG"
+    },
+    {
+      "name": "설아다원",
+      "lat": 34.635,
+      "lng": 126.615,
+      "category": "녹차밭/관광",
+      "description": "유기농 녹차밭 테마 관광지로 차 체험과 한옥스테이가 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%82%A8%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 226.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cosmic_Girls_Nam_Da-won_at_KCON_17_LA_P1030285_%2836810271345%29.jpg/1280px-Cosmic_Girls_Nam_Da-won_at_KCON_17_LA_P1030285_%2836810271345%29.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "해남 역사·문화 시그니처 스카이 트레일",
+      "description": "황산공원 → 설아다원 → 대흥사 → 미황사 → 땅끝마을 순으로 이어지는 전라남도 해남군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "황산공원",
+        "설아다원",
+        "대흥사",
+        "미황사",
+        "땅끝마을"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "해남 세월을 나는 문화유산 플라이트",
+      "description": "미황사 → 대흥사 → 황산공원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 해남의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "미황사",
+        "대흥사",
+        "황산공원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "해남 도심 스카이라인 크루즈",
+      "description": "땅끝마을 → 미황사 → 설아다원 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 해남의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "땅끝마을",
+        "미황사",
+        "설아다원"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "황산공원 동네밥집",
+      "lat": 34.58228,
+      "lng": 126.60414,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "대흥사 골목식당",
+      "lat": 34.475803,
+      "lng": 126.615324,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "설아다원 가마솥밥가",
+      "lat": 34.63535,
+      "lng": 126.61444,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "미황사 동네밥집",
+      "lat": 34.382101,
+      "lng": 126.577964,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "땅끝마을",
+        "station_name": "땅끝마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.297727,
+          126.525491
+        ]
+      },
+      {
+        "target_landmark": "대흥사",
+        "station_name": "대흥사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.473963,
+          126.614354
+        ]
+      },
+      {
+        "target_landmark": "황산공원",
+        "station_name": "해남버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.5828,
+          126.604
+        ]
+      },
+      {
+        "target_landmark": "미황사",
+        "station_name": "미황사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.380191,
+          126.575944
+        ]
+      },
+      {
+        "target_landmark": "설아다원",
+        "station_name": "설아다원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.6326,
+          126.6134
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "해남 중앙 공영주차장",
+        "coordinates": [
+          34.5804,
+          126.602
+        ],
+        "capacity": 267,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "해남 제2 공영주차장",
+        "coordinates": [
+          34.476363,
+          126.616754
+        ],
+        "capacity": 295,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "해남 제3 공영주차장",
+        "coordinates": [
+          34.6338,
+          126.6158
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "해남초등학교 운동장",
+        "coordinates": [
+          34.354713,
+          126.512881
+        ],
+        "capacity": 3300,
+        "address": "전라남도 해남군"
+      },
+      {
+        "name": "해남실내체육관",
+        "coordinates": [
+          34.527863,
+          126.656658
+        ],
+        "capacity": 2200,
+        "address": "전라남도 해남군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "땅끝마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대흥사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "황산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "미황사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "설아다원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "땅끝마을 봄",
+        "대흥사 봄"
+      ],
+      "summer": [
+        "땅끝마을 여름",
+        "황산공원 여름"
+      ],
+      "autumn": [
+        "대흥사 단풍",
+        "땅끝마을 가을"
+      ],
+      "winter": [
+        "땅끝마을 해맞이",
+        "대흥사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "땅끝마을 야경",
+        "coordinates": [
+          34.300127,
+          126.527091
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "황산공원 야경",
+        "coordinates": [
+          34.582,
+          126.604
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "해남군은 한반도 남쪽 끝 땅끝마을과 대흥사, 황산공원이 자리한 전남 최남단의 군으로 유서 깊은 사찰 문화와 해안 자연이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Haenam-gun, Jeonnam",
+      "landmarks": {
+        "땅끝마을": [
+          "Ttangkkeut Village",
+          "Village at the Korean Peninsula's southern tip, famed for the Ttangkkeut monument and Mae Island sunrise."
+        ],
+        "대흥사": [
+          "Daeheungsa Temple",
+          "Baekje-era temple on Duryunsan, a Historic Site and Scenic Spot No. 508."
+        ],
+        "황산공원": [
+          "Hwangsan Park",
+          "Scenic park at the foot of Hwangsan, Haenam's home mountain."
+        ],
+        "미황사": [
+          "Mihwangsa Temple",
+          "Historic temple at the foot of Dalmasan, famed for its Daeungjeon Hall."
+        ],
+        "설아다원": [
+          "Seora Dawon Tea Plantation",
+          "Organic green tea farm attraction with tea experiences and hanok stays."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 海南郡",
+      "landmarks": {
+        "땅끝마을": [
+          "タンッット村",
+          "韓半島最南端の村。タヌッキト記念碑とメ島の日の出で有名。"
+        ],
+        "대흥사": [
+          "大興寺",
+          "百済時代に創建された頭輪山の代表的な寺。史跡第508号名勝。"
+        ],
+        "황산공원": [
+          "黄山公園",
+          "海南の鎮山・黄山のふもとの代表的な名勝。"
+        ],
+        "미황사": [
+          "美黄寺",
+          "達摩山のふもとの由緒ある寺。大雄殿が有名。"
+        ],
+        "설아다원": [
+          "雪亜茶園",
+          "有機緑茶畑のテーマ観光地。茶の体験と韓屋ステイが楽しめる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 海南郡",
+      "landmarks": {
+        "땅끝마을": [
+          "土地尽头村",
+          "朝鲜半岛最南端村落，以尽头碑和末岛日出闻名。"
+        ],
+        "대흥사": [
+          "大兴寺",
+          "百济时代创建的头轮山名刹，史迹第508号名胜。"
+        ],
+        "황산공원": [
+          "黄山公园",
+          "海南主山黄山麓的代表性胜景。"
+        ],
+        "미황사": [
+          "美黄寺",
+          "达摩山麓的古刹，以大雄殿闻名。"
+        ],
+        "설아다원": [
+          "雪雅茶园",
+          "有机绿茶田主题景区，可体验茶艺和韩屋住宿。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.haenam.go.kr",
+    "civil_service_center": {
+      "location_name": "해남군청 민원실 앞",
+      "coordinates": [
+        126.599401,
+        34.573917
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-530-5114",
+      "info": "전라남도 해남군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "해남군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.48178,
+      34.529097
+    ],
+    "cctv_zone_count": 513,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "해남군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "땅끝 해넘이·해맞이축제",
+    "typical_month": 12,
+    "venue_name": "해남군민운동장",
+    "venue_coords": [
+      126.48188,
+      34.529397
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "해남군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.598101,
+      34.573717
+    ],
+    "reservation_url": "https://www.haenam.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "해남군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.601201,
+      34.573817
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "해남군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.600401,
+      34.572517
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "설아다원 가마솥밥가",
+    "coordinates": [
+      126.61444,
+      34.63535
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "돔베고기 (해남군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=해남군청&goalx=126.599401&goaly=34.573917",
+    "kakaonavi_url": "kakaonavi://navigate?name=해남군청&x=126.599401&y=34.573917&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=해남군청&dlng=126.599401&dlat=34.573917&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:38",
+      "sunset": "18:46",
+      "noon_altitude_deg": 55.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:22",
+      "sunset": "19:50",
+      "noon_altitude_deg": 78.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:23",
+      "sunset": "18:31",
+      "noon_altitude_deg": 55.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:28",
+      "noon_altitude_deg": 32.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "해남군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.48163,
+          34.528347
+        ],
+        [
+          126.48178,
+          34.529097
+        ],
+        [
+          126.48283,
+          34.529347
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "해남군 전통시장 만남의거리",
+    "anchor_center": [
+      126.598734,
+      34.575184
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 20,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
