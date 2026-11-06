@@ -364,5 +364,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongnae-gu, Busan",
+      "landmarks": {
+        "동래읍성": [
+          "Dongnae Eupseong Fortress",
+          "Joseon-era town fortress of Dongnae, bearing the scars of the Imjin War."
+        ],
+        "충렬사": [
+          "Chungnyeolsa Shrine",
+          "Historic shrine honoring loyal defenders who fell in the Battle of Dongnaesong."
+        ],
+        "온천천벚꽃길": [
+          "Oncheoncheon Cherry Blossom Trail",
+          "Cherry and canola flower walkway along Oncheoncheon, Busan's signature spring scene."
+        ],
+        "복천동고분군": [
+          "Bokcheondong Gobungun Tombs",
+          "Cluster of Gaya-era tombs from the Three Kingdoms period, home to the Bokcheon Museum."
+        ],
+        "금강공원": [
+          "Geumgang Park",
+          "Park in the Dongnae hot spring district with the Geumgang Botanical Garden."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 東萊区",
+      "landmarks": {
+        "동래읍성": [
+          "東莱邑城",
+          "朝鮮時代の東莱府の邑城。壬辰倭乱の歴史を今に伝える。"
+        ],
+        "충렬사": [
+          "忠烈祠",
+          "壬辰倭乱の東莱城の戦いで殉国した忠臣を顕彰する史跡。"
+        ],
+        "온천천벚꽃길": [
+          "温泉川桜並木",
+          "温泉川沿いに広がる桜・菜の花の散歩道で、釜山を代表する春の花の名所。"
+        ],
+        "복천동고분군": [
+          "福泉洞古墳群",
+          "三国時代の伽耶墳墓群で、福泉博物館が併設されている。"
+        ],
+        "금강공원": [
+          "金剛公園",
+          "東莱温泉・温泉洞一帯の公園で、金剛植物園が併設されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 东莱区",
+      "landmarks": {
+        "동래읍성": [
+          "东莱邑城",
+          "朝鲜时代东莱府的城邑，留有壬辰倭乱的历史记忆。"
+        ],
+        "충렬사": [
+          "忠烈祠",
+          "纪念壬辰倭乱东莱城之战殉国忠烈的史迹祠堂。"
+        ],
+        "온천천벚꽃길": [
+          "温泉川樱花路",
+          "沿温泉川铺展的樱花油菜花步道，釜山代表性春景。"
+        ],
+        "복천동고분군": [
+          "福泉洞古坟群",
+          "三国时代伽耶墓葬群，旁设福泉博物馆。"
+        ],
+        "금강공원": [
+          "金刚公园",
+          "位于东莱温泉温泉洞一带，园内有金刚植物园。"
+        ]
+      }
+    }
   }
 }
