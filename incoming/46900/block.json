@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "진도대교 봄",
+        "운림산방 봄"
+      ],
+      "summer": [
+        "진도대교 여름",
+        "진도개테마파크 여름"
+      ],
+      "autumn": [
+        "운림산방 단풍",
+        "진도대교 가을"
+      ],
+      "winter": [
+        "진도대교 설경",
+        "진도시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "진도대교 야경",
+        "coordinates": [
+          34.57168,
+          126.30507
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "운림산방 야경",
+        "coordinates": [
+          34.466193,
+          126.307955
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "진도군은 진도대교와 운림산방, 진도개로 유명한 전남 서남단의 섬 군이다.",
   "data_sources": [
     {
