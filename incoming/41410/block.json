@@ -355,5 +355,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gunpo-si, Gyeonggi",
+      "landmarks": {
+        "수리산": [
+          "Surisan Mountain",
+          "Gunpo's signature mountain with Surisan Park."
+        ],
+        "군포문화예술회관": [
+          "Gunpo Arts Center",
+          "Gunpo's leading performance and exhibition venue."
+        ],
+        "금산동 상권": [
+          "Geumsan-dong District",
+          "Commercial hub of Gunpo in Geumsan-dong."
+        ],
+        "당정동 상권": [
+          "Dangjeong-dong District",
+          "Everyday commercial hub in Dangjeong-dong."
+        ],
+        "군포공원": [
+          "Gunpo Park",
+          "Signature neighborhood park of Gunpo."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 軍浦市",
+      "landmarks": {
+        "수리산": [
+          "水落山",
+          "軍浦を代表する山。水落山公園が造成された名山。"
+        ],
+        "군포문화예술회관": [
+          "軍浦文化芸術会館",
+          "軍浦を代表する公演・展示施設。"
+        ],
+        "금산동 상권": [
+          "金山洞商圏",
+          "金山洞に形成された軍浦を代表する商圏。"
+        ],
+        "당정동 상권": [
+          "堂井洞商圏",
+          "堂井洞に形成された代表的な生活商圏。"
+        ],
+        "군포공원": [
+          "軍浦公園",
+          "軍浦を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 军浦市",
+      "landmarks": {
+        "수리산": [
+          "水落山",
+          "军浦的代表名山，建有水落山公园。"
+        ],
+        "군포문화예술회관": [
+          "军浦文化艺术会馆",
+          "军浦代表性的演出展览场馆。"
+        ],
+        "금산동 상권": [
+          "金山洞商圈",
+          "金山洞形成的军浦代表性商圈。"
+        ],
+        "당정동 상권": [
+          "堂井洞商圈",
+          "堂井洞形成的代表性生活商圈。"
+        ],
+        "군포공원": [
+          "军浦公园",
+          "军浦的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
