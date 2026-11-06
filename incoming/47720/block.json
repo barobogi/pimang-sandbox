@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "군위초등학교 운동장",
+        "coordinates": [
+          36.01119,
+          128.993242
+        ],
+        "capacity": 1800,
+        "address": "경상북도 군위군"
+      },
+      {
+        "name": "군위실내체육관",
+        "coordinates": [
+          36.222393,
+          128.949029
+        ],
+        "capacity": 6400,
+        "address": "경상북도 군위군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "군위삼존석굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "팔공산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화본역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "군위군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "군위시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "군위군은 팔공산과 삼존석굴, 군위 화본? 아니라 화본역이 자리한 경북 중부의 군이다.",
   "data_sources": [
     {
