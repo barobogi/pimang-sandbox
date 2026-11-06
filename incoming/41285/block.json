@@ -230,6 +230,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "일산동초등학교 운동장",
+        "coordinates": [
+          37.649263,
+          126.774724
+        ],
+        "capacity": 4800,
+        "address": "경기도 고양시 일산동구"
+      },
+      {
+        "name": "일산동실내체육관",
+        "coordinates": [
+          37.660462,
+          126.73788
+        ],
+        "capacity": 2900,
+        "address": "경기도 고양시 일산동구"
+      },
+      {
+        "name": "일산동중앙공원 비상집합장소",
+        "coordinates": [
+          37.670482,
+          126.757146
+        ],
+        "capacity": 1300,
+        "address": "경기도 고양시 일산동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "일산호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "킨텍스",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정발산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "라페스타",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "중산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "일산동구는 2003년 고양시 구제 실시로 만들어진 구로 일산 호수공원과 킨텍스, 정발산 등 대규모 문화·전시 시설이 입지한 경기 북부 신도시 중심지이다.",
   "data_sources": [
     {
