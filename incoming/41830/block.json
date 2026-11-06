@@ -342,6 +342,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -467,5 +472,48 @@
       127.573856,
       37.518908
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "양평군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.486206,
+      37.492174
+    ],
+    "reservation_url": "https://www.yp21.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "양평군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.487206,
+      37.491674
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "양평군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.489106,
+      37.490474
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "소싸울너른공원 가마솥밥가",
+    "coordinates": [
+      127.3004,
+      37.51
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "유과 (양평군 지정 모범음식점)"
   }
 }
