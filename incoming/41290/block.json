@@ -354,5 +354,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwacheon-si, Gyeonggi",
+      "landmarks": {
+        "국립과천과학관": [
+          "Gwacheon National Science Museum",
+          "Korea's flagship science museum."
+        ],
+        "서울대공원": [
+          "Seoul Grand Park",
+          "Signature leisure park combining a large zoo and amusement park."
+        ],
+        "정부과천청사": [
+          "Gwacheon Government Complex",
+          "Former central government office complex."
+        ],
+        "관악산": [
+          "Gwanaksan Mountain",
+          "Signature peak on Gwacheon's northern edge."
+        ],
+        "문원동 상권": [
+          "Munwon-dong District",
+          "Everyday commercial hub across Munwon-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 果川市",
+      "landmarks": {
+        "국립과천과학관": [
+          "国立果川科学館",
+          "国内を代表する科学展示館。"
+        ],
+        "서울대공원": [
+          "ソウル大公園",
+          "大型動物園と遊園地を備えた代表的なレジャー地。"
+        ],
+        "정부과천청사": [
+          "政府果川庁舎",
+          "かつての中央政府機関の庁舎。"
+        ],
+        "관악산": [
+          "冠岳山",
+          "果川の北にある代表的な名山。"
+        ],
+        "문원동 상권": [
+          "門原洞商圏",
+          "門原洞一帯の代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 果川市",
+      "landmarks": {
+        "국립과천과학관": [
+          "国立果川科学馆",
+          "韩国代表性的科学展馆。"
+        ],
+        "서울대공원": [
+          "首尔大公园",
+          "集大型动物园和游乐园于一体的代表性园区。"
+        ],
+        "정부과천청사": [
+          "政府果川办公大楼",
+          "昔日中央政府机关的办公大楼。"
+        ],
+        "관악산": [
+          "冠岳山",
+          "果川北部的代表名山。"
+        ],
+        "문원동 상권": [
+          "门原洞商圈",
+          "门原洞一带的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
