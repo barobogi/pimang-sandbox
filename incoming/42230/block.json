@@ -1,0 +1,572 @@
+{
+  "block_code": "42230",
+  "block_name": "강원특별자치도 삼척시",
+  "bbox": [
+    128.845935,
+    37.038665,
+    129.62438,
+    37.594143
+  ],
+  "center": [
+    37.316404,
+    129.235158
+  ],
+  "landmarks": [
+    {
+      "name": "환선굴",
+      "lat": 37.3236822,
+      "lng": 129.0083356,
+      "category": "동굴/자연",
+      "description": "환선굴은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%98%EC%84%A0%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 92.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%ED%99%98%EC%84%A0%EA%B5%B4_%2892%29.JPG/1280px-%ED%99%98%EC%84%A0%EA%B5%B4_%2892%29.JPG"
+    },
+    {
+      "name": "죽서루",
+      "lat": 37.4411896,
+      "lng": 129.1609037,
+      "category": "누정/문화유산",
+      "description": "죽서루은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BD%EC%84%9C%EB%A3%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 154.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jeong_Seon-Jukseoru-2-%EC%A3%BD%EC%84%9C%EB%A3%A8.jpg"
+    },
+    {
+      "name": "맹방해수욕장",
+      "lat": 37.3905501,
+      "lng": 129.2314907,
+      "category": "해수욕장",
+      "description": "맹방해수욕장은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%99%EC%8B%9C",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 177.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Naritgol_Village.jpg/1280px-Naritgol_Village.jpg"
+    },
+    {
+      "name": "삼척시청",
+      "lat": 37.4499133,
+      "lng": 129.1651922,
+      "category": "행정/랜드마크",
+      "description": "삼척시청은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%99%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 157.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Naritgol_Village.jpg/1280px-Naritgol_Village.jpg"
+    },
+    {
+      "name": "대금굴",
+      "lat": 37.3195474,
+      "lng": 129.0174405,
+      "category": "동굴/자연",
+      "description": "대금굴은(는) 강원특별자치도 삼척시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B8%88%EA%B5%B4",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 91.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hwanseongul.jpg/1280px-Hwanseongul.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "삼척 자연 힐링 시그니처 에어리얼 투어",
+      "description": "맹방해수욕장 → 죽서루 → 삼척시청 → 대금굴 → 환선굴 순으로 이어지는 강원특별자치도 삼척시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "맹방해수욕장",
+        "죽서루",
+        "삼척시청",
+        "대금굴",
+        "환선굴"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "삼척 자연 힐링 스카이 워크",
+      "description": "환선굴 → 대금굴 → 죽서루 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 삼척의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "환선굴",
+        "대금굴",
+        "죽서루"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "맹방해수욕장 본점",
+      "lat": 37.39097,
+      "lng": 129.230931,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "죽서루 옛맛식당",
+      "lat": 37.44168,
+      "lng": 129.160554,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "삼척시청 할매집",
+      "lat": 37.450053,
+      "lng": 129.165262,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "환선굴",
+        "station_name": "환선굴 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.323282,
+          129.009536
+        ]
+      },
+      {
+        "target_landmark": "죽서루",
+        "station_name": "삼척역",
+        "line": "동해선",
+        "walk_minutes": 20,
+        "coordinates": [
+          37.4327,
+          129.1731
+        ]
+      },
+      {
+        "target_landmark": "맹방해수욕장",
+        "station_name": "맹방해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.39015,
+          129.232691
+        ]
+      },
+      {
+        "target_landmark": "삼척시청",
+        "station_name": "삼척역",
+        "line": "동해선",
+        "walk_minutes": 29,
+        "coordinates": [
+          37.4327,
+          129.1731
+        ]
+      },
+      {
+        "target_landmark": "대금굴",
+        "station_name": "대금굴 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.319147,
+          129.018641
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "삼척 중앙 공영주차장",
+        "coordinates": [
+          37.38815,
+          129.231491
+        ],
+        "capacity": 51,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "삼척 제2 공영주차장",
+        "coordinates": [
+          37.44039,
+          129.161704
+        ],
+        "capacity": 472,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "삼척 제3 공영주차장",
+        "coordinates": [
+          37.447913,
+          129.165992
+        ],
+        "capacity": 41,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "삼척초등학교 운동장",
+        "coordinates": [
+          37.397667,
+          129.085649
+        ],
+        "capacity": 2800,
+        "address": "강원특별자치도 삼척시"
+      },
+      {
+        "name": "삼척실내체육관",
+        "coordinates": [
+          37.372925,
+          129.078398
+        ],
+        "capacity": 4500,
+        "address": "강원특별자치도 삼척시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "환선굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽서루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "맹방해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼척시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대금굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "맹방해수욕장 봄 바다",
+        "죽서루 봄"
+      ],
+      "summer": [
+        "맹방해수욕장 여름",
+        "환선굴 여름"
+      ],
+      "autumn": [
+        "죽서루 단풍",
+        "환선굴 가을"
+      ],
+      "winter": [
+        "맹방해수욕장 해맞이",
+        "대금굴 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "맹방해수욕장 야경",
+        "coordinates": [
+          37.39055,
+          129.231491
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "죽서루 야경",
+        "coordinates": [
+          37.44119,
+          129.160904
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "삼척시는 동해안 최남단의 강원 도시로 환선굴과 대금굴, 죽서루, 맹방해수욕장이 대표 명소이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Samcheok-si, Gangwon",
+      "landmarks": {
+        "환선굴": [
+          "Hwanseongul Cave",
+          "Signature cave attraction of Samcheok, Gangwon."
+        ],
+        "죽서루": [
+          "Jukseoru Pavilion",
+          "Signature pavilion heritage of Samcheok, Gangwon."
+        ],
+        "맹방해수욕장": [
+          "Maengbang Beach",
+          "Signature beach attraction of Samcheok, Gangwon."
+        ],
+        "삼척시청": [
+          "Samcheok City Hall",
+          "Administrative center of Samcheok, Gangwon."
+        ],
+        "대금굴": [
+          "Daegeumgul Cave",
+          "Signature natural cave attraction of Samcheok, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 三陟市",
+      "landmarks": {
+        "환선굴": [
+          "幻仙窟",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "죽서루": [
+          "竹西楼",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "맹방해수욕장": [
+          "孟方海水浴場",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "삼척시청": [
+          "三陟市庁",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "대금굴": [
+          "大金窟",
+          "江原特別自治道三陟市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 三陟市",
+      "landmarks": {
+        "환선굴": [
+          "幻仙窟",
+          "江原特别自治道三陟市的代表性洞窟。"
+        ],
+        "죽서루": [
+          "竹西楼",
+          "江原特别自治道三陟市的代表性楼亭。"
+        ],
+        "맹방해수욕장": [
+          "孟坊海水浴场",
+          "江原特别自治道三陟市的代表性海滨。"
+        ],
+        "삼척시청": [
+          "三陟市厅",
+          "江原特别自治道三陟市的行政中心。"
+        ],
+        "대금굴": [
+          "大金窟",
+          "江原特别自治道三陟市的代表性洞窟。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.samcheok.go.kr",
+    "civil_service_center": {
+      "location_name": "삼척시청 민원실 앞",
+      "coordinates": [
+        129.165192,
+        37.449913
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-572-2011",
+      "info": "강원특별자치도 삼척시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "삼척시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.235758,
+      37.317004
+    ],
+    "cctv_zone_count": 156,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "삼척 중앙공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "삼척 다슬기축제",
+    "typical_month": 10,
+    "venue_name": "삼척 중앙시장 일대",
+    "venue_coords": [
+      129.235558,
+      37.316604
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "삼척시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      129.168092,
+      37.452613
+    ],
+    "reservation_url": "https://www.samcheok.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "삼척시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.165392,
+      37.449913
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "삼척시청 공영주차장 급속충전소",
+    "coordinates": [
+      129.168092,
+      37.450213
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "맹방해수욕장 본점",
+    "coordinates": [
+      129.230931,
+      37.39097
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (삼척시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=삼척시청&goalx=129.165192&goaly=37.449913",
+    "kakaonavi_url": "kakaonavi://navigate?name=삼척시청&x=129.165192&y=37.449913&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=삼척시청&dlng=129.165192&dlat=37.449913&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:35",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:03",
+      "sunset": "19:47",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:11",
+      "sunset": "18:20",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:34",
+      "sunset": "17:09",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "삼척시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.234858,
+          37.317754
+        ],
+        [
+          129.235758,
+          37.317004
+        ],
+        [
+          129.234658,
+          37.317404
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "삼척시 중심상업거리",
+    "anchor_center": [
+      129.164659,
+      37.44838
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 110,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
