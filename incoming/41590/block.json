@@ -356,5 +356,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hwaseong-si, Gyeonggi",
+      "landmarks": {
+        "동탄호수공원": [
+          "Dongtan Lake Park",
+          "Large park around the central lake of Dongtan New Town, a signature family destination in southern Gyeonggi."
+        ],
+        "롯데월드 어드벤처 동탄": [
+          "Lotte World Adventure Dongtan",
+          "One of Korea's largest urban theme parks, opened in 2021, Dongtan's signature attraction."
+        ],
+        "응봉산": [
+          "Eungbongsan Mountain",
+          "Mountain across Bongdam-eup with trails and valleys."
+        ],
+        "궁평항": [
+          "Gungpyeong Port",
+          "Fishing port on the Seosin coast, a West Sea favorite for rich fishing grounds."
+        ],
+        "제부도": [
+          "Jebudo Island",
+          "Island off the Seosin coast, famed for mudflat experiences and island tourism."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 華城市",
+      "landmarks": {
+        "동탄호수공원": [
+          "東灘湖公園",
+          "東灘新都市の中央の湖に造られた大型公園。京畿南部を代表する家族行楽の名所。"
+        ],
+        "롯데월드 어드벤처 동탄": [
+          "ロッテワールドアドベンチャー東灘",
+          "2021年に開業した国内最大級の都市型テーマパーク。東灘を代表する遊びの名所。"
+        ],
+        "응봉산": [
+          "鷹峰山",
+          "鳳潭邑一帯の山。鳳潭邑の登山道と渓谷が整備された名山。"
+        ],
+        "궁평항": [
+          "宮坪港",
+          "西新面の海岸にある釣りの名所。魚種が豊富な西海を代表する漁港。"
+        ],
+        "제부도": [
+          "済扶島",
+          "西新面の海岸にある島。干潟体験と島観光で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 华城市",
+      "landmarks": {
+        "동탄호수공원": [
+          "东滩湖公园",
+          "东滩新城中央湖畔的大型公园，京畿南部代表性亲子胜地。"
+        ],
+        "롯데월드 어드벤처 동탄": [
+          "乐天世界冒险乐园东滩",
+          "2021年开业的国内规模数一数二的都市型主题乐园。"
+        ],
+        "응봉산": [
+          "鹰峰山",
+          "峰滩邑一带的山，建有登山道和溪谷。"
+        ],
+        "궁평항": [
+          "宫坪港",
+          "西新面海岸的垂钓胜地，鱼产丰富的西海代表性渔港。"
+        ],
+        "제부도": [
+          "济扶岛",
+          "西新面海岸的岛屿，以滩涂体验和海岛观光闻名。"
+        ]
+      }
+    }
   }
 }
