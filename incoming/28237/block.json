@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Bupyeong-gu, Incheon",
+      "landmarks": {
+        "부평공원": [
+          "Bupyeong Park",
+          "Neighborhood park in Bupyeong-dong with a musical fountain and trails."
+        ],
+        "부평풍물거리": [
+          "Bupyeong Market Street",
+          "Food street linked to the Bupyeong underground mall, famous for spicy rice cakes and dumplings."
+        ],
+        "삼산동 쇼핑거리": [
+          "Samsan-dong Shopping Street",
+          "Youth shopping district around Samsan Gym, packed with live clubs and eateries."
+        ],
+        "굴포천": [
+          "Gulpochon Stream",
+          "Stream crossing Incheon through Bupyeong-gu, restored with riverside walking trails."
+        ],
+        "만년산근린공원": [
+          "Manyeonsan Neighborhood Park",
+          "Mountain-type neighborhood park in Manyeon-dong with hiking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 富平区",
+      "landmarks": {
+        "부평공원": [
+          "富平公園",
+          "富平洞にある近隣公園。音楽噴水と散歩道が整備された住民の憩いの場。"
+        ],
+        "부평풍물거리": [
+          "富平風物通り",
+          "富平駅の地下街とつながるグルメストリート。チョッポッキと饅頭が有名。"
+        ],
+        "삼산동 쇼핑거리": [
+          "三山洞ショッピング街",
+          "三山体育館を中心に形成された若者商圏の街。ライブクラブと飲食店が密集する。"
+        ],
+        "굴포천": [
+          "掘浦川",
+          "仁川を貫く支流。富平区を流れ掘符川と合流し、散歩道が整備された。"
+        ],
+        "만년산근린공원": [
+          "万年山近隣公園",
+          "万年洞にある山岳型近隣公園。登山道が整備された住民の名山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 富平区",
+      "landmarks": {
+        "부평공원": [
+          "富平公园",
+          "富平洞的近邻公园，配有音乐喷泉和步道。"
+        ],
+        "부평풍물거리": [
+          "富平风物街",
+          "与富平地下商街相连的美食街，以辣炒年糕和饺子闻名。"
+        ],
+        "삼산동 쇼핑거리": [
+          "三山洞购物街",
+          "以三山体育馆为中心的青年商圈，livehouse与餐厅云集。"
+        ],
+        "굴포천": [
+          "掘浦川",
+          "纵贯仁川流经富平区的河流，经整治后沿岸建有步道。"
+        ],
+        "만년산근린공원": [
+          "万年山近邻公园",
+          "万年洞的山地型近邻公园，建有登山道。"
+        ]
+      }
+    }
   }
 }
