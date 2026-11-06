@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "유학산 봄",
+        "가실성당 봄"
+      ],
+      "summer": [
+        "유학산 여름",
+        "낙동강 여름"
+      ],
+      "autumn": [
+        "유학산 단풍",
+        "낙동강 억새"
+      ],
+      "winter": [
+        "가실성당 설경",
+        "유학산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "낙동강 야경",
+        "coordinates": [
+          35.998046,
+          128.392735
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "유학산 야경",
+        "coordinates": [
+          36.06585,
+          128.504111
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "칠곡군은 가실성당과 유학산, 낙동강이 자리한 경북 중부의 군이다.",
   "data_sources": [
     {
