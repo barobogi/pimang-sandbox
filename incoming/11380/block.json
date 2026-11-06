@@ -225,6 +225,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "은평초등학교 운동장",
+        "coordinates": [
+          37.640363,
+          127.040761
+        ],
+        "capacity": 800,
+        "address": "서울특별시 은평구"
+      },
+      {
+        "name": "은평실내체육관",
+        "coordinates": [
+          37.657543,
+          127.016405
+        ],
+        "capacity": 800,
+        "address": "서울특별시 은평구"
+      },
+      {
+        "name": "은평중앙공원 비상집합장소",
+        "coordinates": [
+          37.619244,
+          126.898102
+        ],
+        "capacity": 7500,
+        "address": "서울특별시 은평구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "불암산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "북한산국립공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연신내",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "은평한옥마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "진관사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "은평구는 불암산과 북한산 사이에 자리한 서울 북서부 자치구로 연신내 상권과 은평 한옥마을이 함께한다.",
   "data_sources": [
     {
