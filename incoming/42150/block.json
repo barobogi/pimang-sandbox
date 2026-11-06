@@ -1,0 +1,598 @@
+{
+  "block_code": "42150",
+  "block_name": "강원특별자치도 강릉시",
+  "bbox": [
+    128.580361,
+    37.503296,
+    129.275749,
+    38.056217
+  ],
+  "center": [
+    37.779756,
+    128.928055
+  ],
+  "landmarks": [
+    {
+      "name": "경포해수욕장",
+      "lat": 37.8038483,
+      "lng": 128.909912,
+      "category": "해수욕장/관광",
+      "description": "동해 최고의 해수욕장으로 꼽히는 경포 관광지 중심 해변이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 149.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%EA%B2%BD%ED%8F%AC%ED%95%B4%EB%B3%80.jpg/1280px-%EA%B2%BD%ED%8F%AC%ED%95%B4%EB%B3%80.jpg"
+    },
+    {
+      "name": "오죽헌",
+      "lat": 37.7791984,
+      "lng": 128.8775127,
+      "category": "문화유산/선비",
+      "description": "신사임당과 율곡 이이가 태어난 유서 깊은 선비 문화 유적지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%A3%BD%ED%97%8C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 89.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ojukheon_sarangchae.jpg/1280px-Ojukheon_sarangchae.jpg"
+    },
+    {
+      "name": "안목해변 커피거리",
+      "lat": 37.775,
+      "lng": 128.925,
+      "category": "커피/문화",
+      "description": "대한민국 커피 문화의 발상지로 불린 안목해변의 카페 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%AA%A9%ED%95%B4%EB%B3%80",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 26.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gangneung_coffee_street.jpg/1280px-Gangneung_coffee_street.jpg"
+    },
+    {
+      "name": "쇠소깍",
+      "lat": 37.77,
+      "lng": 128.948,
+      "category": "자연/하천",
+      "description": "바다가 강과 만나 이루어진 짧은 기암 절경으로 유명한 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%87%A0%EC%86%8C%EA%B9%8D",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 301.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg/1280px-%EC%87%A0%EC%86%8C%EA%B9%8D_%287%29.jpg"
+    },
+    {
+      "name": "주문진해수욕장",
+      "lat": 37.9094238,
+      "lng": 128.821208,
+      "category": "해수욕장",
+      "description": "동해 최대 규모의 어항 주문진 항과 함께한 대표 해변 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EB%AC%B8%EC%A7%84",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 146.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%EC%A3%BC%EB%AC%B8%EC%A7%84%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5_%ED%96%A5%ED%98%B8%ED%95%B4%EB%B3%80.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "강릉 해안 절경 시그니처 드론 플라이트",
+      "description": "안목해변 커피거리 → 쇠소깍 → 경포해수욕장 → 오죽헌 → 주문진해수욕장 순으로 이어지는 강원특별자치도 강릉시의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "안목해변 커피거리",
+        "쇠소깍",
+        "경포해수욕장",
+        "오죽헌",
+        "주문진해수욕장"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "강릉 푸른 해안선 에어리얼 크루즈",
+      "description": "주문진해수욕장 → 경포해수욕장 → 안목해변 커피거리 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 강릉의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "주문진해수욕장",
+        "경포해수욕장",
+        "안목해변 커피거리"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "강릉 그린 랜드스케이프 플라이트",
+      "description": "오죽헌 → 경포해수욕장 → 쇠소깍 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 강릉의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "오죽헌",
+        "경포해수욕장",
+        "쇠소깍"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "초당순두부마을",
+      "lat": 37.783,
+      "lng": 128.906,
+      "specialty": "순두부",
+      "category": "향토음식"
+    },
+    {
+      "name": "강릉 커피거리 로스팅카페",
+      "lat": 37.772,
+      "lng": 128.935,
+      "specialty": "장칼국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "중앙시장 오겹살골목",
+      "lat": 37.752,
+      "lng": 128.897,
+      "specialty": "오겹살",
+      "category": "한식"
+    },
+    {
+      "name": "안목해변 커피거리 할매집",
+      "lat": 37.77451,
+      "lng": 128.92556,
+      "specialty": "감자전",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "경포해수욕장",
+        "station_name": "경포해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.803448,
+          128.910712
+        ]
+      },
+      {
+        "target_landmark": "오죽헌",
+        "station_name": "강릉역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 41,
+        "coordinates": [
+          37.7645,
+          128.9046
+        ]
+      },
+      {
+        "target_landmark": "안목해변 커피거리",
+        "station_name": "강릉역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 31,
+        "coordinates": [
+          37.7645,
+          128.9046
+        ]
+      },
+      {
+        "target_landmark": "쇠소깍",
+        "station_name": "쇠소깍 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.7696,
+          128.9488
+        ]
+      },
+      {
+        "target_landmark": "주문진해수욕장",
+        "station_name": "주문진해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.909024,
+          128.822008
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강릉 중앙 공영주차장",
+        "coordinates": [
+          37.773,
+          128.9242
+        ],
+        "capacity": 434,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "강릉 제2 공영주차장",
+        "coordinates": [
+          37.772,
+          128.9472
+        ],
+        "capacity": 449,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "강릉 제3 공영주차장",
+        "coordinates": [
+          37.803048,
+          128.908312
+        ],
+        "capacity": 429,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강릉초등학교 운동장",
+        "coordinates": [
+          37.742503,
+          128.850874
+        ],
+        "capacity": 6600,
+        "address": "강원특별자치도 강릉시"
+      },
+      {
+        "name": "강릉실내체육관",
+        "coordinates": [
+          37.748015,
+          128.830523
+        ],
+        "capacity": 1300,
+        "address": "강원특별자치도 강릉시"
+      },
+      {
+        "name": "강릉중앙공원 비상집합장소",
+        "coordinates": [
+          37.723417,
+          128.913603
+        ],
+        "capacity": 5300,
+        "address": "강원특별자치도 강릉시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "경포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오죽헌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안목해변 커피거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쇠소깍",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주문진해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "경포해수욕장 봄 바다",
+        "오죽헌 봄"
+      ],
+      "summer": [
+        "경포해수욕장 여름",
+        "주문진해수욕장 여름"
+      ],
+      "autumn": [
+        "오죽헌 단풍",
+        "경포호 가을"
+      ],
+      "winter": [
+        "경포 겨울 해맞이",
+        "안목해변 커피거리 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "경포해수욕장 야경",
+        "coordinates": [
+          37.803848,
+          128.909912
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "안목해변 커피거리 야경",
+        "coordinates": [
+          37.775,
+          128.925
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "강릉시는 옛 영동 지역의 중심지로 조선 시대 명주부였던 유서 깊은 도시이며 경포와 안목해변, 주문진 등 동해 해안 관광과 오죽헌·선교장 등 전통 문화 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangneung-si, Gangwon",
+      "landmarks": {
+        "경포해수욕장": [
+          "Gyeongpo Beach",
+          "Beach at the heart of the Gyeongpo resort, rated the East Sea's finest."
+        ],
+        "오죽헌": [
+          "Ojukheon House",
+          "Historic scholar site where Shin Saimdang and Yi I (Yulgok) were born."
+        ],
+        "안목해변 커피거리": [
+          "Anmok Beach Coffee Street",
+          "Cafe street on Anmok Beach, hailed as the birthplace of Korean coffee culture."
+        ],
+        "쇠소깍": [
+          "Soesokkak Estuary",
+          "Short scenic gorge where the sea meets the river, a famous attraction."
+        ],
+        "주문진해수욕장": [
+          "Jumunjin Beach",
+          "Signature beach alongside Jumunjin Port, the East Sea's largest fishing harbor."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 江陵市",
+      "landmarks": {
+        "경포해수욕장": [
+          "鏡浦海水浴場",
+          "東海最高の海水浴場とされる鏡浦観光地の中心ビーチ。"
+        ],
+        "오죽헌": [
+          "烏竹軒",
+          "申師任堂と栗谷李珥が生まれた由緒ある儒者文化の遺跡。"
+        ],
+        "안목해변 커피거리": [
+          "安木ビーチコーヒーストリート",
+          "韓国コーヒー文化の発祥地とされる安木ビーチのカフェ街。"
+        ],
+        "쇠소깍": [
+          "ソソッカク",
+          "海と川が出会って作る短い奇岩の絶景で有名な観光地。"
+        ],
+        "주문진해수욕장": [
+          "注文津海水浴場",
+          "東海最大の漁港・注文津港とともにある代表的なビーチ観光地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 江陵市",
+      "landmarks": {
+        "경포해수욕장": [
+          "镜浦海水浴场",
+          "被誉为东海岸最佳的镜浦旅游区中心海滩。"
+        ],
+        "오죽헌": [
+          "乌竹轩",
+          "申师任堂和栗谷李珥的诞生地，历史悠久的儒学文化遗迹。"
+        ],
+        "안목해변 커피거리": [
+          "安木海滩咖啡街",
+          "被誉为韩国咖啡文化发源地的安木海滩咖啡街。"
+        ],
+        "쇠소깍": [
+          "注文津水峡",
+          "江海交汇形成的短促奇岩绝景，著名观光地。"
+        ],
+        "주문진해수욕장": [
+          "注文津海水浴场",
+          "与东海岸最大渔港注文津港相伴的代表性海滨。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gangneung.go.kr",
+    "civil_service_center": {
+      "location_name": "강릉시청 민원실 앞",
+      "coordinates": [
+        128.916333,
+        37.777014
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-660-2018",
+      "info": "강원특별자치도 강릉시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "강릉시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.928055,
+      37.780356
+    ],
+    "cctv_zone_count": 303,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "경포해변공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "강릉 커피축제",
+    "typical_month": 10,
+    "venue_name": "강릉 커피상설시장 일대",
+    "venue_coords": [
+      128.927555,
+      37.780156
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "강릉 종합운동장",
+    "sports_types": [
+      "soccer",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.918533,
+      37.778214
+    ],
+    "reservation_url": "https://www.gangneung.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "강릉시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.916833,
+      37.776914
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "강릉시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.917133,
+      37.779114
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "초당순두부마을",
+    "coordinates": [
+      128.906,
+      37.783
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "순두부 (강릉시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=강릉시청&goalx=128.916333&goaly=37.777014",
+    "kakaonavi_url": "kakaonavi://navigate?name=강릉시청&x=128.916333&y=37.777014&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=강릉시청&dlng=128.916333&dlat=37.777014&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 52.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:02",
+      "sunset": "19:49",
+      "noon_altitude_deg": 75.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 52.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:36",
+      "sunset": "17:09",
+      "noon_altitude_deg": 28.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "강릉시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.928155,
+          37.780206
+        ],
+        [
+          128.928055,
+          37.780356
+        ],
+        [
+          128.927655,
+          37.779656
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "강릉 안목해변 커피거리",
+    "anchor_center": [
+      128.9148,
+      37.778214
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 30,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "coastal_promenade"
+  }
+}
