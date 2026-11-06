@@ -154,6 +154,94 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "초성리 중원식생태공원",
+        "station_name": "연천역",
+        "line": "수도권 1호선",
+        "exit_no": 4,
+        "walk_minutes": 35,
+        "coordinates": [
+          38.097,
+          127.076
+        ]
+      },
+      {
+        "target_landmark": "당포성",
+        "station_name": "연천역",
+        "line": "수도권 1호선",
+        "exit_no": 4,
+        "walk_minutes": 29,
+        "coordinates": [
+          38.097,
+          127.076
+        ]
+      },
+      {
+        "target_landmark": "아미산전적지",
+        "station_name": "아미산전적지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.1288,
+          127.018
+        ]
+      },
+      {
+        "target_landmark": "한탄강국가지질공원",
+        "station_name": "한탄강국가지질공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.0588,
+          127.008
+        ]
+      },
+      {
+        "target_landmark": "고적대전망대",
+        "station_name": "고적대전망대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.1688,
+          127.028
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "연천 중앙 공영주차장",
+        "coordinates": [
+          38.1308,
+          127.018
+        ],
+        "capacity": 562,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "연천 제2 공영주차장",
+        "coordinates": [
+          38.0624,
+          127.012
+        ],
+        "capacity": 419,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "연천 제3 공영주차장",
+        "coordinates": [
+          38.101,
+          127.048
+        ],
+        "capacity": 183,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "연천군은 북한과 국경을 접하는 경기 최북단의 군으로 임진강과 한탄강, DMZ 관광 자원과 함께 한탄강 국가지질공원 등의 자연 생태 명소가 자리한다.",
   "data_sources": [
     {
