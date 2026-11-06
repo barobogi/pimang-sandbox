@@ -1,0 +1,600 @@
+{
+  "block_code": "11710",
+  "block_name": "서울특별시 송파구",
+  "bbox": [
+    127.066592,
+    37.467012,
+    127.161509,
+    37.544033
+  ],
+  "center": [
+    37.505523,
+    127.11405
+  ],
+  "landmarks": [
+    {
+      "name": "롯데월드타워",
+      "lat": 37.5125537,
+      "lng": 127.102679,
+      "category": "초고층/전망대",
+      "description": "해발 555m의 대한민국 최고층 랜드마크다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%ED%83%80%EC%9B%8C",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 127.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lotte_World_morning_view_8.jpg/1280px-Lotte_World_morning_view_8.jpg"
+    },
+    {
+      "name": "석촌호수",
+      "lat": 37.5100884,
+      "lng": 127.1040775,
+      "category": "호수/공원",
+      "description": "잠실 도심 속 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EC%B4%8C%ED%98%B8%EC%88%98",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 120.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%EC%84%9D%EC%B4%8C_%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%281%29.jpg/1280px-%EC%84%9D%EC%B4%8C_%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%281%29.jpg"
+    },
+    {
+      "name": "몽촌토성",
+      "lat": 37.5174716,
+      "lng": 127.1126879,
+      "category": "유적/문화유산",
+      "description": "백제 한성 시대의 토성 유적으로 사적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%BD%EC%B4%8C%ED%86%A0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 174.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/MongchonSoilCastle.jpg/1280px-MongchonSoilCastle.jpg"
+    },
+    {
+      "name": "롯데월드 어드벤처",
+      "lat": 37.5110774,
+      "lng": 127.0981905,
+      "category": "테마파크",
+      "description": "실내 테마파크의 대표 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C_%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 113.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Khitai7.jpg/1280px-Khitai7.jpg"
+    },
+    {
+      "name": "송리단길",
+      "lat": 37.5092302,
+      "lng": 127.1103285,
+      "category": "문화/거리",
+      "description": "신천동의 대표 카페·먹거리 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%A1%ED%8C%8C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 141.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%EC%A0%84%EC%A3%BC%EC%98%81%ED%99%94%EC%9D%98%EA%B1%B0%EB%A6%AC.jpg/1280px-%EC%A0%84%EC%A3%BC%EC%98%81%ED%99%94%EC%9D%98%EA%B1%B0%EB%A6%AC.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "송파 역사·문화 시그니처 스카이 트레일",
+      "description": "송리단길 → 석촌호수 → 롯데월드타워 → 롯데월드 어드벤처 → 몽촌토성 순으로 이어지는 서울특별시 송파구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "송리단길",
+        "석촌호수",
+        "롯데월드타워",
+        "롯데월드 어드벤처",
+        "몽촌토성"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "송파 고즈넉한 역사 스카이 산책",
+      "description": "몽촌토성 → 송리단길 → 롯데월드타워 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 송파의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "몽촌토성",
+        "송리단길",
+        "롯데월드타워"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "송파 도심 활력 에어리얼 코스",
+      "description": "롯데월드 어드벤처 → 롯데월드타워 → 석촌호수 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 송파의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "롯데월드 어드벤처",
+        "롯데월드타워",
+        "석촌호수"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "송리단길 가마솥밥가",
+      "lat": 37.50888,
+      "lng": 127.109908,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "석촌호수 골목식당",
+      "lat": 37.509738,
+      "lng": 127.103938,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "몽촌토성 옛맛식당",
+      "lat": 37.517752,
+      "lng": 127.113178,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "롯데월드타워 본점",
+      "lat": 37.513184,
+      "lng": 127.102889,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "롯데월드 어드벤처 옛맛식당",
+      "lat": 37.510867,
+      "lng": 127.098681,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "롯데월드타워",
+        "station_name": "잠실역",
+        "line": "서울 2·8호선",
+        "exit_no": 9,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.5172,
+          127.1041
+        ]
+      },
+      {
+        "target_landmark": "석촌호수",
+        "station_name": "석촌역",
+        "line": "서울 8호선",
+        "exit_no": 5,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.5061,
+          127.103
+        ]
+      },
+      {
+        "target_landmark": "몽촌토성",
+        "station_name": "잠실역",
+        "line": "서울 2·8호선",
+        "exit_no": 9,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.5172,
+          127.1041
+        ]
+      },
+      {
+        "target_landmark": "롯데월드 어드벤처",
+        "station_name": "석촌역",
+        "line": "서울 8호선",
+        "exit_no": 5,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.5061,
+          127.103
+        ]
+      },
+      {
+        "target_landmark": "송리단길",
+        "station_name": "석촌역",
+        "line": "서울 8호선",
+        "exit_no": 5,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.5061,
+          127.103
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "송파 중앙 공영주차장",
+        "coordinates": [
+          37.50963,
+          127.109528
+        ],
+        "capacity": 270,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "송파 제2 공영주차장",
+        "coordinates": [
+          37.510488,
+          127.104478
+        ],
+        "capacity": 533,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "송파초등학교 운동장",
+        "coordinates": [
+          37.518456,
+          127.115806
+        ],
+        "capacity": 4100,
+        "address": "서울특별시 송파구"
+      },
+      {
+        "name": "송파실내체육관",
+        "coordinates": [
+          37.51402,
+          127.111011
+        ],
+        "capacity": 2600,
+        "address": "서울특별시 송파구"
+      },
+      {
+        "name": "송파중앙공원 비상집합장소",
+        "coordinates": [
+          37.528042,
+          127.111815
+        ],
+        "capacity": 7300,
+        "address": "서울특별시 송파구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "롯데월드타워",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "석촌호수",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "몽촌토성",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "롯데월드 어드벤처",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송리단길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "석촌호수 벚꽃길",
+        "몽촌토성 봄 산책"
+      ],
+      "summer": [
+        "석촌호수 여름 음악분수",
+        "롯데월드 어드벤처 여름"
+      ],
+      "autumn": [
+        "석촌호수 단풍",
+        "몽촌토성 억새"
+      ],
+      "winter": [
+        "롯데월드타워 겨울 빛축제",
+        "석촌호수 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "롯데월드타워 전망대 야경",
+        "coordinates": [
+          37.512554,
+          127.102679
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "석촌호수 야경",
+        "coordinates": [
+          37.510088,
+          127.104078
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "송파구는 롯데월드타워와 석촌호수, 몽촌토성이 함께한 서울 남동부 대표 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Songpa-gu, Seoul",
+      "landmarks": {
+        "롯데월드타워": [
+          "Lotte World Tower",
+          "Korea's tallest landmark at 555 m with observation deck."
+        ],
+        "석촌호수": [
+          "Seokchon Lake",
+          "Signature lakeside park in the heart of Jamsil."
+        ],
+        "몽촌토성": [
+          "Mongchon Toseong Fortress",
+          "Earthen ramparts of the Baekje Hanseong era, a Historic Site."
+        ],
+        "롯데월드 어드벤처": [
+          "Lotte World Adventure",
+          "Korea's flagship indoor theme park."
+        ],
+        "송리단길": [
+          "Songridan-gil",
+          "Cafe and food street at the heart of Sincheon-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 松坡区",
+      "landmarks": {
+        "롯데월드타워": [
+          "ロッテワールドタワー",
+          "標高555メートル、韓国最高層のランドマーク。"
+        ],
+        "석촌호수": [
+          "石村湖",
+          "蚕室の都心にある代表的な湖畔公園。"
+        ],
+        "몽촌토성": [
+          "夢村土城",
+          "百済漢城時代の土城遺跡で史跡に指定されている。"
+        ],
+        "롯데월드 어드벤처": [
+          "ロッテワールドアドベンチャー",
+          "屋内テーマパークの代表的存在。"
+        ],
+        "송리단길": [
+          "ソンリダンキル",
+          "新川洞を代表するカフェ・グルメストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 松坡区",
+      "landmarks": {
+        "롯데월드타워": [
+          "乐天世界塔",
+          "高达555米的韩国第一高楼地标。"
+        ],
+        "석촌호수": [
+          "石村湖",
+          "蚕室市中心的代表性湖畔公园。"
+        ],
+        "몽촌토성": [
+          "梦村土城",
+          "百济汉城时代的夯土城遗迹，为史迹。"
+        ],
+        "롯데월드 어드벤처": [
+          "乐天世界冒险乐园",
+          "韩国室内主题公园的代表。"
+        ],
+        "송리단길": [
+          "松理团路",
+          "新川洞的代表性咖啡与美食街。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.songpa.go.kr",
+    "civil_service_center": {
+      "location_name": "송파구청 민원실 앞",
+      "coordinates": [
+        127.106032,
+        37.514566
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2147-2000",
+      "info": "서울특별시 송파구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "송파구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.11435,
+      37.504922
+    ],
+    "cctv_zone_count": 426,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "올림픽공원",
+    "trail_length_km": 3.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "석촌호수 벚꽃축제",
+    "typical_month": 4,
+    "venue_name": "석촌호수 일대",
+    "venue_coords": [
+      127.11365,
+      37.505222
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "올림픽공원 테니스경기장",
+    "sports_types": [
+      "tennis",
+      "futsal",
+      "soccer"
+    ],
+    "coordinates": [
+      127.103632,
+      37.515366
+    ],
+    "reservation_url": "https://www.songpa.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "송파구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.103832,
+      37.513166
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "송파구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.107232,
+      37.514966
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "석촌호수 골목식당",
+    "coordinates": [
+      127.103938,
+      37.509738
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "순대국밥 (송파구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=송파구청&goalx=127.106032&goaly=37.514566",
+    "kakaonavi_url": "kakaonavi://navigate?name=송파구청&x=127.106032&y=37.514566&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=송파구청&dlng=127.106032&dlat=37.514566&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "송파구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.1135,
+          37.504072
+        ],
+        [
+          127.11435,
+          37.504922
+        ],
+        [
+          127.11415,
+          37.505222
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "잠실 석촌호수 카페거리",
+    "anchor_center": [
+      127.104232,
+      37.515433
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 190,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "cafe_culture_street"
+  }
+}
