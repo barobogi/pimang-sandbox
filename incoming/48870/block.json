@@ -226,6 +226,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "함양초등학교 운동장",
+        "coordinates": [
+          35.491453,
+          127.68642
+        ],
+        "capacity": 3800,
+        "address": "경상남도 함양군"
+      },
+      {
+        "name": "함양실내체육관",
+        "coordinates": [
+          35.701547,
+          127.809452
+        ],
+        "capacity": 2600,
+        "address": "경상남도 함양군"
+      },
+      {
+        "name": "함양중앙공원 비상집합장소",
+        "coordinates": [
+          35.392944,
+          127.679597
+        ],
+        "capacity": 1000,
+        "address": "경상남도 함양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "상림공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용추계곡",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "지리산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "함양군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "함양시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "함양군은 상림공원과 용추계곡, 지리산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
