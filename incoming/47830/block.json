@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Goryeong-gun, Gyeongbuk",
+      "landmarks": {
+        "지산동고분군": [
+          "Jisandong Ancient Tombs",
+          "UNESCO-listed tomb cluster heritage of Goryeong-gun, Gyeongbuk."
+        ],
+        "대가야박물관": [
+          "Gaya National Museum",
+          "Signature museum attraction of Goryeong-gun, Gyeongbuk."
+        ],
+        "고령군청": [
+          "Goryeong County Office",
+          "Administrative center of Goryeong-gun, Gyeongbuk."
+        ],
+        "고령시장": [
+          "Goryeong Market",
+          "Signature market attraction of Goryeong-gun, Gyeongbuk."
+        ],
+        "주산성": [
+          "Jusanseong Fortress",
+          "Signature fortress heritage of Goryeong-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 高霊郡",
+      "landmarks": {
+        "지산동고분군": [
+          "池山洞古墳群",
+          "ユネスコ登録の古墳群。慶尚北道高霊郡を代表する名所。"
+        ],
+        "대가야박물관": [
+          "大伽倻博物館",
+          "慶尚北道高霊郡を代表する名所。"
+        ],
+        "고령군청": [
+          "高霊郡庁",
+          "慶尚北道高霊郡を代表する名所。"
+        ],
+        "고령시장": [
+          "高霊市場",
+          "慶尚北道高霊郡を代表する名所。"
+        ],
+        "주산성": [
+          "主山城",
+          "慶尚北道高霊郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 高灵郡",
+      "landmarks": {
+        "지산동고분군": [
+          "池山洞古坟群",
+          "列入世界遗产的古坟群，庆尚北道高灵郡的代表性遗迹。"
+        ],
+        "대가야박물관": [
+          "大伽倻博物馆",
+          "庆尚北道高灵郡的代表性博物馆。"
+        ],
+        "고령군청": [
+          "高灵郡厅",
+          "庆尚北道高灵郡的行政中心。"
+        ],
+        "고령시장": [
+          "高灵市场",
+          "庆尚北道高灵郡的代表性市场。"
+        ],
+        "주산성": [
+          "主山城",
+          "庆尚北道高灵郡的代表性山城。"
+        ]
+      }
+    }
   }
 }
