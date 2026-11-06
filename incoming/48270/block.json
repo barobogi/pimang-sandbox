@@ -296,6 +296,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "영남루 봄",
+        "밀양강 봄"
+      ],
+      "summer": [
+        "밀양강 여름",
+        "표충사 계곡 여름"
+      ],
+      "autumn": [
+        "영남루 단풍",
+        "표충사 가을"
+      ],
+      "winter": [
+        "영남루 설경",
+        "밀양시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "영남루 야경",
+        "coordinates": [
+          35.491485,
+          128.753914
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "밀양강 야경",
+        "coordinates": [
+          35.517707,
+          128.773067
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "밀양시는 영남루와 표충사, 밀양아리랑으로 유명한 경남 북부의 도시이다.",
   "data_sources": [
     {
