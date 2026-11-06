@@ -410,5 +410,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.uiryeong.go.kr",
+    "civil_service_center": {
+      "location_name": "의령군청 민원실 앞",
+      "coordinates": [
+        128.258904,
+        35.385904
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "055-570-2114",
+      "info": "경상남도 의령군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "의령군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.258004,
+      35.385204
+    ],
+    "cctv_zone_count": 139
+  },
+  "urban_parks_trails": {
+    "park_name": "의령군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "의령군민축제",
+    "typical_month": 10,
+    "venue_name": "의령군민운동장",
+    "venue_coords": [
+      128.259004,
+      35.385304
+    ]
   }
 }
