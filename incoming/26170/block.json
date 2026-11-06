@@ -137,6 +137,93 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "부산역",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "초량이바구길",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "동구청",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 23,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "부산항 북항",
+        "station_name": "부산역",
+        "line": "부산 1호선·KTX 경부선",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.1149,
+          129.0415
+        ]
+      },
+      {
+        "target_landmark": "범일동 벚꽃길",
+        "station_name": "범일역",
+        "line": "부산 1호선",
+        "exit_no": 7,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.1146,
+          129.0529
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.128956,
+          129.047714
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.1202,
+          129.052
+        ],
+        "capacity": 466,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동구 제3 공영주차장",
+        "coordinates": [
+          35.115086,
+          129.037895
+        ],
+        "capacity": 373,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 동구는 부산역이 자리한 부산의 관문 구로 초량동 등이 있으며 개항기 이후 근대 역사가 함께한다.",
   "data_sources": [
     {
