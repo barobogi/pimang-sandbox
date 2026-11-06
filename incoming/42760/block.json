@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Pyeongchang-gun, Gangwon",
+      "landmarks": {
+        "대관령": [
+          "Daegwallyeong Pass",
+          "Signature pass attraction of Pyeongchang-gun, Gangwon."
+        ],
+        "월정사": [
+          "Woljeongsa Temple",
+          "Signature temple heritage of Pyeongchang-gun, Gangwon."
+        ],
+        "오대산": [
+          "Odaesan Mountain",
+          "Signature national park mountain of Pyeongchang-gun, Gangwon."
+        ],
+        "평창올림픽플라자": [
+          "PyeongChang Olympic Plaza",
+          "Signature sports memorial of Pyeongchang-gun, Gangwon."
+        ],
+        "평창군청": [
+          "Pyeongchang County Office",
+          "Administrative center of Pyeongchang-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 平昌郡",
+      "landmarks": {
+        "대관령": [
+          "大関嶺",
+          "江原特別自治道平昌郡を代表する名所。"
+        ],
+        "월정사": [
+          "月精寺",
+          "江原特別自治道平昌郡を代表する名所。"
+        ],
+        "오대산": [
+          "五台山",
+          "江原特別自治道平昌郡を代表する名所。"
+        ],
+        "평창올림픽플라자": [
+          "平昌オリンピックプラザ",
+          "江原特別自治道平昌郡を代表する名所。"
+        ],
+        "평창군청": [
+          "平昌郡庁",
+          "江原特別自治道平昌郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 平昌郡",
+      "landmarks": {
+        "대관령": [
+          "大关岭",
+          "江原特别自治道平昌郡的代表性山岭。"
+        ],
+        "월정사": [
+          "月精寺",
+          "江原特别自治道平昌郡的代表性古刹。"
+        ],
+        "오대산": [
+          "五台山",
+          "江原特别自治道平昌郡的代表性国立公园名山。"
+        ],
+        "평창올림픽플라자": [
+          "平昌奥林匹克广场",
+          "江原特别自治道平昌郡的代表性体育纪念地。"
+        ],
+        "평창군청": [
+          "平昌郡厅",
+          "江原特别自治道平昌郡的行政中心。"
+        ]
+      }
+    }
   }
 }
