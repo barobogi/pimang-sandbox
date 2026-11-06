@@ -147,6 +147,96 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "국립과천과학관",
+        "station_name": "과천역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 17,
+        "coordinates": [
+          37.4346,
+          126.9937
+        ]
+      },
+      {
+        "target_landmark": "서울대공원",
+        "station_name": "과천역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.4346,
+          126.9937
+        ]
+      },
+      {
+        "target_landmark": "정부과천청사",
+        "station_name": "과천역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.4346,
+          126.9937
+        ]
+      },
+      {
+        "target_landmark": "관악산",
+        "station_name": "인덕원역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 23,
+        "coordinates": [
+          37.4321,
+          126.9727
+        ]
+      },
+      {
+        "target_landmark": "문원동 상권",
+        "station_name": "문원동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.4248,
+          127.0356
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "과천 중앙 공영주차장",
+        "coordinates": [
+          37.438126,
+          127.005
+        ],
+        "capacity": 298,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "과천 제2 공영주차장",
+        "coordinates": [
+          37.435935,
+          127.010984
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "과천 제3 공영주차장",
+        "coordinates": [
+          37.424071,
+          126.99175
+        ],
+        "capacity": 431,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "과천시는 국립과천과학관과 서울대공원이 자리한 계획 도시이자 수도권 남부의 문화 과학 도시이다.",
   "data_sources": [
     {
