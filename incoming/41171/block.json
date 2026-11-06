@@ -293,6 +293,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "안양예술공원 벚꽃",
+        "삼막사 봄 산책"
+      ],
+      "summer": [
+        "안양천 여름 물놀이",
+        "안양예술공원 여름"
+      ],
+      "autumn": [
+        "삼막사 단풍",
+        "안양예술공원 가을"
+      ],
+      "winter": [
+        "안양예술공원 겨울 조명",
+        "삼막사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "안양예술공원 야경",
+        "coordinates": [
+          37.419752,
+          126.924566
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "안양천 야경",
+        "coordinates": [
+          37.39432,
+          126.937707
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "안양 만안구는 안양역 상권과 안양예술공원이 함께한 안양 서부의 구이다.",
   "data_sources": [
     {
