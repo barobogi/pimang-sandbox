@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Incheon",
+      "landmarks": {
+        "청라국제도시": [
+          "Cheongna International City",
+          "Seo-gu's new town combining the Ara Waterway and international business district."
+        ],
+        "검단신도시": [
+          "Geumdan New Town",
+          "Large-scale new town built in Geumdan-dong."
+        ],
+        "아라뱃길": [
+          "Ara Waterway",
+          "Waterway park offering water leisure on the Gyeongin Ara canal."
+        ],
+        "오류동 갯벌체험장": [
+          "Oryu-dong Mudflat Experience",
+          "Mudflat experience spot on Seo-gu's coast."
+        ],
+        "가좌동 상권": [
+          "Gajwa-dong District",
+          "Everyday commercial hub of Seo-gu in Gajwa-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 西区",
+      "landmarks": {
+        "청라국제도시": [
+          "青羅国際都市",
+          "アラ水路と国際業務団地が調和する西区の新都市。"
+        ],
+        "검단신도시": [
+          "黔丹新都市",
+          "黔丹洞に造成された大規模ニュータウン。"
+        ],
+        "아라뱃길": [
+          "アラ水路",
+          "京仁アラ水路の水辺公園でマリンレジャーが楽しめる。"
+        ],
+        "오류동 갯벌체험장": [
+          "梧桐洞干潟体験場",
+          "西区の海岸にある干潟体験の名所。"
+        ],
+        "가좌동 상권": [
+          "佳佐洞商圏",
+          "佳佐洞に形成された西区を代表する生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 西区",
+      "landmarks": {
+        "청라국제도시": [
+          "青罗国际城市",
+          "融合Ara水路和国际商务区的新城区。"
+        ],
+        "검단신도시": [
+          "黔丹新城",
+          "黔丹洞建成的大型新城。"
+        ],
+        "아라뱃길": [
+          "Ara水路",
+          "京仁Ara水路滨水公园，可体验水上休闲项目。"
+        ],
+        "오류동 갯벌체험장": [
+          "梧柳洞滩涂体验场",
+          "西区海岸的滩涂体验胜地。"
+        ],
+        "가좌동 상권": [
+          "佳佐洞商圈",
+          "佳佐洞形成的西区代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
