@@ -137,6 +137,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금성관",
+        "station_name": "나주역",
+        "line": "호남선",
+        "walk_minutes": 42,
+        "coordinates": [
+          35.0159,
+          126.7416
+        ]
+      },
+      {
+        "target_landmark": "영산포 등대와 황포돛배",
+        "station_name": "영산포 등대와 황포돛배 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.0108,
+          126.8018
+        ]
+      },
+      {
+        "target_landmark": "빛가람호수공원",
+        "station_name": "빛가람호수공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.016211,
+          126.792373
+        ]
+      },
+      {
+        "target_landmark": "국립나주박물관",
+        "station_name": "국립나주박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.913896,
+          126.662275
+        ]
+      },
+      {
+        "target_landmark": "금성산",
+        "station_name": "금성산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.038898,
+          126.710336
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "나주 중앙 공영주차장",
+        "coordinates": [
+          35.029871,
+          126.718229
+        ],
+        "capacity": 179,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "나주 제2 공영주차장",
+        "coordinates": [
+          35.038498,
+          126.705536
+        ],
+        "capacity": 454,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "나주시는 조선 시대 나주목이 있던 호남의 유서 깊은 도시로 금성관과 영산포 황포돛배, 빛가람혁신도시가 함께한 전남 서부의 도시다.",
   "data_sources": [
     {
