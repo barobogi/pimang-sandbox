@@ -416,5 +416,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sujigu.go.kr",
+    "civil_service_center": {
+      "location_name": "수지구청 민원실 앞",
+      "coordinates": [
+        127.079588,
+        37.332162
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "031-1577-1122",
+      "info": "경기도 용인시 수지구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "수지구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.078988,
+      37.333262
+    ],
+    "cctv_zone_count": 399
+  },
+  "urban_parks_trails": {
+    "park_name": "보정근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "수지 구민축제",
+    "typical_month": 10,
+    "venue_name": "수지구청 광장",
+    "venue_coords": [
+      127.078688,
+      37.333062
+    ]
   }
 }
