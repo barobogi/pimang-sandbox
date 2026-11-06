@@ -1,0 +1,586 @@
+{
+  "block_code": "41133",
+  "block_name": "경기도 성남시 중원구",
+  "bbox": [
+    127.117571,
+    37.405427,
+    127.195961,
+    37.474812
+  ],
+  "center": [
+    37.440119,
+    127.156766
+  ],
+  "landmarks": [
+    {
+      "name": "성남아트센터",
+      "lat": 37.413,
+      "lng": 127.128,
+      "category": "공연장/문화",
+      "description": "성남의 대표 공연·전시 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%82%A8%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 40.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Seongnam_Arts_Center.jpg/1280px-Seongnam_Arts_Center.jpg"
+    },
+    {
+      "name": "상대원동 상권",
+      "lat": 37.426,
+      "lng": 127.124,
+      "category": "상권",
+      "description": "상대원동에 형성된 중원구 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 61.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jungwon-gu_office.JPG/1280px-Jungwon-gu_office.JPG"
+    },
+    {
+      "name": "탄천",
+      "lat": 37.4186202,
+      "lng": 127.1183667,
+      "category": "하천/자연",
+      "description": "중원구를 지나는 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%84%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 54.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/0_dankook_0.jpg"
+    },
+    {
+      "name": "성남문화원",
+      "lat": 37.4389524,
+      "lng": 127.1408986,
+      "category": "문화",
+      "description": "성남 지역 문화 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 84.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%EC%A4%91%EB%82%A8%EB%AF%B8%EB%AC%B8%ED%99%94%EC%9B%90_%EB%B3%91%EC%84%A4_%EB%B0%95%EB%AC%BC%EA%B4%80%2C_20251112.jpg/1280px-%EC%A4%91%EB%82%A8%EB%AF%B8%EB%AC%B8%ED%99%94%EC%9B%90_%EB%B3%91%EC%84%A4_%EB%B0%95%EB%AC%BC%EA%B4%80%2C_20251112.jpg"
+    },
+    {
+      "name": "여수정공원",
+      "lat": 37.422,
+      "lng": 127.118,
+      "category": "공원",
+      "description": "중원구 여수동의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 59.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jungwon-gu_office.JPG/1280px-Jungwon-gu_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "중원 자연 힐링 시그니처 에어리얼 투어",
+      "description": "성남문화원 → 상대원동 상권 → 여수정공원 → 탄천 → 성남아트센터 순으로 이어지는 경기도 성남시 중원구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "성남문화원",
+        "상대원동 상권",
+        "여수정공원",
+        "탄천",
+        "성남아트센터"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "중원 산하 절경 에어리얼 투어",
+      "description": "탄천 → 여수정공원 → 상대원동 상권 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 중원의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "탄천",
+        "여수정공원",
+        "상대원동 상권"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "중원 도심 활력 에어리얼 코스",
+      "description": "성남아트센터 → 탄천 → 상대원동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 중원의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "성남아트센터",
+        "탄천",
+        "상대원동 상권"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "성남문화원 솥뚜껑가게",
+      "lat": 37.439162,
+      "lng": 127.141179,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "상대원동 상권 할매집",
+      "lat": 37.42572,
+      "lng": 127.12372,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "성남아트센터 옛맛식당",
+      "lat": 37.41307,
+      "lng": 127.128,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "여수정공원 옛맛식당",
+      "lat": 37.42158,
+      "lng": 127.117971,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "탄천 큰마당식당",
+      "lat": 37.41806,
+      "lng": 127.118367,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "성남아트센터",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 34,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "상대원동 상권",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 13,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "탄천",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 26,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "성남문화원",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "여수정공원",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "중원 중앙 공영주차장",
+        "coordinates": [
+          37.440552,
+          127.141699
+        ],
+        "capacity": 480,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "중원 제2 공영주차장",
+        "coordinates": [
+          37.426,
+          127.1228
+        ],
+        "capacity": 532,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중원초등학교 운동장",
+        "coordinates": [
+          37.406815,
+          127.119139
+        ],
+        "capacity": 4600,
+        "address": "경기도 성남시 중원구"
+      },
+      {
+        "name": "중원실내체육관",
+        "coordinates": [
+          37.423022,
+          127.127781
+        ],
+        "capacity": 3200,
+        "address": "경기도 성남시 중원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "성남아트센터",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상대원동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "탄천",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성남문화원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "여수정공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "탄천 벚꽃길",
+        "여수정공원 봄꽃"
+      ],
+      "summer": [
+        "탄천 여름 물놀이",
+        "성남아트센터 여름 공연"
+      ],
+      "autumn": [
+        "탄천 억새",
+        "여수정공원 가을"
+      ],
+      "winter": [
+        "성남아트센터 겨울 조명",
+        "탄천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "성남아트센터 야경",
+        "coordinates": [
+          37.413,
+          127.128
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "탄천 야경",
+        "coordinates": [
+          37.41862,
+          127.118367
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "성남 중원구는 성남아트센터와 탄천이 자리한 성남 중부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jungwon-gu, Seongnam",
+      "landmarks": {
+        "성남아트센터": [
+          "Seongnam Arts Center",
+          "Seongnam's flagship venue for performances and exhibitions."
+        ],
+        "상대원동 상권": [
+          "Sangdaewon-dong District",
+          "Commercial hub of Jungwon-gu in Sangdaewon-dong."
+        ],
+        "탄천": [
+          "Tancheon Stream",
+          "Stream flowing through Jungwon-gu."
+        ],
+        "성남문화원": [
+          "Seongnam Cultural Center",
+          "Cultural facility of the Seongnam region."
+        ],
+        "여수정공원": [
+          "Yeosujeong Park",
+          "Signature neighborhood park in Yeosu-dong, Jungwon-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 城南市 中園区",
+      "landmarks": {
+        "성남아트센터": [
+          "城南アートセンター",
+          "城南を代表する公演・展示施設。"
+        ],
+        "상대원동 상권": [
+          "上大園洞商圏",
+          "上大園洞に形成された中園区を代表する商圏。"
+        ],
+        "탄천": [
+          "炭川",
+          "中園区を流れる支流。"
+        ],
+        "성남문화원": [
+          "城南文化院",
+          "城南地域の文化施設。"
+        ],
+        "여수정공원": [
+          "余水亭公園",
+          "中園区余水洞の代表的な近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 城南市 中原区",
+      "landmarks": {
+        "성남아트센터": [
+          "城男艺术中心",
+          "城南代表性的演出展览场馆。"
+        ],
+        "상대원동 상권": [
+          "上大院洞商圈",
+          "上大院洞形成的中原区代表性商圈。"
+        ],
+        "탄천": [
+          "炭川",
+          "流经中原区的河流。"
+        ],
+        "성남문화원": [
+          "城南文化院",
+          "城南地区的文化设施。"
+        ],
+        "여수정공원": [
+          "余水亭公园",
+          "中原区余水洞的代表性近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jungwon-gu.or.kr",
+    "civil_service_center": {
+      "location_name": "중원구청 민원실 앞",
+      "coordinates": [
+        127.136433,
+        37.431181
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1577-3100",
+      "info": "경기도 성남시 중원구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "중원구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.156166,
+      37.44052
+    ],
+    "cctv_zone_count": 357,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "금터근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "중원 구민축제",
+    "typical_month": 10,
+    "venue_name": "중원구청 광장",
+    "venue_coords": [
+      127.156566,
+      37.44042
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "중원구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.134833,
+      37.430081
+    ],
+    "reservation_url": "https://www.jungwon-gu.or.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "중원구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.136133,
+      37.430881
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "중원구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.138833,
+      37.428481
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "성남아트센터 옛맛식당",
+    "coordinates": [
+      127.128,
+      37.41307
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막국수 (중원구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=중원구청&goalx=127.136433&goaly=37.431181",
+    "kakaonavi_url": "kakaonavi://navigate?name=중원구청&x=127.136433&y=37.431181&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=중원구청&dlng=127.136433&dlat=37.431181&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "중원구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.155216,
+          37.44102
+        ],
+        [
+          127.156166,
+          37.44052
+        ],
+        [
+          127.155216,
+          37.44072
+        ]
+      ],
+      "cctv_linked_count": 11,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "중원구 중심상업거리",
+    "anchor_center": [
+      127.138433,
+      37.432714
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 201,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
