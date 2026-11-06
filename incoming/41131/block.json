@@ -353,5 +353,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sujeong-gu, Seongnam",
+      "landmarks": {
+        "신흥시장": [
+          "Sinheung Market",
+          "Signature traditional food market of Seongnam."
+        ],
+        "산성역 상권": [
+          "Sanseong Station District",
+          "Commercial hub centered on Sanseong Station."
+        ],
+        "남한산성": [
+          "Namhansanseong Fortress",
+          "Joseon-era mountain fortress inscribed as a UNESCO World Heritage Site."
+        ],
+        "탄천": [
+          "Tancheon Stream",
+          "Stream flowing through Seongnam into the Han River."
+        ],
+        "모란역 상권": [
+          " Moran Station District",
+          "Commercial hub centered on Moran Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 城南市 修政区",
+      "landmarks": {
+        "신흥시장": [
+          "新興市場",
+          "城南市を代表する伝統市場のグルメ名所。"
+        ],
+        "산성역 상권": [
+          "山城駅商圏",
+          "山城駅を中心とする代表的な商圏。"
+        ],
+        "남한산성": [
+          "南漢山城",
+          "朝鮮時代の山城で、ユネスコ世界文化遺産。"
+        ],
+        "탄천": [
+          "炭川",
+          "城南を流れ漢江へ注ぐ支流。"
+        ],
+        "모란역 상권": [
+          "牡丹駅商圏",
+          "牡丹駅を中心とする代表的な商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 城南市 寿井区",
+      "landmarks": {
+        "신흥시장": [
+          "新兴市场",
+          "城南代表性传统市场美食胜地。"
+        ],
+        "산성역 상권": [
+          "山城站商圈",
+          "以山城站为中心的代表性商圈。"
+        ],
+        "남한산성": [
+          "南汉山城",
+          "朝鲜时代的山城，联合国教科文组织世界文化遗产。"
+        ],
+        "탄천": [
+          "炭川",
+          "流经城南汇入汉江的河流。"
+        ],
+        "모란역 상권": [
+          "牡丹站商圈",
+          "以牡丹站为中心的代表性商圈。"
+        ]
+      }
+    }
   }
 }
