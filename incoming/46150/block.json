@@ -137,6 +137,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "순천만습지",
+        "station_name": "순천만습지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.884279,
+          127.510146
+        ]
+      },
+      {
+        "target_landmark": "순천만국가정원",
+        "station_name": "순천만국가정원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.924219,
+          127.512522
+        ]
+      },
+      {
+        "target_landmark": "낙안읍성",
+        "station_name": "낙안읍성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.903498,
+          127.345575
+        ]
+      },
+      {
+        "target_landmark": "선암사",
+        "station_name": "선암사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.989467,
+          127.347497
+        ]
+      },
+      {
+        "target_landmark": "송광사",
+        "station_name": "송광사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.002991,
+          127.267127
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "순천 중앙 공영주차장",
+        "coordinates": [
+          34.992267,
+          127.345497
+        ],
+        "capacity": 574,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "순천 제2 공영주차장",
+        "coordinates": [
+          34.907899,
+          127.342775
+        ],
+        "capacity": 47,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "순천 제3 공영주차장",
+        "coordinates": [
+          35.003791,
+          127.265127
+        ],
+        "capacity": 101,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "순천시는 순천만습지와 순천만국가정원, 낙안읍성, 선암사, 송광사 등 남해안 대표 자연·문화 관광 자원이 풍부한 전남 동부의 도시다.",
   "data_sources": [
     {
