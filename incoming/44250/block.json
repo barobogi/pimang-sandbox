@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gyeryong-si, Chungnam",
+      "landmarks": {
+        "계룡대": [
+          "Gyeryongdae Military HQ",
+          "Signature military landmark of Gyeryong-si, Chungnam."
+        ],
+        "계룡산": [
+          "Gyeryongsan Mountain",
+          "Signature national park mountain of Gyeryong-si, Chungnam."
+        ],
+        "계룡시청": [
+          "Gyeryong City Hall",
+          "Administrative center of Gyeryong-si, Chungnam."
+        ],
+        "계룡시장": [
+          "Gyeryong Market",
+          "Signature market attraction of Gyeryong-si, Chungnam."
+        ],
+        "계룡문화예술의전당": [
+          "Gyeryong Culture and Arts Center",
+          "Signature performance venue of Gyeryong-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 鶏龍市",
+      "landmarks": {
+        "계룡대": [
+          "鶏龍台",
+          "忠清南道鶏龍市を代表する名所。"
+        ],
+        "계룡산": [
+          "鶏龍山",
+          "忠清南道鶏龍市を代表する名所。"
+        ],
+        "계룡시청": [
+          "鶏龍市庁",
+          "忠清南道鶏龍市を代表する名所。"
+        ],
+        "계룡시장": [
+          "鶏龍市場",
+          "忠清南道鶏龍市を代表する名所。"
+        ],
+        "계룡문화예술의전당": [
+          "鶏龍文化芸術の殿堂",
+          "忠清南道鶏龍市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 鸡龙市",
+      "landmarks": {
+        "계룡대": [
+          "鸡龙台",
+          "忠清南道鸡龙市的代表性军事地标。"
+        ],
+        "계룡산": [
+          "鸡龙上",
+          "忠清南道鸡龙市的代表性国立公园名山。"
+        ],
+        "계룡시청": [
+          "鸡龙市厅",
+          "忠清南道鸡龙市的行政中心。"
+        ],
+        "계룡시장": [
+          "鸡龙市场",
+          "忠清南道鸡龙市的代表性市场。"
+        ],
+        "계룡문화예술의전당": [
+          "鸡龙文化艺术殿堂",
+          "忠清南道鸡龙市的代表性演出场馆。"
+        ]
+      }
+    }
   }
 }
