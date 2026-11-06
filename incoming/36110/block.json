@@ -1,0 +1,562 @@
+{
+  "block_code": "36110",
+  "block_name": "세종특별자치시",
+  "bbox": [
+    127.12773,
+    36.406758,
+    127.410804,
+    36.733182
+  ],
+  "center": [
+    36.56997,
+    127.269267
+  ],
+  "landmarks": [
+    {
+      "name": "정부세종청사",
+      "lat": 36.5052784,
+      "lng": 127.262231,
+      "category": "행정/랜드마크",
+      "description": "중앙정부기관이 대거 입지한 행정 중심지의 핵심 청사다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EC%84%B8%EC%A2%85%EC%B2%AD%EC%82%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 5.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg/1280px-Sejong_BRT_Station_Gov%27t_Complex_Sejong_South_02.jpg"
+    },
+    {
+      "name": "세종호수공원",
+      "lat": 36.5020984,
+      "lng": 127.2762464,
+      "category": "도시공원/호수",
+      "description": "신도시 중앙에 조성된 인공 호수 공원으로 세종의 대표 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 355.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sejong_lake_park_190609_17.jpg/1280px-Sejong_lake_park_190609_17.jpg"
+    },
+    {
+      "name": "은어송마을",
+      "lat": 36.483,
+      "lng": 127.308,
+      "category": "마을/문화",
+      "description": "백제 시대 은어송 나라 전설을 지닌 전통 마을로 슬로시티 인증 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 340.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
+    },
+    {
+      "name": "전의향교",
+      "lat": 36.6804384,
+      "lng": 127.2009023,
+      "category": "교육/문화유산",
+      "description": "조선 시대 전의현에 설치된 향교로 유서 깊은 선비 교육 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 153.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90.jpg/1280px-%EC%A0%84%EC%9D%98%ED%96%A5%EA%B5%90.jpg"
+    },
+    {
+      "name": "부강나루",
+      "lat": 36.436,
+      "lng": 127.322,
+      "category": "금강/관광",
+      "description": "금강 부강면의 나루터로 백제역사문화지구와 연계한 유람선 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 342.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Hannuridaero_and_Bangchukcheon.jpg/1280px-Hannuridaero_and_Bangchukcheon.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "세종 자연 힐링 시그니처 에어리얼 투어",
+      "description": "정부세종청사 → 세종호수공원 → 은어송마을 → 부강나루 → 전의향교 순으로 이어지는 세종특별자치시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "정부세종청사",
+        "세종호수공원",
+        "은어송마을",
+        "부강나루",
+        "전의향교"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "세종 산하 절경 에어리얼 투어",
+      "description": "전의향교 → 세종호수공원 → 부강나루 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 세종의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "전의향교",
+        "세종호수공원",
+        "부강나루"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "정부세종청사 가마솥밥가",
+      "lat": 36.504718,
+      "lng": 127.262651,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "세종호수공원 옛맛식당",
+      "lat": 36.502378,
+      "lng": 127.275896,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "은어송마을 솥뚜껑가게",
+      "lat": 36.48293,
+      "lng": 127.30772,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "정부세종청사",
+        "station_name": "정부청사 BRT 정류장",
+        "line": "직행좌석버스(BRT)",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.5077,
+          127.2622
+        ]
+      },
+      {
+        "target_landmark": "세종호수공원",
+        "station_name": "정부청사 BRT 정류장",
+        "line": "직행좌석버스(BRT)",
+        "walk_minutes": 20,
+        "coordinates": [
+          36.5077,
+          127.2622
+        ]
+      },
+      {
+        "target_landmark": "은어송마을",
+        "station_name": "은어송마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.4806,
+          127.3076
+        ]
+      },
+      {
+        "target_landmark": "전의향교",
+        "station_name": "전의향교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.678038,
+          127.200502
+        ]
+      },
+      {
+        "target_landmark": "부강나루",
+        "station_name": "부강나루 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.4336,
+          127.3216
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "세종 중앙 공영주차장",
+        "coordinates": [
+          36.503278,
+          127.261831
+        ],
+        "capacity": 136,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "세종 제2 공영주차장",
+        "coordinates": [
+          36.503298,
+          127.278646
+        ],
+        "capacity": 199,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "세종특별자치초등학교 운동장",
+        "coordinates": [
+          36.508469,
+          127.260498
+        ],
+        "capacity": 1800,
+        "address": "세종특별자치시"
+      },
+      {
+        "name": "세종특별자치실내체육관",
+        "coordinates": [
+          36.49413,
+          127.25708
+        ],
+        "capacity": 3800,
+        "address": "세종특별자치시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "정부세종청사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "세종호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "은어송마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "전의향교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부강나루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "세종호수공원 봄꽃",
+        "전의향교 봄 산책"
+      ],
+      "summer": [
+        "세종호수공원 여름 음악분수",
+        "부강나루 여름"
+      ],
+      "autumn": [
+        "세종호수공원 단풍",
+        "은어송마을 가을"
+      ],
+      "winter": [
+        "정부세종청사 겨울 빛축제",
+        "세종호수공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "세종호수공원 야경",
+        "coordinates": [
+          36.502098,
+          127.276246
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "정부세종청사 야경",
+        "coordinates": [
+          36.505278,
+          127.262231
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "세종특별자치시는 연기군 전역과 공주·청주·대전 일부를 합쳐 2012년에 출범한 행정 중심 복합도시로 정부 세종청사가 자리하고 호남평야와 금강 유역의 농경지가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sejong Special Self-Governing City",
+      "landmarks": {
+        "정부세종청사": [
+          "Sejong Government Complex",
+          "Core administrative complex hosting the central government ministries."
+        ],
+        "세종호수공원": [
+          "Sejong Lake Park",
+          "Artificial lakeside park at the heart of the new city, Sejong's signature retreat."
+        ],
+        "은어송마을": [
+          "Euneosong Village",
+          "Traditional village carrying the Baekje-era Euneosong legend, a certified Slow City."
+        ],
+        "전의향교": [
+          "Jeonui Hyanggyo",
+          "Confucian school established in Joseon-era Jeonui-hyeon, a historic scholarly space."
+        ],
+        "부강나루": [
+          "Bugang Ferry",
+          "Ferry crossing on the Geum River at Bugang-myeon, famed for cruises linked to the Baekje historic district."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "世宗特別自治市",
+      "landmarks": {
+        "정부세종청사": [
+          "政府世宗庁舎",
+          "中央官庁が大集結する行政中心地の核となる庁舎。"
+        ],
+        "세종호수공원": [
+          "世宗湖公園",
+          "新都市の中央に造られた人工湖畔公園。世宗を代表する憩いの場。"
+        ],
+        "은어송마을": [
+          "銀魚松村",
+          "百済時代の銀魚松の国伝説を持つ伝統村。スローシティ認証村。"
+        ],
+        "전의향교": [
+          "全義郷校",
+          "朝鮮時代の全義県に設けられた郷校。由緒ある儒者教育の空間。"
+        ],
+        "부강나루": [
+          "富江渡し場",
+          "錦江・富江面の渡し場。百済歴史文化地区とつながる遊覧船の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "世宗特别自治市",
+      "landmarks": {
+        "정부세종청사": [
+          "政府世宗办公大楼",
+          "中央政府机关云集的行政中心核心建筑。"
+        ],
+        "세종호수공원": [
+          "世宗湖公园",
+          "新城中央的人工湖滨公园，世宗的代表性休憩空间。"
+        ],
+        "은어송마을": [
+          "银鱼松村",
+          "承载百济时代银鱼松国传说的传统村落，获慢城认证。"
+        ],
+        "전의향교": [
+          "全义乡校",
+          "朝鲜时代全义县设立的官学，历史悠久的儒学教育空间。"
+        ],
+        "부강나루": [
+          "芙江渡口",
+          "锦江芙江面的渡口，与百济历史文化区相连的游船胜地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sejong.go.kr",
+    "civil_service_center": {
+      "location_name": "세종특별자치시청 민원실 앞",
+      "coordinates": [
+        127.288964,
+        36.480114
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "044-300-3114",
+      "info": "세종특별자치시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "세종특별자치시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.268767,
+      36.57017
+    ],
+    "cctv_zone_count": 470,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "세종호수공원",
+    "trail_length_km": 3.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "세종 시민축제",
+    "typical_month": 10,
+    "venue_name": "세종호수공원",
+    "venue_coords": [
+      127.269267,
+      36.57047
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "세종시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.289064,
+      36.482614
+    ],
+    "reservation_url": "https://www.sejong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "세종특별자치시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.287864,
+      36.481814
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "세종시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.286464,
+      36.480414
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "은어송마을 솥뚜껑가게",
+    "coordinates": [
+      127.30772,
+      36.48293
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "들깨칼국수 (세종특별자치시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=세종특별자치시청&goalx=127.288964&goaly=36.480114",
+    "kakaonavi_url": "kakaonavi://navigate?name=세종특별자치시청&x=127.288964&y=36.480114&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=세종특별자치시청&dlng=127.288964&dlat=36.480114&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:43",
+      "noon_altitude_deg": 53.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:28",
+      "noon_altitude_deg": 53.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:19",
+      "noon_altitude_deg": 30.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "세종특별자치시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.269367,
+          36.56967
+        ],
+        [
+          127.268767,
+          36.57017
+        ],
+        [
+          127.269967,
+          36.56897
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "세종 나성동 어반아트리움 보행전용거리",
+    "anchor_center": [
+      127.287164,
+      36.481047
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 110,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
