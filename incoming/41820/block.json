@@ -153,6 +153,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "아침고요수목원",
+        "station_name": "아침고요수목원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.742528,
+          127.350816
+        ]
+      },
+      {
+        "target_landmark": "청평호",
+        "station_name": "청평호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.768165,
+          127.541487
+        ]
+      },
+      {
+        "target_landmark": "명지산",
+        "station_name": "명지산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.94228,
+          127.430945
+        ]
+      },
+      {
+        "target_landmark": "가평역 상권",
+        "station_name": "가평역 상권 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.812216,
+          127.44053
+        ]
+      },
+      {
+        "target_landmark": "쁘띠프랑스",
+        "station_name": "쁘띠프랑스 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.715881,
+          127.489328
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "가평 중앙 공영주차장",
+        "coordinates": [
+          37.813416,
+          127.44133
+        ],
+        "capacity": 61,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "가평 제2 공영주차장",
+        "coordinates": [
+          37.716681,
+          127.490528
+        ],
+        "capacity": 182,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "가평군은 북한강과 청평호가 흐르는 경기 동북부의 군으로 아침고요수목원과 남이섬 인근의 수변 관광지가 유명하다.",
   "data_sources": [
     {
