@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "에버랜드",
+        "station_name": "에버랜드 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.293875,
+          127.202879
+        ]
+      },
+      {
+        "target_landmark": "캐리비안베이",
+        "station_name": "캐리비안베이 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2924,
+          127.1994
+        ]
+      },
+      {
+        "target_landmark": "윤봉길 의사 유적",
+        "station_name": "윤봉길 의사 유적 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2564,
+          127.2304
+        ]
+      },
+      {
+        "target_landmark": "보개산",
+        "station_name": "보개산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.2334,
+          127.2704
+        ]
+      },
+      {
+        "target_landmark": "용인 자연휴양림",
+        "station_name": "용인 자연휴양림 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.314933,
+          127.264894
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "처인 중앙 공영주차장",
+        "coordinates": [
+          37.2318,
+          127.2708
+        ],
+        "capacity": 291,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "처인 제2 공영주차장",
+        "coordinates": [
+          37.2564,
+          127.2324
+        ],
+        "capacity": 258,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "처인 제3 공영주차장",
+        "coordinates": [
+          37.314133,
+          127.264094
+        ],
+        "capacity": 74,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "용인 처인구는 에버랜드와 윤봉길 의사 유적이 함께한 용인 남부의 구이다.",
   "data_sources": [
     {
