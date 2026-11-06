@@ -289,6 +289,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "보정동 카페거리 봄꽃",
+        "동백지구 봄"
+      ],
+      "summer": [
+        "보정동 카페거리 여름밤",
+        "기흥역 상권 여름"
+      ],
+      "autumn": [
+        "동백지구 단풍",
+        "보정동 카페거리 가을"
+      ],
+      "winter": [
+        "기흥역 상권 겨울 조명",
+        "동백지구 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "보정동 카페거리 야경",
+        "coordinates": [
+          37.313,
+          127.09
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "기흥역 상권 야경",
+        "coordinates": [
+          37.276,
+          127.128
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "용인 기흥구는 보정동 카페거리와 신갈지구가 함께한 용인 중부의 구이다.",
   "data_sources": [
     {
