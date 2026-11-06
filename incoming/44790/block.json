@@ -302,6 +302,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "칠갑산 봄 진달래",
+        "장승공원 봄"
+      ],
+      "summer": [
+        "칠갑산 계곡 여름",
+        "칠갑산자연휴양림 여름"
+      ],
+      "autumn": [
+        "칠갑산 단풍길",
+        "청양시장 가을"
+      ],
+      "winter": [
+        "칠갑산 설경",
+        "장승공원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "칠갑산 야경",
+        "coordinates": [
+          36.413023,
+          126.884882
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "청양시장 야시장",
+        "coordinates": [
+          36.450462,
+          126.801848
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "청양군은 칠갑산과 어우러진 고추 특산지로 칠갑산 장승공원이 대표 명소인 충남 중부의 군이다.",
   "data_sources": [
     {
