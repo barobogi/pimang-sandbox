@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "여수초등학교 운동장",
+        "coordinates": [
+          34.877192,
+          127.581711
+        ],
+        "capacity": 6000,
+        "address": "전라남도 여수시"
+      },
+      {
+        "name": "여수실내체육관",
+        "coordinates": [
+          34.718236,
+          127.716823
+        ],
+        "capacity": 1300,
+        "address": "전라남도 여수시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "오동도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이순신광장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "돌산공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여수해상케이블카",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "거북선광장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "여수시는 남해안의 대표 항만 관광 도시로 오동도와 돌산공원, 이순신광장, 2012 여수세계박람회장 등 해양 관광 자원이 풍부하다.",
   "data_sources": [
     {
