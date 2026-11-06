@@ -145,6 +145,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "성산패총",
+        "station_name": "성산패총 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.210092,
+          128.684193
+        ]
+      },
+      {
+        "target_landmark": "불모산",
+        "station_name": "불모산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.190741,
+          128.725302
+        ]
+      },
+      {
+        "target_landmark": "중앙체육공원",
+        "station_name": "중앙체육공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.218187,
+          128.674209
+        ]
+      },
+      {
+        "target_landmark": "용지호수공원",
+        "station_name": "용지호수공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.245,
+          128.6124
+        ]
+      },
+      {
+        "target_landmark": "상남동 노래교차로",
+        "station_name": "상남동 노래교차로 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.24,
+          128.6894
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성산 중앙 공영주차장",
+        "coordinates": [
+          35.209292,
+          128.684993
+        ],
+        "capacity": 250,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "성산 제2 공영주차장",
+        "coordinates": [
+          35.220187,
+          128.676209
+        ],
+        "capacity": 555,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "성산 제3 공영주차장",
+        "coordinates": [
+          35.2424,
+          128.6878
+        ],
+        "capacity": 234,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "성산구는 창원의 원도심으로 성산패총과 창원국가산업단지가 자리한 창원 중심 구이며 상남동과 중앙동 상권, 용지호수공원 등이 함께한다.",
   "data_sources": [
     {
