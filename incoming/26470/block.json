@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "연제초등학교 운동장",
+        "coordinates": [
+          35.178168,
+          129.060542
+        ],
+        "capacity": 4300,
+        "address": "부산광역시 연제구"
+      },
+      {
+        "name": "연제실내체육관",
+        "coordinates": [
+          35.185303,
+          129.081085
+        ],
+        "capacity": 3000,
+        "address": "부산광역시 연제구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "부산아시아드주경기장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온천천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "배산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거제동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부산 연제구는 연산동 상권과 부산아시아드주경기장, 온천천이 함께한 부산 중부의 구이다.",
   "data_sources": [
     {
