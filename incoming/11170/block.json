@@ -224,6 +224,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "용산초등학교 운동장",
+        "coordinates": [
+          37.534317,
+          126.991428
+        ],
+        "capacity": 5500,
+        "address": "서울특별시 용산구"
+      },
+      {
+        "name": "용산실내체육관",
+        "coordinates": [
+          37.528323,
+          126.9791
+        ],
+        "capacity": 4400,
+        "address": "서울특별시 용산구"
+      },
+      {
+        "name": "용산중앙공원 비상집합장소",
+        "coordinates": [
+          37.531496,
+          126.982279
+        ],
+        "capacity": 2700,
+        "address": "서울특별시 용산구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "이태원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "국립중앙박물관",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "전쟁기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "남산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "해방촌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "용산구는 이태원과 남산, 국립중앙박물관이 자리한 서울 중심부의 자치구로 국제적 문화와 국가 문화시설이 함께한다.",
   "data_sources": [
     {
