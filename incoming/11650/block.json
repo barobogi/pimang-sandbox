@@ -147,6 +147,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "반포한강공원",
+        "station_name": "교대역",
+        "line": "서울 2·3호선",
+        "exit_no": 5,
+        "walk_minutes": 37,
+        "coordinates": [
+          37.4923,
+          127.0146
+        ]
+      },
+      {
+        "target_landmark": "서래마을",
+        "station_name": "교대역",
+        "line": "서울 2·3호선",
+        "exit_no": 5,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.4923,
+          127.0146
+        ]
+      },
+      {
+        "target_landmark": "양재동 상권",
+        "station_name": "서초역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 15,
+        "coordinates": [
+          37.4918,
+          127.0272
+        ]
+      },
+      {
+        "target_landmark": "우면산",
+        "station_name": "방배역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.481,
+          127.0064
+        ]
+      },
+      {
+        "target_landmark": "법조타운",
+        "station_name": "방배역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.481,
+          127.0064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서초 중앙 공영주차장",
+        "coordinates": [
+          37.4857,
+          127.0329
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서초 제2 공영주차장",
+        "coordinates": [
+          37.4848,
+          127.0082
+        ],
+        "capacity": 430,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "서초구는 강남 남부의 대표 고급 주거·상업 구로 서초동과 반포동, 양재동 상권과 법조타운이 함께한다.",
   "data_sources": [
     {
