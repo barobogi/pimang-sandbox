@@ -1,0 +1,590 @@
+{
+  "block_code": "43730",
+  "block_name": "충청북도 옥천군",
+  "bbox": [
+    127.486231,
+    36.170713,
+    127.891201,
+    36.445268
+  ],
+  "center": [
+    36.30799,
+    127.688716
+  ],
+  "landmarks": [
+    {
+      "name": "정지용 생가",
+      "lat": 36.3149799,
+      "lng": 127.5815939,
+      "category": "문학/유적",
+      "description": "정지용 생가은(는) 충청북도 옥천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 94.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    },
+    {
+      "name": "대청호",
+      "lat": 36.4186189,
+      "lng": 127.4971066,
+      "category": "호수/자연",
+      "description": "대청호은(는) 충청북도 옥천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 125.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/1280px-Daecheong_Dam.jpg"
+    },
+    {
+      "name": "옥천군청",
+      "lat": 36.306508,
+      "lng": 127.5714798,
+      "category": "행정/랜드마크",
+      "description": "옥천군청은(는) 충청북도 옥천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 89.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Okcheon-gun_office.JPG/1280px-Okcheon-gun_office.JPG"
+    },
+    {
+      "name": "옥천시장",
+      "lat": 36.3079901,
+      "lng": 127.68871625,
+      "category": "시장/먹거리",
+      "description": "옥천시장은(는) 충청북도 옥천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 243.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Okcheon-gun_office.JPG/1280px-Okcheon-gun_office.JPG"
+    },
+    {
+      "name": "향수공원",
+      "lat": 36.3079262,
+      "lng": 127.5726497,
+      "category": "공원/문학",
+      "description": "향수공원은(는) 충청북도 옥천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 89.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Korea-Yongin-Everland-06.jpg/1280px-Korea-Yongin-Everland-06.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "옥천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "옥천시장 → 정지용 생가 → 향수공원 → 옥천군청 → 대청호 순으로 이어지는 충청북도 옥천군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "옥천시장",
+        "정지용 생가",
+        "향수공원",
+        "옥천군청",
+        "대청호"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "옥천 그린 랜드스케이프 플라이트",
+      "description": "대청호 → 정지용 생가 → 향수공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 옥천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "대청호",
+        "정지용 생가",
+        "향수공원"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "옥천 도심 스카이라인 크루즈",
+      "description": "옥천군청 → 향수공원 → 옥천시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 옥천의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "옥천군청",
+        "향수공원",
+        "옥천시장"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "옥천 큰마당식당",
+      "lat": 36.30834,
+      "lng": 127.689066,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥천 동네밥집",
+      "lat": 36.30757,
+      "lng": 127.688506,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥천 골목식당",
+      "lat": 36.3075,
+      "lng": 127.688506,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "옥천 솥뚜껑가게",
+      "lat": 36.30806,
+      "lng": 127.688156,
+      "specialty": "호박엿",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "정지용 생가",
+        "station_name": "정지용 생가 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.31218,
+          127.581594
+        ]
+      },
+      {
+        "target_landmark": "대청호",
+        "station_name": "대청호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.415819,
+          127.497107
+        ]
+      },
+      {
+        "target_landmark": "옥천군청",
+        "station_name": "옥천군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.303708,
+          127.57148
+        ]
+      },
+      {
+        "target_landmark": "옥천시장",
+        "station_name": "옥천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.30719,
+          127.689916
+        ]
+      },
+      {
+        "target_landmark": "향수공원",
+        "station_name": "향수공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.305126,
+          127.57265
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "옥천 중앙 공영주차장",
+        "coordinates": [
+          36.30639,
+          127.686716
+        ],
+        "capacity": 243,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "옥천 제2 공영주차장",
+        "coordinates": [
+          36.31258,
+          127.582394
+        ],
+        "capacity": 225,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "옥천 제3 공영주차장",
+        "coordinates": [
+          36.309126,
+          127.57025
+        ],
+        "capacity": 313,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "옥천초등학교 운동장",
+        "coordinates": [
+          36.298952,
+          127.554202
+        ],
+        "capacity": 6300,
+        "address": "충청북도 옥천군"
+      },
+      {
+        "name": "옥천실내체육관",
+        "coordinates": [
+          36.435193,
+          127.528227
+        ],
+        "capacity": 1100,
+        "address": "충청북도 옥천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "정지용 생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대청호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "옥천군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "옥천시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "향수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "대청호 벚꽃",
+        "향수공원 봄"
+      ],
+      "summer": [
+        "대청호 여름",
+        "향수공원 여름"
+      ],
+      "autumn": [
+        "대청호 단풍",
+        "정지용 생가 가을"
+      ],
+      "winter": [
+        "대청호 설경",
+        "옥천시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대청호 야경",
+        "coordinates": [
+          36.418619,
+          127.497107
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "향수공원 야경",
+        "coordinates": [
+          36.307926,
+          127.57265
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "옥천군은 정지용 생가와 향수, 대청호가 자리한 충북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Okcheon-gun, Chungbuk",
+      "landmarks": {
+        "정지용 생가": [
+          "Jung Ji-yong's Birthplace",
+          "Signature literary heritage of Okcheon-gun, Chungbuk."
+        ],
+        "대청호": [
+          "Daecheongho Lake",
+          "Signature lake attraction of Okcheon-gun, Chungbuk."
+        ],
+        "옥천군청": [
+          "Okcheon County Office",
+          "Administrative center of Okcheon-gun, Chungbuk."
+        ],
+        "옥천시장": [
+          "Okcheon Market",
+          "Signature market attraction of Okcheon-gun, Chungbuk."
+        ],
+        "향수공원": [
+          "Hyangsu Park",
+          "Signature literary park of Okcheon-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 沃川郡",
+      "landmarks": {
+        "정지용 생가": [
+          "鄭芝溶生家",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "대청호": [
+          "大清湖",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "옥천군청": [
+          "沃川郡庁",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "옥천시장": [
+          "沃川市場",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "향수공원": [
+          "郷樹公園",
+          "忠清北道沃川郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 沃川郡",
+      "landmarks": {
+        "정지용 생가": [
+          "郑芝溶故居",
+          "忠清北道沃川郡的代表性文学遗迹。"
+        ],
+        "대청호": [
+          "大清水库",
+          "忠清北道沃川郡的代表性湖泊。"
+        ],
+        "옥천군청": [
+          "沃川郡厅",
+          "忠清北道沃川郡的行政中心。"
+        ],
+        "옥천시장": [
+          "沃川市场",
+          "忠清北道沃川郡的代表性市场。"
+        ],
+        "향수공원": [
+          "乡树公园",
+          "忠清北道沃川郡的代表性文学公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.oc.go.kr",
+    "civil_service_center": {
+      "location_name": "옥천군청 민원실 앞",
+      "coordinates": [
+        127.571448,
+        36.306516
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-730-3114",
+      "info": "충청북도 옥천군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "옥천군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.688216,
+      36.308191
+    ],
+    "cctv_zone_count": 195,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "옥천군민공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "중봉 충렬제",
+    "typical_month": 9,
+    "venue_name": "청성호 일대",
+    "venue_coords": [
+      127.688616,
+      36.308491
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "옥천군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.568848,
+      36.305816
+    ],
+    "reservation_url": "https://www.oc.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "옥천군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.571848,
+      36.307016
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "옥천군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.570448,
+      36.306016
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "옥천 큰마당식당",
+    "coordinates": [
+      127.689066,
+      36.30834
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (옥천군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=옥천군청&goalx=127.571448&goaly=36.306516",
+    "kakaonavi_url": "kakaonavi://navigate?name=옥천군청&x=127.571448&y=36.306516&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=옥천군청&dlng=127.571448&dlat=36.306516&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 53.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:50",
+      "noon_altitude_deg": 77.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 53.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:18",
+      "noon_altitude_deg": 30.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "옥천군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.689066,
+          36.309641
+        ],
+        [
+          127.688216,
+          36.308191
+        ],
+        [
+          127.688366,
+          36.308541
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "옥천군 전통시장 만남의거리",
+    "anchor_center": [
+      127.573048,
+      36.304716
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 170,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
