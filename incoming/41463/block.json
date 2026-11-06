@@ -143,6 +143,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "보정동 카페거리",
+        "station_name": "보정동 카페거리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3158,
+          127.088
+        ]
+      },
+      {
+        "target_landmark": "신갈지구",
+        "station_name": "기흥역",
+        "line": "수인분당선·용인 에버라인",
+        "walk_minutes": 38,
+        "coordinates": [
+          37.2755,
+          127.1385
+        ]
+      },
+      {
+        "target_landmark": "기흥역 상권",
+        "station_name": "기흥역",
+        "line": "수인분당선·용인 에버라인",
+        "walk_minutes": 13,
+        "coordinates": [
+          37.2755,
+          127.1385
+        ]
+      },
+      {
+        "target_landmark": "동백지구",
+        "station_name": "동백지구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3266,
+          127.127
+        ]
+      },
+      {
+        "target_landmark": "기흥동 상권",
+        "station_name": "기흥역",
+        "line": "수인분당선·용인 에버라인",
+        "walk_minutes": 18,
+        "coordinates": [
+          37.2755,
+          127.1385
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "기흥 중앙 공영주차장",
+        "coordinates": [
+          37.2768,
+          127.1304
+        ],
+        "capacity": 467,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "기흥 제2 공영주차장",
+        "coordinates": [
+          37.2814,
+          127.1284
+        ],
+        "capacity": 511,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "용인 기흥구는 보정동 카페거리와 신갈지구가 함께한 용인 중부의 구이다.",
   "data_sources": [
     {
