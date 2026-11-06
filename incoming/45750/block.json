@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Imsil-gun, Jeonbuk",
+      "landmarks": {
+        "옥정호": [
+          "Okjeongho Lake",
+          "Signature lake attraction of Imsil-gun, Jeonbuk."
+        ],
+        "임실치즈테마파크": [
+          "Imsil Cheese Theme Park",
+          "Signature theme park attraction of Imsil-gun, Jeonbuk."
+        ],
+        "성수산": [
+          "Seongsusan Mountain",
+          "Signature mountain attraction of Imsil-gun, Jeonbuk."
+        ],
+        "임실군청": [
+          "Imsil County Office",
+          "Administrative center of Imsil-gun, Jeonbuk."
+        ],
+        "임실시장": [
+          "Imsil Market",
+          "Signature market attraction of Imsil-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 任実郡",
+      "landmarks": {
+        "옥정호": [
+          "玉亭湖",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "임실치즈테마파크": [
+          "任実チーズテーマパーク",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "성수산": [
+          "聖寿山",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "임실군청": [
+          "任実郡庁",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "임실시장": [
+          "任実市場",
+          "全北特別自治道任実郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 任实郡",
+      "landmarks": {
+        "옥정호": [
+          "玉亭湖",
+          "全北特别自治道任实郡的代表性湖泊。"
+        ],
+        "임실치즈테마파크": [
+          "任实奶酪主题公园",
+          "全北特别自治道任实郡的代表性主题乐园。"
+        ],
+        "성수산": [
+          "圣寿山",
+          "全北特别自治道任实郡的代表性名山。"
+        ],
+        "임실군청": [
+          "任实郡厅",
+          "全北特别自治道任实郡的行政中心。"
+        ],
+        "임실시장": [
+          "任实市场",
+          "全北特别自治道任实郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
