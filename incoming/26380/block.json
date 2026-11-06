@@ -137,6 +137,83 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "감천문화마을",
+        "station_name": "하단역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 49,
+        "coordinates": [
+          35.126334,
+          129.0161
+        ]
+      },
+      {
+        "target_landmark": "다대포해수욕장",
+        "station_name": "다대포해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.04484,
+          128.962038
+        ]
+      },
+      {
+        "target_landmark": "을숙도",
+        "station_name": "을숙도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.099941,
+          128.938933
+        ]
+      },
+      {
+        "target_landmark": "구평공원",
+        "station_name": "구평공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.099,
+          128.975
+        ]
+      },
+      {
+        "target_landmark": "하단동 상권",
+        "station_name": "하단동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.103,
+          128.97
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "사하 중앙 공영주차장",
+        "coordinates": [
+          35.04684,
+          128.966038
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "사하 제2 공영주차장",
+        "coordinates": [
+          35.094737,
+          129.00919
+        ],
+        "capacity": 438,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부산 사하구는 감천문화마을과 다대포, 을숙도가 자리한 부산 서부의 해안 구이다.",
   "data_sources": [
     {
