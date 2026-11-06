@@ -352,6 +352,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -520,5 +525,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "진주냉면 (김해시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=김해시청&goalx=128.867206&goaly=35.254459",
+    "kakaonavi_url": "kakaonavi://navigate?name=김해시청&x=128.867206&y=35.254459&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=김해시청&dlng=128.867206&dlat=35.254459&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 54.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:42",
+      "noon_altitude_deg": 78.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 54.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:30",
+      "sunset": "17:16",
+      "noon_altitude_deg": 31.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "김해시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.853949,
+          35.271645
+        ],
+        [
+          128.855099,
+          35.273045
+        ],
+        [
+          128.856549,
+          35.274495
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "김해시 중심상업거리",
+    "anchor_center": [
+      128.868206,
+      35.255326
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 10,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
   }
 }
