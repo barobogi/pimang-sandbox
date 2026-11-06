@@ -147,6 +147,97 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동래읍성",
+        "station_name": "동래역",
+        "line": "부산 1호선",
+        "exit_no": 6,
+        "walk_minutes": 12,
+        "coordinates": [
+          35.2063,
+          129.0796
+        ]
+      },
+      {
+        "target_landmark": "충렬사",
+        "station_name": "사직역",
+        "line": "부산 3호선",
+        "exit_no": 10,
+        "walk_minutes": 22,
+        "coordinates": [
+          35.1953,
+          129.0802
+        ]
+      },
+      {
+        "target_landmark": "온천천벚꽃길",
+        "station_name": "사직역",
+        "line": "부산 3호선",
+        "exit_no": 10,
+        "walk_minutes": 7,
+        "coordinates": [
+          35.1953,
+          129.0802
+        ]
+      },
+      {
+        "target_landmark": "복천동고분군",
+        "station_name": "동래역",
+        "line": "부산 1호선",
+        "exit_no": 6,
+        "walk_minutes": 14,
+        "coordinates": [
+          35.2063,
+          129.0796
+        ]
+      },
+      {
+        "target_landmark": "금강공원",
+        "station_name": "동래역",
+        "line": "부산 1호선",
+        "exit_no": 6,
+        "walk_minutes": 24,
+        "coordinates": [
+          35.2063,
+          129.0796
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동래 중앙 공영주차장",
+        "coordinates": [
+          35.197,
+          129.0846
+        ],
+        "capacity": 507,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동래 제2 공영주차장",
+        "coordinates": [
+          35.207971,
+          129.086244
+        ],
+        "capacity": 249,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동래 제3 공영주차장",
+        "coordinates": [
+          35.2084,
+          129.0874
+        ],
+        "capacity": 336,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부산 동래구는 조선 시대 동래부였던 유서 깊은 지역으로 동래읍성과 충렬사, 온천천 벚꽃길이 자리한 부산 북부의 구이다.",
   "data_sources": [
     {
