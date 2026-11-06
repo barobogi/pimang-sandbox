@@ -1,0 +1,599 @@
+{
+  "block_code": "41430",
+  "block_name": "경기도 의왕시",
+  "bbox": [
+    126.929235,
+    37.300367,
+    127.046845,
+    37.415619
+  ],
+  "center": [
+    37.357993,
+    126.98804
+  ],
+  "landmarks": [
+    {
+      "name": "백운호수",
+      "lat": 37.3807762,
+      "lng": 127.0004135,
+      "category": "호수/관광",
+      "description": "의왕의 대표 호수 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%ED%98%B8%EC%88%98",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 203.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg/1280px-%EC%9D%98%EC%99%95%EC%8B%9C_2020-68_2020-04-10_%EC%A1%B0%EC%84%B1%EA%B3%84%ED%9A%8D%EB%8F%84_%EB%B3%80%EA%B2%BD.jpg"
+    },
+    {
+      "name": "오전동 상권",
+      "lat": 37.375,
+      "lng": 126.976,
+      "category": "상권",
+      "description": "오전동에 형성된 의왕 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 150.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/20231012_Citiscape_of_Uiwang_02.jpg/1280px-20231012_Citiscape_of_Uiwang_02.jpg"
+    },
+    {
+      "name": "의왕박물관",
+      "lat": 37.372,
+      "lng": 126.97,
+      "category": "박물관/문화",
+      "description": "의왕의 대표 문화 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 134.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/20231012_Citiscape_of_Uiwang_02.jpg/1280px-20231012_Citiscape_of_Uiwang_02.jpg"
+    },
+    {
+      "name": "백운산",
+      "lat": 37.3535546,
+      "lng": 127.0170061,
+      "category": "산/자연",
+      "description": "의왕과 안산 경계의 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0_%28%EA%B2%BD%EA%B8%B0%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 280.9
+      }
+    },
+    {
+      "name": "내손동 상권",
+      "lat": 37.38,
+      "lng": 126.975,
+      "category": "상권",
+      "description": "내손동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%99%95%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 154.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/20231012_Citiscape_of_Uiwang_02.jpg/1280px-20231012_Citiscape_of_Uiwang_02.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "의왕 자연 힐링 시그니처 에어리얼 투어",
+      "description": "오전동 상권 → 내손동 상권 → 의왕박물관 → 백운호수 → 백운산 순으로 이어지는 경기도 의왕시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "오전동 상권",
+        "내손동 상권",
+        "의왕박물관",
+        "백운호수",
+        "백운산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "의왕 그린 랜드스케이프 플라이트",
+      "description": "백운산 → 백운호수 → 내손동 상권 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 의왕의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "백운산",
+        "백운호수",
+        "내손동 상권"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "의왕 도심 스카이라인 크루즈",
+      "description": "내손동 상권 → 오전동 상권 → 의왕박물관 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 의왕의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "내손동 상권",
+        "오전동 상권",
+        "의왕박물관"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "오전동 상권 동네밥집",
+      "lat": 37.375,
+      "lng": 126.97586,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "의왕박물관 가마솥밥가",
+      "lat": 37.37137,
+      "lng": 126.96937,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "내손동 상권 할매집",
+      "lat": 37.3793,
+      "lng": 126.97521,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "백운호수 옛맛식당",
+      "lat": 37.380986,
+      "lng": 126.999854,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "백운호수",
+        "station_name": "백운호수 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.383576,
+          126.998813
+        ]
+      },
+      {
+        "target_landmark": "오전동 상권",
+        "station_name": "오전동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3778,
+          126.9744
+        ]
+      },
+      {
+        "target_landmark": "의왕박물관",
+        "station_name": "의왕역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 48,
+        "coordinates": [
+          37.3418,
+          126.9711
+        ]
+      },
+      {
+        "target_landmark": "백운산",
+        "station_name": "백운산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.356355,
+          127.015406
+        ]
+      },
+      {
+        "target_landmark": "내손동 상권",
+        "station_name": "내손동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3828,
+          126.9734
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의왕 중앙 공영주차장",
+        "coordinates": [
+          37.3742,
+          126.9764
+        ],
+        "capacity": 343,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "의왕 제2 공영주차장",
+        "coordinates": [
+          37.3696,
+          126.972
+        ],
+        "capacity": 444,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "의왕 제3 공영주차장",
+        "coordinates": [
+          37.3816,
+          126.977
+        ],
+        "capacity": 188,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "의왕초등학교 운동장",
+        "coordinates": [
+          37.383624,
+          126.984785
+        ],
+        "capacity": 6400,
+        "address": "경기도 의왕시"
+      },
+      {
+        "name": "의왕실내체육관",
+        "coordinates": [
+          37.373914,
+          126.976881
+        ],
+        "capacity": 2100,
+        "address": "경기도 의왕시"
+      },
+      {
+        "name": "의왕중앙공원 비상집합장소",
+        "coordinates": [
+          37.360454,
+          126.958416
+        ],
+        "capacity": 4300,
+        "address": "경기도 의왕시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "백운호수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오전동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "의왕박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "백운산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "내손동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "백운호수 벚꽃",
+        "백운산 봄 진달래"
+      ],
+      "summer": [
+        "백운호수 여름",
+        "백운산 여름"
+      ],
+      "autumn": [
+        "백운산 단풍",
+        "백운호수 가을"
+      ],
+      "winter": [
+        "백운호수 설경",
+        "의왕박물관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "백운호수 야경",
+        "coordinates": [
+          37.380776,
+          127.000413
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "백운산 야경",
+        "coordinates": [
+          37.353555,
+          127.017006
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "의왕시는 백운호수와 오전동 상권이 함께한 경기 남부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uiwang-si, Gyeonggi",
+      "landmarks": {
+        "백운호수": [
+          "Baegunho Lake",
+          "Uiwang's signature lakeside attraction."
+        ],
+        "오전동 상권": [
+          "Ojeon-dong District",
+          "Commercial hub of Uiwang in Ojeon-dong."
+        ],
+        "의왕박물관": [
+          "Uiwang Museum",
+          "Uiwang's signature cultural facility."
+        ],
+        "백운산": [
+          "Baegunsan Mountain",
+          "Mountain on the Uiwang-Ansan boundary."
+        ],
+        "내손동 상권": [
+          "Naeson-dong District",
+          "Everyday commercial hub in Naeson-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 儀旺市",
+      "landmarks": {
+        "백운호수": [
+          "白雲湖",
+          "儀旺を代表する湖の観光地。"
+        ],
+        "오전동 상권": [
+          "午前洞商圏",
+          "午前洞に形成された儀旺を代表する商圏。"
+        ],
+        "의왕박물관": [
+          "儀旺博物館",
+          "儀旺を代表する文化施設。"
+        ],
+        "백운산": [
+          "白雲山",
+          "儀旺と安山の境界の代表的な山。"
+        ],
+        "내손동 상권": [
+          "内孫洞商圏",
+          "内孫洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 义王市",
+      "landmarks": {
+        "백운호수": [
+          "白云湖",
+          "义王的代表性湖泊观光地。"
+        ],
+        "오전동 상권": [
+          "五全洞商圈",
+          "五全洞形成的义王代表性商圈。"
+        ],
+        "의왕박물관": [
+          "义王博物馆",
+          "义王的代表性文化设施。"
+        ],
+        "백운산": [
+          "白云山",
+          "义王与安山交界的代表山峰。"
+        ],
+        "내손동 상권": [
+          "内孙洞商圈",
+          "内孙洞形成的代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.uw21.net",
+    "civil_service_center": {
+      "location_name": "의왕시청 민원실 앞",
+      "coordinates": [
+        126.968248,
+        37.344709
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-345-2114",
+      "info": "경기도 의왕시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "의왕시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.98754,
+      37.357393
+    ],
+    "cctv_zone_count": 119,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "왕송호수공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "의왕 백운 예술제",
+    "typical_month": 10,
+    "venue_name": "왕송호수공원",
+    "venue_coords": [
+      126.98804,
+      37.358393
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "의왕시 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.967448,
+      37.344309
+    ],
+    "reservation_url": "https://www.uw21.net"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "의왕시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.969848,
+      37.347109
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "의왕시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.970948,
+      37.342309
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "오전동 상권 동네밥집",
+    "coordinates": [
+      126.97586,
+      37.375
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (의왕시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=의왕시청&goalx=126.968248&goaly=37.344709",
+    "kakaonavi_url": "kakaonavi://navigate?name=의왕시청&x=126.968248&y=37.344709&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=의왕시청&dlng=126.968248&dlat=37.344709&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "의왕시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.98769,
+          37.356993
+        ],
+        [
+          126.98754,
+          37.357393
+        ],
+        [
+          126.98859,
+          37.358393
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "의왕시 중심상업거리",
+    "anchor_center": [
+      126.966915,
+      37.343976
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 30,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
