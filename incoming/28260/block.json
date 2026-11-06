@@ -137,6 +137,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청라국제도시",
+        "station_name": "청라국제도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.533369,
+          126.641326
+        ]
+      },
+      {
+        "target_landmark": "검단신도시",
+        "station_name": "검단신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.591287,
+          126.709205
+        ]
+      },
+      {
+        "target_landmark": "아라뱃길",
+        "station_name": "아라뱃길 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.570836,
+          126.676789
+        ]
+      },
+      {
+        "target_landmark": "오류동 갯벌체험장",
+        "station_name": "오류동 갯벌체험장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.6126,
+          126.6788
+        ]
+      },
+      {
+        "target_landmark": "가좌동 상권",
+        "station_name": "가좌동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5444,
+          126.6888
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          37.530969,
+          126.642526
+        ],
+        "capacity": 315,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          37.572436,
+          126.678389
+        ],
+        "capacity": 254,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "인천 서구는 청라국제도시와 검단신도시, 경인아라뱃길이 자리한 인천 서부의 대형 구이다.",
   "data_sources": [
     {
