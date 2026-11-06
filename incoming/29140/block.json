@@ -336,5 +336,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Gwangju",
+      "landmarks": {
+        "상무지구": [
+          "Sangmu District",
+          "Signature new town district of western Gwangju."
+        ],
+        "풍암호수공원": [
+          "Pungam Lake Park",
+          "Signature lake park of Pungam-dong."
+        ],
+        "유스퀘어": [
+          "U-Square",
+          "Gwangju's main intercity bus terminal."
+        ],
+        "서구문화예술회관": [
+          "Seo-gu Culture and Arts Center",
+          "Seo-gu's signature cultural facility."
+        ],
+        "황룡강": [
+          "Hwangnyonggang River",
+          "Stream flowing through Seo-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "光州広域市 西区",
+      "landmarks": {
+        "상무지구": [
+          "尚武地区",
+          "光州西部を代表する新都市商圏。"
+        ],
+        "풍암호수공원": [
+          "風岩湖公園",
+          "風岩洞の代表的な湖畔公園。"
+        ],
+        "유스퀘어": [
+          "ユーススクエア",
+          "光州を代表する市外バスターミナル。"
+        ],
+        "서구문화예술회관": [
+          "西区文化芸術会館",
+          "西区を代表する文化施設。"
+        ],
+        "황룡강": [
+          "黄龍江",
+          "西区を流れる支流。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "光州广域市 西区",
+      "landmarks": {
+        "상무지구": [
+          "尚武新区",
+          "光州西部的代表性新城商圈。"
+        ],
+        "풍암호수공원": [
+          "风岩湖公园",
+          "风岩洞的代表性湖畔公园。"
+        ],
+        "유스퀘어": [
+          "U-Square",
+          "光州代表性长途巴士客运站。"
+        ],
+        "서구문화예술회관": [
+          "西区文化艺术会馆",
+          "西区的代表性文化设施。"
+        ],
+        "황룡강": [
+          "黄龙江",
+          "流经西区的河流。"
+        ]
+      }
+    }
   }
 }
