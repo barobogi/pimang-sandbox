@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "장수초등학교 운동장",
+        "coordinates": [
+          35.617312,
+          127.550397
+        ],
+        "capacity": 6400,
+        "address": "전북특별자치도 장수군"
+      },
+      {
+        "name": "장수실내체육관",
+        "coordinates": [
+          35.686831,
+          127.610814
+        ],
+        "capacity": 6900,
+        "address": "전북특별자치도 장수군"
+      },
+      {
+        "name": "장수중앙공원 비상집합장소",
+        "coordinates": [
+          35.653947,
+          127.570089
+        ],
+        "capacity": 7500,
+        "address": "전북특별자치도 장수군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "장안산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "논개생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장수군청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장수시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장수누리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "장수군은 장안산과 논개 생가, 장수오미자로 유명한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
