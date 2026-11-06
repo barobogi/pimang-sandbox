@@ -1,0 +1,590 @@
+{
+  "block_code": "11320",
+  "block_name": "서울특별시 도봉구",
+  "bbox": [
+    127.008103,
+    37.631201,
+    127.055912,
+    37.701479
+  ],
+  "center": [
+    37.66634,
+    127.032008
+  ],
+  "landmarks": [
+    {
+      "name": "도봉산",
+      "lat": 37.688786,
+      "lng": 127.0461858,
+      "category": "산/국민관광지",
+      "description": "해발 740m의 대표 등산 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 206.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/b/be/Dobongsan.jpg"
+    },
+    {
+      "name": "도봉산도립공원",
+      "lat": 37.669,
+      "lng": 127.018,
+      "category": "공원/자연",
+      "description": "도봉산 자락의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 103.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dobong-gu_Office_20140127_090655.jpg/1280px-Dobong-gu_Office_20140127_090655.jpg"
+    },
+    {
+      "name": "창동신도시",
+      "lat": 37.655,
+      "lng": 127.048,
+      "category": "신도시",
+      "description": "창동역 중심으로 조성된 대단위 신도시 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 311.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Dobong-gu_Changdong_sunset_20240412.jpg/1280px-Dobong-gu_Changdong_sunset_20240412.jpg"
+    },
+    {
+      "name": "사패산",
+      "lat": 37.7010892,
+      "lng": 127.0158572,
+      "category": "산/자연",
+      "description": "의정부와 경계를 이루는 도봉구 북부의 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%8C%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 159.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mt._Sapaesan_%28%EC%82%AC%ED%8C%A8%EC%82%B0%29_-_Bukhansan.jpg/1280px-Mt._Sapaesan_%28%EC%82%AC%ED%8C%A8%EC%82%B0%29_-_Bukhansan.jpg"
+    },
+    {
+      "name": "쌍문동 상권",
+      "lat": 37.647,
+      "lng": 127.031,
+      "category": "상권",
+      "description": "쌍문동에 형성된 도봉구 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B4%89%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 2.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dobong-gu_Office_20140127_090655.jpg/1280px-Dobong-gu_Office_20140127_090655.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "도봉 자연 힐링 시그니처 에어리얼 투어",
+      "description": "도봉산도립공원 → 쌍문동 상권 → 창동신도시 → 도봉산 → 사패산 순으로 이어지는 서울특별시 도봉구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "도봉산도립공원",
+        "쌍문동 상권",
+        "창동신도시",
+        "도봉산",
+        "사패산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "도봉 산하 절경 에어리얼 투어",
+      "description": "도봉산도립공원 → 도봉산 → 사패산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 도봉의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "도봉산도립공원",
+        "도봉산",
+        "사패산"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "도봉산도립공원 솥뚜껑가게",
+      "lat": 37.66879,
+      "lng": 127.01849,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "쌍문동 상권 큰마당식당",
+      "lat": 37.64735,
+      "lng": 127.0303,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "창동신도시 동네밥집",
+      "lat": 37.65549,
+      "lng": 127.04835,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "도봉산 본점",
+      "lat": 37.689276,
+      "lng": 127.046536,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "사패산 골목식당",
+      "lat": 37.701079,
+      "lng": 127.016557,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "도봉산",
+        "station_name": "도봉산역",
+        "line": "서울 4호선",
+        "exit_no": 1,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.6897,
+          127.0456
+        ]
+      },
+      {
+        "target_landmark": "도봉산도립공원",
+        "station_name": "방학역",
+        "line": "서울 1호선",
+        "exit_no": 9,
+        "walk_minutes": 35,
+        "coordinates": [
+          37.6683,
+          127.0462
+        ]
+      },
+      {
+        "target_landmark": "창동신도시",
+        "station_name": "창동역",
+        "line": "서울 1·4호선",
+        "exit_no": 9,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.6552,
+          127.0471
+        ]
+      },
+      {
+        "target_landmark": "사패산",
+        "station_name": "도봉산역",
+        "line": "서울 4호선",
+        "exit_no": 1,
+        "walk_minutes": 42,
+        "coordinates": [
+          37.6897,
+          127.0456
+        ]
+      },
+      {
+        "target_landmark": "쌍문동 상권",
+        "station_name": "쌍문역",
+        "line": "서울 4호선",
+        "exit_no": 1,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.6488,
+          127.0339
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "도봉 중앙 공영주차장",
+        "coordinates": [
+          37.6694,
+          127.0156
+        ],
+        "capacity": 328,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "도봉 제2 공영주차장",
+        "coordinates": [
+          37.6446,
+          127.0322
+        ],
+        "capacity": 189,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "도봉초등학교 운동장",
+        "coordinates": [
+          37.680968,
+          127.044871
+        ],
+        "capacity": 6900,
+        "address": "서울특별시 도봉구"
+      },
+      {
+        "name": "도봉실내체육관",
+        "coordinates": [
+          37.671119,
+          127.024323
+        ],
+        "capacity": 6500,
+        "address": "서울특별시 도봉구"
+      },
+      {
+        "name": "도봉중앙공원 비상집합장소",
+        "coordinates": [
+          37.650052,
+          127.042283
+        ],
+        "capacity": 4900,
+        "address": "서울특별시 도봉구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "도봉산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도봉산도립공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창동신도시",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "사패산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쌍문동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "도봉산 봄 진달래",
+        "사패산 봄 산행"
+      ],
+      "summer": [
+        "도봉산 계곡 여름",
+        "창동신도시 여름밤"
+      ],
+      "autumn": [
+        "도봉산 단풍길",
+        "사패산 억새"
+      ],
+      "winter": [
+        "도봉산 설경",
+        "창동신도시 겨울 빛거리"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "도봉산 야경 전망",
+        "coordinates": [
+          37.688786,
+          127.046186
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "사패산 야경",
+        "coordinates": [
+          37.701089,
+          127.015857
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "도봉구는 도봉산 자락의 북부 자치구로 도봉산 국민관광지와 창동 신도시가 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dobong-gu, Seoul",
+      "landmarks": {
+        "도봉산": [
+          "Dobongsan Mountain",
+          "Beloved 740 m hiking peak and national tourist attraction."
+        ],
+        "도봉산도립공원": [
+          "Dobongsan Provincial Park",
+          "Neighborhood park at the foot of Dobongsan."
+        ],
+        "창동신도시": [
+          "Chang-dong New Town",
+          "Large-scale new town district centered on Chang-dong Station."
+        ],
+        "사패산": [
+          "Sapaesan Mountain",
+          "Northern boundary mountain shared with Uijeongbu."
+        ],
+        "쌍문동 상권": [
+          "Ssangmun-dong Commercial District",
+          "Everyday commercial hub representing Dobong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 道峰区",
+      "landmarks": {
+        "도봉산": [
+          "道峰山",
+          "標高740メートルを誇る代表的な登山名山。"
+        ],
+        "도봉산도립공원": [
+          "道峰山都立公園",
+          "道峰山のふもとに広がる代表的な近隣公園。"
+        ],
+        "창동신도시": [
+          "倉洞新都市",
+          "倉洞駅を中心に造成された大規模ニュータウン商圏。"
+        ],
+        "사패산": [
+          "沙怕山",
+          "議政府と境をなす道峰区北部の山。"
+        ],
+        "쌍문동 상권": [
+          "双門洞商圏",
+          "双門洞に形成された道峰区を代表する生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 道峰区",
+      "landmarks": {
+        "도봉산": [
+          "道峰山",
+          "海拔740米，是韩国人气极高的登山名山。"
+        ],
+        "도봉산도립공원": [
+          "道峰山道立公园",
+          "道峰山麓的大型近邻公园。"
+        ],
+        "창동신도시": [
+          "仓洞新城市",
+          "以仓洞站为中心建成的大型新城商圈。"
+        ],
+        "사패산": [
+          "沙岘山",
+          "与议政府市交界的道峰区北部山峰。"
+        ],
+        "쌍문동 상권": [
+          "双门洞商圈",
+          "双门洞形成的道峰区代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dobong.go.kr",
+    "civil_service_center": {
+      "location_name": "도봉구청 민원실 앞",
+      "coordinates": [
+        127.047303,
+        37.66872
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2091-2120",
+      "info": "서울특별시 도봉구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "도봉구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.031408,
+      37.66584
+    ],
+    "cctv_zone_count": 115,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "도봉산 근린공원(창제골)",
+    "trail_length_km": 4.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "도봉 도깨비 축제",
+    "typical_month": 10,
+    "venue_name": "도봉구청 일대",
+    "venue_coords": [
+      127.031608,
+      37.66594
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "도봉구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.047303,
+      37.67052
+    ],
+    "reservation_url": "https://www.dobong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "도봉구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.046903,
+      37.67072
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "도봉구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.045803,
+      37.66742
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "도봉산도립공원 솥뚜껑가게",
+    "coordinates": [
+      127.01849,
+      37.66879
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "설농탕 (도봉구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=도봉구청&goalx=127.047303&goaly=37.668720",
+    "kakaonavi_url": "kakaonavi://navigate?name=도봉구청&x=127.047303&y=37.668720&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=도봉구청&dlng=127.047303&dlat=37.668720&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:17",
+      "noon_altitude_deg": 28.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "도봉구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.029908,
+          37.66544
+        ],
+        [
+          127.031408,
+          37.66584
+        ],
+        [
+          127.031008,
+          37.66459
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "도봉구 중심상업거리",
+    "anchor_center": [
+      127.048503,
+      37.667853
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 160,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
