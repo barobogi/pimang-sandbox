@@ -1,0 +1,572 @@
+{
+  "block_code": "43113",
+  "block_name": "충청북도 청주시 흥덕구",
+  "bbox": [
+    127.27565,
+    36.561684,
+    127.481931,
+    36.72467
+  ],
+  "center": [
+    36.643177,
+    127.378791
+  ],
+  "landmarks": [
+    {
+      "name": "충북대학교",
+      "lat": 36.6281688,
+      "lng": 127.4538403,
+      "category": "교육/캠퍼스",
+      "description": "충북대학교은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 284.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90_%EC%A0%95%EB%AC%B8.jpg/1280px-%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90_%EC%A0%95%EB%AC%B8.jpg"
+    },
+    {
+      "name": "사직공원",
+      "lat": 36.64317725,
+      "lng": 127.37879050000001,
+      "category": "도시공원",
+      "description": "사직공원은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%A7%81%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 121.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%EC%82%AC%EC%A7%81%EA%B3%B5%EC%9B%90%2C_%EC%82%AC%EC%A7%81%EB%8B%A8.jpg/1280px-%EC%82%AC%EC%A7%81%EA%B3%B5%EC%9B%90%2C_%EC%82%AC%EC%A7%81%EB%8B%A8.jpg"
+    },
+    {
+      "name": "흥덕구청",
+      "lat": 36.6289971,
+      "lng": 127.3758706,
+      "category": "행정/랜드마크",
+      "description": "흥덕구청은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%8D%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 9.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Heungdeok-gu_Cheongju.PNG"
+    },
+    {
+      "name": "공원",
+      "lat": 36.6236123,
+      "lng": 127.4420472,
+      "category": "관광지",
+      "description": "공원은(는) 충청북도 청주시 흥덕구에 자리한 대표 관광 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%8D%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 291.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Adda_Heights_Park.jpg/1280px-Adda_Heights_Park.jpg"
+    },
+    {
+      "name": "무심천",
+      "lat": 36.6691754,
+      "lng": 127.4613118,
+      "category": "하천/자연",
+      "description": "무심천은(는) 충청북도 청주시 흥덕구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%8B%AC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 248.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Musim_River.jpg/1280px-Musim_River.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "흥덕 도심 하이라이트 시그니처 스카이 투어",
+      "description": "사직공원 → 흥덕구청 → 공원 → 충북대학교 → 무심천 순으로 이어지는 충청북도 청주시 흥덕구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "사직공원",
+        "흥덕구청",
+        "공원",
+        "충북대학교",
+        "무심천"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "흥덕 도심 하이라이트 스카이 투어",
+      "description": "충북대학교 → 공원 → 흥덕구청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 흥덕의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "충북대학교",
+        "공원",
+        "흥덕구청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "흥덕 자연 힐링 스카이 워크",
+      "description": "무심천 → 사직공원 → 흥덕구청 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 흥덕의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "무심천",
+        "사직공원",
+        "흥덕구청"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "사직공원 가마솥밥가",
+      "lat": 36.643177,
+      "lng": 127.378721,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "흥덕구청 큰마당식당",
+      "lat": 36.629557,
+      "lng": 127.375941,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "공원 골목식당",
+      "lat": 36.623192,
+      "lng": 127.441417,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "충북대학교",
+        "station_name": "충북대학교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.626969,
+          127.45464
+        ]
+      },
+      {
+        "target_landmark": "사직공원",
+        "station_name": "흥덕버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.643177,
+          127.379191
+        ]
+      },
+      {
+        "target_landmark": "흥덕구청",
+        "station_name": "흥덕버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 23,
+        "coordinates": [
+          36.643177,
+          127.379191
+        ]
+      },
+      {
+        "target_landmark": "공원",
+        "station_name": "공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.622412,
+          127.442847
+        ]
+      },
+      {
+        "target_landmark": "무심천",
+        "station_name": "무심천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.667975,
+          127.462112
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "흥덕 중앙 공영주차장",
+        "coordinates": [
+          36.643577,
+          127.380391
+        ],
+        "capacity": 113,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "흥덕 제2 공영주차장",
+        "coordinates": [
+          36.627397,
+          127.377471
+        ],
+        "capacity": 317,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "흥덕초등학교 운동장",
+        "coordinates": [
+          36.638437,
+          127.457995
+        ],
+        "capacity": 5900,
+        "address": "충청북도 청주시 흥덕구"
+      },
+      {
+        "name": "흥덕실내체육관",
+        "coordinates": [
+          36.654695,
+          127.386335
+        ],
+        "capacity": 1500,
+        "address": "충청북도 청주시 흥덕구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "충북대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사직공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "흥덕구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "무심천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "사직공원 봄꽃",
+        "무심천 벚꽃"
+      ],
+      "summer": [
+        "무심천 여름",
+        "충북대 캠퍼스 여름"
+      ],
+      "autumn": [
+        "사직공원 단풍",
+        "충북대 캠퍼스 가을"
+      ],
+      "winter": [
+        "사직공원 겨울 조명",
+        "무심천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "사직공원 야경",
+        "coordinates": [
+          36.643177,
+          127.378791
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "무심천 야경",
+        "coordinates": [
+          36.669175,
+          127.461312
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "청주 흥덕구는 청주 서부의 구로 충북대학교와 사직공원, 백화점 상권이 함께한 대표 주거 상업 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Heungdeok-gu, Cheongju",
+      "landmarks": {
+        "충북대학교": [
+          "Chungbuk National University",
+          "Signature university attraction of Heungdeok-gu, Cheongju."
+        ],
+        "사직공원": [
+          "Sajik Park",
+          "Signature urban park of Heungdeok-gu, Cheongju."
+        ],
+        "흥덕구청": [
+          "Heungdeok-gu Office",
+          "Administrative center of Heungdeok-gu, Cheongju."
+        ],
+        "공원": [
+          "Gongwon Park",
+          "Signature scenic attraction of Heungdeok-gu, Cheongju."
+        ],
+        "무심천": [
+          "Musimcheon Stream",
+          "Signature stream attraction of Heungdeok-gu, Cheongju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 興徳区",
+      "landmarks": {
+        "충북대학교": [
+          "忠北大学校",
+          "忠清北道清州市興徳区を代表する名所。"
+        ],
+        "사직공원": [
+          "社稷公園",
+          "忠清北道清州市興徳区を代表する名所。"
+        ],
+        "흥덕구청": [
+          "興徳区庁",
+          "忠清北道清州市興徳区を代表する名所。"
+        ],
+        "공원": [
+          "公園",
+          "忠清北道清州市興徳区にある代表的な観光名所。"
+        ],
+        "무심천": [
+          "無心川",
+          "忠清北道清州市興徳区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 兴德区",
+      "landmarks": {
+        "충북대학교": [
+          "忠北大学",
+          "忠清北道清州市兴德区的代表性高校。"
+        ],
+        "사직공원": [
+          "社稷公园",
+          "忠清北道清州市兴德区的代表性城市公园。"
+        ],
+        "흥덕구청": [
+          "兴德区厅",
+          "忠清北道清州市兴德区的行政中心。"
+        ],
+        "공원": [
+          "公园",
+          "忠清北道清州市兴德区的代表性观光名胜。"
+        ],
+        "무심천": [
+          "无心川",
+          "忠清北道清州市兴德区的代表性河流。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.cheongju.go.kr/heungdeok",
+    "civil_service_center": {
+      "location_name": "흥덕구청 민원실 앞",
+      "coordinates": [
+        127.429405,
+        36.641875
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-201-0001",
+      "info": "충청북도 청주시 흥덕구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "흥덕구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.378391,
+      36.643077
+    ],
+    "cctv_zone_count": 152,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "흥덕근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "흥덕 구민축제",
+    "typical_month": 10,
+    "venue_name": "흥덕구청 광장",
+    "venue_coords": [
+      127.378991,
+      36.643077
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "흥덕구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.427405,
+      36.642775
+    ],
+    "reservation_url": "https://www.cheongju.go.kr/heungdeok"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "흥덕구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.430305,
+      36.641075
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "흥덕구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.429205,
+      36.641775
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "사직공원 가마솥밥가",
+    "coordinates": [
+      127.378721,
+      36.643177
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (흥덕구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=흥덕구청&goalx=127.429405&goaly=36.641875",
+    "kakaonavi_url": "kakaonavi://navigate?name=흥덕구청&x=127.429405&y=36.641875&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=흥덕구청&dlng=127.429405&dlat=36.641875&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:42",
+      "noon_altitude_deg": 53.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:27",
+      "noon_altitude_deg": 53.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "흥덕구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.377291,
+          36.642527
+        ],
+        [
+          127.378391,
+          36.643077
+        ],
+        [
+          127.377941,
+          36.644027
+        ]
+      ],
+      "cctv_linked_count": 11,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "흥덕구 중심상업거리",
+    "anchor_center": [
+      127.431272,
+      36.643475
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 21,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
