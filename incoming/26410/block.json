@@ -1,0 +1,572 @@
+{
+  "block_code": "26410",
+  "block_name": "부산광역시 금정구",
+  "bbox": [
+    129.036661,
+    35.209604,
+    129.145424,
+    35.306702
+  ],
+  "center": [
+    35.258153,
+    129.091042
+  ],
+  "landmarks": [
+    {
+      "name": "금정산성",
+      "lat": 35.2514917,
+      "lng": 129.0454309,
+      "category": "산성/문화유산",
+      "description": "금정산에 조성된 조선 시대 산성으로 사적 제468호다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%A0%95%EC%82%B0%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 79.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/%EA%B8%88%EC%A0%95%EC%82%B0%EC%84%B1.jpg"
+    },
+    {
+      "name": "금정산",
+      "lat": 35.258618,
+      "lng": 129.083954,
+      "category": "산/자연",
+      "description": "해발 742m의 부산 북부 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%A0%95%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 94.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%EA%B8%88%EC%A0%95%EC%82%B0.jpg/1280px-%EA%B8%88%EC%A0%95%EC%82%B0.jpg"
+    },
+    {
+      "name": "범어사",
+      "lat": 35.273102,
+      "lng": 129.092668,
+      "category": "사찰/문화유산",
+      "description": "통도사·해인사와 함께 영남 3대 사찰로 꼽히는 대표 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%94%EC%96%B4%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 185.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Korea-Busan-Beomeosa-01.jpg"
+    },
+    {
+      "name": "부산대학교",
+      "lat": 35.2343498,
+      "lng": 129.0784068,
+      "category": "교육/캠퍼스",
+      "description": "부산의 대표 국립대학으로 금정구 장전동 캠퍼스가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 23.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PKNUMain.jpg"
+    },
+    {
+      "name": "온천장",
+      "lat": 35.2205328,
+      "lng": 129.0865305,
+      "category": "온천/관광",
+      "description": "금정구 온천동의 옛 온천 마을 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EC%A0%95%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 5.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Torai_Onsen_circa_1930.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "금정 자연 힐링 시그니처 에어리얼 투어",
+      "description": "금정산 → 범어사 → 부산대학교 → 온천장 → 금정산성 순으로 이어지는 부산광역시 금정구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "금정산",
+        "범어사",
+        "부산대학교",
+        "온천장",
+        "금정산성"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "금정 산하 절경 에어리얼 투어",
+      "description": "금정산성 → 부산대학교 → 금정산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 금정의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "금정산성",
+        "부산대학교",
+        "금정산"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "금정산 골목식당",
+      "lat": 35.257918,
+      "lng": 129.084024,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "범어사 큰마당식당",
+      "lat": 35.272962,
+      "lng": 129.093158,
+      "specialty": "밀면",
+      "category": "향토음식"
+    },
+    {
+      "name": "부산대학교 가마솥밥가",
+      "lat": 35.23456,
+      "lng": 129.078197,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "온천장 솥뚜껑가게",
+      "lat": 35.220813,
+      "lng": 129.08667,
+      "specialty": "조개구이",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금정산성",
+        "station_name": "금정산성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.251492,
+          129.046631
+        ]
+      },
+      {
+        "target_landmark": "금정산",
+        "station_name": "부산대역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 46,
+        "coordinates": [
+          35.2299,
+          129.0881
+        ]
+      },
+      {
+        "target_landmark": "범어사",
+        "station_name": "범어사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.273102,
+          129.093868
+        ]
+      },
+      {
+        "target_landmark": "부산대학교",
+        "station_name": "부산대역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 14,
+        "coordinates": [
+          35.2299,
+          129.0881
+        ]
+      },
+      {
+        "target_landmark": "온천장",
+        "station_name": "동의대역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 10,
+        "coordinates": [
+          35.2171,
+          129.0928
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "금정 중앙 공영주차장",
+        "coordinates": [
+          35.259018,
+          129.085154
+        ],
+        "capacity": 503,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "금정 제2 공영주차장",
+        "coordinates": [
+          35.275102,
+          129.092268
+        ],
+        "capacity": 102,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "금정초등학교 운동장",
+        "coordinates": [
+          35.265937,
+          129.038836
+        ],
+        "capacity": 7200,
+        "address": "부산광역시 금정구"
+      },
+      {
+        "name": "금정실내체육관",
+        "coordinates": [
+          35.248424,
+          129.088876
+        ],
+        "capacity": 6100,
+        "address": "부산광역시 금정구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "금정산성",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금정산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "범어사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부산대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온천장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금정산 봄 진달래",
+        "범어사 봄 산책"
+      ],
+      "summer": [
+        "금정산 계곡 여름",
+        "온천장 여름"
+      ],
+      "autumn": [
+        "금정산 단풍길",
+        "범어사 가을"
+      ],
+      "winter": [
+        "범어사 설경",
+        "금정산성 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "금정산성 야경",
+        "coordinates": [
+          35.251492,
+          129.045431
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "금정산 야경",
+        "coordinates": [
+          35.258618,
+          129.083954
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "부산 금정구는 금정산성과 부산대학교가 자리한 부산 북부의 구로 금정산 자락의 주거 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geumjeong-gu, Busan",
+      "landmarks": {
+        "금정산성": [
+          "Geumjeongsanseong Fortress",
+          "Joseon-era mountain fortress on Geumjeongsan, Historic Site No. 468."
+        ],
+        "금정산": [
+          "Geumjeongsan Mountain",
+          "742 m signature peak in northern Busan."
+        ],
+        "범어사": [
+          "Beomeosa Temple",
+          "One of Yeongnam's three great temples, alongside Tongdosa and Haeinsa."
+        ],
+        "부산대학교": [
+          "Pusan National University",
+          "Busan's flagship national university with its Jangjeon-dong campus in Geumjeong-gu."
+        ],
+        "온천장": [
+          "Oncheonjang Hot Springs",
+          "Historic hot spring quarter of Oncheon-dong, Geumjeong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 金井区",
+      "landmarks": {
+        "금정산성": [
+          "金井山城",
+          "金井山に築かれた朝鮮時代の山城で、史跡第468号。"
+        ],
+        "금정산": [
+          "金井山",
+          "標高742メートル、釜山北部を代表する山。"
+        ],
+        "범어사": [
+          "梵魚寺",
+          "通度寺・海印寺と並ぶ嶺南三大寺院に数えられる代表的な寺。"
+        ],
+        "부산대학교": [
+          "釜山大学校",
+          "釜山を代表する国立大学。金井区長伝洞にキャンパスを構える。"
+        ],
+        "온천장": [
+          "温泉場",
+          "金井区温泉洞の昔ながらの温泉街の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 金井区",
+      "landmarks": {
+        "금정산성": [
+          "金井山城",
+          "建于金井山的朝鲜时代山城，史迹第468号。"
+        ],
+        "금정산": [
+          "金井山",
+          "海拔742米的釜山北部代表名山。"
+        ],
+        "범어사": [
+          "梵鱼寺",
+          "与通度寺、海印寺并称岭南三大寺的代表性古刹。"
+        ],
+        "부산대학교": [
+          "釜山大学",
+          "釜山代表性国立大学，校园位于金井区长箭洞。"
+        ],
+        "온천장": [
+          "温泉场",
+          "金井区温泉洞的老牌温泉街。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.geumjeong.go.kr",
+    "civil_service_center": {
+      "location_name": "금정구청 민원실 앞",
+      "coordinates": [
+        129.101082,
+        35.293953
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "051-519-4000",
+      "info": "부산광역시 금정구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "금정구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.091443,
+      35.258553
+    ],
+    "cctv_zone_count": 324,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "금정산성공원",
+    "trail_length_km": 3.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "금정산성축제",
+    "typical_month": 10,
+    "venue_name": "금정산성 일대",
+    "venue_coords": [
+      129.090843,
+      35.257953
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "금정구민체육관",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      129.103282,
+      35.296953
+    ],
+    "reservation_url": "https://www.geumjeong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "금정구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      129.101982,
+      35.292453
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "금정구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.098782,
+      35.292553
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "범어사 큰마당식당",
+    "coordinates": [
+      129.093158,
+      35.272962
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "밀면 (금정구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=금정구청&goalx=129.101082&goaly=35.293953",
+    "kakaonavi_url": "kakaonavi://navigate?name=금정구청&x=129.101082&y=35.293953&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=금정구청&dlng=129.101082&dlat=35.293953&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:27",
+      "sunset": "18:35",
+      "noon_altitude_deg": 54.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:41",
+      "noon_altitude_deg": 78.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:12",
+      "sunset": "18:20",
+      "noon_altitude_deg": 54.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:29",
+      "sunset": "17:15",
+      "noon_altitude_deg": 31.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "금정구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.092943,
+          35.259853
+        ],
+        [
+          129.091443,
+          35.258553
+        ],
+        [
+          129.090943,
+          35.257653
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "금정구 중심상업거리",
+    "anchor_center": [
+      129.099149,
+      35.29362
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 130,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
