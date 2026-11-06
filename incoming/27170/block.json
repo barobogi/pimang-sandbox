@@ -344,5 +344,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Daegu",
+      "landmarks": {
+        "이현공원": [
+          "Ihyeon Park",
+          "Green downtown retreat of Seo-gu with an observation deck and splash pad."
+        ],
+        "서대구역": [
+          "West Daegu Station",
+          "Western gateway of Daegu served by the Daegyeong Line and KTX."
+        ],
+        "와룡산": [
+          "Waryongsan Mountain",
+          "Low hill on Seo-gu's north, known for its circular trail."
+        ],
+        "만물백화점": [
+          "Manmul Department Store Market",
+          "Traditional market in Wondae-dong, famous for general goods and street food."
+        ],
+        "초록꽃마당": [
+          "Green Flower Courtyard",
+          "Small pocket park in Naedang-dong for residents' rest."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 西区",
+      "landmarks": {
+        "이현공원": [
+          "梨峴公園",
+          "西区を代表する都心の緑の休息空間。展望デッキと水遊び場がある。"
+        ],
+        "서대구역": [
+          "西大邱駅",
+          "大慶線広域鉄道とKTXが停車する西部大邱の玄関駅。"
+        ],
+        "와룡산": [
+          "臥龍山",
+          "西区の北にある低い山。臥龍山巡り道で有名。"
+        ],
+        "만물백화점": [
+          "万物百貨店",
+          "遠台洞に構える大邱を代表する伝統市場。雑貨とグルメで有名。"
+        ],
+        "초록꽃마당": [
+          "緑の花の中庭",
+          "内塘洞に造られた都心の小さな公園。住民の憩いの場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 西区",
+      "landmarks": {
+        "이현공원": [
+          "梨岘公园",
+          "西区代表性的城中绿地，设有观景台和戏水区。"
+        ],
+        "서대구역": [
+          "西大邱站",
+          "停靠大庆线广域铁路和KTX的西部大邱门户车站。"
+        ],
+        "와룡산": [
+          "卧龙山",
+          "西区北部的矮山，以环山步道闻名。"
+        ],
+        "만물백화점": [
+          "万物百货市场",
+          "位于园台洞的大邱代表性传统市场，以杂货和美食闻名。"
+        ],
+        "초록꽃마당": [
+          "绿花庭院",
+          "内堂洞建成的城市口袋公园，供居民休憩。"
+        ]
+      }
+    }
   }
 }
