@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "완주초등학교 운동장",
+        "coordinates": [
+          36.120611,
+          127.281376
+        ],
+        "capacity": 6500,
+        "address": "전북특별자치도 완주군"
+      },
+      {
+        "name": "완주실내체육관",
+        "coordinates": [
+          35.980298,
+          127.286273
+        ],
+        "capacity": 7000,
+        "address": "전북특별자치도 완주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대둔산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "위봉사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "모악산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "완주군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "완주시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "완주군은 대둔산과 위봉사, 모악산이 자리한 전북 중부의 군으로 전주를 둘러싼 지역이다.",
   "data_sources": [
     {
