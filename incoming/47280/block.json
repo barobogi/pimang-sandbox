@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Mungyeong-si, Gyeongbuk",
+      "landmarks": {
+        "문경새": [
+          "Mungyeong Saejae Pass",
+          "Joseon-era gateway pass linking Yeongnam and the capital."
+        ],
+        "주흘관문": [
+          "Juheulgwam Gate",
+          "First gate of Mungyeong Saejae, with fortress and gate remains."
+        ],
+        "표충비": [
+          "Pyochungbi Monument",
+          "Historic stele honoring General Kim Eung-ham, who fell in the Imjin War."
+        ],
+        "문경향교": [
+          "Mungyeong Hyanggyo",
+          "Joseon-era local school of Mungyeong, a storied hyanggyo."
+        ],
+        "추점사": [
+          "Chujeomsa Shrine",
+          "Historic shrine carrying the scholar culture of the Mungyeong region."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 聞慶市",
+      "landmarks": {
+        "문경새": [
+          "聞慶鳥嶺",
+          "朝鮮時代に嶺南と都を結んだ代表的な関所の峠。"
+        ],
+        "주흘관문": [
+          "主屹関門",
+          "聞慶鳥嶺の第1関門。城郭と関門の遺跡が残る。"
+        ],
+        "표충비": [
+          "表忠碑",
+          "壬辰倭乱で殉国した金応添将軍を顕彰する由緒ある碑。"
+        ],
+        "문경향교": [
+          "聞慶郷校",
+          "朝鮮時代の聞慶の地方教育機関。由緒ある郷校。"
+        ],
+        "추점사": [
+          "秋瞻寺…ではなく抽出祠",
+          "聞慶地方の儒者文化を伝える由緒ある祠。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 闻庆市",
+      "landmarks": {
+        "문경새": [
+          "闻庆鸟岭",
+          "朝鲜时代连接岭南与都城的代表性关隘山岭。"
+        ],
+        "주흘관문": [
+          "主屹关隘",
+          "闻庆鸟岭第一关，留有城墙和关隘遗迹。"
+        ],
+        "표충비": [
+          "表忠碑",
+          "纪念壬辰倭乱殉国的金应添将军的历史石碑。"
+        ],
+        "문경향교": [
+          "闻庆乡校",
+          "朝鲜时代闻庆的地方官学，历史悠久的乡校。"
+        ],
+        "추점사": [
+          "抽占祠",
+          "承载闻庆地区士林文化的古老祠堂。"
+        ]
+      }
+    }
   }
 }
