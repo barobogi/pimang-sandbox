@@ -235,6 +235,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "오산초등학교 운동장",
+        "coordinates": [
+          37.141355,
+          127.041192
+        ],
+        "capacity": 1800,
+        "address": "경기도 오산시"
+      },
+      {
+        "name": "오산실내체육관",
+        "coordinates": [
+          37.1698,
+          127.092279
+        ],
+        "capacity": 2700,
+        "address": "경기도 오산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "오산전적공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "세교지구",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "오산시청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오산문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "오산시는 오산 전투 기념지와 세교지구가 함께한 경기 남부의 도시이다.",
   "data_sources": [
     {
