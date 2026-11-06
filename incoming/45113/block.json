@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "덕진공원",
+        "station_name": "덕진공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.849413,
+          127.123444
+        ]
+      },
+      {
+        "target_landmark": "전북대학교",
+        "station_name": "전주역",
+        "line": "전라선",
+        "walk_minutes": 42,
+        "coordinates": [
+          35.8249,
+          127.152
+        ]
+      },
+      {
+        "target_landmark": "전주월드컵경기장",
+        "station_name": "전주월드컵경기장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.869009,
+          127.064951
+        ]
+      },
+      {
+        "target_landmark": "덕진구청",
+        "station_name": "전주역",
+        "line": "전라선",
+        "walk_minutes": 24,
+        "coordinates": [
+          35.8249,
+          127.152
+        ]
+      },
+      {
+        "target_landmark": "전주천",
+        "station_name": "전주천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.859986,
+          127.111159
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "덕진 중앙 공영주차장",
+        "coordinates": [
+          35.849413,
+          127.121844
+        ],
+        "capacity": 168,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "덕진 제2 공영주차장",
+        "coordinates": [
+          35.861186,
+          127.109559
+        ],
+        "capacity": 487,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "덕진 제3 공영주차장",
+        "coordinates": [
+          35.847475,
+          127.133321
+        ],
+        "capacity": 528,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "전주 덕진구는 덕진공원과 전북대학교, 전주월드컵경기장이 자리한 전주 북부의 구이다.",
   "data_sources": [
     {
