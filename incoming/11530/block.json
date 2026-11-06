@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "구로초등학교 운동장",
+        "coordinates": [
+          37.479484,
+          126.893898
+        ],
+        "capacity": 2200,
+        "address": "서울특별시 구로구"
+      },
+      {
+        "name": "구로실내체육관",
+        "coordinates": [
+          37.479119,
+          126.901346
+        ],
+        "capacity": 4200,
+        "address": "서울특별시 구로구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "구로디지털단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "구로공단",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고척스카이돔",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도림천",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "구로구는 대한민국 최초의 국가산업단지가 조성된 대표 공업 도시 구이며 구로디지털단지로 재탄생한 서울 남서부의 산업 중심지다.",
   "data_sources": [
     {
