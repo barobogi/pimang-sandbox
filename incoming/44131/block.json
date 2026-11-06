@@ -144,6 +144,85 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "독립기념관",
+        "station_name": "독립기념관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.785445,
+          127.226876
+        ]
+      },
+      {
+        "target_landmark": "천안흥타령난장",
+        "station_name": "천안역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 13,
+        "coordinates": [
+          36.8066,
+          127.1499
+        ]
+      },
+      {
+        "target_landmark": "광덕산",
+        "station_name": "광덕산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.803919,
+          127.344883
+        ]
+      },
+      {
+        "target_landmark": "태조산",
+        "station_name": "천안역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 24,
+        "coordinates": [
+          36.8066,
+          127.1499
+        ]
+      },
+      {
+        "target_landmark": "천안 남산공원",
+        "station_name": "천안역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 13,
+        "coordinates": [
+          36.8066,
+          127.1499
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동남 중앙 공영주차장",
+        "coordinates": [
+          36.785445,
+          127.224076
+        ],
+        "capacity": 72,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동남 제2 공영주차장",
+        "coordinates": [
+          36.814477,
+          127.167446
+        ],
+        "capacity": 467,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "동남구는 천안 시내의 원도심 구로 독립기념관과 유관순열사 기념? 아니라 흥타령 문화와 광덕산 등이 함께한 천안 동부의 구이다.",
   "data_sources": [
     {
