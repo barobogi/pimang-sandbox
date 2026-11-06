@@ -302,6 +302,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "의림지 벚꽃",
+        "청풍호 봄"
+      ],
+      "summer": [
+        "의림지 여름",
+        "청풍호 여름"
+      ],
+      "autumn": [
+        "청풍호 단풍",
+        "박달재 가을"
+      ],
+      "winter": [
+        "청풍호 설경",
+        "의림지 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "의림지 야경",
+        "coordinates": [
+          37.173245,
+          128.210629
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "청풍호 야경",
+        "coordinates": [
+          36.980405,
+          128.005641
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "제천시는 의림지와 청풍호반, 박달재가 자리한 충북 북부의 관광 도시이다.",
   "data_sources": [
     {
