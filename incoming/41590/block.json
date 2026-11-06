@@ -154,6 +154,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동탄호수공원",
+        "station_name": "동탄호수공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.167505,
+          127.107762
+        ]
+      },
+      {
+        "target_landmark": "롯데월드 어드벤처 동탄",
+        "station_name": "동탄역",
+        "line": "수인분당선",
+        "walk_minutes": 12,
+        "coordinates": [
+          37.1979,
+          127.0805
+        ]
+      },
+      {
+        "target_landmark": "응봉산",
+        "station_name": "응봉산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.2254,
+          126.9392
+        ]
+      },
+      {
+        "target_landmark": "궁평항",
+        "station_name": "궁평항 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.117055,
+          126.683044
+        ]
+      },
+      {
+        "target_landmark": "제부도",
+        "station_name": "제부도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.168954,
+          126.623757
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "화성 중앙 공영주차장",
+        "coordinates": [
+          37.223,
+          126.94
+        ],
+        "capacity": 504,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "화성 제2 공영주차장",
+        "coordinates": [
+          37.117455,
+          126.684244
+        ],
+        "capacity": 205,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "화성시는 조선 정조 때 화성 행궁과 관련된 역사와 함께 근현대 동탄신도시가 성장한 경기 남부의 산업·주거 도시로 동탄호수공원과 롯데월드 어드벤처 등의 명소가 자리한다.",
   "data_sources": [
     {
