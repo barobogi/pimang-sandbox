@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "공주초등학교 운동장",
+        "coordinates": [
+          36.428621,
+          127.117729
+        ],
+        "capacity": 6700,
+        "address": "충청남도 공주시"
+      },
+      {
+        "name": "공주실내체육관",
+        "coordinates": [
+          36.41643,
+          127.139716
+        ],
+        "capacity": 5700,
+        "address": "충청남도 공주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "공산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "무령왕릉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "마곡사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "공주시청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "공주시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "공주시는 백제 웅진 도읍이었던 유서 깊은 도시로 공산성과 무령왕릉, 마곡사가 유네스코 세계유산으로 등재되어 있다.",
   "data_sources": [
     {
