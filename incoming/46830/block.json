@@ -221,6 +221,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영암초등학교 운동장",
+        "coordinates": [
+          34.741589,
+          126.727842
+        ],
+        "capacity": 4200,
+        "address": "전라남도 영암군"
+      },
+      {
+        "name": "영암실내체육관",
+        "coordinates": [
+          34.781332,
+          126.600789
+        ],
+        "capacity": 1900,
+        "address": "전라남도 영암군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "월출산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도갑사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영산호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영암군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영암시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "영암군은 월출산과 도갑사, 영산호가 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
