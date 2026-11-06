@@ -1,0 +1,581 @@
+{
+  "block_code": "43750",
+  "block_name": "충청북도 증평군",
+  "bbox": [
+    127.537327,
+    36.701206,
+    127.664784,
+    36.860075
+  ],
+  "center": [
+    36.78064,
+    127.601055
+  ],
+  "landmarks": [
+    {
+      "name": "좌구산천문대",
+      "lat": 36.7036555,
+      "lng": 127.6531534,
+      "category": "천문/자연",
+      "description": "좌구산천문대은(는) 충청북도 증평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 331.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Jeungpyeong-gun_office.JPG/1280px-Jeungpyeong-gun_office.JPG"
+    },
+    {
+      "name": "좌구산",
+      "lat": 36.7162302,
+      "lng": 127.6630747,
+      "category": "산/자연",
+      "description": "좌구산은(는) 충청북도 증평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 322.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Jeungpyeong-gun_office.JPG/1280px-Jeungpyeong-gun_office.JPG"
+    },
+    {
+      "name": "증평군청",
+      "lat": 36.7853298,
+      "lng": 127.5815144,
+      "category": "행정/랜드마크",
+      "description": "증평군청은(는) 충청북도 증평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 106.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Jeungpyeong-gun_office.JPG/1280px-Jeungpyeong-gun_office.JPG"
+    },
+    {
+      "name": "증평시장",
+      "lat": 36.7806403,
+      "lng": 127.60105525,
+      "category": "시장/먹거리",
+      "description": "증평시장은(는) 충청북도 증평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 213.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Jeungpyeong-eup_office.JPG/1280px-Jeungpyeong-eup_office.JPG"
+    },
+    {
+      "name": "삼기저수지",
+      "lat": 36.7187,
+      "lng": 127.6238573,
+      "category": "저수지/자연",
+      "description": "삼기저수지은(는) 충청북도 증평군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A6%9D%ED%8F%89%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%EC%82%B0%EC%9C%84%EC%97%90_%EC%95%84%ED%8C%8C%ED%8A%B8%EB%93%A4%28AMJ%29.jpg/1280px-%EC%82%B0%EC%9C%84%EC%97%90_%EC%95%84%ED%8C%8C%ED%8A%B8%EB%93%A4%28AMJ%29.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "증평 자연 힐링 시그니처 에어리얼 투어",
+      "description": "증평시장 → 증평군청 → 삼기저수지 → 좌구산천문대 → 좌구산 순으로 이어지는 충청북도 증평군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "증평시장",
+        "증평군청",
+        "삼기저수지",
+        "좌구산천문대",
+        "좌구산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "증평 자연 힐링 스카이 워크",
+      "description": "좌구산 → 좌구산천문대 → 삼기저수지 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 증평의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "좌구산",
+        "좌구산천문대",
+        "삼기저수지"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "증평 도심 하이라이트 스카이 투어",
+      "description": "증평군청 → 증평시장 → 삼기저수지 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 증평의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "증평군청",
+        "증평시장",
+        "삼기저수지"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "증평 골목식당",
+      "lat": 36.78092,
+      "lng": 127.600635,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "증평 할매집",
+      "lat": 36.78036,
+      "lng": 127.601195,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "증평 옛맛식당",
+      "lat": 36.78015,
+      "lng": 127.601545,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "좌구산천문대",
+        "station_name": "좌구산천문대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.704056,
+          127.654353
+        ]
+      },
+      {
+        "target_landmark": "좌구산",
+        "station_name": "좌구산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.71663,
+          127.664275
+        ]
+      },
+      {
+        "target_landmark": "증평군청",
+        "station_name": "증평버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 26,
+        "coordinates": [
+          36.78184,
+          127.601455
+        ]
+      },
+      {
+        "target_landmark": "증평시장",
+        "station_name": "증평버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.78184,
+          127.601455
+        ]
+      },
+      {
+        "target_landmark": "삼기저수지",
+        "station_name": "삼기저수지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.7191,
+          127.625057
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "증평 중앙 공영주차장",
+        "coordinates": [
+          36.78024,
+          127.598655
+        ],
+        "capacity": 92,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "증평 제2 공영주차장",
+        "coordinates": [
+          36.78613,
+          127.582714
+        ],
+        "capacity": 168,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "증평초등학교 운동장",
+        "coordinates": [
+          36.724479,
+          127.647753
+        ],
+        "capacity": 6000,
+        "address": "충청북도 증평군"
+      },
+      {
+        "name": "증평실내체육관",
+        "coordinates": [
+          36.735036,
+          127.650336
+        ],
+        "capacity": 1700,
+        "address": "충청북도 증평군"
+      },
+      {
+        "name": "증평중앙공원 비상집합장소",
+        "coordinates": [
+          36.771821,
+          127.562619
+        ],
+        "capacity": 5800,
+        "address": "충청북도 증평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "좌구산천문대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "좌구산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증평군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증평시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "삼기저수지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "좌구산 봄 진달래",
+        "삼기저수지 봄"
+      ],
+      "summer": [
+        "좌구산천문대 여름",
+        "삼기저수지 여름"
+      ],
+      "autumn": [
+        "좌구산 단풍",
+        "증평시장 가을"
+      ],
+      "winter": [
+        "좌구산천문대 겨울 별빛",
+        "좌구산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "좌구산천문대 야경",
+        "coordinates": [
+          36.703656,
+          127.653153
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "좌구산 야경",
+        "coordinates": [
+          36.71623,
+          127.663075
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "증평군은 좌구산 천문대와 삼기저수지가 자리한 충북 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeungpyeong-gun, Chungbuk",
+      "landmarks": {
+        "좌구산천문대": [
+          "Jwagusan Observatory",
+          "Signature observatory attraction of Jeungpyeong-gun, Chungbuk."
+        ],
+        "좌구산": [
+          "Jwagusan Mountain",
+          "Signature mountain attraction of Jeungpyeong-gun, Chungbuk."
+        ],
+        "증평군청": [
+          "Jeungpyeong County Office",
+          "Administrative center of Jeungpyeong-gun, Chungbuk."
+        ],
+        "증평시장": [
+          "Jeungpyeong Market",
+          "Signature market attraction of Jeungpyeong-gun, Chungbuk."
+        ],
+        "삼기저수지": [
+          "Samgi Reservoir",
+          "Signature reservoir attraction of Jeungpyeong-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 曾坪郡",
+      "landmarks": {
+        "좌구산천문대": [
+          "座亀山天文台",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "좌구산": [
+          "座亀山",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "증평군청": [
+          "曾坪郡庁",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "증평시장": [
+          "曾坪市場",
+          "忠清北道曾坪郡を代表する名所。"
+        ],
+        "삼기저수지": [
+          "三岐貯水池",
+          "忠清北道曾坪郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 曾坪郡",
+      "landmarks": {
+        "좌구산천문대": [
+          "座龟山天文台",
+          "忠清北道曾坪郡的代表性天文台。"
+        ],
+        "좌구산": [
+          "座龟山",
+          "忠清北道曾坪郡的代表性山峦。"
+        ],
+        "증평군청": [
+          "曾坪郡厅",
+          "忠清北道曾坪郡的行政中心。"
+        ],
+        "증평시장": [
+          "曾坪市场",
+          "忠清北道曾坪郡的代表性市场。"
+        ],
+        "삼기저수지": [
+          "三岐水库",
+          "忠清北道曾坪郡的代表性水库。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jp.go.kr",
+    "civil_service_center": {
+      "location_name": "증평군청 민원실 앞",
+      "coordinates": [
+        127.581026,
+        36.784619
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-835-3114",
+      "info": "충청북도 증평군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "증평군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.601156,
+      36.780241
+    ],
+    "cctv_zone_count": 424,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "증평군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "증평군민축제",
+    "typical_month": 10,
+    "venue_name": "증평군민공원",
+    "venue_coords": [
+      127.601456,
+      36.780341
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "증평군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.583626,
+      36.783619
+    ],
+    "reservation_url": "https://www.jp.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "증평군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.581726,
+      36.785919
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "증평군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.580126,
+      36.783419
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "증평 골목식당",
+    "coordinates": [
+      127.600635,
+      36.78092
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (증평군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=증평군청&goalx=127.581026&goaly=36.784619",
+    "kakaonavi_url": "kakaonavi://navigate?name=증평군청&x=127.581026&y=36.784619&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=증평군청&dlng=127.581026&dlat=36.784619&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 53.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 53.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "증평군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.602456,
+          36.781091
+        ],
+        [
+          127.601156,
+          36.780241
+        ],
+        [
+          127.600306,
+          36.780591
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "증평군 전통시장 만남의거리",
+    "anchor_center": [
+      127.581759,
+      36.786219
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 190,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
