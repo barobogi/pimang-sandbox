@@ -238,6 +238,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양천초등학교 운동장",
+        "coordinates": [
+          37.524521,
+          126.879941
+        ],
+        "capacity": 4600,
+        "address": "서울특별시 양천구"
+      },
+      {
+        "name": "양천실내체육관",
+        "coordinates": [
+          37.522697,
+          126.88027
+        ],
+        "capacity": 3700,
+        "address": "서울특별시 양천구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "목동야구장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "목동공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "신정중앙시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양천문화예술회관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안양천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "양천구는 신정동과 목동을 중심으로 1980년대 택지개발로 성장한 자치구로, 목동 야구장과 MBC·SBS 등 방송사가 입지한 서울 남서부의 대표 주거 상업 지역이다.",
   "data_sources": [
     {
