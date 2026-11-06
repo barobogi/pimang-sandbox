@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeonje-gu, Busan",
+      "landmarks": {
+        "부산아시아드주경기장": [
+          "Busan Asiad Main Stadium",
+          "Large multi-purpose stadium that hosted the 2002 FIFA World Cup."
+        ],
+        "연산동 상권": [
+          "Yeonseon-dong District",
+          "Largest commercial hub of Yeonje-gu."
+        ],
+        "온천천": [
+          "Oncheoncheon Stream",
+          "Stream through Yeonje-gu famous for its cherry blossom trail."
+        ],
+        "배산": [
+          "Baesan Mountain",
+          "Low hill on Yeonje-gu's north with walking trails."
+        ],
+        "거제동 상권": [
+          "Geoje-dong District",
+          "Everyday commercial hub centered on Geoje-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 蓮堤区",
+      "landmarks": {
+        "부산아시아드주경기장": [
+          "釜山アジアード主競技場",
+          "2002年W杯の会場となった大型総合競技場。"
+        ],
+        "연산동 상권": [
+          "蓮山洞商圏",
+          "蓮堤区最大の商業地域。"
+        ],
+        "온천천": [
+          "温泉川",
+          "蓮堤区を流れる支流で、桜の散歩道が有名。"
+        ],
+        "배산": [
+          "盃山",
+          "蓮堤区の北にある低い山。散歩道がある。"
+        ],
+        "거제동 상권": [
+          "巨堤洞商圏",
+          "巨堤洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 莲堤区",
+      "landmarks": {
+        "부산아시아드주경기장": [
+          "釜山亚运会主体育场",
+          "举办过2002年世界杯的大型综合体育场。"
+        ],
+        "연산동 상권": [
+          "莲山洞商圈",
+          "莲堤区最大的商业中心。"
+        ],
+        "온천천": [
+          "温泉川",
+          "流经莲堤区的河流，以樱花步道闻名。"
+        ],
+        "배산": [
+          "杯山",
+          "莲堤区北部的矮山，设有散步道。"
+        ],
+        "거제동 상권": [
+          "巨堤洞商圈",
+          "巨堤洞形成的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
