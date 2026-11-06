@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "안동초등학교 운동장",
+        "coordinates": [
+          36.519023,
+          128.461363
+        ],
+        "capacity": 5200,
+        "address": "경상북도 안동시"
+      },
+      {
+        "name": "안동실내체육관",
+        "coordinates": [
+          36.791298,
+          128.893375
+        ],
+        "capacity": 3900,
+        "address": "경상북도 안동시"
+      },
+      {
+        "name": "안동중앙공원 비상집합장소",
+        "coordinates": [
+          36.599506,
+          128.698733
+        ],
+        "capacity": 5700,
+        "address": "경상북도 안동시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "하회마을",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "도산서원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "봉정사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "병산서원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "월영교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "안동시는 조선 시대 성리학의 본산이었던 유서 깊은 도시로 하회마을과 도산서원, 병산서원, 봉정사 등 유네스코 세계유산을 품은 경북 북부의 대표 문화 도시다.",
   "data_sources": [
     {
