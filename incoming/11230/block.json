@@ -357,5 +357,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongdaemun-gu, Seoul",
+      "landmarks": {
+        "동대문디자인플라자": [
+          "Dongdaemun Design Plaza (DDP)",
+          "Futuristic design complex by Zaha Hadid and landmark of the Dongdaemun district."
+        ],
+        "동대문종합시장": [
+          "Dongdaemun General Market",
+          "Origin of the 24-hour Dongdaemun fashion scene, centered on fabric and apparel wholesale."
+        ],
+        "경동시장": [
+          "Gyeongdong Market",
+          "Korea's largest market for medicinal herbs, dried goods, and grains, located in Jegi-dong."
+        ],
+        "서울시립대학교": [
+          "University of Seoul",
+          "Public city university established in 1926, with its campus in Yongdu-dong."
+        ],
+        "동대문현대시티": [
+          "Dongdaemun Hyundai City",
+          "Mixed-use shopping mall at Dongdaemun Station with a large aquarium."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 東大門区",
+      "landmarks": {
+        "동대문디자인플라자": [
+          "東大門デザインプラザ",
+          "ザハ・ハディド設計の近未来的な複合文化空間で東大門のランドマーク。"
+        ],
+        "동대문종합시장": [
+          "東大門総合市場",
+          "ファッション生地と衣類卸の中心地で、24時間の東大門ファッション商圏の原点。"
+        ],
+        "경동시장": [
+          "京東市場",
+          "祭基洞にある韓国最大級の乾物・穀物専門市場。"
+        ],
+        "서울시립대학교": [
+          "ソウル市立大学校",
+          "1926年設立のソウル市立総合大学。龍頭洞にキャンパスを構える。"
+        ],
+        "동대문현대시티": [
+          "東大門現代シティ",
+          "東大門駅跡地に建つ複合ショッピングモール。大型水族館を併設する。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 东大门区",
+      "landmarks": {
+        "동대문디자인플라자": [
+          "东大门设计广场",
+          "扎哈·哈迪德设计的未来主义复合文化空间，东大门商圈的地标。"
+        ],
+        "동대문종합시장": [
+          "东大门综合市场",
+          "以面料和服装批发为核心，是24小时东大门时尚商圈的原点。"
+        ],
+        "경동시장": [
+          "京东市场",
+          "位于祭基洞的韩国最大干货物产与谷物专业市场。"
+        ],
+        "서울시립대학교": [
+          "首尔市立大学",
+          "创立于1926年的首尔市立综合大学，校园位于龙头洞。"
+        ],
+        "동대문현대시티": [
+          "东大门现代城",
+          "建于东大门站址的复合购物中心，内设大型水族馆。"
+        ]
+      }
+    }
   }
 }
