@@ -1,0 +1,582 @@
+{
+  "block_code": "45113",
+  "block_name": "전북특별자치도 전주시 덕진구",
+  "bbox": [
+    126.997844,
+    35.801726,
+    127.234372,
+    35.901322
+  ],
+  "center": [
+    35.851524,
+    127.116108
+  ],
+  "landmarks": [
+    {
+      "name": "덕진공원",
+      "lat": 35.8486132,
+      "lng": 127.1230441,
+      "category": "공원/연못",
+      "description": "덕진공원은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A7%84%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 297.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Deokjin_park.jpg"
+    },
+    {
+      "name": "전북대학교",
+      "lat": 35.8466752,
+      "lng": 127.1337209,
+      "category": "교육/캠퍼스",
+      "description": "전북대학교은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 288.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/JBNU_%EC%8B%A0%EC%A0%95%EB%AC%B8.jpg/1280px-JBNU_%EC%8B%A0%EC%A0%95%EB%AC%B8.jpg"
+    },
+    {
+      "name": "전주월드컵경기장",
+      "lat": 35.8682089,
+      "lng": 127.0645509,
+      "category": "체육/경기장",
+      "description": "전주월드컵경기장은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 111.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Jeonju_World_Cup_Stadium_2016.jpg/1280px-Jeonju_World_Cup_Stadium_2016.jpg"
+    },
+    {
+      "name": "덕진구청",
+      "lat": 35.8293869,
+      "lng": 127.1344558,
+      "category": "행정/랜드마크",
+      "description": "덕진구청은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 326.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deokjin-gu_Jeonju.PNG"
+    },
+    {
+      "name": "전주천",
+      "lat": 35.8591861,
+      "lng": 127.1107587,
+      "category": "하천/자연",
+      "description": "전주천은(는) 전북특별자치도 전주시 덕진구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 150.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "덕진 도심 하이라이트 시그니처 스카이 투어",
+      "description": "덕진공원 → 전북대학교 → 덕진구청 → 전주천 → 전주월드컵경기장 순으로 이어지는 전북특별자치도 전주시 덕진구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "덕진공원",
+        "전북대학교",
+        "덕진구청",
+        "전주천",
+        "전주월드컵경기장"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "덕진 도심 하이라이트 스카이 투어",
+      "description": "전주월드컵경기장 → 전북대학교 → 덕진구청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 덕진의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "전주월드컵경기장",
+        "전북대학교",
+        "덕진구청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "덕진 자연 힐링 스카이 워크",
+      "description": "전주천 → 덕진공원 → 전북대학교 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 덕진의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "전주천",
+        "덕진공원",
+        "전북대학교"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "덕진공원 옛맛식당",
+      "lat": 35.849243,
+      "lng": 127.122414,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "전주천 본점",
+      "lat": 35.858556,
+      "lng": 127.110199,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "전북대학교 동네밥집",
+      "lat": 35.847025,
+      "lng": 127.134281,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "덕진공원",
+        "station_name": "덕진공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.849413,
+          127.123444
+        ]
+      },
+      {
+        "target_landmark": "전북대학교",
+        "station_name": "전주역",
+        "line": "전라선",
+        "walk_minutes": 42,
+        "coordinates": [
+          35.8249,
+          127.152
+        ]
+      },
+      {
+        "target_landmark": "전주월드컵경기장",
+        "station_name": "전주월드컵경기장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.869009,
+          127.064951
+        ]
+      },
+      {
+        "target_landmark": "덕진구청",
+        "station_name": "전주역",
+        "line": "전라선",
+        "walk_minutes": 24,
+        "coordinates": [
+          35.8249,
+          127.152
+        ]
+      },
+      {
+        "target_landmark": "전주천",
+        "station_name": "전주천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.859986,
+          127.111159
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "덕진 중앙 공영주차장",
+        "coordinates": [
+          35.849413,
+          127.121844
+        ],
+        "capacity": 168,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "덕진 제2 공영주차장",
+        "coordinates": [
+          35.861186,
+          127.109559
+        ],
+        "capacity": 487,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "덕진 제3 공영주차장",
+        "coordinates": [
+          35.847475,
+          127.133321
+        ],
+        "capacity": 528,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "덕진초등학교 운동장",
+        "coordinates": [
+          35.857832,
+          127.112664
+        ],
+        "capacity": 7200,
+        "address": "전북특별자치도 전주시 덕진구"
+      },
+      {
+        "name": "덕진실내체육관",
+        "coordinates": [
+          35.83998,
+          127.141197
+        ],
+        "capacity": 3000,
+        "address": "전북특별자치도 전주시 덕진구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "덕진공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "전북대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "전주월드컵경기장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕진구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "전주천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "덕진공원 벚꽃",
+        "전주천 봄"
+      ],
+      "summer": [
+        "덕진공원 여름 연꽃",
+        "전주월드컵경기장 여름"
+      ],
+      "autumn": [
+        "덕진공원 가을",
+        "전북대 캠퍼스 단풍"
+      ],
+      "winter": [
+        "덕진공원 겨울 빛축제",
+        "전주천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "덕진공원 야경",
+        "coordinates": [
+          35.848613,
+          127.123044
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "전주천 야경",
+        "coordinates": [
+          35.859186,
+          127.110759
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "전주 덕진구는 덕진공원과 전북대학교, 전주월드컵경기장이 자리한 전주 북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Deokjin-gu, Jeonju",
+      "landmarks": {
+        "덕진공원": [
+          "Deokjin Park",
+          "Signature park attraction of Deokjin-gu, Jeonju."
+        ],
+        "전북대학교": [
+          "Jeonbuk National University",
+          "Signature university attraction of Deokjin-gu, Jeonju."
+        ],
+        "전주월드컵경기장": [
+          "Jeonju World Cup Stadium",
+          "Signature sports venue of Deokjin-gu, Jeonju."
+        ],
+        "덕진구청": [
+          "Deokjin-gu Office",
+          "Administrative center of Deokjin-gu, Jeonju."
+        ],
+        "전주천": [
+          "Jeonjucheon Stream",
+          "Signature stream attraction of Deokjin-gu, Jeonju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 全州市 徳津区",
+      "landmarks": {
+        "덕진공원": [
+          "徳津公園",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "전북대학교": [
+          "全北大学校",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "전주월드컵경기장": [
+          "全州ワールドカップ競技場",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "덕진구청": [
+          "徳津区庁",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ],
+        "전주천": [
+          "全州川",
+          "全北特別自治道全州市徳津区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 全州市 德津区",
+      "landmarks": {
+        "덕진공원": [
+          "德津公园",
+          "全北特别自治道全州市德津区的代表性公园。"
+        ],
+        "전북대학교": [
+          "全北大学",
+          "全北特别自治道全州市德津区的代表性高校。"
+        ],
+        "전주월드컵경기장": [
+          "全州世界杯体育场",
+          "全北特别自治道全州市德津区的代表性体育场。"
+        ],
+        "덕진구청": [
+          "德津区厅",
+          "全北特别自治道全州市德津区的行政中心。"
+        ],
+        "전주천": [
+          "全州川",
+          "全北特别自治道全州市德津区的代表性河流。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.deokjingu.jeonju.go.kr",
+    "civil_service_center": {
+      "location_name": "덕진구청 민원실 앞",
+      "coordinates": [
+        127.132912,
+        35.828825
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-270-6666",
+      "info": "전북특별자치도 전주시 덕진구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "덕진구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.116708,
+      35.851924
+    ],
+    "cctv_zone_count": 440,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "덕진공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "덕진 구민축제",
+    "typical_month": 10,
+    "venue_name": "덕진공원",
+    "venue_coords": [
+      127.116708,
+      35.851224
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "덕진구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.132512,
+      35.826225
+    ],
+    "reservation_url": "https://www.deokjingu.jeonju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "덕진구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.129912,
+      35.828125
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "덕진구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.133112,
+      35.830125
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "덕진공원 옛맛식당",
+    "coordinates": [
+      127.122414,
+      35.849243
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "콩나물국밥 (덕진구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=덕진구청&goalx=127.132912&goaly=35.828825",
+    "kakaonavi_url": "kakaonavi://navigate?name=덕진구청&x=127.132912&y=35.828825&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=덕진구청&dlng=127.132912&dlat=35.828825&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 54.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:15",
+      "sunset": "19:51",
+      "noon_altitude_deg": 77.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 54.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:38",
+      "sunset": "17:22",
+      "noon_altitude_deg": 30.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "덕진구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.116108,
+          35.852124
+        ],
+        [
+          127.116708,
+          35.851924
+        ],
+        [
+          127.117508,
+          35.852874
+        ]
+      ],
+      "cctv_linked_count": 11,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "덕진구 역사문화 골목길",
+    "anchor_center": [
+      127.131579,
+      35.829892
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 221,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "heritage_alley"
+  }
+}
