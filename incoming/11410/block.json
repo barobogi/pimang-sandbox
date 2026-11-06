@@ -340,6 +340,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -465,5 +470,48 @@
       126.93531,
       37.582327
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서대문구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.937698,
+      37.579082
+    ],
+    "reservation_url": "https://www.sdm.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서대문구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.937298,
+      37.580782
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서대문구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.938198,
+      37.576482
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "서대문형무소역사관 옛맛식당",
+    "coordinates": [
+      126.955827,
+      37.574957
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "평양냉면 (서대문구 지정 모범음식점)"
   }
 }
