@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nam-gu, Ulsan",
+      "landmarks": {
+        "장생포고래박물관": [
+          "Jangsaengpo Whale Museum",
+          "Whale museum in the old whaling village of Jangsaengpo, exhibiting life-size whale skeletons."
+        ],
+        "장생포고래문화마을": [
+          "Jangsaengpo Whale Culture Village",
+          "Culture village recreating the 1960s-70s whaling town, with the museum and monorail."
+        ],
+        "무룡공원": [
+          "Muryong Park",
+          "Neighborhood park in Muryong-dong, famous for its large musical fountain."
+        ],
+        "울산대공원": [
+          "Ulsan Grand Park",
+          "Large leisure theme park on Daegongwon-ro in Nam-gu."
+        ],
+        "용연동굴": [
+          "Yongyeon Cave",
+          "Sea cave in Yongyeon-dong, also famous as a drama filming site."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 南区",
+      "landmarks": {
+        "장생포고래박물관": [
+          "長生浦鯨博物館",
+          "昔の捕鯨の町・長生浦に造られた鯨専門博物館。実物大の鯨の骨格を展示する。"
+        ],
+        "장생포고래문화마을": [
+          "長生浦鯨文化村",
+          "1960～70年代の捕鯨の町を再現した文化村。鯨博物館とモノレールを併設する。"
+        ],
+        "무룡공원": [
+          "武龍公園",
+          "武龍洞に造られた近隣公園。大型音楽噴水で有名。"
+        ],
+        "울산대공원": [
+          "蔚山大公園",
+          "南区大公園路に造られた大型レジャーテーマパーク。"
+        ],
+        "용연동굴": [
+          "龍淵洞窟",
+          "南区龍淵洞にある海の洞窟。ドラマ撮影地としても有名な名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 南区",
+      "landmarks": {
+        "장생포고래박물관": [
+          "长生浦鲸鱼博物馆",
+          "建于旧捕鲸村长生浦的鲸鱼专业博物馆，展示等比例鲸鱼骨架。"
+        ],
+        "장생포고래문화마을": [
+          "长生浦鲸鱼文化村",
+          "再现1960-70年代捕鲸小镇的文化村，配有博物馆和单轨电车。"
+        ],
+        "무룡공원": [
+          "武龙公园",
+          "武龙洞的近邻公园，大型音乐喷泉闻名。"
+        ],
+        "울산대공원": [
+          "蔚山大公园",
+          "南区大公园路建成的大型休闲主题公园。"
+        ],
+        "용연동굴": [
+          "龙渊洞窟",
+          "位于南区龙渊洞的海蚀洞窟，也是影视剧取景地。"
+        ]
+      }
+    }
   }
 }
