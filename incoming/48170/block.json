@@ -154,6 +154,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "진주성",
+        "station_name": "진주역",
+        "line": "KTX 경전선",
+        "walk_minutes": 41,
+        "coordinates": [
+          35.1984,
+          128.108
+        ]
+      },
+      {
+        "target_landmark": "촉석루",
+        "station_name": "진주역",
+        "line": "KTX 경전선",
+        "walk_minutes": 37,
+        "coordinates": [
+          35.1984,
+          128.108
+        ]
+      },
+      {
+        "target_landmark": "경상국립대학교",
+        "station_name": "진주역",
+        "line": "KTX 경전선",
+        "walk_minutes": 33,
+        "coordinates": [
+          35.1984,
+          128.108
+        ]
+      },
+      {
+        "target_landmark": "진주혁신도시",
+        "station_name": "진주혁신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.172797,
+          128.141576
+        ]
+      },
+      {
+        "target_landmark": "남강",
+        "station_name": "남강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.160255,
+          128.035746
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "진주 중앙 공영주차장",
+        "coordinates": [
+          35.173597,
+          128.139976
+        ],
+        "capacity": 434,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "진주 제2 공영주차장",
+        "coordinates": [
+          35.179438,
+          128.095691
+        ],
+        "capacity": 218,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "진주시는 경상남도 서부의 관문 도시로 조선 시대 진주목이 있던 유서 깊은 도시이며 진주성과 촉석루, 남강 유등축제, 경상국립대학교가 상징이다.",
   "data_sources": [
     {
