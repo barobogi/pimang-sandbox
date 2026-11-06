@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "낙산해수욕장",
+        "station_name": "양양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 19,
+        "coordinates": [
+          38.105869,
+          128.644952
+        ]
+      },
+      {
+        "target_landmark": "낙산사",
+        "station_name": "양양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 36,
+        "coordinates": [
+          38.105869,
+          128.644952
+        ]
+      },
+      {
+        "target_landmark": "죽도해수욕장",
+        "station_name": "죽도해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.973235,
+          128.761438
+        ]
+      },
+      {
+        "target_landmark": "양양군청",
+        "station_name": "양양군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.077094,
+          128.620605
+        ]
+      },
+      {
+        "target_landmark": "남대천",
+        "station_name": "양양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.105869,
+          128.644952
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양양 중앙 공영주차장",
+        "coordinates": [
+          38.107869,
+          128.642552
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "양양 제2 공영주차장",
+        "coordinates": [
+          38.076694,
+          128.620205
+        ],
+        "capacity": 271,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "양양군은 낙산해수욕장과 서핑 해변, 낙산사가 자리한 강원 동해안 북부의 군이다.",
   "data_sources": [
     {
