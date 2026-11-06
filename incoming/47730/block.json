@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uiseong-gun, Gyeongbuk",
+      "landmarks": {
+        "금성산": [
+          "Geumseongsan Mountain",
+          "Signature mountain attraction of Uiseong-gun, Gyeongbuk."
+        ],
+        "의성 탑리리 오층석탑": [
+          "Tap-ri Five-story Stone Pagoda",
+          "Signature National Treasure pagoda heritage of Uiseong-gun, Gyeongbuk."
+        ],
+        "의성군청": [
+          "Uiseong County Office",
+          "Administrative center of Uiseong-gun, Gyeongbuk."
+        ],
+        "의성시장": [
+          "Uiseong Market",
+          "Signature market attraction of Uiseong-gun, Gyeongbuk."
+        ],
+        "조문국박물관": [
+          "Joseon Papercraft Museum",
+          "Signature museum attraction of Uiseong-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 義城郡",
+      "landmarks": {
+        "금성산": [
+          "錦城山",
+          "慶尚北道義城郡を代表する名所。"
+        ],
+        "의성 탑리리 오층석탑": [
+          "義城塔里里五層石塔",
+          "慶尚北道義城郡を代表する名所。"
+        ],
+        "의성군청": [
+          "義城郡庁",
+          "慶尚北道義城郡を代表する名所。"
+        ],
+        "의성시장": [
+          "義城市場",
+          "慶尚北道義城郡を代表する名所。"
+        ],
+        "조문국박물관": [
+          "朝文国博物館",
+          "慶尚北道義城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 义城郡",
+      "landmarks": {
+        "금성산": [
+          "锦城山",
+          "庆尚北道义城郡的代表性名山。"
+        ],
+        "의성 탑리리 오층석탑": [
+          "义城塔里五层石塔",
+          "庆尚北道义城郡的代表性国宝石塔。"
+        ],
+        "의성군청": [
+          "义城郡厅",
+          "庆尚北道义城郡的行政中心。"
+        ],
+        "의성시장": [
+          "义城市场",
+          "庆尚北道义城郡的代表性市场。"
+        ],
+        "조문국박물관": [
+          "朝鲜纸文化博物馆",
+          "庆尚北道义城郡的代表性博物馆。"
+        ]
+      }
+    }
   }
 }
