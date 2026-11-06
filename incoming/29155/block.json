@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nam-gu, Gwangju",
+      "landmarks": {
+        "조선대학교": [
+          "Chosun University",
+          "Gwangju's leading private university."
+        ],
+        "백운공원": [
+          "Baegun Park",
+          "Signature neighborhood park of Baegun-dong in Nam-gu."
+        ],
+        "월봉로 상권": [
+          "Wolbong-ro District",
+          "Commercial hub along Wolbong-ro."
+        ],
+        "남광주역 상권": [
+          "Namgwangju Station District",
+          "Commercial hub centered on Namgwangju Station."
+        ],
+        "증심사": [
+          "Jeungsimsa Temple",
+          "Signature temple of Mudeungsan in Nam-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "光州広域市 南区",
+      "landmarks": {
+        "조선대학교": [
+          "朝鮮大学校",
+          "光州を代表する私立大学。"
+        ],
+        "백운공원": [
+          "白雲公園",
+          "南区白雲洞の代表的な近隣公園。"
+        ],
+        "월봉로 상권": [
+          "月奉路商圏",
+          "月奉路一帯の代表的な商圏。"
+        ],
+        "남광주역 상권": [
+          "南光州駅商圏",
+          "南光州駅を中心とする代表的な商圏。"
+        ],
+        "증심사": [
+          "証心寺",
+          "無等山を代表する寺院。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "光州广域市 南区",
+      "landmarks": {
+        "조선대학교": [
+          "朝鲜大学",
+          "光州的代表性私立大学。"
+        ],
+        "백운공원": [
+          "白云公园",
+          "南区白云洞的代表性近邻公园。"
+        ],
+        "월봉로 상권": [
+          "月奉路商圈",
+          "月奉路一带的代表性商圈。"
+        ],
+        "남광주역 상권": [
+          "南光州站商圈",
+          "以南光州站为中心的代表性商圈。"
+        ],
+        "증심사": [
+          "证心寺",
+          "无等山的代表性寺院。"
+        ]
+      }
+    }
   }
 }
