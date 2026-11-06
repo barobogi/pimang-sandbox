@@ -366,5 +366,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namyangju-si, Gyeonggi",
+      "landmarks": {
+        "다산신도시": [
+          "Dasan New Town",
+          "Signature residential new town of Namyangju."
+        ],
+        "남한강": [
+          "South Han River",
+          "Representative river flowing through southern Namyangju."
+        ],
+        "별내신도시": [
+          "Byeolnae New Town",
+          "Signature residential new town of Namyangju."
+        ],
+        "마석역 상권": [
+          "Maseok Station District",
+          "Everyday commercial hub centered on Maseok Station."
+        ],
+        "사릉역 상권": [
+          "Sareung Station District",
+          "Everyday commercial hub centered on Sareung Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 南楊州市",
+      "landmarks": {
+        "다산신도시": [
+          "茶山新都市",
+          "南楊州を代表する住宅新都市。"
+        ],
+        "남한강": [
+          "南漢江",
+          "南楊州南部を流れる代表的な川。"
+        ],
+        "별내신도시": [
+          "別内新都市",
+          "南楊州を代表する住宅新都市。"
+        ],
+        "마석역 상권": [
+          "砥石駅商圏",
+          "砥石駅を中心とする代表的な生活商圏。"
+        ],
+        "사릉역 상권": [
+          "思陵駅商圏",
+          "思陵駅を中心とする代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 南杨州市",
+      "landmarks": {
+        "다산신도시": [
+          "茶山新城",
+          "南杨州的代表性居住新城。"
+        ],
+        "남한강": [
+          "南汉江",
+          "流经南杨州南部的代表性河流。"
+        ],
+        "별내신도시": [
+          "别内新城",
+          "南杨州的代表性居住新城。"
+        ],
+        "마석역 상권": [
+          "磨石站商圈",
+          "以磨石站为中心的代表性生活商圈。"
+        ],
+        "사릉역 상권": [
+          "思陵站商圈",
+          "以思陵站为中心的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
