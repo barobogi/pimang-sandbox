@@ -227,6 +227,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "수정초등학교 운동장",
+        "coordinates": [
+          37.433488,
+          127.13327
+        ],
+        "capacity": 2700,
+        "address": "경기도 성남시 수정구"
+      },
+      {
+        "name": "수정실내체육관",
+        "coordinates": [
+          37.442136,
+          127.136995
+        ],
+        "capacity": 3000,
+        "address": "경기도 성남시 수정구"
+      },
+      {
+        "name": "수정중앙공원 비상집합장소",
+        "coordinates": [
+          37.466013,
+          127.155872
+        ],
+        "capacity": 3000,
+        "address": "경기도 성남시 수정구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "신흥시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "산성역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "남한산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "탄천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "모란역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "성남 수정구는 남한산성 북쪽 자락의 구로 신흥시장과 산성역 상권이 함께한다.",
   "data_sources": [
     {
