@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "삽교호",
+        "station_name": "삽교호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.861257,
+          126.833786
+        ]
+      },
+      {
+        "target_landmark": "왜목마을",
+        "station_name": "당진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.923979,
+          126.6085
+        ]
+      },
+      {
+        "target_landmark": "당진시청",
+        "station_name": "당진시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.889153,
+          126.643366
+        ]
+      },
+      {
+        "target_landmark": "당진시장",
+        "station_name": "당진시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.887229,
+          126.623811
+        ]
+      },
+      {
+        "target_landmark": "현대제철 당진제철소",
+        "station_name": "현대제철 당진제철소 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.97538,
+          126.692768
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "당진 중앙 공영주차장",
+        "coordinates": [
+          36.923979,
+          126.6049
+        ],
+        "capacity": 233,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "당진 제2 공영주차장",
+        "coordinates": [
+          36.887629,
+          126.624211
+        ],
+        "capacity": 290,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "당진시는 삽교호와 왜목마을, 도비도? 아니라 현대제철이 자리한 충남 서해안 산업·관광 도시이다.",
   "data_sources": [
     {
