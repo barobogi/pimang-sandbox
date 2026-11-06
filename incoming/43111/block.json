@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sangdang-gu, Cheongju",
+      "landmarks": {
+        "상당산성": [
+          "Sangdangsanseong Fortress",
+          "Fortress built on the Baekje Sangdang-hyeon site, a storied heritage of Cheongju."
+        ],
+        "우암산": [
+          "Uamsan Mountain",
+          "Signature hiking mountain on the northern edge of downtown Cheongju."
+        ],
+        "청남대": [
+          "Cheongnamdae",
+          "Historic presidential villa once used as a summer retreat."
+        ],
+        "상당공원": [
+          "Sangdang Park",
+          "Signature urban park in Cheongju with Sangdangho Lake."
+        ],
+        "수암골": [
+          "Suamgol Village",
+          "Village of traditional old houses in Miwon-myeon, a historic mountain village."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 上党区",
+      "landmarks": {
+        "상당산성": [
+          "上党山城",
+          "百済上党県の跡地に造られた山城。清州の由緒ある文化遺産。"
+        ],
+        "우암산": [
+          "牛巌山",
+          "清州都心の北に位置する代表的な登山の名山。"
+        ],
+        "청남대": [
+          "清南台",
+          "大統領休養別荘として使われた由緒ある別荘施設。"
+        ],
+        "상당공원": [
+          "上党公園",
+          "清州市内に造られた代表的な近隣公園。上党湖がともにある。"
+        ],
+        "수암골": [
+          "水岩ゴル",
+          "美湖面一帯に形成された伝統古宅の村。由緒ある山里の村。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 上党区",
+      "landmarks": {
+        "상당산성": [
+          "上党山城",
+          "建于百济上党县旧址的山城，清州历史悠久的文化遗产。"
+        ],
+        "우암산": [
+          "牛岩山",
+          "位于清州市区北部的代表性登山名山。"
+        ],
+        "청남대": [
+          "清南台",
+          "曾用作总统休假别墅的历史建筑。"
+        ],
+        "상당공원": [
+          "上党公园",
+          "清州市内的代表性近邻公园，配有上党湖。"
+        ],
+        "수암골": [
+          "水岩谷村",
+          "美湖面一带的传统古宅村落，历史悠久的山村。"
+        ]
+      }
+    }
   }
 }
