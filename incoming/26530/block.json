@@ -146,6 +146,86 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "삼락생태공원",
+        "station_name": "사상역",
+        "line": "부산 2호선·부산-김해 경전철",
+        "exit_no": 9,
+        "walk_minutes": 39,
+        "coordinates": [
+          35.1795,
+          128.9923
+        ]
+      },
+      {
+        "target_landmark": "사상역 상권",
+        "station_name": "사상역",
+        "line": "부산 2호선·부산-김해 경전철",
+        "exit_no": 9,
+        "walk_minutes": 28,
+        "coordinates": [
+          35.1795,
+          128.9923
+        ]
+      },
+      {
+        "target_landmark": "하단에코랜드",
+        "station_name": "사상역",
+        "line": "부산 2호선·부산-김해 경전철",
+        "exit_no": 9,
+        "walk_minutes": 41,
+        "coordinates": [
+          35.1795,
+          128.9923
+        ]
+      },
+      {
+        "target_landmark": "괴정동 상권",
+        "station_name": "괴정동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.1434,
+          129.0026
+        ]
+      },
+      {
+        "target_landmark": "모라동 상권",
+        "station_name": "사상역",
+        "line": "부산 2호선·부산-김해 경전철",
+        "exit_no": 9,
+        "walk_minutes": 19,
+        "coordinates": [
+          35.1795,
+          128.9923
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "사상 중앙 공영주차장",
+        "coordinates": [
+          35.1568,
+          128.9874
+        ],
+        "capacity": 295,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "사상 제2 공영주차장",
+        "coordinates": [
+          35.1636,
+          128.9938
+        ],
+        "capacity": 341,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 사상구는 사상역 상권과 삼락생태공원이 함께한 부산 서부의 구이다.",
   "data_sources": [
     {
