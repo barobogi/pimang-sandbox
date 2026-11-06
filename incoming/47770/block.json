@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영덕초등학교 운동장",
+        "coordinates": [
+          36.331786,
+          129.379025
+        ],
+        "capacity": 5500,
+        "address": "경상북도 영덕군"
+      },
+      {
+        "name": "영덕실내체육관",
+        "coordinates": [
+          36.449046,
+          129.412386
+        ],
+        "capacity": 1700,
+        "address": "경상북도 영덕군"
+      },
+      {
+        "name": "영덕중앙공원 비상집합장소",
+        "coordinates": [
+          36.446503,
+          129.353172
+        ],
+        "capacity": 5700,
+        "address": "경상북도 영덕군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "강구항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영덕해맞이공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영덕군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영덕시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오십천",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "영덕군은 대게의 고장으로 유명하며 강구항과 영덕해맞이공원이 자리한 경북 동해안의 군이다.",
   "data_sources": [
     {
