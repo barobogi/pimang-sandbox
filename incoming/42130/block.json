@@ -154,6 +154,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "치악산",
+        "station_name": "치악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.367945,
+          128.058032
+        ]
+      },
+      {
+        "target_landmark": "원주중앙시장",
+        "station_name": "원주역",
+        "line": "중앙선",
+        "walk_minutes": 9,
+        "coordinates": [
+          37.3321,
+          127.9495
+        ]
+      },
+      {
+        "target_landmark": "봄내공원",
+        "station_name": "원주역",
+        "line": "중앙선",
+        "walk_minutes": 23,
+        "coordinates": [
+          37.3321,
+          127.9495
+        ]
+      },
+      {
+        "target_landmark": "원주미로공원",
+        "station_name": "원주역",
+        "line": "중앙선",
+        "walk_minutes": 38,
+        "coordinates": [
+          37.3321,
+          127.9495
+        ]
+      },
+      {
+        "target_landmark": "문막응원공성지",
+        "station_name": "서원주역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 35,
+        "coordinates": [
+          37.3054,
+          127.8607
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "원주 중앙 공영주차장",
+        "coordinates": [
+          37.3366,
+          127.9468
+        ],
+        "capacity": 433,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "원주 제2 공영주차장",
+        "coordinates": [
+          37.3188,
+          127.9412
+        ],
+        "capacity": 467,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "원주시는 치악산 자락에 자리한 강원 남부의 교통 요충 도시로 근현대 의료·관광 산업과 혁신도시가 발달했고 원주미로공원과 중앙시장 등의 명소가 함께한다.",
   "data_sources": [
     {
