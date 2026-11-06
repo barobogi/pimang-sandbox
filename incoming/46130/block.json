@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "오동도",
+        "station_name": "여수엑스포역",
+        "line": "KTX 전라선",
+        "walk_minutes": 41,
+        "coordinates": [
+          34.7666,
+          127.7496
+        ]
+      },
+      {
+        "target_landmark": "이순신광장",
+        "station_name": "여수엑스포역",
+        "line": "KTX 전라선",
+        "walk_minutes": 47,
+        "coordinates": [
+          34.7666,
+          127.7496
+        ]
+      },
+      {
+        "target_landmark": "돌산공원",
+        "station_name": "돌산공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.731108,
+          127.73805
+        ]
+      },
+      {
+        "target_landmark": "여수해상케이블카",
+        "station_name": "여수해상케이블카 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.731355,
+          127.739985
+        ]
+      },
+      {
+        "target_landmark": "거북선광장",
+        "station_name": "여수엑스포역",
+        "line": "KTX 전라선",
+        "walk_minutes": 47,
+        "coordinates": [
+          34.7666,
+          127.7496
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "여수 중앙 공영주차장",
+        "coordinates": [
+          34.729908,
+          127.73765
+        ],
+        "capacity": 156,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "여수 제2 공영주차장",
+        "coordinates": [
+          34.729755,
+          127.739585
+        ],
+        "capacity": 72,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "여수 제3 공영주차장",
+        "coordinates": [
+          34.740903,
+          127.736339
+        ],
+        "capacity": 36,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "여수시는 남해안의 대표 항만 관광 도시로 오동도와 돌산공원, 이순신광장, 2012 여수세계박람회장 등 해양 관광 자원이 풍부하다.",
   "data_sources": [
     {
