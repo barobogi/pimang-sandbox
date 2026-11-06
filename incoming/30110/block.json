@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Daejeon",
+      "landmarks": {
+        "대전역": [
+          "Daejeon Station",
+          "Major station on the Gyeongbu Line and gateway to downtown Daejeon."
+        ],
+        "대전복합터미널": [
+          "Daejeon Complex Terminal",
+          "Daejeon's main intercity bus terminal in Yongjeon-dong."
+        ],
+        "대청호": [
+          "Daecheongho Lake",
+          "Korea's third-largest artificial lake, created by Daecheong Dam."
+        ],
+        "만인산": [
+          "Maninsan Mountain",
+          "537 m peak with the legend of burying Yi Seong-gye's umbilical cord."
+        ],
+        "식장산": [
+          "Sikjangsan Mountain",
+          "597 m mountain spread across northern Dong-gu, a hiking favorite."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 東区",
+      "landmarks": {
+        "대전역": [
+          "大田駅",
+          "京釜線を代表する駅で、大田都心の玄関口。"
+        ],
+        "대전복합터미널": [
+          "大田複合ターミナル",
+          "龍田洞にある大田を代表する市外バスターミナル。"
+        ],
+        "대청호": [
+          "大清湖",
+          "大清ダムの建設でできた国内第3位の大きさの人造湖。"
+        ],
+        "만인산": [
+          "万人山",
+          "李成桂の臍帯を埋めたという伝説がある標高537メートルの山。"
+        ],
+        "식장산": [
+          "食蔵山",
+          "東区北部に広がる標高597メートルの山。登山の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 东区",
+      "landmarks": {
+        "대전역": [
+          "大田站",
+          "京釜线代表性车站，大田市区的门户。"
+        ],
+        "대전복합터미널": [
+          "大田复合客运站",
+          "位于龙田洞的大田代表性长途客运站。"
+        ],
+        "대청호": [
+          "大清水库",
+          "大清坝建成后形成的韩国第三大人工湖。"
+        ],
+        "만인산": [
+          "万人山",
+          "海拔537米，流传埋葬李成桂脐带带儿的传说。"
+        ],
+        "식장산": [
+          "食藏山",
+          "横跨东区北部的山峰，海拔597米，登山胜地。"
+        ]
+      }
+    }
   }
 }
