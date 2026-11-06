@@ -147,6 +147,95 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "광명동굴",
+        "station_name": "광명역",
+        "line": "KTX 경부선",
+        "walk_minutes": 32,
+        "coordinates": [
+          37.415,
+          126.8858
+        ]
+      },
+      {
+        "target_landmark": "광명사거리 상권",
+        "station_name": "철산역",
+        "line": "서울 7호선",
+        "exit_no": 3,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.4679,
+          126.865
+        ]
+      },
+      {
+        "target_landmark": "철산동 상권",
+        "station_name": "철산역",
+        "line": "서울 7호선",
+        "exit_no": 3,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.4679,
+          126.865
+        ]
+      },
+      {
+        "target_landmark": "오리공원",
+        "station_name": "광명역",
+        "line": "KTX 경부선",
+        "walk_minutes": 33,
+        "coordinates": [
+          37.415,
+          126.8858
+        ]
+      },
+      {
+        "target_landmark": "하안근린공원",
+        "station_name": "철산역",
+        "line": "서울 7호선",
+        "exit_no": 3,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.4679,
+          126.865
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광명 중앙 공영주차장",
+        "coordinates": [
+          37.4638,
+          126.87
+        ],
+        "capacity": 174,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "광명 제2 공영주차장",
+        "coordinates": [
+          37.431713,
+          126.878507
+        ],
+        "capacity": 435,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "광명 제3 공영주차장",
+        "coordinates": [
+          37.424415,
+          126.863516
+        ],
+        "capacity": 52,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "광명시는 서울 남서쪽 관문의 위성 도시로 광명동굴과 철산동 상권이 함께한다.",
   "data_sources": [
     {
