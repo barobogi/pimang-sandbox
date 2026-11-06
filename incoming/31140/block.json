@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.512154,
+          129.393511
+        ],
+        "capacity": 2400,
+        "address": "울산광역시 남구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.530311,
+          129.332009
+        ],
+        "capacity": 5700,
+        "address": "울산광역시 남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "장생포고래박물관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장생포고래문화마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "무룡공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "울산대공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "용연동굴",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "남구는 울산의 상업·주거 중심지로 장생포 고래박물관과 무룡공원, 용연동굴 등이 함께한 울산 남부의 구이다.",
   "data_sources": [
     {
