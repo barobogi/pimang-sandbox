@@ -147,6 +147,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "여의도공원",
+        "station_name": "여의도역",
+        "line": "서울 5·9호선",
+        "exit_no": 4,
+        "walk_minutes": 7,
+        "coordinates": [
+          37.5219,
+          126.9242
+        ]
+      },
+      {
+        "target_landmark": "국회의사당",
+        "station_name": "여의도역",
+        "line": "서울 5·9호선",
+        "exit_no": 4,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.5219,
+          126.9242
+        ]
+      },
+      {
+        "target_landmark": "63빌딩",
+        "station_name": "여의도역",
+        "line": "서울 5·9호선",
+        "exit_no": 4,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.5219,
+          126.9242
+        ]
+      },
+      {
+        "target_landmark": "여의도한강공원",
+        "station_name": "여의도역",
+        "line": "서울 5·9호선",
+        "exit_no": 4,
+        "walk_minutes": 16,
+        "coordinates": [
+          37.5219,
+          126.9242
+        ]
+      },
+      {
+        "target_landmark": "영등포시장",
+        "station_name": "영등포역",
+        "line": "서울 1호선",
+        "exit_no": 4,
+        "walk_minutes": 7,
+        "coordinates": [
+          37.5164,
+          126.9033
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영등포 중앙 공영주차장",
+        "coordinates": [
+          37.520899,
+          126.90463
+        ],
+        "capacity": 470,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "영등포 제2 공영주차장",
+        "coordinates": [
+          37.526816,
+          126.917564
+        ],
+        "capacity": 395,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "영등포구는 조선 시대 여의도 강가의 항구 마을에서 출발해 근현대 섬유·금융 상업 중심지가 되었고, 여의도에는 국회와 증권거래소, 63빌딩 등이 들어선 대한민국 금융의 심장부가 되었다.",
   "data_sources": [
     {
