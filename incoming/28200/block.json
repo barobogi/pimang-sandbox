@@ -161,6 +161,96 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "소래습지생태공원",
+        "station_name": "인천대공원역",
+        "line": "인천 2호선",
+        "exit_no": 5,
+        "walk_minutes": 38,
+        "coordinates": [
+          37.4342,
+          126.7343
+        ]
+      },
+      {
+        "target_landmark": "소래포구",
+        "station_name": "소래포구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.402645,
+          126.738155
+        ]
+      },
+      {
+        "target_landmark": "인더스파크",
+        "station_name": "남동인더스파크역",
+        "line": "인천 2호선",
+        "exit_no": 2,
+        "walk_minutes": 32,
+        "coordinates": [
+          37.4169,
+          126.7055
+        ]
+      },
+      {
+        "target_landmark": "인천대공원",
+        "station_name": "인천대공원역",
+        "line": "인천 2호선",
+        "exit_no": 5,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.4342,
+          126.7343
+        ]
+      },
+      {
+        "target_landmark": "남동문화예술회관",
+        "station_name": "남동인더스파크역",
+        "line": "인천 2호선",
+        "exit_no": 2,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.4169,
+          126.7055
+        ]
+      },
+      {
+        "target_landmark": "소래포구 해오름광장",
+        "station_name": "소래포구 해오름광장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.3786,
+          126.7473
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남동 중앙 공영주차장",
+        "coordinates": [
+          37.432,
+          126.7062
+        ],
+        "capacity": 71,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "남동 제2 공영주차장",
+        "coordinates": [
+          37.4042,
+          126.7239
+        ],
+        "capacity": 308,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "남동구는 옛 남동공단이 국제시대 문화·산업 공간으로 재탄생한 인천의 자치구로 소래습지와 소래포구, 인천대공원 등 생태·녹지 명소가 자리한다.",
   "data_sources": [
     {
