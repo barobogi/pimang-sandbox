@@ -144,6 +144,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "가산디지털단지",
+        "station_name": "가산디지털단지역",
+        "line": "서울 1·7호선",
+        "exit_no": 5,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.4817,
+          126.8821
+        ]
+      },
+      {
+        "target_landmark": "시흥동",
+        "station_name": "금천구청역",
+        "line": "서울 1호선",
+        "exit_no": 10,
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4571,
+          126.8939
+        ]
+      },
+      {
+        "target_landmark": "독산공원",
+        "station_name": "금천구청역",
+        "line": "서울 1호선",
+        "exit_no": 10,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.4571,
+          126.8939
+        ]
+      },
+      {
+        "target_landmark": "안양천",
+        "station_name": "독산역",
+        "line": "서울 1호선",
+        "exit_no": 6,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.4664,
+          126.8872
+        ]
+      },
+      {
+        "target_landmark": "가산동 상권",
+        "station_name": "가산디지털단지역",
+        "line": "서울 1·7호선",
+        "exit_no": 5,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.4817,
+          126.8821
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "금천 중앙 공영주차장",
+        "coordinates": [
+          37.4574,
+          126.8958
+        ],
+        "capacity": 206,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "금천 제2 공영주차장",
+        "coordinates": [
+          37.450305,
+          126.908956
+        ],
+        "capacity": 352,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "금천구는 가산동 디지털 산업단지가 자리한 서울 남서부 자치구로 과천과 안산의 관문이다.",
   "data_sources": [
     {
