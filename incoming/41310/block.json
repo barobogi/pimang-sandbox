@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "아차산",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 39,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      },
+      {
+        "target_landmark": "갈매시장",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 42,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      },
+      {
+        "target_landmark": "갈매공원",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 47,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      },
+      {
+        "target_landmark": "인창동 상권",
+        "station_name": "인창동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.5964,
+          127.146
+        ]
+      },
+      {
+        "target_landmark": "사패산",
+        "station_name": "사패산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6254,
+          127.082
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "구리 중앙 공영주차장",
+        "coordinates": [
+          37.5976,
+          127.127
+        ],
+        "capacity": 255,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구리 제2 공영주차장",
+        "coordinates": [
+          37.6108,
+          127.128
+        ],
+        "capacity": 201,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "구리 제3 공영주차장",
+        "coordinates": [
+          37.596,
+          127.1436
+        ],
+        "capacity": 117,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
   "data_sources": [
     {
