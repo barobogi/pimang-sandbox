@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "청원초등학교 운동장",
+        "coordinates": [
+          36.697716,
+          127.463528
+        ],
+        "capacity": 4500,
+        "address": "충청북도 청주시 청원구"
+      },
+      {
+        "name": "청원실내체육관",
+        "coordinates": [
+          36.708343,
+          127.39279
+        ],
+        "capacity": 6700,
+        "address": "충청북도 청주시 청원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청주국제공항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오창과학산업단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청원구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "명암저수지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "상당산성",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "청주 청원구는 2014년 청주시 통합으로 만들어진 구로 청주국제공항과 오창과학산업단지가 자리한 지역이다.",
   "data_sources": [
     {
