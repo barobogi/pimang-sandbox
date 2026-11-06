@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "태안해안국립공원",
+        "station_name": "태안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.672431,
+          125.870516
+        ]
+      },
+      {
+        "target_landmark": "꽃지해수욕장",
+        "station_name": "꽃지해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.488302,
+          126.333944
+        ]
+      },
+      {
+        "target_landmark": "안면도",
+        "station_name": "안면도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.507162,
+          126.368917
+        ]
+      },
+      {
+        "target_landmark": "태안군청",
+        "station_name": "태안군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.74689,
+          126.296446
+        ]
+      },
+      {
+        "target_landmark": "만리포해수욕장",
+        "station_name": "만리포해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.789143,
+          126.142383
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "태안 중앙 공영주차장",
+        "coordinates": [
+          36.671631,
+          125.868516
+        ],
+        "capacity": 69,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "태안 제2 공영주차장",
+        "coordinates": [
+          36.789143,
+          126.142783
+        ],
+        "capacity": 236,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "태안 제3 공영주차장",
+        "coordinates": [
+          36.74689,
+          126.298046
+        ],
+        "capacity": 268,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "태안군은 태안해안국립공원과 꽃지해변, 안면도가 자리한 충남 서해안 대표 관광 군이다.",
   "data_sources": [
     {
