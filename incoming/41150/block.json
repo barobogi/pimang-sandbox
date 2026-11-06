@@ -1,0 +1,594 @@
+{
+  "block_code": "41150",
+  "block_name": "경기도 의정부시",
+  "bbox": [
+    127.00161,
+    37.685936,
+    127.147393,
+    37.780365
+  ],
+  "center": [
+    37.733151,
+    127.074502
+  ],
+  "landmarks": [
+    {
+      "name": "의정부역 상권",
+      "lat": 37.738,
+      "lng": 127.05,
+      "category": "상권",
+      "description": "의정부역 중심의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 104.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Uijeongbu_Station.JPG/1280px-Uijeongbu_Station.JPG"
+    },
+    {
+      "name": "자작공원",
+      "lat": 37.742,
+      "lng": 127.045,
+      "category": "도시공원",
+      "description": "의정부 도심의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 110.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Betula_platyphylla_01-10-2005_14.55.52.JPG/1280px-Betula_platyphylla_01-10-2005_14.55.52.JPG"
+    },
+    {
+      "name": "의정부 경전철",
+      "lat": 37.74,
+      "lng": 127.048,
+      "category": "교통",
+      "description": "의정부 도심을 잇는 대표 대중교통이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80_%EA%B2%BD%EC%A0%84%EC%B2%A0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 108.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Uijeongbu_ULine_VAL208.jpg/1280px-Uijeongbu_ULine_VAL208.jpg"
+    },
+    {
+      "name": "호수공원",
+      "lat": 37.737,
+      "lng": 127.055,
+      "category": "공원",
+      "description": "의정부의 대표 호수 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 104.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
+    },
+    {
+      "name": "회룡역 상권",
+      "lat": 37.73,
+      "lng": 127.044,
+      "category": "상권",
+      "description": "회룡역 중심의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 82.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Uijeongbu_City_Hall.JPG/1280px-Uijeongbu_City_Hall.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "의정부 도심 하이라이트 시그니처 스카이 투어",
+      "description": "호수공원 → 의정부역 상권 → 의정부 경전철 → 자작공원 → 회룡역 상권 순으로 이어지는 경기도 의정부시의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "호수공원",
+        "의정부역 상권",
+        "의정부 경전철",
+        "자작공원",
+        "회룡역 상권"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "의정부 도심 스카이라인 크루즈",
+      "description": "의정부 경전철 → 의정부역 상권 → 회룡역 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 의정부의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "의정부 경전철",
+        "의정부역 상권",
+        "회룡역 상권"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "의정부 그린 랜드스케이프 플라이트",
+      "description": "자작공원 → 의정부 경전철 → 호수공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 의정부의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "자작공원",
+        "의정부 경전철",
+        "호수공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "호수공원 가마솥밥가",
+      "lat": 37.73644,
+      "lng": 127.05451,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "의정부역 상권 골목식당",
+      "lat": 37.73793,
+      "lng": 127.05049,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "의정부 경전철 옛맛식당",
+      "lat": 37.73979,
+      "lng": 127.04849,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "회룡역 상권 옛맛식당",
+      "lat": 37.73056,
+      "lng": 127.044,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "의정부역 상권",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "자작공원",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "의정부 경전철",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "호수공원",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      },
+      {
+        "target_landmark": "회룡역 상권",
+        "station_name": "의정부역",
+        "line": "수도권 1호선",
+        "exit_no": 10,
+        "walk_minutes": 13,
+        "coordinates": [
+          37.7383,
+          127.0457
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의정부 중앙 공영주차장",
+        "coordinates": [
+          37.7366,
+          127.0558
+        ],
+        "capacity": 126,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "의정부 제2 공영주차장",
+        "coordinates": [
+          37.7356,
+          127.0488
+        ],
+        "capacity": 131,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "의정부 제3 공영주차장",
+        "coordinates": [
+          37.7396,
+          127.046
+        ],
+        "capacity": 462,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "의정부초등학교 운동장",
+        "coordinates": [
+          37.74159,
+          127.039372
+        ],
+        "capacity": 2400,
+        "address": "경기도 의정부시"
+      },
+      {
+        "name": "의정부실내체육관",
+        "coordinates": [
+          37.753233,
+          127.053391
+        ],
+        "capacity": 7000,
+        "address": "경기도 의정부시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "의정부역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "자작공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "의정부 경전철",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "호수공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "회룡역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "자작공원 봄꽃",
+        "호수공원 벚꽃"
+      ],
+      "summer": [
+        "호수공원 여름 음악분수",
+        "의정부역 상권 여름"
+      ],
+      "autumn": [
+        "자작공원 단풍",
+        "호수공원 가을"
+      ],
+      "winter": [
+        "의정부역 상권 겨울 조명",
+        "호수공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "호수공원 야경",
+        "coordinates": [
+          37.737,
+          127.055
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "의정부역 상권 야경",
+        "coordinates": [
+          37.738,
+          127.05
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "의정부시는 서울 북쪽 관문의 대표 위성 도시로 의정부역 상권과 경전철, 자작공원이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uijeongbu-si, Gyeonggi",
+      "landmarks": {
+        "의정부역 상권": [
+          "Uijeongbu Station District",
+          "Commercial hub centered on Uijeongbu Station."
+        ],
+        "자작공원": [
+          "Jajak Park",
+          "Signature park of downtown Uijeongbu."
+        ],
+        "의정부 경전철": [
+          "Uijeongbu Light Rail",
+          "Signature light rail transit linking downtown Uijeongbu."
+        ],
+        "호수공원": [
+          "Lake Park",
+          "Uijeongbu's signature lakeside park."
+        ],
+        "회룡역 상권": [
+          "Hoeryong Station District",
+          "Everyday commercial hub centered on Hoeryong Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 議政府市",
+      "landmarks": {
+        "의정부역 상권": [
+          "議政府駅商圏",
+          "議政府駅を中心とする代表的な商業地域。"
+        ],
+        "자작공원": [
+          "自作公園",
+          "議政府都心を代表する公園。"
+        ],
+        "의정부 경전철": [
+          "議政府軽電鉄",
+          "議政府の都心を結ぶ代表的な公共交通。"
+        ],
+        "호수공원": [
+          "湖畔公園",
+          "議政府を代表する湖畔公園。"
+        ],
+        "회룡역 상권": [
+          "回龍駅商圏",
+          "回龍駅を中心とする代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 议政府市",
+      "landmarks": {
+        "의정부역 상권": [
+          "议政府站商圈",
+          "以议政府站为中心的代表性商业区。"
+        ],
+        "자작공원": [
+          "自作公园",
+          "议政府市中心的代表性公园。"
+        ],
+        "의정부 경전철": [
+          "议政府轻电铁",
+          "连接议政府市中心的代表性轨道交通。"
+        ],
+        "호수공원": [
+          "湖畔公园",
+          "议政府的代表性湖畔公园。"
+        ],
+        "회룡역 상권": [
+          "回龙站商圈",
+          "以回龙站为中心的代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ui4u.go.kr",
+    "civil_service_center": {
+      "location_name": "의정부시청 민원실 앞",
+      "coordinates": [
+        127.033845,
+        37.738076
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-828-2114",
+      "info": "경기도 의정부시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "의정부시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.074601,
+      37.733651
+    ],
+    "cctv_zone_count": 488,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "의정부중앙공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "통일 예술제",
+    "typical_month": 5,
+    "venue_name": "의정부광장(시청 앞)",
+    "venue_coords": [
+      127.074301,
+      37.73305
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "의정부시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.033545,
+      37.736076
+    ],
+    "reservation_url": "https://www.ui4u.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "의정부시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.034345,
+      37.738576
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "의정부시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.034145,
+      37.740576
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "의정부역 상권 골목식당",
+    "coordinates": [
+      127.05049,
+      37.73793
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "한우불고기 (의정부시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=의정부시청&goalx=127.033845&goaly=37.738076",
+    "kakaonavi_url": "kakaonavi://navigate?name=의정부시청&x=127.033845&y=37.738076&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=의정부시청&dlng=127.033845&dlat=37.738076&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:57",
+      "noon_altitude_deg": 75.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:17",
+      "noon_altitude_deg": 28.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "의정부시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.075601,
+          37.734301
+        ],
+        [
+          127.074601,
+          37.733651
+        ],
+        [
+          127.074151,
+          37.733551
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "의정부시 중심상업거리",
+    "anchor_center": [
+      127.034045,
+      37.736876
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 110,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
