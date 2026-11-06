@@ -335,6 +335,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -460,5 +465,49 @@
       128.550111,
       35.227886
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "마산회원구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.581325,
+      35.221468
+    ],
+    "reservation_url": "https://www.masanhw.changwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "마산회원구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.583525,
+      35.225168
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "마산회원구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.581325,
+      35.222468
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "회원동 상권 가마솥밥가",
+    "coordinates": [
+      128.574325,
+      35.218444
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "진주냉면 (마산회원구 지정 모범음식점)"
   }
 }
