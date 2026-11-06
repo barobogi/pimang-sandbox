@@ -413,10 +413,11 @@
     "civil_service_center": {
       "location_name": "제주시청 민원실 앞",
       "coordinates": [
-        126.504064,
-        33.685209
+        126.531255,
+        33.49978
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "064-710-6100",
