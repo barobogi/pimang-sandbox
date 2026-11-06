@@ -328,6 +328,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -453,5 +458,48 @@
       126.985817,
       35.29118
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "담양군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      126.985535,
+      35.320864
+    ],
+    "reservation_url": "https://www.damyang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "담양군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.989735,
+      35.317764
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "담양군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.985835,
+      35.320964
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "관방제 큰마당식당",
+    "coordinates": [
+      127.00849,
+      35.26337
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "홍어회 (담양군 지정 모범음식점)"
   }
 }
