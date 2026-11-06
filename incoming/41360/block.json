@@ -154,6 +154,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "다산신도시",
+        "station_name": "다산신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.612202,
+          127.166401
+        ]
+      },
+      {
+        "target_landmark": "남한강",
+        "station_name": "남한강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.548421,
+          127.318286
+        ]
+      },
+      {
+        "target_landmark": "별내신도시",
+        "station_name": "별내신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.645356,
+          127.12489
+        ]
+      },
+      {
+        "target_landmark": "마석역 상권",
+        "station_name": "마석역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.5922,
+          127.267
+        ]
+      },
+      {
+        "target_landmark": "사릉역 상권",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 39,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남양주 중앙 공영주차장",
+        "coordinates": [
+          37.5926,
+          127.2674
+        ],
+        "capacity": 286,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남양주 제2 공영주차장",
+        "coordinates": [
+          37.617002,
+          127.166801
+        ],
+        "capacity": 243,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남양주 제3 공영주차장",
+        "coordinates": [
+          37.646956,
+          127.12249
+        ],
+        "capacity": 328,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "남양주시는 남한강과 북한강이 흐르는 경기 동부 최대의 도시로 다산·별내 신도시와 경춘선이 함께한다.",
   "data_sources": [
     {
