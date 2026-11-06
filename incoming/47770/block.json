@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongdeok-gun, Gyeongbuk",
+      "landmarks": {
+        "강구항": [
+          "Ganggu Port",
+          "Signature specialty harbor attraction of Yeongdeok-gun, Gyeongbuk."
+        ],
+        "영덕해맞이공원": [
+          "Yeongdeok Sunrise Park",
+          "Signature coastal park attraction of Yeongdeok-gun, Gyeongbuk."
+        ],
+        "영덕군청": [
+          "Yeongdeok County Office",
+          "Administrative center of Yeongdeok-gun, Gyeongbuk."
+        ],
+        "영덕시장": [
+          "Yeongdeok Market",
+          "Signature market attraction of Yeongdeok-gun, Gyeongbuk."
+        ],
+        "오십천": [
+          "Osipcheon Stream",
+          "Signature stream attraction of Yeongdeok-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 盈徳郡",
+      "landmarks": {
+        "강구항": [
+          "江口港",
+          "慶尚北道盈徳郡を代表する名所。"
+        ],
+        "영덕해맞이공원": [
+          "盈徳海迎い公園",
+          "慶尚北道盈徳郡を代表する名所。"
+        ],
+        "영덕군청": [
+          "盈徳郡庁",
+          "慶尚北道盈徳郡を代表する名所。"
+        ],
+        "영덕시장": [
+          "盈徳市場",
+          "慶尚北道盈徳郡を代表する名所。"
+        ],
+        "오십천": [
+          "五十川",
+          "慶尚北道盈徳郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 盈德郡",
+      "landmarks": {
+        "강구항": [
+          "江口港",
+          "庆尚北道盈德郡的代表性特产渔港。"
+        ],
+        "영덕해맞이공원": [
+          "盈德迎海公园",
+          "庆尚北道盈德郡的代表性海岸公园。"
+        ],
+        "영덕군청": [
+          "盈德郡厅",
+          "庆尚北道盈德郡的行政中心。"
+        ],
+        "영덕시장": [
+          "盈德市场",
+          "庆尚北道盈德郡的代表性市场。"
+        ],
+        "오십천": [
+          "五十川",
+          "庆尚北道盈德郡的代表性河流。"
+        ]
+      }
+    }
   }
 }
