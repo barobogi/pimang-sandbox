@@ -1,0 +1,581 @@
+{
+  "block_code": "47130",
+  "block_name": "경상북도 경주시",
+  "bbox": [
+    128.97018,
+    35.633492,
+    129.5543,
+    36.079349
+  ],
+  "center": [
+    35.856421,
+    129.26224
+  ],
+  "landmarks": [
+    {
+      "name": "불국사",
+      "lat": 35.7889948,
+      "lng": 129.3308902,
+      "category": "사찰/유네스코",
+      "description": "신라 시대 창건된 대표 사찰로 석가탑과 다보탑이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B5%AD%EC%82%AC",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 320.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg/1280px-Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju%2C_Korea.jpg"
+    },
+    {
+      "name": "석굴암",
+      "lat": 35.7948033,
+      "lng": 129.3491954,
+      "category": "석굴/유네스코",
+      "description": "통일 신라 시대 대표 석굴 사원으로 본존불이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EA%B5%B4%EC%95%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 311.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/1280px-Front_view_of_Seokguram_from_front_chamber.jpg"
+    },
+    {
+      "name": "첨성대",
+      "lat": 35.834704,
+      "lng": 129.2189849,
+      "category": "천문대/유네스코",
+      "description": "동양 최고(最古)의 천문대로 알려진 신라 시대 석조 건축물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%A8%EC%84%B1%EB%8C%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 58.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Cheomseongdae-1.jpg/1280px-Cheomseongdae-1.jpg"
+    },
+    {
+      "name": "동궁과 월지",
+      "lat": 35.8347003,
+      "lng": 129.2264375,
+      "category": "유적/야경",
+      "description": "신라 시대 이궁 터로 월지 야경으로 유명한 대표 문화유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 53.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg/1280px-%EB%8F%99%EA%B6%81%EA%B3%BC_%EC%9B%94%EC%A7%80.jpg"
+    },
+    {
+      "name": "대릉원",
+      "lat": 35.8389484,
+      "lng": 129.2119324,
+      "category": "고분/유적",
+      "description": "신라 왕릉들이 밀집한 고분 군락지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A6%89%EC%9B%90",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 66.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%EB%8C%80%EB%A6%89%EC%9B%90.jpg/1280px-%EB%8C%80%EB%A6%89%EC%9B%90.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "경주 역사·문화 시그니처 스카이 트레일",
+      "description": "동궁과 월지 → 첨성대 → 대릉원 → 불국사 → 석굴암 순으로 이어지는 경상북도 경주시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "동궁과 월지",
+        "첨성대",
+        "대릉원",
+        "불국사",
+        "석굴암"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "경주 역사문화 스카이 트레일",
+      "description": "석굴암 → 불국사 → 첨성대 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 경주의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "석굴암",
+        "불국사",
+        "첨성대"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "황남빵 원조집",
+      "lat": 35.841,
+      "lng": 129.209,
+      "specialty": "황남빵",
+      "category": "전통디저트"
+    },
+    {
+      "name": "교리김밥",
+      "lat": 35.85,
+      "lng": 129.225,
+      "specialty": "꼬마김밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "성동 참솔국밥",
+      "lat": 35.858,
+      "lng": 129.224,
+      "specialty": "솔향주물럭",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불국사",
+        "station_name": "불국사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.786595,
+          129.33169
+        ]
+      },
+      {
+        "target_landmark": "석굴암",
+        "station_name": "석굴암 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.792403,
+          129.349995
+        ]
+      },
+      {
+        "target_landmark": "첨성대",
+        "station_name": "첨성대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.832304,
+          129.219785
+        ]
+      },
+      {
+        "target_landmark": "동궁과 월지",
+        "station_name": "동궁과 월지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.8323,
+          129.227238
+        ]
+      },
+      {
+        "target_landmark": "대릉원",
+        "station_name": "대릉원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.836548,
+          129.212732
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "경주 중앙 공영주차장",
+        "coordinates": [
+          35.8367,
+          129.228037
+        ],
+        "capacity": 34,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "경주 제2 공영주차장",
+        "coordinates": [
+          35.836304,
+          129.219785
+        ],
+        "capacity": 216,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "경주 제3 공영주차장",
+        "coordinates": [
+          35.837748,
+          129.211132
+        ],
+        "capacity": 91,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "경주초등학교 운동장",
+        "coordinates": [
+          35.771137,
+          129.40637
+        ],
+        "capacity": 5600,
+        "address": "경상북도 경주시"
+      },
+      {
+        "name": "경주실내체육관",
+        "coordinates": [
+          35.781559,
+          129.357906
+        ],
+        "capacity": 5900,
+        "address": "경상북도 경주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "불국사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "석굴암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "첨성대",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동궁과 월지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대릉원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "불국사 봄",
+        "대릉원 봄꽃"
+      ],
+      "summer": [
+        "동궁과 월지 여름밤",
+        "불국사 여름"
+      ],
+      "autumn": [
+        "불국사 단풍",
+        "첨성대 가을"
+      ],
+      "winter": [
+        "동궁과 월지 겨울 빛",
+        "석굴암 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "동궁과 월지 야경",
+        "coordinates": [
+          35.8347,
+          129.226438
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "첨성대 야경",
+        "coordinates": [
+          35.834704,
+          129.218985
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "대릉원 야경",
+        "coordinates": [
+          35.838948,
+          129.211932
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "경주시는 신라 천년 고도로 불국사와 석굴암, 첨성대, 대릉원 등 유네스코 세계유산을 포함한 국내 최대 문화유산 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gyeongju-si, Gyeongbuk",
+      "landmarks": {
+        "불국사": [
+          "Bulguksa Temple",
+          "Silla-era temple, a UNESCO site famed for Seokgatap and Dabotap pagodas."
+        ],
+        "석굴암": [
+          "Seokguram Grotto",
+          "Unified Silla-era grotto temple, a UNESCO site famed for its main Buddha."
+        ],
+        "첨성대": [
+          "Cheomseongdae Observatory",
+          "Silla stone structure known as East Asia's oldest observatory."
+        ],
+        "동궁과 월지": [
+          "Donggung Palace and Wolji Pond",
+          "Silla secondary palace site famed for its night views over the pond."
+        ],
+        "대릉원": [
+          "Daereungwon Tomb Complex",
+          "Cluster of dense Silla royal tombs."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 慶州市",
+      "landmarks": {
+        "불국사": [
+          "仏国寺",
+          "新羅時代に創建された代表的な寺。釈迦塔と多宝塔で有名。ユネスコ登録。"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "統一新羅時代を代表する石窟寺院。本尊仏で有名。ユネスコ登録。"
+        ],
+        "첨성대": [
+          "瞻星台",
+          "東洋最古の天文台とされる新羅時代の石造建築。"
+        ],
+        "동궁과 월지": [
+          "東宮と月池",
+          "新羅時代の離宮跡。月池の夜景で有名な代表的な文化遺跡。"
+        ],
+        "대릉원": [
+          "大陵苑",
+          "新羅の王陵が密集する古墳群。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 庆州市",
+      "landmarks": {
+        "불국사": [
+          "佛国寺",
+          "新罗时代创建的代表性古刹，以释迦塔和多宝塔闻名，列入世界遗产。"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "统一新罗时代的代表性石窟寺院，以本尊佛闻名，列入世界遗产。"
+        ],
+        "첨성대": [
+          "瞻星台",
+          "被认为是东方最古老天文台的新罗石造建筑。"
+        ],
+        "동궁과 월지": [
+          "东宫与月池",
+          "新罗时代行宫旧址，以月池夜景闻名的代表性文化遗迹。"
+        ],
+        "대릉원": [
+          "大陵苑",
+          "新罗王陵密集的古坟群。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gyeongju.go.kr",
+    "civil_service_center": {
+      "location_name": "경주시청 민원실 앞",
+      "coordinates": [
+        129.225446,
+        35.856074
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-779-8585",
+      "info": "경상북도 경주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "경주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.26244,
+      35.85612
+    ],
+    "cctv_zone_count": 424,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "보문근린공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "신라문화제",
+    "typical_month": 10,
+    "venue_name": "경주 보문관광단지",
+    "venue_coords": [
+      129.26184,
+      35.85592
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "경주시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      129.224046,
+      35.857974
+    ],
+    "reservation_url": "https://www.gyeongju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "경주시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      129.227346,
+      35.858474
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "경주시청 공영주차장 급속충전소",
+    "coordinates": [
+      129.223146,
+      35.859074
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "황남빵 원조집",
+    "coordinates": [
+      129.209,
+      35.841
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "황남빵 (경주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=경주시청&goalx=129.225446&goaly=35.856074",
+    "kakaonavi_url": "kakaonavi://navigate?name=경주시청&x=129.225446&y=35.856074&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=경주시청&dlng=129.225446&dlat=35.856074&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:35",
+      "noon_altitude_deg": 54.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:42",
+      "noon_altitude_deg": 77.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:11",
+      "sunset": "18:20",
+      "noon_altitude_deg": 54.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:30",
+      "sunset": "17:13",
+      "noon_altitude_deg": 30.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "경주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.26219,
+          35.85617
+        ],
+        [
+          129.26244,
+          35.85612
+        ],
+        [
+          129.26394,
+          35.85572
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "경주 황남동 황리단길",
+    "anchor_center": [
+      129.224913,
+      35.856341
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 330,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "heritage_alley"
+  }
+}
