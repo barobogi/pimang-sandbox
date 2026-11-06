@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dangjin-si, Chungnam",
+      "landmarks": {
+        "삽교호": [
+          "Sapgyoho Lake",
+          "Signature lake attraction of Dangjin-si, Chungnam."
+        ],
+        "왜목마을": [
+          "Waemok Village",
+          "Signature sunrise village attraction of Dangjin-si, Chungnam."
+        ],
+        "당진시청": [
+          "Dangjin City Hall",
+          "Administrative center of Dangjin-si, Chungnam."
+        ],
+        "당진시장": [
+          "Dangjin Market",
+          "Signature market attraction of Dangjin-si, Chungnam."
+        ],
+        "현대제철 당진제철소": [
+          "Hyundai Steel Dangjin Works",
+          "Signature steel industry attraction of Dangjin-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 唐津市",
+      "landmarks": {
+        "삽교호": [
+          "挿橋湖",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "왜목마을": [
+          "倭木村",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "당진시청": [
+          "唐津市庁",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "당진시장": [
+          "唐津市場",
+          "忠清南道唐津市を代表する名所。"
+        ],
+        "현대제철 당진제철소": [
+          "現代製鉄唐津製鉄所",
+          "忠清南道唐津市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 唐津市",
+      "landmarks": {
+        "삽교호": [
+          "挢桥湖",
+          "忠清南道唐津市的代表性湖泊。"
+        ],
+        "왜목마을": [
+          "倭木村",
+          "忠清南道唐津市的代表性日出村落。"
+        ],
+        "당진시청": [
+          "唐津市厅",
+          "忠清南道唐津市的行政中心。"
+        ],
+        "당진시장": [
+          "唐津市场",
+          "忠清南道唐津市的代表性市场。"
+        ],
+        "현대제철 당진제철소": [
+          "现代制铁唐津钢铁厂",
+          "忠清南道唐津市的代表性钢铁工业地。"
+        ]
+      }
+    }
   }
 }
