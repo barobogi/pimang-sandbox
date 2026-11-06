@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "주산성 봄",
+        "지산동고분군 봄"
+      ],
+      "summer": [
+        "주산성 여름",
+        "대가야박물관 여름"
+      ],
+      "autumn": [
+        "주산성 단풍",
+        "지산동고분군 가을"
+      ],
+      "winter": [
+        "주산성 설경",
+        "고령시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "주산성 야경",
+        "coordinates": [
+          35.731081,
+          128.256202
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "대가야박물관 야경",
+        "coordinates": [
+          35.723015,
+          128.257338
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "고령군은 대가야의 고도로 유네스코 세계유산 지산동고분군과 대가야박물관이 자리한 군이다.",
   "data_sources": [
     {
