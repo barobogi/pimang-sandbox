@@ -1,0 +1,599 @@
+{
+  "block_code": "31170",
+  "block_name": "울산광역시 동구",
+  "bbox": [
+    129.383004,
+    35.337703,
+    129.720619,
+    35.571768
+  ],
+  "center": [
+    35.454735,
+    129.551811
+  ],
+  "landmarks": [
+    {
+      "name": "미포해변",
+      "lat": 35.525,
+      "lng": 129.423,
+      "category": "해변/관광",
+      "description": "동해안의 대표 해변으로 미포 철길이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 123.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dong-gu_ULSAN.PNG"
+    },
+    {
+      "name": "정자해수욕장",
+      "lat": 35.54,
+      "lng": 129.43,
+      "category": "해수욕장",
+      "description": "동해안의 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 130.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jeongja_Beach%2C_Ulsan.jpg/1280px-Jeongja_Beach%2C_Ulsan.jpg"
+    },
+    {
+      "name": "현대자동차 울산공장",
+      "lat": 35.531,
+      "lng": 129.39,
+      "category": "산업/자동차",
+      "description": "세계 최대 규모의 자동차 생산 공장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 120.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hyundai_Motor_Company_2000.jpg"
+    },
+    {
+      "name": "강동공원",
+      "lat": 35.558,
+      "lng": 129.399,
+      "category": "공원",
+      "description": "동구 강동 지역의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 129.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dong-gu_ULSAN.PNG"
+    },
+    {
+      "name": "화암공원",
+      "lat": 35.547,
+      "lng": 129.406,
+      "category": "공원",
+      "description": "동구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 127.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "동구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "미포해변 → 정자해수욕장 → 화암공원 → 강동공원 → 현대자동차 울산공장 순으로 이어지는 울산광역시 동구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "미포해변",
+        "정자해수욕장",
+        "화암공원",
+        "강동공원",
+        "현대자동차 울산공장"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "동구 그린 랜드스케이프 플라이트",
+      "description": "현대자동차 울산공장 → 화암공원 → 강동공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 동구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "현대자동차 울산공장",
+        "화암공원",
+        "강동공원"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "동구 푸른 해안선 에어리얼 크루즈",
+      "description": "미포해변 → 정자해수욕장 → 화암공원 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 동구의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "미포해변",
+        "정자해수욕장",
+        "화암공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "미포해변 가마솥밥가",
+      "lat": 35.52465,
+      "lng": 129.42321,
+      "specialty": "고래고기구이",
+      "category": "수산물"
+    },
+    {
+      "name": "정자해수욕장 옛맛식당",
+      "lat": 35.53986,
+      "lng": 129.43063,
+      "specialty": "고래회무침",
+      "category": "수산물"
+    },
+    {
+      "name": "화암공원 솥뚜껑가게",
+      "lat": 35.54707,
+      "lng": 129.40544,
+      "specialty": "왕새우탕",
+      "category": "수산물"
+    },
+    {
+      "name": "현대자동차 울산공장 큰마당식당",
+      "lat": 35.53135,
+      "lng": 129.38937,
+      "specialty": "간장게장",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "미포해변",
+        "station_name": "미포해변 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.523,
+          129.4238
+        ]
+      },
+      {
+        "target_landmark": "정자해수욕장",
+        "station_name": "정자해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.538,
+          129.4308
+        ]
+      },
+      {
+        "target_landmark": "현대자동차 울산공장",
+        "station_name": "현대자동차 울산공장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.529,
+          129.3908
+        ]
+      },
+      {
+        "target_landmark": "강동공원",
+        "station_name": "강동공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.556,
+          129.3998
+        ]
+      },
+      {
+        "target_landmark": "화암공원",
+        "station_name": "화암공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.545,
+          129.4068
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.523,
+          129.4214
+        ],
+        "capacity": 164,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.5424,
+          129.4308
+        ],
+        "capacity": 480,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제3 공영주차장",
+        "coordinates": [
+          35.5482,
+          129.404
+        ],
+        "capacity": 436,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.555098,
+          129.410208
+        ],
+        "capacity": 2500,
+        "address": "울산광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.567087,
+          129.446482
+        ],
+        "capacity": 1200,
+        "address": "울산광역시 동구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          35.558966,
+          129.425346
+        ],
+        "capacity": 3600,
+        "address": "울산광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "미포해변",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정자해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "현대자동차 울산공장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "강동공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화암공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "미포해변 봄 바다",
+        "정자해수욕장 봄"
+      ],
+      "summer": [
+        "정자해수욕장 여름",
+        "미포해변 여름밤"
+      ],
+      "autumn": [
+        "미포해변 가을",
+        "강동공원 단풍"
+      ],
+      "winter": [
+        "미포해변 해맞이",
+        "정자해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "미포해변 야경",
+        "coordinates": [
+          35.525,
+          129.423
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "정자해수욕장 야경",
+        "coordinates": [
+          35.54,
+          129.43
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "울산 동구는 동해 해안과 현대자동차 울산공장이 자리한 울산 동부의 산업·해양 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Ulsan",
+      "landmarks": {
+        "미포해변": [
+          "Mipo Beach",
+          "Signature East Sea beach, famed for the Mipo railway tracks."
+        ],
+        "정자해수욕장": [
+          "Jeongja Beach",
+          "Signature beach on the East Sea coast."
+        ],
+        "현대자동차 울산공장": [
+          "Hyundai Motor Ulsan Plant",
+          "The world's largest automobile production plant."
+        ],
+        "강동공원": [
+          "Gangdong Park",
+          "Signature park of the Gangdong area in Dong-gu."
+        ],
+        "화암공원": [
+          "Hwaam Park",
+          "Signature neighborhood park of Dong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 東区",
+      "landmarks": {
+        "미포해변": [
+          "尾浦ビーチ",
+          "東海を代表するビーチ。尾浦の鉄道線路が有名。"
+        ],
+        "정자해수욕장": [
+          "正津海水浴場",
+          "東海を代表する海水浴場。"
+        ],
+        "현대자동차 울산공장": [
+          "現代自動車蔚山工場",
+          "世界最大規模の自動車生産工場。"
+        ],
+        "강동공원": [
+          "江東公園",
+          "東区江東地区を代表する公園。"
+        ],
+        "화암공원": [
+          "花巌公園",
+          "東区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 东区",
+      "landmarks": {
+        "미포해변": [
+          "尾浦海滩",
+          "东海岸代表性海滩，尾浦铁轨闻名遐迩。"
+        ],
+        "정자해수욕장": [
+          "正珠海水浴场",
+          "东海岸的代表性海水浴场。"
+        ],
+        "현대자동차 울산공장": [
+          "现代汽车蔚山工厂",
+          "全球规模最大的汽车生产基地。"
+        ],
+        "강동공원": [
+          "江东公园",
+          "东区江东地区的代表性公园。"
+        ],
+        "화암공원": [
+          "花岩公园",
+          "东区的代表性近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.donggu.ulsan.kr",
+    "civil_service_center": {
+      "location_name": "동구청 민원실 앞",
+      "coordinates": [
+        129.41665,
+        35.504903
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "052-209-3000",
+      "info": "울산광역시 동구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.552311,
+      35.454135
+    ],
+    "cctv_zone_count": 77,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "대왕암공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "간절곶 해맞이축제",
+    "typical_month": 1,
+    "venue_name": "간절곶 일대",
+    "venue_coords": [
+      129.552211,
+      35.454635
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "동구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      129.41665,
+      35.503703
+    ],
+    "reservation_url": "https://www.donggu.ulsan.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "동구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.41855,
+      35.504103
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "동구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.41465,
+      35.506403
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "화암공원 솥뚜껑가게",
+    "coordinates": [
+      129.40544,
+      35.54707
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "왕새우탕 (동구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=동구청&goalx=129.416650&goaly=35.504903",
+    "kakaonavi_url": "kakaonavi://navigate?name=동구청&x=129.416650&y=35.504903&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=동구청&dlng=129.416650&dlat=35.504903&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:25",
+      "sunset": "18:33",
+      "noon_altitude_deg": 54.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:40",
+      "noon_altitude_deg": 78.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:10",
+      "sunset": "18:18",
+      "noon_altitude_deg": 54.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:28",
+      "sunset": "17:13",
+      "noon_altitude_deg": 31.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "동구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.553561,
+          35.454835
+        ],
+        [
+          129.552311,
+          35.454135
+        ],
+        [
+          129.553011,
+          35.454485
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "동구 중심상업거리",
+    "anchor_center": [
+      129.417983,
+      35.504103
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 210,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
