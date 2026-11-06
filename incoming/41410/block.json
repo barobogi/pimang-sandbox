@@ -1,0 +1,594 @@
+{
+  "block_code": "41410",
+  "block_name": "경기도 군포시",
+  "bbox": [
+    126.873231,
+    37.305038,
+    126.962441,
+    37.379307
+  ],
+  "center": [
+    37.342172,
+    126.917836
+  ],
+  "landmarks": [
+    {
+      "name": "수리산",
+      "lat": 37.3504199,
+      "lng": 126.9255584,
+      "category": "산/공원",
+      "description": "군포의 대표 산으로 수리산공원이 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 216.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00359.jpg/1280px-2016%EB%85%84_5%EC%9B%94_8%EC%9D%BC_%EA%B2%BD%EA%B8%B0%EB%8F%84_%EA%B5%B0%ED%8F%AC%EC%8B%9C_%EC%88%98%EB%A6%AC%EC%82%B0_DSC00359.jpg"
+    },
+    {
+      "name": "군포문화예술회관",
+      "lat": 37.3666988,
+      "lng": 126.9290921,
+      "category": "공연장/문화",
+      "description": "군포의 대표 공연·전시 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 200.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gunpo_montage.jpg"
+    },
+    {
+      "name": "금산동 상권",
+      "lat": 37.362,
+      "lng": 126.936,
+      "category": "상권",
+      "description": "금산동에 형성된 군포 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 216.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
+    },
+    {
+      "name": "당정동 상권",
+      "lat": 37.361,
+      "lng": 126.941,
+      "category": "상권",
+      "description": "당정동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 224.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gunpo_montage.jpg"
+    },
+    {
+      "name": "군포공원",
+      "lat": 37.353,
+      "lng": 126.939,
+      "category": "공원",
+      "description": "군포의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 237.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gunpo_montage.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "군포 자연 힐링 시그니처 에어리얼 투어",
+      "description": "수리산 → 군포공원 → 당정동 상권 → 금산동 상권 → 군포문화예술회관 순으로 이어지는 경기도 군포시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "수리산",
+        "군포공원",
+        "당정동 상권",
+        "금산동 상권",
+        "군포문화예술회관"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "군포 그린 랜드스케이프 플라이트",
+      "description": "수리산 → 군포공원 → 금산동 상권 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 군포의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "수리산",
+        "군포공원",
+        "금산동 상권"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "군포 도심 스카이라인 크루즈",
+      "description": "군포문화예술회관 → 금산동 상권 → 당정동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 군포의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "군포문화예술회관",
+        "금산동 상권",
+        "당정동 상권"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "수리산 할매집",
+      "lat": 37.34979,
+      "lng": 126.924998,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "군포공원 큰마당식당",
+      "lat": 37.35321,
+      "lng": 126.93963,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "금산동 상권 골목식당",
+      "lat": 37.36235,
+      "lng": 126.9353,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "군포문화예술회관 동네밥집",
+      "lat": 37.366629,
+      "lng": 126.928532,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수리산",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 18,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "군포문화예술회관",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 15,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "금산동 상권",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "당정동 상권",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      },
+      {
+        "target_landmark": "군포공원",
+        "station_name": "군포역",
+        "line": "수도권 1호선",
+        "exit_no": 3,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.3586,
+          126.935
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "군포 중앙 공영주차장",
+        "coordinates": [
+          37.34802,
+          126.923158
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "군포 제2 공영주차장",
+        "coordinates": [
+          37.3538,
+          126.939
+        ],
+        "capacity": 71,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "군포 제3 공영주차장",
+        "coordinates": [
+          37.3612,
+          126.9372
+        ],
+        "capacity": 243,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "군포초등학교 운동장",
+        "coordinates": [
+          37.35376,
+          126.919121
+        ],
+        "capacity": 5200,
+        "address": "경기도 군포시"
+      },
+      {
+        "name": "군포실내체육관",
+        "coordinates": [
+          37.358567,
+          126.918897
+        ],
+        "capacity": 6300,
+        "address": "경기도 군포시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "군포문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "당정동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "군포공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수리산 봄 진달래",
+        "군포공원 봄꽃"
+      ],
+      "summer": [
+        "수리산 계곡 여름",
+        "군포공원 여름"
+      ],
+      "autumn": [
+        "수리산 단풍길",
+        "군포공원 가을"
+      ],
+      "winter": [
+        "수리산 설경",
+        "군포문화예술회관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "수리산 야경",
+        "coordinates": [
+          37.35042,
+          126.925558
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "군포공원 야경",
+        "coordinates": [
+          37.353,
+          126.939
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "군포시는 수리산 공원이 자리한 경기 남부의 주거 도시이며 서울 남부 관문이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gunpo-si, Gyeonggi",
+      "landmarks": {
+        "수리산": [
+          "Surisan Mountain",
+          "Gunpo's signature mountain with Surisan Park."
+        ],
+        "군포문화예술회관": [
+          "Gunpo Arts Center",
+          "Gunpo's leading performance and exhibition venue."
+        ],
+        "금산동 상권": [
+          "Geumsan-dong District",
+          "Commercial hub of Gunpo in Geumsan-dong."
+        ],
+        "당정동 상권": [
+          "Dangjeong-dong District",
+          "Everyday commercial hub in Dangjeong-dong."
+        ],
+        "군포공원": [
+          "Gunpo Park",
+          "Signature neighborhood park of Gunpo."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 軍浦市",
+      "landmarks": {
+        "수리산": [
+          "水落山",
+          "軍浦を代表する山。水落山公園が造成された名山。"
+        ],
+        "군포문화예술회관": [
+          "軍浦文化芸術会館",
+          "軍浦を代表する公演・展示施設。"
+        ],
+        "금산동 상권": [
+          "金山洞商圏",
+          "金山洞に形成された軍浦を代表する商圏。"
+        ],
+        "당정동 상권": [
+          "堂井洞商圏",
+          "堂井洞に形成された代表的な生活商圏。"
+        ],
+        "군포공원": [
+          "軍浦公園",
+          "軍浦を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 军浦市",
+      "landmarks": {
+        "수리산": [
+          "水落山",
+          "军浦的代表名山，建有水落山公园。"
+        ],
+        "군포문화예술회관": [
+          "军浦文化艺术会馆",
+          "军浦代表性的演出展览场馆。"
+        ],
+        "금산동 상권": [
+          "金山洞商圈",
+          "金山洞形成的军浦代表性商圈。"
+        ],
+        "당정동 상권": [
+          "堂井洞商圈",
+          "堂井洞形成的代表性生活商圈。"
+        ],
+        "군포공원": [
+          "军浦公园",
+          "军浦的代表性近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gunpo.go.kr",
+    "civil_service_center": {
+      "location_name": "군포시청 민원실 앞",
+      "coordinates": [
+        126.935373,
+        37.361438
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-392-3000",
+      "info": "경기도 군포시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "군포시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.917836,
+      37.341573
+    ],
+    "cctv_zone_count": 118,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "당정근린공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "군포 시민 대축제",
+    "typical_month": 4,
+    "venue_name": "군포시청 앞 광장",
+    "venue_coords": [
+      126.918236,
+      37.341873
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "군포시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.936573,
+      37.362038
+    ],
+    "reservation_url": "https://www.gunpo.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "군포시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.934573,
+      37.359838
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "군포시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.938073,
+      37.359538
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "군포문화예술회관 동네밥집",
+    "coordinates": [
+      126.928532,
+      37.366629
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (군포시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=군포시청&goalx=126.935373&goaly=37.361438",
+    "kakaonavi_url": "kakaonavi://navigate?name=군포시청&x=126.935373&y=37.361438&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=군포시청&dlng=126.935373&dlat=37.361438&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "군포시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.917936,
+          37.343073
+        ],
+        [
+          126.917836,
+          37.341573
+        ],
+        [
+          126.917286,
+          37.342473
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "군포시 전통시장 만남의거리",
+    "anchor_center": [
+      126.936306,
+      37.360505
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 10,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
