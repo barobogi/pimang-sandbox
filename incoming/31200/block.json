@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buk-gu, Ulsan",
+      "landmarks": {
+        "대왕암공원": [
+          "Daewangam Park",
+          "Coastal park famed for the Daewangam rock on the East Sea cliffs."
+        ],
+        "일산해수욕장": [
+          "Ilsan Beach",
+          "Ulsan's signature beach alongside Daewangam Park."
+        ],
+        "강동 풍력발전단지": [
+          "Gangdong Offshore Wind Farm",
+          "Cluster of offshore wind turbines along the Gangdong coast, a tourist sight."
+        ],
+        "달천천 수변공원": [
+          "Dalcheoncheon Waterfront Park",
+          "Waterfront park along the Dalcheon stream, a residents' retreat."
+        ],
+        "연암공원": [
+          "Yeonam Park",
+          "Neighborhood park built across Yeonam-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 北区",
+      "landmarks": {
+        "대왕암공원": [
+          "大王岩公園",
+          "東海の海岸断崖の大王岩で有名な代表的な海岸公園。"
+        ],
+        "일산해수욕장": [
+          "日山海水浴場",
+          "大王岩公園とともに蔚山を代表する海水浴場。"
+        ],
+        "강동 풍력발전단지": [
+          "江東風力発電団地",
+          "江東海岸の洋上風力発電機の集まりが観光名所に挙げられる。"
+        ],
+        "달천천 수변공원": [
+          "達川川水辺公園",
+          "達川川沿いに造られた水辺公園。住民の憩いの場。"
+        ],
+        "연암공원": [
+          "連岩公園",
+          "連岩洞一帯に造成された近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 北区",
+      "landmarks": {
+        "대왕암공원": [
+          "大王岩公园",
+          "以东海海岸峭壁上的大王岩闻名的代表性滨海公园。"
+        ],
+        "일산해수욕장": [
+          "日山海水浴场",
+          "与大王岩公园相伴的蔚山代表性海滨浴场。"
+        ],
+        "강동 풍력발전단지": [
+          "江东风力发电园区",
+          "江东海岸的海上风机群，已成为观光名胜。"
+        ],
+        "달천천 수변공원": [
+          "达川川滨水公园",
+          "沿达川川修建的滨水公园，供居民休憩。"
+        ],
+        "연암공원": [
+          "连岩公园",
+          "连岩洞一带的近邻公园。"
+        ]
+      }
+    }
   }
 }
