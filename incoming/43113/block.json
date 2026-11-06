@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "흥덕초등학교 운동장",
+        "coordinates": [
+          36.638437,
+          127.457995
+        ],
+        "capacity": 5900,
+        "address": "충청북도 청주시 흥덕구"
+      },
+      {
+        "name": "흥덕실내체육관",
+        "coordinates": [
+          36.654695,
+          127.386335
+        ],
+        "capacity": 1500,
+        "address": "충청북도 청주시 흥덕구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "충북대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사직공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "흥덕구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "무심천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "청주 흥덕구는 청주 서부의 구로 충북대학교와 사직공원, 백화점 상권이 함께한 대표 주거 상업 지역이다.",
   "data_sources": [
     {
