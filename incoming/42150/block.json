@@ -436,5 +436,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gangneung.go.kr",
+    "civil_service_center": {
+      "location_name": "강릉시청 민원실 앞",
+      "coordinates": [
+        128.928255,
+        37.779656
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "033-660-2018",
+      "info": "강원특별자치도 강릉시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "강릉시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.928055,
+      37.780356
+    ],
+    "cctv_zone_count": 303
+  },
+  "urban_parks_trails": {
+    "park_name": "경포해변공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "강릉 커피축제",
+    "typical_month": 10,
+    "venue_name": "강릉 커피상설시장 일대",
+    "venue_coords": [
+      128.927555,
+      37.780156
+    ]
   }
 }
