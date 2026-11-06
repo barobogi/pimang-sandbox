@@ -147,6 +147,96 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "문수산",
+        "station_name": "문수산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.74149,
+          126.54741
+        ]
+      },
+      {
+        "target_landmark": "한강",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      },
+      {
+        "target_landmark": "북변동 상권",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      },
+      {
+        "target_landmark": "장기동 상권",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      },
+      {
+        "target_landmark": "김포문화예술회관",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "김포 중앙 공영주차장",
+        "coordinates": [
+          37.635359,
+          126.674189
+        ],
+        "capacity": 120,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "김포 제2 공영주차장",
+        "coordinates": [
+          37.637,
+          126.7054
+        ],
+        "capacity": 538,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "김포 제3 공영주차장",
+        "coordinates": [
+          37.6208,
+          126.7116
+        ],
+        "capacity": 418,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "김포시는 한강 하구의 대표 도시로 문수산과 김포 평야가 함께한 경기 북서부의 도시이다.",
   "data_sources": [
     {
