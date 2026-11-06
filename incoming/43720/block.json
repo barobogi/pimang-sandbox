@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "속리산 봄 진달래",
+        "법주사 봄"
+      ],
+      "summer": [
+        "속리산 계곡 여름",
+        "법주사 여름"
+      ],
+      "autumn": [
+        "속리산 단풍길",
+        "정이품송 가을"
+      ],
+      "winter": [
+        "법주사 설경",
+        "속리산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "속리산 야경",
+        "coordinates": [
+          36.455364,
+          127.782028
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "법주사 야경",
+        "coordinates": [
+          36.543822,
+          127.834966
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "보은군은 속리산과 법주사, 정이품송이 자리한 충북 남부의 군이다.",
   "data_sources": [
     {
