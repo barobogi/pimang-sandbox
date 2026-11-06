@@ -1,0 +1,589 @@
+{
+  "block_code": "45750",
+  "block_name": "전북특별자치도 임실군",
+  "bbox": [
+    127.08309,
+    35.459786,
+    127.436285,
+    35.777655
+  ],
+  "center": [
+    35.618721,
+    127.259688
+  ],
+  "landmarks": [
+    {
+      "name": "옥정호",
+      "lat": 35.596187,
+      "lng": 127.1119581,
+      "category": "호수/자연",
+      "description": "옥정호은(는) 전북특별자치도 임실군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%A0%95%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 79.3
+      }
+    },
+    {
+      "name": "임실치즈테마파크",
+      "lat": 35.6332943,
+      "lng": 127.3019645,
+      "category": "테마파크/체험",
+      "description": "임실치즈테마파크은(는) 전북특별자치도 임실군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EC%B9%98%EC%A6%88%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 247.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Imsilgun_County_04_%2816597675160%29.jpg/1280px-Imsilgun_County_04_%2816597675160%29.jpg"
+    },
+    {
+      "name": "성수산",
+      "lat": 35.51974,
+      "lng": 127.19263,
+      "category": "산/자연",
+      "description": "성수산은(는) 전북특별자치도 임실군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 28.8
+      }
+    },
+    {
+      "name": "임실군청",
+      "lat": 35.6176889,
+      "lng": 127.2889117,
+      "category": "행정/랜드마크",
+      "description": "임실군청은(는) 전북특별자치도 임실군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 272.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Imsil_Hyanggyo.jpg"
+    },
+    {
+      "name": "임실시장",
+      "lat": 35.6144116,
+      "lng": 127.2830737,
+      "category": "시장/먹거리",
+      "description": "임실시장은(는) 전북특별자치도 임실군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%8B%A4%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 282.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Imsil_Hyanggyo.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "임실 도심 하이라이트 시그니처 스카이 투어",
+      "description": "임실시장 → 임실군청 → 임실치즈테마파크 → 성수산 → 옥정호 순으로 이어지는 전북특별자치도 임실군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "임실시장",
+        "임실군청",
+        "임실치즈테마파크",
+        "성수산",
+        "옥정호"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "임실 도심 하이라이트 스카이 투어",
+      "description": "임실치즈테마파크 → 임실군청 → 임실시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 임실의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "임실치즈테마파크",
+        "임실군청",
+        "임실시장"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "임실 자연 힐링 스카이 워크",
+      "description": "옥정호 → 성수산 → 임실시장 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 임실의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "옥정호",
+        "성수산",
+        "임실시장"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "임실 할매집",
+      "lat": 35.614202,
+      "lng": 127.283354,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "임실 큰마당식당",
+      "lat": 35.614832,
+      "lng": 127.283424,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "임실 골목식당",
+      "lat": 35.614412,
+      "lng": 127.283494,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "옥정호",
+        "station_name": "옥정호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.598987,
+          127.110358
+        ]
+      },
+      {
+        "target_landmark": "임실치즈테마파크",
+        "station_name": "임실버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 37,
+        "coordinates": [
+          35.616412,
+          127.282274
+        ]
+      },
+      {
+        "target_landmark": "성수산",
+        "station_name": "성수산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.52254,
+          127.19103
+        ]
+      },
+      {
+        "target_landmark": "임실군청",
+        "station_name": "임실버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 9,
+        "coordinates": [
+          35.616412,
+          127.282274
+        ]
+      },
+      {
+        "target_landmark": "임실시장",
+        "station_name": "임실버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.616412,
+          127.282274
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "임실 중앙 공영주차장",
+        "coordinates": [
+          35.613612,
+          127.282674
+        ],
+        "capacity": 59,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "임실 제2 공영주차장",
+        "coordinates": [
+          35.618089,
+          127.289712
+        ],
+        "capacity": 216,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "임실 제3 공영주차장",
+        "coordinates": [
+          35.634494,
+          127.304364
+        ],
+        "capacity": 174,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "임실초등학교 운동장",
+        "coordinates": [
+          35.628094,
+          127.11027
+        ],
+        "capacity": 2000,
+        "address": "전북특별자치도 임실군"
+      },
+      {
+        "name": "임실실내체육관",
+        "coordinates": [
+          35.586163,
+          127.299885
+        ],
+        "capacity": 7200,
+        "address": "전북특별자치도 임실군"
+      },
+      {
+        "name": "임실중앙공원 비상집합장소",
+        "coordinates": [
+          35.532741,
+          127.143741
+        ],
+        "capacity": 5100,
+        "address": "전북특별자치도 임실군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "옥정호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "임실치즈테마파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성수산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "임실군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "임실시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "옥정호 벚꽃",
+        "성수산 봄"
+      ],
+      "summer": [
+        "옥정호 여름",
+        "임실치즈테마파크 여름"
+      ],
+      "autumn": [
+        "옥정호 단풍",
+        "성수산 가을"
+      ],
+      "winter": [
+        "옥정호 설경",
+        "임실치즈테마파크 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "옥정호 야경",
+        "coordinates": [
+          35.596187,
+          127.111958
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "임실치즈테마파크 야경",
+        "coordinates": [
+          35.633294,
+          127.301964
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "임실군은 임실치즈로 유명하며 옥정호와 성수산, 임실치즈테마파크가 자리한 전북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Imsil-gun, Jeonbuk",
+      "landmarks": {
+        "옥정호": [
+          "Okjeongho Lake",
+          "Signature lake attraction of Imsil-gun, Jeonbuk."
+        ],
+        "임실치즈테마파크": [
+          "Imsil Cheese Theme Park",
+          "Signature theme park attraction of Imsil-gun, Jeonbuk."
+        ],
+        "성수산": [
+          "Seongsusan Mountain",
+          "Signature mountain attraction of Imsil-gun, Jeonbuk."
+        ],
+        "임실군청": [
+          "Imsil County Office",
+          "Administrative center of Imsil-gun, Jeonbuk."
+        ],
+        "임실시장": [
+          "Imsil Market",
+          "Signature market attraction of Imsil-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 任実郡",
+      "landmarks": {
+        "옥정호": [
+          "玉亭湖",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "임실치즈테마파크": [
+          "任実チーズテーマパーク",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "성수산": [
+          "聖寿山",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "임실군청": [
+          "任実郡庁",
+          "全北特別自治道任実郡を代表する名所。"
+        ],
+        "임실시장": [
+          "任実市場",
+          "全北特別自治道任実郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 任实郡",
+      "landmarks": {
+        "옥정호": [
+          "玉亭湖",
+          "全北特别自治道任实郡的代表性湖泊。"
+        ],
+        "임실치즈테마파크": [
+          "任实奶酪主题公园",
+          "全北特别自治道任实郡的代表性主题乐园。"
+        ],
+        "성수산": [
+          "圣寿山",
+          "全北特别自治道任实郡的代表性名山。"
+        ],
+        "임실군청": [
+          "任实郡厅",
+          "全北特别自治道任实郡的行政中心。"
+        ],
+        "임실시장": [
+          "任实市场",
+          "全北特别自治道任实郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.imsil.go.kr",
+    "civil_service_center": {
+      "location_name": "임실군청 민원실 앞",
+      "coordinates": [
+        127.290199,
+        35.617876
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-640-2114",
+      "info": "전북특별자치도 임실군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "임실군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.259888,
+      35.619321
+    ],
+    "cctv_zone_count": 292,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "임실 시민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "임실 치즈축제",
+    "typical_month": 5,
+    "venue_name": "임실 치즈테마파크",
+    "venue_coords": [
+      127.259687,
+      35.618821
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "임실군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.288499,
+      35.617076
+    ],
+    "reservation_url": "https://www.imsil.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "임실군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.288799,
+      35.615376
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "임실군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.293099,
+      35.619676
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "임실 할매집",
+    "coordinates": [
+      127.283354,
+      35.614202
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "콩나물국밥 (임실군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=임실군청&goalx=127.290199&goaly=35.617876",
+    "kakaonavi_url": "kakaonavi://navigate?name=임실군청&x=127.290199&y=35.617876&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=임실군청&dlng=127.290199&dlat=35.617876&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:43",
+      "noon_altitude_deg": 54.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:15",
+      "sunset": "19:50",
+      "noon_altitude_deg": 77.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:28",
+      "noon_altitude_deg": 54.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:22",
+      "noon_altitude_deg": 30.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "임실군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.261038,
+          35.617871
+        ],
+        [
+          127.259888,
+          35.619321
+        ],
+        [
+          127.260688,
+          35.619221
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "임실군 전통시장 만남의거리",
+    "anchor_center": [
+      127.290332,
+      35.619676
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 30,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
