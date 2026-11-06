@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Bonghwa-gun, Gyeongbuk",
+      "landmarks": {
+        "청량산": [
+          "Cheongnyangsan Mountain",
+          "Signature mountain attraction of Bonghwa-gun, Gyeongbuk."
+        ],
+        "닭실마을": [
+          "Dalgsil Village",
+          "Signature traditional village attraction of Bonghwa-gun, Gyeongbuk."
+        ],
+        "봉화군청": [
+          "Bonghwa County Office",
+          "Administrative center of Bonghwa-gun, Gyeongbuk."
+        ],
+        "봉화시장": [
+          "Bonghwa Market",
+          "Signature market attraction of Bonghwa-gun, Gyeongbuk."
+        ],
+        "봉화은어축제장": [
+          "Bonghwa Sweetfish Festival Grounds",
+          "Signature festival attraction of Bonghwa-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 奉化郡",
+      "landmarks": {
+        "청량산": [
+          "清涼山",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "닭실마을": [
+          "タルシル村",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "봉화군청": [
+          "奉化郡庁",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "봉화시장": [
+          "奉化市場",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "봉화은어축제장": [
+          "奉化アユ祭り会場",
+          "慶尚北道奉化郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 奉化郡",
+      "landmarks": {
+        "청량산": [
+          "清凉山",
+          "庆尚北道奉化郡的代表性名山。"
+        ],
+        "닭실마을": [
+          "答实村",
+          "庆尚北道奉化郡的代表性传统村落。"
+        ],
+        "봉화군청": [
+          "奉化郡厅",
+          "庆尚北道奉化郡的行政中心。"
+        ],
+        "봉화시장": [
+          "奉化市场",
+          "庆尚北道奉化郡的代表性市场。"
+        ],
+        "봉화은어축제장": [
+          "奉化香鱼庆典会场",
+          "庆尚北道奉化郡的代表性庆典地。"
+        ]
+      }
+    }
   }
 }
