@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gongju-si, Chungnam",
+      "landmarks": {
+        "공산성": [
+          "Gongsanseong Fortress",
+          "UNESCO-listed fortress attraction of Gongju-si, Chungnam."
+        ],
+        "무령왕릉": [
+          "Tomb of King Muryeong",
+          "UNESCO-listed royal tomb attraction of Gongju-si, Chungnam."
+        ],
+        "마곡사": [
+          "Magoksa Temple",
+          "Signature temple heritage of Gongju-si, Chungnam."
+        ],
+        "공주시청": [
+          "Gongju City Hall",
+          "Administrative center of Gongju-si, Chungnam."
+        ],
+        "공주시장": [
+          "Gongju Market",
+          "Signature market attraction of Gongju-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 公州市",
+      "landmarks": {
+        "공산성": [
+          "公山城",
+          "ユネスコ登録の城郭名所。忠清南道公州市を代表する名所。"
+        ],
+        "무령왕릉": [
+          "武寧王陵",
+          "ユネスコ登録の王陵名所。忠清南道公州市を代表する名所。"
+        ],
+        "마곡사": [
+          "麻谷寺",
+          "忠清南道公州市を代表する名所。"
+        ],
+        "공주시청": [
+          "公州市庁",
+          "忠清南道公州市を代表する名所。"
+        ],
+        "공주시장": [
+          "公州市場",
+          "忠清南道公州市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 公州市",
+      "landmarks": {
+        "공산성": [
+          "公山城",
+          "列入世界遗产的城郭名胜，忠清南道公州市的代表性古迹。"
+        ],
+        "무령왕릉": [
+          "武宁王陵",
+          "列入世界遗产的王陵名胜，忠清南道公州市的代表性遗迹。"
+        ],
+        "마곡사": [
+          "麻谷寺",
+          "忠清南道公州市的代表性古刹。"
+        ],
+        "공주시청": [
+          "公州市厅",
+          "忠清南道公州市的行政中心。"
+        ],
+        "공주시장": [
+          "公州市场",
+          "忠清南道公州市的代表性市场。"
+        ]
+      }
+    }
   }
 }
