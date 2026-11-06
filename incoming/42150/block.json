@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강릉초등학교 운동장",
+        "coordinates": [
+          37.742503,
+          128.850874
+        ],
+        "capacity": 6600,
+        "address": "강원특별자치도 강릉시"
+      },
+      {
+        "name": "강릉실내체육관",
+        "coordinates": [
+          37.748015,
+          128.830523
+        ],
+        "capacity": 1300,
+        "address": "강원특별자치도 강릉시"
+      },
+      {
+        "name": "강릉중앙공원 비상집합장소",
+        "coordinates": [
+          37.723417,
+          128.913603
+        ],
+        "capacity": 5300,
+        "address": "강원특별자치도 강릉시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "경포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오죽헌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안목해변 커피거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쇠소깍",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주문진해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "강릉시는 옛 영동 지역의 중심지로 조선 시대 명주부였던 유서 깊은 도시이며 경포와 안목해변, 주문진 등 동해 해안 관광과 오죽헌·선교장 등 전통 문화 명소가 함께한다.",
   "data_sources": [
     {
