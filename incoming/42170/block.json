@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "무릉계곡",
+        "station_name": "무릉계곡 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.465769,
+          129.025344
+        ]
+      },
+      {
+        "target_landmark": "천곡천연동굴",
+        "station_name": "동해역",
+        "line": "동해선",
+        "walk_minutes": 12,
+        "coordinates": [
+          37.5117,
+          129.1161
+        ]
+      },
+      {
+        "target_landmark": "추암촛대바위",
+        "station_name": "추암촛대바위 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.478119,
+          129.162755
+        ]
+      },
+      {
+        "target_landmark": "동해시청",
+        "station_name": "동해역",
+        "line": "동해선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.5117,
+          129.1161
+        ]
+      },
+      {
+        "target_landmark": "묵호항",
+        "station_name": "동해역",
+        "line": "동해선",
+        "walk_minutes": 45,
+        "coordinates": [
+          37.5117,
+          129.1161
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동해 중앙 공영주차장",
+        "coordinates": [
+          37.539052,
+          129.112432
+        ],
+        "capacity": 142,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동해 제2 공영주차장",
+        "coordinates": [
+          37.524763,
+          129.116892
+        ],
+        "capacity": 431,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "동해 제3 공영주차장",
+        "coordinates": [
+          37.515979,
+          129.110964
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "동해시는 동해안 무릉계곡과 천곡천연동굴, 추암촛대바위가 자리한 강원 영동의 해안 도시이다.",
   "data_sources": [
     {
