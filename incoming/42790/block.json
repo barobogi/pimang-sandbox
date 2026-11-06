@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hwacheon-gun, Gangwon",
+      "landmarks": {
+        "파로호": [
+          "Paroho Lake",
+          "Signature lake attraction of Hwacheon-gun, Gangwon."
+        ],
+        "화천산천어축제장": [
+          "Hwacheon Sancheoneo Festival Grounds",
+          "Signature festival attraction of Hwacheon-gun, Gangwon."
+        ],
+        "화천군청": [
+          "Hwacheon County Office",
+          "Administrative center of Hwacheon-gun, Gangwon."
+        ],
+        "화천시장": [
+          "Hwacheon Market",
+          "Signature market attraction of Hwacheon-gun, Gangwon."
+        ],
+        "평화의댐": [
+          "Peace Dam",
+          "Signature infrastructure attraction of Hwacheon-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 華川郡",
+      "landmarks": {
+        "파로호": [
+          "破虜湖",
+          "江原特別自治道華川郡を代表する名所。"
+        ],
+        "화천산천어축제장": [
+          "華川山川魚祭り会場",
+          "江原特別自治道華川郡を代表する名所。"
+        ],
+        "화천군청": [
+          "華川郡庁",
+          "江原特別自治道華川郡を代表する名所。"
+        ],
+        "화천시장": [
+          "華川市場",
+          "江原特別自治道華川郡を代表する名所。"
+        ],
+        "평화의댐": [
+          "平和のダム",
+          "江原特別自治道華川郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 华川郡",
+      "landmarks": {
+        "파로호": [
+          "破虏湖",
+          "江原特别自治道华川郡的代表性湖泊。"
+        ],
+        "화천산천어축제장": [
+          "华川山鳟鱼节会场",
+          "江原特别自治道华川郡的代表性庆典地。"
+        ],
+        "화천군청": [
+          "华川郡厅",
+          "江原特别自治道华川郡的行政中心。"
+        ],
+        "화천시장": [
+          "华川市场",
+          "江原特别自治道华川郡的代表性市场。"
+        ],
+        "평화의댐": [
+          "和平大坝",
+          "江原特别自治道华川郡的代表性水坝景观。"
+        ]
+      }
+    }
   }
 }
