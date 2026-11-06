@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금오산 봄 진달래",
+        "경천대 봄"
+      ],
+      "summer": [
+        "금오산 계곡 여름",
+        "경천대 여름"
+      ],
+      "autumn": [
+        "금오산 단풍길",
+        "사인암 가을"
+      ],
+      "winter": [
+        "금오산 설경",
+        "경천대 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "금오산 야경",
+        "coordinates": [
+          36.091736,
+          128.300198
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "경천대 야경",
+        "coordinates": [
+          36.1,
+          128.121776
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "구미시는 근현대 전자·섬유 산업 도시로 성장한 경북 서부의 도시로 금오산과 사인암 등의 자연 명소와 산업 유산이 함께한다.",
   "data_sources": [
     {
