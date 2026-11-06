@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "논산초등학교 운동장",
+        "coordinates": [
+          36.210961,
+          127.158756
+        ],
+        "capacity": 5000,
+        "address": "충청남도 논산시"
+      },
+      {
+        "name": "논산실내체육관",
+        "coordinates": [
+          36.186512,
+          127.020103
+        ],
+        "capacity": 2000,
+        "address": "충청남도 논산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "관촉사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "강경젓갈시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "논산시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "탑정호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대둔산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "논산시는 백제 유적인 관촉사 미륵보살입상과 강경젓갈시장, 딸기 재배로 유명한 충남 남부의 도시이다.",
   "data_sources": [
     {
