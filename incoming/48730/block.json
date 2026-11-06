@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "함안초등학교 운동장",
+        "coordinates": [
+          35.28424,
+          128.400252
+        ],
+        "capacity": 1800,
+        "address": "경상남도 함안군"
+      },
+      {
+        "name": "함안실내체육관",
+        "coordinates": [
+          35.236487,
+          128.368917
+        ],
+        "capacity": 7500,
+        "address": "경상남도 함안군"
+      },
+      {
+        "name": "함안중앙공원 비상집합장소",
+        "coordinates": [
+          35.25751,
+          128.369081
+        ],
+        "capacity": 4400,
+        "address": "경상남도 함안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "말이산고분군",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "함안박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "함안군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "함안시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙동강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "함안군은 아라가야의 고도로 말이산고분군과 함안박물관이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
