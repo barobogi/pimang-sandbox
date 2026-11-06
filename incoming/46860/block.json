@@ -348,5 +348,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hampyeong-gun, Jeonnam",
+      "landmarks": {
+        "함평자연생태공원": [
+          "Hampyeong Eco Park",
+          "Signature ecological park of Hampyeong-gun, Jeonnam."
+        ],
+        "함평나비축제장": [
+          "Hampyeong Butterfly Festival Grounds",
+          "Signature festival attraction of Hampyeong-gun, Jeonnam."
+        ],
+        "함평군청": [
+          "Hampyeong County Office",
+          "Administrative center of Hampyeong-gun, Jeonnam."
+        ],
+        "함평시장": [
+          "Hampyeong Market",
+          "Signature market attraction of Hampyeong-gun, Jeonnam."
+        ],
+        "고막원천": [
+          "Gomakwoncheon Stream",
+          "Signature stream attraction of Hampyeong-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 咸平郡",
+      "landmarks": {
+        "함평자연생태공원": [
+          "咸平自然生態公園",
+          "全羅南道咸平郡を代表する名所。"
+        ],
+        "함평나비축제장": [
+          "咸平チョウ祭り会場",
+          "全羅南道咸平郡を代表する名所。"
+        ],
+        "함평군청": [
+          "咸平郡庁",
+          "全羅南道咸平郡を代表する名所。"
+        ],
+        "함평시장": [
+          "咸平市場",
+          "全羅南道咸平郡を代表する名所。"
+        ],
+        "고막원천": [
+          "高幕元川",
+          "全羅南道咸平郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 咸平郡",
+      "landmarks": {
+        "함평자연생태공원": [
+          "咸平自然生态公园",
+          "全罗南道咸平郡的代表性生态公园。"
+        ],
+        "함평나비축제장": [
+          "咸平蝴蝶庆典会场",
+          "全罗南道咸平郡的代表性庆典地。"
+        ],
+        "함평군청": [
+          "咸平郡厅",
+          "全罗南道咸平郡的行政中心。"
+        ],
+        "함평시장": [
+          "咸平市场",
+          "全罗南道咸平郡的代表性市场。"
+        ],
+        "고막원천": [
+          "高幕元川",
+          "全罗南道咸平郡的代表性河流。"
+        ]
+      }
+    }
   }
 }
