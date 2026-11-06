@@ -1,0 +1,578 @@
+{
+  "block_code": "46230",
+  "block_name": "전라남도 광양시",
+  "bbox": [
+    127.525198,
+    34.867201,
+    127.797212,
+    35.18378
+  ],
+  "center": [
+    35.025491,
+    127.661205
+  ],
+  "landmarks": [
+    {
+      "name": "백운산",
+      "lat": 35.1063783,
+      "lng": 127.6213246,
+      "category": "산/자연",
+      "description": "해발 1,217m의 광양의 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%9A%B4%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 158.0
+      }
+    },
+    {
+      "name": "광양만",
+      "lat": 34.91,
+      "lng": 127.57,
+      "category": "해양/만",
+      "description": "남해안의 대표 만으로 컨테이너 항만과 갯벌이 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EB%A7%8C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 32.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/MAX_0389.jpg/1280px-MAX_0389.jpg"
+    },
+    {
+      "name": "몽덕해수욕장",
+      "lat": 34.964,
+      "lng": 127.576,
+      "category": "해수욕장",
+      "description": "광양의 대표 해수욕장으로 여름철 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 48.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gwangyang_City_Hall.JPG/1280px-Gwangyang_City_Hall.JPG"
+    },
+    {
+      "name": "포스코 광양제철소",
+      "lat": 34.954,
+      "lng": 127.608,
+      "category": "산업/철강",
+      "description": "세계 최대급 철강 생산 시설로 광양 산업의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 31.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gwangyang_City_Hall.JPG/1280px-Gwangyang_City_Hall.JPG"
+    },
+    {
+      "name": "을족도",
+      "lat": 34.989,
+      "lng": 127.544,
+      "category": "섬/관광",
+      "description": "섬진강 하구의 섬으로 유서 깊은 전쟁 유적과 풍광이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 69.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gwangyang_City_Hall.JPG/1280px-Gwangyang_City_Hall.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "광양 해안 절경 시그니처 드론 플라이트",
+      "description": "포스코 광양제철소 → 몽덕해수욕장 → 을족도 → 광양만 → 백운산 순으로 이어지는 전라남도 광양시의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "포스코 광양제철소",
+        "몽덕해수욕장",
+        "을족도",
+        "광양만",
+        "백운산"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "광양 바다빛 스카이 세일",
+      "description": "을족도 → 몽덕해수욕장 → 포스코 광양제철소 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 광양의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "을족도",
+        "몽덕해수욕장",
+        "포스코 광양제철소"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "광양 산하 절경 에어리얼 투어",
+      "description": "백운산 → 을족도 → 포스코 광양제철소 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 광양의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "백운산",
+        "을족도",
+        "포스코 광양제철소"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "포스코 광양제철소 동네밥집",
+      "lat": 34.95393,
+      "lng": 127.60835,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "백운산 골목식당",
+      "lat": 35.105748,
+      "lng": 127.621535,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "몽덕해수욕장 골목식당",
+      "lat": 34.96407,
+      "lng": 127.57544,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "을족도 솥뚜껑가게",
+      "lat": 34.98949,
+      "lng": 127.54344,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "백운산",
+        "station_name": "백운산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.107578,
+          127.622525
+        ]
+      },
+      {
+        "target_landmark": "광양만",
+        "station_name": "광양만 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.9112,
+          127.5712
+        ]
+      },
+      {
+        "target_landmark": "몽덕해수욕장",
+        "station_name": "광양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 45,
+        "coordinates": [
+          34.952,
+          127.6076
+        ]
+      },
+      {
+        "target_landmark": "포스코 광양제철소",
+        "station_name": "광양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.952,
+          127.6076
+        ]
+      },
+      {
+        "target_landmark": "을족도",
+        "station_name": "을족도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.9902,
+          127.5452
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광양 중앙 공영주차장",
+        "coordinates": [
+          34.9524,
+          127.6092
+        ],
+        "capacity": 284,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "광양 제2 공영주차장",
+        "coordinates": [
+          35.108378,
+          127.619725
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "광양초등학교 운동장",
+        "coordinates": [
+          35.124289,
+          127.641732
+        ],
+        "capacity": 5900,
+        "address": "전라남도 광양시"
+      },
+      {
+        "name": "광양실내체육관",
+        "coordinates": [
+          34.875693,
+          127.605327
+        ],
+        "capacity": 6800,
+        "address": "전라남도 광양시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "백운산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "광양만",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "몽덕해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "포스코 광양제철소",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "을족도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "백운산 봄",
+        "을족도 봄"
+      ],
+      "summer": [
+        "몽덕해수욕장 여름",
+        "광양만 여름"
+      ],
+      "autumn": [
+        "백운산 단풍",
+        "광양만 가을"
+      ],
+      "winter": [
+        "광양만 설경",
+        "백운산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "광양만 야경",
+        "coordinates": [
+          34.91,
+          127.57
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "백운산 야경",
+        "coordinates": [
+          35.106378,
+          127.621325
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "광양시는 광양만과 백운산이 어우러진 전남 동부의 산업·관광 도시로 포스코 광양제철소와 몽덕해수욕장이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangyang-si, Jeonnam",
+      "landmarks": {
+        "백운산": [
+          "Baegunsan Mountain",
+          "Gwangyang's signature peak at 1,217 m."
+        ],
+        "광양만": [
+          "Gwangyang Bay",
+          "Signature bay of the southern coast, mixing container terminals and mudflats."
+        ],
+        "몽덕해수욕장": [
+          "Mongdeok Beach",
+          "Gwangyang's signature beach, a summer family spot."
+        ],
+        "포스코 광양제철소": [
+          "POSCO Gwangyang Works",
+          "World-class steel plant and heart of Gwangyang industry."
+        ],
+        "을족도": [
+          "Euljokdo Island",
+          "Island at the Seomjin River estuary, famed for historic war remains and scenery."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 光陽市",
+      "landmarks": {
+        "백운산": [
+          "白雲山",
+          "標高1217メートルの光陽を代表する名山。"
+        ],
+        "광양만": [
+          "光陽湾",
+          "南海岸を代表する湾。コンテナ港と干潟が共存する。"
+        ],
+        "몽덕해수욕장": [
+          "夢徳海水浴場",
+          "光陽を代表する海水浴場。夏の家族行楽の名所。"
+        ],
+        "포스코 광양제철소": [
+          "POSCO光陽製鉄所",
+          "世界最大級の製鉄生産施設。光陽産業の中心。"
+        ],
+        "을족도": [
+          "乙卒島",
+          "蟾津江河の口の島。由緒ある戦争遺跡と風景で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 光阳市",
+      "landmarks": {
+        "백운산": [
+          "白云山",
+          "海拔1217米的光阳代表名山。"
+        ],
+        "광양만": [
+          "光阳湾",
+          "南海岸代表性海湾，集装箱港与滩涂共存。"
+        ],
+        "몽덕해수욕장": [
+          "梦德海水浴场",
+          "光阳代表性海滨浴场，夏日亲子胜地。"
+        ],
+        "포스코 광양제철소": [
+          "浦项光阳钢铁厂",
+          "世界级钢铁生产基地，光阳产业的核心。"
+        ],
+        "을족도": [
+          "乙簇岛",
+          "蟾津江口的岛屿，以古战争遗迹和风光闻名。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gwangyang.go.kr",
+    "civil_service_center": {
+      "location_name": "광양시청 민원실 앞",
+      "coordinates": [
+        127.695954,
+        34.940649
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-797-2114",
+      "info": "전라남도 광양시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "광양시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.661205,
+      35.025491
+    ],
+    "cctv_zone_count": 399,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "광양 시민공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "광양 매화축제",
+    "typical_month": 3,
+    "venue_name": "광양 시민운동장",
+    "venue_coords": [
+      127.661105,
+      35.025491
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "광양시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.698154,
+      34.938749
+    ],
+    "reservation_url": "https://www.gwangyang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "광양시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.698954,
+      34.939849
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "광양시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.696954,
+      34.942349
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "포스코 광양제철소 동네밥집",
+    "coordinates": [
+      127.60835,
+      34.95393
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "홍어회 (광양시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=광양시청&goalx=127.695954&goaly=34.940649",
+    "kakaonavi_url": "kakaonavi://navigate?name=광양시청&x=127.695954&y=34.940649&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=광양시청&dlng=127.695954&dlat=34.940649&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 55.0
+    },
+    "summer_solstice": {
+      "sunrise": "05:15",
+      "sunset": "19:46",
+      "noon_altitude_deg": 78.4
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 55.0
+    },
+    "winter_solstice": {
+      "sunrise": "07:34",
+      "sunset": "17:22",
+      "noon_altitude_deg": 31.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "광양시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.660805,
+          35.024241
+        ],
+        [
+          127.661205,
+          35.025491
+        ],
+        [
+          127.660905,
+          35.024841
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "광양시 중심상업거리",
+    "anchor_center": [
+      127.696354,
+      34.939316
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 150,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
