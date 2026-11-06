@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수덕사",
+        "station_name": "수덕사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.663815,
+          126.621705
+        ]
+      },
+      {
+        "target_landmark": "추사고택",
+        "station_name": "추사고택 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.7125,
+          126.8581
+        ]
+      },
+      {
+        "target_landmark": "윤봉길의사기념관",
+        "station_name": "윤봉길의사기념관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.68845,
+          126.651018
+        ]
+      },
+      {
+        "target_landmark": "예당호출렁다리",
+        "station_name": "예산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.6504,
+          126.8308
+        ]
+      },
+      {
+        "target_landmark": "덕산메타세쿼이아길",
+        "station_name": "덕산메타세쿼이아길 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.764,
+          126.9346
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "예산 중앙 공영주차장",
+        "coordinates": [
+          36.6488,
+          126.8284
+        ],
+        "capacity": 87,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "예산 제2 공영주차장",
+        "coordinates": [
+          36.7081,
+          126.8605
+        ],
+        "capacity": 214,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "예산군은 충남 서부 내륙의 군으로 슬로시티 대흥과 예당호, 수덕사 대웅전, 추사고택, 매헌 윤봉길 의사 유적 등 역사·문화 명소가 풍부한 지역이다.",
   "data_sources": [
     {
