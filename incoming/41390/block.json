@@ -332,5 +332,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Siheung-si, Gyeonggi",
+      "landmarks": {
+        "오이도빛거리": [
+          "Oido Light Trail",
+          "Marine lookout complex on Oido, Jeongwang-dong, famed for Sihwaho mudflats and pomegranate blossoms."
+        ],
+        "갯골생태공원": [
+          "Gaetgol Ecological Park",
+          "Ecological park restored from Joseon-era tidal channels, offering mudflat experiences."
+        ],
+        "시화호": [
+          "Sihwaho Lake",
+          "Artificial lake formed by a sea dike, internationally important for mudflats and migratory shorebirds."
+        ],
+        "배곧한강공원": [
+          "Baegot Waterfront Park",
+          "Waterfront park in the Baegot district, the signature retreat of Siheung New Town."
+        ],
+        "은계생태공원": [
+          "Eunpyeong Ecological Park",
+          "Ecological park in Eunhaeng-dong, a citizens' walking favorite."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 始興市",
+      "landmarks": {
+        "오이도빛거리": [
+          "烏耳島光の道",
+          "正王洞の烏耳島に造られた海洋展望施設。始華湖の干潟とザくろの花が有名。"
+        ],
+        "갯골생태공원": [
+          "ガッコル生態公園",
+          "朝鮮時代に掘削された潮沟を復元して造られた生態公園。干潟体験ができる。"
+        ],
+        "시화호": [
+          "始華湖",
+          "防潮堤で造られた人造湖。干潟とシギの渡り地として国際的にも重要な地域。"
+        ],
+        "배곧한강공원": [
+          "ペゴッ水辺公園",
+          "ペゴッ地区に造られた水辺公園。始興新都市を代表する憩いの場。"
+        ],
+        "은계생태공원": [
+          "銀杏生態公園",
+          "銀杏洞一帯に造られた生態公園。市民の散策名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 始兴市",
+      "landmarks": {
+        "오이도빛거리": [
+          "乌耳岛光影大道",
+          "正王洞乌耳岛上的海洋观景设施，以始兴湖滩涂和石榴花闻名。"
+        ],
+        "갯골생태공원": [
+          "潮沟生态公园",
+          "复原朝鲜时代开凿潮沟建成的生态公园，可体验滩涂。"
+        ],
+        "시화호": [
+          "始华湖",
+          "防潮堤围成的人工湖，滩涂与鸻鹬候鸟栖息地，国际重要性显著。"
+        ],
+        "배곧한강공원": [
+          "Baegot滨水公园",
+          "Baegot地区建成的滨水公园，始兴新城的代表性休憩地。"
+        ],
+        "은계생태공원": [
+          "银杏生态公园",
+          "银杏洞一带的生态公园，市民散步胜地。"
+        ]
+      }
+    }
   }
 }
