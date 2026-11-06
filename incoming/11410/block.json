@@ -147,6 +147,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "독립문",
+        "station_name": "독립문역",
+        "line": "서울 3호선",
+        "exit_no": 1,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.5758,
+          126.9574
+        ]
+      },
+      {
+        "target_landmark": "서대문형무소역사관",
+        "station_name": "독립문역",
+        "line": "서울 3호선",
+        "exit_no": 1,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5758,
+          126.9574
+        ]
+      },
+      {
+        "target_landmark": "연세대학교",
+        "station_name": "독립문역",
+        "line": "서울 3호선",
+        "exit_no": 1,
+        "walk_minutes": 27,
+        "coordinates": [
+          37.5758,
+          126.9574
+        ]
+      },
+      {
+        "target_landmark": "이화여자대학교",
+        "station_name": "독립문역",
+        "line": "서울 3호선",
+        "exit_no": 1,
+        "walk_minutes": 23,
+        "coordinates": [
+          37.5758,
+          126.9574
+        ]
+      },
+      {
+        "target_landmark": "홍제천",
+        "station_name": "홍제역",
+        "line": "서울 3호선",
+        "exit_no": 8,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.5892,
+          126.9474
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서대문 중앙 공영주차장",
+        "coordinates": [
+          37.590972,
+          126.940348
+        ],
+        "capacity": 57,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "서대문 제2 공영주차장",
+        "coordinates": [
+          37.568946,
+          126.941305
+        ],
+        "capacity": 397,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "서대문구는 연세대학교와 이화여자대학교가 자리한 학문의 거리이자 독립문과 서대문형무소 등 역사 유적이 함께한 자치구이다.",
   "data_sources": [
     {
