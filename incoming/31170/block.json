@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "미포해변 봄 바다",
+        "정자해수욕장 봄"
+      ],
+      "summer": [
+        "정자해수욕장 여름",
+        "미포해변 여름밤"
+      ],
+      "autumn": [
+        "미포해변 가을",
+        "강동공원 단풍"
+      ],
+      "winter": [
+        "미포해변 해맞이",
+        "정자해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "미포해변 야경",
+        "coordinates": [
+          35.525,
+          129.423
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "정자해수욕장 야경",
+        "coordinates": [
+          35.54,
+          129.43
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "울산 동구는 동해 해안과 현대자동차 울산공장이 자리한 울산 동부의 산업·해양 구이다.",
   "data_sources": [
     {
