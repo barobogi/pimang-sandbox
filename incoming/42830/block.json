@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangyang-gun, Gangwon",
+      "landmarks": {
+        "낙산해수욕장": [
+          "Naksan Beach",
+          "Signature beach attraction of Yangyang-gun, Gangwon."
+        ],
+        "낙산사": [
+          "Naksansa Temple",
+          "Signature temple heritage of Yangyang-gun, Gangwon."
+        ],
+        "죽도해수욕장": [
+          "Jukdo Beach",
+          "Signature beach attraction of Yangyang-gun, Gangwon."
+        ],
+        "양양군청": [
+          "Yangyang County Office",
+          "Administrative center of Yangyang-gun, Gangwon."
+        ],
+        "남대천": [
+          "Namdaechon Stream",
+          "Signature stream attraction of Yangyang-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 襄陽郡",
+      "landmarks": {
+        "낙산해수욕장": [
+          "洛山海水浴場",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "낙산사": [
+          "洛山寺",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "죽도해수욕장": [
+          "竹島海水浴場",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "양양군청": [
+          "襄陽郡庁",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ],
+        "남대천": [
+          "南大川",
+          "江原特別自治道襄陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 襄阳郡",
+      "landmarks": {
+        "낙산해수욕장": [
+          "洛山海水浴场",
+          "江原特别自治道襄阳郡的代表性海滨。"
+        ],
+        "낙산사": [
+          "洛山寺",
+          "江原特别自治道襄阳郡的代表性古刹。"
+        ],
+        "죽도해수욕장": [
+          "竹岛海水浴场",
+          "江原特别自治道襄阳郡的代表性海滨。"
+        ],
+        "양양군청": [
+          "襄阳郡厅",
+          "江原特别自治道襄阳郡的行政中心。"
+        ],
+        "남대천": [
+          "南大川",
+          "江原特别自治道襄阳郡的代表性河流。"
+        ]
+      }
+    }
   }
 }
