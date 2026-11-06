@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yongsan-gu, Seoul",
+      "landmarks": {
+        "이태원": [
+          "Itaewon",
+          "International culture street packed with restaurants and shops from around the world."
+        ],
+        "국립중앙박물관": [
+          "National Museum of Korea",
+          "Korea's largest national museum, set within Yongsan Park."
+        ],
+        "전쟁기념관": [
+          "War Memorial of Korea",
+          "Memorial honoring Korea's war history and fallen heroes."
+        ],
+        "남산": [
+          "Namsan Mountain",
+          "Representative mountain in central Seoul, famous for N Seoul Tower and its scenic trails."
+        ],
+        "해방촌": [
+          "Haebangchon",
+          "Historic hillside neighborhood in Yongsan known for its distinctive shops and culture."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 龍山区",
+      "landmarks": {
+        "이태원": [
+          "梨泰院",
+          "世界各国のレストランや店舗が集まる国際的な文化ストリート。"
+        ],
+        "국립중앙박물관": [
+          "国立中央博物館",
+          "韓国最大の国立博物館。龍山公園内に位置する。"
+        ],
+        "전쟁기념관": [
+          "戦争記念館",
+          "国内外の戦争史と護国英霊を顕彰する記念館。"
+        ],
+        "남산": [
+          "南山",
+          "ソウル中心部を代表する山。Nソウルタワーと南山循環路が有名。"
+        ],
+        "해방촌": [
+          "解放村",
+          "龍山の高台にある町で、個性豊かな商店街が形成されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 龙山区",
+      "landmarks": {
+        "이태원": [
+          "梨泰院",
+          "汇集世界各地餐厅与商店的国际化文化街区。"
+        ],
+        "국립중앙박물관": [
+          "国立中央博物馆",
+          "韩国规模最大的国家级博物馆，位于龙山公园内。"
+        ],
+        "전쟁기념관": [
+          "战争纪念馆",
+          "铭记战争历史、缅怀护国英烈的纪念场馆。"
+        ],
+        "남산": [
+          "南山",
+          "首尔市中心的代表名山，以N首尔塔和环山步道闻名。"
+        ],
+        "해방촌": [
+          "解放村",
+          "龙山高地上的特色村落，街区风情独具一格。"
+        ]
+      }
+    }
   }
 }
