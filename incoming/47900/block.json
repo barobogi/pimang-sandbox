@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yecheon-gun, Gyeongbuk",
+      "landmarks": {
+        "회룡포": [
+          "Hoeryongpo Bend",
+          "Signature scenic attraction of Yecheon-gun, Gyeongbuk."
+        ],
+        "초간정": [
+          "Choganjeong Pavilion",
+          "Signature pavilion heritage of Yecheon-gun, Gyeongbuk."
+        ],
+        "예천천문우주센터": [
+          "Yecheon Astro Space Center",
+          "Signature science attraction of Yecheon-gun, Gyeongbuk."
+        ],
+        "예천군청": [
+          "Yecheon County Office",
+          "Administrative center of Yecheon-gun, Gyeongbuk."
+        ],
+        "예천시장": [
+          "Yecheon Market",
+          "Signature market attraction of Yecheon-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 醴泉郡",
+      "landmarks": {
+        "회룡포": [
+          "回龍浦",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "초간정": [
+          "草澗亭",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "예천천문우주센터": [
+          "醴泉天文宇宙センター",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "예천군청": [
+          "醴泉郡庁",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "예천시장": [
+          "醴泉市場",
+          "慶尚北道醴泉郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 醴泉郡",
+      "landmarks": {
+        "회룡포": [
+          "回龙浦",
+          "庆尚北道醴泉郡的代表性胜景。"
+        ],
+        "초간정": [
+          "草涧亭",
+          "庆尚北道醴泉郡的代表性楼亭。"
+        ],
+        "예천천문우주센터": [
+          "醴泉天文宇宙中心",
+          "庆尚北道醴泉郡的代表性科学设施。"
+        ],
+        "예천군청": [
+          "醴泉郡厅",
+          "庆尚北道醴泉郡的行政中心。"
+        ],
+        "예천시장": [
+          "醴泉市场",
+          "庆尚北道醴泉郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
