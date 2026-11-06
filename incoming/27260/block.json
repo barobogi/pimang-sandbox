@@ -1,0 +1,592 @@
+{
+  "block_code": "27260",
+  "block_name": "대구광역시 수성구",
+  "bbox": [
+    128.591891,
+    35.790088,
+    128.726059,
+    35.878328
+  ],
+  "center": [
+    35.834208,
+    128.658975
+  ],
+  "landmarks": [
+    {
+      "name": "수성못",
+      "lat": 35.8272746,
+      "lng": 128.6179383,
+      "category": "호수/공원",
+      "description": "대구 도심의 대표 호수 공원으로 산책과 낚시 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EB%AA%BB",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 78.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Suseonglakeducks.JPG/1280px-Suseonglakeducks.JPG"
+    },
+    {
+      "name": "국채보상운동기념공원",
+      "lat": 35.8686955,
+      "lng": 128.6019555,
+      "category": "역사/공원",
+      "description": "1907년 국채보상운동을 기념하는 역사 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%B1%84%EB%B3%B4%EC%83%81%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%85%90%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 126.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/National_Debt_Repayment_Movement_Park-1.jpg/1280px-National_Debt_Repayment_Movement_Park-1.jpg"
+    },
+    {
+      "name": "아르떼뮤지엄 대구",
+      "lat": 35.825,
+      "lng": 128.64,
+      "category": "미디어아트/전시",
+      "description": "황금동에 위치한 대형 미디어아트 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 59.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Suseong-gu_office.JPG/1280px-Suseong-gu_office.JPG"
+    },
+    {
+      "name": "수성갯벌체험장",
+      "lat": 35.82,
+      "lng": 128.618,
+      "category": "체험/생태",
+      "description": "수성못 인근에 조성된 갯벌 체험 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 66.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Suseong-gu_office.JPG/1280px-Suseong-gu_office.JPG"
+    },
+    {
+      "name": "황령산",
+      "lat": 35.815,
+      "lng": 128.63,
+      "category": "산/자연",
+      "description": "수성구 남쪽에 자리한 낮은 산으로 등산로가 조성된 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%84%B1%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 50.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Landscape_of_Busan_from_Hwangryeongsan.jpg/1280px-Landscape_of_Busan_from_Hwangryeongsan.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "수성 자연 힐링 시그니처 에어리얼 투어",
+      "description": "아르떼뮤지엄 대구 → 황령산 → 수성갯벌체험장 → 수성못 → 국채보상운동기념공원 순으로 이어지는 대구광역시 수성구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "아르떼뮤지엄 대구",
+        "황령산",
+        "수성갯벌체험장",
+        "수성못",
+        "국채보상운동기념공원"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "수성 산하 절경 에어리얼 투어",
+      "description": "수성못 → 수성갯벌체험장 → 황령산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 수성의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "수성못",
+        "수성갯벌체험장",
+        "황령산"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "수성 도심 활력 에어리얼 코스",
+      "description": "아르떼뮤지엄 대구 → 황령산 → 수성갯벌체험장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 수성의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "아르떼뮤지엄 대구",
+        "황령산",
+        "수성갯벌체험장"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "아르떼뮤지엄 대구 골목식당",
+      "lat": 35.82458,
+      "lng": 128.64014,
+      "specialty": "가이국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "황령산 본점",
+      "lat": 35.81479,
+      "lng": 128.62944,
+      "specialty": "막창구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "수성못 옛맛식당",
+      "lat": 35.827625,
+      "lng": 128.618078,
+      "specialty": "납작만두",
+      "category": "향토음식"
+    },
+    {
+      "name": "수성갯벌체험장 가마솥밥가",
+      "lat": 35.81979,
+      "lng": 128.61744,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수성못",
+        "station_name": "범물역",
+        "line": "대구 2호선",
+        "exit_no": 6,
+        "walk_minutes": 11,
+        "coordinates": [
+          35.8286,
+          128.6266
+        ]
+      },
+      {
+        "target_landmark": "국채보상운동기념공원",
+        "station_name": "국채보상운동기념공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.866295,
+          128.600356
+        ]
+      },
+      {
+        "target_landmark": "아르떼뮤지엄 대구",
+        "station_name": "만촌역",
+        "line": "대구 2호선",
+        "exit_no": 1,
+        "walk_minutes": 7,
+        "coordinates": [
+          35.8281,
+          128.6366
+        ]
+      },
+      {
+        "target_landmark": "수성갯벌체험장",
+        "station_name": "범물역",
+        "line": "대구 2호선",
+        "exit_no": 6,
+        "walk_minutes": 18,
+        "coordinates": [
+          35.8286,
+          128.6266
+        ]
+      },
+      {
+        "target_landmark": "황령산",
+        "station_name": "범물역",
+        "line": "대구 2호선",
+        "exit_no": 6,
+        "walk_minutes": 22,
+        "coordinates": [
+          35.8286,
+          128.6266
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "수성 중앙 공영주차장",
+        "coordinates": [
+          35.8226,
+          128.6388
+        ],
+        "capacity": 57,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "수성 제2 공영주차장",
+        "coordinates": [
+          35.8174,
+          128.6292
+        ],
+        "capacity": 391,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "수성초등학교 운동장",
+        "coordinates": [
+          35.82667,
+          128.610368
+        ],
+        "capacity": 6500,
+        "address": "대구광역시 수성구"
+      },
+      {
+        "name": "수성실내체육관",
+        "coordinates": [
+          35.870608,
+          128.60219
+        ],
+        "capacity": 3200,
+        "address": "대구광역시 수성구"
+      },
+      {
+        "name": "수성중앙공원 비상집합장소",
+        "coordinates": [
+          35.816014,
+          128.645293
+        ],
+        "capacity": 7300,
+        "address": "대구광역시 수성구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수성못",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국채보상운동기념공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "아르떼뮤지엄 대구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수성갯벌체험장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "황령산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수성못 벚꽃길",
+        "국채보상운동기념공원 봄"
+      ],
+      "summer": [
+        "수성못 여름 음악분수",
+        "수성갯벌체험장 여름"
+      ],
+      "autumn": [
+        "수성못 단풍",
+        "황령산 억새"
+      ],
+      "winter": [
+        "수성못 겨울 빛축제",
+        "아르떼뮤지엄 대구 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "수성못 야경",
+        "coordinates": [
+          35.827275,
+          128.617938
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "황령산 야경",
+        "coordinates": [
+          35.815,
+          128.63
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "수성구는 대구의 대표 고급 주거지로 수성못과 국채보상운동기념공원, 아르떼뮤지엄 등이 자리한 대구 남동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Suseong-gu, Daegu",
+      "landmarks": {
+        "수성못": [
+          "Suseongmot Lake",
+          "Signature lakeside park in central Daegu for strolls and fishing."
+        ],
+        "국채보상운동기념공원": [
+          "National Debt Repayment Movement Memorial Park",
+          "Historic park commemorating the 1907 debt repayment movement."
+        ],
+        "아르떼뮤지엄 대구": [
+          "Arte Museum Daegu",
+          "Large media art exhibition hall in Hwanggeum-dong."
+        ],
+        "수성갯벌체험장": [
+          "Suseong Mudflat Experience",
+          "Mudflat experience facility near Suseongmot Lake."
+        ],
+        "황령산": [
+          "Hwangnyeongsan Mountain",
+          "Low mountain on Suseong-gu's south with well-built hiking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 寿城区",
+      "landmarks": {
+        "수성못": [
+          "寿城池",
+          "大邱都心を代表する湖畔公園。散歩と釣りの名所。"
+        ],
+        "국채보상운동기념공원": [
+          "国債報償運動記念公園",
+          "1907年の国債報償運動を記念する歴史公園。"
+        ],
+        "아르떼뮤지엄 대구": [
+          "アルテミュージアム大邱",
+          "黄金洞にある大型メディアアート展示館。"
+        ],
+        "수성갯벌체험장": [
+          "寿城干潟体験場",
+          "寿城池の近くに造られた干潟体験施設。"
+        ],
+        "황령산": [
+          "荒嶺山",
+          "寿城区の南に位置し、登山道が整備された低い山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 寿城区",
+      "landmarks": {
+        "수성못": [
+          "寿城湖",
+          "大邱市中心的代表性湖畔公园，散步垂钓胜地。"
+        ],
+        "국채보상운동기념공원": [
+          "国债报偿运动纪念公园",
+          "纪念1907年国债报偿运动的历史公园。"
+        ],
+        "아르떼뮤지엄 대구": [
+          "ARTE MUSEUM大邱",
+          "位于黄金洞的大型媒体艺术展馆。"
+        ],
+        "수성갯벌체험장": [
+          "寿城滩涂体验场",
+          "寿城湖附近的滩涂体验设施。"
+        ],
+        "황령산": [
+          "荒岭山",
+          "寿城区南侧的矮山，建有登山步道。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.suseong.kr",
+    "civil_service_center": {
+      "location_name": "수성구청 민원실 앞",
+      "coordinates": [
+        128.630553,
+        35.858247
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "053-666-2000",
+      "info": "대구광역시 수성구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "수성구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.658475,
+      35.834208
+    ],
+    "cctv_zone_count": 115,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "수성못 공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "봉산 미술제",
+    "typical_month": 10,
+    "venue_name": "수성못 일대",
+    "venue_coords": [
+      128.658375,
+      35.833608
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "수성구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.630853,
+      35.856247
+    ],
+    "reservation_url": "https://www.suseong.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "수성구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.632753,
+      35.860647
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "수성구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.632353,
+      35.860847
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "아르떼뮤지엄 대구 골목식당",
+    "coordinates": [
+      128.64014,
+      35.82458
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "가이국밥 (수성구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=수성구청&goalx=128.630553&goaly=35.858247",
+    "kakaonavi_url": "kakaonavi://navigate?name=수성구청&x=128.630553&y=35.858247&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=수성구청&dlng=128.630553&dlat=35.858247&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:37",
+      "noon_altitude_deg": 54.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:45",
+      "noon_altitude_deg": 77.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:22",
+      "noon_altitude_deg": 54.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:32",
+      "sunset": "17:16",
+      "noon_altitude_deg": 30.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "수성구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.657425,
+          35.835258
+        ],
+        [
+          128.658475,
+          35.834208
+        ],
+        [
+          128.657175,
+          35.834008
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "수성구 중심상업거리",
+    "anchor_center": [
+      128.632553,
+      35.85758
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 260,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
