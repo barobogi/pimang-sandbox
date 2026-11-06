@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "진도초등학교 운동장",
+        "coordinates": [
+          34.449598,
+          126.186035
+        ],
+        "capacity": 900,
+        "address": "전라남도 진도군"
+      },
+      {
+        "name": "진도실내체육관",
+        "coordinates": [
+          34.539131,
+          126.423681
+        ],
+        "capacity": 6300,
+        "address": "전라남도 진도군"
+      },
+      {
+        "name": "진도중앙공원 비상집합장소",
+        "coordinates": [
+          34.557954,
+          126.38853
+        ],
+        "capacity": 1800,
+        "address": "전라남도 진도군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "진도대교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "운림산방",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "진도개테마파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "진도군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "진도시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "진도군은 진도대교와 운림산방, 진도개로 유명한 전남 서남단의 섬 군이다.",
   "data_sources": [
     {
