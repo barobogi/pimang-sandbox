@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "목포초등학교 운동장",
+        "coordinates": [
+          34.799121,
+          126.379065
+        ],
+        "capacity": 6500,
+        "address": "전라남도 목포시"
+      },
+      {
+        "name": "목포실내체육관",
+        "coordinates": [
+          34.80983,
+          126.392146
+        ],
+        "capacity": 4100,
+        "address": "전라남도 목포시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "유달산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "목포해상케이블카",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "국립해양유물전시관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "삼학도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "목포근대역사관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "목포시는 조선 시대 목포항에서 출발해 개항기 이후 근대 항만 도시로 성장한 전남 서부의 대표 도시로 유달산과 근대 건축 유산이 함께한다.",
   "data_sources": [
     {
