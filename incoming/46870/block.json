@@ -357,5 +357,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeonggwang-gun, Jeonnam",
+      "landmarks": {
+        "불갑사": [
+          "Bulgapsa Temple",
+          "Signature temple heritage of Yeonggwang-gun, Jeonnam."
+        ],
+        "법성포": [
+          "Beopseongpo Port",
+          "Signature specialty harbor attraction of Yeonggwang-gun, Jeonnam."
+        ],
+        "백수해안 전망대": [
+          "Baeksu Coast Observatory",
+          "Signature coastal drive attraction of Yeonggwang-gun, Jeonnam."
+        ],
+        "영광군청": [
+          "Yeonggwang County Office",
+          "Administrative center of Yeonggwang-gun, Jeonnam."
+        ],
+        "영광시장": [
+          "Yeonggwang Market",
+          "Signature market attraction of Yeonggwang-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 靈光郡",
+      "landmarks": {
+        "불갑사": [
+          "仏甲寺",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "법성포": [
+          "法聖浦",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "백수해안 전망대": [
+          "白水海岸展望台",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "영광군청": [
+          "霊光郡庁",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "영광시장": [
+          "霊光市場",
+          "全羅南道霊光郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 灵光郡",
+      "landmarks": {
+        "불갑사": [
+          "佛甲寺",
+          "全罗南道灵光郡的代表性古刹。"
+        ],
+        "법성포": [
+          "法圣浦",
+          "全罗南道灵光郡的代表性特产渔港。"
+        ],
+        "백수해안 전망대": [
+          "白水海岸展望台",
+          "全罗南道灵光郡的代表性海岸兜风胜地。"
+        ],
+        "영광군청": [
+          "灵光郡厅",
+          "全罗南道灵光郡的行政中心。"
+        ],
+        "영광시장": [
+          "灵光市场",
+          "全罗南道灵光郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
