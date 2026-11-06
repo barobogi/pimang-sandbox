@@ -357,5 +357,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hanam-si, Gyeonggi",
+      "landmarks": {
+        "스타필드 하남": [
+          "Starfield Hanam",
+          "Large shopping mall in Misa-dong, an urban cultural complex with craft goods."
+        ],
+        "검단산": [
+          "Geomdansan Mountain",
+          "Low mountain at Hanam's center, damaged by river gravel mining and restored as a park."
+        ],
+        "망월사": [
+          "Mangwolsa Temple",
+          "Temple in Deokpoong-dong with a history of Joseon-era chief monks."
+        ],
+        "미사한강공원": [
+          "Misa Hangang Park",
+          "Riverside park on the Misa stretch of the Han River, with bike paths and sports facilities."
+        ],
+        "덕풍공원": [
+          "Deokpoong Park",
+          "Neighborhood park across Deokpoong-dong, downtown Hanam's main retreat."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 河南市",
+      "landmarks": {
+        "스타필드 하남": [
+          "スターフィールド河南",
+          "美沙洞にある大型複合ショッピングモール。手工芸品と都市型複合文化空間。"
+        ],
+        "검단산": [
+          "検丹山",
+          "河南市中心にある低い山。川の砂利採取で損なわれた後、公園として復元された都心の名山。"
+        ],
+        "망월사": [
+          "望月寺",
+          "河南市徳豊洞にある寺。朝鮮時代に住職を務めた歴史を持つ。"
+        ],
+        "미사한강공원": [
+          "美沙漢江公園",
+          "漢江美沙地区の水辺公園。自転車道と体育施設がよく整備されている。"
+        ],
+        "덕풍공원": [
+          "徳豊公園",
+          "徳豊洞一帯に造成された近隣公園。河南都心を代表する憩いの場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 河南市",
+      "landmarks": {
+        "스타필드 하남": [
+          "Starfield河南购物中心",
+          "位于美沙洞的大型复合购物中心，都市型文化空间。"
+        ],
+        "검단산": [
+          "检丹山",
+          "河南市中央的矮山，曾因采砂受损，后修复为公园。"
+        ],
+        "망월사": [
+          "望月寺",
+          "位于德丰洞的古刹，曾有朝鲜时代住持的历史。"
+        ],
+        "미사한강공원": [
+          "美沙汉江公园",
+          "汉江美沙江段的滨水公园，自行车道和体育设施完善。"
+        ],
+        "덕풍공원": [
+          "德丰公园",
+          "德丰洞一带的近邻公园，河南市中心的代表性休憩地。"
+        ]
+      }
+    }
   }
 }
