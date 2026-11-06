@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "도담삼봉 봄",
+        "구인사 봄"
+      ],
+      "summer": [
+        "도담삼봉 여름",
+        "고수동굴 여름"
+      ],
+      "autumn": [
+        "도담삼봉 단풍",
+        "구인사 가을"
+      ],
+      "winter": [
+        "도담삼봉 설경",
+        "고수동굴 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "도담삼봉 야경",
+        "coordinates": [
+          37.000117,
+          128.343889
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "단양시장 야시장",
+        "coordinates": [
+          36.979408,
+          128.43461
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "단양군은 도담삼봉과 구인사, 고수동굴이 자리한 충북 북부 남한강 유역의 대표 관광 군이다.",
   "data_sources": [
     {
