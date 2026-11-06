@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "홍도 봄",
+        "증도 봄 갯벌"
+      ],
+      "summer": [
+        "홍도 여름 해변",
+        "비금도 여름"
+      ],
+      "autumn": [
+        "증도 갈대",
+        "도초도 가을"
+      ],
+      "winter": [
+        "흑산도 겨울 해변",
+        "증도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "홍도 야경",
+        "coordinates": [
+          34.691393,
+          125.200314
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "증도 야경",
+        "coordinates": [
+          34.986794,
+          126.160978
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "신안군은 흑산도와 홍도, 증도 등 다도해의 섬들과 유네스코 세계자연유산 갯벌을 품은 전남 서남부의 군이다.",
   "data_sources": [
     {
