@@ -361,5 +361,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ilsanseo-gu, Goyang",
+      "landmarks": {
+        "킨텍스": [
+          "KINTEX",
+          "Korea's largest international exhibition center."
+        ],
+        "일산호수공원": [
+          "Ilsan Lake Park",
+          "Goyang's signature lakeside park."
+        ],
+        "일산역 상권": [
+          "Ilsan Station District",
+          "Commercial hub centered on Ilsan Station."
+        ],
+        "고양아람누리": [
+          "Aram Nuri Arts Complex",
+          "Goyang's signature arts and culture complex."
+        ],
+        "대화동 상권": [
+          "Daehwa-dong District",
+          "Everyday commercial hub in Daehwa-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 高陽市 一山西区",
+      "landmarks": {
+        "킨텍스": [
+          "KINTEX（キンテックス）",
+          "韓国最大の国際展示場。"
+        ],
+        "일산호수공원": [
+          "一山湖公園",
+          "高陽市を代表する湖畔公園。"
+        ],
+        "일산역 상권": [
+          "一山駅商圏",
+          "一山駅を中心とする代表的な商圏。"
+        ],
+        "고양아람누리": [
+          "高陽アラムヌリ",
+          "高陽を代表する文化芸術複合施設。"
+        ],
+        "대화동 상권": [
+          "大化洞商圏",
+          "大化洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 高阳市 一山西区",
+      "landmarks": {
+        "킨텍스": [
+          "KINTEX会展中心",
+          "韩国规模最大的国际展览设施。"
+        ],
+        "일산호수공원": [
+          "一山湖公园",
+          "高阳市的代表性湖畔公园。"
+        ],
+        "일산역 상권": [
+          "一山站商圈",
+          "以一山站为中心的代表性商圈。"
+        ],
+        "고양아람누리": [
+          "高阳Aram Nuri艺术村",
+          "高阳的代表性文化艺术综合设施。"
+        ],
+        "대화동 상권": [
+          "大化洞商圈",
+          "大化洞形成的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
