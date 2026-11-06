@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buk-gu, Daegu",
+      "landmarks": {
+        "침산공원": [
+          "Chimsan Park",
+          "Park of Buk-gu's eight scenic views with Chimsanjeong Pavilion and famous blossom stairs."
+        ],
+        "구암동고분군": [
+          "Guam-dong Ancient Tombs",
+          "Historic Site with 379 tombs along the Hamjisan ridge."
+        ],
+        "팔거산성": [
+          "Palgeosanseong Fortress",
+          "Fortress on the Hamjisan summit, elevated to Historic Site status."
+        ],
+        "칠곡향교": [
+          "Chilgok Hyanggyo",
+          "Confucian school of Joseon-era Chilgok, whose Daeseongjeon is city-designated heritage."
+        ],
+        "구암서원": [
+          "Guam Seowon",
+          "Confucian academy founded in 1665, a signature scholar culture space of the eight views."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 北区",
+      "landmarks": {
+        "침산공원": [
+          "砧山公園",
+          "砧山亭が立つ北区八景の公園。桜の階段が有名。"
+        ],
+        "구암동고분군": [
+          "亀岩洞古墳群",
+          "ハムジ山の尾根に379基の古墳が分布する国指定史跡。"
+        ],
+        "팔거산성": [
+          "八莒山城",
+          "ハムジ山の山頂部に築かれた史跡に昇格した代表的な山城。"
+        ],
+        "칠곡향교": [
+          "漆谷郷校",
+          "朝鮮時代の漆谷県の郷校。大成殿は市指定文化財。"
+        ],
+        "구암서원": [
+          "亀岩書院",
+          "1665年設立の書院で、北区八景を代表する儒者文化の空間。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 北区",
+      "landmarks": {
+        "침산공원": [
+          "砧山公园",
+          "坐落砧山亭，北区八景之一，樱花台阶闻名。"
+        ],
+        "구암동고분군": [
+          "龟岩洞古坟群",
+          "函池山山脊分布着379座古坟的国家指定史迹。"
+        ],
+        "팔거산성": [
+          "八莒山城",
+          "建于函池山山顶、已升格为史迹的代表性山城。"
+        ],
+        "칠곡향교": [
+          "漆谷乡校",
+          "朝鲜时代漆谷县的官学，大成殿为市指定文化遗产。"
+        ],
+        "구암서원": [
+          "龟岩书院",
+          "1665年设立的书院，北区八景代表的士林文化空间。"
+        ]
+      }
+    }
   }
 }
