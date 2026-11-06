@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "계족산황토길 봄",
+        "동춘당 봄 산책"
+      ],
+      "summer": [
+        "대청호 여름",
+        "계족산황토길 여름"
+      ],
+      "autumn": [
+        "계족산황토길 단풍",
+        "동춘당 가을"
+      ],
+      "winter": [
+        "회덕향교 설경",
+        "대청호 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대청호 야경",
+        "coordinates": [
+          36.448079,
+          127.469924
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "계족산황토길 야경",
+        "coordinates": [
+          36.323619,
+          127.47
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "대전 대덕구는 계족산과 대청호가 자리한 대전 북부의 구로 동춘당과 계족산황토길 등 역사·자연 명소가 함께한다.",
   "data_sources": [
     {
