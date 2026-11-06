@@ -335,6 +335,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -460,5 +465,48 @@
       128.993664,
       34.925392
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "사하구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.973555,
+      35.102523
+    ],
+    "reservation_url": "https://www.saha.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "사하구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.975855,
+      35.102823
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "사하구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.973755,
+      35.100123
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "하단동 상권 옛맛식당",
+    "coordinates": [
+      128.97165,
+      35.10563
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "조개구이 (사하구 지정 모범음식점)"
   }
 }
