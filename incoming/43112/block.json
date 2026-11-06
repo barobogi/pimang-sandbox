@@ -1,0 +1,571 @@
+{
+  "block_code": "43112",
+  "block_name": "충청북도 청주시 서원구",
+  "bbox": [
+    127.372042,
+    36.449597,
+    127.499248,
+    36.646678
+  ],
+  "center": [
+    36.548137,
+    127.435645
+  ],
+  "landmarks": [
+    {
+      "name": "무심천",
+      "lat": 36.6439615,
+      "lng": 127.4822105,
+      "category": "하천/자연",
+      "description": "무심천은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%8B%AC%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 201.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Musim_River.jpg/1280px-Musim_River.jpg"
+    },
+    {
+      "name": "서원대학교",
+      "lat": 36.6247156,
+      "lng": 127.481457,
+      "category": "교육/캠퍼스",
+      "description": "서원대학교은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 205.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Seowon_Univ_HQ_Building.jpg/1280px-Seowon_Univ_HQ_Building.jpg"
+    },
+    {
+      "name": "청주고인쇄박물관",
+      "lat": 36.548137350000005,
+      "lng": 127.43564505,
+      "category": "박물관/문화",
+      "description": "청주고인쇄박물관은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EA%B3%A0%EC%9D%B8%EC%87%84%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 186.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cheongju_City_Printing_Museum_2.JPG/1280px-Cheongju_City_Printing_Museum_2.JPG"
+    },
+    {
+      "name": "서원구청",
+      "lat": 36.6376623,
+      "lng": 127.4698969,
+      "category": "행정/랜드마크",
+      "description": "서원구청은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 197.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Seowon-gu_office.JPG/1280px-Seowon-gu_office.JPG"
+    },
+    {
+      "name": "청주시립미술관",
+      "lat": 36.6347011,
+      "lng": 127.4783356,
+      "category": "미술관/문화",
+      "description": "청주시립미술관은(는) 충청북도 청주시 서원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EC%8B%9C%EB%A6%BD%EB%AF%B8%EC%88%A0%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 201.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cheongju_City_Hall.JPG/1280px-Cheongju_City_Hall.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "서원 역사·문화 시그니처 스카이 트레일",
+      "description": "청주고인쇄박물관 → 서원대학교 → 청주시립미술관 → 서원구청 → 무심천 순으로 이어지는 충청북도 청주시 서원구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "청주고인쇄박물관",
+        "서원대학교",
+        "청주시립미술관",
+        "서원구청",
+        "무심천"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "서원 역사문화 스카이 트레일",
+      "description": "청주고인쇄박물관 → 서원대학교 → 서원구청 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 서원의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "청주고인쇄박물관",
+        "서원대학교",
+        "서원구청"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "청주고인쇄박물관 솥뚜껑가게",
+      "lat": 36.548067,
+      "lng": 127.436135,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "서원대학교 솥뚜껑가게",
+      "lat": 36.624856,
+      "lng": 127.481667,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "서원구청 동네밥집",
+      "lat": 36.638012,
+      "lng": 127.470317,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "무심천",
+        "station_name": "무심천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.645162,
+          127.48421
+        ]
+      },
+      {
+        "target_landmark": "서원대학교",
+        "station_name": "서원대학교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.625916,
+          127.483457
+        ]
+      },
+      {
+        "target_landmark": "청주고인쇄박물관",
+        "station_name": "서원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.548137,
+          127.435645
+        ]
+      },
+      {
+        "target_landmark": "서원구청",
+        "station_name": "서원구청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.638862,
+          127.471897
+        ]
+      },
+      {
+        "target_landmark": "청주시립미술관",
+        "station_name": "청주시립미술관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.635901,
+          127.480336
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서원 중앙 공영주차장",
+        "coordinates": [
+          36.549737,
+          127.433245
+        ],
+        "capacity": 202,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서원 제2 공영주차장",
+        "coordinates": [
+          36.625516,
+          127.479857
+        ],
+        "capacity": 172,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서원초등학교 운동장",
+        "coordinates": [
+          36.642736,
+          127.464402
+        ],
+        "capacity": 1600,
+        "address": "충청북도 청주시 서원구"
+      },
+      {
+        "name": "서원실내체육관",
+        "coordinates": [
+          36.597937,
+          127.465464
+        ],
+        "capacity": 2100,
+        "address": "충청북도 청주시 서원구"
+      },
+      {
+        "name": "서원중앙공원 비상집합장소",
+        "coordinates": [
+          36.57195,
+          127.43222
+        ],
+        "capacity": 4500,
+        "address": "충청북도 청주시 서원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "무심천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서원대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청주고인쇄박물관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서원구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청주시립미술관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "무심천 벚꽃길",
+        "청주시립미술관 봄"
+      ],
+      "summer": [
+        "무심천 여름 물놀이",
+        "서원구청 여름"
+      ],
+      "autumn": [
+        "무심천 억새",
+        "청주고인쇄박물관 가을"
+      ],
+      "winter": [
+        "청주시립미술관 겨울 조명",
+        "무심천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "무심천 야경",
+        "coordinates": [
+          36.643962,
+          127.48221
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "청주고인쇄박물관 야경",
+        "coordinates": [
+          36.548137,
+          127.435645
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "청주 서원구는 청주 동남부의 구로 청주대교와 무심천, 서원대학교가 자리한 주거 교육 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seowon-gu, Cheongju",
+      "landmarks": {
+        "무심천": [
+          "Musimcheon Stream",
+          "Signature stream attraction of Seowon-gu, Cheongju."
+        ],
+        "서원대학교": [
+          "Seowon University",
+          "Signature university attraction of Seowon-gu, Cheongju."
+        ],
+        "청주고인쇄박물관": [
+          "Cheongju Early Printing Museum",
+          "Signature museum attraction of Seowon-gu, Cheongju."
+        ],
+        "서원구청": [
+          "Seowon-gu Office",
+          "Administrative center of Seowon-gu, Cheongju."
+        ],
+        "청주시립미술관": [
+          "Cheongju Museum of Art",
+          "Signature art museum of Seowon-gu, Cheongju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 西原区",
+      "landmarks": {
+        "무심천": [
+          "無心川",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "서원대학교": [
+          "西原大学校",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "청주고인쇄박물관": [
+          "清州古印刷博物館",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "서원구청": [
+          "西原区庁",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "청주시립미술관": [
+          "清州市立美術館",
+          "忠清北道清州市西原区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 西原区",
+      "landmarks": {
+        "무심천": [
+          "无心川",
+          "忠清北道清州市西原区的代表性河流。"
+        ],
+        "서원대학교": [
+          "西原大学",
+          "忠清北道清州市西原区的代表性高校。"
+        ],
+        "청주고인쇄박물관": [
+          "清州古印刷博物馆",
+          "忠清北道清州市西原区的代表性博物馆。"
+        ],
+        "서원구청": [
+          "西原区厅",
+          "忠清北道清州市西原区的行政中心。"
+        ],
+        "청주시립미술관": [
+          "清州市立美术馆",
+          "忠清北道清州市西原区的代表性美术馆。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.cheongju.go.kr/seowon",
+    "civil_service_center": {
+      "location_name": "서원구청 민원실 앞",
+      "coordinates": [
+        127.47393,
+        36.635537
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-201-0001",
+      "info": "충청북도 청주시 서원구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서원구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.435845,
+      36.547737
+    ],
+    "cctv_zone_count": 287,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "사직공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "서원 구민축제",
+    "typical_month": 10,
+    "venue_name": "사직공원",
+    "venue_coords": [
+      127.436145,
+      36.547837
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서원구민체육관",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.47163,
+      36.633937
+    ],
+    "reservation_url": "https://www.cheongju.go.kr/seowon"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서원구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.47283,
+      36.637737
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서원구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.47463,
+      36.634537
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "청주고인쇄박물관 솥뚜껑가게",
+    "coordinates": [
+      127.436135,
+      36.548067
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (서원구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=서원구청&goalx=127.473930&goaly=36.635537",
+    "kakaonavi_url": "kakaonavi://navigate?name=서원구청&x=127.473930&y=36.635537&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=서원구청&dlng=127.473930&dlat=36.635537&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:42",
+      "noon_altitude_deg": 53.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:27",
+      "noon_altitude_deg": 53.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:19",
+      "noon_altitude_deg": 30.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "서원구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.436795,
+          36.548937
+        ],
+        [
+          127.435845,
+          36.547737
+        ],
+        [
+          127.436945,
+          36.548387
+        ]
+      ],
+      "cctv_linked_count": 10,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "서원구 중심상업거리",
+    "anchor_center": [
+      127.47213,
+      36.635937
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 344,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
