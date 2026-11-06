@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geumjeong-gu, Busan",
+      "landmarks": {
+        "금정산성": [
+          "Geumjeongsanseong Fortress",
+          "Joseon-era mountain fortress on Geumjeongsan, Historic Site No. 468."
+        ],
+        "금정산": [
+          "Geumjeongsan Mountain",
+          "742 m signature peak in northern Busan."
+        ],
+        "범어사": [
+          "Beomeosa Temple",
+          "One of Yeongnam's three great temples, alongside Tongdosa and Haeinsa."
+        ],
+        "부산대학교": [
+          "Pusan National University",
+          "Busan's flagship national university with its Jangjeon-dong campus in Geumjeong-gu."
+        ],
+        "온천장": [
+          "Oncheonjang Hot Springs",
+          "Historic hot spring quarter of Oncheon-dong, Geumjeong-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 金井区",
+      "landmarks": {
+        "금정산성": [
+          "金井山城",
+          "金井山に築かれた朝鮮時代の山城で、史跡第468号。"
+        ],
+        "금정산": [
+          "金井山",
+          "標高742メートル、釜山北部を代表する山。"
+        ],
+        "범어사": [
+          "梵魚寺",
+          "通度寺・海印寺と並ぶ嶺南三大寺院に数えられる代表的な寺。"
+        ],
+        "부산대학교": [
+          "釜山大学校",
+          "釜山を代表する国立大学。金井区長伝洞にキャンパスを構える。"
+        ],
+        "온천장": [
+          "温泉場",
+          "金井区温泉洞の昔ながらの温泉街の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 金井区",
+      "landmarks": {
+        "금정산성": [
+          "金井山城",
+          "建于金井山的朝鲜时代山城，史迹第468号。"
+        ],
+        "금정산": [
+          "金井山",
+          "海拔742米的釜山北部代表名山。"
+        ],
+        "범어사": [
+          "梵鱼寺",
+          "与通度寺、海印寺并称岭南三大寺的代表性古刹。"
+        ],
+        "부산대학교": [
+          "釜山大学",
+          "釜山代表性国立大学，校园位于金井区长箭洞。"
+        ],
+        "온천장": [
+          "温泉场",
+          "金井区温泉洞的老牌温泉街。"
+        ]
+      }
+    }
   }
 }
