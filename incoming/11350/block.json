@@ -147,6 +147,86 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수락산",
+        "station_name": "수락산역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.6727,
+          127.0593
+        ]
+      },
+      {
+        "target_landmark": "북서울미술관",
+        "station_name": "노원역",
+        "line": "서울 4호선",
+        "exit_no": 10,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.6552,
+          127.0754
+        ]
+      },
+      {
+        "target_landmark": "광운대학교",
+        "station_name": "광운대학교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.619757,
+          127.059277
+        ]
+      },
+      {
+        "target_landmark": "노원문화예술회관",
+        "station_name": "노원역",
+        "line": "서울 4호선",
+        "exit_no": 10,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.6552,
+          127.0754
+        ]
+      },
+      {
+        "target_landmark": "중계본동 시장",
+        "station_name": "노원역",
+        "line": "서울 4호선",
+        "exit_no": 10,
+        "walk_minutes": 19,
+        "coordinates": [
+          37.6552,
+          127.0754
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "노원 중앙 공영주차장",
+        "coordinates": [
+          37.6546,
+          127.0732
+        ],
+        "capacity": 440,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "노원 제2 공영주차장",
+        "coordinates": [
+          37.648616,
+          127.080101
+        ],
+        "capacity": 188,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "노원구는 1988년 도봉구에서 분리된 자치구로 대규모 아파트 신도시가 개발되었으며 수락산 자락의 자연과 북서울미술관 등 문화시설이 함께하는 북부 서울의 주거 중심지이다.",
   "data_sources": [
     {
