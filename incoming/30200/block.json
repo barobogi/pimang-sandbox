@@ -230,6 +230,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "유성초등학교 운동장",
+        "coordinates": [
+          36.386598,
+          127.406121
+        ],
+        "capacity": 2500,
+        "address": "대전광역시 유성구"
+      },
+      {
+        "name": "유성실내체육관",
+        "coordinates": [
+          36.388856,
+          127.370419
+        ],
+        "capacity": 3600,
+        "address": "대전광역시 유성구"
+      },
+      {
+        "name": "유성중앙공원 비상집합장소",
+        "coordinates": [
+          36.387397,
+          127.35566
+        ],
+        "capacity": 1700,
+        "address": "대전광역시 유성구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대전엑스포과학공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "KAIST",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "유성온천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "계족산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대덕연구개발단지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "유성구는 대덕연구단지와 KAIST, 충남대 등 과학·교육 도시의 중심이며 유성온천과 대전엑스포과학공원 등의 명소가 함께한 대전 북부의 구이다.",
   "data_sources": [
     {
