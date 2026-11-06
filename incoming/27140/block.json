@@ -278,6 +278,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "동촌유원지 벚꽃",
+        "팔공산 봄 진달래"
+      ],
+      "summer": [
+        "동촌유원지 여름",
+        "아양교 여름밤"
+      ],
+      "autumn": [
+        "팔공산 단풍길",
+        "동화사 가을"
+      ],
+      "winter": [
+        "동화사 설경",
+        "팔공산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "아양교 야경",
+        "coordinates": [
+          35.888733,
+          128.641622
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "동촌유원지 야경",
+        "coordinates": [
+          35.888,
+          128.725
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "대구 동구는 팔공산과 동화사, 동촌유원지, 대구오페라하우스가 자리한 대구 동부의 구이다.",
   "data_sources": [
     {
