@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "증평초등학교 운동장",
+        "coordinates": [
+          36.724479,
+          127.647753
+        ],
+        "capacity": 6000,
+        "address": "충청북도 증평군"
+      },
+      {
+        "name": "증평실내체육관",
+        "coordinates": [
+          36.735036,
+          127.650336
+        ],
+        "capacity": 1700,
+        "address": "충청북도 증평군"
+      },
+      {
+        "name": "증평중앙공원 비상집합장소",
+        "coordinates": [
+          36.771821,
+          127.562619
+        ],
+        "capacity": 5800,
+        "address": "충청북도 증평군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "좌구산천문대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "좌구산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증평군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증평시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "삼기저수지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "증평군은 좌구산 천문대와 삼기저수지가 자리한 충북 중부의 군이다.",
   "data_sources": [
     {
