@@ -356,5 +356,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yuseong-gu, Daejeon",
+      "landmarks": {
+        "대전엑스포과학공원": [
+          "Expo Science Park",
+          "Science theme park built on the 1993 Daejeon Expo site, symbolized by the Expo Bridge."
+        ],
+        "KAIST": [
+          "KAIST",
+          "Korea's leading science and technology university, heart of the Daedeok research complex."
+        ],
+        "유성온천": [
+          "Yuseong Hot Springs",
+          "Yuseong's signature hot spring district, famed for its hot spring street."
+        ],
+        "계족산": [
+          "Gyejoksan Mountain",
+          "Mountain on Yuseong-gu's south with well-built hiking trails."
+        ],
+        "대덕연구개발단지": [
+          "Daedeok Research and Development Complex",
+          "Korea's first science research complex, dense with national research institutes."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 儒城区",
+      "landmarks": {
+        "대전엑스포과학공원": [
+          "大田エキスポ科学公園",
+          "1993年大田エキポ会場に造られた科学テーマパーク。エキポ橋がシンボル。"
+        ],
+        "KAIST": [
+          "KAIST（韓国科学技術院）",
+          "韓国を代表する理工系大学。大徳研究団地の中心。"
+        ],
+        "유성온천": [
+          "儒城温泉",
+          "温泉街で有名な儒城を代表する温泉地区。"
+        ],
+        "계족산": [
+          "鶏足山",
+          "儒城区の南に位置し、登山道が整備された名山。"
+        ],
+        "대덕연구개발단지": [
+          "大徳研究開発団地",
+          "韓国初の科学研究団地。国立研究機関が密集する。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 儒城区",
+      "landmarks": {
+        "대전엑스포과학공원": [
+          "大田世博会科学公园",
+          "建于1993年大田世博会会址的科学主题公园，世博桥是标志。"
+        ],
+        "KAIST": [
+          "韩国科学技术院（KAIST）",
+          "韩国顶尖理工院校，大德研究开发区的核心。"
+        ],
+        "유성온천": [
+          "儒城温泉",
+          "以温泉街闻名的儒城代表性温泉区。"
+        ],
+        "계족산": [
+          "鸡足山",
+          "位于儒城区南侧，建有登山步道的名山。"
+        ],
+        "대덕연구개발단지": [
+          "大德研究开发区",
+          "韩国首个科学研究园区，国家级研究机构云集。"
+        ]
+      }
+    }
   }
 }
