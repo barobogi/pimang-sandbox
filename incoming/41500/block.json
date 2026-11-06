@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "설봉공원",
+        "station_name": "부발역",
+        "line": "중앙선",
+        "walk_minutes": 17,
+        "coordinates": [
+          37.2679,
+          127.4354
+        ]
+      },
+      {
+        "target_landmark": "이천도자기마을",
+        "station_name": "이천도자기마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.2616,
+          127.476
+        ]
+      },
+      {
+        "target_landmark": "복하천",
+        "station_name": "부발역",
+        "line": "중앙선",
+        "walk_minutes": 25,
+        "coordinates": [
+          37.2679,
+          127.4354
+        ]
+      },
+      {
+        "target_landmark": "이천역 상권",
+        "station_name": "이천역",
+        "line": "중앙선",
+        "walk_minutes": 35,
+        "coordinates": [
+          37.2211,
+          127.44
+        ]
+      },
+      {
+        "target_landmark": "이천시청",
+        "station_name": "부발역",
+        "line": "중앙선",
+        "walk_minutes": 7,
+        "coordinates": [
+          37.2679,
+          127.4354
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "이천 중앙 공영주차장",
+        "coordinates": [
+          37.2438,
+          127.4396
+        ],
+        "capacity": 377,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "이천 제2 공영주차장",
+        "coordinates": [
+          37.2636,
+          127.4772
+        ],
+        "capacity": 440,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "이천시는 이천쌀과 도자기로 유명한 경기 동부의 도시이며 설봉산이 대표 명소다.",
   "data_sources": [
     {
