@@ -1,0 +1,571 @@
+{
+  "block_code": "28720",
+  "block_name": "인천광역시 옹진군",
+  "bbox": [
+    124.372735,
+    36.854419,
+    126.555855,
+    38.052778
+  ],
+  "center": [
+    37.453599,
+    125.464295
+  ],
+  "landmarks": [
+    {
+      "name": "백령도",
+      "lat": 37.9498034,
+      "lng": 124.6724295,
+      "category": "섬/국립공원",
+      "description": "대한민국 최서단의 섬으로 두무진 등 해안 절경이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A0%B9%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 128.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Baekryong_landsat_zoom.jpg"
+    },
+    {
+      "name": "연평도",
+      "lat": 37.9324569,
+      "lng": 124.6826506,
+      "category": "섬/어촌",
+      "description": "서해 어장의 중심 섬으로 대표 어촌이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%8F%89%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 127.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/20101126-A-3331-FA099.jpg/1280px-20101126-A-3331-FA099.jpg"
+    },
+    {
+      "name": "대청도",
+      "lat": 37.8246278,
+      "lng": 124.6986399,
+      "category": "섬/자연",
+      "description": "해안 절경이 아름다운 최서단 대형 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 121.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%EC%A7%80%EB%91%90%EB%A6%AC%ED%95%B4%EB%B3%802.jpg/1280px-%EC%A7%80%EB%91%90%EB%A6%AC%ED%95%B4%EB%B3%802.jpg"
+    },
+    {
+      "name": "덕적도",
+      "lat": 37.241879,
+      "lng": 126.1155925,
+      "category": "섬/관광",
+      "description": "해안 절경과 유서 깊은 등대가 있는 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A0%81%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 292.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Neungdong_Jagalmadang.jpg/1280px-Neungdong_Jagalmadang.jpg"
+    },
+    {
+      "name": "자월도",
+      "lat": 37.2580039,
+      "lng": 126.3055838,
+      "category": "섬/관광",
+      "description": "아름다운 해변으로 유명한 섬이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9B%94%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 286.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%EC%9E%90%EC%9B%94%EB%8F%84_%28Jawol-Do%29_-_panoramio.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "옹진 해안 절경 시그니처 드론 플라이트",
+      "description": "덕적도 → 자월도 → 대청도 → 연평도 → 백령도 순으로 이어지는 인천광역시 옹진군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "덕적도",
+        "자월도",
+        "대청도",
+        "연평도",
+        "백령도"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "옹진 해안 절경 드론 플라이트",
+      "description": "백령도 → 연평도 → 대청도 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 옹진의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "백령도",
+        "연평도",
+        "대청도"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "덕적도 골목식당",
+      "lat": 37.241879,
+      "lng": 126.116293,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "대청도 옛맛식당",
+      "lat": 37.823998,
+      "lng": 124.69885,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    },
+    {
+      "name": "자월도 솥뚜껑가게",
+      "lat": 37.258564,
+      "lng": 126.305654,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "백령도",
+        "station_name": "백령도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.952603,
+          124.67203
+        ]
+      },
+      {
+        "target_landmark": "연평도",
+        "station_name": "연평도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.935257,
+          124.682251
+        ]
+      },
+      {
+        "target_landmark": "대청도",
+        "station_name": "대청도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.827428,
+          124.69824
+        ]
+      },
+      {
+        "target_landmark": "덕적도",
+        "station_name": "옹진 여객선터미널",
+        "line": "연안여객선",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.241879,
+          126.117193
+        ]
+      },
+      {
+        "target_landmark": "자월도",
+        "station_name": "자월도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.260804,
+          126.305184
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "옹진 중앙 공영주차장",
+        "coordinates": [
+          37.239479,
+          126.113193
+        ],
+        "capacity": 190,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "옹진 제2 공영주차장",
+        "coordinates": [
+          37.822228,
+          124.70024
+        ],
+        "capacity": 149,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "옹진 제3 공영주차장",
+        "coordinates": [
+          37.260404,
+          126.303984
+        ],
+        "capacity": 149,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "옹진초등학교 운동장",
+        "coordinates": [
+          37.96363,
+          124.726276
+        ],
+        "capacity": 4400,
+        "address": "인천광역시 옹진군"
+      },
+      {
+        "name": "옹진실내체육관",
+        "coordinates": [
+          37.967666,
+          124.511554
+        ],
+        "capacity": 4600,
+        "address": "인천광역시 옹진군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "백령도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연평도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대청도",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕적도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "자월도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "덕적도 봄 바다",
+        "자월도 봄"
+      ],
+      "summer": [
+        "백령도 여름 해변",
+        "대청도 여름"
+      ],
+      "autumn": [
+        "덕적도 가을 갯벌",
+        "백령도 가을"
+      ],
+      "winter": [
+        "백령도 겨울 해변",
+        "연평도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "자월도 야경",
+        "coordinates": [
+          37.258004,
+          126.305584
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "덕적도 야경",
+        "coordinates": [
+          37.241879,
+          126.115593
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "인천 옹진군은 백령도와 연평도, 대청도 등 서해 5도를 포함한 최서단 군으로 해안 절경과 수산 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ongjin-gun, Incheon",
+      "landmarks": {
+        "백령도": [
+          "Baengnyeongdo Island",
+          "Korea's westernmost island, famed for coastal cliffs like Dumujin."
+        ],
+        "연평도": [
+          "Yeonpyeongdo Island",
+          "Central island of the West Sea fishing grounds, a representative fishing community."
+        ],
+        "대청도": [
+          "Daeseongdo Island",
+          "Large westernmost island with beautiful coastal scenery."
+        ],
+        "덕적도": [
+          "Deokjeokdo Island",
+          "Island of coastal cliffs and a storied old lighthouse."
+        ],
+        "자월도": [
+          "Jawoldo Island",
+          "Island famed for its beautiful beaches."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 甕津郡",
+      "landmarks": {
+        "백령도": [
+          "白翎島",
+          "韓国最西端の島。頭武鎮などの海岸絶景が有名。"
+        ],
+        "연평도": [
+          "延坪島",
+          "西海漁場の中心の島。代表的な漁村。"
+        ],
+        "대청도": [
+          "大青島",
+          "海岸絶景が美しい最西端の大型島。"
+        ],
+        "덕적도": [
+          "徳積島",
+          "海岸絶景と由緒ある灯台がある島。"
+        ],
+        "자월도": [
+          "紫月島",
+          "美しいビーチで有名な島。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 甕津郡",
+      "landmarks": {
+        "백령도": [
+          "白翎岛",
+          "韩国最西端的岛屿，以头武镇等海岸绝景闻名。"
+        ],
+        "연평도": [
+          "延坪岛",
+          "西海渔场中心的岛屿，代表性渔村。"
+        ],
+        "대청도": [
+          "大青岛",
+          "海岸风光秀丽的西端大岛。"
+        ],
+        "덕적도": [
+          "德积岛",
+          "拥有海岸绝景和历史灯塔的岛屿。"
+        ],
+        "자월도": [
+          "紫月岛",
+          "以美丽沙滩闻名的岛屿。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ongjin.go.kr",
+    "civil_service_center": {
+      "location_name": "옹진군청 민원실 앞",
+      "coordinates": [
+        125.464395,
+        37.452998
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "032-899-2114",
+      "info": "인천광역시 옹진군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "옹진군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      125.463795,
+      37.453899
+    ],
+    "cctv_zone_count": 265,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "백령도 해안공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "옹진 해양축제",
+    "typical_month": 8,
+    "venue_name": "백령도 남포해수욕장",
+    "venue_coords": [
+      125.464295,
+      37.453098
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "옹진군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      125.464995,
+      37.451698
+    ],
+    "reservation_url": "https://www.ongjin.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "옹진군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      125.466395,
+      37.451698
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "옹진군청 공영주차장 급속충전소",
+    "coordinates": [
+      125.464895,
+      37.452498
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "덕적도 골목식당",
+    "coordinates": [
+      126.116293,
+      37.241879
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "닭강정 (옹진군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=옹진군청&goalx=125.464395&goaly=37.452998",
+    "kakaonavi_url": "kakaonavi://navigate?name=옹진군청&x=125.464395&y=37.452998&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=옹진군청&dlng=125.464395&dlat=37.452998&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:41",
+      "sunset": "18:50",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:17",
+      "sunset": "20:02",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:35",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:49",
+      "sunset": "17:24",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "옹진군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          125.463995,
+          37.454199
+        ],
+        [
+          125.463795,
+          37.453899
+        ],
+        [
+          125.464045,
+          37.454049
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "옹진군 전통시장 만남의거리",
+    "anchor_center": [
+      125.464728,
+      37.453998
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 280,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
