@@ -235,6 +235,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "상록초등학교 운동장",
+        "coordinates": [
+          37.306909,
+          126.870918
+        ],
+        "capacity": 6400,
+        "address": "경기도 안산시 상록구"
+      },
+      {
+        "name": "상록실내체육관",
+        "coordinates": [
+          37.314575,
+          126.872058
+        ],
+        "capacity": 6000,
+        "address": "경기도 안산시 상록구"
+      },
+      {
+        "name": "상록중앙공원 비상집합장소",
+        "coordinates": [
+          37.312772,
+          126.90421
+        ],
+        "capacity": 1900,
+        "address": "경기도 안산시 상록구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "팔리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "행인산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보개산자연휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수암산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "군곡공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "상록구는 안산시 북부에 위치한 구로 반월공단과 함께 이주노동 문화가 발달했고 팔리산·행인산·보개산 등의 산악 자연과 다문화 마을이 어우러져 있다.",
   "data_sources": [
     {
