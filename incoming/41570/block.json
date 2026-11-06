@@ -1,0 +1,593 @@
+{
+  "block_code": "41570",
+  "block_name": "경기도 김포시",
+  "bbox": [
+    126.515171,
+    37.579557,
+    126.802593,
+    37.792021
+  ],
+  "center": [
+    37.685789,
+    126.658882
+  ],
+  "landmarks": [
+    {
+      "name": "문수산",
+      "lat": 37.7390901,
+      "lng": 126.5486096,
+      "category": "산/자연",
+      "description": "김포의 대표 산으로 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%88%98%EC%82%B0_%28%EA%B9%80%ED%8F%AC%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 121.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%EB%AC%B8%EC%88%98%EC%82%B0_%EB%A7%88%EC%95%A0%EB%B3%B4%EC%82%B4%EC%83%81_IMG_9871.jpg/1280px-%EB%AC%B8%EC%88%98%EC%82%B0_%EB%A7%88%EC%95%A0%EB%B3%B4%EC%82%B4%EC%83%81_IMG_9871.jpg"
+    },
+    {
+      "name": "한강",
+      "lat": 37.6345595,
+      "lng": 126.6749887,
+      "category": "하천/자연",
+      "description": "김포 하구를 흐르는 대한민국 대표 강이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 346.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Han_River_aerial_view.jpg"
+    },
+    {
+      "name": "북변동 상권",
+      "lat": 37.615,
+      "lng": 126.715,
+      "category": "상권",
+      "description": "북변동에 형성된 김포 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 327.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gimpo_Gyeonggi_South_Korea.svg/1280px-Gimpo_Gyeonggi_South_Korea.svg.png"
+    },
+    {
+      "name": "장기동 상권",
+      "lat": 37.637,
+      "lng": 126.705,
+      "category": "상권",
+      "description": "장기동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 323.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dalseo-daegu.png/1280px-Dalseo-daegu.png"
+    },
+    {
+      "name": "김포문화예술회관",
+      "lat": 37.62,
+      "lng": 126.71,
+      "category": "공연장/문화",
+      "description": "김포의 대표 공연·전시 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 328.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gimpo_Gyeonggi_South_Korea.svg/1280px-Gimpo_Gyeonggi_South_Korea.svg.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "김포 도심 하이라이트 시그니처 스카이 투어",
+      "description": "한강 → 장기동 상권 → 김포문화예술회관 → 북변동 상권 → 문수산 순으로 이어지는 경기도 김포시의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "한강",
+        "장기동 상권",
+        "김포문화예술회관",
+        "북변동 상권",
+        "문수산"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "김포 도심 스카이라인 크루즈",
+      "description": "북변동 상권 → 김포문화예술회관 → 장기동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 김포의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "북변동 상권",
+        "김포문화예술회관",
+        "장기동 상권"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "김포 그린 랜드스케이프 플라이트",
+      "description": "문수산 → 한강 → 장기동 상권 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 김포의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "문수산",
+        "한강",
+        "장기동 상권"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "한강 할매집",
+      "lat": 37.634909,
+      "lng": 126.675059,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "장기동 상권 본점",
+      "lat": 37.63707,
+      "lng": 126.70507,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "김포문화예술회관 큰마당식당",
+      "lat": 37.61951,
+      "lng": 126.7107,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "북변동 상권 옛맛식당",
+      "lat": 37.61437,
+      "lng": 126.71465,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "문수산",
+        "station_name": "문수산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.74149,
+          126.54741
+        ]
+      },
+      {
+        "target_landmark": "한강",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      },
+      {
+        "target_landmark": "북변동 상권",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      },
+      {
+        "target_landmark": "장기동 상권",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      },
+      {
+        "target_landmark": "김포문화예술회관",
+        "station_name": "사우역",
+        "line": "김포골드라인",
+        "exit_no": 1,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.6347,
+          126.7064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "김포 중앙 공영주차장",
+        "coordinates": [
+          37.635359,
+          126.674189
+        ],
+        "capacity": 120,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "김포 제2 공영주차장",
+        "coordinates": [
+          37.637,
+          126.7054
+        ],
+        "capacity": 538,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "김포 제3 공영주차장",
+        "coordinates": [
+          37.6208,
+          126.7116
+        ],
+        "capacity": 418,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "김포초등학교 운동장",
+        "coordinates": [
+          37.719709,
+          126.529237
+        ],
+        "capacity": 2200,
+        "address": "경기도 김포시"
+      },
+      {
+        "name": "김포실내체육관",
+        "coordinates": [
+          37.653519,
+          126.642257
+        ],
+        "capacity": 7000,
+        "address": "경기도 김포시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "문수산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북변동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장기동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "김포문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "문수산 봄 진달래",
+        "한강 벚꽃길"
+      ],
+      "summer": [
+        "한강 여름",
+        "문수산 여름"
+      ],
+      "autumn": [
+        "문수산 단풍",
+        "한강 억새"
+      ],
+      "winter": [
+        "한강 설경",
+        "김포문화예술회관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "문수산 야경",
+        "coordinates": [
+          37.73909,
+          126.54861
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "한강 야경",
+        "coordinates": [
+          37.63456,
+          126.674989
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "김포시는 한강 하구의 대표 도시로 문수산과 김포 평야가 함께한 경기 북서부의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gimpo-si, Gyeonggi",
+      "landmarks": {
+        "문수산": [
+          "Munsusan Mountain",
+          "Gimpo's signature mountain and hiking favorite."
+        ],
+        "한강": [
+          "Han River",
+          "Korea's signature river flowing through the Gimpo estuary."
+        ],
+        "북변동 상권": [
+          "Bukbyeon-dong District",
+          "Commercial hub of Gimpo in Bukbyeon-dong."
+        ],
+        "장기동 상권": [
+          "Janggi-dong District",
+          "Everyday commercial hub in Janggi-dong."
+        ],
+        "김포문화예술회관": [
+          "Gimpo Arts Center",
+          "Gimpo's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 金浦市",
+      "landmarks": {
+        "문수산": [
+          "文殊山",
+          "金浦を代表する山。登山の名所。"
+        ],
+        "한강": [
+          "漢江",
+          "金浦の河口を流れる韓国を代表する川。"
+        ],
+        "북변동 상권": [
+          "北辺洞商圏",
+          "北辺洞に形成された金浦を代表する商圏。"
+        ],
+        "장기동 상권": [
+          "長岐洞商圏",
+          "長岐洞に形成された代表的な生活商圏。"
+        ],
+        "김포문화예술회관": [
+          "金浦文化芸術会館",
+          "金浦を代表する公演・展示施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 金浦市",
+      "landmarks": {
+        "문수산": [
+          "文殊山",
+          "金浦的代表名山，登山胜地。"
+        ],
+        "한강": [
+          "汉江",
+          "流经金浦河口的韩国代表性大河。"
+        ],
+        "북변동 상권": [
+          "北边洞商圈",
+          "北边洞形成的金浦代表性商圈。"
+        ],
+        "장기동 상권": [
+          "长岐洞商圈",
+          "长岐洞形成的代表性生活商圈。"
+        ],
+        "김포문화예술회관": [
+          "金浦文化艺术会馆",
+          "金浦代表性的演出展览场馆。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gimpo.go.kr",
+    "civil_service_center": {
+      "location_name": "김포시청 민원실 앞",
+      "coordinates": [
+        126.71566,
+        37.615184
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-980-2114",
+      "info": "경기도 김포시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "김포시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.658982,
+      37.685289
+    ],
+    "cctv_zone_count": 290,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "구래근린공원",
+    "trail_length_km": 1.4,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "중봉 문화제",
+    "typical_month": 9,
+    "venue_name": "김포시청 앞 광장",
+    "venue_coords": [
+      126.659082,
+      37.685189
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "김포시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.71856,
+      37.617384
+    ],
+    "reservation_url": "https://www.gimpo.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "김포시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.71546,
+      37.617684
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "김포시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.71856,
+      37.615784
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "북변동 상권 옛맛식당",
+    "coordinates": [
+      126.71465,
+      37.61437
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (김포시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=김포시청&goalx=126.715660&goaly=37.615184",
+    "kakaonavi_url": "kakaonavi://navigate?name=김포시청&x=126.715660&y=37.615184&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=김포시청&dlng=126.715660&dlat=37.615184&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:37",
+      "sunset": "18:45",
+      "noon_altitude_deg": 52.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:58",
+      "noon_altitude_deg": 75.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:22",
+      "sunset": "18:30",
+      "noon_altitude_deg": 52.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:45",
+      "sunset": "17:18",
+      "noon_altitude_deg": 28.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "김포시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.657632,
+          37.686689
+        ],
+        [
+          126.658982,
+          37.685289
+        ],
+        [
+          126.658982,
+          37.686439
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "김포시 중심상업거리",
+    "anchor_center": [
+      126.71486,
+      37.614984
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 170,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
