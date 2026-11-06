@@ -140,6 +140,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "해인사",
+        "station_name": "해인사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.803842,
+          128.097638
+        ]
+      },
+      {
+        "target_landmark": "합천호",
+        "station_name": "합천호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.581697,
+          128.018714
+        ]
+      },
+      {
+        "target_landmark": "황매산",
+        "station_name": "황매산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.497036,
+          127.974189
+        ]
+      },
+      {
+        "target_landmark": "합천군청",
+        "station_name": "합천군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.569466,
+          128.165422
+        ]
+      },
+      {
+        "target_landmark": "합천시장",
+        "station_name": "합천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.60175,
+          128.164852
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "합천 중앙 공영주차장",
+        "coordinates": [
+          35.60055,
+          128.165252
+        ],
+        "capacity": 329,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "합천 제2 공영주차장",
+        "coordinates": [
+          35.568266,
+          128.163422
+        ],
+        "capacity": 180,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "합천군은 해인사 장경판전과 합천호, 황매산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
