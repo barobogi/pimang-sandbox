@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "고덕한강공원 벚꽃",
+        "암사선사주거지 봄"
+      ],
+      "summer": [
+        "고덕한강공원 물놀이장",
+        "길동공원 여름"
+      ],
+      "autumn": [
+        "고덕한강공원 억새",
+        "암사선사주거지 가을"
+      ],
+      "winter": [
+        "천호역 상권 겨울 조명",
+        "고덕공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "고덕한강공원 야경",
+        "coordinates": [
+          37.552,
+          127.097
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "천호역 상권 야경",
+        "coordinates": [
+          37.539,
+          127.054519
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "강동구는 천호동 상권과 암사동 선사 유적이 함께한 서울 동남부 자치구이다.",
   "data_sources": [
     {
