@@ -154,6 +154,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "성남아트센터",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 34,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "상대원동 상권",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 13,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "탄천",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 26,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "성남문화원",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      },
+      {
+        "target_landmark": "여수정공원",
+        "station_name": "상대원역",
+        "line": "수인분당선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.4343,
+          127.1249
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "중원 중앙 공영주차장",
+        "coordinates": [
+          37.440552,
+          127.141699
+        ],
+        "capacity": 480,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "중원 제2 공영주차장",
+        "coordinates": [
+          37.426,
+          127.1228
+        ],
+        "capacity": 532,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "성남 중원구는 성남아트센터와 탄천이 자리한 성남 중부의 구이다.",
   "data_sources": [
     {
