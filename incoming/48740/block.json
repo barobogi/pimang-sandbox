@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Changnyeong-gun, Gyeongnam",
+      "landmarks": {
+        "우포늪": [
+          "Upo Wetland",
+          "Signature wetland attraction of Changnyeong-gun, Gyeongnam."
+        ],
+        "화왕산": [
+          "Hwawangsan Mountain",
+          "Signature mountain attraction of Changnyeong-gun, Gyeongnam."
+        ],
+        "창녕 신라 진흥왕 척경비": [
+          "Changnyeong Jinhung Monument",
+          "Signature National Treasure stele of Changnyeong-gun, Gyeongbuk."
+        ],
+        "창녕군청": [
+          "Changnyeong County Office",
+          "Administrative center of Changnyeong-gun, Gyeongnam."
+        ],
+        "창녕시장": [
+          "Changnyeong Market",
+          "Signature market attraction of Changnyeong-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌寧郡",
+      "landmarks": {
+        "우포늪": [
+          "牛浦沼",
+          "慶尚南道昌寧郡を代表する名所。"
+        ],
+        "화왕산": [
+          "火王山",
+          "慶尚南道昌寧郡を代表する名所。"
+        ],
+        "창녕 신라 진흥왕 척경비": [
+          "昌寧新羅真興王拓境碑",
+          "慶尚南道昌寧郡を代表する名所。"
+        ],
+        "창녕군청": [
+          "昌寧郡庁",
+          "慶尚南道昌寧郡を代表する名所。"
+        ],
+        "창녕시장": [
+          "昌寧市場",
+          "慶尚南道昌寧郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌宁郡",
+      "landmarks": {
+        "우포늪": [
+          "牛浦沼泽",
+          "庆尚南道昌宁郡的代表性湿地。"
+        ],
+        "화왕산": [
+          "火王山",
+          "庆尚南道昌宁郡的代表性名山。"
+        ],
+        "창녕 신라 진흥왕 척경비": [
+          "昌宁新罗真兴王拓境碑",
+          "庆尚南道昌宁郡的代表性国宝石碑。"
+        ],
+        "창녕군청": [
+          "昌宁郡厅",
+          "庆尚南道昌宁郡的行政中心。"
+        ],
+        "창녕시장": [
+          "昌宁市场",
+          "庆尚南道昌宁郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
