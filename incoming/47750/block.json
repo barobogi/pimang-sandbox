@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongsong-gun, Gyeongbuk",
+      "landmarks": {
+        "주왕산": [
+          "Juwangsan Mountain",
+          "Signature national park mountain of Cheongsong-gun, Gyeongbuk."
+        ],
+        "주산지": [
+          "Jusanji Reservoir",
+          "Signature reservoir scenic site of Cheongsong-gun, Gyeongbuk."
+        ],
+        "청송군청": [
+          "Cheongsong County Office",
+          "Administrative center of Cheongsong-gun, Gyeongbuk."
+        ],
+        "청송시장": [
+          "Cheongsong Market",
+          "Signature market attraction of Cheongsong-gun, Gyeongbuk."
+        ],
+        "청송자연휴양림": [
+          "Cheongsong Natural Recreation Forest",
+          "Signature forest attraction of Cheongsong-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 青松郡",
+      "landmarks": {
+        "주왕산": [
+          "周王山",
+          "慶尚北道青松郡を代表する名所。"
+        ],
+        "주산지": [
+          "朱山池",
+          "慶尚北道青松郡を代表する名所。"
+        ],
+        "청송군청": [
+          "青松郡庁",
+          "慶尚北道青松郡を代表する名所。"
+        ],
+        "청송시장": [
+          "青松市場",
+          "慶尚北道青松郡を代表する名所。"
+        ],
+        "청송자연휴양림": [
+          "青松自然休養林",
+          "慶尚北道青松郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 青松郡",
+      "landmarks": {
+        "주왕산": [
+          "周王山",
+          "庆尚北道青松郡的代表性国立公园名山。"
+        ],
+        "주산지": [
+          "朱山池",
+          "庆尚北道青松郡的代表性水库胜景。"
+        ],
+        "청송군청": [
+          "青松郡厅",
+          "庆尚北道青松郡的行政中心。"
+        ],
+        "청송시장": [
+          "青松市场",
+          "庆尚北道青松郡的代表性市场。"
+        ],
+        "청송자연휴양림": [
+          "青松自然休养林",
+          "庆尚北道青松郡的代表性森林休养地。"
+        ]
+      }
+    }
   }
 }
