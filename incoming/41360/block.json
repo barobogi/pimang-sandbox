@@ -1,0 +1,605 @@
+{
+  "block_code": "41360",
+  "block_name": "경기도 남양주시",
+  "bbox": [
+    127.080421,
+    37.505499,
+    127.381681,
+    37.780287
+  ],
+  "center": [
+    37.642893,
+    127.231051
+  ],
+  "landmarks": [
+    {
+      "name": "다산신도시",
+      "lat": 37.6150016,
+      "lng": 127.1644015,
+      "category": "신도시",
+      "description": "남양주의 대표 주거 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%82%B0%EC%8B%A0%EB%8F%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 62.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Navi_Mumbai_Skyline.jpg/1280px-Navi_Mumbai_Skyline.jpg"
+    },
+    {
+      "name": "남한강",
+      "lat": 37.5512215,
+      "lng": 127.3162862,
+      "category": "하천/자연",
+      "description": "남양주 남부를 흐르는 대표 강이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%9C%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 323.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Namhan_River_in_front_of_Yeoju_Library.jpg/1280px-Namhan_River_in_front_of_Yeoju_Library.jpg"
+    },
+    {
+      "name": "별내신도시",
+      "lat": 37.6481563,
+      "lng": 127.1228902,
+      "category": "신도시",
+      "description": "남양주의 대표 주거 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%84%EB%82%B4%EC%8B%A0%EB%8F%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 93.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Navi_Mumbai_Skyline.jpg/1280px-Navi_Mumbai_Skyline.jpg"
+    },
+    {
+      "name": "마석역 상권",
+      "lat": 37.595,
+      "lng": 127.265,
+      "category": "상권",
+      "description": "마석역 중심의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 330.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yeoyudang2.jpg/1280px-Yeoyudang2.jpg"
+    },
+    {
+      "name": "사릉역 상권",
+      "lat": 37.619,
+      "lng": 127.102,
+      "category": "상권",
+      "description": "사릉역 중심의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 76.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yeoyudang2.jpg/1280px-Yeoyudang2.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "남양주 도심 하이라이트 시그니처 스카이 투어",
+      "description": "마석역 상권 → 남한강 → 다산신도시 → 별내신도시 → 사릉역 상권 순으로 이어지는 경기도 남양주시의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "마석역 상권",
+        "남한강",
+        "다산신도시",
+        "별내신도시",
+        "사릉역 상권"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "남양주 도심 활력 에어리얼 코스",
+      "description": "마석역 상권 → 별내신도시 → 사릉역 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 남양주의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "마석역 상권",
+        "별내신도시",
+        "사릉역 상권"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "남양주 산하 절경 에어리얼 투어",
+      "description": "남한강 → 다산신도시 → 별내신도시 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 남양주의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "남한강",
+        "다산신도시",
+        "별내신도시"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "마석역 상권 옛맛식당",
+      "lat": 37.59493,
+      "lng": 127.26486,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "다산신도시 솥뚜껑가게",
+      "lat": 37.614512,
+      "lng": 127.164051,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "별내신도시 본점",
+      "lat": 37.648506,
+      "lng": 127.12317,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "남한강 큰마당식당",
+      "lat": 37.550942,
+      "lng": 127.316776,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "사릉역 상권 솥뚜껑가게",
+      "lat": 37.619,
+      "lng": 127.10242,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "다산신도시",
+        "station_name": "다산신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.612202,
+          127.166401
+        ]
+      },
+      {
+        "target_landmark": "남한강",
+        "station_name": "남한강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.548421,
+          127.318286
+        ]
+      },
+      {
+        "target_landmark": "별내신도시",
+        "station_name": "별내신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.645356,
+          127.12489
+        ]
+      },
+      {
+        "target_landmark": "마석역 상권",
+        "station_name": "마석역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.5922,
+          127.267
+        ]
+      },
+      {
+        "target_landmark": "사릉역 상권",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 39,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남양주 중앙 공영주차장",
+        "coordinates": [
+          37.5926,
+          127.2674
+        ],
+        "capacity": 286,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남양주 제2 공영주차장",
+        "coordinates": [
+          37.617002,
+          127.166801
+        ],
+        "capacity": 243,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남양주 제3 공영주차장",
+        "coordinates": [
+          37.646956,
+          127.12249
+        ],
+        "capacity": 328,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남양주초등학교 운동장",
+        "coordinates": [
+          37.602971,
+          127.182866
+        ],
+        "capacity": 7400,
+        "address": "경기도 남양주시"
+      },
+      {
+        "name": "남양주실내체육관",
+        "coordinates": [
+          37.554107,
+          127.306931
+        ],
+        "capacity": 6400,
+        "address": "경기도 남양주시"
+      },
+      {
+        "name": "남양주중앙공원 비상집합장소",
+        "coordinates": [
+          37.641547,
+          127.10844
+        ],
+        "capacity": 1900,
+        "address": "경기도 남양주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "다산신도시",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "남한강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "별내신도시",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "마석역 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사릉역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "남한강 벚꽃길",
+        "사릉역 봄"
+      ],
+      "summer": [
+        "남한강 여름 물놀이",
+        "다산신도시 여름"
+      ],
+      "autumn": [
+        "남한강 억새",
+        "사릉역 가을"
+      ],
+      "winter": [
+        "별내신도시 겨울 조명",
+        "남한강 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "남한강 야경",
+        "coordinates": [
+          37.551221,
+          127.316286
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "다산신도시 야경",
+        "coordinates": [
+          37.615002,
+          127.164401
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "남양주시는 남한강과 북한강이 흐르는 경기 동부 최대의 도시로 다산·별내 신도시와 경춘선이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namyangju-si, Gyeonggi",
+      "landmarks": {
+        "다산신도시": [
+          "Dasan New Town",
+          "Signature residential new town of Namyangju."
+        ],
+        "남한강": [
+          "South Han River",
+          "Representative river flowing through southern Namyangju."
+        ],
+        "별내신도시": [
+          "Byeolnae New Town",
+          "Signature residential new town of Namyangju."
+        ],
+        "마석역 상권": [
+          "Maseok Station District",
+          "Everyday commercial hub centered on Maseok Station."
+        ],
+        "사릉역 상권": [
+          "Sareung Station District",
+          "Everyday commercial hub centered on Sareung Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 南楊州市",
+      "landmarks": {
+        "다산신도시": [
+          "茶山新都市",
+          "南楊州を代表する住宅新都市。"
+        ],
+        "남한강": [
+          "南漢江",
+          "南楊州南部を流れる代表的な川。"
+        ],
+        "별내신도시": [
+          "別内新都市",
+          "南楊州を代表する住宅新都市。"
+        ],
+        "마석역 상권": [
+          "砥石駅商圏",
+          "砥石駅を中心とする代表的な生活商圏。"
+        ],
+        "사릉역 상권": [
+          "思陵駅商圏",
+          "思陵駅を中心とする代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 南杨州市",
+      "landmarks": {
+        "다산신도시": [
+          "茶山新城",
+          "南杨州的代表性居住新城。"
+        ],
+        "남한강": [
+          "南汉江",
+          "流经南杨州南部的代表性河流。"
+        ],
+        "별내신도시": [
+          "别内新城",
+          "南杨州的代表性居住新城。"
+        ],
+        "마석역 상권": [
+          "磨石站商圈",
+          "以磨石站为中心的代表性生活商圈。"
+        ],
+        "사릉역 상권": [
+          "思陵站商圈",
+          "以思陵站为中心的代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.nyj.go.kr",
+    "civil_service_center": {
+      "location_name": "남양주시청 민원실 앞",
+      "coordinates": [
+        127.201696,
+        37.632739
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-592-4900",
+      "info": "경기도 남양주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "남양주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.230751,
+      37.643293
+    ],
+    "cctv_zone_count": 143,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "다산중앙공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "남양주 야외공연 축제",
+    "typical_month": 8,
+    "venue_name": "남양주시청 앞 광장",
+    "venue_coords": [
+      127.231051,
+      37.643493
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "남양주시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.199096,
+      37.633839
+    ],
+    "reservation_url": "https://www.nyj.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "남양주시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.202696,
+      37.630039
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "남양주시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.199596,
+      37.632539
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "남한강 큰마당식당",
+    "coordinates": [
+      127.316776,
+      37.550942
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (남양주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=남양주시청&goalx=127.201696&goaly=37.632739",
+    "kakaonavi_url": "kakaonavi://navigate?name=남양주시청&x=127.201696&y=37.632739&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=남양주시청&dlng=127.201696&dlat=37.632739&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:16",
+      "noon_altitude_deg": 28.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "남양주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.230951,
+          37.641993
+        ],
+        [
+          127.230751,
+          37.643293
+        ],
+        [
+          127.229651,
+          37.643693
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "남양주시 중심상업거리",
+    "anchor_center": [
+      127.203696,
+      37.633539
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 320,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
