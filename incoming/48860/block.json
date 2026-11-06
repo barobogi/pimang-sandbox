@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sancheong-gun, Gyeongnam",
+      "landmarks": {
+        "동의보감촌": [
+          "Donguibogam Village",
+          "Signature theme village attraction of Sancheong-gun, Gyeongnam."
+        ],
+        "대원사": [
+          "Daewonsa Temple",
+          "Signature temple heritage of Sancheong-gun, Gyeongnam."
+        ],
+        "지리산": [
+          "Jirisan Mountain",
+          "Signature national park mountain of Sancheong-gun, Gyeongnam."
+        ],
+        "산청군청": [
+          "Sancheong County Office",
+          "Administrative center of Sancheong-gun, Gyeongnam."
+        ],
+        "산청시장": [
+          "Sancheong Market",
+          "Signature market attraction of Sancheong-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 山清郡",
+      "landmarks": {
+        "동의보감촌": [
+          "東医宝鑑村",
+          "慶尚南道山清郡を代表する名所。"
+        ],
+        "대원사": [
+          "大原寺",
+          "慶尚南道山清郡を代表する名所。"
+        ],
+        "지리산": [
+          "智異山",
+          "慶尚南道山清郡を代表する名所。"
+        ],
+        "산청군청": [
+          "山清郡庁",
+          "慶尚南道山清郡を代表する名所。"
+        ],
+        "산청시장": [
+          "山清市場",
+          "慶尚南道山清郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 山清郡",
+      "landmarks": {
+        "동의보감촌": [
+          "东医宝鉴村",
+          "庆尚南道山清郡的代表性主题村落。"
+        ],
+        "대원사": [
+          "大原寺",
+          "庆尚南道山清郡的代表性古刹。"
+        ],
+        "지리산": [
+          "智异山",
+          "庆尚南道山清郡的代表性国立公园名山。"
+        ],
+        "산청군청": [
+          "山清郡厅",
+          "庆尚南道山清郡的行政中心。"
+        ],
+        "산청시장": [
+          "山清市场",
+          "庆尚南道山清郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
