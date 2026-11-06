@@ -1,0 +1,597 @@
+{
+  "block_code": "44790",
+  "block_name": "충청남도 청양군",
+  "bbox": [
+    126.674219,
+    36.315696,
+    127.031715,
+    36.571626
+  ],
+  "center": [
+    36.443661,
+    126.852967
+  ],
+  "landmarks": [
+    {
+      "name": "칠갑산",
+      "lat": 36.4130234,
+      "lng": 126.8848823,
+      "category": "산/자연",
+      "description": "칠갑산은(는) 충청남도 청양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EA%B0%91%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 320.0
+      }
+    },
+    {
+      "name": "장승공원",
+      "lat": 36.4099637,
+      "lng": 126.8510942,
+      "category": "공원/문화",
+      "description": "장승공원은(는) 충청남도 청양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 2.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Seoul_Olympic_Park_from_Lotte_World_Tower.jpg/1280px-Seoul_Olympic_Park_from_Lotte_World_Tower.jpg"
+    },
+    {
+      "name": "청양군청",
+      "lat": 36.4593453,
+      "lng": 126.8019828,
+      "category": "행정/랜드마크",
+      "description": "청양군청은(는) 충청남도 청양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 110.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%943.jpg"
+    },
+    {
+      "name": "청양시장",
+      "lat": 36.450462,
+      "lng": 126.8018476,
+      "category": "시장/먹거리",
+      "description": "청양시장은(는) 충청남도 청양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 99.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg/1280px-%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg"
+    },
+    {
+      "name": "칠갑산자연휴양림",
+      "lat": 36.4318611,
+      "lng": 126.843763,
+      "category": "숲휴양림",
+      "description": "칠갑산자연휴양림은(는) 충청남도 청양군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%96%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 32.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg/1280px-%EC%B6%95%EC%82%B0%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "청양 자연 힐링 시그니처 에어리얼 투어",
+      "description": "칠갑산자연휴양림 → 장승공원 → 칠갑산 → 청양시장 → 청양군청 순으로 이어지는 충청남도 청양군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "칠갑산자연휴양림",
+        "장승공원",
+        "칠갑산",
+        "청양시장",
+        "청양군청"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "청양 산하 절경 에어리얼 투어",
+      "description": "칠갑산 → 장승공원 → 칠갑산자연휴양림 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 청양의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "칠갑산",
+        "장승공원",
+        "칠갑산자연휴양림"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "청양 도심 활력 에어리얼 코스",
+      "description": "청양군청 → 청양시장 → 칠갑산자연휴양림 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 청양의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "청양군청",
+        "청양시장",
+        "칠갑산자연휴양림"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "청양 옛맛식당",
+      "lat": 36.450182,
+      "lng": 126.801918,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "청양 동네밥집",
+      "lat": 36.449762,
+      "lng": 126.801568,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "청양 가마솥밥가",
+      "lat": 36.449762,
+      "lng": 126.801848,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "청양 본점",
+      "lat": 36.451022,
+      "lng": 126.802198,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "칠갑산",
+        "station_name": "칠갑산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.411023,
+          126.884882
+        ]
+      },
+      {
+        "target_landmark": "장승공원",
+        "station_name": "청양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 38,
+        "coordinates": [
+          36.432661,
+          126.841763
+        ]
+      },
+      {
+        "target_landmark": "청양군청",
+        "station_name": "청양군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.457345,
+          126.801983
+        ]
+      },
+      {
+        "target_landmark": "청양시장",
+        "station_name": "청양시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.448462,
+          126.801848
+        ]
+      },
+      {
+        "target_landmark": "칠갑산자연휴양림",
+        "station_name": "청양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.432661,
+          126.841763
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "청양 중앙 공영주차장",
+        "coordinates": [
+          36.429461,
+          126.843363
+        ],
+        "capacity": 239,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청양 제2 공영주차장",
+        "coordinates": [
+          36.412364,
+          126.848694
+        ],
+        "capacity": 127,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청양 제3 공영주차장",
+        "coordinates": [
+          36.412223,
+          126.885682
+        ],
+        "capacity": 289,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "청양초등학교 운동장",
+        "coordinates": [
+          36.422549,
+          126.913859
+        ],
+        "capacity": 3400,
+        "address": "충청남도 청양군"
+      },
+      {
+        "name": "청양실내체육관",
+        "coordinates": [
+          36.380836,
+          126.871194
+        ],
+        "capacity": 2400,
+        "address": "충청남도 청양군"
+      },
+      {
+        "name": "청양중앙공원 비상집합장소",
+        "coordinates": [
+          36.476926,
+          126.768185
+        ],
+        "capacity": 6100,
+        "address": "충청남도 청양군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "칠갑산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장승공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청양군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청양시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "칠갑산자연휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "칠갑산 봄 진달래",
+        "장승공원 봄"
+      ],
+      "summer": [
+        "칠갑산 계곡 여름",
+        "칠갑산자연휴양림 여름"
+      ],
+      "autumn": [
+        "칠갑산 단풍길",
+        "청양시장 가을"
+      ],
+      "winter": [
+        "칠갑산 설경",
+        "장승공원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "칠갑산 야경",
+        "coordinates": [
+          36.413023,
+          126.884882
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "청양시장 야시장",
+        "coordinates": [
+          36.450462,
+          126.801848
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "청양군은 칠갑산과 어우러진 고추 특산지로 칠갑산 장승공원이 대표 명소인 충남 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongyang-gun, Chungnam",
+      "landmarks": {
+        "칠갑산": [
+          "Chilgapsan Mountain",
+          "Signature mountain attraction of Cheongyang-gun, Chungnam."
+        ],
+        "장승공원": [
+          "Jangseung Park",
+          "Signature park attraction of Cheongyang-gun, Chungnam."
+        ],
+        "청양군청": [
+          "Cheongyang County Office",
+          "Administrative center of Cheongyang-gun, Chungnam."
+        ],
+        "청양시장": [
+          "Cheongyang Market",
+          "Signature market attraction of Cheongyang-gun, Chungnam."
+        ],
+        "칠갑산자연휴양림": [
+          "Chilgapsan Natural Recreation Forest",
+          "Signature forest attraction of Cheongyang-gun, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 青陽郡",
+      "landmarks": {
+        "칠갑산": [
+          "七甲山",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "장승공원": [
+          "長丞公園",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "청양군청": [
+          "青陽郡庁",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "청양시장": [
+          "青陽市場",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "칠갑산자연휴양림": [
+          "七甲山自然休養林",
+          "忠清南道青陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 青阳郡",
+      "landmarks": {
+        "칠갑산": [
+          "七甲山",
+          "忠清南道青阳郡的代表性名山。"
+        ],
+        "장승공원": [
+          "长丞公园",
+          "忠清南道青阳郡的代表性公园。"
+        ],
+        "청양군청": [
+          "青阳郡厅",
+          "忠清南道青阳郡的行政中心。"
+        ],
+        "청양시장": [
+          "青阳市场",
+          "忠清南道青阳郡的代表性市场。"
+        ],
+        "칠갑산자연휴양림": [
+          "七甲山自然休养林",
+          "忠清南道青阳郡的代表性森林休养地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.cheongyang.go.kr",
+    "civil_service_center": {
+      "location_name": "청양군청 민원실 앞",
+      "coordinates": [
+        126.797789,
+        36.445757
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "041-940-2114",
+      "info": "충청남도 청양군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "청양군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.853567,
+      36.443161
+    ],
+    "cctv_zone_count": 116,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "청양군민공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "칠갑 문화제",
+    "typical_month": 9,
+    "venue_name": "청양군민운동장",
+    "venue_coords": [
+      126.853567,
+      36.444161
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "청양군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.800289,
+      36.444957
+    ],
+    "reservation_url": "https://www.cheongyang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "청양군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.795889,
+      36.446157
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "청양군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.798589,
+      36.444557
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "청양 동네밥집",
+    "coordinates": [
+      126.801568,
+      36.449762
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수탉백숙 (청양군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=청양군청&goalx=126.797789&goaly=36.445757",
+    "kakaonavi_url": "kakaonavi://navigate?name=청양군청&x=126.797789&y=36.445757&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=청양군청&dlng=126.797789&dlat=36.445757&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 53.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:15",
+      "sunset": "19:54",
+      "noon_altitude_deg": 77.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 53.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:21",
+      "noon_altitude_deg": 30.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "청양군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.853317,
+          36.441711
+        ],
+        [
+          126.853567,
+          36.443161
+        ],
+        [
+          126.853767,
+          36.444561
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "청양군 전통시장 만남의거리",
+    "anchor_center": [
+      126.795922,
+      36.445157
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 150,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
