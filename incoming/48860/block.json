@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "산청초등학교 운동장",
+        "coordinates": [
+          35.412859,
+          127.812024
+        ],
+        "capacity": 2700,
+        "address": "경상남도 산청군"
+      },
+      {
+        "name": "산청실내체육관",
+        "coordinates": [
+          35.373469,
+          127.857789
+        ],
+        "capacity": 4800,
+        "address": "경상남도 산청군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동의보감촌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대원사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "지리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "산청군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "산청시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "산청군은 지리산과 대원사, 동의보감촌이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
