@@ -231,6 +231,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성산초등학교 운동장",
+        "coordinates": [
+          35.207594,
+          128.671834
+        ],
+        "capacity": 4500,
+        "address": "경상남도 창원시 성산구"
+      },
+      {
+        "name": "성산실내체육관",
+        "coordinates": [
+          35.180295,
+          128.700054
+        ],
+        "capacity": 6100,
+        "address": "경상남도 창원시 성산구"
+      },
+      {
+        "name": "성산중앙공원 비상집합장소",
+        "coordinates": [
+          35.228678,
+          128.649339
+        ],
+        "capacity": 4200,
+        "address": "경상남도 창원시 성산구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "성산패총",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "불모산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "중앙체육공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용지호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "상남동 노래교차로",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "성산구는 창원의 원도심으로 성산패총과 창원국가산업단지가 자리한 창원 중심 구이며 상남동과 중앙동 상권, 용지호수공원 등이 함께한다.",
   "data_sources": [
     {
