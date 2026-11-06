@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동강",
+        "station_name": "동강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.287513,
+          128.5605
+        ]
+      },
+      {
+        "target_landmark": "청령포",
+        "station_name": "영월역",
+        "line": "중앙선",
+        "walk_minutes": 25,
+        "coordinates": [
+          37.1807,
+          128.4644
+        ]
+      },
+      {
+        "target_landmark": "한반도지형",
+        "station_name": "한반도지형 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.219534,
+          128.352964
+        ]
+      },
+      {
+        "target_landmark": "영월군청",
+        "station_name": "영월역",
+        "line": "중앙선",
+        "walk_minutes": 6,
+        "coordinates": [
+          37.1807,
+          128.4644
+        ]
+      },
+      {
+        "target_landmark": "고씨동굴",
+        "station_name": "고씨동굴 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.130509,
+          128.53775
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영월 중앙 공영주차장",
+        "coordinates": [
+          37.184496,
+          128.459839
+        ],
+        "capacity": 195,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "영월 제2 공영주차장",
+        "coordinates": [
+          37.172675,
+          128.450482
+        ],
+        "capacity": 284,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "영월 제3 공영주차장",
+        "coordinates": [
+          37.289913,
+          128.5605
+        ],
+        "capacity": 65,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "영월군은 동강과 한반도 지형, 김삿갓 유적, 단종 유배지 청령포가 자리한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
