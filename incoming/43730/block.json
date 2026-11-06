@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "옥천초등학교 운동장",
+        "coordinates": [
+          36.298952,
+          127.554202
+        ],
+        "capacity": 6300,
+        "address": "충청북도 옥천군"
+      },
+      {
+        "name": "옥천실내체육관",
+        "coordinates": [
+          36.435193,
+          127.528227
+        ],
+        "capacity": 1100,
+        "address": "충청북도 옥천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "정지용 생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대청호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "옥천군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "옥천시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "향수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "옥천군은 정지용 생가와 향수, 대청호가 자리한 충북 남부의 군이다.",
   "data_sources": [
     {
