@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "설봉공원 벚꽃",
+        "복하천 봄"
+      ],
+      "summer": [
+        "설봉공원 여름 음악분수",
+        "복하천 여름"
+      ],
+      "autumn": [
+        "설봉공원 단풍",
+        "이천도자기마을 가을"
+      ],
+      "winter": [
+        "이천도자기마을 겨울 조명",
+        "설봉공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "설봉공원 야경",
+        "coordinates": [
+          37.27572,
+          127.425768
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "이천도자기마을 야경",
+        "coordinates": [
+          37.264,
+          127.478
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "이천시는 이천쌀과 도자기로 유명한 경기 동부의 도시이며 설봉산이 대표 명소다.",
   "data_sources": [
     {
