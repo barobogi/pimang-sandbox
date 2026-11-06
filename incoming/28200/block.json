@@ -375,5 +375,94 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namdong-gu, Incheon",
+      "landmarks": {
+        "소래습지생태공원": [
+          "Sorae Wetland Ecological Park",
+          "Korea's signature inland wetland park of mudflats and rice paddies around Sorae-do."
+        ],
+        "소래포구": [
+          "Sorae Port",
+          "Traditional fishing port at the foot of Soraesan, famed for bare-handed mudflat experiences and fishing."
+        ],
+        "인더스파크": [
+          "Indus Park",
+          "Multiplex culture space remodeled from a former factory in Seochang-dong, hosting shows and experiences."
+        ],
+        "인천대공원": [
+          "Incheon Grand Park",
+          "Large urban park in Jangsu-dong with mountain-bike courses and an arboretum."
+        ],
+        "남동문화예술회관": [
+          "Namdong Arts Center",
+          "Namdong-gu's leading venue for performances and exhibitions."
+        ],
+        "소래포구 해오름광장": [
+          "Sorae Port Haeoreum Plaza",
+          "Waterfront plaza with the fish market and Shrimp Tower observatory, hosting the Sorae Port Festival."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 南洞区",
+      "landmarks": {
+        "소래습지생태공원": [
+          "蘇萊湿地生態公園",
+          "蘇萊島一帯の干潟と田湿地からなる国内を代表する内陸湿地生態公園。"
+        ],
+        "소래포구": [
+          "蘇萊浦口",
+          "蘇萊山のふもとに形成された伝統漁港。干潟体験と釣りで有名な観光地。"
+        ],
+        "인더스파크": [
+          "インダスパーク",
+          "西昌洞の旧工場を改装した複合文化空間。公演と体験が楽しめる。"
+        ],
+        "인천대공원": [
+          "仁川大公園",
+          "長寿洞に造られた大型都市公園。マウンテンバイクコースと樹木園を併設する。"
+        ],
+        "남동문화예술회관": [
+          "南洞文化芸術会館",
+          "南洞区を代表する公演・展示施設で、区民文化芸術活動の拠点。"
+        ],
+        "소래포구 해오름광장": [
+          "蘇萊浦口ハオルム広場",
+          "蘇萊浦口の魚市場とエビタワー展望台のある水辺広場。蘇萊浦口祭りが開かれる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 南洞区",
+      "landmarks": {
+        "소래습지생태공원": [
+          "苏莱湿地生态公园",
+          "苏莱岛一带滩涂与稻田湿地组成的韩国代表性湿地生态公园。"
+        ],
+        "소래포구": [
+          "苏莱浦口",
+          "苏莱山麓的传统渔港，以徒手滩涂体验和海钓闻名。"
+        ],
+        "인더스파크": [
+          "印都斯园区",
+          "西昌洞旧工厂改建的复合文化空间，可观赏演出与体验。"
+        ],
+        "인천대공원": [
+          "仁川大公园",
+          "长寿洞建成的大型城市公园，设有山地车道和树木园。"
+        ],
+        "남동문화예술회관": [
+          "南洞文化艺术会馆",
+          "南洞区代表性演出展览设施，区民文艺活动的据点。"
+        ],
+        "소래포구 해오름광장": [
+          "苏莱浦口日出广场",
+          "设有鱼市和虾塔观景台的滨水广场，举办苏莱浦口节。"
+        ]
+      }
+    }
   }
 }
