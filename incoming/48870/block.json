@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hamyang-gun, Gyeongnam",
+      "landmarks": {
+        "상림공원": [
+          "Sangnim Park",
+          "Signature forest park attraction of Hamyang-gun, Gyeongnam."
+        ],
+        "용추계곡": [
+          "Yongchu Valley",
+          "Signature valley attraction of Hamyang-gun, Gyeongnam."
+        ],
+        "지리산": [
+          "Jirisan Mountain",
+          "Signature national park mountain of Hamyang-gun, Gyeongnam."
+        ],
+        "함양군청": [
+          "Hamyang County Office",
+          "Administrative center of Hamyang-gun, Gyeongnam."
+        ],
+        "함양시장": [
+          "Hamyang Market",
+          "Signature market attraction of Hamyang-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 咸陽郡",
+      "landmarks": {
+        "상림공원": [
+          "上林公園",
+          "慶尚南道咸陽郡を代表する名所。"
+        ],
+        "용추계곡": [
+          "龍滝渓谷",
+          "慶尚南道咸陽郡を代表する名所。"
+        ],
+        "지리산": [
+          "智異山",
+          "慶尚南道咸陽郡を代表する名所。"
+        ],
+        "함양군청": [
+          "咸陽郡庁",
+          "慶尚南道咸陽郡を代表する名所。"
+        ],
+        "함양시장": [
+          "咸陽市場",
+          "慶尚南道咸陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 咸阳郡",
+      "landmarks": {
+        "상림공원": [
+          "上林公园",
+          "庆尚南道咸阳郡的代表性森林公园。"
+        ],
+        "용추계곡": [
+          "龙湫溪谷",
+          "庆尚南道咸阳郡的代表性溪谷。"
+        ],
+        "지리산": [
+          "智异山",
+          "庆尚南道咸阳郡的代表性国立公园名山。"
+        ],
+        "함양군청": [
+          "咸阳郡厅",
+          "庆尚南道咸阳郡的行政中心。"
+        ],
+        "함양시장": [
+          "咸阳市场",
+          "庆尚南道咸阳郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
