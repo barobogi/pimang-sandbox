@@ -421,5 +421,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dgs.go.kr",
+    "civil_service_center": {
+      "location_name": "서구청 민원실 앞",
+      "coordinates": [
+        128.549272,
+        35.875136
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "053-663-2000",
+      "info": "대구광역시 서구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.549072,
+      35.875136
+    ],
+    "cctv_zone_count": 417
+  },
+  "urban_parks_trails": {
+    "park_name": "상재공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "대구 서구 구민축제",
+    "typical_month": 10,
+    "venue_name": "상재공원",
+    "venue_coords": [
+      128.548972,
+      35.875136
+    ]
   }
 }
