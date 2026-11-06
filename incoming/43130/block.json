@@ -422,10 +422,11 @@
     "civil_service_center": {
       "location_name": "충주시청 민원실 앞",
       "coordinates": [
-        127.892848,
-        37.00625
+        127.927255,
+        36.989743
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "043-850-2114",
