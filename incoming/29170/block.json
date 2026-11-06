@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "전남대학교",
+        "station_name": "북구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.17851,
+          126.906093
+        ]
+      },
+      {
+        "target_landmark": "양림동 역사문화마을",
+        "station_name": "양림동 역사문화마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.1478,
+          126.9042
+        ]
+      },
+      {
+        "target_landmark": "청움공원",
+        "station_name": "북구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 23,
+        "coordinates": [
+          35.17851,
+          126.906093
+        ]
+      },
+      {
+        "target_landmark": "광주비엔날레",
+        "station_name": "북구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 23,
+        "coordinates": [
+          35.17851,
+          126.906093
+        ]
+      },
+      {
+        "target_landmark": "전라감영공원",
+        "station_name": "북구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 33,
+        "coordinates": [
+          35.17851,
+          126.906093
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "북구 중앙 공영주차장",
+        "coordinates": [
+          35.17891,
+          126.904893
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "북구 제2 공영주차장",
+        "coordinates": [
+          35.1568,
+          126.9076
+        ],
+        "capacity": 63,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "광주 북구는 전남대학교와 양림동 역사문화마을이 자리한 광주 북부의 구이다.",
   "data_sources": [
     {
