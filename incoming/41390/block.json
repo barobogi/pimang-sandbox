@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "오이도빛거리",
+        "station_name": "시흥버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3599,
+          126.7417
+        ]
+      },
+      {
+        "target_landmark": "갯골생태공원",
+        "station_name": "갯골생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.387302,
+          126.778949
+        ]
+      },
+      {
+        "target_landmark": "시화호",
+        "station_name": "시화호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.297662,
+          126.668153
+        ]
+      },
+      {
+        "target_landmark": "배곧한강공원",
+        "station_name": "배곧한강공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.3736,
+          126.8048
+        ]
+      },
+      {
+        "target_landmark": "은계생태공원",
+        "station_name": "은계생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.3976,
+          126.7778
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "시흥 중앙 공영주차장",
+        "coordinates": [
+          37.3619,
+          126.7401
+        ],
+        "capacity": 272,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "시흥 제2 공영주차장",
+        "coordinates": [
+          37.388102,
+          126.779749
+        ],
+        "capacity": 218,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "시흥시는 조선 시대 과천·금천과 함께 관도 중심지였던 유서 깊은 지역으로 화학·금속 산업과 함께 오이도빛거리와 갯골생태공원, 시화호 등 해양 생태 관광이 발달했다.",
   "data_sources": [
     {
