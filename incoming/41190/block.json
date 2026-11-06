@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "부천초등학교 운동장",
+        "coordinates": [
+          37.507063,
+          126.750093
+        ],
+        "capacity": 6900,
+        "address": "경기도 부천시"
+      },
+      {
+        "name": "부천실내체육관",
+        "coordinates": [
+          37.503024,
+          126.839504
+        ],
+        "capacity": 3600,
+        "address": "경기도 부천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "상동호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "부천만화정보박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "원미산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "부천종합운동장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소사벚꽃길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "부천시는 근현대 섬유·기계·전자 공업 도시로 성장했고 부천만화박물관과 상동호수공원, 국제판타지축제 등 문화 도시로도 명성을 얻은 자치구 없는 시(구 없는 단일 도시)이다.",
   "data_sources": [
     {
