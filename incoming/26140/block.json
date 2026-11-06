@@ -417,10 +417,11 @@
     "civil_service_center": {
       "location_name": "서구청 민원실 앞",
       "coordinates": [
-        129.049567,
-        35.017019
+        129.019214,
+        35.108477
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "051-240-4000",
