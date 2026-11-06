@@ -414,7 +414,7 @@
         35.171143
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "051-605-4000",
@@ -427,7 +427,8 @@
       129.046056,
       35.16673
     ],
-    "cctv_zone_count": 154
+    "cctv_zone_count": 154,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "당감근린공원",
