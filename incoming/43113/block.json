@@ -328,6 +328,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -453,5 +458,48 @@
       127.378991,
       36.643077
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "흥덕구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.427405,
+      36.642775
+    ],
+    "reservation_url": "https://www.cheongju.go.kr/heungdeok"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "흥덕구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.430305,
+      36.641075
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "흥덕구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.429205,
+      36.641775
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "사직공원 가마솥밥가",
+    "coordinates": [
+      127.378721,
+      36.643177
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (흥덕구 지정 모범음식점)"
   }
 }
