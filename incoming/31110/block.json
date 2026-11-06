@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "학성공원 봄꽃",
+        "태화강 벚꽃"
+      ],
+      "summer": [
+        "태화강 여름",
+        "학성공원 여름"
+      ],
+      "autumn": [
+        "태화강 억새",
+        "울산병영성 가을"
+      ],
+      "winter": [
+        "태화강 겨울 철새",
+        "학성공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "태화강 야경",
+        "coordinates": [
+          35.552038,
+          129.322322
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "학성공원 야경",
+        "coordinates": [
+          35.556312,
+          129.338224
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "울산 중구는 울산의 원도심으로 병영성과 학성공원, 울산박물관이 자리한 울산 중심 구이다.",
   "data_sources": [
     {
