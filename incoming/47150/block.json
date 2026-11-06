@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gimcheon-si, Gyeongbuk",
+      "landmarks": {
+        "김천약령시장": [
+          "Gimcheon Yakryeong Market",
+          "Korea's signature herbal medicine market, the original yakryeong market."
+        ],
+        "감고도": [
+          "Gamgodo Mountain",
+          "Gimcheon's home mountain, famed for trails and dramatic rock cliffs."
+        ],
+        "대장부공원": [
+          "Daejangbu Park",
+          "Neighborhood park in downtown Gimcheon."
+        ],
+        "김천혁신도시": [
+          "Gimcheon Innovation City",
+          "Innovation city hosting central ministries, built in western Gimcheon."
+        ],
+        "김천문화예술회관": [
+          "Gimcheon Arts Center",
+          "Gimcheon's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 金泉市",
+      "landmarks": {
+        "김천약령시장": [
+          "金泉薬令市場",
+          "韓国を代表する韓薬材市場。薬令市場の元祖。"
+        ],
+        "감고도": [
+          "甘孤道",
+          "金泉の鎮山。登山道と奇岩の絶景が有名。"
+        ],
+        "대장부공원": [
+          "大丈夫公園",
+          "金泉市内に造成された代表的な近隣公園。"
+        ],
+        "김천혁신도시": [
+          "金泉革新都市",
+          "中央部庁が立地する革新都市。金泉西部に造成された。"
+        ],
+        "김천문화예술회관": [
+          "金泉文化芸術会館",
+          "金泉を代表する公演・展示の文化施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 金泉市",
+      "landmarks": {
+        "김천약령시장": [
+          "金泉药令市场",
+          "韩国代表性韩药材市场，药令市场的鼻祖。"
+        ],
+        "감고도": [
+          "甘谷道山",
+          "金泉主山，以步道和奇岩绝景闻名。"
+        ],
+        "대장부공원": [
+          "大丈夫公园",
+          "金泉市内的代表性近邻公园。"
+        ],
+        "김천혁신도시": [
+          "金泉创新城市",
+          "中央机关迁入的创新城市，建于金泉西部。"
+        ],
+        "김천문화예술회관": [
+          "金泉文化艺术会馆",
+          "金泉代表性的演出展览文化设施。"
+        ]
+      }
+    }
   }
 }
