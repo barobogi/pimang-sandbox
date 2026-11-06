@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buk-gu, Gwangju",
+      "landmarks": {
+        "전남대학교": [
+          "Chonnam National University",
+          "Gwangju's flagship national university."
+        ],
+        "양림동 역사문화마을": [
+          "Yanglim-dong Historic Culture Village",
+          "Culture village preserving old alleys and history."
+        ],
+        "청움공원": [
+          "Cheongum Park",
+          "Signature neighborhood park of Buk-gu."
+        ],
+        "광주비엔날레": [
+          "Gwangju Biennale",
+          "Gwangju's flagship international art event."
+        ],
+        "전라감영공원": [
+          "Jeolla Gamyeong Park",
+          "Park on the site of the Joseon-era Jeolla provincial governor's office."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "光州広域市 北区",
+      "landmarks": {
+        "전남대학교": [
+          "全南大学校",
+          "光州を代表する国立大学。"
+        ],
+        "양림동 역사문화마을": [
+          "楊林洞歴史文化村",
+          "古い路地と歴史が残る代表的な文化村。"
+        ],
+        "청움공원": [
+          "青ウム公園",
+          "北区を代表する近隣公園。"
+        ],
+        "광주비엔날레": [
+          "光州ビエンナーレ",
+          "光州を代表する国際芸術祭。"
+        ],
+        "전라감영공원": [
+          "全羅監営公園",
+          "朝鮮時代の全羅監営があった跡地の公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "光州广域市 北区",
+      "landmarks": {
+        "전남대학교": [
+          "全南大学",
+          "光州的代表性国立大学。"
+        ],
+        "양림동 역사문화마을": [
+          "杨林洞历史文化村",
+          "保留老巷与历史的代表性文化村落。"
+        ],
+        "청움공원": [
+          "青屋公园",
+          "北区的代表性近邻公园。"
+        ],
+        "광주비엔날레": [
+          "光州双年展",
+          "光州代表性的国际艺术盛会。"
+        ],
+        "전라감영공원": [
+          "全罗监营公园",
+          "建于朝鲜时代全罗监营旧址的公园。"
+        ]
+      }
+    }
   }
 }
