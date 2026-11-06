@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "진안초등학교 운동장",
+        "coordinates": [
+          35.782896,
+          127.380928
+        ],
+        "capacity": 2000,
+        "address": "전북특별자치도 진안군"
+      },
+      {
+        "name": "진안실내체육관",
+        "coordinates": [
+          35.835001,
+          127.445187
+        ],
+        "capacity": 4400,
+        "address": "전북특별자치도 진안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "마이산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "용담호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "진안군청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "진안시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "마이산탑사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "진안군은 마이산과 용담호, 진안고원이 자리한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
