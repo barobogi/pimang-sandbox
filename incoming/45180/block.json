@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "정읍초등학교 운동장",
+        "coordinates": [
+          35.533329,
+          126.835637
+        ],
+        "capacity": 5800,
+        "address": "전북특별자치도 정읍시"
+      },
+      {
+        "name": "정읍실내체육관",
+        "coordinates": [
+          35.491597,
+          126.924646
+        ],
+        "capacity": 5400,
+        "address": "전북특별자치도 정읍시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "내장산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내장사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "초정약수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "정읍객사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고부모충사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "정읍시는 백제 시대 옛 고부 지역으로 내장산과 내장사, 초정약수 등의 명소가 함께한 전북 서부의 도시다.",
   "data_sources": [
     {
