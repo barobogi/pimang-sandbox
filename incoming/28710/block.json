@@ -436,7 +436,7 @@
         37.747318
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "032-930-3114",
@@ -449,7 +449,8 @@
       126.14817,
       37.703891
     ],
-    "cctv_zone_count": 386
+    "cctv_zone_count": 386,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "마니산도립공원",
