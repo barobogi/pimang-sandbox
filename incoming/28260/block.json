@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          37.527563,
+          126.623677
+        ],
+        "capacity": 5800,
+        "address": "인천광역시 서구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          37.610114,
+          126.707971
+        ],
+        "capacity": 5400,
+        "address": "인천광역시 서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청라국제도시",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "검단신도시",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "아라뱃길",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "오류동 갯벌체험장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "가좌동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "인천 서구는 청라국제도시와 검단신도시, 경인아라뱃길이 자리한 인천 서부의 대형 구이다.",
   "data_sources": [
     {
