@@ -1,0 +1,585 @@
+{
+  "block_code": "11200",
+  "block_name": "서울특별시 성동구",
+  "bbox": [
+    127.008302,
+    37.530115,
+    127.073761,
+    37.573016
+  ],
+  "center": [
+    37.551566,
+    127.041032
+  ],
+  "landmarks": [
+    {
+      "name": "서울숲",
+      "lat": 37.5433175,
+      "lng": 127.0332118,
+      "category": "도시공원/생태",
+      "description": "성수동에 조성된 대표적 도시 숲으로 반려견 놀이터와 나무숲, 생태습지가 함께 있는 시민 휴식 공간.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%88%B2",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 36.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Seoul_Forest_%EC%84%9C%EC%9A%B8%EC%88%B2.jpg/1280px-Seoul_Forest_%EC%84%9C%EC%9A%B8%EC%88%B2.jpg"
+    },
+    {
+      "name": "뚝섬한강공원",
+      "lat": 37.5315323,
+      "lng": 127.0667418,
+      "category": "한강공원/체육",
+      "description": "한강 뚝섬지구에 조성된 공원으로 수영장과 주니어 체육시설, 야외무대가 있는 강변 명소.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%9A%9D%EC%84%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 314.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ttukseom_Hangang_Park_20260416_6.jpg/1280px-Ttukseom_Hangang_Park_20260416_6.jpg"
+    },
+    {
+      "name": "성수대교",
+      "lat": 37.5395967,
+      "lng": 127.0356554,
+      "category": "교통/인프라",
+      "description": "성동구 성수동과 광진구 강변북로를 잇는 한강 교량으로 1994년 붕괴 사고 이후 재건되어 한강 풍경의 상징이 되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EB%8C%80%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 19.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Seongsu_bridge_night.JPG"
+    },
+    {
+      "name": "왕십리골목시장",
+      "lat": 37.5627,
+      "lng": 127.038,
+      "category": "전통시장",
+      "description": "왕십리역 인근에 형성된 먹거리 골목시장로 송편과 쫄볶이 등 먹거리로 유명한 재래시장.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 167.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Seongdong-gu_office2.JPG/1280px-Seongdong-gu_office2.JPG"
+    },
+    {
+      "name": "성수동 카페거리",
+      "lat": 37.544,
+      "lng": 127.0377,
+      "category": "문화/카페",
+      "description": "옛 신발공장 건물을 개조한 카페와 쇼핑 공간이 모여 젊은 층 문화 명소로 부상한 성수동 거리.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%88%98%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 19.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/P00250601_105307354_%EC%84%B1%EC%88%981%EA%B0%80%EC%A0%9C1%EB%8F%99%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0.JPG/1280px-P00250601_105307354_%EC%84%B1%EC%88%981%EA%B0%80%EC%A0%9C1%EB%8F%99%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "성동 역사·문화 시그니처 스카이 트레일",
+      "description": "성수동 카페거리 → 서울숲 → 성수대교 → 왕십리골목시장 → 뚝섬한강공원 순으로 이어지는 서울특별시 성동구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "성수동 카페거리",
+        "서울숲",
+        "성수대교",
+        "왕십리골목시장",
+        "뚝섬한강공원"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "성동 세월을 나는 문화유산 플라이트",
+      "description": "성수대교 → 성수동 카페거리 → 왕십리골목시장 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 성동의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "성수대교",
+        "성수동 카페거리",
+        "왕십리골목시장"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "성동 그린 랜드스케이프 플라이트",
+      "description": "서울숲 → 성수동 카페거리 → 뚝섬한강공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 성동의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "서울숲",
+        "성수동 카페거리",
+        "뚝섬한강공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "왕십리골목 가마솥밥가",
+      "lat": 37.56249,
+      "lng": 127.03751,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "왕십리골목 골목식당",
+      "lat": 37.5634,
+      "lng": 127.03758,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "왕십리골목 할매집",
+      "lat": 37.56228,
+      "lng": 127.03821,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "왕십리골목 솥뚜껑가게",
+      "lat": 37.56228,
+      "lng": 127.03737,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서울숲",
+        "station_name": "뚝섬역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 13,
+        "coordinates": [
+          37.5473,
+          127.0418
+        ]
+      },
+      {
+        "target_landmark": "뚝섬한강공원",
+        "station_name": "성수역",
+        "line": "서울 2호선",
+        "exit_no": 5,
+        "walk_minutes": 25,
+        "coordinates": [
+          37.5446,
+          127.0557
+        ]
+      },
+      {
+        "target_landmark": "성수대교",
+        "station_name": "뚝섬역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5473,
+          127.0418
+        ]
+      },
+      {
+        "target_landmark": "왕십리골목시장",
+        "station_name": "왕십리역",
+        "line": "서울 2·5호선",
+        "exit_no": 3,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5612,
+          127.0377
+        ]
+      },
+      {
+        "target_landmark": "성수동 카페거리",
+        "station_name": "뚝섬역",
+        "line": "서울 2호선",
+        "exit_no": 2,
+        "walk_minutes": 7,
+        "coordinates": [
+          37.5473,
+          127.0418
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성동 중앙 공영주차장",
+        "coordinates": [
+          37.546,
+          127.0361
+        ],
+        "capacity": 566,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "성동 제2 공영주차장",
+        "coordinates": [
+          37.542918,
+          127.033212
+        ],
+        "capacity": 236,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성동초등학교 운동장",
+        "coordinates": [
+          37.53726,
+          127.028266
+        ],
+        "capacity": 2100,
+        "address": "서울특별시 성동구"
+      },
+      {
+        "name": "성동실내체육관",
+        "coordinates": [
+          37.536935,
+          127.072452
+        ],
+        "capacity": 2900,
+        "address": "서울특별시 성동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서울숲",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "뚝섬한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성수대교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "왕십리골목시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성수동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "서울숲 벚꽃길",
+        "뚝섬한강공원 벚꽃"
+      ],
+      "summer": [
+        "뚝섬한강공원 수영장",
+        "서울숲 여름 음악분수"
+      ],
+      "autumn": [
+        "서울숲 은행나무길",
+        "성수동 카페거리 가을"
+      ],
+      "winter": [
+        "서울숲 겨울 빛축제",
+        "뚝섬한강공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "성수대교 야경",
+        "coordinates": [
+          37.539597,
+          127.035655
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "뚝섬한강공원 야경",
+        "coordinates": [
+          37.531532,
+          127.066742
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "성동구는 조선 시대 한양의 동쪽 외곽에서 왕십리를 중심으로 발달한 구역으로, 한양도성 성곽과 청계천이 지나며 근현대에는 직조공업과 성수동 공장들이 산업의 중심이 되었다가 현재는 서울숲과 성수동 일대가 문화·생태 명소로 재탄생한 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongdong-gu, Seoul",
+      "landmarks": {
+        "서울숲": [
+          "Seoul Forest",
+          "Large urban forest in Seongsu-dong with tree groves, ecological wetlands, and dog playgrounds."
+        ],
+        "뚝섬한강공원": [
+          "Ttukseom Hangang Park",
+          "Riverside park on the Han River with swimming pools, sports facilities, and an open-air stage."
+        ],
+        "성수대교": [
+          "Seongsu Bridge",
+          "Han River bridge rebuilt after the 1994 collapse, now a symbol of the Seoul riverfront."
+        ],
+        "왕십리골목시장": [
+          "Wangsimni Alley Market",
+          "Traditional food alley near Wangsimni Station famous for songpyeon rice cakes and spicy stir-fry."
+        ],
+        "성수동 카페거리": [
+          "Seongsu-dong Cafe Street",
+          "Youth culture hotspot of converted shoe factories turned cafes and shops."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 城東区",
+      "landmarks": {
+        "서울숲": [
+          "ソウルの森",
+          "聖水洞に造られた都市の森。生態湿地や犬の遊び場などを備えた市民の憩いの場。"
+        ],
+        "뚝섬한강공원": [
+          "纛島漢江公園",
+          "プールや野外舞台を備えた漢江河岸の公園。"
+        ],
+        "성수대교": [
+          "聖水大橋",
+          "1994年の崩落事故後に再建された漢江の橋で、漢江の風景の象徴。"
+        ],
+        "왕십리골목시장": [
+          "王十里路地市場",
+          "松餅やチョッポッキなど食の名物で知られる伝統市場。"
+        ],
+        "성수동 카페거리": [
+          "聖水洞カフェ街",
+          "古い靴工場を改装したカフェやショップが集う若者の文化スポット。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 城东区",
+      "landmarks": {
+        "서울숲": [
+          "首尔林",
+          "位于圣水洞的大型城市森林，设有生态湿地与宠物乐园，是市民的休憩空间。"
+        ],
+        "뚝섬한강공원": [
+          "纛岛汉江公园",
+          "汉江畔公园，设有泳池、体育设施和露天舞台。"
+        ],
+        "성수대교": [
+          "圣水大桥",
+          "1994年坍塌事故后重建的汉江大桥，已成为汉江风光的象征。"
+        ],
+        "왕십리골목시장": [
+          "往十里巷弄市场",
+          "往十里站附近的传统美食小巷，以松饼和辣炒年糕闻名。"
+        ],
+        "성수동 카페거리": [
+          "圣水洞咖啡街",
+          "旧制鞋厂房改建的咖啡店与店铺聚集的新潮文化街区。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sd.go.kr",
+    "civil_service_center": {
+      "location_name": "성동구청 민원실 앞",
+      "coordinates": [
+        127.036898,
+        37.563466
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2286-5114",
+      "info": "서울특별시 성동구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "성동구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.041432,
+      37.551265
+    ],
+    "cctv_zone_count": 411,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "서울숲",
+    "trail_length_km": 3.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "왕십리축제",
+    "typical_month": 9,
+    "venue_name": "서울숲 일대",
+    "venue_coords": [
+      127.041632,
+      37.551766
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "성동구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.037198,
+      37.563066
+    ],
+    "reservation_url": "https://www.sd.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "성동구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.037398,
+      37.563766
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "성동구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.034098,
+      37.565866
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "왕십리골목 가마솥밥가",
+    "coordinates": [
+      127.03751,
+      37.56249
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "설농탕 (성동구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=성동구청&goalx=127.036898&goaly=37.563466",
+    "kakaonavi_url": "kakaonavi://navigate?name=성동구청&x=127.036898&y=37.563466&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=성동구청&dlng=127.036898&dlat=37.563466&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "성동구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.040982,
+          37.550865
+        ],
+        [
+          127.041432,
+          37.551265
+        ],
+        [
+          127.042932,
+          37.550315
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "성수동 카페거리 붉은벽돌길",
+    "anchor_center": [
+      127.037498,
+      37.564199
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 40,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "cafe_culture_street"
+  }
+}
