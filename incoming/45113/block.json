@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "덕진초등학교 운동장",
+        "coordinates": [
+          35.857832,
+          127.112664
+        ],
+        "capacity": 7200,
+        "address": "전북특별자치도 전주시 덕진구"
+      },
+      {
+        "name": "덕진실내체육관",
+        "coordinates": [
+          35.83998,
+          127.141197
+        ],
+        "capacity": 3000,
+        "address": "전북특별자치도 전주시 덕진구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "덕진공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "전북대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "전주월드컵경기장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕진구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "전주천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "전주 덕진구는 덕진공원과 전북대학교, 전주월드컵경기장이 자리한 전주 북부의 구이다.",
   "data_sources": [
     {
