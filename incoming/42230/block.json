@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "맹방해수욕장 봄 바다",
+        "죽서루 봄"
+      ],
+      "summer": [
+        "맹방해수욕장 여름",
+        "환선굴 여름"
+      ],
+      "autumn": [
+        "죽서루 단풍",
+        "환선굴 가을"
+      ],
+      "winter": [
+        "맹방해수욕장 해맞이",
+        "대금굴 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "맹방해수욕장 야경",
+        "coordinates": [
+          37.39055,
+          129.231491
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "죽서루 야경",
+        "coordinates": [
+          37.44119,
+          129.160904
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "삼척시는 동해안 최남단의 강원 도시로 환선굴과 대금굴, 죽서루, 맹방해수욕장이 대표 명소이다.",
   "data_sources": [
     {
