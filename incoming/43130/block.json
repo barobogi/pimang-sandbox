@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Chungju-si, Chungbuk",
+      "landmarks": {
+        "탄금대공원": [
+          "Tangeumdae Riverside Park",
+          "Large park on the Chungjuho shore, a national sports festival venue."
+        ],
+        "충주중앙탑": [
+          "Chungju Jungangtap Pagoda",
+          "National Treasure stone pagoda of the Goryeo era, symbol of the Jungwon cultural sphere."
+        ],
+        "월악산": [
+          "Woraksan Mountain",
+          "Chungbuk's signature 1,097 m peak with Woraksan National Park."
+        ],
+        "충주댐": [
+          "Chungju Dam",
+          "Large multipurpose dam on the South Han River that created Chungjuho Lake."
+        ],
+        "충주호": [
+          "Chungjuho Lake",
+          "Large artificial lake created by Chungju Dam, a premier water leisure destination."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 忠州市",
+      "landmarks": {
+        "탄금대공원": [
+          "弾琴台公園",
+          "忠州湖のほとりに造られた大型公園。全国体育大会の開催地。"
+        ],
+        "충주중앙탑": [
+          "忠州中央塔",
+          "高麗時代に国宝に指定された代表的な石塔。中原文化圏の象徴。"
+        ],
+        "월악산": [
+          "月嶽山",
+          "標高1097メートルの忠北を代表する山。月嶽山国立公園が造成されている。"
+        ],
+        "충주댐": [
+          "忠州ダム",
+          "南漢江に建設された大型多目的ダム。忠州湖を生んだ。"
+        ],
+        "충주호": [
+          "忠州湖",
+          "忠州ダム建設で生まれた大型人造湖。国内を代表するマリンレジャーの名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 忠州市",
+      "landmarks": {
+        "탄금대공원": [
+          "弹琴台公园",
+          "忠州湖畔的大型公园，曾举办全国体育大会。"
+        ],
+        "충주중앙탑": [
+          "忠州中央塔",
+          "高丽时代的国宝玉塔，中原文化圈的象征。"
+        ],
+        "월악산": [
+          "月岳山",
+          "海拔1097米的忠北代表名山，建有月岳山国立公园。"
+        ],
+        "충주댐": [
+          "忠州大坝",
+          "建于南汉江的大型多用途水坝，造就了忠州湖。"
+        ],
+        "충주호": [
+          "忠州湖",
+          "忠州大坝形成的大型人工湖，国内代表性的水上休闲胜地。"
+        ]
+      }
+    }
   }
 }
