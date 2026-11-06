@@ -296,6 +296,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "천보산 봄 진달래",
+        "양주공원 봄꽃"
+      ],
+      "summer": [
+        "천보산 여름",
+        "옥정지구 여름"
+      ],
+      "autumn": [
+        "천보산 단풍",
+        "양주공원 가을"
+      ],
+      "winter": [
+        "양주역 상권 겨울 조명",
+        "천보산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "천보산 야경",
+        "coordinates": [
+          37.800741,
+          127.116383
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "양주공원 야경",
+        "coordinates": [
+          37.79,
+          127.06
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "경기 양주시는 서울 북부의 대표 위성 도시로 옥정지구와 양주역 상권이 함께한다.",
   "data_sources": [
     {
