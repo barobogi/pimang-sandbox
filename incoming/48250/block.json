@@ -1,0 +1,591 @@
+{
+  "block_code": "48250",
+  "block_name": "경상남도 김해시",
+  "bbox": [
+    128.695543,
+    35.151178,
+    129.014256,
+    35.395112
+  ],
+  "center": [
+    35.273145,
+    128.8549
+  ],
+  "landmarks": [
+    {
+      "name": "봉황공원",
+      "lat": 35.229,
+      "lng": 128.898,
+      "category": "공원/문화유산",
+      "description": "봉황대를 중심으로 조성된 공원으로 가야의 상징 토성이 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%A9%EB%8C%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 321.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Royal_Poinciana.jpg/1280px-Royal_Poinciana.jpg"
+    },
+    {
+      "name": "국립김해박물관",
+      "lat": 35.234,
+      "lng": 128.876,
+      "category": "박물관/문화",
+      "description": "가야사 전문 국립 박물관으로 가야 문화유산을 전시한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B9%80%ED%95%B4%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 336.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Gimhae_national_museum.JPG/1280px-Gimhae_national_museum.JPG"
+    },
+    {
+      "name": "가야테마파크",
+      "lat": 35.224,
+      "lng": 128.886,
+      "category": "테마공원/역사",
+      "description": "철기시대 가야 마을을 재현한 역사 체험 테마 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 332.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%EA%B9%80%ED%95%B4%EA%B0%80%EC%95%BC%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC_%EB%8F%84%EC%9E%90%EA%B8%B0%EC%B2%B4%ED%97%98%EA%B4%80.jpg/1280px-%EA%B9%80%ED%95%B4%EA%B0%80%EC%95%BC%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC_%EB%8F%84%EC%9E%90%EA%B8%B0%EC%B2%B4%ED%97%98%EA%B4%80.jpg"
+    },
+    {
+      "name": "수어촌",
+      "lat": 35.245,
+      "lng": 128.876,
+      "category": "역사/체험",
+      "description": "가야 시대 병영과 수어 시설을 재현한 역사 체험 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 328.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Montage_of_Gimhae.jpg"
+    },
+    {
+      "name": "장유폭포",
+      "lat": 35.1875641,
+      "lng": 128.7721171,
+      "category": "계곡/자연",
+      "description": "장유동에 자리한 폭포와 계곡으로 김해의 대표 자연 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%B4%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 38.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jangyu%2C_Gimhae%2C_2015-05-23.jpg/1280px-Jangyu%2C_Gimhae%2C_2015-05-23.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "김해 자연 힐링 시그니처 에어리얼 투어",
+      "description": "수어촌 → 국립김해박물관 → 가야테마파크 → 봉황공원 → 장유폭포 순으로 이어지는 경상남도 김해시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "수어촌",
+        "국립김해박물관",
+        "가야테마파크",
+        "봉황공원",
+        "장유폭포"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "김해 자연 힐링 스카이 워크",
+      "description": "봉황공원 → 가야테마파크 → 장유폭포 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 김해의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "봉황공원",
+        "가야테마파크",
+        "장유폭포"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "김해 역사문화 스카이 트레일",
+      "description": "수어촌 → 국립김해박물관 → 가야테마파크 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 김해의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "수어촌",
+        "국립김해박물관",
+        "가야테마파크"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "수어촌 할매집",
+      "lat": 35.24451,
+      "lng": 128.876,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "국립김해박물관 골목식당",
+      "lat": 35.23379,
+      "lng": 128.87586,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "가야테마파크 가마솥밥가",
+      "lat": 35.22435,
+      "lng": 128.8853,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "봉황공원",
+        "station_name": "봉황공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2306,
+          128.9008
+        ]
+      },
+      {
+        "target_landmark": "국립김해박물관",
+        "station_name": "국립김해박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2356,
+          128.8788
+        ]
+      },
+      {
+        "target_landmark": "가야테마파크",
+        "station_name": "가야테마파크 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2256,
+          128.8888
+        ]
+      },
+      {
+        "target_landmark": "수어촌",
+        "station_name": "수어촌 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2466,
+          128.8788
+        ]
+      },
+      {
+        "target_landmark": "장유폭포",
+        "station_name": "장유폭포 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.189164,
+          128.774917
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "김해 중앙 공영주차장",
+        "coordinates": [
+          35.2474,
+          128.878
+        ],
+        "capacity": 81,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "김해 제2 공영주차장",
+        "coordinates": [
+          35.2328,
+          128.8768
+        ],
+        "capacity": 403,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "김해 제3 공영주차장",
+        "coordinates": [
+          35.2232,
+          128.8868
+        ],
+        "capacity": 97,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "김해초등학교 운동장",
+        "coordinates": [
+          35.203594,
+          128.897703
+        ],
+        "capacity": 7300,
+        "address": "경상남도 김해시"
+      },
+      {
+        "name": "김해실내체육관",
+        "coordinates": [
+          35.225295,
+          128.828933
+        ],
+        "capacity": 1100,
+        "address": "경상남도 김해시"
+      },
+      {
+        "name": "김해중앙공원 비상집합장소",
+        "coordinates": [
+          35.249059,
+          128.930638
+        ],
+        "capacity": 1300,
+        "address": "경상남도 김해시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "봉황공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국립김해박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가야테마파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수어촌",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장유폭포",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "봉황공원 봄꽃",
+        "가야테마파크 봄"
+      ],
+      "summer": [
+        "봉황공원 여름",
+        "장유폭포 여름"
+      ],
+      "autumn": [
+        "봉황공원 단풍",
+        "가야테마파크 가을"
+      ],
+      "winter": [
+        "가야테마파크 겨울 빛축제",
+        "봉황공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "봉황공원 야경",
+        "coordinates": [
+          35.229,
+          128.898
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "가야테마파크 야경",
+        "coordinates": [
+          35.224,
+          128.886
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "김해시는 가야의 수도 금관가야였던 유서 깊은 도시로 봉황대와 국립김해박물관, 가야테마파크 등 가야 문화유산과 근현대 산업 도시가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gimhae-si, Gyeongnam",
+      "landmarks": {
+        "봉황공원": [
+          "Bonghwang Park",
+          "Park centered on Bonghwangdae, preserving Gaya's symbolic earthen ramparts."
+        ],
+        "국립김해박물관": [
+          "Gimhae National Museum",
+          "National museum of Gaya history, exhibiting Gaya heritage."
+        ],
+        "가야테마파크": [
+          "Gaya Theme Park",
+          "History experience park recreating an Iron Age Gaya village."
+        ],
+        "수어촌": [
+          "Sueo Village",
+          "History experience space recreating Gaya-era barracks and defenses."
+        ],
+        "장유폭포": [
+          "Jangyu Falls",
+          "Waterfall and valley in Jangyu-dong, Gimhae's signature natural spot."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 金海市",
+      "landmarks": {
+        "봉황공원": [
+          "鳳凰公園",
+          "鳳凰台を中心に造られた公園。伽倻の象徴的な土城が残る。"
+        ],
+        "국립김해박물관": [
+          "国立金海博物館",
+          "伽倻史専門の国立博物館。伽倻の文化遺産を展示する。"
+        ],
+        "가야테마파크": [
+          "伽倻テーマパーク",
+          "鉄器時代の伽倻の村を再現した歴史体験テーマパーク。"
+        ],
+        "수어촌": [
+          "守禦村",
+          "伽倻時代の兵営と守禦施設を再現した歴史体験空間。"
+        ],
+        "장유폭포": [
+          "長有瀑布",
+          "長有洞にある瀑布と渓谷。金海を代表する自然の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 金海市",
+      "landmarks": {
+        "봉황공원": [
+          "凤凰公园",
+          "以凤凰台为中心的公园，留有伽倻象征的土城。"
+        ],
+        "국립김해박물관": [
+          "国立金海博物馆",
+          "伽倻历史专业国立博物馆，展示伽倻文化遗产。"
+        ],
+        "가야테마파크": [
+          "伽倻主题公园",
+          "再现铁器时代伽倻村落的历史体验主题公园。"
+        ],
+        "수어촌": [
+          "守御村",
+          "再现伽倻时代兵营和防御设施的历史体验空间。"
+        ],
+        "장유폭포": [
+          "长有瀑布",
+          "位于长友洞的瀑布溪谷，金海的代表性自然名胜。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gimhae.go.kr",
+    "civil_service_center": {
+      "location_name": "김해시청 민원실 앞",
+      "coordinates": [
+        128.867206,
+        35.254459
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "055-1577-9400",
+      "info": "경상남도 김해시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "김해시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.855099,
+      35.273045
+    ],
+    "cctv_zone_count": 442,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "김해 중앙공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "김해 분청도자기축제",
+    "typical_month": 10,
+    "venue_name": "김해 중앙공원",
+    "venue_coords": [
+      128.854399,
+      35.273745
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "김해시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      128.869506,
+      35.256659
+    ],
+    "reservation_url": "https://www.gimhae.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "김해시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.868706,
+      35.257059
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "김해시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.869006,
+      35.252759
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "수어촌 할매집",
+    "coordinates": [
+      128.876,
+      35.24451
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "진주냉면 (김해시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=김해시청&goalx=128.867206&goaly=35.254459",
+    "kakaonavi_url": "kakaonavi://navigate?name=김해시청&x=128.867206&y=35.254459&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=김해시청&dlng=128.867206&dlat=35.254459&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 54.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:42",
+      "noon_altitude_deg": 78.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 54.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:30",
+      "sunset": "17:16",
+      "noon_altitude_deg": 31.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "김해시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.853949,
+          35.271645
+        ],
+        [
+          128.855099,
+          35.273045
+        ],
+        [
+          128.856549,
+          35.274495
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "김해시 중심상업거리",
+    "anchor_center": [
+      128.868206,
+      35.255326
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 10,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
