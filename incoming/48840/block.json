@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남해초등학교 운동장",
+        "coordinates": [
+          34.809175,
+          127.835374
+        ],
+        "capacity": 3900,
+        "address": "경상남도 남해군"
+      },
+      {
+        "name": "남해실내체육관",
+        "coordinates": [
+          34.727357,
+          127.785627
+        ],
+        "capacity": 5000,
+        "address": "경상남도 남해군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "상주해변",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "미조항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금산보리암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "설천약수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "독일마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "남해군은 남해안 최남단에 자리한 섬 군으로 상주해변과 미조항, 금산보리암, 독일마을 등의 관광 자원과 유서 깊은 해양 문화가 함께한다.",
   "data_sources": [
     {
