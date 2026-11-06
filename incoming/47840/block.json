@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "세종대왕자태실",
+        "station_name": "세종대왕자태실 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.977117,
+          128.286259
+        ]
+      },
+      {
+        "target_landmark": "성주군청",
+        "station_name": "성주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.917224,
+          128.284272
+        ]
+      },
+      {
+        "target_landmark": "성주시장",
+        "station_name": "성주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.917224,
+          128.284272
+        ]
+      },
+      {
+        "target_landmark": "가야산",
+        "station_name": "가야산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.826361,
+          128.120192
+        ]
+      },
+      {
+        "target_landmark": "성주버스터미널",
+        "station_name": "성주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.917224,
+          128.284272
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성주 중앙 공영주차장",
+        "coordinates": [
+          35.918424,
+          128.283472
+        ],
+        "capacity": 262,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "성주 제2 공영주차장",
+        "coordinates": [
+          35.915407,
+          128.284116
+        ],
+        "capacity": 314,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "성주군은 참외의 고장으로 유명하며 세종대왕자태실과 가야산이 자리한 경북 남부의 군이다.",
   "data_sources": [
     {
