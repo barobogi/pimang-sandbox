@@ -1,0 +1,573 @@
+{
+  "block_code": "27200",
+  "block_name": "대구광역시 남구",
+  "bbox": [
+    128.5729,
+    35.041729,
+    129.212473,
+    35.8559
+  ],
+  "center": [
+    35.448815,
+    128.892687
+  ],
+  "landmarks": [
+    {
+      "name": "앞산",
+      "lat": 35.819,
+      "lng": 128.573,
+      "category": "산/도심산",
+      "description": "대구 도심 남쪽에 자리한 대표 도심 산으로 등산로가 잘 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%9E%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 144.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Daegupanorama4.jpg/1280px-Daegupanorama4.jpg"
+    },
+    {
+      "name": "대덕산성",
+      "lat": 35.8193,
+      "lng": 128.5729,
+      "category": "산성/문화유산",
+      "description": "앞산 능선에 남은 옛 삼국 시대 산성 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 144.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Daedeoksanseong_Encykorea-%EB%8C%80%EB%8D%95%EC%82%B0%EC%84%B1.jpg/1280px-Daedeoksanseong_Encykorea-%EB%8C%80%EB%8D%95%EC%82%B0%EC%84%B1.jpg"
+    },
+    {
+      "name": "안지랑곱창골목",
+      "lat": 35.8381,
+      "lng": 128.5758,
+      "category": "먹거리/거리",
+      "description": "대구 최대 곱창 먹거리 거리로 대표 먹거리 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 146.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Daegu_Namgu_office.jpg/1280px-Daegu_Namgu_office.jpg"
+    },
+    {
+      "name": "물베기거리",
+      "lat": 35.8559,
+      "lng": 128.5877,
+      "category": "문화/거리",
+      "description": "대명동 물베기 문화를 테마로 조성된 특색 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 148.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Daegu_Namgu_office.jpg/1280px-Daegu_Namgu_office.jpg"
+    },
+    {
+      "name": "앞산공원",
+      "lat": 35.823,
+      "lng": 128.578,
+      "category": "도시공원",
+      "description": "앞산 자락에 조성된 대형 도심 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 145.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Daegupanorama4.jpg/1280px-Daegupanorama4.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "남구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "앞산 → 대덕산성 → 앞산공원 → 안지랑곱창골목 → 물베기거리 순으로 이어지는 대구광역시 남구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "앞산",
+        "대덕산성",
+        "앞산공원",
+        "안지랑곱창골목",
+        "물베기거리"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "남구 그린 랜드스케이프 플라이트",
+      "description": "앞산 → 대덕산성 → 앞산공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 남구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "앞산",
+        "대덕산성",
+        "앞산공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "앞산공원 솥뚜껑가게",
+      "lat": 35.823,
+      "lng": 128.57842,
+      "specialty": "가이국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "앞산 골목식당",
+      "lat": 35.81907,
+      "lng": 128.5733,
+      "specialty": "막창구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "대덕산성 골목식당",
+      "lat": 35.81937,
+      "lng": 128.57346,
+      "specialty": "납작만두",
+      "category": "향토음식"
+    },
+    {
+      "name": "안지랑곱창 본점",
+      "lat": 35.83852,
+      "lng": 128.57531,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "앞산",
+        "station_name": "앞산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.8218,
+          128.5733
+        ]
+      },
+      {
+        "target_landmark": "대덕산성",
+        "station_name": "현충로역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 50,
+        "coordinates": [
+          35.846,
+          128.5934
+        ]
+      },
+      {
+        "target_landmark": "안지랑곱창골목",
+        "station_name": "현충로역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 26,
+        "coordinates": [
+          35.846,
+          128.5934
+        ]
+      },
+      {
+        "target_landmark": "물베기거리",
+        "station_name": "영대병원역",
+        "line": "대구 2호선",
+        "exit_no": 9,
+        "walk_minutes": 9,
+        "coordinates": [
+          35.8538,
+          128.5944
+        ]
+      },
+      {
+        "target_landmark": "앞산공원",
+        "station_name": "현충로역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 42,
+        "coordinates": [
+          35.846,
+          128.5934
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남구 중앙 공영주차장",
+        "coordinates": [
+          35.8218,
+          128.578
+        ],
+        "capacity": 469,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남구 제2 공영주차장",
+        "coordinates": [
+          35.817,
+          128.5733
+        ],
+        "capacity": 477,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.702104,
+          128.585691
+        ],
+        "capacity": 5300,
+        "address": "대구광역시 남구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.804017,
+          128.593652
+        ],
+        "capacity": 5200,
+        "address": "대구광역시 남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "앞산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대덕산성",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안지랑곱창골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "물베기거리",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "앞산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "앞산 봄 진달래",
+        "앞산공원 봄꽃"
+      ],
+      "summer": [
+        "앞산 계곡 여름",
+        "물베기거리 여름"
+      ],
+      "autumn": [
+        "앞산 단풍길",
+        "대덕산성 가을"
+      ],
+      "winter": [
+        "앞산 설경",
+        "안지랑곱창골목 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "앞산 야경",
+        "coordinates": [
+          35.819,
+          128.575458
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "앞산공원 야경",
+        "coordinates": [
+          35.823,
+          128.578
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nam-gu, Daegu",
+      "landmarks": {
+        "앞산": [
+          "Apsan Mountain",
+          "Signature downtown mountain south of Daegu with excellent trails."
+        ],
+        "대덕산성": [
+          "Daedeoksanseong Fortress",
+          "Remains of a Three Kingdoms era fortress on the Apsan ridge."
+        ],
+        "안지랑곱창골목": [
+          "Anjirang Gopchang Alley",
+          "Daegu's largest grilled tripe street, a signature food destination."
+        ],
+        "물베기거리": [
+          "Mulbaegi Street",
+          "Distinctive street themed on Daegu's mulbaegi soup culture."
+        ],
+        "앞산공원": [
+          "Apsan Park",
+          "Large urban park at the foot of Apsan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 南区",
+      "landmarks": {
+        "앞산": [
+          "アプサン（前山）",
+          "大邱都心の南に位置する代表的な都心の山。登山道がよく整備されている。"
+        ],
+        "대덕산성": [
+          "大徳山城",
+          "アプサン（前山）の尾根に残る三国時代の山城遺跡。"
+        ],
+        "안지랑곱창골목": [
+          "アンジランコプチャン横丁",
+          "大邱最大のガッ腸グルメストリート。代表的な食の名所。"
+        ],
+        "물베기거리": [
+          "ムルベキストリート",
+          "大邱のムルベキ文化をテーマに造られた特色ある街並み。"
+        ],
+        "앞산공원": [
+          "アプサン公園",
+          "アプサン（前山）のふもとに造成された大型都心公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 南区",
+      "landmarks": {
+        "앞산": [
+          "前山",
+          "大邱市区南部的代表性山丘，步道设施完善。"
+        ],
+        "대덕산성": [
+          "大德山城",
+          "前山山脊上留存的三国时代山城遗迹。"
+        ],
+        "안지랑곱창골목": [
+          "安智郎烤牛肠巷",
+          "大邱最大的烤牛肠美食街，代表性美食胜地。"
+        ],
+        "물베기거리": [
+          "牛骨汤文化街",
+          "以大邱牛骨汤饮食文化打造的特色街区。"
+        ],
+        "앞산공원": [
+          "前山公园",
+          "前山山麓建成的大型城市公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.nam.daegu.kr",
+    "civil_service_center": {
+      "location_name": "남구청 민원실 앞",
+      "coordinates": [
+        128.597889,
+        35.845489
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "053-664-2000",
+      "info": "대구광역시 남구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "남구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.892586,
+      35.448514
+    ],
+    "cctv_zone_count": 302,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "앞산공원",
+    "trail_length_km": 3.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "대구 남구 구민축제",
+    "typical_month": 10,
+    "venue_name": "앞산공원",
+    "venue_coords": [
+      128.892987,
+      35.449414
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "남구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.596889,
+      35.843589
+    ],
+    "reservation_url": "https://www.nam.daegu.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "남구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.599789,
+      35.845589
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "남구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.595289,
+      35.844389
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "안지랑곱창 본점",
+    "coordinates": [
+      128.57531,
+      35.83852
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "편육무침 (남구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=남구청&goalx=128.597889&goaly=35.845489",
+    "kakaonavi_url": "kakaonavi://navigate?name=남구청&x=128.597889&y=35.845489&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=남구청&dlng=128.597889&dlat=35.845489&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 54.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:43",
+      "noon_altitude_deg": 78.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 54.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:30",
+      "sunset": "17:16",
+      "noon_altitude_deg": 31.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "남구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.893686,
+          35.449914
+        ],
+        [
+          128.892586,
+          35.448514
+        ],
+        [
+          128.892286,
+          35.448714
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "남구 중심상업거리",
+    "anchor_center": [
+      128.597689,
+      35.843689
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 200,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
