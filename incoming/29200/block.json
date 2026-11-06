@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "백호생태공원 봄꽃",
+        "수완지구 봄"
+      ],
+      "summer": [
+        "백호생태공원 여름",
+        "첨단지구 여름"
+      ],
+      "autumn": [
+        "백호생태공원 억새",
+        "우수영공원 가을"
+      ],
+      "winter": [
+        "수완지구 겨울 빛축제",
+        "백호생태공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "첨단지구 야경",
+        "coordinates": [
+          35.199,
+          126.809
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "백호생태공원 야경",
+        "coordinates": [
+          35.178,
+          126.78
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "광주 광산구는 첨단지구와 송정역 상권이 자리한 광주 서부의 구이다.",
   "data_sources": [
     {
