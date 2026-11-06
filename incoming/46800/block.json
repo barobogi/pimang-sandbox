@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jangheung-gun, Jeonnam",
+      "landmarks": {
+        "정남진전망대": [
+          "Jeongnamjin Observatory",
+          "Signature observatory attraction of Jangheung-gun, Jeonnam."
+        ],
+        "천관산": [
+          "Cheongwansan Mountain",
+          "Signature mountain attraction of Jangheung-gun, Jeonnam."
+        ],
+        "장흥토요시장": [
+          "Jangheung Saturday Market",
+          "Signature market attraction of Jangheung-gun, Jeonnam."
+        ],
+        "장흥군청": [
+          "Jangheung County Office",
+          "Administrative center of Jangheung-gun, Jeonnam."
+        ],
+        "장흥댐": [
+          "Jangheung Dam",
+          "Signature dam and lake attraction of Jangheung-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 長興郡",
+      "landmarks": {
+        "정남진전망대": [
+          "正南津展望台",
+          "全羅南道長興郡を代表する名所。"
+        ],
+        "천관산": [
+          "天冠山",
+          "全羅南道長興郡を代表する名所。"
+        ],
+        "장흥토요시장": [
+          "長興土曜市場",
+          "全羅南道長興郡を代表する名所。"
+        ],
+        "장흥군청": [
+          "長興郡庁",
+          "全羅南道長興郡を代表する名所。"
+        ],
+        "장흥댐": [
+          "長興ダム",
+          "全羅南道長興郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 长兴郡",
+      "landmarks": {
+        "정남진전망대": [
+          "正南津展望台",
+          "全罗南道长兴郡的代表性展望台。"
+        ],
+        "천관산": [
+          "天冠山",
+          "全罗南道长兴郡的代表性名山。"
+        ],
+        "장흥토요시장": [
+          "长兴周六市场",
+          "全罗南道长兴郡的代表性市场。"
+        ],
+        "장흥군청": [
+          "长兴郡厅",
+          "全罗南道长兴郡的行政中心。"
+        ],
+        "장흥댐": [
+          "长兴大坝",
+          "全罗南道长兴郡的代表性坝湖景观。"
+        ]
+      }
+    }
   }
 }
