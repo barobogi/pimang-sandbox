@@ -282,6 +282,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "월출산 봄",
+        "도갑사 봄"
+      ],
+      "summer": [
+        "영산호 여름",
+        "월출산 계곡 여름"
+      ],
+      "autumn": [
+        "월출산 단풍길",
+        "도갑사 가을"
+      ],
+      "winter": [
+        "월출산 설경",
+        "영산호 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "월출산 야경",
+        "coordinates": [
+          34.766619,
+          126.704043
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "영산호 야경",
+        "coordinates": [
+          34.779158,
+          126.463658
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "영암군은 월출산과 도갑사, 영산호가 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
