@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "여좌천 벚꽃길",
+        "경화역 벚꽃"
+      ],
+      "summer": [
+        "진해만 여름",
+        "여좌천 여름"
+      ],
+      "autumn": [
+        "여좌천 가을",
+        "진해만 가을"
+      ],
+      "winter": [
+        "경화역 설경",
+        "진해만 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "여좌천 야경",
+        "coordinates": [
+          35.163876,
+          128.660552
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "진해만 야경",
+        "coordinates": [
+          35.07967,
+          128.669545
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "진해구는 해군기지와 벚꽃 명소로 유명한 창원 남부의 구로 진해만과 여좌천이 자리한다.",
   "data_sources": [
     {
