@@ -339,6 +339,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -464,5 +469,48 @@
       127.076706,
       37.655366
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "노원구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.055531,
+      37.6532
+    ],
+    "reservation_url": "https://www.nowon.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "노원구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.057431,
+      37.6543
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "노원구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.056031,
+      37.6563
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "중계본동 큰마당식당",
+    "coordinates": [
+      127.07644,
+      37.64342
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "순대국밥 (노원구 지정 모범음식점)"
   }
 }
