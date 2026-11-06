@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "운주사 봄",
+        "화순적벽 봄"
+      ],
+      "summer": [
+        "화순적벽 여름",
+        "운주사 여름"
+      ],
+      "autumn": [
+        "화순적벽 단풍",
+        "화순고인돌유적 가을"
+      ],
+      "winter": [
+        "운주사 설경",
+        "화순적벽 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "화순적벽 야경",
+        "coordinates": [
+          35.103425,
+          127.087624
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "운주사 야경",
+        "coordinates": [
+          34.92552,
+          126.880138
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "화순군은 운주사와 화순고인돌유적, 적벽이 자리한 전남 중부의 군이다.",
   "data_sources": [
     {
