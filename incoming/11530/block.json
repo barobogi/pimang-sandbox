@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Guro-gu, Seoul",
+      "landmarks": {
+        "구로디지털단지": [
+          "Guro Digital Complex",
+          "Former industrial belt reborn as the heart of Korea's IT industry."
+        ],
+        "구로공단": [
+          "Guro Industrial Complex",
+          "National industrial complex that drove Korea's 1970s export boom."
+        ],
+        "고척스카이돔": [
+          "Gocheok Sky Dome",
+          "Korea's first domed baseball stadium."
+        ],
+        "도림천": [
+          "Dorimcheon Stream",
+          "Tributary through Guro-gu with riverside walking trails."
+        ],
+        "가산동 상권": [
+          "Gasan-dong Commercial District",
+          "Major commercial hub centered on Gasan Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 九老区",
+      "landmarks": {
+        "구로디지털단지": [
+          "九老デジタル団地",
+          "旧工業地帯がIT産業の中心として生まれ変わった代表団地。"
+        ],
+        "구로공단": [
+          "九老工団",
+          "1970年代の輸出産業を牽引した国家産業団地。"
+        ],
+        "고척스카이돔": [
+          "高尺スカイドーム",
+          "韓国初のドーム型野球場。"
+        ],
+        "도림천": [
+          "桃林川",
+          "九老区を流れる支流。散歩道が整備されている。"
+        ],
+        "가산동 상권": [
+          "加山洞商圏",
+          "加山駅を中心とする代表的な商業地域。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 九老区",
+      "landmarks": {
+        "구로디지털단지": [
+          "九老数字园区",
+          "由旧工业区蜕变而成的韩国IT产业核心园区。"
+        ],
+        "구로공단": [
+          "九老工业园",
+          "曾引领1970年代出口产业的国家级工业园。"
+        ],
+        "고척스카이돔": [
+          "高尺天空巨蛋",
+          "韩国首座穹顶棒球场。"
+        ],
+        "도림천": [
+          "桃林川",
+          "流经九老区的支流，沿岸建有步道。"
+        ],
+        "가산동 상권": [
+          "加山洞商圈",
+          "以加山站为中心的代表性商业区。"
+        ]
+      }
+    }
   }
 }
