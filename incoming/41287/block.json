@@ -305,6 +305,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "일산호수공원 벚꽃",
+        "고양아람누리 봄"
+      ],
+      "summer": [
+        "킨텍스 여름",
+        "일산호수공원 여름 음악분수"
+      ],
+      "autumn": [
+        "일산호수공원 단풍",
+        "고양아람누리 가을"
+      ],
+      "winter": [
+        "킨텍스 겨울 조명",
+        "일산호수공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "킨텍스 야경",
+        "coordinates": [
+          37.66529,
+          126.748379
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "일산호수공원 야경",
+        "coordinates": [
+          37.658806,
+          126.767244
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "고양 일산서구는 킨텍스와 일산 호수공원이 자리한 고양 서부의 구이다.",
   "data_sources": [
     {
