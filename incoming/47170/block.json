@@ -1,0 +1,581 @@
+{
+  "block_code": "47170",
+  "block_name": "경상북도 안동시",
+  "bbox": [
+    128.429194,
+    36.295066,
+    129.000993,
+    36.823079
+  ],
+  "center": [
+    36.559072,
+    128.715093
+  ],
+  "landmarks": [
+    {
+      "name": "하회마을",
+      "lat": 36.5390268,
+      "lng": 128.5180947,
+      "category": "유네스코/전통마을",
+      "description": "가족 중심 마을과 하회탈로 유명한 유네스코 세계유산 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%98%ED%9A%8C%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 82.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Korea-Andong-Hahoe.Village-02.jpg"
+    },
+    {
+      "name": "도산서원",
+      "lat": 36.7272204,
+      "lng": 128.8435309,
+      "category": "서원/유네스코",
+      "description": "퇴계 이황이 세운 서원으로 유네스코 세계유산에 등재되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%82%B0%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 211.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Korea-Andong-Dosan_Seowon_3025-06.JPG"
+    },
+    {
+      "name": "봉정사",
+      "lat": 36.6532662,
+      "lng": 128.662725,
+      "category": "사찰/문화유산",
+      "description": "국보 극락전이 있는 유서 깊은 대표 사찰이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%EC%A0%95%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 155.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dharma_Wheel_%282%29.svg/1280px-Dharma_Wheel_%282%29.svg.png"
+    },
+    {
+      "name": "병산서원",
+      "lat": 36.542104,
+      "lng": 128.5567718,
+      "category": "서원/유네스코",
+      "description": "류성룡을 기리는 서원으로 유네스코 세계유산에 등재되었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 82.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg/1280px-%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90-1.jpg"
+    },
+    {
+      "name": "월영교",
+      "lat": 36.5766329,
+      "lng": 128.7608879,
+      "category": "교량/문화",
+      "description": "낙동강 위에 복원된 반월형 목교로 야경으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%98%81%EA%B5%90",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 244.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Woryeong_Bridge_Andong.JPG/1280px-Woryeong_Bridge_Andong.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "안동 역사·문화 시그니처 스카이 트레일",
+      "description": "월영교 → 봉정사 → 병산서원 → 하회마을 → 도산서원 순으로 이어지는 경상북도 안동시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "월영교",
+        "봉정사",
+        "병산서원",
+        "하회마을",
+        "도산서원"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "안동 역사문화 스카이 트레일",
+      "description": "하회마을 → 봉정사 → 도산서원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 안동의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "하회마을",
+        "봉정사",
+        "도산서원"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "안동찜닭골목",
+      "lat": 36.5684,
+      "lng": 128.7266,
+      "specialty": "안동찜닭",
+      "category": "향토음식"
+    },
+    {
+      "name": "안동 간고등어집",
+      "lat": 36.565,
+      "lng": 128.721,
+      "specialty": "간고등어구이",
+      "category": "한식"
+    },
+    {
+      "name": "하회마을 떡집",
+      "lat": 36.539,
+      "lng": 128.508,
+      "specialty": "안동손편떡",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "하회마을",
+        "station_name": "하회마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.539027,
+          128.519295
+        ]
+      },
+      {
+        "target_landmark": "도산서원",
+        "station_name": "도산서원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.72722,
+          128.844731
+        ]
+      },
+      {
+        "target_landmark": "봉정사",
+        "station_name": "봉정사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.653266,
+          128.663925
+        ]
+      },
+      {
+        "target_landmark": "병산서원",
+        "station_name": "병산서원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.542104,
+          128.557972
+        ]
+      },
+      {
+        "target_landmark": "월영교",
+        "station_name": "월영교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.576633,
+          128.762088
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "안동 중앙 공영주차장",
+        "coordinates": [
+          36.576233,
+          128.763288
+        ],
+        "capacity": 428,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "안동 제2 공영주차장",
+        "coordinates": [
+          36.651666,
+          128.661125
+        ],
+        "capacity": 391,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "안동 제3 공영주차장",
+        "coordinates": [
+          36.542904,
+          128.557172
+        ],
+        "capacity": 257,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "안동초등학교 운동장",
+        "coordinates": [
+          36.519023,
+          128.461363
+        ],
+        "capacity": 5200,
+        "address": "경상북도 안동시"
+      },
+      {
+        "name": "안동실내체육관",
+        "coordinates": [
+          36.791298,
+          128.893375
+        ],
+        "capacity": 3900,
+        "address": "경상북도 안동시"
+      },
+      {
+        "name": "안동중앙공원 비상집합장소",
+        "coordinates": [
+          36.599506,
+          128.698733
+        ],
+        "capacity": 5700,
+        "address": "경상북도 안동시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "하회마을",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "도산서원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "봉정사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "병산서원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "월영교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "하회마을 봄",
+        "도산서원 봄"
+      ],
+      "summer": [
+        "하회마을 여름",
+        "월영교 여름밤"
+      ],
+      "autumn": [
+        "도산서원 단풍",
+        "병산서원 가을"
+      ],
+      "winter": [
+        "하회마을 설경",
+        "월영교 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "월영교 야경",
+        "coordinates": [
+          36.576633,
+          128.760888
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "하회마을 야경",
+        "coordinates": [
+          36.539027,
+          128.518095
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "안동시는 조선 시대 성리학의 본산이었던 유서 깊은 도시로 하회마을과 도산서원, 병산서원, 봉정사 등 유네스코 세계유산을 품은 경북 북부의 대표 문화 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Andong-si, Gyeongbuk",
+      "landmarks": {
+        "하회마을": [
+          "Hahoe Village",
+          "UNESCO World Heritage village famed for its clan-centered layout and Hahoe masks."
+        ],
+        "도산서원": [
+          "Dosan Seowon",
+          "Confucian academy founded by Yi Hwang (Toegye), inscribed on UNESCO's World Heritage list."
+        ],
+        "봉정사": [
+          "Bongjeongsa Temple",
+          "Historic temple home to the National Treasure Geukrakjeon Hall."
+        ],
+        "병산서원": [
+          "Byeongsan Seowon",
+          "Academy honoring Yu Seong-ryong, inscribed on UNESCO's World Heritage list."
+        ],
+        "월영교": [
+          "Woryeonggyo Bridge",
+          "Restored half-moon wooden bridge over the Nakdong River, famed for night views."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 安東市",
+      "landmarks": {
+        "하회마을": [
+          "河回村",
+          "家族中心の村と河回仮面で有名なユネスコ世界遺産の村。"
+        ],
+        "도산서원": [
+          "陶山書院",
+          "退渓李滉が建てた書院。ユネスコ世界遺産に登録された。"
+        ],
+        "봉정사": [
+          "鳳停寺",
+          "国宝・極楽殿のある由緒ある代表的な寺。"
+        ],
+        "병산서원": [
+          "屏山書院",
+          "柳成龍を顕彰する書院。ユネスコ世界遺産に登録された。"
+        ],
+        "월영교": [
+          "月影橋",
+          "洛東江に復元された半月形の木橋。夜景で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 安东市",
+      "landmarks": {
+        "하회마을": [
+          "河回村",
+          "以氏族村落格局和河回面具闻名的联合国教科文组织世界遗产村。"
+        ],
+        "도산서원": [
+          "陶山书院",
+          "退溪李滉创立的书院，列入联合国教科文组织世界遗产。"
+        ],
+        "봉정사": [
+          "凤停寺",
+          "拥有国宝极乐殿的历史名刹。"
+        ],
+        "병산서원": [
+          "屏山书院",
+          "纪念柳成龙的书院，列入联合国教科文组织世界遗产。"
+        ],
+        "월영교": [
+          "月影桥",
+          "洛东江上复原的半月形木桥，以夜景闻名。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.andong.go.kr",
+    "civil_service_center": {
+      "location_name": "안동시청 민원실 앞",
+      "coordinates": [
+        128.752599,
+        36.605722
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-840-6114",
+      "info": "경상북도 안동시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "안동시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.715693,
+      36.559272
+    ],
+    "cctv_zone_count": 291,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "안동 중앙근린공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "안동국제탈춤페스티벌",
+    "typical_month": 10,
+    "venue_name": "안동 탈춤공원",
+    "venue_coords": [
+      128.714693,
+      36.558872
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "안동시 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.753399,
+      36.607022
+    ],
+    "reservation_url": "https://www.andong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "안동시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.750999,
+      36.603322
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "안동시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.755399,
+      36.608422
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "안동찜닭골목",
+    "coordinates": [
+      128.7266,
+      36.5684
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "안동찜닭 (안동시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=안동시청&goalx=128.752599&goaly=36.605722",
+    "kakaonavi_url": "kakaonavi://navigate?name=안동시청&x=128.752599&y=36.605722&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=안동시청&dlng=128.752599&dlat=36.605722&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:37",
+      "noon_altitude_deg": 53.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:46",
+      "noon_altitude_deg": 76.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:22",
+      "noon_altitude_deg": 53.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:34",
+      "sunset": "17:13",
+      "noon_altitude_deg": 30.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "안동시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.715993,
+          36.560222
+        ],
+        [
+          128.715693,
+          36.559272
+        ],
+        [
+          128.716293,
+          36.558272
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "안동 구시장 찜닭골목 테마길",
+    "anchor_center": [
+      128.754466,
+      36.604122
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 10,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
