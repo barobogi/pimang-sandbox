@@ -140,6 +140,97 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동대문디자인플라자",
+        "station_name": "제기동역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.5782,
+          127.0339
+        ]
+      },
+      {
+        "target_landmark": "동대문종합시장",
+        "station_name": "제기동역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5782,
+          127.0339
+        ]
+      },
+      {
+        "target_landmark": "경동시장",
+        "station_name": "제기동역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.5782,
+          127.0339
+        ]
+      },
+      {
+        "target_landmark": "서울시립대학교",
+        "station_name": "신설동역",
+        "line": "서울 1·2호선",
+        "exit_no": 3,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.5803,
+          127.078112
+        ]
+      },
+      {
+        "target_landmark": "동대문현대시티",
+        "station_name": "제기동역",
+        "line": "서울 1호선",
+        "exit_no": 3,
+        "walk_minutes": 15,
+        "coordinates": [
+          37.5782,
+          127.0339
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동대문 중앙 공영주차장",
+        "coordinates": [
+          37.581439,
+          127.057586
+        ],
+        "capacity": 63,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동대문 제2 공영주차장",
+        "coordinates": [
+          37.578528,
+          127.040751
+        ],
+        "capacity": 425,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동대문 제3 공영주차장",
+        "coordinates": [
+          37.5682,
+          127.0413
+        ],
+        "capacity": 53,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "동대문구는 조선 시대 흥인지문 밖 시전에서 발달해 근현대 패션 도매 시장과 청량리 상권이 서울 최대 물류·상업 거점으로 성장한 자치구이며, 동대문디자인플라자가 세계적 디자인 랜드마크로 자리했다.",
   "data_sources": [
     {
