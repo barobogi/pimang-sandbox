@@ -364,5 +364,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Haeundae-gu, Busan",
+      "landmarks": {
+        "해운대해수욕장": [
+          "Haeundae Beach",
+          "Korea's most celebrated beach, the country's signature seaside resort."
+        ],
+        "센텀시티": [
+          "Centum City",
+          "Large shopping complex at the heart of the Haeundae new town."
+        ],
+        "동백섬": [
+          "Dongbaek Island",
+          "Pine-covered island adjoining Haeundae Beach."
+        ],
+        "달맞이길": [
+          "Dalmaji Hill",
+          "Haeundae's signature drive, also famed for cherry blossoms."
+        ],
+        "해운대시장": [
+          "Haeundae Market",
+          "Traditional market famous for its street food."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 海雲台区",
+      "landmarks": {
+        "해운대해수욕장": [
+          "海雲台海水浴場",
+          "韓国一と称される代表的なビーチ。"
+        ],
+        "센텀시티": [
+          "センタムシティ",
+          "海雲台新都市の大型複合ショッピングモール。"
+        ],
+        "동백섬": [
+          "冬柏島",
+          "海雲台ビーチの横に浮かぶ松の島の名所。"
+        ],
+        "달맞이길": [
+          "月見嶺",
+          "海雲台を代表するドライブコースで、桜の名所としても有名。"
+        ],
+        "해운대시장": [
+          "海雲台市場",
+          "海雲台の伝統市場で、屋台グルメの名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 海云台区",
+      "landmarks": {
+        "해운대해수욕장": [
+          "海云台海水浴场",
+          "被誉为韩国最佳海滩的代表性海滨浴场。"
+        ],
+        "센텀시티": [
+          "新世界Centum City",
+          "海云台新城的大型复合购物中心。"
+        ],
+        "동백섬": [
+          "冬柏岛",
+          "海云台海滨旁的松树小岛名胜。"
+        ],
+        "달맞이길": [
+          "迎月路",
+          "海云台代表性兜风路线，也是赏樱胜地。"
+        ],
+        "해운대시장": [
+          "海云台市场",
+          "海云台传统市场，美食小吃闻名。"
+        ]
+      }
+    }
   }
 }
