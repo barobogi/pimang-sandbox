@@ -344,6 +344,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -469,5 +474,48 @@
       127.437721,
       36.88092
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "진천군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.434727,
+      36.855731
+    ],
+    "reservation_url": "https://www.jincheon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "진천군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.434427,
+      36.854931
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "진천군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.432727,
+      36.855731
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "진천 본점",
+    "coordinates": [
+      127.45117,
+      36.860189
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (진천군 지정 모범음식점)"
   }
 }
