@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seodaemun-gu, Seoul",
+      "landmarks": {
+        "독립문": [
+          "Independence Gate",
+          "Monument symbolizing Korea's independence, built in the Korean Empire era."
+        ],
+        "서대문형무소역사관": [
+          "Seodaemun Prison History Hall",
+          "Museum preserving the Japanese colonial-era prison."
+        ],
+        "연세대학교": [
+          "Yonsei University",
+          "Korea's leading private university with its campus in Sinchon."
+        ],
+        "이화여자대학교": [
+          "Ewha Womans University",
+          "World's largest women's university and iconic campus landmark."
+        ],
+        "홍제천": [
+          "Hongjecheon Stream",
+          "Tributary stream through Seodaemun-gu with walking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 西大門区",
+      "landmarks": {
+        "독립문": [
+          "独立門",
+          "大韓帝国時代に建てられた独立の象徴。"
+        ],
+        "서대문형무소역사관": [
+          "西大門刑務所歴史館",
+          "日本統治時代の刑務所を保存・展示する歴史館。"
+        ],
+        "연세대학교": [
+          "延世大学校",
+          "新村にキャンパスを構える韓国を代表する私立大学。"
+        ],
+        "이화여자대학교": [
+          "梨花女子大学校",
+          "世界最大の女子大学で代表的なキャンパスランドマーク。"
+        ],
+        "홍제천": [
+          "弘済川",
+          "西大門区を流れる支流。散歩道が整備されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 西大门区",
+      "landmarks": {
+        "독립문": [
+          "独立门",
+          "大韩帝国时期建造的独立象征建筑。"
+        ],
+        "서대문형무소역사관": [
+          "西大门刑务所历史馆",
+          "保存并展示日据时期监狱的历史馆。"
+        ],
+        "연세대학교": [
+          "延世大学",
+          "位于新村的韩国顶尖私立大学。"
+        ],
+        "이화여자대학교": [
+          "梨花女子大学",
+          "世界规模最大的女子大学，校园是标志性景观。"
+        ],
+        "홍제천": [
+          "弘济川",
+          "流经西大门区的支流，沿岸设有步道。"
+        ]
+      }
+    }
   }
 }
