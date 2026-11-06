@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "조선대학교",
+        "station_name": "남구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 35,
+        "coordinates": [
+          35.1258,
+          126.9072
+        ]
+      },
+      {
+        "target_landmark": "백운공원",
+        "station_name": "남구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 7,
+        "coordinates": [
+          35.1258,
+          126.9072
+        ]
+      },
+      {
+        "target_landmark": "월봉로 상권",
+        "station_name": "남구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 30,
+        "coordinates": [
+          35.1258,
+          126.9072
+        ]
+      },
+      {
+        "target_landmark": "남광주역 상권",
+        "station_name": "남구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.1258,
+          126.9072
+        ]
+      },
+      {
+        "target_landmark": "증심사",
+        "station_name": "남구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 29,
+        "coordinates": [
+          35.1258,
+          126.9072
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남구 중앙 공영주차장",
+        "coordinates": [
+          35.125,
+          126.908
+        ],
+        "capacity": 86,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남구 제2 공영주차장",
+        "coordinates": [
+          35.1252,
+          126.91
+        ],
+        "capacity": 193,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "남구 제3 공영주차장",
+        "coordinates": [
+          35.1426,
+          126.9166
+        ],
+        "capacity": 210,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "광주 남구는 조선대학교와 백운공원이 자리한 광주 남부의 교육 주거 구이다.",
   "data_sources": [
     {
