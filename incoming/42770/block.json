@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "정선초등학교 운동장",
+        "coordinates": [
+          37.289289,
+          128.764893
+        ],
+        "capacity": 5800,
+        "address": "강원특별자치도 정선군"
+      },
+      {
+        "name": "정선실내체육관",
+        "coordinates": [
+          37.237788,
+          128.948977
+        ],
+        "capacity": 3300,
+        "address": "강원특별자치도 정선군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "화암동굴",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정암사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정선시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정선군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "정선군은 아리랑의 고장이자 정암사와 화암동굴, 동강 래프팅이 유명한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
