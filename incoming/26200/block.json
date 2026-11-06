@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영도초등학교 운동장",
+        "coordinates": [
+          35.071471,
+          129.04206
+        ],
+        "capacity": 6200,
+        "address": "부산광역시 영도구"
+      },
+      {
+        "name": "영도실내체육관",
+        "coordinates": [
+          35.079827,
+          129.084474
+        ],
+        "capacity": 4800,
+        "address": "부산광역시 영도구"
+      },
+      {
+        "name": "영도중앙공원 비상집합장소",
+        "coordinates": [
+          35.100755,
+          129.061527
+        ],
+        "capacity": 6100,
+        "address": "부산광역시 영도구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "흰여울문화마을",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태종대",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봉래산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "현대미포조선소",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영도대교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "부산 영도구는 영도섬을 중심으로 한 구로 태종대와 흰여울문화마을, 옛 항만 문화가 함께한다.",
   "data_sources": [
     {
