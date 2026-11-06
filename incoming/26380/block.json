@@ -1,0 +1,579 @@
+{
+  "block_code": "26380",
+  "block_name": "부산광역시 사하구",
+  "bbox": [
+    128.92209,
+    34.72525,
+    129.065839,
+    35.126734
+  ],
+  "center": [
+    34.925992,
+    128.993965
+  ],
+  "landmarks": [
+    {
+      "name": "감천문화마을",
+      "lat": 35.0963371,
+      "lng": 129.0087897,
+      "category": "문화마을",
+      "description": "산복도로에 계단식 집들이 어우러진 대표 벽화 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 184.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gamcheon_Colored_Houses%2C_Busan%2C_Korea.jpg"
+    },
+    {
+      "name": "다대포해수욕장",
+      "lat": 35.0468397,
+      "lng": 128.9640378,
+      "category": "해수욕장",
+      "description": "부산 서쪽 끝의 해수욕장으로 낙동강 하구와 맞닿아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%8C%80%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 168.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dadaepo_Beach_1.jpg/1280px-Dadaepo_Beach_1.jpg"
+    },
+    {
+      "name": "을숙도",
+      "lat": 35.1019406,
+      "lng": 128.9409327,
+      "category": "생태/공원",
+      "description": "낙동강 하구 철새 도래지이자 생태공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%84%EC%88%99%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 166.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Saha-gu_eulsuk-do.jpg/1280px-Saha-gu_eulsuk-do.jpg"
+    },
+    {
+      "name": "구평공원",
+      "lat": 35.101,
+      "lng": 128.977,
+      "category": "공원",
+      "description": "사하구 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 175.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Busan_Saha-gu.svg/1280px-Busan_Saha-gu.svg.png"
+    },
+    {
+      "name": "하단동 상권",
+      "lat": 35.105,
+      "lng": 128.972,
+      "category": "상권",
+      "description": "하단동에 형성된 사하구 최대 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%95%98%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 174.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Busan-saha.png/1280px-Busan-saha.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "사하 자연 힐링 시그니처 에어리얼 투어",
+      "description": "다대포해수욕장 → 구평공원 → 하단동 상권 → 을숙도 → 감천문화마을 순으로 이어지는 부산광역시 사하구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "다대포해수욕장",
+        "구평공원",
+        "하단동 상권",
+        "을숙도",
+        "감천문화마을"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "사하 그린 랜드스케이프 플라이트",
+      "description": "을숙도 → 하단동 상권 → 구평공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 사하의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "을숙도",
+        "하단동 상권",
+        "구평공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "다대포해수욕장 솥뚜껑가게",
+      "lat": 35.04698,
+      "lng": 128.964668,
+      "specialty": "돼지국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "감천문화마을 할매집",
+      "lat": 35.095917,
+      "lng": 129.00949,
+      "specialty": "밀면",
+      "category": "향토음식"
+    },
+    {
+      "name": "구평공원 가마솥밥가",
+      "lat": 35.10163,
+      "lng": 128.97651,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "하단동 상권 옛맛식당",
+      "lat": 35.10563,
+      "lng": 128.97165,
+      "specialty": "조개구이",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "감천문화마을",
+        "station_name": "하단역",
+        "line": "부산 1호선",
+        "exit_no": 4,
+        "walk_minutes": 49,
+        "coordinates": [
+          35.126334,
+          129.0161
+        ]
+      },
+      {
+        "target_landmark": "다대포해수욕장",
+        "station_name": "다대포해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.04484,
+          128.962038
+        ]
+      },
+      {
+        "target_landmark": "을숙도",
+        "station_name": "을숙도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.099941,
+          128.938933
+        ]
+      },
+      {
+        "target_landmark": "구평공원",
+        "station_name": "구평공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.099,
+          128.975
+        ]
+      },
+      {
+        "target_landmark": "하단동 상권",
+        "station_name": "하단동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.103,
+          128.97
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "사하 중앙 공영주차장",
+        "coordinates": [
+          35.04684,
+          128.966038
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "사하 제2 공영주차장",
+        "coordinates": [
+          35.094737,
+          129.00919
+        ],
+        "capacity": 438,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "사하초등학교 운동장",
+        "coordinates": [
+          35.109782,
+          129.021589
+        ],
+        "capacity": 5600,
+        "address": "부산광역시 사하구"
+      },
+      {
+        "name": "사하실내체육관",
+        "coordinates": [
+          34.993483,
+          128.982932
+        ],
+        "capacity": 5800,
+        "address": "부산광역시 사하구"
+      },
+      {
+        "name": "사하중앙공원 비상집합장소",
+        "coordinates": [
+          35.044247,
+          128.928912
+        ],
+        "capacity": 6800,
+        "address": "부산광역시 사하구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "감천문화마을",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "다대포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "을숙도",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구평공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "하단동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "감천문화마을 봄 골목",
+        "을숙도 벚꽃"
+      ],
+      "summer": [
+        "다대포해수욕장 여름",
+        "을숙도 여름"
+      ],
+      "autumn": [
+        "을숙도 억새",
+        "감천문화마을 가을"
+      ],
+      "winter": [
+        "감천문화마을 겨울",
+        "다대포해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "감천문화마을 야경",
+        "coordinates": [
+          35.096337,
+          129.00879
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "다대포해수욕장 야경",
+        "coordinates": [
+          35.04684,
+          128.964038
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "부산 사하구는 감천문화마을과 다대포, 을숙도가 자리한 부산 서부의 해안 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Saha-gu, Busan",
+      "landmarks": {
+        "감천문화마을": [
+          "Gamcheon Culture Village",
+          "Village of terraced houses and murals along the hillside roads."
+        ],
+        "다대포해수욕장": [
+          "Dadaepo Beach",
+          "Beach at Busan's western end, meeting the Nakdong River estuary."
+        ],
+        "을숙도": [
+          "Eulsukdo Island",
+          "Migratory bird sanctuary and ecological park on the Nakdong estuary."
+        ],
+        "구평공원": [
+          "Gupyeong Park",
+          "Signature neighborhood park of Saha-gu."
+        ],
+        "하단동 상권": [
+          "Hadandong District",
+          "Largest commercial hub of Saha-gu in Hadan-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 沙下区",
+      "landmarks": {
+        "감천문화마을": [
+          "甘川文化村",
+          "山腹道路に段々状の家々と壁画が調和する代表的な壁画村。"
+        ],
+        "다대포해수욕장": [
+          "多大浦海水浴場",
+          "釜山の西の果てにある海水浴場。洛東江河口に面する。"
+        ],
+        "을숙도": [
+          "乙淑島",
+          "洛東江河の口の渡り鳥飛来地であり生態公園。"
+        ],
+        "구평공원": [
+          "亀坪公園",
+          "沙下区を代表する近隣公園。"
+        ],
+        "하단동 상권": [
+          "下端洞商圏",
+          "下端洞に形成された沙下区最大の商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 沙下区",
+      "landmarks": {
+        "감천문화마을": [
+          "甘川文化村",
+          "山腰道上阶梯式房屋与壁画交织的代表性文化村。"
+        ],
+        "다대포해수욕장": [
+          "多大浦海水浴场",
+          "位于釜山西端，紧邻洛东江入海口。"
+        ],
+        "을숙도": [
+          "乙淑岛",
+          "洛东江口候鸟栖息地，建有生态公园。"
+        ],
+        "구평공원": [
+          "龟坪公园",
+          "沙下区的代表性近邻公园。"
+        ],
+        "하단동 상권": [
+          "下端洞商圈",
+          "下端洞形成的沙下区最大商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.saha.go.kr",
+    "civil_service_center": {
+      "location_name": "사하구청 민원실 앞",
+      "coordinates": [
+        128.975955,
+        35.102923
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "051-220-4000",
+      "info": "부산광역시 사하구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "사하구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.994464,
+      34.926392
+    ],
+    "cctv_zone_count": 182,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "을숙도공원",
+    "trail_length_km": 2.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "다대포 해넘이축제",
+    "typical_month": 12,
+    "venue_name": "을숙도공원",
+    "venue_coords": [
+      128.993664,
+      34.925392
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "사하구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.973555,
+      35.102523
+    ],
+    "reservation_url": "https://www.saha.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "사하구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.975855,
+      35.102823
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "사하구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.973755,
+      35.100123
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "하단동 상권 옛맛식당",
+    "coordinates": [
+      128.97165,
+      35.10563
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "조개구이 (사하구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=사하구청&goalx=128.975955&goaly=35.102923",
+    "kakaonavi_url": "kakaonavi://navigate?name=사하구청&x=128.975955&y=35.102923&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=사하구청&dlng=128.975955&dlat=35.102923&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:27",
+      "sunset": "18:36",
+      "noon_altitude_deg": 55.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:41",
+      "noon_altitude_deg": 78.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:12",
+      "sunset": "18:21",
+      "noon_altitude_deg": 55.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:28",
+      "sunset": "17:17",
+      "noon_altitude_deg": 31.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "사하구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.993364,
+          34.925642
+        ],
+        [
+          128.994464,
+          34.926392
+        ],
+        [
+          128.994364,
+          34.927642
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "사하구 중심상업거리",
+    "anchor_center": [
+      128.976288,
+      35.103656
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 100,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
