@@ -274,6 +274,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "팔영산 봄",
+        "소록도 봄"
+      ],
+      "summer": [
+        "팔영산 여름",
+        "고흥 해변 여름"
+      ],
+      "autumn": [
+        "팔영산 단풍",
+        "나로우주센터 가을"
+      ],
+      "winter": [
+        "소록도 겨울",
+        "팔영산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "나로우주센터 야경",
+        "coordinates": [
+          34.438104,
+          127.52557
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "팔영산 야경",
+        "coordinates": [
+          34.617153,
+          127.436444
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "고흥군은 나로우주센터와 팔영산, 금산? 아니라 소록도가 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
