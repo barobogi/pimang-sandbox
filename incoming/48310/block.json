@@ -137,6 +137,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "저구해수욕장",
+        "station_name": "저구해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.8612,
+          128.6374
+        ]
+      },
+      {
+        "target_landmark": "학동몽돌해안",
+        "station_name": "거제버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.83,
+          128.6996
+        ]
+      },
+      {
+        "target_landmark": "외도전망대",
+        "station_name": "외도전망대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.8452,
+          128.7344
+        ]
+      },
+      {
+        "target_landmark": "가조해수욕장",
+        "station_name": "거제버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 42,
+        "coordinates": [
+          34.83,
+          128.6996
+        ]
+      },
+      {
+        "target_landmark": "삼성중공업 거제조선소",
+        "station_name": "삼성중공업 거제조선소 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.90597,
+          128.58429
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "거제 중앙 공영주차장",
+        "coordinates": [
+          34.8272,
+          128.7008
+        ],
+        "capacity": 193,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "거제 제2 공영주차장",
+        "coordinates": [
+          34.8456,
+          128.736
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "거제 제3 공영주차장",
+        "coordinates": [
+          34.8534,
+          128.7116
+        ],
+        "capacity": 62,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "거제시는 거제도를 중심으로 한 남해안의 섬 도시로 몽돌해안과 해수욕장 등의 자연 명소와 함께 근현대 조선 산업과 포로수용소의 역사가 함께한다.",
   "data_sources": [
     {
