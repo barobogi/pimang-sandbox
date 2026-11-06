@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "마이산",
+        "station_name": "마이산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.766988,
+          127.416566
+        ]
+      },
+      {
+        "target_landmark": "용담호",
+        "station_name": "용담호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.894209,
+          127.497392
+        ]
+      },
+      {
+        "target_landmark": "진안군청",
+        "station_name": "진안군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.792063,
+          127.426812
+        ]
+      },
+      {
+        "target_landmark": "진안시장",
+        "station_name": "진안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.826096,
+          127.445068
+        ]
+      },
+      {
+        "target_landmark": "마이산탑사",
+        "station_name": "마이산탑사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.75902,
+          127.413787
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "진안 중앙 공영주차장",
+        "coordinates": [
+          35.823296,
+          127.447468
+        ],
+        "capacity": 194,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "진안 제2 공영주차장",
+        "coordinates": [
+          35.794063,
+          127.424812
+        ],
+        "capacity": 142,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "진안 제3 공영주차장",
+        "coordinates": [
+          35.765388,
+          127.414966
+        ],
+        "capacity": 329,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "진안군은 마이산과 용담호, 진안고원이 자리한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
