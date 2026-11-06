@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "산정호수",
+        "station_name": "산정호수 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.070156,
+          127.320963
+        ]
+      },
+      {
+        "target_landmark": "한탄강",
+        "station_name": "한탄강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.072397,
+          127.208737
+        ]
+      },
+      {
+        "target_landmark": "일동허브밸리",
+        "station_name": "포천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.0296,
+          127.202
+        ]
+      },
+      {
+        "target_landmark": "포천시청",
+        "station_name": "포천시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.894131,
+          127.200352
+        ]
+      },
+      {
+        "target_landmark": "운악산",
+        "station_name": "운악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.87789,
+          127.32288
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "포천 중앙 공영주차장",
+        "coordinates": [
+          38.0316,
+          127.1984
+        ],
+        "capacity": 224,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "포천 제2 공영주차장",
+        "coordinates": [
+          37.894531,
+          127.201152
+        ],
+        "capacity": 51,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "포천 제3 공영주차장",
+        "coordinates": [
+          37.87989,
+          127.32248
+        ],
+        "capacity": 287,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "경기 포천시는 산정호수와 한탄강이 함께한 경기 북동부의 도시이다.",
   "data_sources": [
     {
