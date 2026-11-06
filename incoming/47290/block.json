@@ -1,0 +1,593 @@
+{
+  "block_code": "47290",
+  "block_name": "경상북도 경산시",
+  "bbox": [
+    128.681615,
+    35.700076,
+    128.971381,
+    35.993945
+  ],
+  "center": [
+    35.847011,
+    128.826498
+  ],
+  "landmarks": [
+    {
+      "name": "영남대학교",
+      "lat": 35.828022,
+      "lng": 128.7572223,
+      "category": "교육/캠퍼스",
+      "description": "영남대학교은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 71.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%98%81%EB%82%A8%EB%8C%80%EC%97%AD_3%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg/1280px-%EC%98%81%EB%82%A8%EB%8C%80%EC%97%AD_3%EB%B2%88_%EC%B6%9C%EA%B5%AC.jpg"
+    },
+    {
+      "name": "자인단오제전수교육관",
+      "lat": 35.8178398,
+      "lng": 128.8190006,
+      "category": "문화/전통",
+      "description": "자인단오제전수교육관은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 11.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gyeongsan_City_Hall.JPG/1280px-Gyeongsan_City_Hall.JPG"
+    },
+    {
+      "name": "경산시청",
+      "lat": 35.8250934,
+      "lng": 128.741514,
+      "category": "행정/랜드마크",
+      "description": "경산시청은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 72.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gyeongsan_City_Hall.JPG/1280px-Gyeongsan_City_Hall.JPG"
+    },
+    {
+      "name": "경산시장",
+      "lat": 35.8233496,
+      "lng": 128.7360747,
+      "category": "시장/먹거리",
+      "description": "경산시장은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%82%B0%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 72.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%EA%B2%BD%EC%82%B0%EB%B2%84%EC%8A%A4_918%EB%B2%88_7392%ED%98%B8_NEW_BS106_%282%29.jpg/1280px-%EA%B2%BD%EC%82%B0%EB%B2%84%EC%8A%A4_918%EB%B2%88_7392%ED%98%B8_NEW_BS106_%282%29.jpg"
+    },
+    {
+      "name": "남매탑",
+      "lat": 35.8274351,
+      "lng": 128.7445179,
+      "category": "문화유산/불교",
+      "description": "남매탑은(는) 경상북도 경산시의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%A7%A4%ED%83%91",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 73.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%ED%83%9120221110_123409.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "경산 자연 힐링 시그니처 에어리얼 투어",
+      "description": "자인단오제전수교육관 → 영남대학교 → 남매탑 → 경산시청 → 경산시장 순으로 이어지는 경상북도 경산시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "자인단오제전수교육관",
+        "영남대학교",
+        "남매탑",
+        "경산시청",
+        "경산시장"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "경산 그린 랜드스케이프 플라이트",
+      "description": "남매탑 → 경산시청 → 경산시장 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 경산의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "남매탑",
+        "경산시청",
+        "경산시장"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "경산 도심 스카이라인 크루즈",
+      "description": "영남대학교 → 남매탑 → 경산시장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 경산의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "영남대학교",
+        "남매탑",
+        "경산시장"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "경산 가마솥밥가",
+      "lat": 35.82328,
+      "lng": 128.736355,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "경산 동네밥집",
+      "lat": 35.823,
+      "lng": 128.735375,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "경산 골목식당",
+      "lat": 35.82342,
+      "lng": 128.735445,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "경산 옛맛식당",
+      "lat": 35.823,
+      "lng": 128.736425,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "영남대학교",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 23,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      },
+      {
+        "target_landmark": "자인단오제전수교육관",
+        "station_name": "자인단오제전수교육관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.81544,
+          128.816201
+        ]
+      },
+      {
+        "target_landmark": "경산시청",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 6,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      },
+      {
+        "target_landmark": "경산시장",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 8,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      },
+      {
+        "target_landmark": "남매탑",
+        "station_name": "경산역",
+        "line": "대구 1호선",
+        "exit_no": 4,
+        "walk_minutes": 11,
+        "coordinates": [
+          35.8211,
+          128.7417
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "경산 중앙 공영주차장",
+        "coordinates": [
+          35.81944,
+          128.817401
+        ],
+        "capacity": 405,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "경산 제2 공영주차장",
+        "coordinates": [
+          35.826822,
+          128.758822
+        ],
+        "capacity": 317,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "경산 제3 공영주차장",
+        "coordinates": [
+          35.825435,
+          128.745318
+        ],
+        "capacity": 283,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "경산초등학교 운동장",
+        "coordinates": [
+          35.842078,
+          128.782923
+        ],
+        "capacity": 5700,
+        "address": "경상북도 경산시"
+      },
+      {
+        "name": "경산실내체육관",
+        "coordinates": [
+          35.784049,
+          128.856676
+        ],
+        "capacity": 2300,
+        "address": "경상북도 경산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "영남대학교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "자인단오제전수교육관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "경산시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "경산시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남매탑",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "영남대 캠퍼스 봄",
+        "남매탑 봄"
+      ],
+      "summer": [
+        "경산시장 여름 야시장",
+        "영남대 캠퍼스 여름"
+      ],
+      "autumn": [
+        "영남대 캠퍼스 단풍",
+        "자인단오제전수교육관 가을"
+      ],
+      "winter": [
+        "경산시장 겨울",
+        "남매탑 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "영남대 캠퍼스 야경",
+        "coordinates": [
+          35.828022,
+          128.757222
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "경산시장 야시장",
+        "coordinates": [
+          35.82335,
+          128.736075
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "경산시는 대구 인접의 위성 도시로 영남대학교와 자인단오제가 유명하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gyeongsan-si, Gyeongbuk",
+      "landmarks": {
+        "영남대학교": [
+          "Yeungnam University",
+          "Signature university attraction of Gyeongsan-si, Gyeongbuk."
+        ],
+        "자인단오제전수교육관": [
+          "Jain Danoje Training Center",
+          "Signature cultural attraction of Gyeongsan-si, Gyeongbuk."
+        ],
+        "경산시청": [
+          "Gyeongsan City Hall",
+          "Administrative center of Gyeongsan-si, Gyeongbuk."
+        ],
+        "경산시장": [
+          "Gyeongsan Market",
+          "Signature market attraction of Gyeongsan-si, Gyeongbuk."
+        ],
+        "남매탑": [
+          "Nammaetap Pagoda",
+          "Signature Buddhist pagoda heritage of Gyeongsan-si, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 慶山市",
+      "landmarks": {
+        "영남대학교": [
+          "嶺南大学校",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "자인단오제전수교육관": [
+          "自在端午祭伝習教育館",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "경산시청": [
+          "慶山市庁",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "경산시장": [
+          "慶山市場",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "남매탑": [
+          "南梅塔",
+          "慶尚北道慶山市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 庆山市",
+      "landmarks": {
+        "영남대학교": [
+          "岭南大学",
+          "庆尚北道庆山市的代表性高校。"
+        ],
+        "자인단오제전수교육관": [
+          "自印端午祭传习教育馆",
+          "庆尚北道庆山市的代表性文化设施。"
+        ],
+        "경산시청": [
+          "庆山市厅",
+          "庆尚北道庆山市的行政中心。"
+        ],
+        "경산시장": [
+          "庆山市场",
+          "庆尚北道庆山市的代表性市场。"
+        ],
+        "남매탑": [
+          "南梅塔",
+          "庆尚北道庆山市的代表性佛塔。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gbgs.go.kr",
+    "civil_service_center": {
+      "location_name": "경산시청 민원실 앞",
+      "coordinates": [
+        128.741433,
+        35.825097
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "053-811-2231",
+      "info": "경상북도 경산시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "경산시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.826898,
+      35.84671
+    ],
+    "cctv_zone_count": 452,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "경산 시민공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "자인단오 한장군놀이",
+    "typical_month": 6,
+    "venue_name": "경산 시민공원",
+    "venue_coords": [
+      128.826298,
+      35.84641
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "경산시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.743733,
+      35.827997
+    ],
+    "reservation_url": "https://www.gbgs.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "경산시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.742933,
+      35.824497
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "경산시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.740533,
+      35.825697
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "경산 동네밥집",
+    "coordinates": [
+      128.735375,
+      35.823
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (경산시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=경산시청&goalx=128.741433&goaly=35.825097",
+    "kakaonavi_url": "kakaonavi://navigate?name=경산시청&x=128.741433&y=35.825097&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=경산시청&dlng=128.741433&dlat=35.825097&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 54.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:08",
+      "sunset": "19:44",
+      "noon_altitude_deg": 77.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 54.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:32",
+      "sunset": "17:15",
+      "noon_altitude_deg": 30.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "경산시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.826498,
+          35.84681
+        ],
+        [
+          128.826898,
+          35.84671
+        ],
+        [
+          128.826498,
+          35.84791
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "경산시 중심상업거리",
+    "anchor_center": [
+      128.741766,
+      35.82583
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 130,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
