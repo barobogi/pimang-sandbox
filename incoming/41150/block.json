@@ -299,6 +299,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "자작공원 봄꽃",
+        "호수공원 벚꽃"
+      ],
+      "summer": [
+        "호수공원 여름 음악분수",
+        "의정부역 상권 여름"
+      ],
+      "autumn": [
+        "자작공원 단풍",
+        "호수공원 가을"
+      ],
+      "winter": [
+        "의정부역 상권 겨울 조명",
+        "호수공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "호수공원 야경",
+        "coordinates": [
+          37.737,
+          127.055
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "의정부역 상권 야경",
+        "coordinates": [
+          37.738,
+          127.05
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "의정부시는 서울 북쪽 관문의 대표 위성 도시로 의정부역 상권과 경전철, 자작공원이 함께한다.",
   "data_sources": [
     {
