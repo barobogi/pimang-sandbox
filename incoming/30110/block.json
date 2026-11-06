@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대전역",
+        "station_name": "대전역",
+        "line": "대전 1호선·KTX 경부선",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.3328,
+          127.4342
+        ]
+      },
+      {
+        "target_landmark": "대전복합터미널",
+        "station_name": "대전역",
+        "line": "대전 1호선·KTX 경부선",
+        "walk_minutes": 28,
+        "coordinates": [
+          36.3328,
+          127.4342
+        ]
+      },
+      {
+        "target_landmark": "대청호",
+        "station_name": "대청호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.420619,
+          127.499107
+        ]
+      },
+      {
+        "target_landmark": "만인산",
+        "station_name": "만인산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.203231,
+          127.455927
+        ]
+      },
+      {
+        "target_landmark": "식장산",
+        "station_name": "식장산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.301711,
+          127.483111
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          36.299711,
+          127.483511
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          36.33432,
+          127.433458
+        ],
+        "capacity": 248,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동구 제3 공영주차장",
+        "coordinates": [
+          36.351991,
+          127.434288
+        ],
+        "capacity": 442,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "대전 동구는 대전역과 대전복합터미널이 자리한 대전 동부의 관문 구로 만인산과 식장산, 대청호 등 자연 명소가 함께한다.",
   "data_sources": [
     {
