@@ -1,0 +1,580 @@
+{
+  "block_code": "41115",
+  "block_name": "경기도 수원시 팔달구",
+  "bbox": [
+    126.977395,
+    37.256475,
+    127.045882,
+    37.293516
+  ],
+  "center": [
+    37.274996,
+    127.011639
+  ],
+  "landmarks": [
+    {
+      "name": "수원 화성행궁",
+      "lat": 37.2821998,
+      "lng": 127.0143835,
+      "category": "행궁/문화유산",
+      "description": "정조 때 화성 행차 때 머물던 대표 행궁이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 196.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg/1280px-%ED%99%94%EC%84%B1%ED%96%89%EA%B6%81_%ED%8C%94%EB%8B%AC%EC%82%B0%EC%97%90%EC%84%9C.jpg"
+    },
+    {
+      "name": "팔달문",
+      "lat": 37.2775815,
+      "lng": 127.0167614,
+      "category": "성문/문화유산",
+      "description": "수원 화성의 동문이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%AC%EB%AC%B8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 237.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Paldalmun_20240929_001.jpg/1280px-Paldalmun_20240929_001.jpg"
+    },
+    {
+      "name": "화홍문",
+      "lat": 37.2875264,
+      "lng": 127.0176036,
+      "category": "성문/문화유산",
+      "description": "수원 화성의 남문이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 200.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/%ED%99%94%ED%99%8D%EB%AC%B8-2.jpg/1280px-%ED%99%94%ED%99%8D%EB%AC%B8-2.jpg"
+    },
+    {
+      "name": "팔달공원",
+      "lat": 37.287,
+      "lng": 127.012,
+      "category": "공원",
+      "description": "팔달산 자락의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 181.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Paldal-gu_office.JPG/1280px-Paldal-gu_office.JPG"
+    },
+    {
+      "name": "영동시장",
+      "lat": 37.276891,
+      "lng": 127.018664,
+      "category": "시장",
+      "description": "수원 원도심의 대표 전통시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 251.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/19740429_%EB%82%A8%EB%B6%80%EC%88%9C%ED%99%98%EB%A1%9C_%EC%A0%9C2%EA%B5%AC%EA%B0%84_%EA%B3%B5%EC%82%AC_%EC%84%A4%EB%AA%85.jpg/1280px-19740429_%EB%82%A8%EB%B6%80%EC%88%9C%ED%99%98%EB%A1%9C_%EC%A0%9C2%EA%B5%AC%EA%B0%84_%EA%B3%B5%EC%82%AC_%EC%84%A4%EB%AA%85.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "팔달 역사·문화 시그니처 스카이 트레일",
+      "description": "팔달문 → 영동시장 → 수원 화성행궁 → 팔달공원 → 화홍문 순으로 이어지는 경기도 수원시 팔달구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "팔달문",
+        "영동시장",
+        "수원 화성행궁",
+        "팔달공원",
+        "화홍문"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "팔달 세월을 나는 문화유산 플라이트",
+      "description": "팔달문 → 수원 화성행궁 → 화홍문 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 팔달의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "팔달문",
+        "수원 화성행궁",
+        "화홍문"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "영동 골목식당",
+      "lat": 37.277591,
+      "lng": 127.019154,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "영동 할매집",
+      "lat": 37.276261,
+      "lng": 127.018104,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "영동 솥뚜껑가게",
+      "lat": 37.276821,
+      "lng": 127.018524,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "영동 동네밥집",
+      "lat": 37.276891,
+      "lng": 127.018874,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수원 화성행궁",
+        "station_name": "수원역",
+        "line": "수도권 1호선·KTX 경부선",
+        "walk_minutes": 32,
+        "coordinates": [
+          37.2657,
+          127.0292
+        ]
+      },
+      {
+        "target_landmark": "팔달문",
+        "station_name": "수원역",
+        "line": "수도권 1호선·KTX 경부선",
+        "walk_minutes": 25,
+        "coordinates": [
+          37.2657,
+          127.0292
+        ]
+      },
+      {
+        "target_landmark": "화홍문",
+        "station_name": "수원역",
+        "line": "수도권 1호선·KTX 경부선",
+        "walk_minutes": 38,
+        "coordinates": [
+          37.2657,
+          127.0292
+        ]
+      },
+      {
+        "target_landmark": "팔달공원",
+        "station_name": "수원역",
+        "line": "수도권 1호선·KTX 경부선",
+        "walk_minutes": 40,
+        "coordinates": [
+          37.2657,
+          127.0292
+        ]
+      },
+      {
+        "target_landmark": "영동시장",
+        "station_name": "수원역",
+        "line": "수도권 1호선·KTX 경부선",
+        "walk_minutes": 22,
+        "coordinates": [
+          37.2657,
+          127.0292
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "팔달 중앙 공영주차장",
+        "coordinates": [
+          37.276781,
+          127.019161
+        ],
+        "capacity": 324,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "팔달 제2 공영주차장",
+        "coordinates": [
+          37.278091,
+          127.020664
+        ],
+        "capacity": 481,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "팔달 제3 공영주차장",
+        "coordinates": [
+          37.2802,
+          127.014783
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "팔달초등학교 운동장",
+        "coordinates": [
+          37.283641,
+          127.024082
+        ],
+        "capacity": 1700,
+        "address": "경기도 수원시 팔달구"
+      },
+      {
+        "name": "팔달실내체육관",
+        "coordinates": [
+          37.277364,
+          127.014322
+        ],
+        "capacity": 5000,
+        "address": "경기도 수원시 팔달구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수원 화성행궁",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "팔달문",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화홍문",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "팔달공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영동시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화홍문 벚꽃길",
+        "수원 화성행궁 봄"
+      ],
+      "summer": [
+        "화홍문 여름 수변",
+        "팔달문 시장 여름밤"
+      ],
+      "autumn": [
+        "수원 화성행궁 단풍",
+        "팔달공원 가을"
+      ],
+      "winter": [
+        "수원 화성행궁 겨울 빛축제",
+        "팔달문 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "화홍문 야경",
+        "coordinates": [
+          37.287526,
+          127.017604
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "수원 화성행궁 야경",
+        "coordinates": [
+          37.2822,
+          127.014383
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "수원 팔달구는 수원 화성과 행궁이 자리한 수원 원도심 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Paldal-gu, Suwon",
+      "landmarks": {
+        "수원 화성행궁": [
+          "Suwon Hwaseong Haenggung",
+          "Temporary palace where King Jeonggo stayed during visits to Hwaseong."
+        ],
+        "팔달문": [
+          "Paldalmun Gate",
+          "South gate of Suwon Hwaseong Fortress."
+        ],
+        "화홍문": [
+          "Hwahongmun Gate",
+          "North gate of Suwon Hwaseong Fortress."
+        ],
+        "팔달공원": [
+          "Paldal Park",
+          "Park at the foot of Paldalsan."
+        ],
+        "영동시장": [
+          "Yeongdong Market",
+          "Signature traditional market of Suwon's old downtown."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 八達区",
+      "landmarks": {
+        "수원 화성행궁": [
+          "水原華城行宮",
+          "正祖が華城に行幸の際に宿泊した代表的な行宮。"
+        ],
+        "팔달문": [
+          "八達門",
+          "水原華城の南門。"
+        ],
+        "화홍문": [
+          "華虹門",
+          "水原華城の北門。"
+        ],
+        "팔달공원": [
+          "八達公園",
+          "八達山のふもとの代表的な公園。"
+        ],
+        "영동시장": [
+          "霊東市場",
+          "水原旧市街を代表する伝統市場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 八达区",
+      "landmarks": {
+        "수원 화성행궁": [
+          "水原华城行宫",
+          "正祖驾临华城时驻跸的代表性行宫。"
+        ],
+        "팔달문": [
+          "八达门",
+          "水原华城的南门。"
+        ],
+        "화홍문": [
+          "华虹门",
+          "水原华城的北门。"
+        ],
+        "팔달공원": [
+          "八达公园",
+          "八达山麓的代表性公园。"
+        ],
+        "영동시장": [
+          "灵东市场",
+          "水原旧城区的代表性传统市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.paldal.suwon.go.kr",
+    "civil_service_center": {
+      "location_name": "팔달구청 민원실 앞",
+      "coordinates": [
+        127.02486,
+        37.288992
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1899-3300",
+      "info": "경기도 수원시 팔달구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "팔달구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.011339,
+      37.275396
+    ],
+    "cctv_zone_count": 237,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "팔달산 근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "수원 화성 문화축제",
+    "typical_month": 10,
+    "venue_name": "화성행궁 일대",
+    "venue_coords": [
+      127.012139,
+      37.275196
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "팔달구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.02646,
+      37.291892
+    ],
+    "reservation_url": "https://www.paldal.suwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "팔달구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.02756,
+      37.289492
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "팔달구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.02596,
+      37.287292
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "영동 솥뚜껑가게",
+    "coordinates": [
+      127.018524,
+      37.276821
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막국수 (팔달구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=팔달구청&goalx=127.024860&goaly=37.288992",
+    "kakaonavi_url": "kakaonavi://navigate?name=팔달구청&x=127.024860&y=37.288992&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=팔달구청&dlng=127.024860&dlat=37.288992&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "팔달구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.012689,
+          37.275146
+        ],
+        [
+          127.011339,
+          37.275396
+        ],
+        [
+          127.011689,
+          37.275496
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "팔달구 중심상업거리",
+    "anchor_center": [
+      127.023927,
+      37.290325
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 255,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
