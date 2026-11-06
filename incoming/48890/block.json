@@ -416,10 +416,11 @@
     "civil_service_center": {
       "location_name": "합천군청 민원실 앞",
       "coordinates": [
-        128.162652,
-        35.60035
+        128.165822,
+        35.566666
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "055-930-3114",
