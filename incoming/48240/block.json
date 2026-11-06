@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "와룡산 봄",
+        "삼천포항 봄"
+      ],
+      "summer": [
+        "삼천포항 여름",
+        "사천 해변 여름"
+      ],
+      "autumn": [
+        "와룡산 단풍",
+        "삼천포항 가을"
+      ],
+      "winter": [
+        "삼천포항 설경",
+        "항공우주박물관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "삼천포항 야경",
+        "coordinates": [
+          34.926442,
+          128.069985
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "와룡산 야경",
+        "coordinates": [
+          34.980853,
+          128.099044
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "사천시는 항공우주박물관과 와룡산, 삼천포항이 자리한 경남 남해안의 도시이다.",
   "data_sources": [
     {
