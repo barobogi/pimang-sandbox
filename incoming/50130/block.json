@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서귀포초등학교 운동장",
+        "coordinates": [
+          33.40513,
+          126.957617
+        ],
+        "capacity": 7300,
+        "address": "제주특별자치도 서귀포시"
+      },
+      {
+        "name": "서귀포실내체육관",
+        "coordinates": [
+          33.257268,
+          126.649577
+        ],
+        "capacity": 5700,
+        "address": "제주특별자치도 서귀포시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "성산일출봉",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천지연폭포",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "정방폭포",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주상절리 대포지짐지형",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "외돌개",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "서귀포시는 제주도 남부의 관광 도시로 성산일출봉, 천지연폭포, 주상절리 등의 해양·화산 자연 명소가 밀집한 유네스코 생물권보전지역 도시다.",
   "data_sources": [
     {
