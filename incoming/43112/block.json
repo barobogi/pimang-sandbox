@@ -332,5 +332,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seowon-gu, Cheongju",
+      "landmarks": {
+        "무심천": [
+          "Musimcheon Stream",
+          "Signature stream attraction of Seowon-gu, Cheongju."
+        ],
+        "서원대학교": [
+          "Seowon University",
+          "Signature university attraction of Seowon-gu, Cheongju."
+        ],
+        "청주고인쇄박물관": [
+          "Cheongju Early Printing Museum",
+          "Signature museum attraction of Seowon-gu, Cheongju."
+        ],
+        "서원구청": [
+          "Seowon-gu Office",
+          "Administrative center of Seowon-gu, Cheongju."
+        ],
+        "청주시립미술관": [
+          "Cheongju Museum of Art",
+          "Signature art museum of Seowon-gu, Cheongju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 西原区",
+      "landmarks": {
+        "무심천": [
+          "無心川",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "서원대학교": [
+          "西原大学校",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "청주고인쇄박물관": [
+          "清州古印刷博物館",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "서원구청": [
+          "西原区庁",
+          "忠清北道清州市西原区を代表する名所。"
+        ],
+        "청주시립미술관": [
+          "清州市立美術館",
+          "忠清北道清州市西原区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 西原区",
+      "landmarks": {
+        "무심천": [
+          "无心川",
+          "忠清北道清州市西原区的代表性河流。"
+        ],
+        "서원대학교": [
+          "西原大学",
+          "忠清北道清州市西原区的代表性高校。"
+        ],
+        "청주고인쇄박물관": [
+          "清州古印刷博物馆",
+          "忠清北道清州市西原区的代表性博物馆。"
+        ],
+        "서원구청": [
+          "西原区厅",
+          "忠清北道清州市西原区的行政中心。"
+        ],
+        "청주시립미술관": [
+          "清州市立美术馆",
+          "忠清北道清州市西原区的代表性美术馆。"
+        ]
+      }
+    }
   }
 }
