@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gimje-si, Jeonbuk",
+      "landmarks": {
+        "벽골제": [
+          "Byeokgolje Reservoir",
+          "Signature ancient reservoir heritage of Gimje-si, Jeonbuk."
+        ],
+        "금산사": [
+          "Geumsansa Temple",
+          "Signature temple heritage of Gimje-si, Jeonbuk."
+        ],
+        "만경평야": [
+          "Mangyeong Plain",
+          "Signature plain attraction of Gimje-si, Jeonbuk."
+        ],
+        "김제시청": [
+          "Gimje City Hall",
+          "Administrative center of Gimje-si, Jeonbuk."
+        ],
+        "김제시장": [
+          "Gimje Market",
+          "Signature market attraction of Gimje-si, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 金堤市",
+      "landmarks": {
+        "벽골제": [
+          "碧骨堤",
+          "全北特別自治道金堤市を代表する名所。"
+        ],
+        "금산사": [
+          "金山寺",
+          "全北特別自治道金堤市を代表する名所。"
+        ],
+        "만경평야": [
+          "万頃平野",
+          "全北特別自治道金堤市を代表する名所。"
+        ],
+        "김제시청": [
+          "金堤市庁",
+          "全北特別自治道金堤市を代表する名所。"
+        ],
+        "김제시장": [
+          "金堤市場",
+          "全北特別自治道金堤市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 金堤市",
+      "landmarks": {
+        "벽골제": [
+          "碧骨堤",
+          "全北特别自治道金堤市的代表性古代水库。"
+        ],
+        "금산사": [
+          "金山寺",
+          "全北特别自治道金堤市的代表性古刹。"
+        ],
+        "만경평야": [
+          "万顷平原",
+          "全北特别自治道金堤市的代表性平原。"
+        ],
+        "김제시청": [
+          "金堤市厅",
+          "全北特别自治道金堤市的行政中心。"
+        ],
+        "김제시장": [
+          "金堤市场",
+          "全北特别自治道金堤市的代表性市场。"
+        ]
+      }
+    }
   }
 }
