@@ -140,6 +140,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "봉황공원",
+        "station_name": "봉황공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2306,
+          128.9008
+        ]
+      },
+      {
+        "target_landmark": "국립김해박물관",
+        "station_name": "국립김해박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2356,
+          128.8788
+        ]
+      },
+      {
+        "target_landmark": "가야테마파크",
+        "station_name": "가야테마파크 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2256,
+          128.8888
+        ]
+      },
+      {
+        "target_landmark": "수어촌",
+        "station_name": "수어촌 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.2466,
+          128.8788
+        ]
+      },
+      {
+        "target_landmark": "장유폭포",
+        "station_name": "장유폭포 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.189164,
+          128.774917
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "김해 중앙 공영주차장",
+        "coordinates": [
+          35.2474,
+          128.878
+        ],
+        "capacity": 81,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "김해 제2 공영주차장",
+        "coordinates": [
+          35.2328,
+          128.8768
+        ],
+        "capacity": 403,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "김해 제3 공영주차장",
+        "coordinates": [
+          35.2232,
+          128.8868
+        ],
+        "capacity": 97,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "김해시는 가야의 수도 금관가야였던 유서 깊은 도시로 봉황대와 국립김해박물관, 가야테마파크 등 가야 문화유산과 근현대 산업 도시가 함께한다.",
   "data_sources": [
     {
