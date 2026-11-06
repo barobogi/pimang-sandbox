@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jangseong-gun, Jeonnam",
+      "landmarks": {
+        "축령산": [
+          "Chukryeongsan Mountain",
+          "Signature cypress forest mountain of Jangseong-gun, Jeonnam."
+        ],
+        "백양사": [
+          "Baekyangsa Temple",
+          "Signature temple heritage of Jangseong-gun, Jeonnam."
+        ],
+        "홍길동생가": [
+          "Hong Gil-dong's Birthplace",
+          "Signature historic site of Jangseong-gun, Jeonnam."
+        ],
+        "장성군청": [
+          "Jangseong County Office",
+          "Administrative center of Jangseong-gun, Jeonnam."
+        ],
+        "장성시장": [
+          "Jangseong Market",
+          "Signature market attraction of Jangseong-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 長城郡",
+      "landmarks": {
+        "축령산": [
+          "竹嶺山",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "백양사": [
+          "白羊寺",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "홍길동생가": [
+          "洪吉童生家",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "장성군청": [
+          "長城郡庁",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "장성시장": [
+          "長城市場",
+          "全羅南道長城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 长城郡",
+      "landmarks": {
+        "축령산": [
+          "竹岭山",
+          "全罗南道长城郡的代表性杉木林名山。"
+        ],
+        "백양사": [
+          "白羊寺",
+          "全罗南道长城郡的代表性古刹。"
+        ],
+        "홍길동생가": [
+          "洪吉童故居",
+          "全罗南道长城郡的代表性历史遗迹。"
+        ],
+        "장성군청": [
+          "长城郡厅",
+          "全罗南道长城郡的行政中心。"
+        ],
+        "장성시장": [
+          "长城市场",
+          "全罗南道长城郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
