@@ -129,6 +129,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "주남저수지",
+        "station_name": "주남저수지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.304951,
+          128.675936
+        ]
+      },
+      {
+        "target_landmark": "남산공원",
+        "station_name": "남산공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.257886,
+          128.616282
+        ]
+      },
+      {
+        "target_landmark": "사화공원",
+        "station_name": "사화공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.252169,
+          128.630203
+        ]
+      },
+      {
+        "target_landmark": "덕정공원",
+        "station_name": "덕정공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.255,
+          128.5756
+        ]
+      },
+      {
+        "target_landmark": "소계체육공원",
+        "station_name": "소계체육공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.260475,
+          128.592064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의창 중앙 공영주차장",
+        "coordinates": [
+          35.307351,
+          128.676336
+        ],
+        "capacity": 114,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "의창 제2 공영주차장",
+        "coordinates": [
+          35.250169,
+          128.631003
+        ],
+        "capacity": 523,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "의창 제3 공영주차장",
+        "coordinates": [
+          35.257486,
+          128.617082
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "의창구는 2010년 창원시 통합과 함께 설치된 창원 북부의 구로 주남저수지 두루미 도래지와 대원동 택지지구 등이 함께한 창원의 관문 지역이다.",
   "data_sources": [
     {
