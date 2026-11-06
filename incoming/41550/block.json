@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "안성시청",
+        "station_name": "안성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.010098,
+          127.278568
+        ]
+      },
+      {
+        "target_landmark": "안성문화예술회관",
+        "station_name": "안성문화예술회관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.975572,
+          127.291067
+        ]
+      },
+      {
+        "target_landmark": "서운동 상권",
+        "station_name": "안성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 34,
+        "coordinates": [
+          37.010098,
+          127.278568
+        ]
+      },
+      {
+        "target_landmark": "공도읍 상권",
+        "station_name": "공도읍 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.9942,
+          127.2082
+        ]
+      },
+      {
+        "target_landmark": "안성천",
+        "station_name": "안성천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.000923,
+          127.236705
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "안성 중앙 공영주차장",
+        "coordinates": [
+          37.009298,
+          127.280168
+        ],
+        "capacity": 256,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "안성 제2 공영주차장",
+        "coordinates": [
+          36.974772,
+          127.288667
+        ],
+        "capacity": 250,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "안성 제3 공영주차장",
+        "coordinates": [
+          37.0184,
+          127.2554
+        ],
+        "capacity": 143,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "안성시는 안성맞춤이라는 말의 유래가 된 전통 장터 도시이자 국제 종합 대학들이 함께한 경기 남서부의 도시이다.",
   "data_sources": [
     {
