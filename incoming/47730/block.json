@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금성산 봄",
+        "의성 탑리리 오층석탑 봄"
+      ],
+      "summer": [
+        "금성산 여름",
+        "의성시장 여름"
+      ],
+      "autumn": [
+        "금성산 단풍",
+        "조문국박물관 가을"
+      ],
+      "winter": [
+        "금성산 설경",
+        "의성시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "금성산 야경",
+        "coordinates": [
+          36.262428,
+          128.709285
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "의성시장 야시장",
+        "coordinates": [
+          36.345551,
+          128.699337
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "의성군은 마늘의 고장으로 유명하며 금성산과 탑리리 오층석탑이 자리한 경북 중부의 군이다.",
   "data_sources": [
     {
