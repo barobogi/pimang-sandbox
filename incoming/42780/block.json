@@ -291,6 +291,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "고석정 봄",
+        "철원평야 봄 철새"
+      ],
+      "summer": [
+        "한탄강 여름",
+        "고석정 여름"
+      ],
+      "autumn": [
+        "고석정 단풍",
+        "철원평야 억새"
+      ],
+      "winter": [
+        "철원평야 겨울 철새",
+        "노동당사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "고석정 야경",
+        "coordinates": [
+          38.184896,
+          127.28786
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "한탄강 야경",
+        "coordinates": [
+          38.190825,
+          127.285774
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "철원군은 한탄강과 DMZ 철새도래지, 노동당사가 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
