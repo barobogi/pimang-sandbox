@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "지리산",
+        "station_name": "지리산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.245615,
+          127.492824
+        ]
+      },
+      {
+        "target_landmark": "화엄사",
+        "station_name": "화엄사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.25516,
+          127.496875
+        ]
+      },
+      {
+        "target_landmark": "사성암",
+        "station_name": "사성암 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.177037,
+          127.479441
+        ]
+      },
+      {
+        "target_landmark": "구례군청",
+        "station_name": "구례군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.199467,
+          127.462027
+        ]
+      },
+      {
+        "target_landmark": "구례시장",
+        "station_name": "구례시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.227627,
+          127.494394
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "구례 중앙 공영주차장",
+        "coordinates": [
+          35.231627,
+          127.493194
+        ],
+        "capacity": 234,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구례 제2 공영주차장",
+        "coordinates": [
+          35.248415,
+          127.492424
+        ],
+        "capacity": 403,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "구례군은 지리산과 화엄사, 사성암이 자리한 전남 동부 산악 관광의 중심 군이다.",
   "data_sources": [
     {
