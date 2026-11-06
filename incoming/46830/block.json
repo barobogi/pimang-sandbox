@@ -145,6 +145,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "월출산",
+        "station_name": "월출산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.764219,
+          126.706043
+        ]
+      },
+      {
+        "target_landmark": "도갑사",
+        "station_name": "도갑사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.749763,
+          126.664753
+        ]
+      },
+      {
+        "target_landmark": "영산호",
+        "station_name": "영산호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.776758,
+          126.465658
+        ]
+      },
+      {
+        "target_landmark": "영암군청",
+        "station_name": "영암군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          34.797834,
+          126.698825
+        ]
+      },
+      {
+        "target_landmark": "영암시장",
+        "station_name": "영암버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.801736,
+          126.607508
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영암 중앙 공영주차장",
+        "coordinates": [
+          34.801336,
+          126.606308
+        ],
+        "capacity": 84,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "영암 제2 공영주차장",
+        "coordinates": [
+          34.752563,
+          126.665153
+        ],
+        "capacity": 237,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "영암군은 월출산과 도갑사, 영산호가 자리한 전남 서남부의 군이다.",
   "data_sources": [
     {
