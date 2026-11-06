@@ -1,0 +1,585 @@
+{
+  "block_code": "42730",
+  "block_name": "강원특별자치도 횡성군",
+  "bbox": [
+    127.759421,
+    37.29878,
+    128.302266,
+    37.68016
+  ],
+  "center": [
+    37.48947,
+    128.030844
+  ],
+  "landmarks": [
+    {
+      "name": "청태산자연휴양림",
+      "lat": 37.525069,
+      "lng": 128.2945736,
+      "category": "숲휴양림",
+      "description": "청태산자연휴양림은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 260.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hoengseong-gun_Office.JPG/1280px-Hoengseong-gun_Office.JPG"
+    },
+    {
+      "name": "횡성호",
+      "lat": 37.5466972,
+      "lng": 128.038822,
+      "category": "호수/자연",
+      "description": "횡성호은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%ED%98%B8",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 186.3
+      }
+    },
+    {
+      "name": "둔내면 상권",
+      "lat": 37.5121258,
+      "lng": 128.2187842,
+      "category": "상권",
+      "description": "둔내면 상권은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 261.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hoengseong-gun_Office.JPG/1280px-Hoengseong-gun_Office.JPG"
+    },
+    {
+      "name": "횡성시장",
+      "lat": 37.4897256,
+      "lng": 127.9872013,
+      "category": "시장/먹거리",
+      "description": "횡성시장은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 90.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/202003%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5IMG_1313.jpg/1280px-202003%ED%9A%A1%EC%84%B1%EC%8B%9C%EC%9E%A5IMG_1313.jpg"
+    },
+    {
+      "name": "횡성군청",
+      "lat": 37.4917396,
+      "lng": 127.9851205,
+      "category": "행정/랜드마크",
+      "description": "횡성군청은(는) 강원특별자치도 횡성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 93.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hoengseong-gun_Office.JPG/1280px-Hoengseong-gun_Office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "횡성 자연 힐링 시그니처 에어리얼 투어",
+      "description": "횡성시장 → 횡성군청 → 횡성호 → 둔내면 상권 → 청태산자연휴양림 순으로 이어지는 강원특별자치도 횡성군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "횡성시장",
+        "횡성군청",
+        "횡성호",
+        "둔내면 상권",
+        "청태산자연휴양림"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "횡성 산하 절경 에어리얼 투어",
+      "description": "청태산자연휴양림 → 둔내면 상권 → 횡성호 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 횡성의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "청태산자연휴양림",
+        "둔내면 상권",
+        "횡성호"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "횡성 도심 활력 에어리얼 코스",
+      "description": "횡성시장 → 둔내면 상권 → 청태산자연휴양림 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 횡성의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "횡성시장",
+        "둔내면 상권",
+        "청태산자연휴양림"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "횡성 골목식당",
+      "lat": 37.489866,
+      "lng": 127.986641,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "횡성 가마솥밥가",
+      "lat": 37.489236,
+      "lng": 127.986501,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "횡성 할매집",
+      "lat": 37.489866,
+      "lng": 127.986641,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "횡성 옛맛식당",
+      "lat": 37.489026,
+      "lng": 127.987621,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "횡성 큰마당식당",
+      "lat": 37.490216,
+      "lng": 127.987691,
+      "specialty": "산채정식",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청태산자연휴양림",
+        "station_name": "청태산자연휴양림 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.524669,
+          128.296574
+        ]
+      },
+      {
+        "target_landmark": "횡성호",
+        "station_name": "횡성호 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.546297,
+          128.040822
+        ]
+      },
+      {
+        "target_landmark": "둔내면 상권",
+        "station_name": "둔내면 상권 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.511726,
+          128.220784
+        ]
+      },
+      {
+        "target_landmark": "횡성시장",
+        "station_name": "횡성시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.489326,
+          127.989201
+        ]
+      },
+      {
+        "target_landmark": "횡성군청",
+        "station_name": "횡성군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.49134,
+          127.98712
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "횡성 중앙 공영주차장",
+        "coordinates": [
+          37.492126,
+          127.988001
+        ],
+        "capacity": 273,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "횡성 제2 공영주차장",
+        "coordinates": [
+          37.49014,
+          127.98672
+        ],
+        "capacity": 278,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "횡성초등학교 운동장",
+        "coordinates": [
+          37.469463,
+          128.274353
+        ],
+        "capacity": 2900,
+        "address": "강원특별자치도 횡성군"
+      },
+      {
+        "name": "횡성실내체육관",
+        "coordinates": [
+          37.583596,
+          128.062303
+        ],
+        "capacity": 6100,
+        "address": "강원특별자치도 횡성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청태산자연휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "횡성호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "둔내면 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "횡성시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "횡성군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "청태산자연휴양림 봄",
+        "횡성호 벚꽃"
+      ],
+      "summer": [
+        "횡성호 여름",
+        "청태산자연휴양림 여름"
+      ],
+      "autumn": [
+        "청태산자연휴양림 단풍",
+        "횡성호 가을"
+      ],
+      "winter": [
+        "횡성호 설경",
+        "청태산자연휴양림 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "횡성호 야경",
+        "coordinates": [
+          37.546697,
+          128.038822
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "횡성시장 야시장",
+        "coordinates": [
+          37.489726,
+          127.987201
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "횡성군은 강원 영서 내륙의 군으로 횡성한우와 둔내, 청태산 자연휴양림 등 산림 자원이 풍부한 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hoengseong-gun, Gangwon",
+      "landmarks": {
+        "청태산자연휴양림": [
+          "Cheongtaesan Natural Recreation Forest",
+          "Signature attraction of Hoengseong-gun, Gangwon."
+        ],
+        "횡성호": [
+          "Hoengseongho Lake",
+          "Signature lake attraction of Hoengseong-gun, Gangwon."
+        ],
+        "둔내면 상권": [
+          "Dunnae-myeon District",
+          "Signature district hub of Hoengseong-gun, Gangwon."
+        ],
+        "횡성시장": [
+          "Hoengseong Market",
+          "Signature market attraction of Hoengseong-gun, Gangwon."
+        ],
+        "횡성군청": [
+          "Hoengseong County Office",
+          "Administrative center of Hoengseong-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 横城郡",
+      "landmarks": {
+        "청태산자연휴양림": [
+          "青太山自然休養林",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "횡성호": [
+          "横城湖",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "둔내면 상권": [
+          "屯内面商圏",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "횡성시장": [
+          "横城市場",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "횡성군청": [
+          "横城郡庁",
+          "江原特別自治道横城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 横城郡",
+      "landmarks": {
+        "청태산자연휴양림": [
+          "青太山自然休养林",
+          "江原特别自治道横城郡的代表性名胜。"
+        ],
+        "횡성호": [
+          "横城湖",
+          "江原特别自治道横城郡的代表性湖泊。"
+        ],
+        "둔내면 상권": [
+          "屯内面商圈",
+          "江原特别自治道横城郡的代表性商圈。"
+        ],
+        "횡성시장": [
+          "横城市场",
+          "江原特别自治道横城郡的代表性市场。"
+        ],
+        "횡성군청": [
+          "横城郡厅",
+          "江原特别自治道横城郡的行政中心。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.hsg.go.kr",
+    "civil_service_center": {
+      "location_name": "횡성군청 민원실 앞",
+      "coordinates": [
+        128.034536,
+        37.521456
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-340-2114",
+      "info": "강원특별자치도 횡성군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "횡성군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.030844,
+      37.48977
+    ],
+    "cctv_zone_count": 467,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "횡성호 근린공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "횡성 한우축제",
+    "typical_month": 9,
+    "venue_name": "횡성공설운동장 일대",
+    "venue_coords": [
+      128.031343,
+      37.48927
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "횡성군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.032036,
+      37.520856
+    ],
+    "reservation_url": "https://www.hsg.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "횡성군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.031836,
+      37.520056
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "횡성군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.033536,
+      37.519056
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "횡성 할매집",
+    "coordinates": [
+      127.986641,
+      37.489866
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막국수 (횡성군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=횡성군청&goalx=128.034536&goaly=37.521456",
+    "kakaonavi_url": "kakaonavi://navigate?name=횡성군청&x=128.034536&y=37.521456&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=횡성군청&dlng=128.034536&dlat=37.521456&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:31",
+      "sunset": "18:40",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:16",
+      "sunset": "18:25",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:14",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "횡성군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.029444,
+          37.49042
+        ],
+        [
+          128.030844,
+          37.48977
+        ],
+        [
+          128.030094,
+          37.48847
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "횡성군 전통시장 만남의거리",
+    "anchor_center": [
+      128.035203,
+      37.519923
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 250,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
