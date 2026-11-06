@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "장성초등학교 운동장",
+        "coordinates": [
+          35.354576,
+          126.684357
+        ],
+        "capacity": 6800,
+        "address": "전라남도 장성군"
+      },
+      {
+        "name": "장성실내체육관",
+        "coordinates": [
+          35.399502,
+          126.827649
+        ],
+        "capacity": 5400,
+        "address": "전라남도 장성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "축령산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "백양사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "홍길동생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장성군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장성시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
   "data_sources": [
     {
