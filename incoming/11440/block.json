@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Mapo-gu, Seoul",
+      "landmarks": {
+        "홍대입구": [
+          "Hongdae Area",
+          "Epicenter of Korean indie music and youth culture."
+        ],
+        "서울월드컵경기장": [
+          "Seoul World Cup Stadium",
+          "Large football-only stadium built for the 2002 FIFA World Cup."
+        ],
+        "망원한강공원": [
+          "Mangwon Hangang Park",
+          "Popular riverside park on the Mangwon waterfront."
+        ],
+        "연남동": [
+          "Yeonnam-dong",
+          "Cafe and restaurant street adjacent to Hongdae."
+        ],
+        "난지한강공원": [
+          "Nanji Hangang Park",
+          "Large riverside park next to the World Cup Park."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 麻浦区",
+      "landmarks": {
+        "홍대입구": [
+          "弘大入口",
+          "韓国のインディ音楽と若者文化の中心地。"
+        ],
+        "서울월드컵경기장": [
+          "ソウルワールドカップ競技場",
+          "2002年W杯のために造られたサッカー専用スタジアム。"
+        ],
+        "망원한강공원": [
+          "望遠漢江公園",
+          "望遠洞の水辺に広がる漢江公園。"
+        ],
+        "연남동": [
+          "延南洞",
+          "弘大近くのカフェやレストラン街。"
+        ],
+        "난지한강공원": [
+          "蘭芝漢江公園",
+          "ワールドカップ公園に隣接する漢江沿いの大型公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 麻浦区",
+      "landmarks": {
+        "홍대입구": [
+          "弘益大学商圈",
+          "韩国独立音乐与青年文化的中心地带。"
+        ],
+        "서울월드컵경기장": [
+          "首尔世界杯体育场",
+          "为2002年世界杯而建的足球专用大型体育场。"
+        ],
+        "망원한강공원": [
+          "望远汉江公园",
+          "望远洞江畔的代表性汉江公园。"
+        ],
+        "연남동": [
+          "延南洞",
+          "弘大旁的咖啡馆与餐厅聚集街区。"
+        ],
+        "난지한강공원": [
+          "兰芝汉江公园",
+          "世界杯公园旁的汉江滨大型公园。"
+        ]
+      }
+    }
   }
 }
