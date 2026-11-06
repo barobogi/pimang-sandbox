@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "울릉초등학교 운동장",
+        "coordinates": [
+          37.31774,
+          131.970313
+        ],
+        "capacity": 1300,
+        "address": "경상북도 울릉군"
+      },
+      {
+        "name": "울릉실내체육관",
+        "coordinates": [
+          37.498877,
+          130.987702
+        ],
+        "capacity": 1900,
+        "address": "경상북도 울릉군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "독도",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "관음도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서빙백류지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "저동방죽",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "통구미",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "울릉군은 울릉도와 독도를 관할하는 대한민국 최동단의 군으로 화산섬의 절경과 바다 자원, 독도의 역사가 함께한 섬 군이다.",
   "data_sources": [
     {
