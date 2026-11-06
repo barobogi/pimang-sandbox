@@ -228,6 +228,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영등포초등학교 운동장",
+        "coordinates": [
+          37.531887,
+          126.930383
+        ],
+        "capacity": 2000,
+        "address": "서울특별시 영등포구"
+      },
+      {
+        "name": "영등포실내체육관",
+        "coordinates": [
+          37.51814,
+          126.927612
+        ],
+        "capacity": 3900,
+        "address": "서울특별시 영등포구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "여의도공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국회의사당",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "63빌딩",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여의도한강공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영등포시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "영등포구는 조선 시대 여의도 강가의 항구 마을에서 출발해 근현대 섬유·금융 상업 중심지가 되었고, 여의도에는 국회와 증권거래소, 63빌딩 등이 들어선 대한민국 금융의 심장부가 되었다.",
   "data_sources": [
     {
