@@ -251,6 +251,74 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남동초등학교 운동장",
+        "coordinates": [
+          37.425097,
+          126.741802
+        ],
+        "capacity": 3800,
+        "address": "인천광역시 남동구"
+      },
+      {
+        "name": "남동실내체육관",
+        "coordinates": [
+          37.403355,
+          126.729519
+        ],
+        "capacity": 4000,
+        "address": "인천광역시 남동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "소래습지생태공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소래포구",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인더스파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인천대공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남동문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "소래포구 해오름광장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "남동구는 옛 남동공단이 국제시대 문화·산업 공간으로 재탄생한 인천의 자치구로 소래습지와 소래포구, 인천대공원 등 생태·녹지 명소가 자리한다.",
   "data_sources": [
     {
