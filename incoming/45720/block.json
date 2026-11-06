@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jinan-gun, Jeonbuk",
+      "landmarks": {
+        "마이산": [
+          "Maisan Mountain",
+          "Signature mountain attraction of Jinan-gun, Jeonbuk."
+        ],
+        "용담호": [
+          "Yongdamho Lake",
+          "Signature lake attraction of Jinan-gun, Jeonbuk."
+        ],
+        "진안군청": [
+          "Jinan County Office",
+          "Administrative center of Jinan-gun, Jeonbuk."
+        ],
+        "진안시장": [
+          "Jinan Market",
+          "Signature market attraction of Jinan-gun, Jeonbuk."
+        ],
+        "마이산탑사": [
+          "Maisan Tapsa Temple",
+          "Signature temple heritage of Jinan-gun, Jeonbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 鎮安郡",
+      "landmarks": {
+        "마이산": [
+          "馬耳山",
+          "全北特別自治道鎮安郡を代表する名所。"
+        ],
+        "용담호": [
+          "龍潭湖",
+          "全北特別自治道鎮安郡を代表する名所。"
+        ],
+        "진안군청": [
+          "鎮安郡庁",
+          "全北特別自治道鎮安郡を代表する名所。"
+        ],
+        "진안시장": [
+          "鎮安市場",
+          "全北特別自治道鎮安郡を代表する名所。"
+        ],
+        "마이산탑사": [
+          "馬耳山塔寺",
+          "全北特別自治道鎮安郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 镇安郡",
+      "landmarks": {
+        "마이산": [
+          "马耳山",
+          "全北特别自治道镇安郡的代表性名山。"
+        ],
+        "용담호": [
+          "龙潭湖",
+          "全北特别自治道镇安郡的代表性湖泊。"
+        ],
+        "진안군청": [
+          "镇安郡厅",
+          "全北特别自治道镇安郡的行政中心。"
+        ],
+        "진안시장": [
+          "镇安市场",
+          "全北特别自治道镇安郡的代表性市场。"
+        ],
+        "마이산탑사": [
+          "马耳山塔寺",
+          "全北特别自治道镇安郡的代表性古寺。"
+        ]
+      }
+    }
   }
 }
