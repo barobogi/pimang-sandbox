@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "천관산 봄",
+        "장흥토요시장 봄"
+      ],
+      "summer": [
+        "천관산 여름",
+        "장흥댐 여름"
+      ],
+      "autumn": [
+        "천관산 억새",
+        "장흥댐 가을"
+      ],
+      "winter": [
+        "정남진전망대 겨울",
+        "천관산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "정남진전망대 야경",
+        "coordinates": [
+          34.511804,
+          126.974725
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "천관산 야경",
+        "coordinates": [
+          34.531727,
+          126.91966
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "장흥군은 정남진 전망대와 천관산, 토요시장이 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
