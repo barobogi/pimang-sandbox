@@ -1,0 +1,580 @@
+{
+  "block_code": "45130",
+  "block_name": "전북특별자치도 군산시",
+  "bbox": [
+    125.52337,
+    35.66162,
+    126.915402,
+    36.278209
+  ],
+  "center": [
+    35.969915,
+    126.219386
+  ],
+  "landmarks": [
+    {
+      "name": "군산근대역사박물관",
+      "lat": 35.990814,
+      "lng": 126.712203,
+      "category": "박물관/역사",
+      "description": "군산 개항기 역사를 전시하는 대표 근대사 박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EA%B7%BC%EB%8C%80%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 267.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Jeonju_Museum_of_History-1.jpg/1280px-Jeonju_Museum_of_History-1.jpg"
+    },
+    {
+      "name": "경암동철길마을",
+      "lat": 35.9813901,
+      "lng": 126.735567,
+      "category": "문화/거리",
+      "description": "옛 철길 위에 조성된 마을로 철길 벚꽃 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 268.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gunsancityhall.jpg/1280px-Gunsancityhall.jpg"
+    },
+    {
+      "name": "군산내항",
+      "lat": 35.988,
+      "lng": 126.735,
+      "category": "항구/문화",
+      "description": "옛 항구 풍경과 근대 건축이 어우러진 군산 대표 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 267.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gunsan_Inner_Harbor_Railway.jpg/1280px-Gunsan_Inner_Harbor_Railway.jpg"
+    },
+    {
+      "name": "월명공원",
+      "lat": 35.9599701,
+      "lng": 126.6825371,
+      "category": "도시공원",
+      "description": "군산 시내에 조성된 대표 공원으로 호수와 산책로가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 271.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Wolmyeongparktw.jpg/1280px-Wolmyeongparktw.jpg"
+    },
+    {
+      "name": "금강하구둑",
+      "lat": 35.987,
+      "lng": 126.76,
+      "category": "인프라/생태",
+      "description": "금강 하구를 가로지르는 방조제로 철새 도래지로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B8%88%EA%B0%95%ED%95%98%EA%B5%AC%EB%91%91",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 267.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Geum_river_seawall.jpg/1280px-Geum_river_seawall.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "군산 역사·문화 시그니처 스카이 트레일",
+      "description": "월명공원 → 군산근대역사박물관 → 군산내항 → 경암동철길마을 → 금강하구둑 순으로 이어지는 전북특별자치도 군산시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "월명공원",
+        "군산근대역사박물관",
+        "군산내항",
+        "경암동철길마을",
+        "금강하구둑"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "군산 세월을 나는 문화유산 플라이트",
+      "description": "군산근대역사박물관 → 군산내항 → 경암동철길마을 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 군산의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "군산근대역사박물관",
+        "군산내항",
+        "경암동철길마을"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "군산 그린 랜드스케이프 플라이트",
+      "description": "월명공원 → 군산근대역사박물관 → 금강하구둑 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 군산의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "월명공원",
+        "군산근대역사박물관",
+        "금강하구둑"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "임피만두",
+      "lat": 35.97,
+      "lng": 126.735,
+      "specialty": "군만두",
+      "category": "향토음식"
+    },
+    {
+      "name": "군산근대시장 빵골목",
+      "lat": 35.967,
+      "lng": 126.736,
+      "specialty": "찹쌀도넛",
+      "category": "전통디저트"
+    },
+    {
+      "name": "오식도동 갈치조림집",
+      "lat": 35.976,
+      "lng": 126.728,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "월명공원 골목식당",
+      "lat": 35.95948,
+      "lng": 126.682677,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "군산근대역사박물관",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 40,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      },
+      {
+        "target_landmark": "경암동철길마을",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 18,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      },
+      {
+        "target_landmark": "군산내항",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 27,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      },
+      {
+        "target_landmark": "월명공원",
+        "station_name": "월명공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.96277,
+          126.680137
+        ]
+      },
+      {
+        "target_landmark": "금강하구둑",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 45,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "군산 중앙 공영주차장",
+        "coordinates": [
+          35.96197,
+          126.680537
+        ],
+        "capacity": 177,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "군산 제2 공영주차장",
+        "coordinates": [
+          35.990014,
+          126.714203
+        ],
+        "capacity": 70,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "군산초등학교 운동장",
+        "coordinates": [
+          36.053206,
+          126.567975
+        ],
+        "capacity": 7000,
+        "address": "전북특별자치도 군산시"
+      },
+      {
+        "name": "군산실내체육관",
+        "coordinates": [
+          36.044592,
+          126.649447
+        ],
+        "capacity": 6600,
+        "address": "전북특별자치도 군산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "군산근대역사박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "경암동철길마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "군산내항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "월명공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "금강하구둑",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "군산내항 봄",
+        "경암동철길마을 봄"
+      ],
+      "summer": [
+        "군산내항 여름",
+        "금강하구둑 여름"
+      ],
+      "autumn": [
+        "월명공원 단풍",
+        "경암동철길마을 가을"
+      ],
+      "winter": [
+        "군산근대역사박물관 겨울 조명",
+        "월명공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "군산내항 야경",
+        "coordinates": [
+          35.988,
+          126.735
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "경암동철길마을 야경",
+        "coordinates": [
+          35.98139,
+          126.735567
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "군산시는 개항기 이후 근대 항만 도시로 성장한 전북 서부의 도시로 근대 건축 유산과 철길마을, 군산내항 등의 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gunsan-si, Jeonbuk",
+      "landmarks": {
+        "군산근대역사박물관": [
+          "Gunsan Modern History Museum",
+          "Museum displaying the port-opening era history of Gunsan."
+        ],
+        "경암동철길마을": [
+          "Gyeongam-dong Railroad Town",
+          "Village built along an old rail line, famed for cherry blossoms on the tracks."
+        ],
+        "군산내항": [
+          "Gunsan Inner Port",
+          "Signature waterfront blending old harbor scenes and modern architecture."
+        ],
+        "월명공원": [
+          "Wolmyeong Park",
+          "City park in downtown Gunsan with a lake and walking trails."
+        ],
+        "금강하구둑": [
+          "Geum River Estuary Bank",
+          "Sea dike across the Geum River estuary, famed as a migratory bird haven."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 群山市",
+      "landmarks": {
+        "군산근대역사박물관": [
+          "群山近代歴史博物館",
+          "群山開港期の歴史を展示する代表的な近代史博物館。"
+        ],
+        "경암동철길마을": [
+          "景岩洞鉄道村",
+          "古い鉄道の上に造られた村。鉄道の桜の名所。"
+        ],
+        "군산내항": [
+          "群山内港",
+          "昔の港の風景と近代建築が調和する群山を代表する観光地。"
+        ],
+        "월명공원": [
+          "月明公園",
+          "群山市内に造られた代表的な公園。湖と散歩道がある。"
+        ],
+        "금강하구둑": [
+          "錦江河の口締切堤",
+          "錦江河の口を横断する防潮堤。渡り鳥の飛来地として有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 群山市",
+      "landmarks": {
+        "군산근대역사박물관": [
+          "群山近代历史博物馆",
+          "展示群山开港期历史的代表性近代史博物馆。"
+        ],
+        "경암동철길마을": [
+          "景岩洞铁路村",
+          "建于旧铁道上的村落，铁道樱花名胜。"
+        ],
+        "군산내항": [
+          "群山内港",
+          "旧港风情与近代建筑交融的群山代表性观光地。"
+        ],
+        "월명공원": [
+          "月明公园",
+          "群山市内的代表性公园，配有湖水和步道。"
+        ],
+        "금강하구둑": [
+          "锦江口防潮堤",
+          "横跨锦江口的防潮堤，著名的候鸟栖息地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gunsan.go.kr",
+    "civil_service_center": {
+      "location_name": "군산시청 민원실 앞",
+      "coordinates": [
+        126.737032,
+        35.966397
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-454-4000",
+      "info": "전북특별자치도 군산시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "군산시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.218786,
+      35.969814
+    ],
+    "cctv_zone_count": 193,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "은파호수공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "군산 시민축제",
+    "typical_month": 10,
+    "venue_name": "은파호수공원",
+    "venue_coords": [
+      126.219286,
+      35.969915
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "군산시 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.737932,
+      35.964697
+    ],
+    "reservation_url": "https://www.gunsan.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "군산시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.734532,
+      35.968897
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "군산시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.739032,
+      35.968897
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "오식도동 갈치조림집",
+    "coordinates": [
+      126.728,
+      35.976
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "갈치조림 (군산시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=군산시청&goalx=126.737032&goaly=35.966397",
+    "kakaonavi_url": "kakaonavi://navigate?name=군산시청&x=126.737032&y=35.966397&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=군산시청&dlng=126.737032&dlat=35.966397&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:39",
+      "sunset": "18:47",
+      "noon_altitude_deg": 54.0
+    },
+    "summer_solstice": {
+      "sunrise": "05:19",
+      "sunset": "19:55",
+      "noon_altitude_deg": 77.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:24",
+      "sunset": "18:32",
+      "noon_altitude_deg": 54.0
+    },
+    "winter_solstice": {
+      "sunrise": "07:42",
+      "sunset": "17:25",
+      "noon_altitude_deg": 30.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "군산시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.220036,
+          35.968764
+        ],
+        [
+          126.218786,
+          35.969814
+        ],
+        [
+          126.218436,
+          35.971214
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "군산시 전통시장 만남의거리",
+    "anchor_center": [
+      126.735499,
+      35.968264
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 130,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
