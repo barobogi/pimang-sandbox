@@ -302,6 +302,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "안산호수공원 벚꽃",
+        "대부도 봄 갯벌"
+      ],
+      "summer": [
+        "대부도 여름 해변",
+        "안산호수공원 여름"
+      ],
+      "autumn": [
+        "대부도 갈대",
+        "안산호수공원 단풍"
+      ],
+      "winter": [
+        "안산호수공원 겨울 빛축제",
+        "대부도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "안산호수공원 야경",
+        "coordinates": [
+          37.301186,
+          126.82539
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "대부도 야경",
+        "coordinates": [
+          37.255397,
+          126.58832
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "안산 단원구는 안산호수공원과 대부도, 반월국가산업단지가 함께한 안산 서부의 구이다.",
   "data_sources": [
     {
