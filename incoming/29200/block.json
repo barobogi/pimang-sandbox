@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "첨단지구",
+        "station_name": "첨단지구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.197,
+          126.807
+        ]
+      },
+      {
+        "target_landmark": "송정역 상권",
+        "station_name": "송정역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.193,
+          126.829
+        ]
+      },
+      {
+        "target_landmark": "백호생태공원",
+        "station_name": "백호생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.176,
+          126.778
+        ]
+      },
+      {
+        "target_landmark": "우수영공원",
+        "station_name": "우수영공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.183,
+          126.798
+        ]
+      },
+      {
+        "target_landmark": "수완지구",
+        "station_name": "수완지구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.189249,
+          126.812002
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광산 중앙 공영주차장",
+        "coordinates": [
+          35.1788,
+          126.7788
+        ],
+        "capacity": 168,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "광산 제2 공영주차장",
+        "coordinates": [
+          35.1846,
+          126.802
+        ],
+        "capacity": 57,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "광산 제3 공영주차장",
+        "coordinates": [
+          35.2002,
+          126.811
+        ],
+        "capacity": 197,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "광주 광산구는 첨단지구와 송정역 상권이 자리한 광주 서부의 구이다.",
   "data_sources": [
     {
