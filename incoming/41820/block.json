@@ -341,6 +341,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -466,5 +471,48 @@
       127.44223,
       37.812016
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "가평군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.51281,
+      37.826749
+    ],
+    "reservation_url": "https://www.gp.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "가평군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.51151,
+      37.823149
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "가평군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.51021,
+      37.827649
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "명지산 큰마당식당",
+    "coordinates": [
+      127.432355,
+      37.94211
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "유과 (가평군 지정 모범음식점)"
   }
 }
