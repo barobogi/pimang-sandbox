@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "팔공산 봄 진달래",
+        "화본역 봄"
+      ],
+      "summer": [
+        "팔공산 계곡 여름",
+        "군위삼존석굴 여름"
+      ],
+      "autumn": [
+        "팔공산 단풍길",
+        "군위삼존석굴 가을"
+      ],
+      "winter": [
+        "팔공산 설경",
+        "화본역 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "군위삼존석굴 야경",
+        "coordinates": [
+          36.047994,
+          128.643113
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "화본역 야경",
+        "coordinates": [
+          36.124624,
+          128.695191
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "군위군은 팔공산과 삼존석굴, 군위 화본? 아니라 화본역이 자리한 경북 중부의 군이다.",
   "data_sources": [
     {
