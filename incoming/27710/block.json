@@ -338,6 +338,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -463,5 +468,48 @@
       128.524304,
       35.775534
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "달성군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      128.433185,
+      35.771145
+    ],
+    "reservation_url": "https://www.dalseong.daegu.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "달성군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.433685,
+      35.772345
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "달성군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.431785,
+      35.770645
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "비슬산 골목식당",
+    "coordinates": [
+      128.500428,
+      35.713385
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "가이국밥 (달성군 지정 모범음식점)"
   }
 }
