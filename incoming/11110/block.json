@@ -1,0 +1,583 @@
+{
+  "block_code": "11110",
+  "block_name": "서울특별시 종로구",
+  "bbox": [
+    126.948904,
+    37.565796,
+    127.023419,
+    37.632353
+  ],
+  "center": [
+    37.599074,
+    126.986162
+  ],
+  "landmarks": [
+    {
+      "name": "경복궁",
+      "lat": 37.579754,
+      "lng": 126.9766818,
+      "category": "역사/고궁",
+      "description": "조선 왕조의 법궁으로 근정전과 경회루 등 대표적 전통 건축 유산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EB%B3%B5%EA%B6%81",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 21.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/1280px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg"
+    },
+    {
+      "name": "창덕궁",
+      "lat": 37.5776064,
+      "lng": 126.9912033,
+      "category": "유네스코/문화유산",
+      "description": "자연과 건축의 조화가 인정된 유네스코 세계문화유산 궁궐이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%8D%95%EA%B6%81",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 349.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/1280px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg"
+    },
+    {
+      "name": "광화문광장",
+      "lat": 37.5727839,
+      "lng": 126.9768558,
+      "category": "도심/공공광장",
+      "description": "세종대왕 동상이 있는 대한민국 역사의 중심 보행 광장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%99%94%EB%AC%B8%EA%B4%91%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 15.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Nightview_of_the_Gwanghwamun_Square_2024.jpg/1280px-Nightview_of_the_Gwanghwamun_Square_2024.jpg"
+    },
+    {
+      "name": "북촌한옥마을",
+      "lat": 37.5823919,
+      "lng": 126.9858648,
+      "category": "전통/주거문화",
+      "description": "조선 시대 양반 거주지였던 전통 한옥 밀집 보존 지구이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%81%EC%B4%8C%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 0.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg/1280px-Bukchon_Hanok_Village_%EB%B6%81%EC%B4%8C_%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84_October_1_2020_15.jpg"
+    },
+    {
+      "name": "인사동",
+      "lat": 37.5716543,
+      "lng": 126.9864242,
+      "category": "문화/거리",
+      "description": "전통 공예와 갤러리, 찻집이 밀집한 대표 전통 문화 거리이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%82%AC%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 359.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Seoul%2C_Jongno_District%2C_Insa-dong%2C_Insadong-gil.jpg/1280px-Seoul%2C_Jongno_District%2C_Insa-dong%2C_Insadong-gil.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "종로 역사·문화 시그니처 스카이 트레일",
+      "description": "북촌한옥마을 → 창덕궁 → 인사동 → 광화문광장 → 경복궁 순으로 이어지는 서울특별시 종로구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "북촌한옥마을",
+        "창덕궁",
+        "인사동",
+        "광화문광장",
+        "경복궁"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "종로 세월을 나는 문화유산 플라이트",
+      "description": "경복궁 → 북촌한옥마을 → 창덕궁 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 종로의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "경복궁",
+        "북촌한옥마을",
+        "창덕궁"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "청진옥",
+      "lat": 37.5711,
+      "lng": 126.991,
+      "specialty": "삼계탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "이문설농탕",
+      "lat": 37.5708,
+      "lng": 126.9894,
+      "specialty": "설농탕",
+      "category": "한식"
+    },
+    {
+      "name": "북촌손만두",
+      "lat": 37.5797,
+      "lng": 126.9849,
+      "specialty": "군만두",
+      "category": "향토음식"
+    },
+    {
+      "name": "인사동 전통찻집 골목",
+      "lat": 37.5717,
+      "lng": 126.9864,
+      "specialty": "다식과 한과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "경복궁",
+        "station_name": "경복궁역",
+        "line": "서울 3호선",
+        "exit_no": 1,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.576,
+          126.9769
+        ]
+      },
+      {
+        "target_landmark": "창덕궁",
+        "station_name": "안국역",
+        "line": "서울 3호선",
+        "exit_no": 2,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.5764,
+          126.9851
+        ]
+      },
+      {
+        "target_landmark": "광화문광장",
+        "station_name": "경복궁역",
+        "line": "서울 3호선",
+        "exit_no": 1,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.576,
+          126.9769
+        ]
+      },
+      {
+        "target_landmark": "북촌한옥마을",
+        "station_name": "안국역",
+        "line": "서울 3호선",
+        "exit_no": 2,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.5764,
+          126.9851
+        ]
+      },
+      {
+        "target_landmark": "인사동",
+        "station_name": "종각역",
+        "line": "서울 1호선",
+        "exit_no": 8,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.5702,
+          126.9835
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "종로구청 공영주차장",
+        "coordinates": [
+          37.5736,
+          126.9798
+        ],
+        "capacity": 180,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "경복궁 인근 공영주차장",
+        "coordinates": [
+          37.5782,
+          126.9741
+        ],
+        "capacity": 90,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "종로초등학교 운동장",
+        "coordinates": [
+          37.580805,
+          126.983116
+        ],
+        "capacity": 5900,
+        "address": "서울특별시 종로구"
+      },
+      {
+        "name": "종로실내체육관",
+        "coordinates": [
+          37.571665,
+          126.993566
+        ],
+        "capacity": 1600,
+        "address": "서울특별시 종로구"
+      },
+      {
+        "name": "종로중앙공원 비상집합장소",
+        "coordinates": [
+          37.572072,
+          126.97967
+        ],
+        "capacity": 6000,
+        "address": "서울특별시 종로구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "경복궁",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창덕궁",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "광화문광장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북촌한옥마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인사동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "창경궁 벚꽃길",
+        "경복궁 봄꽃 산책로"
+      ],
+      "summer": [
+        "광화문광장 여름 물놀이장",
+        "북촌한옥마을 여름 저녁 골목"
+      ],
+      "autumn": [
+        "창덕궁 후원 가을 단풍",
+        "인사동 가을 골목"
+      ],
+      "winter": [
+        "광화문광장 겨울 빛축제",
+        "북촌한옥마을 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "북촌한옥마을 야경",
+        "coordinates": [
+          37.582392,
+          126.985865
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "광화문광장 야경",
+        "coordinates": [
+          37.572784,
+          126.976856
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "종로구는 조선 건국 이래 600년 한양의 중심지로 궁궐과 전통 한옥 마을, 대학로 문화 예술 공간이 함께한 서울 대표 문화 역사 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jongno-gu, Seoul",
+      "landmarks": {
+        "경복궁": [
+          "Gyeongbokgung Palace",
+          "The main royal palace of the Joseon Dynasty, featuring Geunjeongjeon Hall and Gyeonghoeru Pavilion."
+        ],
+        "창덕궁": [
+          "Changdeokgung Palace",
+          "UNESCO World Heritage palace renowned for its harmony with the surrounding nature."
+        ],
+        "광화문광장": [
+          "Gwanghwamun Square",
+          "Central pedestrian plaza of Korean history, home to the statue of King Sejong the Great."
+        ],
+        "북촌한옥마을": [
+          "Bukchon Hanok Village",
+          "Preserved district dense with traditional hanok houses, once home to Joseon-era aristocrats."
+        ],
+        "인사동": [
+          "Insa-dong",
+          "Representative traditional culture street lined with craft shops, galleries, and teahouses."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 鐘路区",
+      "landmarks": {
+        "경복궁": [
+          "景福宮",
+          "朝鮮王朝の正宮。勤政殿や慶会楼など代表的な伝統建築を見どころとする。"
+        ],
+        "창덕궁": [
+          "昌徳宮",
+          "自然と建築の調和が認められたユネスコ世界文化遺産の宮殿。"
+        ],
+        "광화문광장": [
+          "光化門広場",
+          "世宗大王銅像が立つ、韓国史の中心地である歩行者広場。"
+        ],
+        "북촌한옥마을": [
+          "北村韓屋村",
+          "朝鮮時代の両班の居住地だった伝統韓屋が密集して保存される地区。"
+        ],
+        "인사동": [
+          "仁寺洞",
+          "伝統工芸やギャラリー、茶屋が集まる韓国を代表する伝統文化ストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 钟路区",
+      "landmarks": {
+        "경복궁": [
+          "景福宫",
+          "朝鲜王朝的正宫，坐落着勤政殿、庆会楼等代表性传统建筑。"
+        ],
+        "창덕궁": [
+          "昌德宫",
+          "以建筑与自然和谐相融著称，被列入联合国教科文组织世界文化遗产。"
+        ],
+        "광화문광장": [
+          "光化门广场",
+          "矗立着世宗大王铜像的步行广场，是韩国历史的中心。"
+        ],
+        "북촌한옥마을": [
+          "北村韩屋村",
+          "朝鲜时代两班贵族的居住地，传统韩屋密集保存至今。"
+        ],
+        "인사동": [
+          "仁寺洞",
+          "汇集传统工艺店、画廊和茶馆的代表性传统文化街区。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jongno.go.kr",
+    "civil_service_center": {
+      "location_name": "종로구청 민원실 앞",
+      "coordinates": [
+        126.981582,
+        37.572189
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2148-1114",
+      "info": "서울특별시 종로구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "종로구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.986162,
+      37.598875
+    ],
+    "cctv_zone_count": 326,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "낙산공원",
+    "trail_length_km": 2.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "종로한복축제",
+    "typical_month": 10,
+    "venue_name": "경복궁 및 광화문광장 일대",
+    "venue_coords": [
+      126.985862,
+      37.598974
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "종로구민회관",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.978982,
+      37.573189
+    ],
+    "reservation_url": "https://www.jongno.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "종로구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.984482,
+      37.574189
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "종로구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.984482,
+      37.572989
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "인사동 전통찻집 골목",
+    "coordinates": [
+      126.9864,
+      37.5717
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "다식과 한과 (종로구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=종로구청&goalx=126.981582&goaly=37.572189",
+    "kakaonavi_url": "kakaonavi://navigate?name=종로구청&x=126.981582&y=37.572189&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=종로구청&dlng=126.981582&dlat=37.572189&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "종로구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.986612,
+          37.599225
+        ],
+        [
+          126.986162,
+          37.598875
+        ],
+        [
+          126.985562,
+          37.599175
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "종로 관철동 젊음의 거리",
+    "anchor_center": [
+      126.983249,
+      37.571256
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 310,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
