@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "좌구산천문대",
+        "station_name": "좌구산천문대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.704056,
+          127.654353
+        ]
+      },
+      {
+        "target_landmark": "좌구산",
+        "station_name": "좌구산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.71663,
+          127.664275
+        ]
+      },
+      {
+        "target_landmark": "증평군청",
+        "station_name": "증평버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 26,
+        "coordinates": [
+          36.78184,
+          127.601455
+        ]
+      },
+      {
+        "target_landmark": "증평시장",
+        "station_name": "증평버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.78184,
+          127.601455
+        ]
+      },
+      {
+        "target_landmark": "삼기저수지",
+        "station_name": "삼기저수지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.7191,
+          127.625057
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "증평 중앙 공영주차장",
+        "coordinates": [
+          36.78024,
+          127.598655
+        ],
+        "capacity": 92,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "증평 제2 공영주차장",
+        "coordinates": [
+          36.78613,
+          127.582714
+        ],
+        "capacity": 168,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "증평군은 좌구산 천문대와 삼기저수지가 자리한 충북 중부의 군이다.",
   "data_sources": [
     {
