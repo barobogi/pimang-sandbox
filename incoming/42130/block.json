@@ -342,6 +342,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -467,5 +472,48 @@
       127.980878,
       37.324728
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "원주시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.92205,
+      37.34048
+    ],
+    "reservation_url": "https://www.wonju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "원주시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.92235,
+      37.34118
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "원주시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.92015,
+      37.33898
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "원주중앙 큰마당식당",
+    "coordinates": [
+      127.94642,
+      37.33728
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "칼국수 (원주시 지정 모범음식점)"
   }
 }
