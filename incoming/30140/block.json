@@ -364,5 +364,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Daejeon",
+      "landmarks": {
+        "대전성황당": [
+          "Daejeon Seonghwangdang Shrine",
+          "Restored Joseon-era tutelary shrine, one of Daejeon's symbols."
+        ],
+        "보문산": [
+          "Bomunsan Mountain",
+          "Mountain in central Daejeon with hiking trails, a signature local peak."
+        ],
+        "대전중앙시장": [
+          "Daejeon Jungang Market",
+          "Traditional market at the heart of downtown Daejeon."
+        ],
+        "대전근현대사전시관": [
+          "Daejeon Modern History Museum",
+          "Museum exhibiting Daejeon's modern and contemporary history."
+        ],
+        "대전 중앙로 지하상가": [
+          "Daejeon Jungangno Underground Mall",
+          "Large underground shopping district beneath Jungangno in downtown Daejeon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 中区",
+      "landmarks": {
+        "대전성황당": [
+          "大田城隍堂",
+          "朝鮮時代の城隍堂を復元した祠で、大田のシンボルの一つ。"
+        ],
+        "보문산": [
+          "宝門山",
+          "大田都心にある山。登山道と散歩道が整備された代表的な名山。"
+        ],
+        "대전중앙시장": [
+          "大田中央市場",
+          "大田都心の中央にある代表的な伝統市場。"
+        ],
+        "대전근현대사전시관": [
+          "大田近現代史展示館",
+          "大田の近現代史を展示する展示館。"
+        ],
+        "대전 중앙로 지하상가": [
+          "大田中央路地下商店街",
+          "大田都心の中央路の下に形成された大型地下商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 中区",
+      "landmarks": {
+        "대전성황당": [
+          "大田城隍堂",
+          "复原朝鲜时代城隍堂的祠堂，大田的象征之一。"
+        ],
+        "보문산": [
+          "宝门山",
+          "坐落于大田市区，建有登山步道的代表名山。"
+        ],
+        "대전중앙시장": [
+          "大田中央市场",
+          "位于大田市中心的代表性传统市场。"
+        ],
+        "대전근현대사전시관": [
+          "大田近现代史展示馆",
+          "展示大田近现代历史的展馆。"
+        ],
+        "대전 중앙로 지하상가": [
+          "大田中央路地下商街",
+          "大田市中心中央路地下的大型地下商圈。"
+        ]
+      }
+    }
   }
 }
