@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Inje-gun, Gangwon",
+      "landmarks": {
+        "설악산": [
+          "Seoraksan Mountain",
+          "Signature national park mountain of Inje-gun, Gangwon."
+        ],
+        "내린천": [
+          "Naerincheon Stream",
+          "Signature stream attraction of Inje-gun, Gangwon."
+        ],
+        "방동약수": [
+          "Bangdong Mineral Springs",
+          "Signature spring attraction of Inje-gun, Gangwon."
+        ],
+        "인제군청": [
+          "Inje County Office",
+          "Administrative center of Inje-gun, Gangwon."
+        ],
+        "인제시장": [
+          "Inje Market",
+          "Signature market attraction of Inje-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 麟蹄郡",
+      "landmarks": {
+        "설악산": [
+          "雪岳山",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "내린천": [
+          "内麟川",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "방동약수": [
+          "方洞薬水",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "인제군청": [
+          "麟蹄郡庁",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ],
+        "인제시장": [
+          "麟蹄市場",
+          "江原特別自治道麟蹄郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 麟蹄郡",
+      "landmarks": {
+        "설악산": [
+          "雪岳山",
+          "江原特别自治道麟蹄郡的代表性国立公园名山。"
+        ],
+        "내린천": [
+          "内麟川",
+          "江原特别自治道麟蹄郡的代表性河流。"
+        ],
+        "방동약수": [
+          "方洞矿泉水",
+          "江原特别自治道麟蹄郡的代表性涌泉。"
+        ],
+        "인제군청": [
+          "麟蹄郡厅",
+          "江原特别自治道麟蹄郡的行政中心。"
+        ],
+        "인제시장": [
+          "麟蹄市场",
+          "江原特别自治道麟蹄郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
