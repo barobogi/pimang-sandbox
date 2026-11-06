@@ -1,0 +1,572 @@
+{
+  "block_code": "46730",
+  "block_name": "전라남도 구례군",
+  "bbox": [
+    127.367366,
+    35.094209,
+    127.623823,
+    35.366644
+  ],
+  "center": [
+    35.230427,
+    127.495594
+  ],
+  "landmarks": [
+    {
+      "name": "지리산",
+      "lat": 35.2484153,
+      "lng": 127.4940235,
+      "category": "산/국립공원",
+      "description": "지리산은(는) 전라남도 구례군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 175.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Korea-Mountain-Jirisan-15.jpg/1280px-Korea-Mountain-Jirisan-15.jpg"
+    },
+    {
+      "name": "화엄사",
+      "lat": 35.2579603,
+      "lng": 127.4980745,
+      "category": "사찰/문화유산",
+      "description": "화엄사은(는) 전라남도 구례군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%97%84%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 184.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/%ED%99%94%EC%97%84%EC%82%AC3.jpg"
+    },
+    {
+      "name": "사성암",
+      "lat": 35.1798368,
+      "lng": 127.4806407,
+      "category": "사찰/경승지",
+      "description": "사성암은(는) 전라남도 구례군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%84%B1%EC%95%94",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 13.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Korea-Saseongam_11-08000_Main_Hall.JPG"
+    },
+    {
+      "name": "구례군청",
+      "lat": 35.2022669,
+      "lng": 127.4632268,
+      "category": "행정/랜드마크",
+      "description": "구례군청은(는) 전라남도 구례군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%80%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 43.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gurye-gun_office.JPG/1280px-Gurye-gun_office.JPG"
+    },
+    {
+      "name": "구례시장",
+      "lat": 35.2304269,
+      "lng": 127.4955943,
+      "category": "시장/먹거리",
+      "description": "구례시장은(는) 전라남도 구례군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%80%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 292.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gurye-gun_office.JPG/1280px-Gurye-gun_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "구례 역사·문화 시그니처 스카이 트레일",
+      "description": "구례시장 → 지리산 → 화엄사 → 구례군청 → 사성암 순으로 이어지는 전라남도 구례군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "구례시장",
+        "지리산",
+        "화엄사",
+        "구례군청",
+        "사성암"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "구례 세월을 나는 문화유산 플라이트",
+      "description": "화엄사 → 지리산 → 사성암 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 구례의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "화엄사",
+        "지리산",
+        "사성암"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "구례 도심 스카이라인 크루즈",
+      "description": "구례시장 → 구례군청 → 사성암 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 구례의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "구례시장",
+        "구례군청",
+        "사성암"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "구례 솥뚜껑가게",
+      "lat": 35.230707,
+      "lng": 127.494964,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "구례 큰마당식당",
+      "lat": 35.230217,
+      "lng": 127.495174,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "구례 골목식당",
+      "lat": 35.229727,
+      "lng": 127.495174,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "지리산",
+        "station_name": "지리산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.245615,
+          127.492824
+        ]
+      },
+      {
+        "target_landmark": "화엄사",
+        "station_name": "화엄사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.25516,
+          127.496875
+        ]
+      },
+      {
+        "target_landmark": "사성암",
+        "station_name": "사성암 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.177037,
+          127.479441
+        ]
+      },
+      {
+        "target_landmark": "구례군청",
+        "station_name": "구례군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.199467,
+          127.462027
+        ]
+      },
+      {
+        "target_landmark": "구례시장",
+        "station_name": "구례시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.227627,
+          127.494394
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "구례 중앙 공영주차장",
+        "coordinates": [
+          35.231627,
+          127.493194
+        ],
+        "capacity": 234,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구례 제2 공영주차장",
+        "coordinates": [
+          35.248415,
+          127.492424
+        ],
+        "capacity": 403,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "구례초등학교 운동장",
+        "coordinates": [
+          35.27563,
+          127.489577
+        ],
+        "capacity": 4700,
+        "address": "전라남도 구례군"
+      },
+      {
+        "name": "구례실내체육관",
+        "coordinates": [
+          35.235111,
+          127.518807
+        ],
+        "capacity": 1800,
+        "address": "전라남도 구례군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "지리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화엄사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사성암",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구례군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "구례시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화엄사 봄",
+        "사성암 봄"
+      ],
+      "summer": [
+        "지리산 계곡 여름",
+        "화엄사 여름"
+      ],
+      "autumn": [
+        "지리산 단풍길",
+        "화엄사 가을"
+      ],
+      "winter": [
+        "지리산 설경",
+        "화엄사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "사성암 야경",
+        "coordinates": [
+          35.179837,
+          127.480641
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "구례시장 야시장",
+        "coordinates": [
+          35.230427,
+          127.495594
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "구례군은 지리산과 화엄사, 사성암이 자리한 전남 동부 산악 관광의 중심 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gurye-gun, Jeonnam",
+      "landmarks": {
+        "지리산": [
+          "Jirisan Mountain",
+          "Signature national park mountain of Gurye-gun, Jeonnam."
+        ],
+        "화엄사": [
+          "Hwaeomsa Temple",
+          "Signature temple heritage of Gurye-gun, Jeonnam."
+        ],
+        "사성암": [
+          "Saseongam Hermitage",
+          "Signature hermitage scenic site of Gurye-gun, Jeonnam."
+        ],
+        "구례군청": [
+          "Gurye County Office",
+          "Administrative center of Gurye-gun, Jeonnam."
+        ],
+        "구례시장": [
+          "Gurye Market",
+          "Signature market attraction of Gurye-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 求禮郡",
+      "landmarks": {
+        "지리산": [
+          "智異山",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "화엄사": [
+          "華厳寺",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "사성암": [
+          "子目庵",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "구례군청": [
+          "求禮郡庁",
+          "全羅南道求禮郡を代表する名所。"
+        ],
+        "구례시장": [
+          "求禮市場",
+          "全羅南道求禮郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 求礼郡",
+      "landmarks": {
+        "지리산": [
+          "智异山",
+          "全罗南道求礼郡的代表性国立公园名山。"
+        ],
+        "화엄사": [
+          "华严寺",
+          "全罗南道求礼郡的代表性古刹。"
+        ],
+        "사성암": [
+          "四溟庵",
+          "全罗南道求礼郡的代表性岩庵胜景。"
+        ],
+        "구례군청": [
+          "求礼郡厅",
+          "全罗南道求礼郡的行政中心。"
+        ],
+        "구례시장": [
+          "求礼市场",
+          "全罗南道求礼郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gurye.go.kr",
+    "civil_service_center": {
+      "location_name": "구례군청 민원실 앞",
+      "coordinates": [
+        127.464483,
+        35.205665
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-782-2014",
+      "info": "전라남도 구례군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "구례군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.495395,
+      35.230727
+    ],
+    "cctv_zone_count": 466,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "봉황산 근린공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "구례 산수유축제",
+    "typical_month": 3,
+    "venue_name": "구례 산수유단지(봉황산)",
+    "venue_coords": [
+      127.495995,
+      35.230427
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "구례군 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.464783,
+      35.206165
+    ],
+    "reservation_url": "https://www.gurye.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "구례군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.464283,
+      35.205065
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "구례군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.461783,
+      35.204665
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "구례 큰마당식당",
+    "coordinates": [
+      127.495174,
+      35.230217
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "갈치조림 (구례군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=구례군청&goalx=127.464483&goaly=35.205665",
+    "kakaonavi_url": "kakaonavi://navigate?name=구례군청&x=127.464483&y=35.205665&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=구례군청&dlng=127.464483&dlat=35.205665&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:42",
+      "noon_altitude_deg": 54.8
+    },
+    "summer_solstice": {
+      "sunrise": "05:16",
+      "sunset": "19:48",
+      "noon_altitude_deg": 78.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:27",
+      "noon_altitude_deg": 54.8
+    },
+    "winter_solstice": {
+      "sunrise": "07:35",
+      "sunset": "17:22",
+      "noon_altitude_deg": 31.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "구례군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.496195,
+          35.230777
+        ],
+        [
+          127.495395,
+          35.230727
+        ],
+        [
+          127.496845,
+          35.231777
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "구례군 전통시장 만남의거리",
+    "anchor_center": [
+      127.464283,
+      35.204398
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 290,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
