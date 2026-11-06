@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Miryang-si, Gyeongnam",
+      "landmarks": {
+        "영남루": [
+          "Yeongnamnu Pavilion",
+          "Signature pavilion heritage of Miryang-si, Gyeongnam."
+        ],
+        "표충사": [
+          "Pyochungsa Temple",
+          "Signature temple heritage of Miryang-si, Gyeongnam."
+        ],
+        "밀양시청": [
+          "Miryang City Hall",
+          "Administrative center of Miryang-si, Gyeongnam."
+        ],
+        "밀양시장": [
+          "Miryang Market",
+          "Signature market attraction of Miryang-si, Gyeongnam."
+        ],
+        "밀양강": [
+          "Miryang River",
+          "Signature river attraction of Miryang-si, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 密陽市",
+      "landmarks": {
+        "영남루": [
+          "嶺南楼",
+          "慶尚南道密陽市を代表する名所。"
+        ],
+        "표충사": [
+          "表忠寺",
+          "慶尚南道密陽市を代表する名所。"
+        ],
+        "밀양시청": [
+          "密陽市庁",
+          "慶尚南道密陽市を代表する名所。"
+        ],
+        "밀양시장": [
+          "密陽市場",
+          "慶尚南道密陽市を代表する名所。"
+        ],
+        "밀양강": [
+          "密陽江",
+          "慶尚南道密陽市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 密阳市",
+      "landmarks": {
+        "영남루": [
+          "岭南楼",
+          "庆尚南道密阳市的代表性楼阁。"
+        ],
+        "표충사": [
+          "表忠寺",
+          "庆尚南道密阳市的代表性古刹。"
+        ],
+        "밀양시청": [
+          "密阳市厅",
+          "庆尚南道密阳市的行政中心。"
+        ],
+        "밀양시장": [
+          "密阳市场",
+          "庆尚南道密阳市的代表性市场。"
+        ],
+        "밀양강": [
+          "密阳江",
+          "庆尚南道密阳市的代表性河流。"
+        ]
+      }
+    }
   }
 }
