@@ -1,0 +1,588 @@
+{
+  "block_code": "47280",
+  "block_name": "경상북도 문경시",
+  "bbox": [
+    127.874293,
+    36.51431,
+    128.371527,
+    36.892
+  ],
+  "center": [
+    36.703155,
+    128.12291
+  ],
+  "landmarks": [
+    {
+      "name": "문경새",
+      "lat": 36.875,
+      "lng": 128.148,
+      "category": "관문/역사",
+      "description": "조선 시대 영남과 수도를 잇는 대표 관문 고개다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 186.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/1280px-Saejae_third_gate_backside.jpg"
+    },
+    {
+      "name": "주흘관문",
+      "lat": 36.892,
+      "lng": 128.152,
+      "category": "관문/문화유산",
+      "description": "문경새의 제1관문으로 성곽과 관문 유적이 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 187.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Saejae_third_gate_backside.jpg/1280px-Saejae_third_gate_backside.jpg"
+    },
+    {
+      "name": "표충비",
+      "lat": 36.82,
+      "lng": 128.2,
+      "category": "비석/문화유산",
+      "description": "임진왜란 때 순절한 김응함 장군을 기리는 유서 깊은 비석이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 207.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    },
+    {
+      "name": "문경향교",
+      "lat": 36.61,
+      "lng": 128.181,
+      "category": "교육/문화유산",
+      "description": "조선 시대 문경의 지방 교육기관으로 유서 깊은 향교다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 333.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%EB%AC%B8%EA%B2%BD%ED%96%A5%EA%B5%90_%EB%8C%80%EC%84%B1%EC%A0%84.jpg"
+    },
+    {
+      "name": "추점사",
+      "lat": 36.615,
+      "lng": 128.19,
+      "category": "사당/문화유산",
+      "description": "문경 지역 선비 문화를 지닌 유서 깊은 사당이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EA%B2%BD%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 328.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mungyeong_City_Hall.JPG/1280px-Mungyeong_City_Hall.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "문경 자연 힐링 시그니처 에어리얼 투어",
+      "description": "추점사 → 문경향교 → 표충비 → 문경새 → 주흘관문 순으로 이어지는 경상북도 문경시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "추점사",
+        "문경향교",
+        "표충비",
+        "문경새",
+        "주흘관문"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "문경 산하 절경 에어리얼 투어",
+      "description": "표충비 → 추점사 → 문경향교 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 문경의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "표충비",
+        "추점사",
+        "문경향교"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "문경 고즈넉한 역사 스카이 산책",
+      "description": "주흘관문 → 문경새 → 표충비 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 문경의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "주흘관문",
+        "문경새",
+        "표충비"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "문경향교 본점",
+      "lat": 36.6093,
+      "lng": 128.18065,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "추점사 할매집",
+      "lat": 36.61465,
+      "lng": 128.18993,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "표충비 솥뚜껑가게",
+      "lat": 36.82035,
+      "lng": 128.20056,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "문경새 가마솥밥가",
+      "lat": 36.8743,
+      "lng": 128.1487,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "문경새",
+        "station_name": "문경새 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.8754,
+          128.1472
+        ]
+      },
+      {
+        "target_landmark": "주흘관문",
+        "station_name": "주흘관문 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.8916,
+          128.1512
+        ]
+      },
+      {
+        "target_landmark": "표충비",
+        "station_name": "표충비 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.8204,
+          128.1992
+        ]
+      },
+      {
+        "target_landmark": "문경향교",
+        "station_name": "문경버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.6108,
+          128.1798
+        ]
+      },
+      {
+        "target_landmark": "추점사",
+        "station_name": "문경버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 15,
+        "coordinates": [
+          36.6108,
+          128.1798
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "문경 중앙 공영주차장",
+        "coordinates": [
+          36.6088,
+          128.1818
+        ],
+        "capacity": 141,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "문경 제2 공영주차장",
+        "coordinates": [
+          36.6158,
+          128.1904
+        ],
+        "capacity": 103,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "문경초등학교 운동장",
+        "coordinates": [
+          36.83042,
+          128.146942
+        ],
+        "capacity": 7100,
+        "address": "경상북도 문경시"
+      },
+      {
+        "name": "문경실내체육관",
+        "coordinates": [
+          36.839661,
+          128.174397
+        ],
+        "capacity": 3300,
+        "address": "경상북도 문경시"
+      },
+      {
+        "name": "문경중앙공원 비상집합장소",
+        "coordinates": [
+          36.865551,
+          128.127072
+        ],
+        "capacity": 7500,
+        "address": "경상북도 문경시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "문경새",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주흘관문",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "표충비",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문경향교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "추점사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "문경새재 봄",
+        "주흘관문 봄"
+      ],
+      "summer": [
+        "문경새재 여름 계곡",
+        "문경새재 옛길 여름"
+      ],
+      "autumn": [
+        "문경새재 단풍길",
+        "주흘관문 가을"
+      ],
+      "winter": [
+        "문경새재 설경",
+        "문경향교 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "문경새재 야경",
+        "coordinates": [
+          36.875,
+          128.148
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "주흘관문 야경",
+        "coordinates": [
+          36.890489,
+          128.152
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "문경시는 조선 시대 영남과 한양을 잇는 문경새 관문이 있던 유서 깊은 도시로 주흘관문과 표충비 등 역사 유적과 산악 자연이 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Mungyeong-si, Gyeongbuk",
+      "landmarks": {
+        "문경새": [
+          "Mungyeong Saejae Pass",
+          "Joseon-era gateway pass linking Yeongnam and the capital."
+        ],
+        "주흘관문": [
+          "Juheulgwam Gate",
+          "First gate of Mungyeong Saejae, with fortress and gate remains."
+        ],
+        "표충비": [
+          "Pyochungbi Monument",
+          "Historic stele honoring General Kim Eung-ham, who fell in the Imjin War."
+        ],
+        "문경향교": [
+          "Mungyeong Hyanggyo",
+          "Joseon-era local school of Mungyeong, a storied hyanggyo."
+        ],
+        "추점사": [
+          "Chujeomsa Shrine",
+          "Historic shrine carrying the scholar culture of the Mungyeong region."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 聞慶市",
+      "landmarks": {
+        "문경새": [
+          "聞慶鳥嶺",
+          "朝鮮時代に嶺南と都を結んだ代表的な関所の峠。"
+        ],
+        "주흘관문": [
+          "主屹関門",
+          "聞慶鳥嶺の第1関門。城郭と関門の遺跡が残る。"
+        ],
+        "표충비": [
+          "表忠碑",
+          "壬辰倭乱で殉国した金応添将軍を顕彰する由緒ある碑。"
+        ],
+        "문경향교": [
+          "聞慶郷校",
+          "朝鮮時代の聞慶の地方教育機関。由緒ある郷校。"
+        ],
+        "추점사": [
+          "秋瞻寺…ではなく抽出祠",
+          "聞慶地方の儒者文化を伝える由緒ある祠。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 闻庆市",
+      "landmarks": {
+        "문경새": [
+          "闻庆鸟岭",
+          "朝鲜时代连接岭南与都城的代表性关隘山岭。"
+        ],
+        "주흘관문": [
+          "主屹关隘",
+          "闻庆鸟岭第一关，留有城墙和关隘遗迹。"
+        ],
+        "표충비": [
+          "表忠碑",
+          "纪念壬辰倭乱殉国的金应添将军的历史石碑。"
+        ],
+        "문경향교": [
+          "闻庆乡校",
+          "朝鲜时代闻庆的地方官学，历史悠久的乡校。"
+        ],
+        "추점사": [
+          "抽占祠",
+          "承载闻庆地区士林文化的古老祠堂。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gbmg.go.kr",
+    "civil_service_center": {
+      "location_name": "문경시청 민원실 앞",
+      "coordinates": [
+        128.185402,
+        36.585174
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-552-3210",
+      "info": "경상북도 문경시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "문경시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.12271,
+      36.702955
+    ],
+    "cctv_zone_count": 435,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "문경새재도립공원",
+    "trail_length_km": 2.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "문경 전통찻사발축제",
+    "typical_month": 5,
+    "venue_name": "문경 찻집단지",
+    "venue_coords": [
+      128.12331,
+      36.703655
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "문경시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.185102,
+      36.584274
+    ],
+    "reservation_url": "https://www.gbmg.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "문경시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.182802,
+      36.583874
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "문경시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.184202,
+      36.585674
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "문경향교 본점",
+    "coordinates": [
+      128.18065,
+      36.6093
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "헛제사밥 (문경시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=문경시청&goalx=128.185402&goaly=36.585174",
+    "kakaonavi_url": "kakaonavi://navigate?name=문경시청&x=128.185402&y=36.585174&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=문경시청&dlng=128.185402&dlat=36.585174&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:31",
+      "sunset": "18:39",
+      "noon_altitude_deg": 53.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:49",
+      "noon_altitude_deg": 76.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:16",
+      "sunset": "18:24",
+      "noon_altitude_deg": 53.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:15",
+      "noon_altitude_deg": 29.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "문경시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.12176,
+          36.703205
+        ],
+        [
+          128.12271,
+          36.702955
+        ],
+        [
+          128.12366,
+          36.704255
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "문경시 중심상업거리",
+    "anchor_center": [
+      128.186869,
+      36.585241
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 120,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
