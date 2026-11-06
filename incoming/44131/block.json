@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동남초등학교 운동장",
+        "coordinates": [
+          36.757379,
+          127.2376
+        ],
+        "capacity": 1100,
+        "address": "충청남도 천안시 동남구"
+      },
+      {
+        "name": "동남실내체육관",
+        "coordinates": [
+          36.810669,
+          127.114287
+        ],
+        "capacity": 2700,
+        "address": "충청남도 천안시 동남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "독립기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "천안흥타령난장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광덕산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태조산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천안 남산공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "동남구는 천안 시내의 원도심 구로 독립기념관과 유관순열사 기념? 아니라 흥타령 문화와 광덕산 등이 함께한 천안 동부의 구이다.",
   "data_sources": [
     {
