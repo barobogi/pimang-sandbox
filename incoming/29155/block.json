@@ -419,5 +419,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.namgu.gwangju.kr",
+    "civil_service_center": {
+      "location_name": "남구청 민원실 앞",
+      "coordinates": [
+        126.840321,
+        35.102068
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "062-651-9020",
+      "info": "광주광역시 남구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "남구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.840821,
+      35.102268
+    ],
+    "cctv_zone_count": 140
+  },
+  "urban_parks_trails": {
+    "park_name": "서림근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "광주 남구 구민축제",
+    "typical_month": 10,
+    "venue_name": "남구청 광장",
+    "venue_coords": [
+      126.84052,
+      35.102768
+    ]
   }
 }
