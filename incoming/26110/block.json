@@ -370,5 +370,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Busan",
+      "landmarks": {
+        "국제시장": [
+          "Gukje Market",
+          "Busan's largest traditional market, formed after the Korean War and famed as a film backdrop."
+        ],
+        "용두산공원": [
+          "Yongdusan Park",
+          "Scenic lookout park crowned by Busan Tower on Yongdusan's summit."
+        ],
+        "광복동": [
+          "Gwangbok-dong",
+          "Bustling heart of downtown Busan and center of fashion and shopping."
+        ],
+        "자갈치시장": [
+          "Jagalchi Market",
+          "Korea's largest seafood market, famous for fresh fish and street food."
+        ],
+        "부산항": [
+          "Busan Port",
+          "Korea's largest trading port, a harbor woven into Busan's history."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 中区",
+      "landmarks": {
+        "국제시장": [
+          "国際市場",
+          "6・25後に形成された釜山最大の伝統市場。映画の舞台としても有名。"
+        ],
+        "용두산공원": [
+          "龍頭山公園",
+          "龍頭山頂上の釜山タワーが立つ代表的な眺望スポット。"
+        ],
+        "광복동": [
+          "光復洞",
+          "釜山の都心を代表する繁華街で、ファッションとショッピングの中心。"
+        ],
+        "자갈치시장": [
+          "チャガルチ市場",
+          "国内最大の水産物市場。活き造りと屋台グルメで有名。"
+        ],
+        "부산항": [
+          "釜山港",
+          "大韓民国最大の貿易港で、釜山の歴史とともに歩んできた代表的な港。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 中区",
+      "landmarks": {
+        "국제시장": [
+          "国际市场",
+          "朝鲜战争后形成的釜山最大传统市场，也是著名电影取景地。"
+        ],
+        "용두산공원": [
+          "龙头山公园",
+          "龙头山山顶坐落釜山塔，是代表性观景胜地。"
+        ],
+        "광복동": [
+          "光复路",
+          "釜山市中心的代表性繁华街，是时尚购物胜地。"
+        ],
+        "자갈치시장": [
+          "札嘎其市场",
+          "韩国最大的水产市场，以生鱼片和海鲜美食闻名。"
+        ],
+        "부산항": [
+          "釜山港",
+          "韩国最大的贸易港，与釜山历史相伴的代表性港口。"
+        ]
+      }
+    }
   }
 }
