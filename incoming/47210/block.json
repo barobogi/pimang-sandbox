@@ -340,6 +340,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -508,5 +513,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "간고등어구이 (영주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=영주시청&goalx=128.624455&goaly=36.807266",
+    "kakaonavi_url": "kakaonavi://navigate?name=영주시청&x=128.624455&y=36.807266&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=영주시청&dlng=128.624455&dlat=36.807266&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:37",
+      "noon_altitude_deg": 53.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:06",
+      "sunset": "19:48",
+      "noon_altitude_deg": 76.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:22",
+      "noon_altitude_deg": 53.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:35",
+      "sunset": "17:13",
+      "noon_altitude_deg": 29.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "영주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.585201,
+          36.880305
+        ],
+        [
+          128.585801,
+          36.880555
+        ],
+        [
+          128.585251,
+          36.879405
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "영주시 역사문화 골목길",
+    "anchor_center": [
+      128.623388,
+      36.807866
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 50,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "heritage_alley"
   }
 }
