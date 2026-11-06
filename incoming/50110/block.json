@@ -1,0 +1,570 @@
+{
+  "block_code": "50110",
+  "block_name": "제주특별자치도 제주시",
+  "bbox": [
+    125.7941,
+    33.231811,
+    127.215229,
+    34.139806
+  ],
+  "center": [
+    33.685809,
+    126.504665
+  ],
+  "landmarks": [
+    {
+      "name": "관덕정",
+      "lat": 33.5129421,
+      "lng": 126.5210078,
+      "category": "누정/문화유산",
+      "description": "목장 관리 관아로 조성된 누정으로 제주목의 상징적 건축물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EB%8D%95%EC%A0%95",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 355.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gwandeokjeong_Pavilion_2.JPG"
+    },
+    {
+      "name": "동문재래시장",
+      "lat": 33.5122386,
+      "lng": 126.5275862,
+      "category": "전통시장",
+      "description": "제주 대표 재래시장으로 육포와 오메기떡 등 제주 먹거리로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%AC%B8%EC%9E%AC%EB%9E%98%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 353.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Jeju_dongmun_market_1.JPG/1280px-Jeju_dongmun_market_1.JPG"
+    },
+    {
+      "name": "사려니숲길",
+      "lat": 33.4126763,
+      "lng": 126.6462669,
+      "category": "숲길/자연",
+      "description": "너덜지대를 따라 조성된 제주 대표 숲길로 붉은 흙과 나무가 어우러진 산책로다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%A0%A4%EB%8B%88%EC%88%B2%EA%B8%B8",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 336.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%EC%82%AC%EB%A0%A4%EB%8B%88%EC%88%B2%EA%B8%B8_%EC%99%B8%EB%B6%80_%EB%AA%A8%EC%8A%B5.jpg/1280px-%EC%82%AC%EB%A0%A4%EB%8B%88%EC%88%B2%EA%B8%B8_%EC%99%B8%EB%B6%80_%EB%AA%A8%EC%8A%B5.jpg"
+    },
+    {
+      "name": "함덕서우봉해수욕장",
+      "lat": 33.4178,
+      "lng": 126.664,
+      "category": "해수욕장",
+      "description": "에메랄드빛 바다와 하얀 모래사장이 어우러진 제주 대표 해수욕장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%A8%EB%8D%95%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 333.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hamdeok_Beach_May_2026_04.jpg/1280px-Hamdeok_Beach_May_2026_04.jpg"
+    },
+    {
+      "name": "김녕미로공원",
+      "lat": 33.536037,
+      "lng": 126.772493,
+      "category": "테마공원",
+      "description": "제주 고양이 모양으로 만들어진 세계 최대 규모 미로 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 304.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg/1280px-%EB%A7%8C%EC%9E%A5%EA%B5%B4_%2824%29.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "제주 자연 힐링 시그니처 에어리얼 투어",
+      "description": "관덕정 → 동문재래시장 → 사려니숲길 → 함덕서우봉해수욕장 → 김녕미로공원 순으로 이어지는 제주특별자치도 제주시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "관덕정",
+        "동문재래시장",
+        "사려니숲길",
+        "함덕서우봉해수욕장",
+        "김녕미로공원"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "제주 그린 랜드스케이프 플라이트",
+      "description": "관덕정 → 사려니숲길 → 김녕미로공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 제주의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "관덕정",
+        "사려니숲길",
+        "김녕미로공원"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "동문재래시장",
+      "lat": 33.512,
+      "lng": 126.5305,
+      "specialty": "흑돼지구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "제주향교 앞 해장국집",
+      "lat": 33.501,
+      "lng": 126.528,
+      "specialty": "말고기국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "관덕정 밤떡집",
+      "lat": 33.502,
+      "lng": 126.53,
+      "specialty": "오메기떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "동문 큰마당식당",
+      "lat": 33.511819,
+      "lng": 126.528006,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "관덕정",
+        "station_name": "제주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 28,
+        "coordinates": [
+          33.4976,
+          126.5316
+        ]
+      },
+      {
+        "target_landmark": "동문재래시장",
+        "station_name": "제주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 24,
+        "coordinates": [
+          33.4976,
+          126.5316
+        ]
+      },
+      {
+        "target_landmark": "사려니숲길",
+        "station_name": "사려니숲길 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          33.414676,
+          126.643467
+        ]
+      },
+      {
+        "target_landmark": "함덕서우봉해수욕장",
+        "station_name": "함덕서우봉해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          33.4198,
+          126.6612
+        ]
+      },
+      {
+        "target_landmark": "김녕미로공원",
+        "station_name": "김녕미로공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          33.538037,
+          126.769693
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동문로터리 공영주차장",
+        "coordinates": [
+          33.511,
+          126.529
+        ],
+        "capacity": 130,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "제주버스터미널 공영주차장",
+        "coordinates": [
+          33.4982,
+          126.5325
+        ],
+        "capacity": 160,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "제주초등학교 운동장",
+        "coordinates": [
+          33.518406,
+          126.544339
+        ],
+        "capacity": 7400,
+        "address": "제주특별자치도 제주시"
+      },
+      {
+        "name": "제주실내체육관",
+        "coordinates": [
+          33.429024,
+          126.522368
+        ],
+        "capacity": 1500,
+        "address": "제주특별자치도 제주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "관덕정",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동문재래시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사려니숲길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "함덕서우봉해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "김녕미로공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "사려니숲길 봄",
+        "함덕서우봉해수욕장 봄"
+      ],
+      "summer": [
+        "함덕서우봉해수욕장 여름",
+        "김녕미로공원 여름"
+      ],
+      "autumn": [
+        "사려니숲길 가을",
+        "관덕정 가을"
+      ],
+      "winter": [
+        "사려니숲길 설경",
+        "동문재래시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "함덕서우봉해수욕장 야경",
+        "coordinates": [
+          33.4178,
+          126.664
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "동문재래시장 야시장",
+        "coordinates": [
+          33.512239,
+          126.527586
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "제주시는 제주도 북부에 위치한 제주특별자치도의 행정 중심지로 조선 시대 제주목이 있던 유서 깊은 도시이며 관덕정과 동문시장 등의 제주목 문화유산과 함덕·김녕 등의 해안 관광지가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeju-si, Jeju",
+      "landmarks": {
+        "관덕정": [
+          "Gwandeokjeong Pavilion",
+          "Pavilion built as a ranch-administration office, an emblem of old Jeju-mok."
+        ],
+        "동문재래시장": [
+          "Dongmun Traditional Market",
+          "Jeju's signature market, famed for jerked beef and omegi tteok."
+        ],
+        "사려니숲길": [
+          "Saryeoni Forest Path",
+          "Jeju's signature forest trail along lava terrain, blending red soil and trees."
+        ],
+        "함덕서우봉해수욕장": [
+          "Hamdeok Seoubong Beach",
+          "Jeju's signature beach of emerald water and white sand."
+        ],
+        "김녕미로공원": [
+          "Gimnyeong Maze Park",
+          "World's largest maze park, shaped like Jeju Island and its cat."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "済州特別自治道 済州市",
+      "landmarks": {
+        "관덕정": [
+          "観徳亭",
+          "牧場管理の官衙として造られた亭。済州牧の象徴的建築物。"
+        ],
+        "동문재래시장": [
+          "東門在来市場",
+          "済州を代表する伝統市場。肉干とオメギ餅など済州グルメで有名。"
+        ],
+        "사려니숲길": [
+          "サリョニの森の道",
+          "ネデル地帯に沿って造られた済州を代表する森の道。赤い土と木々が調和する散歩道。"
+        ],
+        "함덕서우봉해수욕장": [
+          "函德书雨峰海水浴場",
+          "エメラルドの海と白い砂浜が調和する済州を代表するビーチ。"
+        ],
+        "김녕미로공원": [
+          "金寧迷路公園",
+          "済州島の形に作られた世界最大規模の迷路公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "济州特别自治道 济州市",
+      "landmarks": {
+        "관덕정": [
+          "观德亭",
+          "作为牧场管理官衙修建的楼亭，济州牧的标志性建筑。"
+        ],
+        "동문재래시장": [
+          "东门传统市场",
+          "济州代表性传统市场，以肉干和五梅糕等美食闻名。"
+        ],
+        "사려니숲길": [
+          "砂罗岳尼森林步道",
+          "沿熔岩地带修建的济州代表性林道，红土与树林交融。"
+        ],
+        "함덕서우봉해수욕장": [
+          "函德西雨峰海水浴场",
+          "翡翠色海水与白沙滩交融的济州代表性海滨。"
+        ],
+        "김녕미로공원": [
+          "金宁迷宫公园",
+          "以济州岛猫咪造型打造的世界最大迷宫公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jejusi.go.kr",
+    "civil_service_center": {
+      "location_name": "제주시청 민원실 앞",
+      "coordinates": [
+        126.531255,
+        33.49978
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "064-710-6100",
+      "info": "제주특별자치도 제주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "제주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.504864,
+      33.686109
+    ],
+    "cctv_zone_count": 76,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "탑동공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "제주 들불축제",
+    "typical_month": 3,
+    "venue_name": "제주 중산간 일대",
+    "venue_coords": [
+      126.504164,
+      33.685308
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "제주 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness",
+      "gateball"
+    ],
+    "coordinates": [
+      126.529755,
+      33.49968
+    ],
+    "reservation_url": "https://www.jejusi.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "제주시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.530555,
+      33.50248
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "제주시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.528755,
+      33.49858
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "제주향교 앞 해장국집",
+    "coordinates": [
+      126.528,
+      33.501
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "말고기국밥 (제주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=제주시청&goalx=126.531255&goaly=33.499780",
+    "kakaonavi_url": "kakaonavi://navigate?name=제주시청&x=126.531255&y=33.499780&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=제주시청&dlng=126.531255&dlat=33.499780&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:37",
+      "sunset": "18:45",
+      "noon_altitude_deg": 56.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:24",
+      "sunset": "19:47",
+      "noon_altitude_deg": 79.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:22",
+      "sunset": "18:30",
+      "noon_altitude_deg": 56.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:35",
+      "sunset": "17:30",
+      "noon_altitude_deg": 32.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "제주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.506014,
+          33.686609
+        ],
+        [
+          126.504864,
+          33.686109
+        ],
+        [
+          126.506114,
+          33.687009
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "제주 칠성로 차없는거리",
+    "anchor_center": [
+      126.532655,
+      33.498713
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 70,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
