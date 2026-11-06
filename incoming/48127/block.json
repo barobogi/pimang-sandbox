@@ -1,0 +1,580 @@
+{
+  "block_code": "48127",
+  "block_name": "경상남도 창원시 마산회원구",
+  "bbox": [
+    128.4742,
+    35.179035,
+    128.627222,
+    35.277338
+  ],
+  "center": [
+    35.228186,
+    128.550711
+  ],
+  "landmarks": [
+    {
+      "name": "마산역 상권",
+      "lat": 35.2361408,
+      "lng": 128.5770291,
+      "category": "상권/교통",
+      "description": "마산역 상권은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 249.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/ko/thumb/7/7f/Masan-O.JPG/1280px-Masan-O.JPG"
+    },
+    {
+      "name": "회원동 상권",
+      "lat": 35.2182343,
+      "lng": 128.5741853,
+      "category": "상권",
+      "description": "회원동 상권은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 297.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Changwon_Masanhoewon-gu.jpg"
+    },
+    {
+      "name": "마산회원구청",
+      "lat": 35.2208672,
+      "lng": 128.5797021,
+      "category": "행정/랜드마크",
+      "description": "마산회원구청은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 287.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Changwon_Masanhoewon-gu.jpg"
+    },
+    {
+      "name": "봉암갯벌",
+      "lat": 35.21655,
+      "lng": 128.6239051,
+      "category": "생태/자연",
+      "description": "봉암갯벌은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 281.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Changwon_Masanhoewon-gu.jpg"
+    },
+    {
+      "name": "내서읍 상권",
+      "lat": 35.2467853,
+      "lng": 128.5076671,
+      "category": "상권",
+      "description": "내서읍 상권은(는) 경상남도 창원시 마산회원구의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 117.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Replace_this_image_school-ko.svg/1280px-Replace_this_image_school-ko.svg.png"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "마산회원 자연 힐링 시그니처 에어리얼 투어",
+      "description": "회원동 상권 → 마산회원구청 → 마산역 상권 → 봉암갯벌 → 내서읍 상권 순으로 이어지는 경상남도 창원시 마산회원구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "회원동 상권",
+        "마산회원구청",
+        "마산역 상권",
+        "봉암갯벌",
+        "내서읍 상권"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "마산회원 그린 랜드스케이프 플라이트",
+      "description": "마산역 상권 → 마산회원구청 → 봉암갯벌 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 마산회원의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "마산역 상권",
+        "마산회원구청",
+        "봉암갯벌"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "마산회원 도심 스카이라인 크루즈",
+      "description": "내서읍 상권 → 회원동 상권 → 마산회원구청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 마산회원의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "내서읍 상권",
+        "회원동 상권",
+        "마산회원구청"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "회원동 상권 가마솥밥가",
+      "lat": 35.218444,
+      "lng": 128.574325,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "마산역 상권 큰마당식당",
+      "lat": 35.235931,
+      "lng": 128.577449,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "마산회원구청 동네밥집",
+      "lat": 35.221567,
+      "lng": 128.579842,
+      "specialty": "한과",
+      "category": "전통디저트"
+    },
+    {
+      "name": "내서읍 상권 본점",
+      "lat": 35.246295,
+      "lng": 128.507457,
+      "specialty": "멸치볶음",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "마산역 상권",
+        "station_name": "마산회원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 25,
+        "coordinates": [
+          35.220234,
+          128.576185
+        ]
+      },
+      {
+        "target_landmark": "회원동 상권",
+        "station_name": "마산회원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.220234,
+          128.576185
+        ]
+      },
+      {
+        "target_landmark": "마산회원구청",
+        "station_name": "마산회원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.220234,
+          128.576185
+        ]
+      },
+      {
+        "target_landmark": "봉암갯벌",
+        "station_name": "봉암갯벌 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.21695,
+          128.626305
+        ]
+      },
+      {
+        "target_landmark": "내서읍 상권",
+        "station_name": "내서읍 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.247185,
+          128.510067
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "마산회원 중앙 공영주차장",
+        "coordinates": [
+          35.217834,
+          128.572985
+        ],
+        "capacity": 121,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "마산회원 제2 공영주차장",
+        "coordinates": [
+          35.237341,
+          128.575829
+        ],
+        "capacity": 257,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "마산회원초등학교 운동장",
+        "coordinates": [
+          35.222718,
+          128.598342
+        ],
+        "capacity": 4700,
+        "address": "경상남도 창원시 마산회원구"
+      },
+      {
+        "name": "마산회원실내체육관",
+        "coordinates": [
+          35.209636,
+          128.554331
+        ],
+        "capacity": 3800,
+        "address": "경상남도 창원시 마산회원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "마산역 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "회원동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "마산회원구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봉암갯벌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내서읍 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "봉암갯벌 봄",
+        "내서읍 상권 봄"
+      ],
+      "summer": [
+        "봉암갯벌 여름",
+        "마산역 상권 여름"
+      ],
+      "autumn": [
+        "봉암갯벌 갈대",
+        "내서읍 상권 가을"
+      ],
+      "winter": [
+        "마산역 상권 겨울 조명",
+        "봉암갯벌 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "마산역 상권 야경",
+        "coordinates": [
+          35.236141,
+          128.577029
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "봉암갯벌 야경",
+        "coordinates": [
+          35.21655,
+          128.623905
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "마산회원구는 마산의 내륙 지역으로 마산역과 회원동 상권, 봉암갯벌이 자리한 창원 서북부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Masanhoewon-gu, Changwon",
+      "landmarks": {
+        "마산역 상권": [
+          "Masan Station District",
+          "Signature station district of Masanhoewon-gu, Changwon."
+        ],
+        "회원동 상권": [
+          "Hoeiwon-dong District",
+          "Signature district hub of Masanhoewon-gu, Changwon."
+        ],
+        "마산회원구청": [
+          "Masanhoewon-gu Office",
+          "Administrative center of Masanhoewon-gu, Changwon."
+        ],
+        "봉암갯벌": [
+          "Bongam Mudflats",
+          "Signature ecological attraction of Masanhoewon-gu, Changwon."
+        ],
+        "내서읍 상권": [
+          "Naeseo-eup District",
+          "Signature district hub of Masanhoewon-gu, Changwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌原市 馬山会原区",
+      "landmarks": {
+        "마산역 상권": [
+          "馬山駅商圏",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "회원동 상권": [
+          "会原洞商圏",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "마산회원구청": [
+          "馬山会原区庁",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "봉암갯벌": [
+          "鳳岩干潟",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "내서읍 상권": [
+          "内西邑商圏",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌原市 马山会原区",
+      "landmarks": {
+        "마산역 상권": [
+          "马山站商圈",
+          "庆尚南道昌原市马山会原区的代表性商圈。"
+        ],
+        "회원동 상권": [
+          "会原洞商圈",
+          "庆尚南道昌原市马山会原区的代表性商圈。"
+        ],
+        "마산회원구청": [
+          "马山会原区厅",
+          "庆尚南道昌原市马山会原区的行政中心。"
+        ],
+        "봉암갯벌": [
+          "凤岩滩涂",
+          "庆尚南道昌原市马山会原区的代表性生态景观。"
+        ],
+        "내서읍 상권": [
+          "内西邑商圈",
+          "庆尚南道昌原市马山会原区的代表性商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.masanhw.changwon.go.kr",
+    "civil_service_center": {
+      "location_name": "마산회원구청 민원실 앞",
+      "coordinates": [
+        128.581425,
+        35.222668
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "055-230-2114",
+      "info": "경상남도 창원시 마산회원구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "마산회원구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.550611,
+      35.228386
+    ],
+    "cctv_zone_count": 119,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "회원근린공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "회원 구민축제",
+    "typical_month": 10,
+    "venue_name": "회원구청 광장",
+    "venue_coords": [
+      128.550111,
+      35.227886
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "마산회원구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.581325,
+      35.221468
+    ],
+    "reservation_url": "https://www.masanhw.changwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "마산회원구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.583525,
+      35.225168
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "마산회원구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.581325,
+      35.222468
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "회원동 상권 가마솥밥가",
+    "coordinates": [
+      128.574325,
+      35.218444
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "진주냉면 (마산회원구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=마산회원구청&goalx=128.581425&goaly=35.222668",
+    "kakaonavi_url": "kakaonavi://navigate?name=마산회원구청&x=128.581425&y=35.222668&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=마산회원구청&dlng=128.581425&dlat=35.222668&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:37",
+      "noon_altitude_deg": 54.8
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:43",
+      "noon_altitude_deg": 78.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:22",
+      "noon_altitude_deg": 54.8
+    },
+    "winter_solstice": {
+      "sunrise": "07:31",
+      "sunset": "17:18",
+      "noon_altitude_deg": 31.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "마산회원구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.549961,
+          35.227936
+        ],
+        [
+          128.550611,
+          35.228386
+        ],
+        [
+          128.550411,
+          35.229536
+        ]
+      ],
+      "cctv_linked_count": 10,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "마산회원구 중심상업거리",
+    "anchor_center": [
+      128.581225,
+      35.221268
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 139,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
