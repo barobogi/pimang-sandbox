@@ -345,6 +345,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -470,5 +475,48 @@
       126.995765,
       36.020632
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "익산시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.958579,
+      35.950176
+    ],
+    "reservation_url": "https://www.iksan.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "익산시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.959879,
+      35.949176
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "익산시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.955979,
+      35.946076
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "왕궁리유적 할매집",
+    "coordinates": [
+      127.055015,
+      35.97417
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "부추파전 (익산시 지정 모범음식점)"
   }
 }
