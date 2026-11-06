@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Muju-gun, Jeonbuk",
+      "landmarks": {
+        "덕유산": [
+          "Deogyusan Mountain",
+          "Korea's second-highest peak at 1,614 m and main summit of Deogyusan National Park."
+        ],
+        "무주구천동": [
+          "Muju Gucheondong Valley",
+          "Famed valley on the slopes of Deogyusan and a summer retreat."
+        ],
+        "태권도원": [
+          "Taekwondowon",
+          "Flagship taekwondo theme facility spreading the art worldwide."
+        ],
+        "적상산성": [
+          "Jeoksangsanseong Fortress",
+          "Historic Baekje-era mountain fortress."
+        ],
+        "설천봉": [
+          "Seolcheonbong Peak",
+          "Signature peak on Deogyusan's main ridge, a hiking highlight."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 茂朱郡",
+      "landmarks": {
+        "덕유산": [
+          "徳裕山",
+          "標高1614メートルの韓国第2の高峰。徳裕山国立公園の主峰。"
+        ],
+        "무주구천동": [
+          "茂朱九千洞",
+          "徳裕山のふもとの有名な渓谷観光地。夏の避暑の名所。"
+        ],
+        "태권도원": [
+          "テコンドー園",
+          "テコンドーの世界的普及を担う代表的なテコンドー施設。"
+        ],
+        "적상산성": [
+          "赤裳山城",
+          "百済時代の古い城郭。由緒ある代表的な山城。"
+        ],
+        "설천봉": [
+          "雪川峰",
+          "徳裕山の主稜線を代表する峰。登山コースの名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 茂朱郡",
+      "landmarks": {
+        "덕유산": [
+          "德裕山",
+          "海拔1614米的韩国第二高峰，德裕山国立公园主峰。"
+        ],
+        "무주구천동": [
+          "茂朱九千洞",
+          "德裕山麓著名溪谷景区，夏日避暑胜地。"
+        ],
+        "태권도원": [
+          "跆拳道园",
+          "推动跆拳道走向世界的代表性主题设施。"
+        ],
+        "적상산성": [
+          "赤裳山城",
+          "百济时代的古城墙，历史悠久的代表性山城。"
+        ],
+        "설천봉": [
+          "雪川峰",
+          "德裕山主脊的代表性山峰，登山名点。"
+        ]
+      }
+    }
   }
 }
