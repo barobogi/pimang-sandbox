@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "통도사 봄",
+        "천성산 봄"
+      ],
+      "summer": [
+        "천성산 여름",
+        "배내골 계곡 여름"
+      ],
+      "autumn": [
+        "천성산 단풍",
+        "통도사 가을"
+      ],
+      "winter": [
+        "통도사 설경",
+        "배내골 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "통도사 야경",
+        "coordinates": [
+          35.48786,
+          129.06429
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "황산공원 야경",
+        "coordinates": [
+          35.335,
+          129.04
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "양산시는 신라 시대 양산 화랑 문화와 통도사 등의 사찰 문화가 있는 경남 북부의 도시로 천성산과 배내골 등 자연 명소가 함께한다.",
   "data_sources": [
     {
