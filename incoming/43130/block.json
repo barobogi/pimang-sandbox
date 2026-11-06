@@ -137,6 +137,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "탄금대공원",
+        "station_name": "충주역",
+        "line": "중앙선",
+        "walk_minutes": 46,
+        "coordinates": [
+          36.9708,
+          127.9287
+        ]
+      },
+      {
+        "target_landmark": "충주중앙탑",
+        "station_name": "충주역",
+        "line": "중앙선",
+        "walk_minutes": 29,
+        "coordinates": [
+          36.9708,
+          127.9287
+        ]
+      },
+      {
+        "target_landmark": "월악산",
+        "station_name": "월악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.863364,
+          128.117717
+        ]
+      },
+      {
+        "target_landmark": "충주댐",
+        "station_name": "충주댐 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.006304,
+          127.991016
+        ]
+      },
+      {
+        "target_landmark": "충주호",
+        "station_name": "충주호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.980405,
+          128.004041
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "충주 중앙 공영주차장",
+        "coordinates": [
+          36.99041,
+          127.901579
+        ],
+        "capacity": 353,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "충주 제2 공영주차장",
+        "coordinates": [
+          36.9734,
+          127.9494
+        ],
+        "capacity": 89,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "충주시는 삼국 시대 국원 소경이었던 충주의 옛 중심으로 충주호와 탄금대, 월악산 국립공원 등 자연 명소와 중앙탑 등 유적이 함께한 충북 대표 관광 도시다.",
   "data_sources": [
     {
