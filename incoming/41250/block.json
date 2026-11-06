@@ -144,6 +144,83 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "소요산",
+        "station_name": "소요산역",
+        "line": "수도권 1호선",
+        "exit_no": 2,
+        "walk_minutes": 29,
+        "coordinates": [
+          37.9271,
+          127.07
+        ]
+      },
+      {
+        "target_landmark": "동두천폭포",
+        "station_name": "동두천폭포 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.0704,
+          127.066
+        ]
+      },
+      {
+        "target_landmark": "한탄강",
+        "station_name": "한탄강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          38.0896,
+          127.09
+        ]
+      },
+      {
+        "target_landmark": "보산동 상권",
+        "station_name": "보산동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.9924,
+          127.062
+        ]
+      },
+      {
+        "target_landmark": "소요산 전망대",
+        "station_name": "소요산 전망대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.0124,
+          127.086
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동두천 중앙 공영주차장",
+        "coordinates": [
+          37.99,
+          127.0596
+        ],
+        "capacity": 113,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동두천 제2 공영주차장",
+        "coordinates": [
+          38.012,
+          127.0868
+        ],
+        "capacity": 312,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "동두천시는 소요산과 한탄강 국가지질공원이 함께한 경기 북부의 도시이다.",
   "data_sources": [
     {
