@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "진해초등학교 운동장",
+        "coordinates": [
+          35.171453,
+          128.6667
+        ],
+        "capacity": 1600,
+        "address": "경상남도 창원시 진해구"
+      },
+      {
+        "name": "진해실내체육관",
+        "coordinates": [
+          35.162851,
+          128.662544
+        ],
+        "capacity": 1600,
+        "address": "경상남도 창원시 진해구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "여좌천",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "진해해군기지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "진해구청",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "경화역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "진해만",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "진해구는 해군기지와 벚꽃 명소로 유명한 창원 남부의 구로 진해만과 여좌천이 자리한다.",
   "data_sources": [
     {
