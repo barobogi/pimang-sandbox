@@ -426,10 +426,11 @@
     "civil_service_center": {
       "location_name": "북구청 민원실 앞",
       "coordinates": [
-        129.022935,
-        35.231919
+        128.987718,
+        35.196619
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "051-309-4000",
