@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "광한루",
+        "station_name": "남원역",
+        "line": "KTX 호남선",
+        "walk_minutes": 15,
+        "coordinates": [
+          35.4124,
+          127.3848
+        ]
+      },
+      {
+        "target_landmark": "만인의총",
+        "station_name": "남원역",
+        "line": "KTX 호남선",
+        "walk_minutes": 15,
+        "coordinates": [
+          35.4124,
+          127.3848
+        ]
+      },
+      {
+        "target_landmark": "용담댐",
+        "station_name": "용담댐 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.3634,
+          127.4502
+        ]
+      },
+      {
+        "target_landmark": "천왕봉",
+        "station_name": "천왕봉 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.460353,
+          127.603385
+        ]
+      },
+      {
+        "target_landmark": "이몽룡문화의거리",
+        "station_name": "남원역",
+        "line": "KTX 호남선",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.4124,
+          127.3848
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남원 중앙 공영주차장",
+        "coordinates": [
+          35.414,
+          127.389
+        ],
+        "capacity": 105,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남원 제2 공영주차장",
+        "coordinates": [
+          35.420684,
+          127.37972
+        ],
+        "capacity": 128,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "남원시는 춘향전의 배경이 된 유서 깊은 도시로 광한루와 만인의총, 지리산 천왕봉 등의 명소와 용담댐이 함께한 전북 동부의 도시다.",
   "data_sources": [
     {
