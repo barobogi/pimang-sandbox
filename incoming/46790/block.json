@@ -359,6 +359,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -528,5 +533,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "돔베고기 (화순군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=화순군청&goalx=126.986498&goaly=35.064320",
+    "kakaonavi_url": "kakaonavi://navigate?name=화순군청&x=126.986498&y=35.064320&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=화순군청&dlng=126.986498&dlat=35.064320&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 55.0
+    },
+    "summer_solstice": {
+      "sunrise": "05:18",
+      "sunset": "19:49",
+      "noon_altitude_deg": 78.4
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 55.0
+    },
+    "winter_solstice": {
+      "sunrise": "07:37",
+      "sunset": "17:24",
+      "noon_altitude_deg": 31.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "화순군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.013453,
+          35.018544
+        ],
+        [
+          127.012503,
+          35.019044
+        ],
+        [
+          127.013753,
+          35.017894
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "화순군 전통시장 만남의거리",
+    "anchor_center": [
+      126.984765,
+      35.065253
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 350,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
   }
 }
