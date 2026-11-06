@@ -231,6 +231,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영광초등학교 운동장",
+        "coordinates": [
+          35.166018,
+          126.544945
+        ],
+        "capacity": 7200,
+        "address": "전라남도 영광군"
+      },
+      {
+        "name": "영광실내체육관",
+        "coordinates": [
+          35.41063,
+          126.346602
+        ],
+        "capacity": 3600,
+        "address": "전라남도 영광군"
+      },
+      {
+        "name": "영광중앙공원 비상집합장소",
+        "coordinates": [
+          35.376623,
+          126.460441
+        ],
+        "capacity": 4300,
+        "address": "전라남도 영광군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "불갑사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "법성포",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "백수해안 전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영광군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영광시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
   "data_sources": [
     {
