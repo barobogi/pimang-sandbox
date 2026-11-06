@@ -222,6 +222,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "장흥초등학교 운동장",
+        "coordinates": [
+          34.552235,
+          126.955125
+        ],
+        "capacity": 2700,
+        "address": "전라남도 장흥군"
+      },
+      {
+        "name": "장흥실내체육관",
+        "coordinates": [
+          34.487087,
+          126.913301
+        ],
+        "capacity": 5600,
+        "address": "전라남도 장흥군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "정남진전망대",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천관산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장흥토요시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장흥군청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장흥댐",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "장흥군은 정남진 전망대와 천관산, 토요시장이 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
