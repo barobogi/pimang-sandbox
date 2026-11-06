@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "구리초등학교 운동장",
+        "coordinates": [
+          37.577365,
+          127.101016
+        ],
+        "capacity": 1300,
+        "address": "경기도 구리시"
+      },
+      {
+        "name": "구리실내체육관",
+        "coordinates": [
+          37.601767,
+          127.13997
+        ],
+        "capacity": 4400,
+        "address": "경기도 구리시"
+      },
+      {
+        "name": "구리중앙공원 비상집합장소",
+        "coordinates": [
+          37.618797,
+          127.14069
+        ],
+        "capacity": 5100,
+        "address": "경기도 구리시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "아차산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "갈매시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "갈매공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인창동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사패산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
   "data_sources": [
     {
