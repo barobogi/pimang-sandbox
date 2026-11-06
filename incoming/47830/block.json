@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "지산동고분군",
+        "station_name": "고령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 20,
+        "coordinates": [
+          35.725888,
+          128.268749
+        ]
+      },
+      {
+        "target_landmark": "대가야박물관",
+        "station_name": "고령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 15,
+        "coordinates": [
+          35.725888,
+          128.268749
+        ]
+      },
+      {
+        "target_landmark": "고령군청",
+        "station_name": "고령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.725888,
+          128.268749
+        ]
+      },
+      {
+        "target_landmark": "고령시장",
+        "station_name": "고령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.725888,
+          128.268749
+        ]
+      },
+      {
+        "target_landmark": "주산성",
+        "station_name": "고령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 18,
+        "coordinates": [
+          35.725888,
+          128.268749
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "고령 중앙 공영주차장",
+        "coordinates": [
+          35.726688,
+          128.265149
+        ],
+        "capacity": 287,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "고령 제2 공영주차장",
+        "coordinates": [
+          35.727286,
+          128.261711
+        ],
+        "capacity": 54,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "고령군은 대가야의 고도로 유네스코 세계유산 지산동고분군과 대가야박물관이 자리한 군이다.",
   "data_sources": [
     {
