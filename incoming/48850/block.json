@@ -129,6 +129,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "섬진강",
+        "station_name": "섬진강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.941152,
+          127.867275
+        ]
+      },
+      {
+        "target_landmark": "화개장터",
+        "station_name": "화개장터 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.186379,
+          127.62428
+        ]
+      },
+      {
+        "target_landmark": "쌍계사",
+        "station_name": "쌍계사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.230573,
+          127.650089
+        ]
+      },
+      {
+        "target_landmark": "하동군청",
+        "station_name": "하동군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.065312,
+          127.751313
+        ]
+      },
+      {
+        "target_landmark": "하동시장",
+        "station_name": "하동버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.122771,
+          127.757944
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "하동 중앙 공영주차장",
+        "coordinates": [
+          35.121171,
+          127.759144
+        ],
+        "capacity": 33,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "하동 제2 공영주차장",
+        "coordinates": [
+          35.064912,
+          127.752113
+        ],
+        "capacity": 164,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "하동 제3 공영주차장",
+        "coordinates": [
+          35.185979,
+          127.62228
+        ],
+        "capacity": 139,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "하동군은 섬진강과 화개장터, 쌍계사가 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
