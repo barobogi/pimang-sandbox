@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금정산 봄 진달래",
+        "범어사 봄 산책"
+      ],
+      "summer": [
+        "금정산 계곡 여름",
+        "온천장 여름"
+      ],
+      "autumn": [
+        "금정산 단풍길",
+        "범어사 가을"
+      ],
+      "winter": [
+        "범어사 설경",
+        "금정산성 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "금정산성 야경",
+        "coordinates": [
+          35.251492,
+          129.045431
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "금정산 야경",
+        "coordinates": [
+          35.258618,
+          129.083954
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "부산 금정구는 금정산성과 부산대학교가 자리한 부산 북부의 구로 금정산 자락의 주거 지역이다.",
   "data_sources": [
     {
