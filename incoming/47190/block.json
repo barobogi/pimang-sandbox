@@ -335,6 +335,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -460,5 +465,48 @@
       128.341377,
       36.212211
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "구미시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.346083,
+      36.115354
+    ],
+    "reservation_url": "https://www.gumi.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "구미시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.349483,
+      36.119454
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "구미시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.347183,
+      36.116454
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "구미공단 큰마당식당",
+    "coordinates": [
+      128.38258,
+      36.106278
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (구미시 지정 모범음식점)"
   }
 }
