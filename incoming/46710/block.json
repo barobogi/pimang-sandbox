@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "메타세쿼이아길",
+        "station_name": "메타세쿼이아길 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.198,
+          127.0686
+        ]
+      },
+      {
+        "target_landmark": "죽녹원",
+        "station_name": "죽녹원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.330627,
+          126.985159
+        ]
+      },
+      {
+        "target_landmark": "관방제",
+        "station_name": "담양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.2652,
+          127.0084
+        ]
+      },
+      {
+        "target_landmark": "소쇄원",
+        "station_name": "소쇄원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.186175,
+          127.011712
+        ]
+      },
+      {
+        "target_landmark": "가사문학공원",
+        "station_name": "담양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.2652,
+          127.0084
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "담양 중앙 공영주차장",
+        "coordinates": [
+          35.2652,
+          127.0104
+        ],
+        "capacity": 107,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "담양 제2 공영주차장",
+        "coordinates": [
+          35.328627,
+          126.983959
+        ],
+        "capacity": 129,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "담양 제3 공영주차장",
+        "coordinates": [
+          35.26,
+          127.013
+        ],
+        "capacity": 274,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "담양군은 대나무와 메타세쿼이아 숲으로 유명한 전남 북부의 군으로 죽녹원과 소쇄원, 관방제 등 유서 깊은 명소가 함께한다.",
   "data_sources": [
     {
