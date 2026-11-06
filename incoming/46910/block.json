@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sinan-gun, Jeonnam",
+      "landmarks": {
+        "흑산도": [
+          "Heuksando Island",
+          "Southernmost signature island of Dadohae, within Heuksando National Park."
+        ],
+        "홍도": [
+          "Hongdo Island",
+          "National park island famed for fantastic rock formations and coastal scenery."
+        ],
+        "증도": [
+          "Jeungdo Island",
+          "Signature mudflat district of the UNESCO-listed Sinan tidal flats."
+        ],
+        "비금도": [
+          "Bigeumdo Island",
+          "Representative fishing island with a pretty harbor and coastal scenery."
+        ],
+        "도초도": [
+          "Dochodo Island",
+          "Representative fishing island with its与附属岛屿."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 新安郡",
+      "landmarks": {
+        "흑산도": [
+          "黒山島",
+          "多島海最南端を代表する島。黒山島国立公園に指定されている。"
+        ],
+        "홍도": [
+          "紅島",
+          "奇岩怪石と海岸絶景が美しい代表的な島。"
+        ],
+        "증도": [
+          "曽島",
+          "ユネスコ世界自然遺産・新安干潟を代表する干潟地区。"
+        ],
+        "비금도": [
+          "飛禽島",
+          "島嶼地域を代表する漁村の島。漁港と海岸絶景が美しい。"
+        ],
+        "도초도": [
+          "都草島",
+          "牛島などとともにある代表的な漁村の島。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 新安郡",
+      "landmarks": {
+        "흑산도": [
+          "黑山岛",
+          "多岛海最南端的代表性岛屿，属黑山岛国立公园。"
+        ],
+        "홍도": [
+          "红岛",
+          "以奇岩怪石和海岸绝景闻名的代表性岛屿。"
+        ],
+        "증도": [
+          "曾岛",
+          "联合国教科文组织世界自然遗产新安滩涂的代表性滩涂区。"
+        ],
+        "비금도": [
+          "飞禽岛",
+          "群岛地区的代表性渔村岛，渔港和海岸景色秀美。"
+        ],
+        "도초도": [
+          "都草岛",
+          "与牛衣岛等属岛相伴的代表性渔村岛。"
+        ]
+      }
+    }
   }
 }
