@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Wansan-gu, Jeonju",
+      "landmarks": {
+        "전주한옥마을": [
+          "Jeonju Hanok Village",
+          "Korea's largest traditional hanok village, famed for bibimbap and hanji paper culture."
+        ],
+        "경기전": [
+          "Gyeonggijeon Shrine",
+          "Historic shrine enshrining the portrait of Joseon founder Yi Seong-gye."
+        ],
+        "전동성당": [
+          "Jeondong Catholic Church",
+          "One of Korea's three great churches, standing beside the hanok village."
+        ],
+        "오목대": [
+          "Omokdae Terrace",
+          "Culture street linking the hanok village and Jeondong Cathedral."
+        ],
+        "남부시장": [
+          "Nambu Market",
+          "Jeonju's signature traditional market reborn as a youth mall."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 全州市 完山区",
+      "landmarks": {
+        "전주한옥마을": [
+          "全州韓屋村",
+          "韓国最大の伝統韓屋村。ビビンバと韓紙の文化で有名。"
+        ],
+        "경기전": [
+          "慶基殿",
+          "朝鮮太祖・李成桂の御真を祀る由緒ある闕宮。"
+        ],
+        "전동성당": [
+          "殿洞聖堂",
+          "韓国三大聖堂の一つ。韓屋村のそばに建つ。"
+        ],
+        "오목대": [
+          "梧木台",
+          "韓屋村と殿洞聖堂をつなぐ全州の文化ストリート。"
+        ],
+        "남부시장": [
+          "南部市場",
+          "青年モールとして生まれ変わった全州を代表する伝統市場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 全州市 完山区",
+      "landmarks": {
+        "전주한옥마을": [
+          "全州韩屋村",
+          "韩国规模最大的传统韩屋村，以拌饭和韩纸文化闻名。"
+        ],
+        "경기전": [
+          "庆基殿",
+          "供奉朝鲜太祖李成桂御真的历史宫祠。"
+        ],
+        "전동성당": [
+          "殿洞圣堂",
+          "韩国三大圣堂之一，坐落于韩屋村旁。"
+        ],
+        "오목대": [
+          "梧木台",
+          "连接韩屋村和殿洞圣堂的全州文化街。"
+        ],
+        "남부시장": [
+          "南部市场",
+          "蜕变为青年商场的全州代表性传统市场。"
+        ]
+      }
+    }
   }
 }
