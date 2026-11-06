@@ -218,6 +218,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "관악초등학교 운동장",
+        "coordinates": [
+          37.455749,
+          126.956766
+        ],
+        "capacity": 2800,
+        "address": "서울특별시 관악구"
+      },
+      {
+        "name": "관악실내체육관",
+        "coordinates": [
+          37.47719,
+          126.956729
+        ],
+        "capacity": 6900,
+        "address": "서울특별시 관악구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서울대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "낙성대공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "관악산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신림종합시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "관악구민체육공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "관악구는 서울대학교가 봉천동으로 이전한 이후 학문과 청년 문화가 발달한 자치구로 신림동 상권과 관악산, 낙성대 등 자연·유적이 함께 자리한다.",
   "data_sources": [
     {
