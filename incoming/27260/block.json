@@ -147,6 +147,86 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수성못",
+        "station_name": "범물역",
+        "line": "대구 2호선",
+        "exit_no": 6,
+        "walk_minutes": 11,
+        "coordinates": [
+          35.8286,
+          128.6266
+        ]
+      },
+      {
+        "target_landmark": "국채보상운동기념공원",
+        "station_name": "국채보상운동기념공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.866295,
+          128.600356
+        ]
+      },
+      {
+        "target_landmark": "아르떼뮤지엄 대구",
+        "station_name": "만촌역",
+        "line": "대구 2호선",
+        "exit_no": 1,
+        "walk_minutes": 7,
+        "coordinates": [
+          35.8281,
+          128.6366
+        ]
+      },
+      {
+        "target_landmark": "수성갯벌체험장",
+        "station_name": "범물역",
+        "line": "대구 2호선",
+        "exit_no": 6,
+        "walk_minutes": 18,
+        "coordinates": [
+          35.8286,
+          128.6266
+        ]
+      },
+      {
+        "target_landmark": "황령산",
+        "station_name": "범물역",
+        "line": "대구 2호선",
+        "exit_no": 6,
+        "walk_minutes": 22,
+        "coordinates": [
+          35.8286,
+          128.6266
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "수성 중앙 공영주차장",
+        "coordinates": [
+          35.8226,
+          128.6388
+        ],
+        "capacity": 57,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "수성 제2 공영주차장",
+        "coordinates": [
+          35.8174,
+          128.6292
+        ],
+        "capacity": 391,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "수성구는 대구의 대표 고급 주거지로 수성못과 국채보상운동기념공원, 아르떼뮤지엄 등이 자리한 대구 남동부의 구이다.",
   "data_sources": [
     {
