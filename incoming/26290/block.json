@@ -349,6 +349,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -474,5 +479,48 @@
       129.132784,
       35.100804
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "남구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      129.084019,
+      35.134641
+    ],
+    "reservation_url": "https://www.bsnamgu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "남구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      129.081919,
+      35.139341
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "남구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.085219,
+      35.134441
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "부경대학교 동네밥집",
+    "coordinates": [
+      129.105527,
+      35.134273
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "씨앗호떡 (남구 지정 모범음식점)"
   }
 }
