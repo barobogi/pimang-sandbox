@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongwon-gu, Cheongju",
+      "landmarks": {
+        "청주국제공항": [
+          "Cheongju International Airport",
+          "Signature aviation attraction of Cheongwon-gu, Cheongju."
+        ],
+        "오창과학산업단지": [
+          "Ochang Science Industrial Complex",
+          "Signature science industry attraction of Cheongwon-gu, Cheongju."
+        ],
+        "청원구청": [
+          "Cheongwon-gu Office",
+          "Administrative center of Cheongwon-gu, Cheongju."
+        ],
+        "명암저수지": [
+          "Myeongam Reservoir",
+          "Signature lakeside attraction of Cheongwon-gu, Cheongju."
+        ],
+        "상당산성": [
+          "Sangdangsanseong Fortress",
+          "Signature fortress heritage of Cheongwon-gu, Cheongju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 清原区",
+      "landmarks": {
+        "청주국제공항": [
+          "清州国際空港",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "오창과학산업단지": [
+          "梧倉科学産業団地",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "청원구청": [
+          "清原区庁",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "명암저수지": [
+          "鳴岩貯水池",
+          "忠清北道清州市清原区を代表する名所。"
+        ],
+        "상당산성": [
+          "上党山城",
+          "忠清北道清州市清原区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 清原区",
+      "landmarks": {
+        "청주국제공항": [
+          "清州国际机场",
+          "忠清北道清州市清原区的代表性航空枢纽。"
+        ],
+        "오창과학산업단지": [
+          "梧仓科学产业园",
+          "忠清北道清州市清原区的代表性科学园区。"
+        ],
+        "청원구청": [
+          "清原区厅",
+          "忠清北道清州市清原区的行政中心。"
+        ],
+        "명암저수지": [
+          "鸣岩水库",
+          "忠清北道清州市清原区的代表性湖景。"
+        ],
+        "상당산성": [
+          "上党山城",
+          "忠清北道清州市清原区的代表性山城。"
+        ]
+      }
+    }
   }
 }
