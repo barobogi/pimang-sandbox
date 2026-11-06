@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대왕암공원",
+        "station_name": "대왕암공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.5056,
+          129.4276
+        ]
+      },
+      {
+        "target_landmark": "일산해수욕장",
+        "station_name": "일산해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.5034,
+          129.4196
+        ]
+      },
+      {
+        "target_landmark": "강동 풍력발전단지",
+        "station_name": "강동 풍력발전단지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.5196,
+          129.4396
+        ]
+      },
+      {
+        "target_landmark": "달천천 수변공원",
+        "station_name": "북구역",
+        "line": "동해선 광역전철",
+        "walk_minutes": 32,
+        "coordinates": [
+          35.5827,
+          129.362
+        ]
+      },
+      {
+        "target_landmark": "연암공원",
+        "station_name": "북구역",
+        "line": "동해선 광역전철",
+        "walk_minutes": 17,
+        "coordinates": [
+          35.5827,
+          129.362
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "북구 중앙 공영주차장",
+        "coordinates": [
+          35.5216,
+          129.4388
+        ],
+        "capacity": 353,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "북구 제2 공영주차장",
+        "coordinates": [
+          35.5076,
+          129.426
+        ],
+        "capacity": 98,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "북구 제3 공영주차장",
+        "coordinates": [
+          35.5034,
+          129.422
+        ],
+        "capacity": 119,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "울산 북구는 울산의 북부 구로 대왕암공원과 일산해수욕장 등 동해 해안 명소가 자리한다.",
   "data_sources": [
     {
