@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남원초등학교 운동장",
+        "coordinates": [
+          35.426266,
+          127.451649
+        ],
+        "capacity": 6900,
+        "address": "전북특별자치도 남원시"
+      },
+      {
+        "name": "남원실내체육관",
+        "coordinates": [
+          35.392764,
+          127.322304
+        ],
+        "capacity": 2900,
+        "address": "전북특별자치도 남원시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "광한루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만인의총",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용담댐",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천왕봉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이몽룡문화의거리",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "남원시는 춘향전의 배경이 된 유서 깊은 도시로 광한루와 만인의총, 지리산 천왕봉 등의 명소와 용담댐이 함께한 전북 동부의 도시다.",
   "data_sources": [
     {
