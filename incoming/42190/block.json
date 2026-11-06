@@ -341,5 +341,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Taebaek-si, Gangwon",
+      "landmarks": {
+        "태백산": [
+          "Taebaeksan Mountain",
+          "Signature mountain attraction of Taebaek, Gangwon."
+        ],
+        "황지연못": [
+          "Hwangji Pond",
+          "Signature pond attraction of Taebaek, Gangwon."
+        ],
+        "태백석탄박물관": [
+          "Taebaek Coal Museum",
+          "Signature industrial museum of Taebaek, Gangwon."
+        ],
+        "태백시청": [
+          "Taebaek City Hall",
+          "Administrative center of Taebaek, Gangwon."
+        ],
+        "매봉산": [
+          "Maebongsan Mountain",
+          "Signature mountain attraction of Taebaek, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 太白市",
+      "landmarks": {
+        "태백산": [
+          "太白山",
+          "江原特別自治道太白市を代表する名所。"
+        ],
+        "황지연못": [
+          "黄池蓮池",
+          "江原特別自治道太白市を代表する名所。"
+        ],
+        "태백석탄박물관": [
+          "太白石炭博物館",
+          "江原特別自治道太白市を代表する名所。"
+        ],
+        "태백시청": [
+          "太白市庁",
+          "江原特別自治道太白市を代表する名所。"
+        ],
+        "매봉산": [
+          "梅峰山",
+          "江原特別自治道太白市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 太白市",
+      "landmarks": {
+        "태백산": [
+          "太白山",
+          "江原特别自治道太白市的代表性名山。"
+        ],
+        "황지연못": [
+          "黄池莲池",
+          "江原特别自治道太白市的代表性水景。"
+        ],
+        "태백석탄박물관": [
+          "太白煤炭博物馆",
+          "江原特别自治道太白市的代表性产业博物馆。"
+        ],
+        "태백시청": [
+          "太白市厅",
+          "江原特别自治道太白市的行政中心。"
+        ],
+        "매봉산": [
+          "梅峰山",
+          "江原特别自治道太白市的代表性山峰。"
+        ]
+      }
+    }
   }
 }
