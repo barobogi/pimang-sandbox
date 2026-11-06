@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "정선시장 봄 나들이",
+        "정암사 봄"
+      ],
+      "summer": [
+        "동강 여름",
+        "화암동굴 여름"
+      ],
+      "autumn": [
+        "정암사 단풍",
+        "동강 가을"
+      ],
+      "winter": [
+        "화암동굴 겨울",
+        "정선시장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "동강 야경",
+        "coordinates": [
+          37.287513,
+          128.5585
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "정선시장 야시장",
+        "coordinates": [
+          37.369997,
+          128.747818
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "정선군은 아리랑의 고장이자 정암사와 화암동굴, 동강 래프팅이 유명한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
