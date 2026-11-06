@@ -1,0 +1,598 @@
+{
+  "block_code": "41310",
+  "block_name": "경기도 구리시",
+  "bbox": [
+    127.08,
+    37.555636,
+    127.171491,
+    37.646035
+  ],
+  "center": [
+    37.600836,
+    127.125745
+  ],
+  "landmarks": [
+    {
+      "name": "아차산",
+      "lat": 37.5711235,
+      "lng": 127.1043503,
+      "category": "산/역사",
+      "description": "백제 아차산성이 남아 있는 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 29.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/1280px-AchasanPost.jpg"
+    },
+    {
+      "name": "갈매시장",
+      "lat": 37.596,
+      "lng": 127.129,
+      "category": "시장",
+      "description": "구리의 대표 전통시장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 331.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg/1280px-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg"
+    },
+    {
+      "name": "갈매공원",
+      "lat": 37.61,
+      "lng": 127.128,
+      "category": "공원",
+      "description": "갈매동의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 191.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg/1280px-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg"
+    },
+    {
+      "name": "인창동 상권",
+      "lat": 37.596,
+      "lng": 127.144,
+      "category": "상권",
+      "description": "인창동에 형성된 구리 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%AC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 288.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg/1280px-%EA%B5%AC%EB%A6%AC%EC%8B%9C%EC%B2%AD2.jpg"
+    },
+    {
+      "name": "사패산",
+      "lat": 37.625,
+      "lng": 127.08,
+      "category": "산/자연",
+      "description": "구리와 의정부 경계의 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%8C%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 123.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mt._Sapaesan_%28%EC%82%AC%ED%8C%A8%EC%82%B0%29_-_Bukhansan.jpg/1280px-Mt._Sapaesan_%28%EC%82%AC%ED%8C%A8%EC%82%B0%29_-_Bukhansan.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "구리 자연 힐링 시그니처 에어리얼 투어",
+      "description": "갈매시장 → 인창동 상권 → 갈매공원 → 사패산 → 아차산 순으로 이어지는 경기도 구리시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "갈매시장",
+        "인창동 상권",
+        "갈매공원",
+        "사패산",
+        "아차산"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "구리 그린 랜드스케이프 플라이트",
+      "description": "아차산 → 갈매공원 → 사패산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 구리의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "아차산",
+        "갈매공원",
+        "사패산"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "구리 도심 스카이라인 크루즈",
+      "description": "인창동 상권 → 갈매시장 → 갈매공원 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 구리의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "인창동 상권",
+        "갈매시장",
+        "갈매공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "갈매 할매집",
+      "lat": 37.5967,
+      "lng": 127.12886,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "갈매 본점",
+      "lat": 37.59586,
+      "lng": 127.1297,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "갈매 솥뚜껑가게",
+      "lat": 37.59628,
+      "lng": 127.12851,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "갈매 옛맛식당",
+      "lat": 37.59593,
+      "lng": 127.12872,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "아차산",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 39,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      },
+      {
+        "target_landmark": "갈매시장",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 42,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      },
+      {
+        "target_landmark": "갈매공원",
+        "station_name": "구리역",
+        "line": "경의·중앙선",
+        "walk_minutes": 47,
+        "coordinates": [
+          37.595,
+          127.096
+        ]
+      },
+      {
+        "target_landmark": "인창동 상권",
+        "station_name": "인창동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.5964,
+          127.146
+        ]
+      },
+      {
+        "target_landmark": "사패산",
+        "station_name": "사패산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6254,
+          127.082
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "구리 중앙 공영주차장",
+        "coordinates": [
+          37.5976,
+          127.127
+        ],
+        "capacity": 255,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구리 제2 공영주차장",
+        "coordinates": [
+          37.6108,
+          127.128
+        ],
+        "capacity": 201,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "구리 제3 공영주차장",
+        "coordinates": [
+          37.596,
+          127.1436
+        ],
+        "capacity": 117,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "구리초등학교 운동장",
+        "coordinates": [
+          37.577365,
+          127.101016
+        ],
+        "capacity": 1300,
+        "address": "경기도 구리시"
+      },
+      {
+        "name": "구리실내체육관",
+        "coordinates": [
+          37.601767,
+          127.13997
+        ],
+        "capacity": 4400,
+        "address": "경기도 구리시"
+      },
+      {
+        "name": "구리중앙공원 비상집합장소",
+        "coordinates": [
+          37.618797,
+          127.14069
+        ],
+        "capacity": 5100,
+        "address": "경기도 구리시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "아차산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "갈매시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "갈매공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인창동 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사패산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "아차산 봄 진달래",
+        "갈매공원 봄꽃"
+      ],
+      "summer": [
+        "아차산 여름",
+        "갈매시장 여름 야시장"
+      ],
+      "autumn": [
+        "아차산 단풍길",
+        "사패산 억새"
+      ],
+      "winter": [
+        "아차산 설경",
+        "갈매시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "아차산 야경",
+        "coordinates": [
+          37.571123,
+          127.10435
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "갈매공원 야경",
+        "coordinates": [
+          37.61,
+          127.128
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Guri-si, Gyeonggi",
+      "landmarks": {
+        "아차산": [
+          "Achasan Mountain",
+          "Signature mountain preserving the remains of a Baekje fortress."
+        ],
+        "갈매시장": [
+          "Galmae Market",
+          "Guri's signature traditional market."
+        ],
+        "갈매공원": [
+          "Galmae Park",
+          "Signature neighborhood park of Galmae-dong."
+        ],
+        "인창동 상권": [
+          "Inchang-dong District",
+          "Commercial hub of Guri in Inchang-dong."
+        ],
+        "사패산": [
+          "Sapaesan Mountain",
+          "Mountain on the Guri-Uijeongbu boundary."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 九里市",
+      "landmarks": {
+        "아차산": [
+          "峨嵯山",
+          "百済の峨嵯山城跡が残る代表的な山。"
+        ],
+        "갈매시장": [
+          "葛梅市場",
+          "九里を代表する伝統市場。"
+        ],
+        "갈매공원": [
+          "葛梅公園",
+          "葛梅洞を代表する近隣公園。"
+        ],
+        "인창동 상권": [
+          "印倉洞商圏",
+          "印倉洞に形成された九里を代表する商圏。"
+        ],
+        "사패산": [
+          "賜牌山",
+          "九里と議政府の境界の代表的な山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 九里市",
+      "landmarks": {
+        "아차산": [
+          "峨嵯山",
+          "留有百济峨嵯山城遗迹的代表名山。"
+        ],
+        "갈매시장": [
+          "葛梅市场",
+          "九里的代表性传统市场。"
+        ],
+        "갈매공원": [
+          "葛梅公园",
+          "葛梅洞的代表性近邻公园。"
+        ],
+        "인창동 상권": [
+          "印仓洞商圈",
+          "印仓洞形成的九里代表性商圈。"
+        ],
+        "사패산": [
+          "赐牌山",
+          "九里与议政府交界的代表山峰。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.guri.go.kr",
+    "civil_service_center": {
+      "location_name": "구리시청 민원실 앞",
+      "coordinates": [
+        127.129647,
+        37.594351
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-557-1010",
+      "info": "경기도 구리시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "구리시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.126245,
+      37.601336
+    ],
+    "cctv_zone_count": 394,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "돌다리공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "구리 한강 유채꽃 축제",
+    "typical_month": 5,
+    "venue_name": "돌다리공원",
+    "venue_coords": [
+      127.125445,
+      37.600735
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "구리시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.132447,
+      37.595151
+    ],
+    "reservation_url": "https://www.guri.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "구리시 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.128047,
+      37.596451
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "구리시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.129447,
+      37.594151
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "갈매 옛맛식당",
+    "coordinates": [
+      127.12872,
+      37.59593
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (구리시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=구리시청&goalx=127.129647&goaly=37.594351",
+    "kakaonavi_url": "kakaonavi://navigate?name=구리시청&x=127.129647&y=37.594351&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=구리시청&dlng=127.129647&dlat=37.594351&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "구리시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.127595,
+          37.599886
+        ],
+        [
+          127.126245,
+          37.601336
+        ],
+        [
+          127.125995,
+          37.601636
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "구리시 중심상업거리",
+    "anchor_center": [
+      127.130914,
+      37.594284
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 270,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
