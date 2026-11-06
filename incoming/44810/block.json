@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Taean-gun, Chungnam",
+      "landmarks": {
+        "태안해안국립공원": [
+          "Taean Coast National Park",
+          "Signature coastal national park of Taean-gun, Chungnam."
+        ],
+        "꽃지해수욕장": [
+          "Kkotji Beach",
+          "Signature beach attraction of Taean-gun, Chungnam."
+        ],
+        "안면도": [
+          "Anmyeondo Island",
+          "Signature island attraction of Taean-gun, Chungnam."
+        ],
+        "태안군청": [
+          "Taean County Office",
+          "Administrative center of Taean-gun, Chungnam."
+        ],
+        "만리포해수욕장": [
+          "Manripo Beach",
+          "Signature beach attraction of Taean-gun, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 泰安郡",
+      "landmarks": {
+        "태안해안국립공원": [
+          "泰安海岸国立公園",
+          "忠清南道泰安郡を代表する名所。"
+        ],
+        "꽃지해수욕장": [
+          "花地海水浴場",
+          "忠清南道泰安郡を代表する名所。"
+        ],
+        "안면도": [
+          "安眠島",
+          "忠清南道泰安郡を代表する名所。"
+        ],
+        "태안군청": [
+          "泰安郡庁",
+          "忠清南道泰安郡を代表する名所。"
+        ],
+        "만리포해수욕장": [
+          "万里浦海水浴場",
+          "忠清南道泰安郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 泰安郡",
+      "landmarks": {
+        "태안해안국립공원": [
+          "泰安海岸国立公园",
+          "忠清南道泰安郡的代表性海岸国立公园。"
+        ],
+        "꽃지해수욕장": [
+          "花地海水浴场",
+          "忠清南道泰安郡的代表性海滨。"
+        ],
+        "안면도": [
+          "安眠岛",
+          "忠清南道泰安郡的代表性岛屿。"
+        ],
+        "태안군청": [
+          "泰安郡厅",
+          "忠清南道泰安郡的行政中心。"
+        ],
+        "만리포해수욕장": [
+          "万里浦海水浴场",
+          "忠清南道泰安郡的代表性海滨。"
+        ]
+      }
+    }
   }
 }
