@@ -293,6 +293,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "은해사 봄",
+        "임고서원 봄"
+      ],
+      "summer": [
+        "보현산 여름",
+        "은해사 계곡 여름"
+      ],
+      "autumn": [
+        "보현산 단풍",
+        "은해사 가을"
+      ],
+      "winter": [
+        "보현산 설경",
+        "은해사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "보현산 야경",
+        "coordinates": [
+          36.164828,
+          128.97705
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "은해사 야경",
+        "coordinates": [
+          35.991983,
+          128.789862
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "영천시는 보현산과 임고서원, 은해사가 자리한 경북 동부의 도시이다.",
   "data_sources": [
     {
