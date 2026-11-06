@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Icheon-si, Gyeonggi",
+      "landmarks": {
+        "설봉공원": [
+          "Seolbong Park",
+          "Park at the foot of Seolbongsan, Icheon's home mountain."
+        ],
+        "이천도자기마을": [
+          "Icheon Ceramic Village",
+          "Signature experience village of Icheon, the home of ceramics."
+        ],
+        "복하천": [
+          "Bokhacheon Stream",
+          "Representative stream flowing through Icheon."
+        ],
+        "이천역 상권": [
+          "Icheon Station District",
+          "Commercial hub centered on Icheon Station."
+        ],
+        "이천시청": [
+          "Icheon City Hall",
+          "Administrative center of Icheon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 利川市",
+      "landmarks": {
+        "설봉공원": [
+          "雪峰公園",
+          "利川の鎮山・雪峰山のふもとにある代表的な公園。"
+        ],
+        "이천도자기마을": [
+          "利川陶磁器村",
+          "陶磁器の町・利川を代表する体験の村。"
+        ],
+        "복하천": [
+          "福下川",
+          "利川を流れる代表的な支流。"
+        ],
+        "이천역 상권": [
+          "利川駅商圏",
+          "利川駅を中心とする代表的な商圏。"
+        ],
+        "이천시청": [
+          "利川市庁",
+          "利川市の行政中心。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 利川市",
+      "landmarks": {
+        "설봉공원": [
+          "雪峰公园",
+          "利川主山雪峰山麓的代表性公园。"
+        ],
+        "이천도자기마을": [
+          "利川陶艺村",
+          "陶艺之乡利川的代表性体验村落。"
+        ],
+        "복하천": [
+          "福下川",
+          "流经利川的代表性河流。"
+        ],
+        "이천역 상권": [
+          "利川站商圈",
+          "以利川站为中心的代表性商圈。"
+        ],
+        "이천시청": [
+          "利川市厅",
+          "利川市的行政中心。"
+        ]
+      }
+    }
   }
 }
