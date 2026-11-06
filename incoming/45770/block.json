@@ -139,6 +139,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "강천산",
+        "station_name": "순창버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.39992,
+          127.04638
+        ]
+      },
+      {
+        "target_landmark": "순창고추장민속마을",
+        "station_name": "순창고추장민속마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.367908,
+          127.107936
+        ]
+      },
+      {
+        "target_landmark": "순창군청",
+        "station_name": "순창군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.374866,
+          127.135753
+        ]
+      },
+      {
+        "target_landmark": "순창시장",
+        "station_name": "순창시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.371672,
+          127.143788
+        ]
+      },
+      {
+        "target_landmark": "회문산",
+        "station_name": "회문산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.505109,
+          127.103223
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "순창 중앙 공영주차장",
+        "coordinates": [
+          35.40352,
+          127.04998
+        ],
+        "capacity": 89,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "순창 제2 공영주차장",
+        "coordinates": [
+          35.368708,
+          127.110336
+        ],
+        "capacity": 318,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "순창군은 고추장의 고장으로 유명하며 강천산과 순창고추장민속마을이 자리한 전북 남부의 군이다.",
   "data_sources": [
     {
