@@ -407,5 +407,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seo.incheon.kr",
+    "civil_service_center": {
+      "location_name": "서구청 민원실 앞",
+      "coordinates": [
+        126.621167,
+        37.542239
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "032-562-5301",
+      "info": "인천광역시 서구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.620567,
+      37.542539
+    ],
+    "cctv_zone_count": 57
+  },
+  "urban_parks_trails": {
+    "park_name": "가정근린공원",
+    "trail_length_km": 1.6,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "인천 서구민축제",
+    "typical_month": 10,
+    "venue_name": "가정중심가 일대",
+    "venue_coords": [
+      126.620367,
+      37.541439
+    ]
   }
 }
