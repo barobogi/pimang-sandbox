@@ -280,6 +280,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "풍암호수공원 봄꽃",
+        "황룡강 벚꽃"
+      ],
+      "summer": [
+        "풍암호수공원 여름",
+        "상무지구 여름밤"
+      ],
+      "autumn": [
+        "황룡강 억새",
+        "풍암호수공원 가을"
+      ],
+      "winter": [
+        "상무지구 겨울 빛축제",
+        "풍암호수공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "상무지구 야경",
+        "coordinates": [
+          35.156616,
+          126.838969
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "풍암호수공원 야경",
+        "coordinates": [
+          35.12685,
+          126.875798
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "광주 서구는 상무지구 신도시와 풍암호수공원이 자리한 광주 서부의 행정 중심 구이다.",
   "data_sources": [
     {
