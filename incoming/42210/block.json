@@ -220,6 +220,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "속초초등학교 운동장",
+        "coordinates": [
+          38.158425,
+          128.469874
+        ],
+        "capacity": 7300,
+        "address": "강원특별자치도 속초시"
+      },
+      {
+        "name": "속초실내체육관",
+        "coordinates": [
+          38.224453,
+          128.595997
+        ],
+        "capacity": 3100,
+        "address": "강원특별자치도 속초시"
+      },
+      {
+        "name": "속초중앙공원 비상집합장소",
+        "coordinates": [
+          38.212084,
+          128.569873
+        ],
+        "capacity": 2400,
+        "address": "강원특별자치도 속초시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "설악산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영랑호",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "속초해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청초호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "속초시청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "속초시는 설악산과 동해안이 만나는 강원 영동 북부의 관광 도시로 영랑호와 속초해수욕장, 청초호가 대표 명소이다.",
   "data_sources": [
     {
