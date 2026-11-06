@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Donghae-si, Gangwon",
+      "landmarks": {
+        "무릉계곡": [
+          "Mureung Valley",
+          "Signature attraction of Donghae, Gangwon."
+        ],
+        "천곡천연동굴": [
+          "Cheongok Cave",
+          "Signature natural cave attraction of Donghae, Gangwon."
+        ],
+        "추암촛대바위": [
+          "Chuam Candlestick Rock",
+          "Signature coastal rock attraction of Donghae, Gangwon."
+        ],
+        "동해시청": [
+          "Donghae City Hall",
+          "Administrative center of Donghae, Gangwon."
+        ],
+        "묵호항": [
+          "Mukho Port",
+          "Signature fishing port of Donghae, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 東海市",
+      "landmarks": {
+        "무릉계곡": [
+          "武陵渓谷",
+          "江原特別自治道東海市を代表する名所。"
+        ],
+        "천곡천연동굴": [
+          "泉谷天然洞窟",
+          "江原特別自治道東海市を代表する名所。"
+        ],
+        "추암촛대바위": [
+          "椎灯燭台岩",
+          "江原特別自治道東海市を代表する名所。"
+        ],
+        "동해시청": [
+          "東海市庁",
+          "江原特別自治道東海市を代表する名所。"
+        ],
+        "묵호항": [
+          "墨湖港",
+          "江原特別自治道東海市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 东海市",
+      "landmarks": {
+        "무릉계곡": [
+          "武陵溪谷",
+          "江原特别自治道东海市的代表性名胜。"
+        ],
+        "천곡천연동굴": [
+          "泉谷天然洞窟",
+          "江原特别自治道东海市的代表性名洞。"
+        ],
+        "추암촛대바위": [
+          "锥山烛台岩",
+          "江原特别自治道东海市的代表性海岸奇岩。"
+        ],
+        "동해시청": [
+          "东海市厅",
+          "江原特别自治道东海市的行政中心。"
+        ],
+        "묵호항": [
+          "墨湖港",
+          "江原特别自治道东海市的代表性渔港。"
+        ]
+      }
+    }
   }
 }
