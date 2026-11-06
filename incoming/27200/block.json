@@ -137,6 +137,86 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "앞산",
+        "station_name": "앞산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.8218,
+          128.5733
+        ]
+      },
+      {
+        "target_landmark": "대덕산성",
+        "station_name": "현충로역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 50,
+        "coordinates": [
+          35.846,
+          128.5934
+        ]
+      },
+      {
+        "target_landmark": "안지랑곱창골목",
+        "station_name": "현충로역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 26,
+        "coordinates": [
+          35.846,
+          128.5934
+        ]
+      },
+      {
+        "target_landmark": "물베기거리",
+        "station_name": "영대병원역",
+        "line": "대구 2호선",
+        "exit_no": 9,
+        "walk_minutes": 9,
+        "coordinates": [
+          35.8538,
+          128.5944
+        ]
+      },
+      {
+        "target_landmark": "앞산공원",
+        "station_name": "현충로역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 42,
+        "coordinates": [
+          35.846,
+          128.5934
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남구 중앙 공영주차장",
+        "coordinates": [
+          35.8218,
+          128.578
+        ],
+        "capacity": 469,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "남구 제2 공영주차장",
+        "coordinates": [
+          35.817,
+          128.5733
+        ],
+        "capacity": 477,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
   "data_sources": [
     {
