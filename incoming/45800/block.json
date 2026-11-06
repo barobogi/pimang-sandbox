@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buan-gun, Jeonbuk",
+      "landmarks": {
+        "변산반도국립공원": [
+          "Byeonsanbando National Park",
+          "West Sea's signature national park where cliffs meet the sea."
+        ],
+        "채석강": [
+          "Chaeseokgang Cliffs",
+          "Byeonsan's signature coast where cliffs and waves meet."
+        ],
+        "내소사": [
+          "Naesosa Temple",
+          "Baekje-era temple famed for its Daeungbojeon main hall."
+        ],
+        "고선재": [
+          "Goseonjae Point",
+          "Coastal spot famed for steep cliffs and dramatic sea views."
+        ],
+        "선유도": [
+          "Seonyudo Island",
+          "National tourist island, the West Sea's signature island destination."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 扶安郡",
+      "landmarks": {
+        "변산반도국립공원": [
+          "辺山半島国立公園",
+          "西海岸を代表する国立公園。断崖と海が調和する。"
+        ],
+        "채석강": [
+          "采石江",
+          "断崖と波が織りなす辺山半島を代表する海岸の名所。"
+        ],
+        "내소사": [
+          "来蘇寺",
+          "百済時代に創建された由緒ある寺。大雄宝殿が有名。"
+        ],
+        "고선재": [
+          "古仙台",
+          "切り立つ断崖と海岸絶景が調和する代表的な名所。"
+        ],
+        "선유도": [
+          "仙遊島",
+          "仙遊島国民観光地。西海を代表する島の観光地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 扶安郡",
+      "landmarks": {
+        "변산반도국립공원": [
+          "边山半岛国立公园",
+          "西海岸代表性国立公园，峭壁与大海交融。"
+        ],
+        "채석강": [
+          "采石江",
+          "峭壁与浪涛交织的边山半岛代表性海岸名胜。"
+        ],
+        "내소사": [
+          "来苏寺",
+          "百济时代创建的古刹，以大雄宝殿闻名。"
+        ],
+        "고선재": [
+          "古仙台",
+          "陡峭悬崖与海岸绝景交织的代表性名胜。"
+        ],
+        "선유도": [
+          "仙游岛",
+          "仙游岛国民观光地，西海的代表性海岛胜地。"
+        ]
+      }
+    }
   }
 }
