@@ -1,0 +1,588 @@
+{
+  "block_code": "45800",
+  "block_name": "전북특별자치도 부안군",
+  "bbox": [
+    125.800192,
+    35.444548,
+    126.841129,
+    35.821624
+  ],
+  "center": [
+    35.633086,
+    126.320661
+  ],
+  "landmarks": [
+    {
+      "name": "변산반도국립공원",
+      "lat": 35.647757,
+      "lng": 126.5831167,
+      "category": "국립공원/자연",
+      "description": "서해안의 대표 국립공원으로 절벽과 바다가 어우러졌다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%82%B0%EB%B0%98%EB%8F%84%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 266.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Mt._Byeonsan_Peninsula_National_Park_-_panoramio.jpg/1280px-Mt._Byeonsan_Peninsula_National_Park_-_panoramio.jpg"
+    },
+    {
+      "name": "채석강",
+      "lat": 35.6270358,
+      "lng": 126.4681785,
+      "category": "해안/자연",
+      "description": "절벽과 파도가 어우러진 변산반도 대표 해안 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EC%84%9D%EA%B0%95",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 272.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Buan_County-Chaeseokgang-01.jpg/1280px-Korea-Buan_County-Chaeseokgang-01.jpg"
+    },
+    {
+      "name": "내소사",
+      "lat": 35.617518,
+      "lng": 126.5872515,
+      "category": "사찰/문화유산",
+      "description": "백제 시대 창건된 유서 깊은 사찰로 대웅보전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%86%8C%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 274.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%EB%82%B4%EC%86%8C%EC%82%AC4.jpg"
+    },
+    {
+      "name": "고선재",
+      "lat": 35.625,
+      "lng": 126.736,
+      "category": "해안/자연",
+      "description": "가파란 절벽과 해안 절경이 어우러진 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 271.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Daedongyeojido_%28Gyujanggak%29_14-06.jpg/1280px-Daedongyeojido_%28Gyujanggak%29_14-06.jpg"
+    },
+    {
+      "name": "선유도",
+      "lat": 35.8184605,
+      "lng": 126.4245216,
+      "category": "섬/관광",
+      "description": "선유도국민관광지로 서해의 대표 섬 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%95%88%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 204.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Seonyu_island.JPG/1280px-Seonyu_island.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "부안 해안 절경 시그니처 드론 플라이트",
+      "description": "채석강 → 변산반도국립공원 → 내소사 → 고선재 → 선유도 순으로 이어지는 전북특별자치도 부안군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "채석강",
+        "변산반도국립공원",
+        "내소사",
+        "고선재",
+        "선유도"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "부안 바다빛 스카이 세일",
+      "description": "고선재 → 채석강 → 선유도 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 부안의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "고선재",
+        "채석강",
+        "선유도"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "채석강 본점",
+      "lat": 35.627246,
+      "lng": 126.468808,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "선유도 큰마당식당",
+      "lat": 35.818181,
+      "lng": 126.425082,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "변산반도국립공원 동네밥집",
+      "lat": 35.647547,
+      "lng": 126.583817,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "내소사 본점",
+      "lat": 35.616958,
+      "lng": 126.587391,
+      "specialty": "부추파전",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "변산반도국립공원",
+        "station_name": "변산반도국립공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.646157,
+          126.582317
+        ]
+      },
+      {
+        "target_landmark": "채석강",
+        "station_name": "부안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.625836,
+          126.469378
+        ]
+      },
+      {
+        "target_landmark": "내소사",
+        "station_name": "내소사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.615918,
+          126.586451
+        ]
+      },
+      {
+        "target_landmark": "고선재",
+        "station_name": "고선재 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.6234,
+          126.7352
+        ]
+      },
+      {
+        "target_landmark": "선유도",
+        "station_name": "선유도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.81686,
+          126.423722
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부안 중앙 공영주차장",
+        "coordinates": [
+          35.629036,
+          126.470578
+        ],
+        "capacity": 324,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "부안 제2 공영주차장",
+        "coordinates": [
+          35.820461,
+          126.423722
+        ],
+        "capacity": 108,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "부안 제3 공영주차장",
+        "coordinates": [
+          35.646557,
+          126.584317
+        ],
+        "capacity": 93,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "부안초등학교 운동장",
+        "coordinates": [
+          35.641117,
+          126.456911
+        ],
+        "capacity": 1300,
+        "address": "전북특별자치도 부안군"
+      },
+      {
+        "name": "부안실내체육관",
+        "coordinates": [
+          35.597799,
+          126.45847
+        ],
+        "capacity": 1300,
+        "address": "전북특별자치도 부안군"
+      },
+      {
+        "name": "부안중앙공원 비상집합장소",
+        "coordinates": [
+          35.566439,
+          126.463909
+        ],
+        "capacity": 6400,
+        "address": "전북특별자치도 부안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "변산반도국립공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "채석강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "내소사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고선재",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "선유도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "변산반도국립공원 봄",
+        "채석강 봄"
+      ],
+      "summer": [
+        "변산반도국립공원 여름 해변",
+        "선유도 여름"
+      ],
+      "autumn": [
+        "내소사 단풍",
+        "변산반도국립공원 가을"
+      ],
+      "winter": [
+        "채석강 설경",
+        "내소사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "채석강 야경",
+        "coordinates": [
+          35.627036,
+          126.468178
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "선유도 야경",
+        "coordinates": [
+          35.818461,
+          126.424522
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "부안군은 변산반도국립공원과 채석강, 내소사, 고선재, 선유도 등 서해안 대표 관광 자원이 풍부한 전북 서북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buan-gun, Jeonbuk",
+      "landmarks": {
+        "변산반도국립공원": [
+          "Byeonsanbando National Park",
+          "West Sea's signature national park where cliffs meet the sea."
+        ],
+        "채석강": [
+          "Chaeseokgang Cliffs",
+          "Byeonsan's signature coast where cliffs and waves meet."
+        ],
+        "내소사": [
+          "Naesosa Temple",
+          "Baekje-era temple famed for its Daeungbojeon main hall."
+        ],
+        "고선재": [
+          "Goseonjae Point",
+          "Coastal spot famed for steep cliffs and dramatic sea views."
+        ],
+        "선유도": [
+          "Seonyudo Island",
+          "National tourist island, the West Sea's signature island destination."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 扶安郡",
+      "landmarks": {
+        "변산반도국립공원": [
+          "辺山半島国立公園",
+          "西海岸を代表する国立公園。断崖と海が調和する。"
+        ],
+        "채석강": [
+          "采石江",
+          "断崖と波が織りなす辺山半島を代表する海岸の名所。"
+        ],
+        "내소사": [
+          "来蘇寺",
+          "百済時代に創建された由緒ある寺。大雄宝殿が有名。"
+        ],
+        "고선재": [
+          "古仙台",
+          "切り立つ断崖と海岸絶景が調和する代表的な名所。"
+        ],
+        "선유도": [
+          "仙遊島",
+          "仙遊島国民観光地。西海を代表する島の観光地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 扶安郡",
+      "landmarks": {
+        "변산반도국립공원": [
+          "边山半岛国立公园",
+          "西海岸代表性国立公园，峭壁与大海交融。"
+        ],
+        "채석강": [
+          "采石江",
+          "峭壁与浪涛交织的边山半岛代表性海岸名胜。"
+        ],
+        "내소사": [
+          "来苏寺",
+          "百济时代创建的古刹，以大雄宝殿闻名。"
+        ],
+        "고선재": [
+          "古仙台",
+          "陡峭悬崖与海岸绝景交织的代表性名胜。"
+        ],
+        "선유도": [
+          "仙游岛",
+          "仙游岛国民观光地，西海的代表性海岛胜地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.buan.go.kr",
+    "civil_service_center": {
+      "location_name": "부안군청 민원실 앞",
+      "coordinates": [
+        126.733267,
+        35.731834
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-580-4191",
+      "info": "전북특별자치도 부안군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "부안군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.320761,
+      35.632686
+    ],
+    "cctv_zone_count": 154,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "부안 변산 근린공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "부안군민축제",
+    "typical_month": 10,
+    "venue_name": "부안군민운동장",
+    "venue_coords": [
+      126.320861,
+      35.633186
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "부안군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.733967,
+      35.730134
+    ],
+    "reservation_url": "https://www.buan.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "부안군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.735267,
+      35.732434
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "부안군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.735467,
+      35.731534
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "내소사 본점",
+    "coordinates": [
+      126.587391,
+      35.616958
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "부추파전 (부안군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=부안군청&goalx=126.733267&goaly=35.731834",
+    "kakaonavi_url": "kakaonavi://navigate?name=부안군청&x=126.733267&y=35.731834&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=부안군청&dlng=126.733267&dlat=35.731834&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:38",
+      "sunset": "18:46",
+      "noon_altitude_deg": 54.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:19",
+      "sunset": "19:53",
+      "noon_altitude_deg": 77.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:23",
+      "sunset": "18:31",
+      "noon_altitude_deg": 54.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:25",
+      "noon_altitude_deg": 30.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "부안군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.321761,
+          35.632736
+        ],
+        [
+          126.320761,
+          35.632686
+        ],
+        [
+          126.319961,
+          35.634136
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "부안군 전통시장 만남의거리",
+    "anchor_center": [
+      126.732667,
+      35.731567
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 80,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
