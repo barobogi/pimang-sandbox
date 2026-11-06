@@ -432,10 +432,11 @@
     "civil_service_center": {
       "location_name": "상주시청 민원실 앞",
       "coordinates": [
-        128.069193,
-        36.446892
+        128.158127,
+        36.398096
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "054-533-2001",
