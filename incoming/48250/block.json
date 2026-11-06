@@ -435,10 +435,11 @@
     "civil_service_center": {
       "location_name": "김해시청 민원실 앞",
       "coordinates": [
-        128.854399,
-        35.273345
+        128.867206,
+        35.254459
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "055-1577-9400",
