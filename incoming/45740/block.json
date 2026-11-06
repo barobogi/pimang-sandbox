@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "장안산 봄",
+        "논개생가 봄"
+      ],
+      "summer": [
+        "장안산 여름",
+        "장수누리 여름"
+      ],
+      "autumn": [
+        "장안산 단풍",
+        "논개생가 가을"
+      ],
+      "winter": [
+        "장안산 설경",
+        "장수시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "장안산 야경",
+        "coordinates": [
+          35.629184,
+          127.595074
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "장수시장 야시장",
+        "coordinates": [
+          35.649314,
+          127.517675
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "장수군은 장안산과 논개 생가, 장수오미자로 유명한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
