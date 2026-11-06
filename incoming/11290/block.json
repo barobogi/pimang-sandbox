@@ -147,6 +147,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서울성곽길",
+        "station_name": "한성대입구역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 21,
+        "coordinates": [
+          37.5885,
+          127.0064
+        ]
+      },
+      {
+        "target_landmark": "고려대학교",
+        "station_name": "보문역",
+        "line": "서울 6호선",
+        "exit_no": 1,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5894,
+          127.02
+        ]
+      },
+      {
+        "target_landmark": "정릉",
+        "station_name": "성신여대입구역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 31,
+        "coordinates": [
+          37.5926,
+          127.0165
+        ]
+      },
+      {
+        "target_landmark": "성북동",
+        "station_name": "한성대입구역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 21,
+        "coordinates": [
+          37.5885,
+          127.0064
+        ]
+      },
+      {
+        "target_landmark": "삼청동",
+        "station_name": "한성대입구역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 30,
+        "coordinates": [
+          37.5885,
+          127.0064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성북 중앙 공영주차장",
+        "coordinates": [
+          37.588718,
+          127.029667
+        ],
+        "capacity": 98,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "성북 제2 공영주차장",
+        "coordinates": [
+          37.610269,
+          126.999314
+        ],
+        "capacity": 505,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "성북구는 서촌과 성북동, 정릉이 함께한 유서 깊은 자치구로 한옥과 대학, 도서관 등의 정적 문화가 발달했다.",
   "data_sources": [
     {
