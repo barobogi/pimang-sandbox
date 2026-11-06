@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "임진각평화누리",
+        "station_name": "임진각평화누리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.9088,
+          126.7417
+        ]
+      },
+      {
+        "target_landmark": "도라전망대",
+        "station_name": "도라전망대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.910482,
+          126.703522
+        ]
+      },
+      {
+        "target_landmark": "헤이리문화마을",
+        "station_name": "헤이리문화마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.7654,
+          126.74
+        ]
+      },
+      {
+        "target_landmark": "운정호수공원",
+        "station_name": "야당역",
+        "line": "경의·중앙선",
+        "walk_minutes": 12,
+        "coordinates": [
+          37.7134,
+          126.7588
+        ]
+      },
+      {
+        "target_landmark": "감악산",
+        "station_name": "감악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.938242,
+          126.944777
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "파주 중앙 공영주차장",
+        "coordinates": [
+          37.9076,
+          126.7453
+        ],
+        "capacity": 107,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "파주 제2 공영주차장",
+        "coordinates": [
+          37.7638,
+          126.7432
+        ],
+        "capacity": 553,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "파주시는 조선 시대 파평 윤씨 집성촌과 근현대 군사 요충지였던 지역으로 임진각과 도라전망대 등 DMZ 관광 자원, 헤이리문화마을과 운정신도시가 함께 발달했다.",
   "data_sources": [
     {
