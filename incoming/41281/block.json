@@ -226,6 +226,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "덕양초등학교 운동장",
+        "coordinates": [
+          37.600832,
+          126.837005
+        ],
+        "capacity": 2000,
+        "address": "경기도 고양시 덕양구"
+      },
+      {
+        "name": "덕양실내체육관",
+        "coordinates": [
+          37.657287,
+          126.83269
+        ],
+        "capacity": 5300,
+        "address": "경기도 고양시 덕양구"
+      },
+      {
+        "name": "덕양중앙공원 비상집합장소",
+        "coordinates": [
+          37.631724,
+          126.863467
+        ],
+        "capacity": 7100,
+        "address": "경기도 고양시 덕양구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "행주산성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화정동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고양시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창릉천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕은공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "고양 덕양구는 행주산성과 화정동 상권이 함께한 고양 중부의 구이다.",
   "data_sources": [
     {
