@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "환선굴",
+        "station_name": "환선굴 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.323282,
+          129.009536
+        ]
+      },
+      {
+        "target_landmark": "죽서루",
+        "station_name": "삼척역",
+        "line": "동해선",
+        "walk_minutes": 20,
+        "coordinates": [
+          37.4327,
+          129.1731
+        ]
+      },
+      {
+        "target_landmark": "맹방해수욕장",
+        "station_name": "맹방해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.39015,
+          129.232691
+        ]
+      },
+      {
+        "target_landmark": "삼척시청",
+        "station_name": "삼척역",
+        "line": "동해선",
+        "walk_minutes": 29,
+        "coordinates": [
+          37.4327,
+          129.1731
+        ]
+      },
+      {
+        "target_landmark": "대금굴",
+        "station_name": "대금굴 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.319147,
+          129.018641
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "삼척 중앙 공영주차장",
+        "coordinates": [
+          37.38815,
+          129.231491
+        ],
+        "capacity": 51,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "삼척 제2 공영주차장",
+        "coordinates": [
+          37.44039,
+          129.161704
+        ],
+        "capacity": 472,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "삼척 제3 공영주차장",
+        "coordinates": [
+          37.447913,
+          129.165992
+        ],
+        "capacity": 41,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "삼척시는 동해안 최남단의 강원 도시로 환선굴과 대금굴, 죽서루, 맹방해수욕장이 대표 명소이다.",
   "data_sources": [
     {
