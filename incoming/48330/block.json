@@ -147,6 +147,83 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "통도사",
+        "station_name": "통도사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.48506,
+          129.06629
+        ]
+      },
+      {
+        "target_landmark": "영축사",
+        "station_name": "영축사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.507454,
+          129.078111
+        ]
+      },
+      {
+        "target_landmark": "천성산",
+        "station_name": "천성산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.398773,
+          129.108282
+        ]
+      },
+      {
+        "target_landmark": "배내골",
+        "station_name": "배내골 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.520296,
+          129.012273
+        ]
+      },
+      {
+        "target_landmark": "황산공원",
+        "station_name": "양산역",
+        "line": "부산 2호선",
+        "exit_no": 8,
+        "walk_minutes": 27,
+        "coordinates": [
+          35.335,
+          129.061
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양산 중앙 공영주차장",
+        "coordinates": [
+          35.402373,
+          129.105882
+        ],
+        "capacity": 228,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양산 제2 공영주차장",
+        "coordinates": [
+          35.3366,
+          129.0392
+        ],
+        "capacity": 122,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "양산시는 신라 시대 양산 화랑 문화와 통도사 등의 사찰 문화가 있는 경남 북부의 도시로 천성산과 배내골 등 자연 명소가 함께한다.",
   "data_sources": [
     {
