@@ -296,6 +296,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "상림공원 봄",
+        "용추계곡 봄"
+      ],
+      "summer": [
+        "용추계곡 여름",
+        "상림공원 여름"
+      ],
+      "autumn": [
+        "상림공원 단풍",
+        "지리산 가을"
+      ],
+      "winter": [
+        "상림공원 설경",
+        "함양시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "상림공원 야경",
+        "coordinates": [
+          35.527705,
+          127.717528
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "용추계곡 야경",
+        "coordinates": [
+          35.669022,
+          127.78753
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "함양군은 상림공원과 용추계곡, 지리산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
