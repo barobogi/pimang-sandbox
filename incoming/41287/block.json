@@ -244,6 +244,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "일산서초등학교 운동장",
+        "coordinates": [
+          37.677595,
+          126.748894
+        ],
+        "capacity": 7200,
+        "address": "경기도 고양시 일산서구"
+      },
+      {
+        "name": "일산서실내체육관",
+        "coordinates": [
+          37.649872,
+          126.778965
+        ],
+        "capacity": 2500,
+        "address": "경기도 고양시 일산서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "킨텍스",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일산호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일산역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고양아람누리",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "대화동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "고양 일산서구는 킨텍스와 일산 호수공원이 자리한 고양 서부의 구이다.",
   "data_sources": [
     {
