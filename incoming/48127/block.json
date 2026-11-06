@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "마산회원초등학교 운동장",
+        "coordinates": [
+          35.222718,
+          128.598342
+        ],
+        "capacity": 4700,
+        "address": "경상남도 창원시 마산회원구"
+      },
+      {
+        "name": "마산회원실내체육관",
+        "coordinates": [
+          35.209636,
+          128.554331
+        ],
+        "capacity": 3800,
+        "address": "경상남도 창원시 마산회원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "마산역 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "회원동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "마산회원구청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봉암갯벌",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내서읍 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "마산회원구는 마산의 내륙 지역으로 마산역과 회원동 상권, 봉암갯벌이 자리한 창원 서북부의 구이다.",
   "data_sources": [
     {
