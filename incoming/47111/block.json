@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "죽도시장",
+        "station_name": "죽도시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.03221,
+          129.366551
+        ]
+      },
+      {
+        "target_landmark": "포스코 포항제철소",
+        "station_name": "포스코 포항제철소 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.0272,
+          129.3338
+        ]
+      },
+      {
+        "target_landmark": "오천항",
+        "station_name": "포항역",
+        "line": "KTX 동해선",
+        "walk_minutes": 39,
+        "coordinates": [
+          35.9865,
+          129.3813
+        ]
+      },
+      {
+        "target_landmark": "형산강",
+        "station_name": "포항역",
+        "line": "KTX 동해선",
+        "walk_minutes": 40,
+        "coordinates": [
+          35.9865,
+          129.3813
+        ]
+      },
+      {
+        "target_landmark": "상원대공원",
+        "station_name": "포항역",
+        "line": "KTX 동해선",
+        "walk_minutes": 34,
+        "coordinates": [
+          35.9865,
+          129.3813
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남구 중앙 공영주차장",
+        "coordinates": [
+          36.0042,
+          129.3954
+        ],
+        "capacity": 405,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남구 제2 공영주차장",
+        "coordinates": [
+          35.9684,
+          129.3674
+        ],
+        "capacity": 402,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "포항시 남구는 포항의 산업 심장부로 포스코와 죽도시장, 오천항, 형산강이 자리한 포항 남부의 구이다.",
   "data_sources": [
     {
