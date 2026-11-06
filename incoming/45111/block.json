@@ -223,6 +223,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "완산초등학교 운동장",
+        "coordinates": [
+          35.822067,
+          127.150966
+        ],
+        "capacity": 6100,
+        "address": "전북특별자치도 전주시 완산구"
+      },
+      {
+        "name": "완산실내체육관",
+        "coordinates": [
+          35.822771,
+          127.144125
+        ],
+        "capacity": 2900,
+        "address": "전북특별자치도 전주시 완산구"
+      },
+      {
+        "name": "완산중앙공원 비상집합장소",
+        "coordinates": [
+          35.817372,
+          127.126628
+        ],
+        "capacity": 2300,
+        "address": "전북특별자치도 전주시 완산구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "전주한옥마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "경기전",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "전동성당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "오목대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남부시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "완산구는 조선 시대 전주부의 중심으로 전주한옥마을과 경기전, 전동성당 등 유서 깊은 문화유산이 밀집한 전주의 원도심 구이다.",
   "data_sources": [
     {
