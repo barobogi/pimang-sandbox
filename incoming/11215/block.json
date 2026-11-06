@@ -1,0 +1,577 @@
+{
+  "block_code": "11215",
+  "block_name": "서울특별시 광진구",
+  "bbox": [
+    127.057204,
+    37.522773,
+    127.115167,
+    37.573427
+  ],
+  "center": [
+    37.5481,
+    127.086186
+  ],
+  "landmarks": [
+    {
+      "name": "어린이대공원",
+      "lat": 37.5475998,
+      "lng": 127.0743915,
+      "category": "테마공원",
+      "description": "동물원과 놀이시설이 함께한 대형 어린이 테마 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 86.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Seoul_Childrens_Grand_Park_Main_Gate.jpg/1280px-Seoul_Childrens_Grand_Park_Main_Gate.jpg"
+    },
+    {
+      "name": "건대입구",
+      "lat": 37.5403598,
+      "lng": 127.0694011,
+      "category": "상권/번화가",
+      "description": "대학가 상권과 패션·엔터테인먼트의 중심 거리이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 59.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20240427_%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD_2%ED%98%B8%EC%84%A0_%EC%97%AD%EB%AA%85%ED%8C%90.jpg/1280px-20240427_%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD_2%ED%98%B8%EC%84%A0_%EC%97%AD%EB%AA%85%ED%8C%90.jpg"
+    },
+    {
+      "name": "아차산",
+      "lat": 37.5517023,
+      "lng": 127.0898223,
+      "category": "산/역사",
+      "description": "백제 아차산성이 남아 있는 한강변 대표 산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B0%A8%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 218.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/AchasanPost.jpg/1280px-AchasanPost.jpg"
+    },
+    {
+      "name": "자양한강공원",
+      "lat": 37.531,
+      "lng": 127.075,
+      "category": "한강공원",
+      "description": "자양동 수변의 대표 한강 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A7%84%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 27.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gwangjin_Jayang_1-dong_Community_Service_Center.jpg/1280px-Gwangjin_Jayang_1-dong_Community_Service_Center.jpg"
+    },
+    {
+      "name": "광나루한강공원",
+      "lat": 37.535,
+      "lng": 127.086,
+      "category": "한강공원",
+      "description": "광진구·강동구 경계 수변의 한강 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%82%98%EB%A3%A8%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 0.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/7/7d/View_Photo_of_Winter_of_Worldcup_Park.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "광진 자연 힐링 시그니처 에어리얼 투어",
+      "description": "아차산 → 어린이대공원 → 건대입구 → 자양한강공원 → 광나루한강공원 순으로 이어지는 서울특별시 광진구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "아차산",
+        "어린이대공원",
+        "건대입구",
+        "자양한강공원",
+        "광나루한강공원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "광진 자연 힐링 스카이 워크",
+      "description": "아차산 → 어린이대공원 → 자양한강공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 광진의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "아차산",
+        "어린이대공원",
+        "자양한강공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "아차산 할매집",
+      "lat": 37.551422,
+      "lng": 127.089332,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "어린이대공원 가마솥밥가",
+      "lat": 37.54795,
+      "lng": 127.073762,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "광나루한강공원 골목식당",
+      "lat": 37.53486,
+      "lng": 127.08635,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "어린이대공원",
+        "station_name": "어린이대공원역",
+        "line": "서울 7호선",
+        "exit_no": 1,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.5484,
+          127.0748
+        ]
+      },
+      {
+        "target_landmark": "건대입구",
+        "station_name": "건대입구역",
+        "line": "서울 2·7호선",
+        "exit_no": 7,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.5404,
+          127.0695
+        ]
+      },
+      {
+        "target_landmark": "아차산",
+        "station_name": "어린이대공원역",
+        "line": "서울 7호선",
+        "exit_no": 1,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.5484,
+          127.0748
+        ]
+      },
+      {
+        "target_landmark": "자양한강공원",
+        "station_name": "구의역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 16,
+        "coordinates": [
+          37.5371,
+          127.0854
+        ]
+      },
+      {
+        "target_landmark": "광나루한강공원",
+        "station_name": "구의역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 3,
+        "coordinates": [
+          37.5371,
+          127.0854
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "광진 중앙 공영주차장",
+        "coordinates": [
+          37.554102,
+          127.087422
+        ],
+        "capacity": 31,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "광진 제2 공영주차장",
+        "coordinates": [
+          37.5492,
+          127.072792
+        ],
+        "capacity": 358,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "광진 제3 공영주차장",
+        "coordinates": [
+          37.5338,
+          127.0872
+        ],
+        "capacity": 36,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "광진초등학교 운동장",
+        "coordinates": [
+          37.543238,
+          127.069447
+        ],
+        "capacity": 900,
+        "address": "서울특별시 광진구"
+      },
+      {
+        "name": "광진실내체육관",
+        "coordinates": [
+          37.537817,
+          127.061305
+        ],
+        "capacity": 5200,
+        "address": "서울특별시 광진구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "어린이대공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "건대입구",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "아차산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "자양한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광나루한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "어린이대공원 벚꽃길",
+        "아차산 봄 산행"
+      ],
+      "summer": [
+        "광나루한강공원 물놀이장",
+        "자양한강공원 여름밤"
+      ],
+      "autumn": [
+        "아차산 단풍길",
+        "어린이대공원 가을 국화"
+      ],
+      "winter": [
+        "어린이대공원 겨울 빛축제",
+        "아차산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "아차산 야경",
+        "coordinates": [
+          37.551702,
+          127.089822
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "광나루한강공원 야경",
+        "coordinates": [
+          37.535,
+          127.086
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "광진구는 어린이대공원과 건대입구 상권, 아차산과 한강이 함께한 서울 동남부 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangjin-gu, Seoul",
+      "landmarks": {
+        "어린이대공원": [
+          "Seoul Children's Grand Park",
+          "Large theme park for children with a zoo and amusement rides."
+        ],
+        "건대입구": [
+          "Konkuk University Area",
+          "Vibrant university district and hub of fashion and entertainment."
+        ],
+        "아차산": [
+          "Achasan Mountain",
+          "Riverside mountain preserving the remains of a Baekje-era fortress."
+        ],
+        "자양한강공원": [
+          "Jayang Hangang Park",
+          "Popular riverside park on the Jayang-dong waterfront."
+        ],
+        "광나루한강공원": [
+          "Gwangnaru Hangang Park",
+          "Riverside park at the Gwangjin-Gangdong boundary on the Han River."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 廣津区",
+      "landmarks": {
+        "어린이대공원": [
+          "子供大公園",
+          "動物園と遊具施設を備えた大型児童テーマパーク。"
+        ],
+        "건대입구": [
+          "建大入口",
+          "大学街の商圏とファッション・エンターテインメントの中心地。"
+        ],
+        "아차산": [
+          "峨嵯山",
+          "百済の峨嵯山城跡が残る漢江河岸の山。"
+        ],
+        "자양한강공원": [
+          "紫陽漢江公園",
+          "紫陽洞の水辺に広がる漢江公園。"
+        ],
+        "광나루한강공원": [
+          "広津渡漢江公園",
+          "広津区と江東区の境界の水辺に広がる漢江公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 广津区",
+      "landmarks": {
+        "어린이대공원": [
+          "首尔儿童大公园",
+          "设有动物园和游乐设施的大型儿童主题公园。"
+        ],
+        "건대입구": [
+          "建国大学入口商圈",
+          "大学商圈与时尚娱乐的中心地带。"
+        ],
+        "아차산": [
+          "峨嵯山",
+          "留有百济峨嵯山城遗迹的汉江畔名山。"
+        ],
+        "자양한강공원": [
+          "紫阳汉江公园",
+          "紫阳洞江边的代表性汉江公园。"
+        ],
+        "광나루한강공원": [
+          "广渡口汉江公园",
+          "位于广津区与江东区交界江畔的汉江公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gwangjin.go.kr",
+    "civil_service_center": {
+      "location_name": "광진구청 민원실 앞",
+      "coordinates": [
+        127.081916,
+        37.538498
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-450-1114",
+      "info": "서울특별시 광진구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "광진구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.086585,
+      37.5483
+    ],
+    "cctv_zone_count": 368,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "어린이대공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "서울동화축제",
+    "typical_month": 4,
+    "venue_name": "어린이대공원 광장",
+    "venue_coords": [
+      127.085685,
+      37.5485
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "광진구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.081516,
+      37.536098
+    ],
+    "reservation_url": "https://www.gwangjin.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "광진구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.082016,
+      37.538598
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "광진구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.081116,
+      37.539998
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "아차산 할매집",
+    "coordinates": [
+      127.089332,
+      37.551422
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "설농탕 (광진구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=광진구청&goalx=127.081916&goaly=37.538498",
+    "kakaonavi_url": "kakaonavi://navigate?name=광진구청&x=127.081916&y=37.538498&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=광진구청&dlng=127.081916&dlat=37.538498&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:43",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:28",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "광진구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.086135,
+          37.5489
+        ],
+        [
+          127.086585,
+          37.5483
+        ],
+        [
+          127.087535,
+          37.5479
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "건대 로데오 패션거리",
+    "anchor_center": [
+      127.080049,
+      37.537431
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 235,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
