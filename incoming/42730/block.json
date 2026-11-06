@@ -346,5 +346,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hoengseong-gun, Gangwon",
+      "landmarks": {
+        "청태산자연휴양림": [
+          "Cheongtaesan Natural Recreation Forest",
+          "Signature attraction of Hoengseong-gun, Gangwon."
+        ],
+        "횡성호": [
+          "Hoengseongho Lake",
+          "Signature lake attraction of Hoengseong-gun, Gangwon."
+        ],
+        "둔내면 상권": [
+          "Dunnae-myeon District",
+          "Signature district hub of Hoengseong-gun, Gangwon."
+        ],
+        "횡성시장": [
+          "Hoengseong Market",
+          "Signature market attraction of Hoengseong-gun, Gangwon."
+        ],
+        "횡성군청": [
+          "Hoengseong County Office",
+          "Administrative center of Hoengseong-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 横城郡",
+      "landmarks": {
+        "청태산자연휴양림": [
+          "青太山自然休養林",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "횡성호": [
+          "横城湖",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "둔내면 상권": [
+          "屯内面商圏",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "횡성시장": [
+          "横城市場",
+          "江原特別自治道横城郡を代表する名所。"
+        ],
+        "횡성군청": [
+          "横城郡庁",
+          "江原特別自治道横城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 横城郡",
+      "landmarks": {
+        "청태산자연휴양림": [
+          "青太山自然休养林",
+          "江原特别自治道横城郡的代表性名胜。"
+        ],
+        "횡성호": [
+          "横城湖",
+          "江原特别自治道横城郡的代表性湖泊。"
+        ],
+        "둔내면 상권": [
+          "屯内面商圈",
+          "江原特别自治道横城郡的代表性商圈。"
+        ],
+        "횡성시장": [
+          "横城市场",
+          "江原特别自治道横城郡的代表性市场。"
+        ],
+        "횡성군청": [
+          "横城郡厅",
+          "江原特别自治道横城郡的行政中心。"
+        ]
+      }
+    }
   }
 }
