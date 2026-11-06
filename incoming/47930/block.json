@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uljin-gun, Gyeongbuk",
+      "landmarks": {
+        "불영사": [
+          "Bulyeongsa Temple",
+          "Signature temple heritage of Uljin-gun, Gyeongbuk."
+        ],
+        "왕피천": [
+          "Wangpicheon Stream",
+          "Signature stream attraction of Uljin-gun, Gyeongbuk."
+        ],
+        "망양정": [
+          "Mangyangjeong Pavilion",
+          "Signature pavilion scenic site of Uljin-gun, Gyeongbuk."
+        ],
+        "울진군청": [
+          "Uljin County Office",
+          "Administrative center of Uljin-gun, Gyeongbuk."
+        ],
+        "울진시장": [
+          "Uljin Market",
+          "Signature market attraction of Uljin-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 蔚珍郡",
+      "landmarks": {
+        "불영사": [
+          "仏影寺",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "왕피천": [
+          "王避川",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "망양정": [
+          "望洋亭",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "울진군청": [
+          "蔚珍郡庁",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ],
+        "울진시장": [
+          "蔚珍市場",
+          "慶尚北道蔚珍郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 蔚珍郡",
+      "landmarks": {
+        "불영사": [
+          "佛影寺",
+          "庆尚北道蔚珍郡的代表性古刹。"
+        ],
+        "왕피천": [
+          "王避川",
+          "庆尚北道蔚珍郡的代表性河流。"
+        ],
+        "망양정": [
+          "望洋亭",
+          "庆尚北道蔚珍郡的代表性楼亭胜景。"
+        ],
+        "울진군청": [
+          "蔚珍郡厅",
+          "庆尚北道蔚珍郡的行政中心。"
+        ],
+        "울진시장": [
+          "蔚珍市场",
+          "庆尚北道蔚珍郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
