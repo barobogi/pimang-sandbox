@@ -140,6 +140,96 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대전엑스포과학공원",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 37,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      },
+      {
+        "target_landmark": "KAIST",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 15,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      },
+      {
+        "target_landmark": "유성온천",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 23,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      },
+      {
+        "target_landmark": "계족산",
+        "station_name": "계족산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.3004,
+          127.398
+        ]
+      },
+      {
+        "target_landmark": "대덕연구개발단지",
+        "station_name": "유성역",
+        "line": "대전 1호선",
+        "exit_no": 9,
+        "walk_minutes": 45,
+        "coordinates": [
+          36.362,
+          127.3563
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "유성 중앙 공영주차장",
+        "coordinates": [
+          36.352133,
+          127.342502
+        ],
+        "capacity": 137,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "유성 제2 공영주차장",
+        "coordinates": [
+          36.369505,
+          127.364412
+        ],
+        "capacity": 449,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "유성 제3 공영주차장",
+        "coordinates": [
+          36.37,
+          127.3809
+        ],
+        "capacity": 409,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "유성구는 대덕연구단지와 KAIST, 충남대 등 과학·교육 도시의 중심이며 유성온천과 대전엑스포과학공원 등의 명소가 함께한 대전 북부의 구이다.",
   "data_sources": [
     {
