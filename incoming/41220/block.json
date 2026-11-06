@@ -348,5 +348,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Pyeongtaek-si, Gyeonggi",
+      "landmarks": {
+        "평택항": [
+          "Pyeongtaek Port",
+          "Rapidly growing large container port."
+        ],
+        "평택호수공원": [
+          "Pyeongtaek Lake Park",
+          "Signature lakeside park of downtown Pyeongtaek."
+        ],
+        "동삭해수욕장": [
+          "Dongsak Beach",
+          "Pyeongtaek's signature beach."
+        ],
+        "캠프험프리스": [
+          "Camp Humphreys",
+          "The largest US military base in Korea."
+        ],
+        "평택문화예술회관": [
+          "Pyeongtaek Arts Center",
+          "Pyeongtaek's leading venue for performances and exhibitions."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 平沢市",
+      "landmarks": {
+        "평택항": [
+          "平沢港",
+          "急成長中の大型コンテナ港。"
+        ],
+        "평택호수공원": [
+          "平沢湖公園",
+          "平沢都心を代表する湖畔公園。"
+        ],
+        "동삭해수욕장": [
+          "東作海水浴場",
+          "平沢を代表する海水浴場。"
+        ],
+        "캠프험프리스": [
+          "キャンプ・ハンフリーズ",
+          "在韓米軍の最大基地。"
+        ],
+        "평택문화예술회관": [
+          "平沢文化芸術会館",
+          "平沢を代表する公演・展示施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 平泽市",
+      "landmarks": {
+        "평택항": [
+          "平泽港",
+          "快速成长中的大型集装箱港口。"
+        ],
+        "평택호수공원": [
+          "平泽湖公园",
+          "平泽市中心的代表性湖畔公园。"
+        ],
+        "동삭해수욕장": [
+          "东作海水浴场",
+          "平泽的代表性海滨浴场。"
+        ],
+        "캠프험프리스": [
+          "汉弗莱斯军营",
+          "驻韩美军的最大基地。"
+        ],
+        "평택문화예술회관": [
+          "平泽文化艺术会馆",
+          "平泽代表性的演出展览场馆。"
+        ]
+      }
+    }
   }
 }
