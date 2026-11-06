@@ -140,6 +140,84 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "외암민속마을",
+        "station_name": "온양온천역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 12,
+        "coordinates": [
+          36.7357,
+          127.01
+        ]
+      },
+      {
+        "target_landmark": "온양온천",
+        "station_name": "온양온천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.782095,
+          127.004124
+        ]
+      },
+      {
+        "target_landmark": "신정호",
+        "station_name": "신정호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.77744,
+          126.981628
+        ]
+      },
+      {
+        "target_landmark": "곡교천은행나무길",
+        "station_name": "아산역",
+        "line": "수도권 1호선",
+        "exit_no": 9,
+        "walk_minutes": 7,
+        "coordinates": [
+          36.7942,
+          127.1196
+        ]
+      },
+      {
+        "target_landmark": "온양민속박물관",
+        "station_name": "온양민속박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.79313,
+          127.007849
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "아산 중앙 공영주차장",
+        "coordinates": [
+          36.77784,
+          126.980428
+        ],
+        "capacity": 32,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "아산 제2 공영주차장",
+        "coordinates": [
+          36.779295,
+          127.002524
+        ],
+        "capacity": 257,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "아산시는 온양온천으로 유명한 온천 도시이자 이순신 장군 고향으로 외암민속마을과 신정호, 곡교천 은행나무길 등 문화·자연 명소가 풍부하다.",
   "data_sources": [
     {
