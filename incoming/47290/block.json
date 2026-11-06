@@ -354,5 +354,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gyeongsan-si, Gyeongbuk",
+      "landmarks": {
+        "영남대학교": [
+          "Yeungnam University",
+          "Signature university attraction of Gyeongsan-si, Gyeongbuk."
+        ],
+        "자인단오제전수교육관": [
+          "Jain Danoje Training Center",
+          "Signature cultural attraction of Gyeongsan-si, Gyeongbuk."
+        ],
+        "경산시청": [
+          "Gyeongsan City Hall",
+          "Administrative center of Gyeongsan-si, Gyeongbuk."
+        ],
+        "경산시장": [
+          "Gyeongsan Market",
+          "Signature market attraction of Gyeongsan-si, Gyeongbuk."
+        ],
+        "남매탑": [
+          "Nammaetap Pagoda",
+          "Signature Buddhist pagoda heritage of Gyeongsan-si, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 慶山市",
+      "landmarks": {
+        "영남대학교": [
+          "嶺南大学校",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "자인단오제전수교육관": [
+          "自在端午祭伝習教育館",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "경산시청": [
+          "慶山市庁",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "경산시장": [
+          "慶山市場",
+          "慶尚北道慶山市を代表する名所。"
+        ],
+        "남매탑": [
+          "南梅塔",
+          "慶尚北道慶山市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 庆山市",
+      "landmarks": {
+        "영남대학교": [
+          "岭南大学",
+          "庆尚北道庆山市的代表性高校。"
+        ],
+        "자인단오제전수교육관": [
+          "自印端午祭传习教育馆",
+          "庆尚北道庆山市的代表性文化设施。"
+        ],
+        "경산시청": [
+          "庆山市厅",
+          "庆尚北道庆山市的行政中心。"
+        ],
+        "경산시장": [
+          "庆山市场",
+          "庆尚北道庆山市的代表性市场。"
+        ],
+        "남매탑": [
+          "南梅塔",
+          "庆尚北道庆山市的代表性佛塔。"
+        ]
+      }
+    }
   }
 }
