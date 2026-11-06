@@ -137,6 +137,94 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "계족산황토길",
+        "station_name": "계족산황토길 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.3238,
+          127.4724
+        ]
+      },
+      {
+        "target_landmark": "동춘당",
+        "station_name": "판암역",
+        "line": "대전 1호선",
+        "exit_no": 4,
+        "walk_minutes": 35,
+        "coordinates": [
+          36.3467,
+          127.427
+        ]
+      },
+      {
+        "target_landmark": "대청호",
+        "station_name": "대청호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.448879,
+          127.472324
+        ]
+      },
+      {
+        "target_landmark": "신탄진역",
+        "station_name": "신탄진역 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.450176,
+          127.431721
+        ]
+      },
+      {
+        "target_landmark": "회덕향교",
+        "station_name": "판암역",
+        "line": "대전 1호선",
+        "exit_no": 4,
+        "walk_minutes": 38,
+        "coordinates": [
+          36.3467,
+          127.427
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "대덕 중앙 공영주차장",
+        "coordinates": [
+          36.372,
+          127.4346
+        ],
+        "capacity": 428,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "대덕 제2 공영주차장",
+        "coordinates": [
+          36.363909,
+          127.441973
+        ],
+        "capacity": 139,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "대덕 제3 공영주차장",
+        "coordinates": [
+          36.450976,
+          127.429322
+        ],
+        "capacity": 534,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "대전 대덕구는 계족산과 대청호가 자리한 대전 북부의 구로 동춘당과 계족산황토길 등 역사·자연 명소가 함께한다.",
   "data_sources": [
     {
