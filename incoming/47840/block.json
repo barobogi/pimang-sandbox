@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongju-gun, Gyeongbuk",
+      "landmarks": {
+        "세종대왕자태실": [
+          "King Sejong's Royal Placenta Chamber",
+          "Signature historic site heritage of Seongju-gun, Gyeongbuk."
+        ],
+        "성주군청": [
+          "Seongju County Office",
+          "Administrative center of Seongju-gun, Gyeongbuk."
+        ],
+        "성주시장": [
+          "Seongju Market",
+          "Signature market attraction of Seongju-gun, Gyeongbuk."
+        ],
+        "가야산": [
+          "Gayasan Mountain",
+          "Signature national park mountain of Seongju-gun, Gyeongbuk."
+        ],
+        "성주버스터미널": [
+          "Seongju Bus Terminal",
+          "Signature transit hub attraction of Seongju-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 星州郡",
+      "landmarks": {
+        "세종대왕자태실": [
+          "世宗大王子胎室",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "성주군청": [
+          "星州郡庁",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "성주시장": [
+          "星州市場",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "가야산": [
+          "伽倻山",
+          "慶尚北道星州郡を代表する名所。"
+        ],
+        "성주버스터미널": [
+          "星州バスターミナル",
+          "慶尚北道星州郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 星州郡",
+      "landmarks": {
+        "세종대왕자태실": [
+          "世宗大王胎室",
+          "庆尚北道星州郡的代表性历史遗迹。"
+        ],
+        "성주군청": [
+          "星州郡厅",
+          "庆尚北道星州郡的行政中心。"
+        ],
+        "성주시장": [
+          "星州市场",
+          "庆尚北道星州郡的代表性市场。"
+        ],
+        "가야산": [
+          "伽倻山",
+          "庆尚北道星州郡的代表性国立公园名山。"
+        ],
+        "성주버스터미널": [
+          "星州巴士客运站",
+          "庆尚北道星州郡的代表性交通枢纽。"
+        ]
+      }
+    }
   }
 }
