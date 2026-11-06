@@ -222,6 +222,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "수지초등학교 운동장",
+        "coordinates": [
+          37.324213,
+          127.123204
+        ],
+        "capacity": 2000,
+        "address": "경기도 용인시 수지구"
+      },
+      {
+        "name": "수지실내체육관",
+        "coordinates": [
+          37.336112,
+          127.119975
+        ],
+        "capacity": 5800,
+        "address": "경기도 용인시 수지구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "죽전역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "죽전동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동천동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "보정동 카페거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수지공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "용인 수지구는 죽전동 상권과 대형 주거 지역이 함께한 용인 동부의 구이다.",
   "data_sources": [
     {
