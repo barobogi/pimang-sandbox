@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "백운산 봄",
+        "을족도 봄"
+      ],
+      "summer": [
+        "몽덕해수욕장 여름",
+        "광양만 여름"
+      ],
+      "autumn": [
+        "백운산 단풍",
+        "광양만 가을"
+      ],
+      "winter": [
+        "광양만 설경",
+        "백운산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "광양만 야경",
+        "coordinates": [
+          34.91,
+          127.57
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "백운산 야경",
+        "coordinates": [
+          35.106378,
+          127.621325
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "광양시는 광양만과 백운산이 어우러진 전남 동부의 산업·관광 도시로 포스코 광양제철소와 몽덕해수욕장이 함께한다.",
   "data_sources": [
     {
