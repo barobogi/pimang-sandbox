@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Daedeok-gu, Daejeon",
+      "landmarks": {
+        "계족산황토길": [
+          "Gyejoksan Red Clay Trail",
+          "14.5 km red clay path through Gyejoksan forest, Daejeon's signature walking trail."
+        ],
+        "동춘당": [
+          "Dongchundang",
+          "Study hall of the scholar Song Jun-gil, Treasure No. 209."
+        ],
+        "대청호": [
+          "Daecheongho Lake",
+          "Large artificial lake spanning Daedeok-gu and North Chungcheong, famed for its lakeside road."
+        ],
+        "신탄진역": [
+          "Sintanjin Station",
+          "Railway station in Sintanjin-dong, keeping the old Sintanjin culture alive."
+        ],
+        "회덕향교": [
+          "Hoedeok Hyanggyo",
+          "Confucian school of Joseon-era Hoedeok-hyeon, a historic educational site."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 大德区",
+      "landmarks": {
+        "계족산황토길": [
+          "鶏足山黄土路",
+          "鶏足山の森の中を通る14.5キロの黄土の道。大田を代表する散策の名所。"
+        ],
+        "동춘당": [
+          "同春堂",
+          "同春堂・宋浚吉先生の講学空間で、宝物第209号。"
+        ],
+        "대청호": [
+          "大清湖",
+          "大徳区と忠北にまたがる大型人造湖。大清湖畔道路が有名。"
+        ],
+        "신탄진역": [
+          "新灘津駅",
+          "大徳区新灘津洞の鉄道駅。旧新灘津の文化が残る。"
+        ],
+        "회덕향교": [
+          "懐徳郷校",
+          "朝鮮時代の懐徳県の郷校。由緒ある教育遺跡。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 大德区",
+      "landmarks": {
+        "계족산황토길": [
+          "鸡足山黄土路",
+          "穿越鸡足山森林的14.5公里黄土步道，大田代表性散步胜地。"
+        ],
+        "동춘당": [
+          "同春堂",
+          "同春堂宋浚吉先生的讲学之所，宝物第209号。"
+        ],
+        "대청호": [
+          "大清水库",
+          "跨大德区与忠北的大型人工湖，湖畔路闻名。"
+        ],
+        "신탄진역": [
+          "新滩津站",
+          "大德区新滩津洞的铁路车站，留有旧时新滩津文化。"
+        ],
+        "회덕향교": [
+          "怀德乡校",
+          "朝鲜时代怀德县的官学，历史悠久的儒学教育遗迹。"
+        ]
+      }
+    }
   }
 }
