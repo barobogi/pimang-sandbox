@@ -328,6 +328,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -453,5 +458,48 @@
       127.482698,
       37.20277
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "이천시 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      127.435137,
+      37.275038
+    ],
+    "reservation_url": "https://www.icheon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "이천시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.434237,
+      37.275338
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "이천시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.432837,
+      37.272738
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "이천역 상권 할매집",
+    "coordinates": [
+      127.44249,
+      37.24328
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수원갈비 (이천시 지정 모범음식점)"
   }
 }
