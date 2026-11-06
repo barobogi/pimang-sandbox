@@ -327,5 +327,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Busanjin-gu, Busan",
+      "landmarks": {
+        "서면": [
+          "Seomyeon",
+          "Busan's largest commercial district, famous for the Seomyeon Underground Shopping Center."
+        ],
+        "개금벚꽃길": [
+          "Gaegum Cherry Blossom Road",
+          "Deck-path cherry blossom spot on the hillside village of Gaegum-dong below Amisan."
+        ],
+        "초읍어린이대공원": [
+          "Choeup Children's Grand Park",
+          "Large children's park embracing cherry trees and forest around Seongjigok Reservoir."
+        ],
+        "부전도서관": [
+          "Bujeon Library",
+          "Busan's flagship library in Bujeon-dong."
+        ],
+        "엄광산": [
+          "Eomgwangsan Mountain",
+          "Low hiking mountain on the Gaegum-dong and Saha-gu boundary."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 釜山鎮区",
+      "landmarks": {
+        "서면": [
+          "西面",
+          "釜山最大の繁華街。西面地下街が有名。"
+        ],
+        "개금벚꽃길": [
+          "亀金桜並木",
+          "儼光山のふもと、亀金洞の丘に造られたデッキ道の桜名所。"
+        ],
+        "초읍어린이대공원": [
+          "草邑子供大公園",
+          "聖地谷貯水池を抱く桜並木と森が調和する大型児童公園。"
+        ],
+        "부전도서관": [
+          "釜田図書館",
+          "釜田洞に構える釜山を代表する図書館。"
+        ],
+        "엄광산": [
+          "甘光山",
+          "亀金洞と沙下区の境界にある低い山。登山の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 釜山镇区",
+      "landmarks": {
+        "서면": [
+          "西面",
+          "釜山最大的商业区，西面地下商街闻名遐迩。"
+        ],
+        "개금벚꽃길": [
+          "开琴樱花路",
+          "严光山麓开琴村山坡上的栈道赏樱胜地。"
+        ],
+        "초읍어린이대공원": [
+          "草邑儿童大公园",
+          "环抱圣地谷水库樱花林的大型儿童公园。"
+        ],
+        "부전도서관": [
+          "釜田图书馆",
+          "位于釜田洞的釜山代表性图书馆。"
+        ],
+        "엄광산": [
+          "严光山",
+          "开琴洞与沙下区交界的矮山，登山胜地。"
+        ]
+      }
+    }
   }
 }
