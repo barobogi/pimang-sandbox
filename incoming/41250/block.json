@@ -221,6 +221,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동두천초등학교 운동장",
+        "coordinates": [
+          37.937038,
+          127.092323
+        ],
+        "capacity": 4400,
+        "address": "경기도 동두천시"
+      },
+      {
+        "name": "동두천실내체육관",
+        "coordinates": [
+          38.053754,
+          127.044724
+        ],
+        "capacity": 5500,
+        "address": "경기도 동두천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "소요산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동두천폭포",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "한탄강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보산동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소요산 전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "동두천시는 소요산과 한탄강 국가지질공원이 함께한 경기 북부의 도시이다.",
   "data_sources": [
     {
