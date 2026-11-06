@@ -1,0 +1,583 @@
+{
+  "block_code": "27110",
+  "block_name": "대구광역시 중구",
+  "bbox": [
+    128.573775,
+    35.854915,
+    128.614243,
+    35.879527
+  ],
+  "center": [
+    35.867221,
+    128.594009
+  ],
+  "landmarks": [
+    {
+      "name": "동성로",
+      "lat": 35.8699714,
+      "lng": 128.5967735,
+      "category": "상권/번화가",
+      "description": "대구 최대 번화가로 패션과 카페가 밀집한 대표 상업 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%84%B1%EB%A1%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 219.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/9%EA%B2%BD_%EB%8F%99%EC%84%B1%EB%A1%9C.jpg"
+    },
+    {
+      "name": "약령시장",
+      "lat": 35.869,
+      "lng": 128.6,
+      "category": "전통시장/한약재",
+      "description": "국내 최대 한약재 시장으로 약전골목이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 249.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Crude-Korean-Drugs-Daegu-Market.JPG/1280px-Crude-Korean-Drugs-Daegu-Market.JPG"
+    },
+    {
+      "name": "서문시장",
+      "lat": 35.8697073,
+      "lng": 128.5822548,
+      "category": "전통시장",
+      "description": "대구 대표 재래시장으로 야시장 먹거리로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 104.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg"
+    },
+    {
+      "name": "근대역사골목",
+      "lat": 35.866,
+      "lng": 128.594,
+      "category": "문화/골목",
+      "description": "개항기 이후 대구 근대사를 보여주는 문화 골목이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 0.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Busan_Modern_History_Museum-01.jpg"
+    },
+    {
+      "name": "북성로",
+      "lat": 35.8738039,
+      "lng": 128.5938742,
+      "category": "역사/도로",
+      "description": "대구읍성 옛 터를 따라 조성된 역사 문화 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 179.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jung-gu_office%2C_Daegu.JPG/1280px-Jung-gu_office%2C_Daegu.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "중구 역사·문화 시그니처 스카이 트레일",
+      "description": "근대역사골목 → 동성로 → 약령시장 → 북성로 → 서문시장 순으로 이어지는 대구광역시 중구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "근대역사골목",
+        "동성로",
+        "약령시장",
+        "북성로",
+        "서문시장"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "중구 세월을 나는 문화유산 플라이트",
+      "description": "약령시장 → 동성로 → 서문시장 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 중구의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "약령시장",
+        "동성로",
+        "서문시장"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "동화가이국밥",
+      "lat": 35.8556,
+      "lng": 128.585,
+      "specialty": "가이국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "삼덕동 곱창골목",
+      "lat": 35.8632,
+      "lng": 128.593,
+      "specialty": "막창구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "평화록다방",
+      "lat": 35.8681,
+      "lng": 128.5967,
+      "specialty": "계란토스트",
+      "category": "전통디저트"
+    },
+    {
+      "name": "약령 골목식당",
+      "lat": 35.86921,
+      "lng": 128.60028,
+      "specialty": "납작만두",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동성로",
+        "station_name": "중앙로역",
+        "line": "대구 1호선",
+        "exit_no": 2,
+        "walk_minutes": 13,
+        "coordinates": [
+          35.8667,
+          128.6063
+        ]
+      },
+      {
+        "target_landmark": "약령시장",
+        "station_name": "중앙로역",
+        "line": "대구 1호선",
+        "exit_no": 2,
+        "walk_minutes": 9,
+        "coordinates": [
+          35.8667,
+          128.6063
+        ]
+      },
+      {
+        "target_landmark": "서문시장",
+        "station_name": "서문시장역",
+        "line": "대구 3호선",
+        "exit_no": 2,
+        "walk_minutes": 3,
+        "coordinates": [
+          35.8716,
+          128.581
+        ]
+      },
+      {
+        "target_landmark": "근대역사골목",
+        "station_name": "중앙로역",
+        "line": "대구 1호선",
+        "exit_no": 2,
+        "walk_minutes": 16,
+        "coordinates": [
+          35.8667,
+          128.6063
+        ]
+      },
+      {
+        "target_landmark": "북성로",
+        "station_name": "서문시장역",
+        "line": "대구 3호선",
+        "exit_no": 2,
+        "walk_minutes": 17,
+        "coordinates": [
+          35.8716,
+          128.581
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동인공영주차장",
+        "coordinates": [
+          35.8665,
+          128.6022
+        ],
+        "capacity": 200,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서문시장 공영주차장",
+        "coordinates": [
+          35.872,
+          128.5795
+        ],
+        "capacity": 170,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.868343,
+          128.593329
+        ],
+        "capacity": 2700,
+        "address": "대구광역시 중구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.871911,
+          128.605984
+        ],
+        "capacity": 5700,
+        "address": "대구광역시 중구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          35.870893,
+          128.584324
+        ],
+        "capacity": 4800,
+        "address": "대구광역시 중구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동성로",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "약령시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서문시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "근대역사골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북성로",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "근대역사골목 봄 산책",
+        "동성로 봄 거리"
+      ],
+      "summer": [
+        "동성로 여름밤",
+        "서문시장 야시장"
+      ],
+      "autumn": [
+        "근대역사골목 가을",
+        "약령시장 가을"
+      ],
+      "winter": [
+        "동성로 겨울 빛축제",
+        "서문시장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "동성로 야경",
+        "coordinates": [
+          35.869971,
+          128.596774
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "서문시장 야시장",
+        "coordinates": [
+          35.869707,
+          128.582255
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "대구 중구는 대구의 원도심으로 동성로와 약령시장, 서문시장, 근대역사골목이 자리한 대구 상업·문화 중심지다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Daegu",
+      "landmarks": {
+        "동성로": [
+          "Dongseong-ro",
+          "Daegu's largest shopping street, dense with boutiques and cafes."
+        ],
+        "약령시장": [
+          "Yangnyeong Market",
+          "Korea's largest herbal medicine market, famed for its medicine alley."
+        ],
+        "서문시장": [
+          "Seomun Market",
+          "Daegu's signature traditional market, famed for its night-market food."
+        ],
+        "근대역사골목": [
+          "Modern History Alley",
+          "Culture alley showcasing Daegu's history since the port opening."
+        ],
+        "북성로": [
+          "Bukseong-ro",
+          "Historic culture street along the old Daegu fortress wall."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 中区",
+      "landmarks": {
+        "동성로": [
+          "東城路",
+          "大邱最大の繁華街で、ファッションとカフェが集まる代表的な商業ストリート。"
+        ],
+        "약령시장": [
+          "薬令市場",
+          "国内最大の韓薬材市場。薬令横丁が有名。"
+        ],
+        "서문시장": [
+          "西門市場",
+          "大邱を代表する伝統市場。夜市のグルメで有名。"
+        ],
+        "근대역사골목": [
+          "近代歴史の路地",
+          "開港以降の大邱近代史を伝える文化の路地。"
+        ],
+        "북성로": [
+          "北城路",
+          "大邱邑城の旧跡に沿って造られた歴史文化ストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 中区",
+      "landmarks": {
+        "동성로": [
+          "东城路",
+          "大邱最大的繁华街区，时尚与咖啡馆云集。"
+        ],
+        "약령시장": [
+          "药令市场",
+          "韩国最大的韩药材市场，药令巷闻名遐迩。"
+        ],
+        "서문시장": [
+          "西门市场",
+          "大邱代表性传统市场，以夜市美食闻名。"
+        ],
+        "근대역사골목": [
+          "近代历史巷",
+          "展现开港后大邱近代历史的文化街巷。"
+        ],
+        "북성로": [
+          "北城路",
+          "沿大邱邑城旧址修建的历史文化街。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jung.daegu.kr",
+    "civil_service_center": {
+      "location_name": "중구청 민원실 앞",
+      "coordinates": [
+        128.605947,
+        35.869259
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "053-661-2000",
+      "info": "대구광역시 중구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "중구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.594509,
+      35.867121
+    ],
+    "cctv_zone_count": 104,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "2.28공원",
+    "trail_length_km": 0.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "약령시 한방약령축제",
+    "typical_month": 5,
+    "venue_name": "약령시장 일대",
+    "venue_coords": [
+      128.594309,
+      35.867821
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "중구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.606047,
+      35.871259
+    ],
+    "reservation_url": "https://www.jung.daegu.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "중구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.604947,
+      35.866359
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "중구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.607247,
+      35.869659
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "삼덕동 곱창골목",
+    "coordinates": [
+      128.593,
+      35.8632
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막창구이 (중구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=중구청&goalx=128.605947&goaly=35.869259",
+    "kakaonavi_url": "kakaonavi://navigate?name=중구청&x=128.605947&y=35.869259&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=중구청&dlng=128.605947&dlat=35.869259&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:37",
+      "noon_altitude_deg": 54.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:45",
+      "noon_altitude_deg": 77.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:22",
+      "noon_altitude_deg": 54.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:32",
+      "sunset": "17:16",
+      "noon_altitude_deg": 30.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "중구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.593859,
+          35.866321
+        ],
+        [
+          128.594509,
+          35.867121
+        ],
+        [
+          128.594109,
+          35.866071
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "대구 중구 동성로 로데오거리",
+    "anchor_center": [
+      128.605814,
+      35.870526
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 110,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
