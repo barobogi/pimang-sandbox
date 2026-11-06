@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "팔달초등학교 운동장",
+        "coordinates": [
+          37.283641,
+          127.024082
+        ],
+        "capacity": 1700,
+        "address": "경기도 수원시 팔달구"
+      },
+      {
+        "name": "팔달실내체육관",
+        "coordinates": [
+          37.277364,
+          127.014322
+        ],
+        "capacity": 5000,
+        "address": "경기도 수원시 팔달구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수원 화성행궁",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "팔달문",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화홍문",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "팔달공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영동시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "수원 팔달구는 수원 화성과 행궁이 자리한 수원 원도심 구이다.",
   "data_sources": [
     {
