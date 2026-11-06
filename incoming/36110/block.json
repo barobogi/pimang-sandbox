@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sejong Special Self-Governing City",
+      "landmarks": {
+        "정부세종청사": [
+          "Sejong Government Complex",
+          "Core administrative complex hosting the central government ministries."
+        ],
+        "세종호수공원": [
+          "Sejong Lake Park",
+          "Artificial lakeside park at the heart of the new city, Sejong's signature retreat."
+        ],
+        "은어송마을": [
+          "Euneosong Village",
+          "Traditional village carrying the Baekje-era Euneosong legend, a certified Slow City."
+        ],
+        "전의향교": [
+          "Jeonui Hyanggyo",
+          "Confucian school established in Joseon-era Jeonui-hyeon, a historic scholarly space."
+        ],
+        "부강나루": [
+          "Bugang Ferry",
+          "Ferry crossing on the Geum River at Bugang-myeon, famed for cruises linked to the Baekje historic district."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "世宗特別自治市",
+      "landmarks": {
+        "정부세종청사": [
+          "政府世宗庁舎",
+          "中央官庁が大集結する行政中心地の核となる庁舎。"
+        ],
+        "세종호수공원": [
+          "世宗湖公園",
+          "新都市の中央に造られた人工湖畔公園。世宗を代表する憩いの場。"
+        ],
+        "은어송마을": [
+          "銀魚松村",
+          "百済時代の銀魚松の国伝説を持つ伝統村。スローシティ認証村。"
+        ],
+        "전의향교": [
+          "全義郷校",
+          "朝鮮時代の全義県に設けられた郷校。由緒ある儒者教育の空間。"
+        ],
+        "부강나루": [
+          "富江渡し場",
+          "錦江・富江面の渡し場。百済歴史文化地区とつながる遊覧船の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "世宗特别自治市",
+      "landmarks": {
+        "정부세종청사": [
+          "政府世宗办公大楼",
+          "中央政府机关云集的行政中心核心建筑。"
+        ],
+        "세종호수공원": [
+          "世宗湖公园",
+          "新城中央的人工湖滨公园，世宗的代表性休憩空间。"
+        ],
+        "은어송마을": [
+          "银鱼松村",
+          "承载百济时代银鱼松国传说的传统村落，获慢城认证。"
+        ],
+        "전의향교": [
+          "全义乡校",
+          "朝鲜时代全义县设立的官学，历史悠久的儒学教育空间。"
+        ],
+        "부강나루": [
+          "芙江渡口",
+          "锦江芙江面的渡口，与百济历史文化区相连的游船胜地。"
+        ]
+      }
+    }
   }
 }
