@@ -147,6 +147,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청사포",
+        "station_name": "청사포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.163258,
+          129.193784
+        ]
+      },
+      {
+        "target_landmark": "장안사",
+        "station_name": "장안사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.376316,
+          129.235381
+        ]
+      },
+      {
+        "target_landmark": "임랑해수욕장",
+        "station_name": "임랑해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.3234,
+          129.270102
+        ]
+      },
+      {
+        "target_landmark": "해동용궁사",
+        "station_name": "해동용궁사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.190434,
+          129.225376
+        ]
+      },
+      {
+        "target_landmark": "오시리아관광단지",
+        "station_name": "오시리아관광단지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.191413,
+          129.21507
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "기장 중앙 공영주차장",
+        "coordinates": [
+          35.3218,
+          129.267302
+        ],
+        "capacity": 53,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "기장 제2 공영주차장",
+        "coordinates": [
+          35.189234,
+          129.224176
+        ],
+        "capacity": 292,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 기장군은 기장읍과 장안·일광·정관·철마가 함께한 부산 동부의 해안 군으로 청사포와 해동용궁사 등 해안 명소가 있다.",
   "data_sources": [
     {
