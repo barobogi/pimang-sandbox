@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "원주초등학교 운동장",
+        "coordinates": [
+          37.346638,
+          128.090724
+        ],
+        "capacity": 3200,
+        "address": "강원특별자치도 원주시"
+      },
+      {
+        "name": "원주실내체육관",
+        "coordinates": [
+          37.342028,
+          127.881557
+        ],
+        "capacity": 3000,
+        "address": "강원특별자치도 원주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "치악산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "원주중앙시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봄내공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "원주미로공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문막응원공성지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "원주시는 치악산 자락에 자리한 강원 남부의 교통 요충 도시로 근현대 의료·관광 산업과 혁신도시가 발달했고 원주미로공원과 중앙시장 등의 명소가 함께한다.",
   "data_sources": [
     {
