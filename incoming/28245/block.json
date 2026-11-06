@@ -147,6 +147,97 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "계양산",
+        "station_name": "계양역",
+        "line": "수도권 1호선·공항철도",
+        "exit_no": 6,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.5722,
+          126.737
+        ]
+      },
+      {
+        "target_landmark": "계양역 신도시",
+        "station_name": "계양역",
+        "line": "수도권 1호선·공항철도",
+        "exit_no": 6,
+        "walk_minutes": 3,
+        "coordinates": [
+          37.5722,
+          126.737
+        ]
+      },
+      {
+        "target_landmark": "작전동 상권",
+        "station_name": "계양역",
+        "line": "수도권 1호선·공항철도",
+        "exit_no": 6,
+        "walk_minutes": 34,
+        "coordinates": [
+          37.5722,
+          126.737
+        ]
+      },
+      {
+        "target_landmark": "계양천",
+        "station_name": "계양역",
+        "line": "수도권 1호선·공항철도",
+        "exit_no": 6,
+        "walk_minutes": 35,
+        "coordinates": [
+          37.5722,
+          126.737
+        ]
+      },
+      {
+        "target_landmark": "계양문화예술회관",
+        "station_name": "계양역",
+        "line": "수도권 1호선·공항철도",
+        "exit_no": 6,
+        "walk_minutes": 19,
+        "coordinates": [
+          37.5722,
+          126.737
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "계양 중앙 공영주차장",
+        "coordinates": [
+          37.563,
+          126.732
+        ],
+        "capacity": 496,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "계양 제2 공영주차장",
+        "coordinates": [
+          37.5538,
+          126.7258
+        ],
+        "capacity": 109,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "계양 제3 공영주차장",
+        "coordinates": [
+          37.5696,
+          126.735
+        ],
+        "capacity": 307,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "인천 계양구는 계양산과 계양역 신도시가 자리한 인천 북부의 주거 구이다.",
   "data_sources": [
     {
