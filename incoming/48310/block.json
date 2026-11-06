@@ -335,6 +335,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -460,5 +465,48 @@
       128.6996,
       34.781272
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "거제시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      128.62241,
+      34.882634
+    ],
+    "reservation_url": "https://www.geoje.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "거제시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.62051,
+      34.883434
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "거제시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.62121,
+      34.878134
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "저구해수욕장 골목식당",
+    "coordinates": [
+      128.63879,
+      34.86158
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "멸치볶음 (거제시 지정 모범음식점)"
   }
 }
