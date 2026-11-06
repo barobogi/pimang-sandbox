@@ -217,6 +217,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.702104,
+          128.585691
+        ],
+        "capacity": 5300,
+        "address": "대구광역시 남구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.804017,
+          128.593652
+        ],
+        "capacity": 5200,
+        "address": "대구광역시 남구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "앞산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대덕산성",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안지랑곱창골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "물베기거리",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "앞산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "대구 남구는 앞산과 대덕산성, 안지랑곱창골목이 자리한 대구 남부의 주거 상업 구이다.",
   "data_sources": [
     {
