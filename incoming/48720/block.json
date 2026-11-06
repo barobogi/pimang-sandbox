@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "한우산 봄",
+        "정암나루 봄"
+      ],
+      "summer": [
+        "한우산 여름",
+        "정암나루 여름"
+      ],
+      "autumn": [
+        "한우산 단풍",
+        "충익사 가을"
+      ],
+      "winter": [
+        "한우산 설경",
+        "의령시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "한우산 야경",
+        "coordinates": [
+          35.39522,
+          128.192363
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "정암나루 야경",
+        "coordinates": [
+          35.314246,
+          128.29447
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "의령군은 홍의장군 곽재우 유적과 정암나루, 한우산이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
