@@ -1,0 +1,586 @@
+{
+  "block_code": "42130",
+  "block_name": "강원특별자치도 원주시",
+  "bbox": [
+    127.7441,
+    37.143747,
+    128.218455,
+    37.50691
+  ],
+  "center": [
+    37.325329,
+    127.981278
+  ],
+  "landmarks": [
+    {
+      "name": "치악산",
+      "lat": 37.3651455,
+      "lng": 128.0556322,
+      "category": "산/국립공원",
+      "description": "해발 1,288m의 영서 최고봉으로 치악산국립공원의 주봉이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B9%98%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 236.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Chiaksan_as_seen_from_Birobong_Peak.jpg/1280px-Chiaksan_as_seen_from_Birobong_Peak.jpg"
+    },
+    {
+      "name": "원주중앙시장",
+      "lat": 37.337,
+      "lng": 127.946,
+      "category": "전통시장",
+      "description": "원주 도심 중앙에 위치한 재래시장로 옛 원주 상권의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 112.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/231226_%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5.jpg/1280px-231226_%EC%9B%90%EC%A3%BC%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5.jpg"
+    },
+    {
+      "name": "봄내공원",
+      "lat": 37.32,
+      "lng": 127.94,
+      "category": "도시공원",
+      "description": "원주 도심에 조성된 대표 근린공원으로 벚꽃 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 80.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wonju_City_Hall_20231206.jpg/1280px-Wonju_City_Hall_20231206.jpg"
+    },
+    {
+      "name": "원주미로공원",
+      "lat": 37.324,
+      "lng": 127.921,
+      "category": "테마공원",
+      "description": "나무를 심어 만든 국내 유일의 자연 미로 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 88.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wonju_City_Hall_20231206.jpg/1280px-Wonju_City_Hall_20231206.jpg"
+    },
+    {
+      "name": "문막응원공성지",
+      "lat": 37.29,
+      "lng": 127.88,
+      "category": "유적/문화유산",
+      "description": "조선 시대 원주 부근의 옛 응원공성 터로 전국 철성 유적지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 66.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wonju_City_Hall_20231206.jpg/1280px-Wonju_City_Hall_20231206.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "원주 자연 힐링 시그니처 에어리얼 투어",
+      "description": "원주중앙시장 → 봄내공원 → 원주미로공원 → 문막응원공성지 → 치악산 순으로 이어지는 강원특별자치도 원주시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "원주중앙시장",
+        "봄내공원",
+        "원주미로공원",
+        "문막응원공성지",
+        "치악산"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "원주 산하 절경 에어리얼 투어",
+      "description": "치악산 → 봄내공원 → 원주미로공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 원주의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "치악산",
+        "봄내공원",
+        "원주미로공원"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "원주 고즈넉한 역사 스카이 산책",
+      "description": "원주중앙시장 → 봄내공원 → 문막응원공성지 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 원주의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "원주중앙시장",
+        "봄내공원",
+        "문막응원공성지"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "원주중앙 옛맛식당",
+      "lat": 37.33686,
+      "lng": 127.94663,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "원주중앙 가마솥밥가",
+      "lat": 37.3363,
+      "lng": 127.94593,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "원주중앙 골목식당",
+      "lat": 37.33658,
+      "lng": 127.946,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "원주중앙 큰마당식당",
+      "lat": 37.33728,
+      "lng": 127.94642,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "원주중앙 할매집",
+      "lat": 37.33686,
+      "lng": 127.9453,
+      "specialty": "산채정식",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "치악산",
+        "station_name": "치악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.367945,
+          128.058032
+        ]
+      },
+      {
+        "target_landmark": "원주중앙시장",
+        "station_name": "원주역",
+        "line": "중앙선",
+        "walk_minutes": 9,
+        "coordinates": [
+          37.3321,
+          127.9495
+        ]
+      },
+      {
+        "target_landmark": "봄내공원",
+        "station_name": "원주역",
+        "line": "중앙선",
+        "walk_minutes": 23,
+        "coordinates": [
+          37.3321,
+          127.9495
+        ]
+      },
+      {
+        "target_landmark": "원주미로공원",
+        "station_name": "원주역",
+        "line": "중앙선",
+        "walk_minutes": 38,
+        "coordinates": [
+          37.3321,
+          127.9495
+        ]
+      },
+      {
+        "target_landmark": "문막응원공성지",
+        "station_name": "서원주역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 35,
+        "coordinates": [
+          37.3054,
+          127.8607
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "원주 중앙 공영주차장",
+        "coordinates": [
+          37.3366,
+          127.9468
+        ],
+        "capacity": 433,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "원주 제2 공영주차장",
+        "coordinates": [
+          37.3188,
+          127.9412
+        ],
+        "capacity": 467,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "원주초등학교 운동장",
+        "coordinates": [
+          37.346638,
+          128.090724
+        ],
+        "capacity": 3200,
+        "address": "강원특별자치도 원주시"
+      },
+      {
+        "name": "원주실내체육관",
+        "coordinates": [
+          37.342028,
+          127.881557
+        ],
+        "capacity": 3000,
+        "address": "강원특별자치도 원주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "치악산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "원주중앙시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봄내공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "원주미로공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문막응원공성지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "치악산 봄 진달래",
+        "봄내공원 봄꽃"
+      ],
+      "summer": [
+        "치악산 계곡 여름",
+        "원주미로공원 여름"
+      ],
+      "autumn": [
+        "치악산 단풍길",
+        "봄내공원 가을"
+      ],
+      "winter": [
+        "치악산 설경",
+        "원주중앙시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "치악산 야경",
+        "coordinates": [
+          37.365145,
+          128.055632
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "원주중앙시장 야시장",
+        "coordinates": [
+          37.337,
+          127.946
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "원주시는 치악산 자락에 자리한 강원 남부의 교통 요충 도시로 근현대 의료·관광 산업과 혁신도시가 발달했고 원주미로공원과 중앙시장 등의 명소가 함께한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Wonju-si, Gangwon",
+      "landmarks": {
+        "치악산": [
+          "Chiaksan Mountain",
+          "Yeongseo's highest peak at 1,288 m and main summit of Chiaksan National Park."
+        ],
+        "원주중앙시장": [
+          "Wonju Jungang Market",
+          "Traditional market in central Wonju, the heart of the old Wonju commerce."
+        ],
+        "봄내공원": [
+          "Bomnae Park",
+          "Signature neighborhood park in central Wonju, famed for cherry blossoms."
+        ],
+        "원주미로공원": [
+          "Wonju Maze Land",
+          "Korea's only natural maze park made of trees."
+        ],
+        "문막응원공성지": [
+          "Munmak Eungwon Fortress Site",
+          "Joseon-era fortress site near Munmak, a nationally designated fortress heritage."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 原州市",
+      "landmarks": {
+        "치악산": [
+          "雉岳山",
+          "標高1288メートルの嶺西最高峰。雉岳山国立公園の主峰。"
+        ],
+        "원주중앙시장": [
+          "原州中央市場",
+          "原州都心の中央にある伝統市場。昔の原州商圏の中心。"
+        ],
+        "봄내공원": [
+          "ポムネ公園",
+          "原州都心に造られた代表的な近隣公園。桜の名所。"
+        ],
+        "원주미로공원": [
+          "原州迷路公園",
+          "木を植えて作った国内唯一の自然迷路公園。"
+        ],
+        "문막응원공성지": [
+          "文幕応元城里址",
+          "朝鮮時代の原州付近の応元城里跡。全国の鉄城遺跡。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 原州市",
+      "landmarks": {
+        "치악산": [
+          "雉岳山",
+          "海拔1288米的岭西最高峰，雉岳山国立公园主峰。"
+        ],
+        "원주중앙시장": [
+          "原州中央市场",
+          "位于原州市中心的传统市场，旧原州商圈的核心。"
+        ],
+        "봄내공원": [
+          "春内公园",
+          "原州市中心的代表性近邻公园，赏樱胜地。"
+        ],
+        "원주미로공원": [
+          "原州迷宫公园",
+          "用树木种植而成的韩国唯一自然迷宫公园。"
+        ],
+        "문막응원공성지": [
+          "文幕应元城里址",
+          "朝鲜时代原州附近的应元城遗址。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.wonju.go.kr",
+    "civil_service_center": {
+      "location_name": "원주시청 민원실 앞",
+      "coordinates": [
+        127.92315,
+        37.34098
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-742-2111",
+      "info": "강원특별자치도 원주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "원주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.981178,
+      37.325928
+    ],
+    "cctv_zone_count": 163,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "원주 시민공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "원주 문무재",
+    "typical_month": 10,
+    "venue_name": "원주 시민공원",
+    "venue_coords": [
+      127.980878,
+      37.324728
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "원주시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.92205,
+      37.34048
+    ],
+    "reservation_url": "https://www.wonju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "원주시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.92235,
+      37.34118
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "원주시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.92015,
+      37.33898
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "원주중앙 큰마당식당",
+    "coordinates": [
+      127.94642,
+      37.33728
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "칼국수 (원주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=원주시청&goalx=127.923150&goaly=37.340980",
+    "kakaonavi_url": "kakaonavi://navigate?name=원주시청&x=127.923150&y=37.340980&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=원주시청&dlng=127.923150&dlat=37.340980&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:31",
+      "sunset": "18:40",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:52",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:16",
+      "sunset": "18:25",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:14",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "원주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.981478,
+          37.325628
+        ],
+        [
+          127.981178,
+          37.325928
+        ],
+        [
+          127.982078,
+          37.327128
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "원주시 중심상업거리",
+    "anchor_center": [
+      127.924883,
+      37.341847
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 10,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
