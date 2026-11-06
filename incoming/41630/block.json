@@ -147,6 +147,94 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "옥정지구",
+        "station_name": "옥정지구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.7708,
+          127.0546
+        ]
+      },
+      {
+        "target_landmark": "양주역 상권",
+        "station_name": "양주역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 26,
+        "coordinates": [
+          37.8213,
+          127.0527
+        ]
+      },
+      {
+        "target_landmark": "천보산",
+        "station_name": "천보산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.801541,
+          127.115983
+        ]
+      },
+      {
+        "target_landmark": "양주공원",
+        "station_name": "양주공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.7908,
+          127.0596
+        ]
+      },
+      {
+        "target_landmark": "광사동 상권",
+        "station_name": "양주역",
+        "line": "수도권 1호선",
+        "exit_no": 1,
+        "walk_minutes": 31,
+        "coordinates": [
+          37.8213,
+          127.0527
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양주 중앙 공영주차장",
+        "coordinates": [
+          37.7876,
+          127.0596
+        ],
+        "capacity": 405,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "양주 제2 공영주차장",
+        "coordinates": [
+          37.8074,
+          127.066
+        ],
+        "capacity": 106,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양주 제3 공영주차장",
+        "coordinates": [
+          37.77,
+          127.0558
+        ],
+        "capacity": 520,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "경기 양주시는 서울 북부의 대표 위성 도시로 옥정지구와 양주역 상권이 함께한다.",
   "data_sources": [
     {
