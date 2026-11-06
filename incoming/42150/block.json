@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangneung-si, Gangwon",
+      "landmarks": {
+        "경포해수욕장": [
+          "Gyeongpo Beach",
+          "Beach at the heart of the Gyeongpo resort, rated the East Sea's finest."
+        ],
+        "오죽헌": [
+          "Ojukheon House",
+          "Historic scholar site where Shin Saimdang and Yi I (Yulgok) were born."
+        ],
+        "안목해변 커피거리": [
+          "Anmok Beach Coffee Street",
+          "Cafe street on Anmok Beach, hailed as the birthplace of Korean coffee culture."
+        ],
+        "쇠소깍": [
+          "Soesokkak Estuary",
+          "Short scenic gorge where the sea meets the river, a famous attraction."
+        ],
+        "주문진해수욕장": [
+          "Jumunjin Beach",
+          "Signature beach alongside Jumunjin Port, the East Sea's largest fishing harbor."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 江陵市",
+      "landmarks": {
+        "경포해수욕장": [
+          "鏡浦海水浴場",
+          "東海最高の海水浴場とされる鏡浦観光地の中心ビーチ。"
+        ],
+        "오죽헌": [
+          "烏竹軒",
+          "申師任堂と栗谷李珥が生まれた由緒ある儒者文化の遺跡。"
+        ],
+        "안목해변 커피거리": [
+          "安木ビーチコーヒーストリート",
+          "韓国コーヒー文化の発祥地とされる安木ビーチのカフェ街。"
+        ],
+        "쇠소깍": [
+          "ソソッカク",
+          "海と川が出会って作る短い奇岩の絶景で有名な観光地。"
+        ],
+        "주문진해수욕장": [
+          "注文津海水浴場",
+          "東海最大の漁港・注文津港とともにある代表的なビーチ観光地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 江陵市",
+      "landmarks": {
+        "경포해수욕장": [
+          "镜浦海水浴场",
+          "被誉为东海岸最佳的镜浦旅游区中心海滩。"
+        ],
+        "오죽헌": [
+          "乌竹轩",
+          "申师任堂和栗谷李珥的诞生地，历史悠久的儒学文化遗迹。"
+        ],
+        "안목해변 커피거리": [
+          "安木海滩咖啡街",
+          "被誉为韩国咖啡文化发源地的安木海滩咖啡街。"
+        ],
+        "쇠소깍": [
+          "注文津水峡",
+          "江海交汇形成的短促奇岩绝景，著名观光地。"
+        ],
+        "주문진해수욕장": [
+          "注文津海水浴场",
+          "与东海岸最大渔港注文津港相伴的代表性海滨。"
+        ]
+      }
+    }
   }
 }
