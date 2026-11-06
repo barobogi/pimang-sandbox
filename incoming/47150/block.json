@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "김천약령시장",
+        "station_name": "김천약령시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.1428,
+          128.1156
+        ]
+      },
+      {
+        "target_landmark": "감고도",
+        "station_name": "감고도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.1318,
+          128.1186
+        ]
+      },
+      {
+        "target_landmark": "대장부공원",
+        "station_name": "대장부공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.1198,
+          128.1076
+        ]
+      },
+      {
+        "target_landmark": "김천혁신도시",
+        "station_name": "김천구미역",
+        "line": "KTX 경부고속선",
+        "walk_minutes": 14,
+        "coordinates": [
+          36.1156,
+          128.1786
+        ]
+      },
+      {
+        "target_landmark": "김천문화예술회관",
+        "station_name": "김천문화예술회관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.140896,
+          128.090267
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "김천 중앙 공영주차장",
+        "coordinates": [
+          36.119,
+          128.1072
+        ],
+        "capacity": 404,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "김천 제2 공영주차장",
+        "coordinates": [
+          36.1266,
+          128.1194
+        ],
+        "capacity": 36,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "김천시는 조선 시대 선산 지역의 중심지로 근현대 교통 요충지이자 혁신도시가 발달한 경북 서부의 도시다.",
   "data_sources": [
     {
