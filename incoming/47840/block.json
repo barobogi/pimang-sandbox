@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성주초등학교 운동장",
+        "coordinates": [
+          35.939919,
+          128.273905
+        ],
+        "capacity": 5500,
+        "address": "경상북도 성주군"
+      },
+      {
+        "name": "성주실내체육관",
+        "coordinates": [
+          35.949269,
+          128.334954
+        ],
+        "capacity": 3500,
+        "address": "경상북도 성주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "세종대왕자태실",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성주군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "성주시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가야산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성주버스터미널",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "성주군은 참외의 고장으로 유명하며 세종대왕자태실과 가야산이 자리한 경북 남부의 군이다.",
   "data_sources": [
     {
