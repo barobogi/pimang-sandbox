@@ -137,6 +137,86 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "아미산",
+        "station_name": "토성역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 14,
+        "coordinates": [
+          35.0961,
+          129.0199
+        ]
+      },
+      {
+        "target_landmark": "송도해상케이블카",
+        "station_name": "동대역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 38,
+        "coordinates": [
+          35.0929,
+          129.0232
+        ]
+      },
+      {
+        "target_landmark": "송도해수욕장",
+        "station_name": "동대역",
+        "line": "부산 1호선",
+        "exit_no": 9,
+        "walk_minutes": 29,
+        "coordinates": [
+          35.0929,
+          129.0232
+        ]
+      },
+      {
+        "target_landmark": "암남공원",
+        "station_name": "암남공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.059675,
+          129.016892
+        ]
+      },
+      {
+        "target_landmark": "영주산",
+        "station_name": "토성역",
+        "line": "부산 1호선",
+        "exit_no": 3,
+        "walk_minutes": 11,
+        "coordinates": [
+          35.0961,
+          129.0199
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          35.057275,
+          129.014492
+        ],
+        "capacity": 497,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          35.069325,
+          129.023223
+        ],
+        "capacity": 95,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "부산 서구는 부산 원도심의 서쪽 구로 아미산과 대신동 상권, 충무동 등이 함께한 주거 상업 구이다.",
   "data_sources": [
     {
