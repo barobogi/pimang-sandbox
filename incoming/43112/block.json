@@ -327,6 +327,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -452,5 +457,48 @@
       127.436145,
       36.547837
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서원구민체육관",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.47163,
+      36.633937
+    ],
+    "reservation_url": "https://www.cheongju.go.kr/seowon"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서원구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.47283,
+      36.637737
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서원구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.47463,
+      36.634537
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "청주고인쇄박물관 솥뚜껑가게",
+    "coordinates": [
+      127.436135,
+      36.548067
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (서원구 지정 모범음식점)"
   }
 }
