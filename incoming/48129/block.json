@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jinhae-gu, Changwon",
+      "landmarks": {
+        "여좌천": [
+          "Yeojwacheon Stream",
+          "Signature cherry blossom stream of Jinhae-gu, Changwon."
+        ],
+        "진해해군기지": [
+          "Jinhae Naval Base",
+          "Signature military landmark of Jinhae-gu, Changwon."
+        ],
+        "진해구청": [
+          "Jinhae-gu Office",
+          "Administrative center of Jinhae-gu, Changwon."
+        ],
+        "경화역": [
+          "Gyeonghwa Station",
+          "Signature cherry blossom rail attraction of Jinhae-gu, Changwon."
+        ],
+        "진해만": [
+          "Jinhae Bay",
+          "Signature bay attraction of Jinhae-gu, Changwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌原市 鎮海区",
+      "landmarks": {
+        "여좌천": [
+          "余佐川",
+          "慶尚南道昌原市鎮海区を代表する名所。"
+        ],
+        "진해해군기지": [
+          "鎮海海軍基地",
+          "慶尚南道昌原市鎮海区を代表する名所。"
+        ],
+        "진해구청": [
+          "鎮海区庁",
+          "慶尚南道昌原市鎮海区を代表する名所。"
+        ],
+        "경화역": [
+          "慶和駅",
+          "慶尚南道昌原市鎮海区を代表する名所。"
+        ],
+        "진해만": [
+          "鎮海湾",
+          "慶尚南道昌原市鎮海区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌原市 镇海区",
+      "landmarks": {
+        "여좌천": [
+          "余佐川",
+          "庆尚南道昌原市镇海区的代表性樱花河流。"
+        ],
+        "진해해군기지": [
+          "镇海军港",
+          "庆尚南道昌原市镇海区的代表性军事地标。"
+        ],
+        "진해구청": [
+          "镇海区厅",
+          "庆尚南道昌原市镇海区的行政中心。"
+        ],
+        "경화역": [
+          "庆和站",
+          "庆尚南道昌原市镇海区的代表性樱花铁道。"
+        ],
+        "진해만": [
+          "镇海湾",
+          "庆尚南道昌原市镇海区的代表性海湾。"
+        ]
+      }
+    }
   }
 }
