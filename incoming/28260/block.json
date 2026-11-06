@@ -1,0 +1,569 @@
+{
+  "block_code": "28260",
+  "block_name": "인천광역시 서구",
+  "bbox": [
+    126.529725,
+    37.471078,
+    126.711609,
+    37.613
+  ],
+  "center": [
+    37.542039,
+    126.620667
+  ],
+  "landmarks": [
+    {
+      "name": "청라국제도시",
+      "lat": 37.5329686,
+      "lng": 126.6425256,
+      "category": "신도시/랜드마크",
+      "description": "아라뱃길과 국제 업무 단지가 함께한 서구의 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%9D%BC%EA%B5%AD%EC%A0%9C%EB%8F%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 297.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dwppp.png"
+    },
+    {
+      "name": "검단신도시",
+      "lat": 37.5908868,
+      "lng": 126.7104054,
+      "category": "신도시",
+      "description": "검단동에 조성된 대단위 신도시다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%80%EB%8B%A8%EC%8B%A0%EB%8F%84%EC%8B%9C",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 235.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Geomdan_Newtown.jpg/1280px-Geomdan_Newtown.jpg"
+    },
+    {
+      "name": "아라뱃길",
+      "lat": 37.5704358,
+      "lng": 126.6779886,
+      "category": "수변/관광",
+      "description": "경인아라뱃길 수변 공원에서 수상 레저가 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%9D%B8%EC%95%84%EB%9D%BC%EB%B1%83%EA%B8%B8",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 238.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Gyeongin_Ara_Waterway.png/1280px-Gyeongin_Ara_Waterway.png"
+    },
+    {
+      "name": "오류동 갯벌체험장",
+      "lat": 37.613,
+      "lng": 126.68,
+      "category": "생태/체험",
+      "description": "서구 해안의 갯벌 체험 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 213.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Yeongjong_Bridge-4.jpg"
+    },
+    {
+      "name": "가좌동 상권",
+      "lat": 37.544,
+      "lng": 126.69,
+      "category": "상권",
+      "description": "가좌동에 형성된 서구 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%EA%B0%80%EC%A2%8C1%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0.jpg/1280px-%EA%B0%80%EC%A2%8C1%EB%8F%99%ED%96%89%EC%A0%95%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "서구 도심 하이라이트 시그니처 스카이 투어",
+      "description": "청라국제도시 → 가좌동 상권 → 아라뱃길 → 검단신도시 → 오류동 갯벌체험장 순으로 이어지는 인천광역시 서구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "청라국제도시",
+        "가좌동 상권",
+        "아라뱃길",
+        "검단신도시",
+        "오류동 갯벌체험장"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "서구 도심 활력 에어리얼 코스",
+      "description": "청라국제도시 → 아라뱃길 → 검단신도시 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 서구의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "청라국제도시",
+        "아라뱃길",
+        "검단신도시"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "청라국제도시 가마솥밥가",
+      "lat": 37.532269,
+      "lng": 126.642456,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "아라뱃길 본점",
+      "lat": 37.570716,
+      "lng": 126.677779,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    },
+    {
+      "name": "가좌동 상권 가마솥밥가",
+      "lat": 37.544,
+      "lng": 126.69021,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "오류동 갯벌체험장 가마솥밥가",
+      "lat": 37.6126,
+      "lng": 126.6807,
+      "specialty": "꼬막무침",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청라국제도시",
+        "station_name": "청라국제도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.533369,
+          126.641326
+        ]
+      },
+      {
+        "target_landmark": "검단신도시",
+        "station_name": "검단신도시 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.591287,
+          126.709205
+        ]
+      },
+      {
+        "target_landmark": "아라뱃길",
+        "station_name": "아라뱃길 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.570836,
+          126.676789
+        ]
+      },
+      {
+        "target_landmark": "오류동 갯벌체험장",
+        "station_name": "오류동 갯벌체험장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.6126,
+          126.6788
+        ]
+      },
+      {
+        "target_landmark": "가좌동 상권",
+        "station_name": "가좌동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.5444,
+          126.6888
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          37.530969,
+          126.642526
+        ],
+        "capacity": 315,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          37.572436,
+          126.678389
+        ],
+        "capacity": 254,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          37.527563,
+          126.623677
+        ],
+        "capacity": 5800,
+        "address": "인천광역시 서구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          37.610114,
+          126.707971
+        ],
+        "capacity": 5400,
+        "address": "인천광역시 서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청라국제도시",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "검단신도시",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "아라뱃길",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "오류동 갯벌체험장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "가좌동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "청라국제도시 봄 호수공원",
+        "아라뱃길 벚꽃"
+      ],
+      "summer": [
+        "아라뱃길 여름",
+        "오류동 갯벌체험장 여름"
+      ],
+      "autumn": [
+        "아라뱃길 억새",
+        "청라국제도시 가을"
+      ],
+      "winter": [
+        "청라국제도시 겨울 빛축제",
+        "아라뱃길 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청라국제도시 야경",
+        "coordinates": [
+          37.532969,
+          126.642526
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "아라뱃길 야경",
+        "coordinates": [
+          37.570436,
+          126.677989
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "인천 서구는 청라국제도시와 검단신도시, 경인아라뱃길이 자리한 인천 서부의 대형 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Incheon",
+      "landmarks": {
+        "청라국제도시": [
+          "Cheongna International City",
+          "Seo-gu's new town combining the Ara Waterway and international business district."
+        ],
+        "검단신도시": [
+          "Geumdan New Town",
+          "Large-scale new town built in Geumdan-dong."
+        ],
+        "아라뱃길": [
+          "Ara Waterway",
+          "Waterway park offering water leisure on the Gyeongin Ara canal."
+        ],
+        "오류동 갯벌체험장": [
+          "Oryu-dong Mudflat Experience",
+          "Mudflat experience spot on Seo-gu's coast."
+        ],
+        "가좌동 상권": [
+          "Gajwa-dong District",
+          "Everyday commercial hub of Seo-gu in Gajwa-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 西区",
+      "landmarks": {
+        "청라국제도시": [
+          "青羅国際都市",
+          "アラ水路と国際業務団地が調和する西区の新都市。"
+        ],
+        "검단신도시": [
+          "黔丹新都市",
+          "黔丹洞に造成された大規模ニュータウン。"
+        ],
+        "아라뱃길": [
+          "アラ水路",
+          "京仁アラ水路の水辺公園でマリンレジャーが楽しめる。"
+        ],
+        "오류동 갯벌체험장": [
+          "梧桐洞干潟体験場",
+          "西区の海岸にある干潟体験の名所。"
+        ],
+        "가좌동 상권": [
+          "佳佐洞商圏",
+          "佳佐洞に形成された西区を代表する生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 西区",
+      "landmarks": {
+        "청라국제도시": [
+          "青罗国际城市",
+          "融合Ara水路和国际商务区的新城区。"
+        ],
+        "검단신도시": [
+          "黔丹新城",
+          "黔丹洞建成的大型新城。"
+        ],
+        "아라뱃길": [
+          "Ara水路",
+          "京仁Ara水路滨水公园，可体验水上休闲项目。"
+        ],
+        "오류동 갯벌체험장": [
+          "梧柳洞滩涂体验场",
+          "西区海岸的滩涂体验胜地。"
+        ],
+        "가좌동 상권": [
+          "佳佐洞商圈",
+          "佳佐洞形成的西区代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seo.incheon.kr",
+    "civil_service_center": {
+      "location_name": "서구청 민원실 앞",
+      "coordinates": [
+        126.675596,
+        37.545231
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "032-562-5301",
+      "info": "인천광역시 서구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.620567,
+      37.542539
+    ],
+    "cctv_zone_count": 57,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "가정근린공원",
+    "trail_length_km": 1.6,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "인천 서구민축제",
+    "typical_month": 10,
+    "venue_name": "가정중심가 일대",
+    "venue_coords": [
+      126.620367,
+      37.541439
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.673396,
+      37.542831
+    ],
+    "reservation_url": "https://www.seo.incheon.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.675096,
+      37.543931
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.677796,
+      37.548131
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "가좌동 상권 가마솥밥가",
+    "coordinates": [
+      126.69021,
+      37.544
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "갈치조림 (서구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=서구청&goalx=126.675596&goaly=37.545231",
+    "kakaonavi_url": "kakaonavi://navigate?name=서구청&x=126.675596&y=37.545231&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=서구청&dlng=126.675596&dlat=37.545231&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:37",
+      "sunset": "18:45",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:58",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:22",
+      "sunset": "18:30",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:45",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "서구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.619667,
+          37.542339
+        ],
+        [
+          126.620567,
+          37.542539
+        ],
+        [
+          126.619367,
+          37.541639
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "서구 중심상업거리",
+    "anchor_center": [
+      126.676129,
+      37.546564
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 180,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
