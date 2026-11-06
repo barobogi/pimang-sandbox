@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "완도초등학교 운동장",
+        "coordinates": [
+          34.247417,
+          126.69626
+        ],
+        "capacity": 6800,
+        "address": "전라남도 완도군"
+      },
+      {
+        "name": "완도실내체육관",
+        "coordinates": [
+          34.252106,
+          126.61722
+        ],
+        "capacity": 2800,
+        "address": "전라남도 완도군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "신지도",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보길도",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소안도",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청산도",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "금등해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "완도군은 청해진 장보고의 옛 항구였던 완도를 중심으로 한 남해안 최대 섬 군으로 신지도·보길도·소안도 등 아름다운 섬 관광 자원이 풍부하다.",
   "data_sources": [
     {
