@@ -137,6 +137,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "유달산",
+        "station_name": "목포역",
+        "line": "KTX 호남선",
+        "walk_minutes": 25,
+        "coordinates": [
+          34.7972,
+          126.3892
+        ]
+      },
+      {
+        "target_landmark": "목포해상케이블카",
+        "station_name": "목포역",
+        "line": "KTX 호남선",
+        "walk_minutes": 26,
+        "coordinates": [
+          34.7972,
+          126.3892
+        ]
+      },
+      {
+        "target_landmark": "국립해양유물전시관",
+        "station_name": "목포역",
+        "line": "KTX 호남선",
+        "walk_minutes": 43,
+        "coordinates": [
+          34.7972,
+          126.3892
+        ]
+      },
+      {
+        "target_landmark": "삼학도",
+        "station_name": "목포역",
+        "line": "KTX 호남선",
+        "walk_minutes": 22,
+        "coordinates": [
+          34.7972,
+          126.3892
+        ]
+      },
+      {
+        "target_landmark": "목포근대역사관",
+        "station_name": "목포역",
+        "line": "KTX 호남선",
+        "walk_minutes": 18,
+        "coordinates": [
+          34.7972,
+          126.3892
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "목포 중앙 공영주차장",
+        "coordinates": [
+          34.797552,
+          126.370909
+        ],
+        "capacity": 405,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "목포 제2 공영주차장",
+        "coordinates": [
+          34.789513,
+          126.374244
+        ],
+        "capacity": 198,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "목포 제3 공영주차장",
+        "coordinates": [
+          34.787509,
+          126.383678
+        ],
+        "capacity": 222,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "목포시는 조선 시대 목포항에서 출발해 개항기 이후 근대 항만 도시로 성장한 전남 서부의 대표 도시로 유달산과 근대 건축 유산이 함께한다.",
   "data_sources": [
     {
