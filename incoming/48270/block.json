@@ -140,6 +140,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "영남루",
+        "station_name": "밀양역",
+        "line": "경부선",
+        "walk_minutes": 37,
+        "coordinates": [
+          35.4961,
+          128.7819
+        ]
+      },
+      {
+        "target_landmark": "표충사",
+        "station_name": "표충사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.533649,
+          128.957437
+        ]
+      },
+      {
+        "target_landmark": "밀양시청",
+        "station_name": "밀양역",
+        "line": "경부선",
+        "walk_minutes": 48,
+        "coordinates": [
+          35.4961,
+          128.7819
+        ]
+      },
+      {
+        "target_landmark": "밀양시장",
+        "station_name": "밀양역",
+        "line": "경부선",
+        "walk_minutes": 23,
+        "coordinates": [
+          35.4961,
+          128.7819
+        ]
+      },
+      {
+        "target_landmark": "밀양강",
+        "station_name": "밀양역",
+        "line": "경부선",
+        "walk_minutes": 36,
+        "coordinates": [
+          35.4961,
+          128.7819
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "밀양 중앙 공영주차장",
+        "coordinates": [
+          35.489192,
+          128.796568
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "밀양 제2 공영주차장",
+        "coordinates": [
+          35.519707,
+          128.770667
+        ],
+        "capacity": 422,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "밀양 제3 공영주차장",
+        "coordinates": [
+          35.489885,
+          128.753114
+        ],
+        "capacity": 94,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "밀양시는 영남루와 표충사, 밀양아리랑으로 유명한 경남 북부의 도시이다.",
   "data_sources": [
     {
