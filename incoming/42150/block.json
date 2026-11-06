@@ -354,6 +354,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -479,5 +484,48 @@
       128.927555,
       37.780156
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "강릉 종합운동장",
+    "sports_types": [
+      "soccer",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.918533,
+      37.778214
+    ],
+    "reservation_url": "https://www.gangneung.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "강릉시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.916833,
+      37.776914
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "강릉시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.917133,
+      37.779114
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "초당순두부마을",
+    "coordinates": [
+      128.906,
+      37.783
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "순두부 (강릉시 지정 모범음식점)"
   }
 }
