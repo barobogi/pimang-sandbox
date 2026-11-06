@@ -349,6 +349,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -474,5 +479,48 @@
       126.62921,
       37.485119
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "동구민체육관",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.645752,
+      37.474253
+    ],
+    "reservation_url": "https://www.icdonggu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "동구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.644352,
+      37.474153
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "동구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.648752,
+      37.476153
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "만석공원 골목식당",
+    "coordinates": [
+      126.61344,
+      37.47779
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "갈치조림 (동구 지정 모범음식점)"
   }
 }
