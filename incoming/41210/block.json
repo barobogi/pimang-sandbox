@@ -236,6 +236,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "광명초등학교 운동장",
+        "coordinates": [
+          37.427234,
+          126.870921
+        ],
+        "capacity": 1200,
+        "address": "경기도 광명시"
+      },
+      {
+        "name": "광명실내체육관",
+        "coordinates": [
+          37.482008,
+          126.86214
+        ],
+        "capacity": 900,
+        "address": "경기도 광명시"
+      },
+      {
+        "name": "광명중앙공원 비상집합장소",
+        "coordinates": [
+          37.470169,
+          126.867194
+        ],
+        "capacity": 2400,
+        "address": "경기도 광명시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "광명동굴",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광명사거리 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "철산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오리공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "하안근린공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "광명시는 서울 남서쪽 관문의 위성 도시로 광명동굴과 철산동 상권이 함께한다.",
   "data_sources": [
     {
