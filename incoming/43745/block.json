@@ -147,6 +147,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "노근리평화공원",
+        "station_name": "노근리평화공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.2225,
+          127.8653
+        ]
+      },
+      {
+        "target_landmark": "반야사",
+        "station_name": "반야사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.280591,
+          127.910069
+        ]
+      },
+      {
+        "target_landmark": "물한계곡",
+        "station_name": "영동버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.1484,
+          127.8404
+        ]
+      },
+      {
+        "target_landmark": "강선대",
+        "station_name": "강선대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.131031,
+          127.683746
+        ]
+      },
+      {
+        "target_landmark": "난계국악기제작촌",
+        "station_name": "난계국악기제작촌 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.16,
+          127.7708
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영동 중앙 공영주차장",
+        "coordinates": [
+          36.1488,
+          127.8396
+        ],
+        "capacity": 170,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "영동 제2 공영주차장",
+        "coordinates": [
+          36.158,
+          127.7708
+        ],
+        "capacity": 217,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영동 제3 공영주차장",
+        "coordinates": [
+          36.2249,
+          127.8665
+        ],
+        "capacity": 188,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "영동군은 충북 최남단에 위치한 군으로 백제와 신라가 다퉜던 유서 깊은 요충지이며 경부선이 지나고 한천팔경과 양산팔경 등의 경승지로 알려진 지역이다.",
   "data_sources": [
     {
