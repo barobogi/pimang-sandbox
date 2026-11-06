@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "옥포벚꽃길",
+        "비슬산 봄 진달래"
+      ],
+      "summer": [
+        "비슬산 계곡 여름",
+        "사문진주막촌 여름"
+      ],
+      "autumn": [
+        "비슬산 억새",
+        "도동서원 가을"
+      ],
+      "winter": [
+        "비슬산 설경",
+        "도동서원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "비슬산 야경",
+        "coordinates": [
+          35.713805,
+          128.500358
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "사문진주막촌 야경",
+        "coordinates": [
+          35.842,
+          128.461
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "대구 달성군은 대구 외곽을 둘러싼 광역 군으로 비슷산과 도동서원, 사문진주막촌 등의 명소와 다사 신도시가 함께한다.",
   "data_sources": [
     {
