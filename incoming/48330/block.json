@@ -224,6 +224,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양산초등학교 운동장",
+        "coordinates": [
+          35.50967,
+          129.030953
+        ],
+        "capacity": 7400,
+        "address": "경상남도 양산시"
+      },
+      {
+        "name": "양산실내체육관",
+        "coordinates": [
+          35.513002,
+          129.062566
+        ],
+        "capacity": 2300,
+        "address": "경상남도 양산시"
+      },
+      {
+        "name": "양산중앙공원 비상집합장소",
+        "coordinates": [
+          35.372955,
+          129.055253
+        ],
+        "capacity": 1900,
+        "address": "경상남도 양산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "통도사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영축사",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천성산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "배내골",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "황산공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "양산시는 신라 시대 양산 화랑 문화와 통도사 등의 사찰 문화가 있는 경남 북부의 도시로 천성산과 배내골 등 자연 명소가 함께한다.",
   "data_sources": [
     {
