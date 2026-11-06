@@ -1,0 +1,579 @@
+{
+  "block_code": "41480",
+  "block_name": "경기도 파주시",
+  "bbox": [
+    126.662618,
+    37.688632,
+    127.017132,
+    38.010215
+  ],
+  "center": [
+    37.849423,
+    126.839875
+  ],
+  "landmarks": [
+    {
+      "name": "임진각평화누리",
+      "lat": 37.9084,
+      "lng": 126.7437,
+      "category": "DMZ/관광",
+      "description": "임진강과 한탄강이 만나는 지점의 전망시설로 남북 분단 현실을 보여주는 대표 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%84%EC%A7%84%EA%B0%81%ED%8F%89%ED%99%94%EB%88%84%EB%A6%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 127.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Imjingak_001.jpg/1280px-Imjingak_001.jpg"
+    },
+    {
+      "name": "도라전망대",
+      "lat": 37.9100817,
+      "lng": 126.705522,
+      "category": "DMZ/전망대",
+      "description": "북측 개성시와 도라산을 가장 가까이에서 볼 수 있는 DMZ 대표 전망시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 119.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Civil_Dora_Observatory.jpg/1280px-Civil_Dora_Observatory.jpg"
+    },
+    {
+      "name": "헤이리문화마을",
+      "lat": 37.765,
+      "lng": 126.742,
+      "category": "문화예술/마을",
+      "description": "옛 군 부지를 예술 마을로 재조성한 곳으로 건축·예술 체험이 가능한 문화 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%A3%BC%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 42.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/1280px-Art-Service_Studio%2C_Heyri.jpg"
+    },
+    {
+      "name": "운정호수공원",
+      "lat": 37.7204682,
+      "lng": 126.7624876,
+      "category": "도시공원/호수",
+      "description": "운정신도시 중앙에 조성된 호수 공원으로 파주 대표 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%A0%95%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 25.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1280px-Goyang_Lake_Park.jpg"
+    },
+    {
+      "name": "감악산",
+      "lat": 37.9378418,
+      "lng": 126.9467765,
+      "category": "산/자연",
+      "description": "해발 688m의 파주 최고봉 산으로 계산읍 일대의 대표 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 223.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gamaksan_Bridge_1.jpg/1280px-Gamaksan_Bridge_1.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "파주 자연 힐링 시그니처 에어리얼 투어",
+      "description": "임진각평화누리 → 도라전망대 → 헤이리문화마을 → 운정호수공원 → 감악산 순으로 이어지는 경기도 파주시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "임진각평화누리",
+        "도라전망대",
+        "헤이리문화마을",
+        "운정호수공원",
+        "감악산"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "파주 그린 랜드스케이프 플라이트",
+      "description": "운정호수공원 → 헤이리문화마을 → 감악산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 파주의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "운정호수공원",
+        "헤이리문화마을",
+        "감악산"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "파주 도심 스카이라인 크루즈",
+      "description": "도라전망대 → 임진각평화누리 → 헤이리문화마을 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 파주의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "도라전망대",
+        "임진각평화누리",
+        "헤이리문화마을"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "임진각평화누리 옛맛식당",
+      "lat": 37.90875,
+      "lng": 126.74384,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "헤이리문화마을 큰마당식당",
+      "lat": 37.76521,
+      "lng": 126.74151,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "감악산 옛맛식당",
+      "lat": 37.937702,
+      "lng": 126.946707,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "도라전망대 동네밥집",
+      "lat": 37.910502,
+      "lng": 126.705732,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "임진각평화누리",
+        "station_name": "임진각평화누리 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.9088,
+          126.7417
+        ]
+      },
+      {
+        "target_landmark": "도라전망대",
+        "station_name": "도라전망대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.910482,
+          126.703522
+        ]
+      },
+      {
+        "target_landmark": "헤이리문화마을",
+        "station_name": "헤이리문화마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.7654,
+          126.74
+        ]
+      },
+      {
+        "target_landmark": "운정호수공원",
+        "station_name": "야당역",
+        "line": "경의·중앙선",
+        "walk_minutes": 12,
+        "coordinates": [
+          37.7134,
+          126.7588
+        ]
+      },
+      {
+        "target_landmark": "감악산",
+        "station_name": "감악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.938242,
+          126.944777
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "파주 중앙 공영주차장",
+        "coordinates": [
+          37.9076,
+          126.7453
+        ],
+        "capacity": 107,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "파주 제2 공영주차장",
+        "coordinates": [
+          37.7638,
+          126.7432
+        ],
+        "capacity": 553,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "파주초등학교 운동장",
+        "coordinates": [
+          37.917052,
+          126.772045
+        ],
+        "capacity": 7300,
+        "address": "경기도 파주시"
+      },
+      {
+        "name": "파주실내체육관",
+        "coordinates": [
+          37.933033,
+          126.754474
+        ],
+        "capacity": 800,
+        "address": "경기도 파주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "임진각평화누리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도라전망대",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "헤이리문화마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "운정호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "감악산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "임진각평화누리 봄 바람",
+        "헤이리문화마을 봄"
+      ],
+      "summer": [
+        "운정호수공원 여름",
+        "임진각평화누리 여름"
+      ],
+      "autumn": [
+        "감악산 단풍",
+        "헤이리문화마을 가을"
+      ],
+      "winter": [
+        "임진각평화누리 겨울 빛축제",
+        "감악산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "도라전망대 야경",
+        "coordinates": [
+          37.910082,
+          126.705522
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "임진각평화누리 야경",
+        "coordinates": [
+          37.9084,
+          126.7437
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "파주시는 조선 시대 파평 윤씨 집성촌과 근현대 군사 요충지였던 지역으로 임진각과 도라전망대 등 DMZ 관광 자원, 헤이리문화마을과 운정신도시가 함께 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Paju-si, Gyeonggi",
+      "landmarks": {
+        "임진각평화누리": [
+          "Imjingak Peace Nuri",
+          "Lookout where the Imjin and Hantan rivers meet, showing the reality of Korea's division."
+        ],
+        "도라전망대": [
+          "Dora Observatory",
+          "DMZ observatory offering the closest view of Gaeseong and Dorasan in the North."
+        ],
+        "헤이리문화마을": [
+          "Heyri Art Village",
+          "Culture village reborn from an old military site, offering architecture and art experiences."
+        ],
+        "운정호수공원": [
+          "Unjeong Lake Park",
+          "Lakeside park at the heart of Unjeong New Town, Paju's signature family destination."
+        ],
+        "감악산": [
+          "Gamaksan Mountain",
+          "Paju's highest peak at 688 m, a signature hiking mountain of Gyesan-eup."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 坡州市",
+      "landmarks": {
+        "임진각평화누리": [
+          "臨津閣平和ヌリ",
+          "臨津江と漢灘江が出会う地点の展望施設。南北分断の現実を示す代表的な名所。"
+        ],
+        "도라전망대": [
+          "都羅山展望台",
+          "北側の開城市と都羅山を最も近くに望めるDMZを代表する展望施設。"
+        ],
+        "헤이리문화마을": [
+          "ヘイリ文化村",
+          "旧軍用地を芸術村として再生。建築と芸術を体験できる文化の名所。"
+        ],
+        "운정호수공원": [
+          "雲井湖公園",
+          "雲井新都市の中央に造られた湖畔公園。坡州を代表する家族行楽の名所。"
+        ],
+        "감악산": [
+          "紺岳山",
+          "標高688メートルの坡州最高峰。坡州の代表的な登山名山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 坡州市",
+      "landmarks": {
+        "임진각평화누리": [
+          "临津阁和平园",
+          "临津江与汉滩江交汇处的观景设施，展现南北分断现实的代表名胜。"
+        ],
+        "도라전망대": [
+          "都罗山展望台",
+          "可最近眺望朝鲜开城市和都罗山的DMZ代表性展望台。"
+        ],
+        "헤이리문화마을": [
+          "海里文化艺术村",
+          "由旧军营改造的艺术村，可体验建筑与艺术。"
+        ],
+        "운정호수공원": [
+          "云井湖公园",
+          "云井新城中央的湖畔公园，坡州代表性亲子胜地。"
+        ],
+        "감악산": [
+          "绀岳山",
+          "海拔688米的坡州最高峰，代表性登山名山。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.paju.go.kr",
+    "civil_service_center": {
+      "location_name": "파주시청 민원실 앞",
+      "coordinates": [
+        126.778249,
+        37.76952
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-940-4114",
+      "info": "경기도 파주시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "파주시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.839475,
+      37.849424
+    ],
+    "cctv_zone_count": 352,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "운정호수공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "율곡 문화제",
+    "typical_month": 9,
+    "venue_name": "운정호수공원",
+    "venue_coords": [
+      126.840475,
+      37.849623
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "파주시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.781149,
+      37.77112
+    ],
+    "reservation_url": "https://www.paju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "파주시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.780649,
+      37.77132
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "파주시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.780249,
+      37.76662
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "헤이리문화마을 큰마당식당",
+    "coordinates": [
+      126.74151,
+      37.76521
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "한우불고기 (파주시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=파주시청&goalx=126.778249&goaly=37.769520",
+    "kakaonavi_url": "kakaonavi://navigate?name=파주시청&x=126.778249&y=37.769520&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=파주시청&dlng=126.778249&dlat=37.769520&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:58",
+      "noon_altitude_deg": 75.6
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:45",
+      "sunset": "17:17",
+      "noon_altitude_deg": 28.7
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "파주시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.838825,
+          37.850474
+        ],
+        [
+          126.839475,
+          37.849424
+        ],
+        [
+          126.839375,
+          37.849774
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "파주시 중심상업거리",
+    "anchor_center": [
+      126.778782,
+      37.770853
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 80,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
