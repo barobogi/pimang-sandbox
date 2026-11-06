@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namwon-si, Jeonbuk",
+      "landmarks": {
+        "광한루": [
+          "Gwanghallu Pavilion",
+          "Famous pavilion set as the backdrop of the Chunhyang story, with Gwanghalluwon Garden."
+        ],
+        "만인의총": [
+          "Maninui Chol Monument",
+          "Monument honoring the soldiers and townspeople who fell defending Namwon during the Imjin War."
+        ],
+        "용담댐": [
+          "Yongdam Dam",
+          "Large multipurpose dam on the Seomjin River creating Yongdamho Lake."
+        ],
+        "천왕봉": [
+          "Cheonwangbong Peak",
+          "Main summit of Jirisan spanning Namwon, Hadong, and Hamyang."
+        ],
+        "이몽룡문화의거리": [
+          "Yi Mong-ryong Culture Street",
+          "Downtown cultural street themed on the Chunhyang tale."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 南原市",
+      "landmarks": {
+        "광한루": [
+          "広寒楼",
+          "春香伝の舞台となった有名な楼閣。広寒楼園がともにある。"
+        ],
+        "만인의총": [
+          "万人の塚",
+          "壬辰倭乱で殉国した南原の軍民を顕彰する代表的な記念物。"
+        ],
+        "용담댐": [
+          "龍潭ダム",
+          "蟾津江に建設された大型多目的ダム。龍潭湖を生んだ。"
+        ],
+        "천왕봉": [
+          "天王峰",
+          "智異山の主峰。南原・河東・咸陽の三境にまたがる。"
+        ],
+        "이몽룡문화의거리": [
+          "李夢龍文化の通り",
+          "春香伝の物語をテーマに造られた南原都心の文化ストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 南原市",
+      "landmarks": {
+        "광한루": [
+          "广寒楼",
+          "《春香传》故事背景中的名楼，配有广寒楼园。"
+        ],
+        "만인의총": [
+          "万人冢",
+          "纪念壬辰倭乱中殉难的南原军民的代表性纪念碑。"
+        ],
+        "용담댐": [
+          "龙潭大坝",
+          "建于蟾津江的大型多用途水坝，造就龙潭湖。"
+        ],
+        "천왕봉": [
+          "天王峰",
+          "智异山主峰，横跨南原、河东、咸阳三地。"
+        ],
+        "이몽룡문화의거리": [
+          "李梦龙文化街",
+          "以《春香传》故事打造的原市中心文化街。"
+        ]
+      }
+    }
   }
 }
