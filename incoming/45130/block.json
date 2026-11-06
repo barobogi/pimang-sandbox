@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "군산근대역사박물관",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 40,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      },
+      {
+        "target_landmark": "경암동철길마을",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 18,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      },
+      {
+        "target_landmark": "군산내항",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 27,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      },
+      {
+        "target_landmark": "월명공원",
+        "station_name": "월명공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.96277,
+          126.680137
+        ]
+      },
+      {
+        "target_landmark": "금강하구둑",
+        "station_name": "군산고속버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 45,
+        "coordinates": [
+          35.971,
+          126.731
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "군산 중앙 공영주차장",
+        "coordinates": [
+          35.96197,
+          126.680537
+        ],
+        "capacity": 177,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "군산 제2 공영주차장",
+        "coordinates": [
+          35.990014,
+          126.714203
+        ],
+        "capacity": 70,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "군산시는 개항기 이후 근대 항만 도시로 성장한 전북 서부의 도시로 근대 건축 유산과 철길마을, 군산내항 등의 명소가 함께한다.",
   "data_sources": [
     {
