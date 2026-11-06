@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "말이산고분군",
+        "station_name": "함안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 13,
+        "coordinates": [
+          35.278862,
+          128.406464
+        ]
+      },
+      {
+        "target_landmark": "함안박물관",
+        "station_name": "함안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 16,
+        "coordinates": [
+          35.278862,
+          128.406464
+        ]
+      },
+      {
+        "target_landmark": "함안군청",
+        "station_name": "함안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 10,
+        "coordinates": [
+          35.278862,
+          128.406464
+        ]
+      },
+      {
+        "target_landmark": "함안시장",
+        "station_name": "함안버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.278862,
+          128.406464
+        ]
+      },
+      {
+        "target_landmark": "낙동강",
+        "station_name": "낙동강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.387373,
+          128.514465
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "함안 중앙 공영주차장",
+        "coordinates": [
+          35.276062,
+          128.405263
+        ],
+        "capacity": 302,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "함안 제2 공영주차장",
+        "coordinates": [
+          35.27088,
+          128.407708
+        ],
+        "capacity": 116,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "함안 제3 공영주차장",
+        "coordinates": [
+          35.27127,
+          128.407318
+        ],
+        "capacity": 183,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "함안군은 아라가야의 고도로 말이산고분군과 함안박물관이 자리한 경남 중부의 군이다.",
   "data_sources": [
     {
