@@ -146,6 +146,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "칠갑산",
+        "station_name": "칠갑산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.411023,
+          126.884882
+        ]
+      },
+      {
+        "target_landmark": "장승공원",
+        "station_name": "청양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 38,
+        "coordinates": [
+          36.432661,
+          126.841763
+        ]
+      },
+      {
+        "target_landmark": "청양군청",
+        "station_name": "청양군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.457345,
+          126.801983
+        ]
+      },
+      {
+        "target_landmark": "청양시장",
+        "station_name": "청양시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.448462,
+          126.801848
+        ]
+      },
+      {
+        "target_landmark": "칠갑산자연휴양림",
+        "station_name": "청양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.432661,
+          126.841763
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "청양 중앙 공영주차장",
+        "coordinates": [
+          36.429461,
+          126.843363
+        ],
+        "capacity": 239,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청양 제2 공영주차장",
+        "coordinates": [
+          36.412364,
+          126.848694
+        ],
+        "capacity": 127,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청양 제3 공영주차장",
+        "coordinates": [
+          36.412223,
+          126.885682
+        ],
+        "capacity": 289,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "청양군은 칠갑산과 어우러진 고추 특산지로 칠갑산 장승공원이 대표 명소인 충남 중부의 군이다.",
   "data_sources": [
     {
