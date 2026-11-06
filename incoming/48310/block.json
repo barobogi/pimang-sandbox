@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "거제초등학교 운동장",
+        "coordinates": [
+          34.926713,
+          128.577263
+        ],
+        "capacity": 1100,
+        "address": "경상남도 거제시"
+      },
+      {
+        "name": "거제실내체육관",
+        "coordinates": [
+          34.871978,
+          128.670607
+        ],
+        "capacity": 1700,
+        "address": "경상남도 거제시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "저구해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "학동몽돌해안",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "외도전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가조해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼성중공업 거제조선소",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "거제시는 거제도를 중심으로 한 남해안의 섬 도시로 몽돌해안과 해수욕장 등의 자연 명소와 함께 근현대 조선 산업과 포로수용소의 역사가 함께한다.",
   "data_sources": [
     {
