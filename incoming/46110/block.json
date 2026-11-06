@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Mokpo-si, Jeonnam",
+      "landmarks": {
+        "유달산": [
+          "Yudalsan Mountain",
+          "Mokpo's home mountain; the pavilion on Yudalsan overlooks Mokpo Port."
+        ],
+        "목포해상케이블카": [
+          "Mokpo Marine Cable Car",
+          "Sea cable car linking Bukhang and Yudalsan, Mokpo's signature attraction."
+        ],
+        "국립해양유물전시관": [
+          "National Maritime Museum",
+          "National museum exhibiting underwater-excavated maritime relics."
+        ],
+        "삼학도": [
+          "Samhakdo Island",
+          "Three-peaked island off Mokpo with Samhakdo Park."
+        ],
+        "목포근대역사관": [
+          "Mokpo Modern History Museum",
+          "Museum exhibiting Mokpo's modern history since the port opening."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 木浦市",
+      "landmarks": {
+        "유달산": [
+          "儒達山",
+          "木浦の鎮山。儒達山のあずまやから木浦港を見下ろせる。"
+        ],
+        "목포해상케이블카": [
+          "木浦海上ケーブルカー",
+          "北港と儒達山を結ぶ海上ケーブルカー。木浦の象徴的な観光名所。"
+        ],
+        "국립해양유물전시관": [
+          "国立海洋遺物展示館",
+          "水中発掘の海洋遺物を展示する国立海洋博物館。"
+        ],
+        "삼학도": [
+          "三鶴島",
+          "木浦の海上にある三峰の島。三鶴島公園が造られている。"
+        ],
+        "목포근대역사관": [
+          "木浦近代歴史館",
+          "開港以降の木浦の近代史を展示する博物館。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 木浦市",
+      "landmarks": {
+        "유달산": [
+          "儒达山",
+          "木浦主山，儒达山亭可俯瞰木浦港。"
+        ],
+        "목포해상케이블카": [
+          "木浦海上缆车",
+          "连接北港和儒达山的海上缆车，木浦的象征性观光名所。"
+        ],
+        "국립해양유물전시관": [
+          "国立海洋遗物展示馆",
+          "展示水下打捞海洋文物的国立海洋博物馆。"
+        ],
+        "삼학도": [
+          "三鹤岛",
+          "木浦近海的三峰岛屿，建有三鹤岛公园。"
+        ],
+        "목포근대역사관": [
+          "木浦近代历史馆",
+          "展示开港后木浦近代史的博物馆。"
+        ]
+      }
+    }
   }
 }
