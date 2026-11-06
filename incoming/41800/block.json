@@ -1,0 +1,598 @@
+{
+  "block_code": "41800",
+  "block_name": "경기도 연천군",
+  "bbox": [
+    126.795259,
+    37.92821,
+    127.192162,
+    38.28111
+  ],
+  "center": [
+    38.10466,
+    126.993711
+  ],
+  "landmarks": [
+    {
+      "name": "초성리 중원식생태공원",
+      "lat": 38.099,
+      "lng": 127.048,
+      "category": "생태/공원",
+      "description": "전곡읍 초성리 일대에 조성된 하천 생태공원으로 습지 생태 체험이 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 277.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/250207_%EC%97%B0%EC%B2%9C%EA%B5%B0%EC%B2%AD_%EC%8B%A0%EA%B4%80.jpg/1280px-250207_%EC%97%B0%EC%B2%9C%EA%B5%B0%EC%B2%AD_%EC%8B%A0%EA%B4%80.jpg"
+    },
+    {
+      "name": "당포성",
+      "lat": 38.11,
+      "lng": 127.06,
+      "category": "유적/문화유산",
+      "description": "임진강이 앞을 막은 옛 산성으로 백제와 고구려 요충 전략지로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8B%B9%ED%8F%AC%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 264.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dangpo3.jpg/1280px-Dangpo3.jpg"
+    },
+    {
+      "name": "아미산전적지",
+      "lat": 38.13,
+      "lng": 127.02,
+      "category": "DMZ/역사",
+      "description": "6·25 전쟁 격전지였던 아미산 일대의 전적지와 전망시설이 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 219.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/250207_%EC%97%B0%EC%B2%9C%EA%B5%B0%EC%B2%AD_%EC%8B%A0%EA%B4%80.jpg/1280px-250207_%EC%97%B0%EC%B2%9C%EA%B5%B0%EC%B2%AD_%EC%8B%A0%EA%B4%80.jpg"
+    },
+    {
+      "name": "한탄강국가지질공원",
+      "lat": 38.06,
+      "lng": 127.01,
+      "category": "지질/자연",
+      "description": "현무암 협곡과 벽개절벽 등 지질 명소가 모인 국가지질공원으로 연천 구간이 자리한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 344.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    },
+    {
+      "name": "고적대전망대",
+      "lat": 38.17,
+      "lng": 127.03,
+      "category": "DMZ/전망대",
+      "description": "북측을 가장 가까이 볼 수 있는 연천 대표 DMZ 전망시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 203.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/250207_%EC%97%B0%EC%B2%9C%EA%B5%B0%EC%B2%AD_%EC%8B%A0%EA%B4%80.jpg/1280px-250207_%EC%97%B0%EC%B2%9C%EA%B5%B0%EC%B2%AD_%EC%8B%A0%EA%B4%80.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "연천 역사·문화 시그니처 스카이 트레일",
+      "description": "아미산전적지 → 당포성 → 초성리 중원식생태공원 → 한탄강국가지질공원 → 고적대전망대 순으로 이어지는 경기도 연천군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "아미산전적지",
+        "당포성",
+        "초성리 중원식생태공원",
+        "한탄강국가지질공원",
+        "고적대전망대"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "연천 고즈넉한 역사 스카이 산책",
+      "description": "아미산전적지 → 당포성 → 초성리 중원식생태공원 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 연천의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "아미산전적지",
+        "당포성",
+        "초성리 중원식생태공원"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "연천 산하 절경 에어리얼 투어",
+      "description": "한탄강국가지질공원 → 초성리 중원식생태공원 → 당포성 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 연천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "한탄강국가지질공원",
+        "초성리 중원식생태공원",
+        "당포성"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "아미산전적지 옛맛식당",
+      "lat": 38.12986,
+      "lng": 127.02035,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "한탄강국가지질공원 솥뚜껑가게",
+      "lat": 38.06014,
+      "lng": 127.00972,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "초성리 중원식생태공원 솥뚜껑가게",
+      "lat": 38.09963,
+      "lng": 127.04758,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "당포성 가마솥밥가",
+      "lat": 38.10986,
+      "lng": 127.05944,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "고적대전망대 가마솥밥가",
+      "lat": 38.1693,
+      "lng": 127.02986,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "초성리 중원식생태공원",
+        "station_name": "연천역",
+        "line": "수도권 1호선",
+        "exit_no": 4,
+        "walk_minutes": 35,
+        "coordinates": [
+          38.097,
+          127.076
+        ]
+      },
+      {
+        "target_landmark": "당포성",
+        "station_name": "연천역",
+        "line": "수도권 1호선",
+        "exit_no": 4,
+        "walk_minutes": 29,
+        "coordinates": [
+          38.097,
+          127.076
+        ]
+      },
+      {
+        "target_landmark": "아미산전적지",
+        "station_name": "아미산전적지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.1288,
+          127.018
+        ]
+      },
+      {
+        "target_landmark": "한탄강국가지질공원",
+        "station_name": "한탄강국가지질공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.0588,
+          127.008
+        ]
+      },
+      {
+        "target_landmark": "고적대전망대",
+        "station_name": "고적대전망대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.1688,
+          127.028
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "연천 중앙 공영주차장",
+        "coordinates": [
+          38.1308,
+          127.018
+        ],
+        "capacity": 562,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "연천 제2 공영주차장",
+        "coordinates": [
+          38.0624,
+          127.012
+        ],
+        "capacity": 419,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "연천 제3 공영주차장",
+        "coordinates": [
+          38.101,
+          127.048
+        ],
+        "capacity": 183,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "연천초등학교 운동장",
+        "coordinates": [
+          38.119388,
+          127.095284
+        ],
+        "capacity": 4900,
+        "address": "경기도 연천군"
+      },
+      {
+        "name": "연천실내체육관",
+        "coordinates": [
+          38.090814,
+          127.106383
+        ],
+        "capacity": 6500,
+        "address": "경기도 연천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "초성리 중원식생태공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "당포성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "아미산전적지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한탄강국가지질공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고적대전망대",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "한탄강국가지질공원 봄",
+        "아미산전적지 봄"
+      ],
+      "summer": [
+        "한탄강 여름",
+        "초성리 중원식생태공원 여름"
+      ],
+      "autumn": [
+        "아미산전적지 단풍",
+        "한탄강 가을"
+      ],
+      "winter": [
+        "고적대전망대 겨울",
+        "당포성 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "고적대전망대 야경",
+        "coordinates": [
+          38.17,
+          127.03
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      },
+      {
+        "name": "한탄강 야경",
+        "coordinates": [
+          38.06,
+          127.01
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "연천군은 북한과 국경을 접하는 경기 최북단의 군으로 임진강과 한탄강, DMZ 관광 자원과 함께 한탄강 국가지질공원 등의 자연 생태 명소가 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeoncheon-gun, Gyeonggi",
+      "landmarks": {
+        "초성리 중원식생태공원": [
+          "Choseong-ri Wetland Ecological Park",
+          "Riverine ecological park in Choseong-ri, Jeongok-eup, offering wetland ecology experiences."
+        ],
+        "당포성": [
+          "Dangposeong Fortress",
+          "Ancient fortress facing the Imjin River, a strategic point between Baekje and Goguryeo."
+        ],
+        "아미산전적지": [
+          "Amisan Battle Site",
+          "Battle site and observatory on Amisan, a fierce Korean War battleground."
+        ],
+        "한탄강국가지질공원": [
+          "Hantan River National Geopark",
+          "National Geopark of basalt gorges and cliff walls, with its Yeoncheon section here."
+        ],
+        "고적대전망대": [
+          "Goseokjeong Observatory",
+          "Yeoncheon's signature DMZ observatory with the closest view of the North."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 漣川郡",
+      "landmarks": {
+        "초성리 중원식생태공원": [
+          "草城里湿地生態公園",
+          "全谷邑草城里一帯に造られた河川生態公園。湿地の生態体験ができる。"
+        ],
+        "당포성": [
+          "唐浦城",
+          "臨津江を前にした古代の山城。百済と高句麗の要衝として有名。"
+        ],
+        "아미산전적지": [
+          "峨眉山戦跡地",
+          "6・25戦争の激戦地だった峨眉山一帯の戦跡地と展望施設。"
+        ],
+        "한탄강국가지질공원": [
+          "漢灘江国立地質公園",
+          "玄武岩の渓谷や断崖などの地質名所が集まる国立地質公園。漣川区間が広がる。"
+        ],
+        "고적대전망대": [
+          "孤石亭展望台",
+          "北側を最も近くに見られる漣川を代表するDMZ展望施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 涟川郡",
+      "landmarks": {
+        "초성리 중원식생태공원": [
+          "草城里湿地生态公园",
+          "全谷邑草城里一带的河流生态公园，可体验湿地生态。"
+        ],
+        "당포성": [
+          "唐浦城",
+          "临津江畔的古城，百济与高句丽的战略要地。"
+        ],
+        "아미산전적지": [
+          "峨眉山战迹地",
+          "朝鲜战争激战地峨眉山一带的战迹地与展望设施。"
+        ],
+        "한탄강국가지질공원": [
+          "汉滩江国家地质公园",
+          "汇集玄武岩峡谷和峭壁等地质名胜的国家地质公园，涟川段坐落于此。"
+        ],
+        "고적대전망대": [
+          "孤石亭展望台",
+          "可最近眺望朝鲜的涟川代表性DMZ展望台。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yeoncheon.go.kr",
+    "civil_service_center": {
+      "location_name": "연천군청 민원실 앞",
+      "coordinates": [
+        127.072185,
+        38.089964
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-839-2114",
+      "info": "경기도 연천군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "연천군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.99391,
+      38.10446
+    ],
+    "cctv_zone_count": 334,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "연천군민공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "연천 전곡리 구석기축제",
+    "typical_month": 5,
+    "venue_name": "전곡 구석기박물관 일대",
+    "venue_coords": [
+      126.99311,
+      38.10416
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "연천군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.074585,
+      38.089764
+    ],
+    "reservation_url": "https://www.yeoncheon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "연천군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.069785,
+      38.089764
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "연천군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.072285,
+      38.092864
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "고적대전망대 가마솥밥가",
+    "coordinates": [
+      127.02986,
+      38.1693
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "유과 (연천군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=연천군청&goalx=127.072185&goaly=38.089964",
+    "kakaonavi_url": "kakaonavi://navigate?name=연천군청&x=127.072185&y=38.089964&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=연천군청&dlng=127.072185&dlat=38.089964&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 51.9
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:58",
+      "noon_altitude_deg": 75.3
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 51.9
+    },
+    "winter_solstice": {
+      "sunrise": "07:45",
+      "sunset": "17:16",
+      "noon_altitude_deg": 28.5
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "연천군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.99401,
+          38.10566
+        ],
+        [
+          126.99391,
+          38.10446
+        ],
+        [
+          126.99391,
+          38.10371
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "연천군 전통시장 만남의거리",
+    "anchor_center": [
+      127.073785,
+      38.091697
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 40,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
