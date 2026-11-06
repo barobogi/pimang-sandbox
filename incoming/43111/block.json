@@ -147,6 +147,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "상당산성",
+        "station_name": "상당산성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.658532,
+          127.536449
+        ]
+      },
+      {
+        "target_landmark": "우암산",
+        "station_name": "청주역",
+        "line": "충북선",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.6394,
+          127.4897
+        ]
+      },
+      {
+        "target_landmark": "청남대",
+        "station_name": "청남대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.459834,
+          127.490382
+        ]
+      },
+      {
+        "target_landmark": "상당공원",
+        "station_name": "청주역",
+        "line": "충북선",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.6394,
+          127.4897
+        ]
+      },
+      {
+        "target_landmark": "수암골",
+        "station_name": "청주역",
+        "line": "충북선",
+        "walk_minutes": 9,
+        "coordinates": [
+          36.6394,
+          127.4897
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "상당 중앙 공영주차장",
+        "coordinates": [
+          36.660932,
+          127.538049
+        ],
+        "capacity": 43,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "상당 제2 공영주차장",
+        "coordinates": [
+          36.640945,
+          127.493175
+        ],
+        "capacity": 73,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "상당 제3 공영주차장",
+        "coordinates": [
+          36.635777,
+          127.489691
+        ],
+        "capacity": 316,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "상당구는 청주 시내의 옛 중심으로 상당산성과 우암산이 자리하고 청남대 등의 유적과 미원·가덕의 자연 마을이 함께한 청주 동부의 구이다.",
   "data_sources": [
     {
