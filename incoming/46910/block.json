@@ -213,6 +213,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "신안초등학교 운동장",
+        "coordinates": [
+          34.480192,
+          125.451946
+        ],
+        "capacity": 1400,
+        "address": "전라남도 신안군"
+      },
+      {
+        "name": "신안실내체육관",
+        "coordinates": [
+          34.484198,
+          125.22377
+        ],
+        "capacity": 2200,
+        "address": "전라남도 신안군"
+      },
+      {
+        "name": "신안중앙공원 비상집합장소",
+        "coordinates": [
+          34.870947,
+          126.147104
+        ],
+        "capacity": 1700,
+        "address": "전라남도 신안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "흑산도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "홍도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "증도",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "비금도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도초도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "신안군은 흑산도와 홍도, 증도 등 다도해의 섬들과 유네스코 세계자연유산 갯벌을 품은 전남 서남부의 군이다.",
   "data_sources": [
     {
