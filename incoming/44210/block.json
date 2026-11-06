@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서산초등학교 운동장",
+        "coordinates": [
+          36.725515,
+          126.596021
+        ],
+        "capacity": 2600,
+        "address": "충청남도 서산시"
+      },
+      {
+        "name": "서산실내체육관",
+        "coordinates": [
+          36.731289,
+          126.592809
+        ],
+        "capacity": 1300,
+        "address": "충청남도 서산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서산마애삼존불",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "해미읍성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서산시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서산시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천수만",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "서산시는 서산마애삼존불과 해미읍성, 간척지 농업이 어우러진 충남 서북부의 도시이다.",
   "data_sources": [
     {
