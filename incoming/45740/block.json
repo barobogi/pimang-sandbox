@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "장안산",
+        "station_name": "장안산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.631984,
+          127.593474
+        ]
+      },
+      {
+        "target_landmark": "논개생가",
+        "station_name": "논개생가 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.681364,
+          127.620076
+        ]
+      },
+      {
+        "target_landmark": "장수군청",
+        "station_name": "장수버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.645664,
+          127.520255
+        ]
+      },
+      {
+        "target_landmark": "장수시장",
+        "station_name": "장수버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 7,
+        "coordinates": [
+          35.645664,
+          127.520255
+        ]
+      },
+      {
+        "target_landmark": "장수누리",
+        "station_name": "장수버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          35.645664,
+          127.520255
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "장수 중앙 공영주차장",
+        "coordinates": [
+          35.648464,
+          127.518655
+        ],
+        "capacity": 204,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "장수 제2 공영주차장",
+        "coordinates": [
+          35.648914,
+          127.517275
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "장수군은 장안산과 논개 생가, 장수오미자로 유명한 전북 동부 고원의 군이다.",
   "data_sources": [
     {
