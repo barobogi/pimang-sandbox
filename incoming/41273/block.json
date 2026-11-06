@@ -358,5 +358,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Danwon-gu, Ansan",
+      "landmarks": {
+        "안산호수공원": [
+          "Ansan Lake Park",
+          "Korea's largest urban lakeside park."
+        ],
+        "대부도": [
+          "Daebudo Island",
+          "Large island famed for its mudflats and beaches."
+        ],
+        "반월국가산업단지": [
+          "Banwol National Industrial Complex",
+          "Industrial complex known for its migrant worker culture."
+        ],
+        "와동 상권": [
+          "Wadong District",
+          "Commercial hub of Danwon-gu in Wa-dong."
+        ],
+        "선감도": [
+          "Seongamdo Island",
+          "Signature island attraction on Danwon-gu's coast."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安山市 檀園区",
+      "landmarks": {
+        "안산호수공원": [
+          "安山湖公園",
+          "国内最大規模の都市湖畔公園。"
+        ],
+        "대부도": [
+          "大阜島",
+          "干潟とビーチで有名な大型島。"
+        ],
+        "반월국가산업단지": [
+          "半月国家産業団地",
+          "移住労働者の文化が形成された代表的な産業団地。"
+        ],
+        "와동 상권": [
+          "瓦洞商圏",
+          "瓦洞に形成された檀園区を代表する商圏。"
+        ],
+        "선감도": [
+          "峯…ではなく船甘島",
+          "檀園区の海岸を代表する島の観光地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安山市 檀园区",
+      "landmarks": {
+        "안산호수공원": [
+          "安山湖公园",
+          "韩国规模最大的城市湖畔公园。"
+        ],
+        "대부도": [
+          "大阜岛",
+          "以滩涂和海滩闻名的大型岛屿。"
+        ],
+        "반월국가산업단지": [
+          "半月国家产业园",
+          "形成多元务工文化的代表性产业园。"
+        ],
+        "와동 상권": [
+          "瓦洞商圈",
+          "瓦洞形成的檀园区代表性商圈。"
+        ],
+        "선감도": [
+          "船甘岛",
+          "檀园区海岸的代表性岛屿观光地。"
+        ]
+      }
+    }
   }
 }
