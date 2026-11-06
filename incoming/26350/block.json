@@ -1,0 +1,188 @@
+{
+  "block_code": "26350",
+  "block_name": "부산광역시 해운대구",
+  "bbox": [
+    129.11,
+    35.14,
+    129.23,
+    35.24
+  ],
+  "center": [
+    35.1631,
+    129.1636
+  ],
+  "landmarks": [
+    {
+      "name": "해운대해수욕장",
+      "lat": 35.1587,
+      "lng": 129.1604,
+      "category": "해변/해양관광",
+      "description": "대한민국을 대표하는 백사장이자 사계절 축제와 레저가 펼쳐지는 국제적 해양 휴양 랜드마크.",
+      "source_url": "https://www.haeundae.go.kr"
+    },
+    {
+      "name": "누리마루 APEC하우스",
+      "lat": 35.1523,
+      "lng": 129.1514,
+      "category": "국제회의/역사",
+      "description": "동백섬에 위치하여 2005년 제13차 APEC 정상회의가 개최되었던 세계적 기념 건축물이자 해안 명소.",
+      "source_url": "https://www.busan.go.kr"
+    },
+    {
+      "name": "영화의전당",
+      "lat": 35.1712,
+      "lng": 129.1272,
+      "category": "문화/영화",
+      "description": "부산국제영화제(BIFF) 전용관이자 기네스북에 등재된 세계 최대 외팔보 지붕을 갖춘 영상 복합 문화공간.",
+      "source_url": "https://www.dureraum.org"
+    },
+    {
+      "name": "신세계백화점 센텀시티점",
+      "lat": 35.1689,
+      "lng": 129.1296,
+      "category": "쇼핑/도심랜드마크",
+      "description": "기네스 월드 레코드에 등재된 세계 최대 백화점이자 센텀시티 중심의 복합 엔터테인먼트 쇼핑몰.",
+      "source_url": "https://www.shinsegae.com"
+    },
+    {
+      "name": "송정해수욕장",
+      "lat": 35.1786,
+      "lng": 129.1997,
+      "category": "해변/서핑",
+      "description": "맑은 수질과 완만한 백사장, 일정한 파도로 사계절 내내 전국 서퍼들이 찾는 대한민국 대표 서핑 성지.",
+      "source_url": "https://www.haeundae.go.kr"
+    }
+  ],
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "해운대초등학교 운동장",
+        "coordinates": [
+          35.154072,
+          129.172795
+        ],
+        "capacity": 5200,
+        "address": "부산광역시 해운대구"
+      },
+      {
+        "name": "해운대실내체육관",
+        "coordinates": [
+          35.151215,
+          129.143137
+        ],
+        "capacity": 2300,
+        "address": "부산광역시 해운대구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "해운대해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "누리마루 APEC하우스",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영화의전당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "신세계백화점 센텀시티점",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송정해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "달맞이길 벚꽃로드",
+        "동백섬 봄 산책"
+      ],
+      "summer": [
+        "해운대해수욕장 야간개장",
+        "송정해수욕장 여름"
+      ],
+      "autumn": [
+        "장산 억새군락지",
+        "동백섬 가을"
+      ],
+      "winter": [
+        "해운대 빛축제",
+        "달맞이길 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "센텀시티 야경",
+        "coordinates": [
+          35.1587,
+          129.1604
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "해운대해수욕장 야경",
+        "coordinates": [
+          35.1712,
+          129.1272
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "동백섬 야경",
+        "coordinates": [
+          35.1689,
+          129.1296
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "해운대구는 신라 말기 석학 최치원 선생이 동백섬의 비경에 감탄하여 바위에 '해운대'를 새긴 것에서 지명이 유래하였습니다. 아름다운 자연 해안경관과 전통 온천, 그리고 현대적인 센텀시티와 마린시티의 MICE·영상 산업이 공존하는 글로벌 해양 문화 도시입니다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정동 경계 및 좌표",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "해운대구청 열린관광정보",
+      "license": "공공누리 제1유형",
+      "url": "https://www.haeundae.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  }
+}
