@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangdong-gu, Seoul",
+      "landmarks": {
+        "암사선사주거지": [
+          "Amsa Prehistoric Settlement",
+          "Premier prehistoric site preserving Neolithic dwellings."
+        ],
+        "천호역 상권": [
+          "Cheonho Station District",
+          "Gangdong-gu's largest commercial hub."
+        ],
+        "고덕공원": [
+          "Godeok Park",
+          "Neighborhood park serving the Godeok area."
+        ],
+        "고덕한강공원": [
+          "Godeok Hangang Park",
+          "Riverside park on the Godeok waterfront."
+        ],
+        "길동공원": [
+          "Gildong Park",
+          "Neighborhood park at the heart of the Gildong area."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 江東区",
+      "landmarks": {
+        "암사선사주거지": [
+          "巌寺先史住居地",
+          "新石器時代の住居跡が保存された代表的な先史遺跡。"
+        ],
+        "천호역 상권": [
+          "千戸駅商圏",
+          "江東区最大の商業地域。"
+        ],
+        "고덕공원": [
+          "高徳公園",
+          "高徳洞一帯の代表的な近隣公園。"
+        ],
+        "고덕한강공원": [
+          "高徳漢江公園",
+          "高徳洞の水辺に広がる漢江公園。"
+        ],
+        "길동공원": [
+          "吉洞公園",
+          "吉洞一帯の代表的な近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 江东区",
+      "landmarks": {
+        "암사선사주거지": [
+          "岩寺史前居住地",
+          "保存有新石器时代聚落址的代表性史前遗址。"
+        ],
+        "천호역 상권": [
+          "千户站商圈",
+          "江东区最大的商业中心。"
+        ],
+        "고덕공원": [
+          "高德公园",
+          "高德洞一带的代表性近邻公园。"
+        ],
+        "고덕한강공원": [
+          "高德汉江公园",
+          "高德洞江畔的汉江公园。"
+        ],
+        "길동공원": [
+          "吉洞公园",
+          "吉洞一带的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
