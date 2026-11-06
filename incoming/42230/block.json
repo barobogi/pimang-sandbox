@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Samcheok-si, Gangwon",
+      "landmarks": {
+        "환선굴": [
+          "Hwanseongul Cave",
+          "Signature cave attraction of Samcheok, Gangwon."
+        ],
+        "죽서루": [
+          "Jukseoru Pavilion",
+          "Signature pavilion heritage of Samcheok, Gangwon."
+        ],
+        "맹방해수욕장": [
+          "Maengbang Beach",
+          "Signature beach attraction of Samcheok, Gangwon."
+        ],
+        "삼척시청": [
+          "Samcheok City Hall",
+          "Administrative center of Samcheok, Gangwon."
+        ],
+        "대금굴": [
+          "Daegeumgul Cave",
+          "Signature natural cave attraction of Samcheok, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 三陟市",
+      "landmarks": {
+        "환선굴": [
+          "幻仙窟",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "죽서루": [
+          "竹西楼",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "맹방해수욕장": [
+          "孟方海水浴場",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "삼척시청": [
+          "三陟市庁",
+          "江原特別自治道三陟市を代表する名所。"
+        ],
+        "대금굴": [
+          "大金窟",
+          "江原特別自治道三陟市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 三陟市",
+      "landmarks": {
+        "환선굴": [
+          "幻仙窟",
+          "江原特别自治道三陟市的代表性洞窟。"
+        ],
+        "죽서루": [
+          "竹西楼",
+          "江原特别自治道三陟市的代表性楼亭。"
+        ],
+        "맹방해수욕장": [
+          "孟坊海水浴场",
+          "江原特别自治道三陟市的代表性海滨。"
+        ],
+        "삼척시청": [
+          "三陟市厅",
+          "江原特别自治道三陟市的行政中心。"
+        ],
+        "대금굴": [
+          "大金窟",
+          "江原特别自治道三陟市的代表性洞窟。"
+        ]
+      }
+    }
   }
 }
