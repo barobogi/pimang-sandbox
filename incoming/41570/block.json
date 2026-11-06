@@ -354,5 +354,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gimpo-si, Gyeonggi",
+      "landmarks": {
+        "문수산": [
+          "Munsusan Mountain",
+          "Gimpo's signature mountain and hiking favorite."
+        ],
+        "한강": [
+          "Han River",
+          "Korea's signature river flowing through the Gimpo estuary."
+        ],
+        "북변동 상권": [
+          "Bukbyeon-dong District",
+          "Commercial hub of Gimpo in Bukbyeon-dong."
+        ],
+        "장기동 상권": [
+          "Janggi-dong District",
+          "Everyday commercial hub in Janggi-dong."
+        ],
+        "김포문화예술회관": [
+          "Gimpo Arts Center",
+          "Gimpo's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 金浦市",
+      "landmarks": {
+        "문수산": [
+          "文殊山",
+          "金浦を代表する山。登山の名所。"
+        ],
+        "한강": [
+          "漢江",
+          "金浦の河口を流れる韓国を代表する川。"
+        ],
+        "북변동 상권": [
+          "北辺洞商圏",
+          "北辺洞に形成された金浦を代表する商圏。"
+        ],
+        "장기동 상권": [
+          "長岐洞商圏",
+          "長岐洞に形成された代表的な生活商圏。"
+        ],
+        "김포문화예술회관": [
+          "金浦文化芸術会館",
+          "金浦を代表する公演・展示施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 金浦市",
+      "landmarks": {
+        "문수산": [
+          "文殊山",
+          "金浦的代表名山，登山胜地。"
+        ],
+        "한강": [
+          "汉江",
+          "流经金浦河口的韩国代表性大河。"
+        ],
+        "북변동 상권": [
+          "北边洞商圈",
+          "北边洞形成的金浦代表性商圈。"
+        ],
+        "장기동 상권": [
+          "长岐洞商圈",
+          "长岐洞形成的代表性生活商圈。"
+        ],
+        "김포문화예술회관": [
+          "金浦文化艺术会馆",
+          "金浦代表性的演出展览场馆。"
+        ]
+      }
+    }
   }
 }
