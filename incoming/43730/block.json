@@ -350,5 +350,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Okcheon-gun, Chungbuk",
+      "landmarks": {
+        "정지용 생가": [
+          "Jung Ji-yong's Birthplace",
+          "Signature literary heritage of Okcheon-gun, Chungbuk."
+        ],
+        "대청호": [
+          "Daecheongho Lake",
+          "Signature lake attraction of Okcheon-gun, Chungbuk."
+        ],
+        "옥천군청": [
+          "Okcheon County Office",
+          "Administrative center of Okcheon-gun, Chungbuk."
+        ],
+        "옥천시장": [
+          "Okcheon Market",
+          "Signature market attraction of Okcheon-gun, Chungbuk."
+        ],
+        "향수공원": [
+          "Hyangsu Park",
+          "Signature literary park of Okcheon-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 沃川郡",
+      "landmarks": {
+        "정지용 생가": [
+          "鄭芝溶生家",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "대청호": [
+          "大清湖",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "옥천군청": [
+          "沃川郡庁",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "옥천시장": [
+          "沃川市場",
+          "忠清北道沃川郡を代表する名所。"
+        ],
+        "향수공원": [
+          "郷樹公園",
+          "忠清北道沃川郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 沃川郡",
+      "landmarks": {
+        "정지용 생가": [
+          "郑芝溶故居",
+          "忠清北道沃川郡的代表性文学遗迹。"
+        ],
+        "대청호": [
+          "大清水库",
+          "忠清北道沃川郡的代表性湖泊。"
+        ],
+        "옥천군청": [
+          "沃川郡厅",
+          "忠清北道沃川郡的行政中心。"
+        ],
+        "옥천시장": [
+          "沃川市场",
+          "忠清北道沃川郡的代表性市场。"
+        ],
+        "향수공원": [
+          "乡树公园",
+          "忠清北道沃川郡的代表性文学公园。"
+        ]
+      }
+    }
   }
 }
