@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "궁남지 봄 연꽃",
+        "부소산성 봄"
+      ],
+      "summer": [
+        "궁남지 여름 연꽃",
+        "낙화암 여름"
+      ],
+      "autumn": [
+        "부소산성 단풍",
+        "정림사지 가을"
+      ],
+      "winter": [
+        "궁남지 설경",
+        "부소산성 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "궁남지 야경",
+        "coordinates": [
+          36.269686,
+          126.912205
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "부소산성 야경",
+        "coordinates": [
+          36.289242,
+          126.915187
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "부여군은 백제 사비 도읍이었던 유서 깊은 고장으로 부소산성과 낙화암, 정림사지가 유네스코 세계유산으로 등재되었다.",
   "data_sources": [
     {
