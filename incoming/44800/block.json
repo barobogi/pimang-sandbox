@@ -413,10 +413,11 @@
     "civil_service_center": {
       "location_name": "예산군청 민원실 앞",
       "coordinates": [
-        126.778065,
-        36.665755
+        126.84825,
+        36.681097
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "041-339-7114",
