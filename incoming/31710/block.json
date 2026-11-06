@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "울주초등학교 운동장",
+        "coordinates": [
+          35.59579,
+          129.184937
+        ],
+        "capacity": 1300,
+        "address": "울산광역시 울주군"
+      },
+      {
+        "name": "울주실내체육관",
+        "coordinates": [
+          35.590134,
+          129.266866
+        ],
+        "capacity": 1300,
+        "address": "울산광역시 울주군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대곡천암각화",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "천전리각사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "간절감",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "언양 자수정 동굴나라",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "온산항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "울주군은 울산 서부의 광역 군으로 대곡천 반구대 암각화 등 유네스코 세계유산과 간절감, 언양 자수정 동굴나라 등 해양·내륙 명소가 함께한다.",
   "data_sources": [
     {
