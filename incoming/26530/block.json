@@ -296,6 +296,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "삼락생태공원 벚꽃",
+        "낙동강 봄 산책"
+      ],
+      "summer": [
+        "삼락생태공원 물놀이장",
+        "하단에코랜드 여름"
+      ],
+      "autumn": [
+        "삼락생태공원 억새",
+        "낙동강 가을"
+      ],
+      "winter": [
+        "삼락생태공원 설경",
+        "사상역 상권 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "삼락생태공원 야경",
+        "coordinates": [
+          35.156,
+          128.985
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "사상역 상권 야경",
+        "coordinates": [
+          35.162,
+          128.993
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "부산 사상구는 사상역 상권과 삼락생태공원이 함께한 부산 서부의 구이다.",
   "data_sources": [
     {
