@@ -443,7 +443,7 @@
         37.186253
       ],
       "operating_hours": "09:00 - 18:00",
-      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
     },
     "representative_contact": {
       "phone": "031-1577-4200",
@@ -456,7 +456,8 @@
       126.834607,
       37.155879
     ],
-    "cctv_zone_count": 27
+    "cctv_zone_count": 27,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "동탄호수공원",
