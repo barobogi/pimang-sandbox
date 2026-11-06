@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "선운사 동백꽃",
+        "고창읍성 봄"
+      ],
+      "summer": [
+        "선운사 계곡 여름",
+        "고창읍성 여름"
+      ],
+      "autumn": [
+        "선운사 단풍",
+        "고창고인돌유적 가을"
+      ],
+      "winter": [
+        "고창읍성 설경",
+        "선운사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "고창읍성 야경",
+        "coordinates": [
+          35.429564,
+          126.704801
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "선운사 야경",
+        "coordinates": [
+          35.496907,
+          126.578472
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "고창군은 고창읍성과 고인돌 유적, 선운사가 자리한 유네스코 세계유산의 고장이다.",
   "data_sources": [
     {
