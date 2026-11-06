@@ -146,6 +146,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "의림지",
+        "station_name": "의림지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.171245,
+          128.212229
+        ]
+      },
+      {
+        "target_landmark": "청풍호",
+        "station_name": "청풍호 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.978405,
+          128.007241
+        ]
+      },
+      {
+        "target_landmark": "제천시청",
+        "station_name": "제천시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.130639,
+          128.192641
+        ]
+      },
+      {
+        "target_landmark": "제천역 상권",
+        "station_name": "제천역 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.125865,
+          128.207101
+        ]
+      },
+      {
+        "target_landmark": "박달재",
+        "station_name": "박달재 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.143698,
+          128.046572
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "제천 중앙 공영주차장",
+        "coordinates": [
+          37.135039,
+          128.189041
+        ],
+        "capacity": 265,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "제천 제2 공영주차장",
+        "coordinates": [
+          37.129865,
+          128.205901
+        ],
+        "capacity": 298,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "제천 제3 공영주차장",
+        "coordinates": [
+          36.980805,
+          128.006041
+        ],
+        "capacity": 217,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "제천시는 의림지와 청풍호반, 박달재가 자리한 충북 북부의 관광 도시이다.",
   "data_sources": [
     {
