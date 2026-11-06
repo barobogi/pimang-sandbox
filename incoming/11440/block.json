@@ -1,0 +1,586 @@
+{
+  "block_code": "11440",
+  "block_name": "서울특별시 마포구",
+  "bbox": [
+    126.853628,
+    37.533772,
+    126.963897,
+    37.590834
+  ],
+  "center": [
+    37.562303,
+    126.908763
+  ],
+  "landmarks": [
+    {
+      "name": "홍대입구",
+      "lat": 37.5566763,
+      "lng": 126.9234645,
+      "category": "상권/문화",
+      "description": "대한민국 인디 음악과 청년 문화의 대표 중심지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8C%80%EC%9E%85%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 295.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eoulmadangro_z.jpg/1280px-Eoulmadangro_z.jpg"
+    },
+    {
+      "name": "서울월드컵경기장",
+      "lat": 37.5683021,
+      "lng": 126.8972477,
+      "category": "체육/경기장",
+      "description": "2002년 월드컵을 위해 조성된 대형 축구 전용 경기장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 123.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/AFC_Champions_League_Final_1st_leg.jpg/1280px-AFC_Champions_League_Final_1st_leg.jpg"
+    },
+    {
+      "name": "망원한강공원",
+      "lat": 37.5501926,
+      "lng": 126.9021613,
+      "category": "한강공원",
+      "description": "망원동 수변의 대표 한강 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9B%90%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 23.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Han_River_aerial_view.jpg"
+    },
+    {
+      "name": "연남동",
+      "lat": 37.56258,
+      "lng": 126.92196,
+      "category": "카페/문화",
+      "description": "홍대 인근의 대표 카페·레스토랑 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EB%82%A8%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 268.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Yeonnam-dong_Community_Service_Center_20140524_184843.jpg/1280px-Yeonnam-dong_Community_Service_Center_20140524_184843.jpg"
+    },
+    {
+      "name": "난지한강공원",
+      "lat": 37.5664459,
+      "lng": 126.8768605,
+      "category": "한강공원",
+      "description": "월드컵공원 옆 한강변 대형 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%9C%EC%A7%80%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 99.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/%EB%82%9C%EC%A7%80%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "마포 자연 힐링 시그니처 에어리얼 투어",
+      "description": "연남동 → 홍대입구 → 망원한강공원 → 서울월드컵경기장 → 난지한강공원 순으로 이어지는 서울특별시 마포구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "연남동",
+        "홍대입구",
+        "망원한강공원",
+        "서울월드컵경기장",
+        "난지한강공원"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "마포 자연 힐링 스카이 워크",
+      "description": "난지한강공원 → 망원한강공원 → 홍대입구 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 마포의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "난지한강공원",
+        "망원한강공원",
+        "홍대입구"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "마포 도심 하이라이트 스카이 투어",
+      "description": "연남동 → 서울월드컵경기장 → 난지한강공원 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 마포의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "연남동",
+        "서울월드컵경기장",
+        "난지한강공원"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "서교동 닭발골목",
+      "lat": 37.5564,
+      "lng": 126.9236,
+      "specialty": "우니무침닭발",
+      "category": "향토음식"
+    },
+    {
+      "name": "홍대 씨앗호떡",
+      "lat": 37.557,
+      "lng": 126.925,
+      "specialty": "씨앗호떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "망원시장 할매순대",
+      "lat": 37.556,
+      "lng": 126.91,
+      "specialty": "찹쌀순대",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "홍대입구",
+        "station_name": "홍대입구역",
+        "line": "서울 2호선·공항철도",
+        "exit_no": 8,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.557,
+          126.9238
+        ]
+      },
+      {
+        "target_landmark": "서울월드컵경기장",
+        "station_name": "망원역",
+        "line": "서울 6호선",
+        "exit_no": 8,
+        "walk_minutes": 25,
+        "coordinates": [
+          37.5567,
+          126.9102
+        ]
+      },
+      {
+        "target_landmark": "망원한강공원",
+        "station_name": "합정역",
+        "line": "서울 2·6호선",
+        "exit_no": 6,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5495,
+          126.913
+        ]
+      },
+      {
+        "target_landmark": "연남동",
+        "station_name": "홍대입구역",
+        "line": "서울 2호선·공항철도",
+        "exit_no": 8,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.557,
+          126.9238
+        ]
+      },
+      {
+        "target_landmark": "난지한강공원",
+        "station_name": "망원역",
+        "line": "서울 6호선",
+        "exit_no": 8,
+        "walk_minutes": 45,
+        "coordinates": [
+          37.5567,
+          126.9102
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "마포 중앙 공영주차장",
+        "coordinates": [
+          37.569102,
+          126.898048
+        ],
+        "capacity": 191,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "마포 제2 공영주차장",
+        "coordinates": [
+          37.56378,
+          126.91996
+        ],
+        "capacity": 565,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "마포초등학교 운동장",
+        "coordinates": [
+          37.549899,
+          126.909449
+        ],
+        "capacity": 1800,
+        "address": "서울특별시 마포구"
+      },
+      {
+        "name": "마포실내체육관",
+        "coordinates": [
+          37.560823,
+          126.899512
+        ],
+        "capacity": 1900,
+        "address": "서울특별시 마포구"
+      },
+      {
+        "name": "마포중앙공원 비상집합장소",
+        "coordinates": [
+          37.558062,
+          126.914552
+        ],
+        "capacity": 3500,
+        "address": "서울특별시 마포구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "홍대입구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서울월드컵경기장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "망원한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "연남동",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "난지한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "망원한강공원 벚꽃길",
+        "연남동 봄 골목"
+      ],
+      "summer": [
+        "난지한강공원 물놀이장",
+        "망원한강공원 여름밤"
+      ],
+      "autumn": [
+        "망원한강공원 억새",
+        "홍대입구 가을 거리"
+      ],
+      "winter": [
+        "홍대입구 겨울 거리",
+        "난지한강공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "망원한강공원 야경",
+        "coordinates": [
+          37.550193,
+          126.902161
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "홍대입구 야경",
+        "coordinates": [
+          37.556676,
+          126.923464
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "마포구는 홍대와 서교동, 서울월드컵경기장이 자리한 대표 청년 문화 자치구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Mapo-gu, Seoul",
+      "landmarks": {
+        "홍대입구": [
+          "Hongdae Area",
+          "Epicenter of Korean indie music and youth culture."
+        ],
+        "서울월드컵경기장": [
+          "Seoul World Cup Stadium",
+          "Large football-only stadium built for the 2002 FIFA World Cup."
+        ],
+        "망원한강공원": [
+          "Mangwon Hangang Park",
+          "Popular riverside park on the Mangwon waterfront."
+        ],
+        "연남동": [
+          "Yeonnam-dong",
+          "Cafe and restaurant street adjacent to Hongdae."
+        ],
+        "난지한강공원": [
+          "Nanji Hangang Park",
+          "Large riverside park next to the World Cup Park."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 麻浦区",
+      "landmarks": {
+        "홍대입구": [
+          "弘大入口",
+          "韓国のインディ音楽と若者文化の中心地。"
+        ],
+        "서울월드컵경기장": [
+          "ソウルワールドカップ競技場",
+          "2002年W杯のために造られたサッカー専用スタジアム。"
+        ],
+        "망원한강공원": [
+          "望遠漢江公園",
+          "望遠洞の水辺に広がる漢江公園。"
+        ],
+        "연남동": [
+          "延南洞",
+          "弘大近くのカフェやレストラン街。"
+        ],
+        "난지한강공원": [
+          "蘭芝漢江公園",
+          "ワールドカップ公園に隣接する漢江沿いの大型公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 麻浦区",
+      "landmarks": {
+        "홍대입구": [
+          "弘益大学商圈",
+          "韩国独立音乐与青年文化的中心地带。"
+        ],
+        "서울월드컵경기장": [
+          "首尔世界杯体育场",
+          "为2002年世界杯而建的足球专用大型体育场。"
+        ],
+        "망원한강공원": [
+          "望远汉江公园",
+          "望远洞江畔的代表性汉江公园。"
+        ],
+        "연남동": [
+          "延南洞",
+          "弘大旁的咖啡馆与餐厅聚集街区。"
+        ],
+        "난지한강공원": [
+          "兰芝汉江公园",
+          "世界杯公园旁的汉江滨大型公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.mapo.go.kr",
+    "civil_service_center": {
+      "location_name": "마포구청 민원실 앞",
+      "coordinates": [
+        126.901491,
+        37.566325
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-3153-8114",
+      "info": "서울특별시 마포구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "마포구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.908562,
+      37.562503
+    ],
+    "cctv_zone_count": 266,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "월드컵공원",
+    "trail_length_km": 3.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "마포나루축제",
+    "typical_month": 10,
+    "venue_name": "마포나무꽃공원 일대",
+    "venue_coords": [
+      126.908262,
+      37.562203
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "마포구민체육관",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      126.901791,
+      37.566825
+    ],
+    "reservation_url": "https://www.mapo.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "마포구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.904491,
+      37.565025
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "마포구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.903191,
+      37.569325
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "서교동 닭발골목",
+    "coordinates": [
+      126.9236,
+      37.5564
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "우니무침닭발 (마포구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=마포구청&goalx=126.901491&goaly=37.566325",
+    "kakaonavi_url": "kakaonavi://navigate?name=마포구청&x=126.901491&y=37.566325&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=마포구청&dlng=126.901491&dlat=37.566325&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:57",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "마포구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.908262,
+          37.563403
+        ],
+        [
+          126.908562,
+          37.562503
+        ],
+        [
+          126.907712,
+          37.563703
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "홍대 걷고싶은거리 어울마당로",
+    "anchor_center": [
+      126.900824,
+      37.567658
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 280,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
