@@ -137,6 +137,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "신지도",
+        "station_name": "신지도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.329178,
+          126.823353
+        ]
+      },
+      {
+        "target_landmark": "보길도",
+        "station_name": "보길도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.152305,
+          126.541035
+        ]
+      },
+      {
+        "target_landmark": "소안도",
+        "station_name": "완도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.155037,
+          126.654134
+        ]
+      },
+      {
+        "target_landmark": "청산도",
+        "station_name": "청산도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.183827,
+          126.878343
+        ]
+      },
+      {
+        "target_landmark": "금등해수욕장",
+        "station_name": "금등해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.3334,
+          126.6972
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "완도 중앙 공영주차장",
+        "coordinates": [
+          34.154637,
+          126.651734
+        ],
+        "capacity": 327,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "완도 제2 공영주차장",
+        "coordinates": [
+          34.181827,
+          126.880743
+        ],
+        "capacity": 282,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "완도 제3 공영주차장",
+        "coordinates": [
+          34.327579,
+          126.824953
+        ],
+        "capacity": 91,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "완도군은 청해진 장보고의 옛 항구였던 완도를 중심으로 한 남해안 최대 섬 군으로 신지도·보길도·소안도 등 아름다운 섬 관광 자원이 풍부하다.",
   "data_sources": [
     {
