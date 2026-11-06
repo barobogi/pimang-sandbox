@@ -432,10 +432,11 @@
     "civil_service_center": {
       "location_name": "부안군청 민원실 앞",
       "coordinates": [
-        126.320661,
-        35.632686
+        126.733267,
+        35.731834
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "063-580-4191",
