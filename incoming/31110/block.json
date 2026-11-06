@@ -1,0 +1,572 @@
+{
+  "block_code": "31110",
+  "block_name": "울산광역시 중구",
+  "bbox": [
+    129.25296,
+    35.544894,
+    129.353725,
+    35.598834
+  ],
+  "center": [
+    35.571864,
+    129.303342
+  ],
+  "landmarks": [
+    {
+      "name": "학성공원",
+      "lat": 35.5563123,
+      "lng": 129.3382237,
+      "category": "공원/역사",
+      "description": "울산의 진산 학성 자락의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 298.7
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ulsan_Castles.jpg"
+    },
+    {
+      "name": "울산 병영성",
+      "lat": 35.5766575,
+      "lng": 129.3433809,
+      "category": "성곽/문화유산",
+      "description": "조선 시대 경상좌도 병영성 터로 한글마을 조성이 진행 중이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AC_%28%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 261.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%EC%9A%B8%EC%82%B0_%EA%B2%BD%EC%83%81%EC%A2%8C%EB%8F%84%EB%B3%91%EC%98%81%EC%84%B1_%28%EB%B0%9C%EA%B5%B4%EC%A1%B0%EC%82%AC%EC%A0%84%EC%83%81%ED%83%9C%2C_%EB%8F%99%EB%AC%B8%EC%A7%80%EC%A3%BC%EB%B3%80%29.jpg"
+    },
+    {
+      "name": "울산박물관",
+      "lat": 35.556,
+      "lng": 129.337,
+      "category": "박물관/문화",
+      "description": "울산의 역사와 문화를 전시하는 대표 박물관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%82%B0%EB%B0%95%EB%AC%BC%EA%B4%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 300.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ulsan_Petroglyph_Museum2.JPG/1280px-Ulsan_Petroglyph_Museum2.JPG"
+    },
+    {
+      "name": "태화강",
+      "lat": 35.5520381,
+      "lng": 129.3223219,
+      "category": "하천/자연",
+      "description": "울산을 관통하는 대표 강으로 수변 공원과 걷기길이 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%83%9C%ED%99%94%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 322.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Taehwa_River.jpg/1280px-Taehwa_River.jpg"
+    },
+    {
+      "name": "최현배 생가",
+      "lat": 35.553,
+      "lng": 129.339,
+      "category": "역사/기념",
+      "description": "한글학자 외솔 최현배 선생의 생가로 외솔탐방길이 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%98%84%EB%B0%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 303.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/%EC%99%B8%EC%86%94%EC%B5%9C%ED%98%84%EB%B0%B0%EC%84%A0%EC%83%9D%EC%83%9D%EA%B0%80%ED%84%B0.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "중구 역사·문화 시그니처 스카이 트레일",
+      "description": "태화강 → 울산박물관 → 학성공원 → 최현배 생가 → 울산 병영성 순으로 이어지는 울산광역시 중구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "태화강",
+        "울산박물관",
+        "학성공원",
+        "최현배 생가",
+        "울산 병영성"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "중구 역사문화 스카이 트레일",
+      "description": "울산 병영성 → 울산박물관 → 최현배 생가 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 중구의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "울산 병영성",
+        "울산박물관",
+        "최현배 생가"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "중구 자연 힐링 스카이 워크",
+      "description": "학성공원 → 울산박물관 → 태화강 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 중구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "학성공원",
+        "울산박물관",
+        "태화강"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "태화강 본점",
+      "lat": 35.551478,
+      "lng": 129.322812,
+      "specialty": "고래고기구이",
+      "category": "수산물"
+    },
+    {
+      "name": "울산박물관 가마솥밥가",
+      "lat": 35.55593,
+      "lng": 129.33658,
+      "specialty": "고래회무침",
+      "category": "수산물"
+    },
+    {
+      "name": "학성공원 솥뚜껑가게",
+      "lat": 35.556942,
+      "lng": 129.338014,
+      "specialty": "왕새우탕",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "학성공원",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 19,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "울산 병영성",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 44,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "울산박물관",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 17,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "태화강",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      },
+      {
+        "target_landmark": "최현배 생가",
+        "station_name": "중구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 20,
+        "coordinates": [
+          35.554038,
+          129.323922
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "중구 중앙 공영주차장",
+        "coordinates": [
+          35.552038,
+          129.323122
+        ],
+        "capacity": 177,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "중구 제2 공영주차장",
+        "coordinates": [
+          35.5548,
+          129.3354
+        ],
+        "capacity": 255,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.549573,
+          129.351131
+        ],
+        "capacity": 2400,
+        "address": "울산광역시 중구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.579203,
+          129.329497
+        ],
+        "capacity": 2600,
+        "address": "울산광역시 중구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "학성공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "울산 병영성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "울산박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "태화강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "최현배 생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "학성공원 봄꽃",
+        "태화강 벚꽃"
+      ],
+      "summer": [
+        "태화강 여름",
+        "학성공원 여름"
+      ],
+      "autumn": [
+        "태화강 억새",
+        "울산병영성 가을"
+      ],
+      "winter": [
+        "태화강 겨울 철새",
+        "학성공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "태화강 야경",
+        "coordinates": [
+          35.552038,
+          129.322322
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "학성공원 야경",
+        "coordinates": [
+          35.556312,
+          129.338224
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "울산 중구는 울산의 원도심으로 병영성과 학성공원, 울산박물관이 자리한 울산 중심 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Ulsan",
+      "landmarks": {
+        "학성공원": [
+          "Hakseong Park",
+          "Signature park at the foot of Hakseong, Ulsan's home mountain."
+        ],
+        "울산 병영성": [
+          "Ulsan Byeongyeongseong Fortress",
+          "Site of the Joseon-era Gyeongsang Left Province military fortress, being turned into a Hangul village."
+        ],
+        "울산박물관": [
+          "Ulsan Museum",
+          "Signature museum exhibiting Ulsan's history and culture."
+        ],
+        "태화강": [
+          "Taehwa River",
+          "Representative river through Ulsan with waterfront parks and walking paths."
+        ],
+        "최현배 생가": [
+          "Choi Hyeon-bae's Birthplace",
+          "Birth home of the Hangul scholar Oesol Choi Hyeon-bae, with the Oesol trail."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "蔚山広域市 中区",
+      "landmarks": {
+        "학성공원": [
+          "鶴城公園",
+          "蔚山の鎮山・鶴城のふもとにある代表的な公園。"
+        ],
+        "울산 병영성": [
+          "蔚山兵営城",
+          "朝鮮時代の慶尚左道兵営城跡。ハングル村の造成が進む。"
+        ],
+        "울산박물관": [
+          "蔚山博物館",
+          "蔚山の歴史と文化を展示する代表的な博物館。"
+        ],
+        "태화강": [
+          "太和江",
+          "蔚山を貫く代表的な川。水辺公園と散策路が整備されている。"
+        ],
+        "최현배 생가": [
+          "崔鉉培生家",
+          "ハングル学者・外ソル崔鉉培先生の生家。外ソル探訪路が整備されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "蔚山广域市 中区",
+      "landmarks": {
+        "학성공원": [
+          "鹤城公园",
+          "蔚山主山鹤城山麓的代表性公园。"
+        ],
+        "울산 병영성": [
+          "蔚山兵营城",
+          "朝鲜时代庆尚左道兵营城址，正建设韩文村。"
+        ],
+        "울산박물관": [
+          "蔚山博物馆",
+          "展示蔚山历史文化的代表性博物馆。"
+        ],
+        "태화강": [
+          "太和江",
+          "纵贯蔚山的代表性河流，建有滨水公园和步道。"
+        ],
+        "최현배 생가": [
+          "崔铉培故居",
+          "韩文学者外索崔铉培先生的故居，建有外索探访路。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.junggu.ulsan.kr",
+    "civil_service_center": {
+      "location_name": "중구청 민원실 앞",
+      "coordinates": [
+        129.332482,
+        35.569278
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "052-290-3000",
+      "info": "울산광역시 중구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "중구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      129.303142,
+      35.571664
+    ],
+    "cctv_zone_count": 387,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "학성공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "울산 정월대보름축제",
+    "typical_month": 2,
+    "venue_name": "태화강 국가정원 일대",
+    "venue_coords": [
+      129.303242,
+      35.572464
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "중구민체육관",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      129.333182,
+      35.568178
+    ],
+    "reservation_url": "https://www.junggu.ulsan.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "중구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      129.335082,
+      35.568978
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "중구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.332482,
+      35.569378
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "태화강 본점",
+    "coordinates": [
+      129.322812,
+      35.551478
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "고래고기구이 (중구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=중구청&goalx=129.332482&goaly=35.569278",
+    "kakaonavi_url": "kakaonavi://navigate?name=중구청&x=129.332482&y=35.569278&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=중구청&dlng=129.332482&dlat=35.569278&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:26",
+      "sunset": "18:34",
+      "noon_altitude_deg": 54.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:07",
+      "sunset": "19:41",
+      "noon_altitude_deg": 77.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:11",
+      "sunset": "18:19",
+      "noon_altitude_deg": 54.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:29",
+      "sunset": "17:14",
+      "noon_altitude_deg": 31.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "중구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          129.303342,
+          35.571564
+        ],
+        [
+          129.303142,
+          35.571664
+        ],
+        [
+          129.303892,
+          35.573014
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "울산 중구 성남동 젊음의거리",
+    "anchor_center": [
+      129.332482,
+      35.569945
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 150,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
