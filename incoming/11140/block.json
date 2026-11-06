@@ -227,6 +227,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          37.559232,
+          126.988741
+        ],
+        "capacity": 4600,
+        "address": "서울특별시 중구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          37.549619,
+          126.992216
+        ],
+        "capacity": 4700,
+        "address": "서울특별시 중구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          37.564276,
+          126.969048
+        ],
+        "capacity": 2200,
+        "address": "서울특별시 중구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "명동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "N서울타워",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕수궁",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "명동성당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동대문시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "서울 중구는 명동과 동대문, 남산이 함께한 서울의 원도심 상업 관광 중심지로 개항기 이후 근대 문화유산도 풍부하다.",
   "data_sources": [
     {
