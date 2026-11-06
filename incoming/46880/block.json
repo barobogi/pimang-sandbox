@@ -1,0 +1,562 @@
+{
+  "block_code": "46880",
+  "block_name": "전라남도 장성군",
+  "bbox": [
+    126.583317,
+    35.190945,
+    126.926122,
+    35.486914
+  ],
+  "center": [
+    35.338929,
+    126.754719
+  ],
+  "landmarks": [
+    {
+      "name": "축령산",
+      "lat": 35.3675208,
+      "lng": 126.7279148,
+      "category": "산/편백숲",
+      "description": "축령산은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%95%EB%A0%B9%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 142.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%EB%82%A8%EC%9D%B4%EB%B0%94%EC%9C%84_%EC%B6%95%EB%A0%B9%EC%82%B0.jpg/1280px-%EB%82%A8%EC%9D%B4%EB%B0%94%EC%9C%84_%EC%B6%95%EB%A0%B9%EC%82%B0.jpg"
+    },
+    {
+      "name": "백양사",
+      "lat": 35.4317191,
+      "lng": 126.80776,
+      "category": "사찰/문화유산",
+      "description": "백양사은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%96%91%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 205.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Baekyangsa.JPG/1280px-Baekyangsa.JPG"
+    },
+    {
+      "name": "홍길동생가",
+      "lat": 35.3200482,
+      "lng": 126.7267919,
+      "category": "유적/역사",
+      "description": "홍길동생가은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 50.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jangseong-gun_office.JPG/1280px-Jangseong-gun_office.JPG"
+    },
+    {
+      "name": "장성군청",
+      "lat": 35.3019292,
+      "lng": 126.7847845,
+      "category": "행정/랜드마크",
+      "description": "장성군청은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 326.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jangseong-gun_office.JPG/1280px-Jangseong-gun_office.JPG"
+    },
+    {
+      "name": "장성시장",
+      "lat": 35.2805933,
+      "lng": 126.7618305,
+      "category": "시장/먹거리",
+      "description": "장성시장은(는) 전라남도 장성군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%84%B1%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 354.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2025-11-01_12.07.48_taebaek.jpg/1280px-2025-11-01_12.07.48_taebaek.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "장성 역사·문화 시그니처 스카이 트레일",
+      "description": "홍길동생가 → 축령산 → 장성군청 → 장성시장 → 백양사 순으로 이어지는 전라남도 장성군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "홍길동생가",
+        "축령산",
+        "장성군청",
+        "장성시장",
+        "백양사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "장성 역사문화 스카이 트레일",
+      "description": "백양사 → 홍길동생가 → 장성군청 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 장성의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "백양사",
+        "홍길동생가",
+        "장성군청"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "장성 동네밥집",
+      "lat": 35.279893,
+      "lng": 126.761761,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "장성 할매집",
+      "lat": 35.280313,
+      "lng": 126.76218,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "장성 골목식당",
+      "lat": 35.280873,
+      "lng": 126.762461,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "축령산",
+        "station_name": "축령산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.369521,
+          126.727115
+        ]
+      },
+      {
+        "target_landmark": "백양사",
+        "station_name": "백양사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.433719,
+          126.80696
+        ]
+      },
+      {
+        "target_landmark": "홍길동생가",
+        "station_name": "장성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.321648,
+          126.727592
+        ]
+      },
+      {
+        "target_landmark": "장성군청",
+        "station_name": "장성군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.303929,
+          126.783985
+        ]
+      },
+      {
+        "target_landmark": "장성시장",
+        "station_name": "장성시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.282593,
+          126.761031
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "장성 중앙 공영주차장",
+        "coordinates": [
+          35.317648,
+          126.728792
+        ],
+        "capacity": 83,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "장성 제2 공영주차장",
+        "coordinates": [
+          35.365521,
+          126.729515
+        ],
+        "capacity": 112,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "장성초등학교 운동장",
+        "coordinates": [
+          35.354576,
+          126.684357
+        ],
+        "capacity": 6800,
+        "address": "전라남도 장성군"
+      },
+      {
+        "name": "장성실내체육관",
+        "coordinates": [
+          35.399502,
+          126.827649
+        ],
+        "capacity": 5400,
+        "address": "전라남도 장성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "축령산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "백양사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "홍길동생가",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장성군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장성시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "축령산 봄 편백숲",
+        "백양사 봄"
+      ],
+      "summer": [
+        "축령산 여름 편백숲",
+        "백양사 계곡 여름"
+      ],
+      "autumn": [
+        "백양사 단풍",
+        "축령산 가을"
+      ],
+      "winter": [
+        "축령산 설경",
+        "백양사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "축령산 야경",
+        "coordinates": [
+          35.367521,
+          126.727915
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "백양사 야경",
+        "coordinates": [
+          35.431719,
+          126.80776
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "장성군은 축령산 편백숲과 백양사, 홍길동 생가가 자리한 전남 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jangseong-gun, Jeonnam",
+      "landmarks": {
+        "축령산": [
+          "Chukryeongsan Mountain",
+          "Signature cypress forest mountain of Jangseong-gun, Jeonnam."
+        ],
+        "백양사": [
+          "Baekyangsa Temple",
+          "Signature temple heritage of Jangseong-gun, Jeonnam."
+        ],
+        "홍길동생가": [
+          "Hong Gil-dong's Birthplace",
+          "Signature historic site of Jangseong-gun, Jeonnam."
+        ],
+        "장성군청": [
+          "Jangseong County Office",
+          "Administrative center of Jangseong-gun, Jeonnam."
+        ],
+        "장성시장": [
+          "Jangseong Market",
+          "Signature market attraction of Jangseong-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 長城郡",
+      "landmarks": {
+        "축령산": [
+          "竹嶺山",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "백양사": [
+          "白羊寺",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "홍길동생가": [
+          "洪吉童生家",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "장성군청": [
+          "長城郡庁",
+          "全羅南道長城郡を代表する名所。"
+        ],
+        "장성시장": [
+          "長城市場",
+          "全羅南道長城郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 长城郡",
+      "landmarks": {
+        "축령산": [
+          "竹岭山",
+          "全罗南道长城郡的代表性杉木林名山。"
+        ],
+        "백양사": [
+          "白羊寺",
+          "全罗南道长城郡的代表性古刹。"
+        ],
+        "홍길동생가": [
+          "洪吉童故居",
+          "全罗南道长城郡的代表性历史遗迹。"
+        ],
+        "장성군청": [
+          "长城郡厅",
+          "全罗南道长城郡的行政中心。"
+        ],
+        "장성시장": [
+          "长城市场",
+          "全罗南道长城郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jangseong.go.kr",
+    "civil_service_center": {
+      "location_name": "장성군청 민원실 앞",
+      "coordinates": [
+        126.784785,
+        35.301929
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-393-1989",
+      "info": "전라남도 장성군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "장성군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.754519,
+      35.338829
+    ],
+    "cctv_zone_count": 503,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "장성군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "장성 홍길동축제",
+    "typical_month": 5,
+    "venue_name": "장성군민운동장",
+    "venue_coords": [
+      126.755019,
+      35.339129
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "장성군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.785085,
+      35.304729
+    ],
+    "reservation_url": "https://www.jangseong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "장성군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.782885,
+      35.301629
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "장성군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.786885,
+      35.301429
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "장성 동네밥집",
+    "coordinates": [
+      126.761761,
+      35.279893
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "홍어회 (장성군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=장성군청&goalx=126.784785&goaly=35.301929",
+    "kakaonavi_url": "kakaonavi://navigate?name=장성군청&x=126.784785&y=35.301929&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=장성군청&dlng=126.784785&dlat=35.301929&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:45",
+      "noon_altitude_deg": 54.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:18",
+      "sunset": "19:51",
+      "noon_altitude_deg": 78.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:30",
+      "noon_altitude_deg": 54.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:38",
+      "sunset": "17:25",
+      "noon_altitude_deg": 31.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "장성군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.753419,
+          35.338479
+        ],
+        [
+          126.754519,
+          35.338829
+        ],
+        [
+          126.756019,
+          35.337829
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "장성군 전통시장 만남의거리",
+    "anchor_center": [
+      126.784518,
+      35.303329
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 80,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
