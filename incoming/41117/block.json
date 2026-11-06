@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongtong-gu, Suwon",
+      "landmarks": {
+        "광교호수공원": [
+          "Gwanggyo Lake Park",
+          "Signature lakeside park at the heart of Gwanggyo New City."
+        ],
+        "매탄동 상권": [
+          "Maetan-dong District",
+          "Commercial hub of Yeongtong-gu in Maetan-dong."
+        ],
+        "삼성전자 수원기지": [
+          "Samsung Electronics Suwon HQ",
+          "Korea's largest semiconductor production base."
+        ],
+        "영통동 상권": [
+          "Yeongtong-dong District",
+          "Signature commercial district in Yeongtong-dong."
+        ],
+        "광교중앙역 상권": [
+          "Gwanggyo Jungang Station District",
+          "New town commercial hub centered on Gwanggyo Jungang Station."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 霊通区",
+      "landmarks": {
+        "광교호수공원": [
+          "光教湖公園",
+          "光教新都市の中央にある代表的な湖畔公園。"
+        ],
+        "매탄동 상권": [
+          "梅灘洞商圏",
+          "梅灘洞に形成された霊通区を代表する商圏。"
+        ],
+        "삼성전자 수원기지": [
+          "サムスン電子水原基地",
+          "国内最大の半導体生産基地。"
+        ],
+        "영통동 상권": [
+          "霊通洞商圏",
+          "霊通洞に形成された代表的な商圏。"
+        ],
+        "광교중앙역 상권": [
+          "光教中央駅商圏",
+          "光教中央駅を中心とする新都市商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 灵通区",
+      "landmarks": {
+        "광교호수공원": [
+          "光教湖公园",
+          "光教新城中央的代表性湖畔公园。"
+        ],
+        "매탄동 상권": [
+          "梅滩洞商圈",
+          "梅滩洞形成的灵通区代表性商圈。"
+        ],
+        "삼성전자 수원기지": [
+          "三星电子水原基地",
+          "韩国最大的半导体生产基地。"
+        ],
+        "영통동 상권": [
+          "灵通洞商圈",
+          "灵通洞形成的代表性商圈。"
+        ],
+        "광교중앙역 상권": [
+          "光教中央站商圈",
+          "以光教中央站为中心的新城商圈。"
+        ]
+      }
+    }
   }
 }
