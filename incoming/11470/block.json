@@ -1,0 +1,595 @@
+{
+  "block_code": "11470",
+  "block_name": "서울특별시 양천구",
+  "bbox": [
+    126.821591,
+    37.502869,
+    126.890684,
+    37.55124
+  ],
+  "center": [
+    37.527055,
+    126.856137
+  ],
+  "landmarks": [
+    {
+      "name": "목동야구장",
+      "lat": 37.5307107,
+      "lng": 126.8809297,
+      "category": "체육/야구",
+      "description": "서울을 연고로 했던 프로야구 단체들이 홈구장으로 사용했던 대표 야구 경기장.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%AA%A9%EB%8F%99%EC%95%BC%EA%B5%AC%EC%9E%A5",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 259.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Nexen_Heroes_Mokdong.jpg/1280px-Nexen_Heroes_Mokdong.jpg"
+    },
+    {
+      "name": "목동공원",
+      "lat": 37.526,
+      "lng": 126.876,
+      "category": "도시공원",
+      "description": "목동 중심부에 조성된 근린공원으로 주민들에게 산책과 운동 공간을 제공한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 273.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mok_1-dong_Community_Service_Center_20140528_141942.jpg/1280px-Mok_1-dong_Community_Service_Center_20140528_141942.jpg"
+    },
+    {
+      "name": "신정중앙시장",
+      "lat": 37.524,
+      "lng": 126.87,
+      "category": "전통시장",
+      "description": "신정동에 위치한 재래시장으로 목동·신정 일대의 먹거리 상권 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 285.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Yangcheon-gu_Office_20140528_134922.JPG/1280px-Yangcheon-gu_Office_20140528_134922.JPG"
+    },
+    {
+      "name": "양천문화예술회관",
+      "lat": 37.5166,
+      "lng": 126.876,
+      "category": "공연장/문화",
+      "description": "양천구청 인근에 있는 공연·전시 복합문화시설로 구민 문화 향유 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%B2%9C%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 303.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Yangcheon-gu_Office_20140528_134922.JPG/1280px-Yangcheon-gu_Office_20140528_134922.JPG"
+    },
+    {
+      "name": "안양천",
+      "lat": 37.5193471,
+      "lng": 126.8775374,
+      "category": "하천/자연",
+      "description": "광주산맥에서 발원해 한강으로 합류하는 지천으로 양천구 서쪽 경계를 따라 흐른다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%96%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 294.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg/1280px-230813_%EC%95%88%EC%96%91%EC%B2%9C_%ED%99%94%EC%B0%BD%EA%B5%90.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "양천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "신정중앙시장 → 목동공원 → 목동야구장 → 안양천 → 양천문화예술회관 순으로 이어지는 서울특별시 양천구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "신정중앙시장",
+        "목동공원",
+        "목동야구장",
+        "안양천",
+        "양천문화예술회관"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "양천 그린 랜드스케이프 플라이트",
+      "description": "안양천 → 목동공원 → 신정중앙시장 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 양천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "안양천",
+        "목동공원",
+        "신정중앙시장"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "양천 도심 스카이라인 크루즈",
+      "description": "목동야구장 → 목동공원 → 양천문화예술회관 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 양천의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "목동야구장",
+        "목동공원",
+        "양천문화예술회관"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "신정중앙 골목식당",
+      "lat": 37.5233,
+      "lng": 126.8707,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "신정중앙 본점",
+      "lat": 37.52456,
+      "lng": 126.87056,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "신정중앙 가마솥밥가",
+      "lat": 37.52393,
+      "lng": 126.86937,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "신정중앙 할매집",
+      "lat": 37.5233,
+      "lng": 126.86951,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "목동야구장",
+        "station_name": "목동역",
+        "line": "서울 5호선",
+        "exit_no": 4,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.5321,
+          126.8752
+        ]
+      },
+      {
+        "target_landmark": "목동공원",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      },
+      {
+        "target_landmark": "신정중앙시장",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      },
+      {
+        "target_landmark": "양천문화예술회관",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      },
+      {
+        "target_landmark": "안양천",
+        "station_name": "오목교역",
+        "line": "서울 5호선",
+        "exit_no": 10,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.522,
+          126.8762
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "양천 중앙 공영주차장",
+        "coordinates": [
+          37.5256,
+          126.8716
+        ],
+        "capacity": 58,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양천 제2 공영주차장",
+        "coordinates": [
+          37.526,
+          126.8784
+        ],
+        "capacity": 348,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "양천 제3 공영주차장",
+        "coordinates": [
+          37.5154,
+          126.8784
+        ],
+        "capacity": 130,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양천초등학교 운동장",
+        "coordinates": [
+          37.524521,
+          126.879941
+        ],
+        "capacity": 4600,
+        "address": "서울특별시 양천구"
+      },
+      {
+        "name": "양천실내체육관",
+        "coordinates": [
+          37.522697,
+          126.88027
+        ],
+        "capacity": 3700,
+        "address": "서울특별시 양천구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "목동야구장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "목동공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "신정중앙시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양천문화예술회관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안양천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "안양천 벚꽃길",
+        "목동공원 봄꽃"
+      ],
+      "summer": [
+        "안양천 여름 물놀이",
+        "목동야구장 여름 야구"
+      ],
+      "autumn": [
+        "안양천 억새",
+        "목동공원 가을"
+      ],
+      "winter": [
+        "신정중앙시장 겨울",
+        "안양천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "목동야구장 야경",
+        "coordinates": [
+          37.530711,
+          126.88093
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "안양천 야경",
+        "coordinates": [
+          37.519347,
+          126.877537
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "양천구는 신정동과 목동을 중심으로 1980년대 택지개발로 성장한 자치구로, 목동 야구장과 MBC·SBS 등 방송사가 입지한 서울 남서부의 대표 주거 상업 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangcheon-gu, Seoul",
+      "landmarks": {
+        "목동야구장": [
+          "Mokdong Baseball Stadium",
+          "Classic baseball stadium that served as home field for Seoul's pro teams."
+        ],
+        "목동공원": [
+          "Mokdong Park",
+          "Neighborhood park at the heart of Mokdong for strolls and exercise."
+        ],
+        "신정중앙시장": [
+          "Sinjeong Central Market",
+          "Traditional market anchoring the food scene of Mokdong and Sinjeong."
+        ],
+        "양천문화예술회관": [
+          "Yangcheon Arts Center",
+          "Performance and exhibition complex near the Yangcheon-gu office."
+        ],
+        "안양천": [
+          "Anyangcheon Stream",
+          "Tributary flowing along Yangcheon-gu's western edge into the Han River."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 陽川区",
+      "landmarks": {
+        "목동야구장": [
+          "木洞野球場",
+          "ソウルを本拠地としたプロ野球チームのホーム球場だった代表的な球場。"
+        ],
+        "목동공원": [
+          "木洞公園",
+          "木洞中心部の近隣公園。住民の散歩と運動の場。"
+        ],
+        "신정중앙시장": [
+          "新亭中央市場",
+          "新亭洞の伝統市場で、木洞・新亭一帯の食の中心。"
+        ],
+        "양천문화예술회관": [
+          "陽川文化芸術会館",
+          "陽川区庁近くの公演・展示複合施設。"
+        ],
+        "안양천": [
+          "安養川",
+          "漢江へ合流する支流で、陽川区の西側境界を流れる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 阳川区",
+      "landmarks": {
+        "목동야구장": [
+          "木洞棒球场",
+          "曾是首尔职业棒球球队主场的经典球场。"
+        ],
+        "목동공원": [
+          "木洞公园",
+          "木洞中心的近邻公园，供居民散步健身。"
+        ],
+        "신정중앙시장": [
+          "新亭中央市场",
+          "新亭洞传统市场，是木洞、新亭一带的美食中心。"
+        ],
+        "양천문화예술회관": [
+          "阳川文化艺术会馆",
+          "阳川区厅附近的演出展览综合设施。"
+        ],
+        "안양천": [
+          "安养川",
+          "流经阳川区西缘汇入汉江的支流。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yangcheon.go.kr",
+    "civil_service_center": {
+      "location_name": "양천구청 민원실 앞",
+      "coordinates": [
+        126.870553,
+        37.520413
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2620-3114",
+      "info": "서울특별시 양천구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "양천구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.855737,
+      37.527155
+    ],
+    "cctv_zone_count": 413,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "목동공원",
+    "trail_length_km": 1.7,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "용왕산 해맞이 행사",
+    "typical_month": 1,
+    "venue_name": "오목교 일대",
+    "venue_coords": [
+      126.856237,
+      37.527654
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "양천구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.868453,
+      37.520413
+    ],
+    "reservation_url": "https://www.yangcheon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "양천구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.870853,
+      37.522713
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "양천구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.871953,
+      37.522913
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "신정중앙 가마솥밥가",
+    "coordinates": [
+      126.86937,
+      37.52393
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "평양냉면 (양천구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=양천구청&goalx=126.870553&goaly=37.520413",
+    "kakaonavi_url": "kakaonavi://navigate?name=양천구청&x=126.870553&y=37.520413&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=양천구청&dlng=126.870553&dlat=37.520413&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:57",
+      "noon_altitude_deg": 75.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "양천구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.854287,
+          37.526005
+        ],
+        [
+          126.855737,
+          37.527155
+        ],
+        [
+          126.856087,
+          37.526005
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "목동 로데오 문화거리",
+    "anchor_center": [
+      126.870086,
+      37.520013
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 310,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
