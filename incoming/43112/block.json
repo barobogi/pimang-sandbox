@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "무심천",
+        "station_name": "무심천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.645162,
+          127.48421
+        ]
+      },
+      {
+        "target_landmark": "서원대학교",
+        "station_name": "서원대학교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.625916,
+          127.483457
+        ]
+      },
+      {
+        "target_landmark": "청주고인쇄박물관",
+        "station_name": "서원버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.548137,
+          127.435645
+        ]
+      },
+      {
+        "target_landmark": "서원구청",
+        "station_name": "서원구청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.638862,
+          127.471897
+        ]
+      },
+      {
+        "target_landmark": "청주시립미술관",
+        "station_name": "청주시립미술관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.635901,
+          127.480336
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서원 중앙 공영주차장",
+        "coordinates": [
+          36.549737,
+          127.433245
+        ],
+        "capacity": 202,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서원 제2 공영주차장",
+        "coordinates": [
+          36.625516,
+          127.479857
+        ],
+        "capacity": 172,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "청주 서원구는 청주 동남부의 구로 청주대교와 무심천, 서원대학교가 자리한 주거 교육 지역이다.",
   "data_sources": [
     {
