@@ -362,5 +362,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwangmyeong-si, Gyeonggi",
+      "landmarks": {
+        "광명동굴": [
+          "Gwangmyeong Cave",
+          "Signature cave attraction reborn from an abandoned mine as a theme destination."
+        ],
+        "광명사거리 상권": [
+          "Gwangmyeong Sageori District",
+          "Signature commercial hub of Gwangmyeong."
+        ],
+        "철산동 상권": [
+          "Cheolsan-dong District",
+          "Everyday commercial hub in Cheolsan-dong."
+        ],
+        "오리공원": [
+          "Ori Park",
+          "Signature neighborhood park of Gwangmyeong."
+        ],
+        "하안근린공원": [
+          "Haan Neighborhood Park",
+          "Neighborhood park across the Haan-dong area."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 光明市",
+      "landmarks": {
+        "광명동굴": [
+          "光明洞窟",
+          "廃鉱をテーマ観光地として生まれ変わらせた代表的な洞窟名所。"
+        ],
+        "광명사거리 상권": [
+          "光明四股路商圏",
+          "光明を代表する商業地域。"
+        ],
+        "철산동 상권": [
+          "鉄山洞商圏",
+          "鉄山洞に形成された代表的な生活商圏。"
+        ],
+        "오리공원": [
+          "オリ公園",
+          "光明を代表する近隣公園。"
+        ],
+        "하안근린공원": [
+          "河安近隣公園",
+          "河安洞一帯の代表的な近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 光明市",
+      "landmarks": {
+        "광명동굴": [
+          "光明洞窟",
+          "由废弃矿井改造而成的代表性主题洞窟景区。"
+        ],
+        "광명사거리 상권": [
+          "光明十字路口商圈",
+          "光明的代表性商业区。"
+        ],
+        "철산동 상권": [
+          "铁山洞商圈",
+          "铁山洞形成的代表性生活商圈。"
+        ],
+        "오리공원": [
+          "鸭雏公园",
+          "光明的代表性近邻公园。"
+        ],
+        "하안근린공원": [
+          "下安近邻公园",
+          "下安洞一带的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
