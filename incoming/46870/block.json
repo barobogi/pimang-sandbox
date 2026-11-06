@@ -301,6 +301,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "불갑사 봄",
+        "백수해안 전망대 봄"
+      ],
+      "summer": [
+        "법성포 여름",
+        "백수해안 전망대 여름"
+      ],
+      "autumn": [
+        "불갑사 단풍",
+        "백수해안 전망대 가을"
+      ],
+      "winter": [
+        "법성포 겨울",
+        "불갑사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "백수해안 전망대 야경",
+        "coordinates": [
+          35.323923,
+          126.378715
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "법성포 야경",
+        "coordinates": [
+          35.36135,
+          126.439887
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
   "data_sources": [
     {
