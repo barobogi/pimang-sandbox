@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "두타연 봄",
+        "해안분지 봄"
+      ],
+      "summer": [
+        "두타연 여름",
+        "DMZ자생식물원 여름"
+      ],
+      "autumn": [
+        "해안분지 단풍",
+        "두타연 가을"
+      ],
+      "winter": [
+        "DMZ자생식물원 겨울",
+        "해안분지 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "두타연 야경",
+        "coordinates": [
+          38.272659,
+          127.993999
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "해안분지 야경",
+        "coordinates": [
+          38.288275,
+          128.143418
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "양구군은 DMZ 자생식물원과 두타연, 펀치볼이 자리한 강원 영서 최북단의 군이다.",
   "data_sources": [
     {
