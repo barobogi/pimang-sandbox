@@ -423,10 +423,11 @@
     "civil_service_center": {
       "location_name": "고성군청 민원실 앞",
       "coordinates": [
-        128.326281,
-        34.999557
+        128.322029,
+        34.973265
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "055-670-2114",
