@@ -342,5 +342,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Andong-si, Gyeongbuk",
+      "landmarks": {
+        "하회마을": [
+          "Hahoe Village",
+          "UNESCO World Heritage village famed for its clan-centered layout and Hahoe masks."
+        ],
+        "도산서원": [
+          "Dosan Seowon",
+          "Confucian academy founded by Yi Hwang (Toegye), inscribed on UNESCO's World Heritage list."
+        ],
+        "봉정사": [
+          "Bongjeongsa Temple",
+          "Historic temple home to the National Treasure Geukrakjeon Hall."
+        ],
+        "병산서원": [
+          "Byeongsan Seowon",
+          "Academy honoring Yu Seong-ryong, inscribed on UNESCO's World Heritage list."
+        ],
+        "월영교": [
+          "Woryeonggyo Bridge",
+          "Restored half-moon wooden bridge over the Nakdong River, famed for night views."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 安東市",
+      "landmarks": {
+        "하회마을": [
+          "河回村",
+          "家族中心の村と河回仮面で有名なユネスコ世界遺産の村。"
+        ],
+        "도산서원": [
+          "陶山書院",
+          "退渓李滉が建てた書院。ユネスコ世界遺産に登録された。"
+        ],
+        "봉정사": [
+          "鳳停寺",
+          "国宝・極楽殿のある由緒ある代表的な寺。"
+        ],
+        "병산서원": [
+          "屏山書院",
+          "柳成龍を顕彰する書院。ユネスコ世界遺産に登録された。"
+        ],
+        "월영교": [
+          "月影橋",
+          "洛東江に復元された半月形の木橋。夜景で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 安东市",
+      "landmarks": {
+        "하회마을": [
+          "河回村",
+          "以氏族村落格局和河回面具闻名的联合国教科文组织世界遗产村。"
+        ],
+        "도산서원": [
+          "陶山书院",
+          "退溪李滉创立的书院，列入联合国教科文组织世界遗产。"
+        ],
+        "봉정사": [
+          "凤停寺",
+          "拥有国宝极乐殿的历史名刹。"
+        ],
+        "병산서원": [
+          "屏山书院",
+          "纪念柳成龙的书院，列入联合国教科文组织世界遗产。"
+        ],
+        "월영교": [
+          "月影桥",
+          "洛东江上复原的半月形木桥，以夜景闻名。"
+        ]
+      }
+    }
   }
 }
