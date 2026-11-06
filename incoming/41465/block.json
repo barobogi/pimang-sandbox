@@ -136,6 +136,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "죽전역 상권",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 1,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "죽전동 카페거리",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "동천동 상권",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 31,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "보정동 카페거리",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 36,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      },
+      {
+        "target_landmark": "수지공원",
+        "station_name": "보정역",
+        "line": "수인분당선",
+        "walk_minutes": 16,
+        "coordinates": [
+          37.3225,
+          127.1263
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "수지 중앙 공영주차장",
+        "coordinates": [
+          37.3316,
+          127.1062
+        ],
+        "capacity": 510,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "수지 제2 공영주차장",
+        "coordinates": [
+          37.3126,
+          127.0992
+        ],
+        "capacity": 379,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "수지 제3 공영주차장",
+        "coordinates": [
+          37.3164,
+          127.113
+        ],
+        "capacity": 357,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "용인 수지구는 죽전동 상권과 대형 주거 지역이 함께한 용인 동부의 구이다.",
   "data_sources": [
     {
