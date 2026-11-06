@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Osan-si, Gyeonggi",
+      "landmarks": {
+        "오산전적공원": [
+          "Osan Battle Memorial Park",
+          "Park commemorating the Korean War Battle of Osan."
+        ],
+        "세교지구": [
+          "Segyo District",
+          "Signature residential new town in southern Osan."
+        ],
+        "오산시청": [
+          "Osan City Hall",
+          "Administrative center of Osan."
+        ],
+        "오산문화예술회관": [
+          "Osan Arts Center",
+          "Osan's leading performance and exhibition venue."
+        ],
+        "오산동 상권": [
+          "Osan-dong District",
+          "Commercial hub formed in Osan-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 烏山市",
+      "landmarks": {
+        "오산전적공원": [
+          "烏山戦跡公園",
+          "6・25戦争の烏山戦闘を顕彰する代表的な戦跡公園。"
+        ],
+        "세교지구": [
+          "細橋地区",
+          "烏山南部を代表する住宅新都市。"
+        ],
+        "오산시청": [
+          "烏山市庁",
+          "烏山市の行政中心。"
+        ],
+        "오산문화예술회관": [
+          "烏山文化芸術会館",
+          "烏山を代表する公演・展示施設。"
+        ],
+        "오산동 상권": [
+          "烏山洞商圏",
+          "烏山洞に形成された代表的な商業商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 乌山市",
+      "landmarks": {
+        "오산전적공원": [
+          "乌山战迹公园",
+          "纪念朝鲜战争乌山战斗的代表性战迹公园。"
+        ],
+        "세교지구": [
+          "细桥地区",
+          "乌山南部的代表性居住新城。"
+        ],
+        "오산시청": [
+          "乌山市厅",
+          "乌山市的行政中心。"
+        ],
+        "오산문화예술회관": [
+          "乌山文化艺术会馆",
+          "乌山代表性的演出展览场馆。"
+        ],
+        "오산동 상권": [
+          "乌山洞商圈",
+          "乌山洞形成的代表性商业区。"
+        ]
+      }
+    }
   }
 }
