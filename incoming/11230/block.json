@@ -434,5 +434,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ddm.go.kr",
+    "civil_service_center": {
+      "location_name": "동대문구청 민원실 앞",
+      "coordinates": [
+        127.050246,
+        37.584023
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "02-2127-5000",
+      "info": "서울특별시 동대문구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동대문구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.050546,
+      37.583623
+    ],
+    "cctv_zone_count": 462
+  },
+  "urban_parks_trails": {
+    "park_name": "용두근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "동대문 패션타운 페스티벌",
+    "typical_month": 9,
+    "venue_name": "동대문종합시장 일대",
+    "venue_coords": [
+      127.050846,
+      37.583823
+    ]
   }
 }
