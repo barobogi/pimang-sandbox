@@ -147,6 +147,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대한다원",
+        "station_name": "대한다원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.715447,
+          127.07516
+        ]
+      },
+      {
+        "target_landmark": "한국차박물관",
+        "station_name": "한국차박물관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.719394,
+          127.078964
+        ]
+      },
+      {
+        "target_landmark": "율포해수욕장",
+        "station_name": "율포해수욕장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.7426,
+          127.1422
+        ]
+      },
+      {
+        "target_landmark": "태백산맥문학관",
+        "station_name": "태백산맥문학관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.848799,
+          127.349363
+        ]
+      },
+      {
+        "target_landmark": "득량역",
+        "station_name": "보성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.7998,
+          127.1648
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "보성 중앙 공영주차장",
+        "coordinates": [
+          34.8018,
+          127.166
+        ],
+        "capacity": 238,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "보성 제2 공영주차장",
+        "coordinates": [
+          34.7454,
+          127.1446
+        ],
+        "capacity": 263,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "보성군은 녹차의 수도로 불리는 전남 남부의 군으로 대한다원 녹차밭과 율포해수욕장, 태백산맥문학관 등의 명소가 함께한다.",
   "data_sources": [
     {
