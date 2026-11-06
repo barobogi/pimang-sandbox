@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "주왕산",
+        "station_name": "주왕산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.398359,
+          129.18786
+        ]
+      },
+      {
+        "target_landmark": "주산지",
+        "station_name": "주산지 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.363447,
+          129.188094
+        ]
+      },
+      {
+        "target_landmark": "청송군청",
+        "station_name": "청송버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.436414,
+          129.05414
+        ]
+      },
+      {
+        "target_landmark": "청송시장",
+        "station_name": "청송버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.436414,
+          129.05414
+        ]
+      },
+      {
+        "target_landmark": "청송자연휴양림",
+        "station_name": "청송자연휴양림 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.313989,
+          129.055358
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "청송 중앙 공영주차장",
+        "coordinates": [
+          36.435614,
+          129.05054
+        ],
+        "capacity": 80,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "청송 제2 공영주차장",
+        "coordinates": [
+          36.437472,
+          129.055093
+        ],
+        "capacity": 275,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "청송 제3 공영주차장",
+        "coordinates": [
+          36.313989,
+          129.059358
+        ],
+        "capacity": 240,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "청송군은 주왕산과 주산지, 청송사과로 유명한 경북 동부의 군이다.",
   "data_sources": [
     {
