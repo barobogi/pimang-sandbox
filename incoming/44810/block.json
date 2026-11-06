@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "태안초등학교 운동장",
+        "coordinates": [
+          36.637498,
+          125.850941
+        ],
+        "capacity": 1200,
+        "address": "충청남도 태안군"
+      },
+      {
+        "name": "태안실내체육관",
+        "coordinates": [
+          36.421195,
+          126.355172
+        ],
+        "capacity": 3700,
+        "address": "충청남도 태안군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "태안해안국립공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "꽃지해수욕장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안면도",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태안군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만리포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "태안군은 태안해안국립공원과 꽃지해변, 안면도가 자리한 충남 서해안 대표 관광 군이다.",
   "data_sources": [
     {
