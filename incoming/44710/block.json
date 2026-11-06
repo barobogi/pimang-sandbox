@@ -146,6 +146,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금산인삼시장",
+        "station_name": "금산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 18,
+        "coordinates": [
+          36.108499,
+          127.487252
+        ]
+      },
+      {
+        "target_landmark": "적벽강",
+        "station_name": "적벽강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.04785,
+          127.590318
+        ]
+      },
+      {
+        "target_landmark": "진악산",
+        "station_name": "진악산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.077309,
+          127.457369
+        ]
+      },
+      {
+        "target_landmark": "금산군청",
+        "station_name": "금산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.108499,
+          127.487252
+        ]
+      },
+      {
+        "target_landmark": "금산인삼관",
+        "station_name": "금산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 22,
+        "coordinates": [
+          36.108499,
+          127.487252
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "금산 중앙 공영주차장",
+        "coordinates": [
+          36.106899,
+          127.489652
+        ],
+        "capacity": 180,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "금산 제2 공영주차장",
+        "coordinates": [
+          36.099946,
+          127.500261
+        ],
+        "capacity": 215,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "금산 제3 공영주차장",
+        "coordinates": [
+          36.102546,
+          127.50322
+        ],
+        "capacity": 253,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "금산군은 인삼의 고장으로 유명하며 금산인삼시장과 적벽강, 진악산이 자리한 충남 남부의 군이다.",
   "data_sources": [
     {
