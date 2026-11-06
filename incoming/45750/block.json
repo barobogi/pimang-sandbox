@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "옥정호 벚꽃",
+        "성수산 봄"
+      ],
+      "summer": [
+        "옥정호 여름",
+        "임실치즈테마파크 여름"
+      ],
+      "autumn": [
+        "옥정호 단풍",
+        "성수산 가을"
+      ],
+      "winter": [
+        "옥정호 설경",
+        "임실치즈테마파크 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "옥정호 야경",
+        "coordinates": [
+          35.596187,
+          127.111958
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "임실치즈테마파크 야경",
+        "coordinates": [
+          35.633294,
+          127.301964
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "임실군은 임실치즈로 유명하며 옥정호와 성수산, 임실치즈테마파크가 자리한 전북 남부의 군이다.",
   "data_sources": [
     {
