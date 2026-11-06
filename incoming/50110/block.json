@@ -330,5 +330,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeju-si, Jeju",
+      "landmarks": {
+        "관덕정": [
+          "Gwandeokjeong Pavilion",
+          "Pavilion built as a ranch-administration office, an emblem of old Jeju-mok."
+        ],
+        "동문재래시장": [
+          "Dongmun Traditional Market",
+          "Jeju's signature market, famed for jerked beef and omegi tteok."
+        ],
+        "사려니숲길": [
+          "Saryeoni Forest Path",
+          "Jeju's signature forest trail along lava terrain, blending red soil and trees."
+        ],
+        "함덕서우봉해수욕장": [
+          "Hamdeok Seoubong Beach",
+          "Jeju's signature beach of emerald water and white sand."
+        ],
+        "김녕미로공원": [
+          "Gimnyeong Maze Park",
+          "World's largest maze park, shaped like Jeju Island and its cat."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "済州特別自治道 済州市",
+      "landmarks": {
+        "관덕정": [
+          "観徳亭",
+          "牧場管理の官衙として造られた亭。済州牧の象徴的建築物。"
+        ],
+        "동문재래시장": [
+          "東門在来市場",
+          "済州を代表する伝統市場。肉干とオメギ餅など済州グルメで有名。"
+        ],
+        "사려니숲길": [
+          "サリョニの森の道",
+          "ネデル地帯に沿って造られた済州を代表する森の道。赤い土と木々が調和する散歩道。"
+        ],
+        "함덕서우봉해수욕장": [
+          "函德书雨峰海水浴場",
+          "エメラルドの海と白い砂浜が調和する済州を代表するビーチ。"
+        ],
+        "김녕미로공원": [
+          "金寧迷路公園",
+          "済州島の形に作られた世界最大規模の迷路公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "济州特别自治道 济州市",
+      "landmarks": {
+        "관덕정": [
+          "观德亭",
+          "作为牧场管理官衙修建的楼亭，济州牧的标志性建筑。"
+        ],
+        "동문재래시장": [
+          "东门传统市场",
+          "济州代表性传统市场，以肉干和五梅糕等美食闻名。"
+        ],
+        "사려니숲길": [
+          "砂罗岳尼森林步道",
+          "沿熔岩地带修建的济州代表性林道，红土与树林交融。"
+        ],
+        "함덕서우봉해수욕장": [
+          "函德西雨峰海水浴场",
+          "翡翠色海水与白沙滩交融的济州代表性海滨。"
+        ],
+        "김녕미로공원": [
+          "金宁迷宫公园",
+          "以济州岛猫咪造型打造的世界最大迷宫公园。"
+        ]
+      }
+    }
   }
 }
