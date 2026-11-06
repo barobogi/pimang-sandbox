@@ -235,6 +235,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "양주초등학교 운동장",
+        "coordinates": [
+          37.754265,
+          127.057071
+        ],
+        "capacity": 4100,
+        "address": "경기도 양주시"
+      },
+      {
+        "name": "양주실내체육관",
+        "coordinates": [
+          37.813223,
+          127.088416
+        ],
+        "capacity": 1800,
+        "address": "경기도 양주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "옥정지구",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "양주역 상권",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천보산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "양주공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광사동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "경기 양주시는 서울 북부의 대표 위성 도시로 옥정지구와 양주역 상권이 함께한다.",
   "data_sources": [
     {
