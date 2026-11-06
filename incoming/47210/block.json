@@ -335,6 +335,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -460,5 +465,48 @@
       128.584701,
       36.880854
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "영주시 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      128.625855,
+      36.805066
+    ],
+    "reservation_url": "https://www.yeongju.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "영주시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.625955,
+      36.807166
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "영주시청 공영주차장 급속충전소",
+    "coordinates": [
+      128.621655,
+      36.804766
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "영주 솥뚜껑가게",
+    "coordinates": [
+      128.585301,
+      36.880385
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "간고등어구이 (영주시 지정 모범음식점)"
   }
 }
