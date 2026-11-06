@@ -1,0 +1,582 @@
+{
+  "block_code": "42770",
+  "block_name": "강원특별자치도 정선군",
+  "bbox": [
+    128.505974,
+    37.147077,
+    128.989663,
+    37.592916
+  ],
+  "center": [
+    37.369997,
+    128.747818
+  ],
+  "landmarks": [
+    {
+      "name": "화암동굴",
+      "lat": 37.3490618,
+      "lng": 128.794249,
+      "category": "동굴/자연",
+      "description": "화암동굴은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 299.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4.jpg"
+    },
+    {
+      "name": "정암사",
+      "lat": 37.1830427,
+      "lng": 128.8926904,
+      "category": "사찰/문화유산",
+      "description": "정암사은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%95%94%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 328.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%EC%88%98%EB%A7%88%EB%85%B8%ED%83%91.jpg"
+    },
+    {
+      "name": "동강",
+      "lat": 37.2875126,
+      "lng": 128.5585002,
+      "category": "하천/자연",
+      "description": "동강은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B0%95",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 61.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Dong-gang%28river%29_flows_near_by_Yeongwol_03.jpg/1280px-Dong-gang%28river%29_flows_near_by_Yeongwol_03.jpg"
+    },
+    {
+      "name": "정선시장",
+      "lat": 37.369996549999996,
+      "lng": 128.747818,
+      "category": "시장/먹거리",
+      "description": "정선시장은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 0.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jeongseon_County_Office.jpg/1280px-Jeongseon_County_Office.jpg"
+    },
+    {
+      "name": "정선군청",
+      "lat": 37.3806106,
+      "lng": 128.660856,
+      "category": "행정/랜드마크",
+      "description": "정선군청은(는) 강원특별자치도 정선군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 98.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Jeongseon_County_Office.jpg/1280px-Jeongseon_County_Office.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "정선 자연 힐링 시그니처 에어리얼 투어",
+      "description": "정선시장 → 화암동굴 → 정선군청 → 동강 → 정암사 순으로 이어지는 강원특별자치도 정선군의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "정선시장",
+        "화암동굴",
+        "정선군청",
+        "동강",
+        "정암사"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "정선 자연 힐링 스카이 워크",
+      "description": "화암동굴 → 정선시장 → 동강 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 정선의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "화암동굴",
+        "정선시장",
+        "동강"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "정선 도심 하이라이트 스카이 투어",
+      "description": "정선군청 → 정선시장 → 화암동굴 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 정선의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "정선군청",
+        "정선시장",
+        "화암동굴"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "정선 큰마당식당",
+      "lat": 37.370697,
+      "lng": 128.747468,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "정선 본점",
+      "lat": 37.370207,
+      "lng": 128.747748,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "정선 할매집",
+      "lat": 37.370347,
+      "lng": 128.748518,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "화암동굴",
+        "station_name": "화암동굴 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.347462,
+          128.791449
+        ]
+      },
+      {
+        "target_landmark": "정암사",
+        "station_name": "정암사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.181443,
+          128.88989
+        ]
+      },
+      {
+        "target_landmark": "동강",
+        "station_name": "동강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.285913,
+          128.5557
+        ]
+      },
+      {
+        "target_landmark": "정선시장",
+        "station_name": "정선시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.368397,
+          128.745018
+        ]
+      },
+      {
+        "target_landmark": "정선군청",
+        "station_name": "정선군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.379011,
+          128.658056
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "정선 중앙 공영주차장",
+        "coordinates": [
+          37.368397,
+          128.748218
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "정선 제2 공영주차장",
+        "coordinates": [
+          37.347062,
+          128.793849
+        ],
+        "capacity": 149,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "정선 제3 공영주차장",
+        "coordinates": [
+          37.382211,
+          128.661256
+        ],
+        "capacity": 568,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "정선초등학교 운동장",
+        "coordinates": [
+          37.289289,
+          128.764893
+        ],
+        "capacity": 5800,
+        "address": "강원특별자치도 정선군"
+      },
+      {
+        "name": "정선실내체육관",
+        "coordinates": [
+          37.237788,
+          128.948977
+        ],
+        "capacity": 3300,
+        "address": "강원특별자치도 정선군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "화암동굴",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정암사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정선시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정선군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "정선시장 봄 나들이",
+        "정암사 봄"
+      ],
+      "summer": [
+        "동강 여름",
+        "화암동굴 여름"
+      ],
+      "autumn": [
+        "정암사 단풍",
+        "동강 가을"
+      ],
+      "winter": [
+        "화암동굴 겨울",
+        "정선시장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "동강 야경",
+        "coordinates": [
+          37.287513,
+          128.5585
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "정선시장 야시장",
+        "coordinates": [
+          37.369997,
+          128.747818
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "정선군은 아리랑의 고장이자 정암사와 화암동굴, 동강 래프팅이 유명한 강원 영서 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeongseon-gun, Gangwon",
+      "landmarks": {
+        "화암동굴": [
+          "Hwaam Cave",
+          "Signature cave attraction of Jeongseon-gun, Gangwon."
+        ],
+        "정암사": [
+          "Jeongamsa Temple",
+          "Signature temple heritage of Jeongseon-gun, Gangwon."
+        ],
+        "동강": [
+          "Dong River",
+          "Signature river attraction of Jeongseon-gun, Gangwon."
+        ],
+        "정선시장": [
+          "Jeongseon Market",
+          "Signature market attraction of Jeongseon-gun, Gangwon."
+        ],
+        "정선군청": [
+          "Jeongseon County Office",
+          "Administrative center of Jeongseon-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 旌善郡",
+      "landmarks": {
+        "화암동굴": [
+          "花岩洞窟",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "정암사": [
+          "浄岩寺",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "동강": [
+          "東江",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "정선시장": [
+          "旌善市場",
+          "江原特別自治道旌善郡を代表する名所。"
+        ],
+        "정선군청": [
+          "旌善郡庁",
+          "江原特別自治道旌善郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 旌善郡",
+      "landmarks": {
+        "화암동굴": [
+          "花岩洞窟",
+          "江原特别自治道旌善郡的代表性洞窟。"
+        ],
+        "정암사": [
+          "净岩寺",
+          "江原特别自治道旌善郡的代表性古刹。"
+        ],
+        "동강": [
+          "东江",
+          "江原特别自治道旌善郡的代表性河流。"
+        ],
+        "정선시장": [
+          "旌善市场",
+          "江原特别自治道旌善郡的代表性市场。"
+        ],
+        "정선군청": [
+          "旌善郡厅",
+          "江原特别自治道旌善郡的行政中心。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jeongseon.go.kr",
+    "civil_service_center": {
+      "location_name": "정선군청 민원실 앞",
+      "coordinates": [
+        128.660856,
+        37.380611
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-562-3911",
+      "info": "강원특별자치도 정선군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "정선군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.747219,
+      37.369796
+    ],
+    "cctv_zone_count": 383,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "정선군민공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "정선 아리랑제",
+    "typical_month": 10,
+    "venue_name": "정선아리랑문화관 일대",
+    "venue_coords": [
+      128.748119,
+      37.370097
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "정선군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.660156,
+      37.381411
+    ],
+    "reservation_url": "https://www.jeongseon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "정선군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.662756,
+      37.378711
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "정선군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.659256,
+      37.378811
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "정선 큰마당식당",
+    "coordinates": [
+      128.747468,
+      37.370697
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (정선군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=정선군청&goalx=128.660856&goaly=37.380611",
+    "kakaonavi_url": "kakaonavi://navigate?name=정선군청&x=128.660856&y=37.380611&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=정선군청&dlng=128.660856&dlat=37.380611&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:37",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:04",
+      "sunset": "19:49",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:22",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:36",
+      "sunset": "17:11",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "정선군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.748069,
+          37.369096
+        ],
+        [
+          128.747219,
+          37.369796
+        ],
+        [
+          128.748619,
+          37.369496
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "정선군 전통시장 만남의거리",
+    "anchor_center": [
+      128.659456,
+      37.380744
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 290,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
