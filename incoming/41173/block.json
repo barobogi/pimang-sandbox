@@ -1,0 +1,594 @@
+{
+  "block_code": "41173",
+  "block_name": "경기도 안양시 동안구",
+  "bbox": [
+    126.927333,
+    37.361602,
+    126.982968,
+    37.440998
+  ],
+  "center": [
+    37.4013,
+    126.955151
+  ],
+  "landmarks": [
+    {
+      "name": "평촌 상권",
+      "lat": 37.39,
+      "lng": 126.955,
+      "category": "상권",
+      "description": "동안구의 대표 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 0.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pyeongchon_station_nameplate.jpg/1280px-Pyeongchon_station_nameplate.jpg"
+    },
+    {
+      "name": "관양동 상권",
+      "lat": 37.392,
+      "lng": 126.95,
+      "category": "상권",
+      "description": "관양동에 형성된 대표 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 23.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Dongan-gu_office%2C_Anyang.JPG/1280px-Dongan-gu_office%2C_Anyang.JPG"
+    },
+    {
+      "name": "호계동 상권",
+      "lat": 37.399,
+      "lng": 126.96,
+      "category": "상권",
+      "description": "호계동에 형성된 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 300.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hogye_1-dong_Community_Service_Center.jpg/1280px-Hogye_1-dong_Community_Service_Center.jpg"
+    },
+    {
+      "name": "평촌중앙공원",
+      "lat": 37.3900453,
+      "lng": 126.9591608,
+      "category": "공원",
+      "description": "평촌신도시 중앙의 대표 공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 344.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%ED%8F%89%EC%B4%8C%EC%A4%91%EC%95%99%EA%B3%B5%EC%9B%90_2025_%EA%B0%80%EC%9D%84%EC%A0%84%EA%B2%BD.jpg"
+    },
+    {
+      "name": "비산공원",
+      "lat": 37.395,
+      "lng": 126.95,
+      "category": "공원",
+      "description": "동안구의 대표 근린공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%88%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 33.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Dongan-gu_office%2C_Anyang.JPG/1280px-Dongan-gu_office%2C_Anyang.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "동안 도심 하이라이트 시그니처 스카이 투어",
+      "description": "호계동 상권 → 비산공원 → 관양동 상권 → 평촌 상권 → 평촌중앙공원 순으로 이어지는 경기도 안양시 동안구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "호계동 상권",
+        "비산공원",
+        "관양동 상권",
+        "평촌 상권",
+        "평촌중앙공원"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "동안 도심 스카이라인 크루즈",
+      "description": "관양동 상권 → 평촌 상권 → 호계동 상권 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 동안의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "관양동 상권",
+        "평촌 상권",
+        "호계동 상권"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "동안 그린 랜드스케이프 플라이트",
+      "description": "평촌중앙공원 → 평촌 상권 → 비산공원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 동안의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "평촌중앙공원",
+        "평촌 상권",
+        "비산공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "호계동 상권 본점",
+      "lat": 37.39879,
+      "lng": 126.9593,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "비산공원 가마솥밥가",
+      "lat": 37.39507,
+      "lng": 126.95028,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "관양동 상권 옛맛식당",
+      "lat": 37.39242,
+      "lng": 126.95028,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "평촌 상권 할매집",
+      "lat": 37.39063,
+      "lng": 126.9557,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "평촌 상권",
+        "station_name": "범계역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.3897,
+          126.9542
+        ]
+      },
+      {
+        "target_landmark": "관양동 상권",
+        "station_name": "평촌역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 5,
+        "coordinates": [
+          37.3943,
+          126.9474
+        ]
+      },
+      {
+        "target_landmark": "호계동 상권",
+        "station_name": "범계역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 16,
+        "coordinates": [
+          37.3897,
+          126.9542
+        ]
+      },
+      {
+        "target_landmark": "평촌중앙공원",
+        "station_name": "범계역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.3897,
+          126.9542
+        ]
+      },
+      {
+        "target_landmark": "비산공원",
+        "station_name": "평촌역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 3,
+        "coordinates": [
+          37.3943,
+          126.9474
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동안 중앙 공영주차장",
+        "coordinates": [
+          37.3978,
+          126.9596
+        ],
+        "capacity": 157,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동안 제2 공영주차장",
+        "coordinates": [
+          37.3938,
+          126.9516
+        ],
+        "capacity": 479,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "동안 제3 공영주차장",
+        "coordinates": [
+          37.3916,
+          126.9484
+        ],
+        "capacity": 78,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동안초등학교 운동장",
+        "coordinates": [
+          37.3817,
+          126.958417
+        ],
+        "capacity": 6500,
+        "address": "경기도 안양시 동안구"
+      },
+      {
+        "name": "동안실내체육관",
+        "coordinates": [
+          37.39225,
+          126.946247
+        ],
+        "capacity": 6500,
+        "address": "경기도 안양시 동안구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "평촌 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "관양동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "호계동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "평촌중앙공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "비산공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "평촌중앙공원 봄꽃",
+        "비산공원 봄"
+      ],
+      "summer": [
+        "평촌중앙공원 여름",
+        "평촌 상권 여름밤"
+      ],
+      "autumn": [
+        "평촌중앙공원 단풍",
+        "비산공원 가을"
+      ],
+      "winter": [
+        "평촌 상권 겨울 조명",
+        "평촌중앙공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "평촌중앙공원 야경",
+        "coordinates": [
+          37.390045,
+          126.959161
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "평촌 상권 야경",
+        "coordinates": [
+          37.39,
+          126.955
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "안양 동안구는 평촌신도시 상권이 자리한 안양 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongan-gu, Anyang",
+      "landmarks": {
+        "평촌 상권": [
+          "Pyeongchon District",
+          "Largest commercial hub of Dongan-gu."
+        ],
+        "관양동 상권": [
+          "Gwanyang-dong District",
+          "Commercial hub formed in Gwanyang-dong."
+        ],
+        "호계동 상권": [
+          "Hogye-dong District",
+          "Everyday commercial hub in Hogye-dong."
+        ],
+        "평촌중앙공원": [
+          "Pyeongchon Central Park",
+          "Park at the heart of Pyeongchon New Town."
+        ],
+        "비산공원": [
+          "Bisan Park",
+          "Signature neighborhood park of Dongan-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安養市 東安区",
+      "landmarks": {
+        "평촌 상권": [
+          "坪村商圏",
+          "東安区を代表する商業地域。"
+        ],
+        "관양동 상권": [
+          "冠陽洞商圏",
+          "冠陽洞に形成された代表的な商圏。"
+        ],
+        "호계동 상권": [
+          "湖渓洞商圏",
+          "湖渓洞に形成された代表的な生活商圏。"
+        ],
+        "평촌중앙공원": [
+          "坪村中央公園",
+          "坪村新都市の中央にある代表的な公園。"
+        ],
+        "비산공원": [
+          "飛山公園",
+          "東安区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安养市 东安区",
+      "landmarks": {
+        "평촌 상권": [
+          "坪村商圈",
+          "东安区最大的商业区。"
+        ],
+        "관양동 상권": [
+          "冠阳洞商圈",
+          "冠阳洞形成的代表性商圈。"
+        ],
+        "호계동 상권": [
+          "虎溪洞商圈",
+          "虎溪洞形成的代表性生活商圈。"
+        ],
+        "평촌중앙공원": [
+          "坪村中央公园",
+          "坪村新城中央的代表性公园。"
+        ],
+        "비산공원": [
+          "飞山公园",
+          "东安区的代表性近邻公园。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dongan.anyang.go.kr",
+    "civil_service_center": {
+      "location_name": "동안구청 민원실 앞",
+      "coordinates": [
+        126.953553,
+        37.386353
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-8045-4114",
+      "info": "경기도 안양시 동안구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동안구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.95495,
+      37.4016
+    ],
+    "cctv_zone_count": 140,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "박달근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "동안 구민축제",
+    "typical_month": 10,
+    "venue_name": "동안구청 광장",
+    "venue_coords": [
+      126.955651,
+      37.4008
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "동안구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.955053,
+      37.384153
+    ],
+    "reservation_url": "https://www.dongan.anyang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "동안구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.950953,
+      37.387153
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "동안구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.956453,
+      37.386053
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "비산공원 가마솥밥가",
+    "coordinates": [
+      126.95028,
+      37.39507
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "한우불고기 (동안구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=동안구청&goalx=126.953553&goaly=37.386353",
+    "kakaonavi_url": "kakaonavi://navigate?name=동안구청&x=126.953553&y=37.386353&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=동안구청&dlng=126.953553&dlat=37.386353&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "동안구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.956,
+          37.4007
+        ],
+        [
+          126.95495,
+          37.4016
+        ],
+        [
+          126.95385,
+          37.4004
+        ]
+      ],
+      "cctv_linked_count": 11,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "안양 동안구 평촌 1번가 문화의거리",
+    "anchor_center": [
+      126.951686,
+      37.385486
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 241,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
