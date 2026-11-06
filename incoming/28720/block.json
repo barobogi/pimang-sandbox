@@ -432,7 +432,8 @@
       125.463795,
       37.453899
     ],
-    "cctv_zone_count": 265
+    "cctv_zone_count": 265,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
   },
   "urban_parks_trails": {
     "park_name": "백령도 해안공원",
