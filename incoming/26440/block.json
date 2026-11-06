@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "강서초등학교 운동장",
+        "coordinates": [
+          35.118189,
+          128.864089
+        ],
+        "capacity": 3000,
+        "address": "부산광역시 강서구"
+      },
+      {
+        "name": "강서실내체육관",
+        "coordinates": [
+          35.1314,
+          128.925203
+        ],
+        "capacity": 7200,
+        "address": "부산광역시 강서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "을숙도생태공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "벚꽃공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가덕도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "지사문화마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙동강하구에코센터",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "강서구는 낙동강 하구의 을숙도와 벚꽃공원, 지사문화마을, 가덕도가 자리한 부산 서부의 구로 국제신도시가 개발 중이다.",
   "data_sources": [
     {
