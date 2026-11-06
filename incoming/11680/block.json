@@ -147,6 +147,97 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "강남역",
+        "station_name": "강남역",
+        "line": "서울 2호선·신분당선",
+        "exit_no": 9,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.4979,
+          127.0276
+        ]
+      },
+      {
+        "target_landmark": "가로수길",
+        "station_name": "압구정역",
+        "line": "서울 3호선",
+        "exit_no": 8,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.527,
+          127.0286
+        ]
+      },
+      {
+        "target_landmark": "청담동",
+        "station_name": "압구정역",
+        "line": "서울 3호선",
+        "exit_no": 8,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.527,
+          127.0286
+        ]
+      },
+      {
+        "target_landmark": "테헤란로",
+        "station_name": "역삼역",
+        "line": "서울 2호선",
+        "exit_no": 8,
+        "walk_minutes": 4,
+        "coordinates": [
+          37.5006,
+          127.0365
+        ]
+      },
+      {
+        "target_landmark": "도산공원",
+        "station_name": "압구정역",
+        "line": "서울 3호선",
+        "exit_no": 8,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.527,
+          127.0286
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강남 중앙 공영주차장",
+        "coordinates": [
+          37.500179,
+          127.040912
+        ],
+        "capacity": 266,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "강남 제2 공영주차장",
+        "coordinates": [
+          37.52492,
+          127.04717
+        ],
+        "capacity": 573,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "강남 제3 공영주차장",
+        "coordinates": [
+          37.498471,
+          127.028888
+        ],
+        "capacity": 493,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "강남구는 대한민국 최고 상업·유행 중심지로 강남역과 가로수길, 청담동 패션 거리가 유명하다.",
   "data_sources": [
     {
