@@ -140,6 +140,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "홍대입구",
+        "station_name": "홍대입구역",
+        "line": "서울 2호선·공항철도",
+        "exit_no": 8,
+        "walk_minutes": 1,
+        "coordinates": [
+          37.557,
+          126.9238
+        ]
+      },
+      {
+        "target_landmark": "서울월드컵경기장",
+        "station_name": "망원역",
+        "line": "서울 6호선",
+        "exit_no": 8,
+        "walk_minutes": 25,
+        "coordinates": [
+          37.5567,
+          126.9102
+        ]
+      },
+      {
+        "target_landmark": "망원한강공원",
+        "station_name": "합정역",
+        "line": "서울 2·6호선",
+        "exit_no": 6,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5495,
+          126.913
+        ]
+      },
+      {
+        "target_landmark": "연남동",
+        "station_name": "홍대입구역",
+        "line": "서울 2호선·공항철도",
+        "exit_no": 8,
+        "walk_minutes": 9,
+        "coordinates": [
+          37.557,
+          126.9238
+        ]
+      },
+      {
+        "target_landmark": "난지한강공원",
+        "station_name": "망원역",
+        "line": "서울 6호선",
+        "exit_no": 8,
+        "walk_minutes": 45,
+        "coordinates": [
+          37.5567,
+          126.9102
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "마포 중앙 공영주차장",
+        "coordinates": [
+          37.569102,
+          126.898048
+        ],
+        "capacity": 191,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "마포 제2 공영주차장",
+        "coordinates": [
+          37.56378,
+          126.91996
+        ],
+        "capacity": 565,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "마포구는 홍대와 서교동, 서울월드컵경기장이 자리한 대표 청년 문화 자치구이다.",
   "data_sources": [
     {
