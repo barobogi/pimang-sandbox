@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금산보리암 봄",
+        "상주해변 봄"
+      ],
+      "summer": [
+        "상주해변 여름",
+        "미조항 여름"
+      ],
+      "autumn": [
+        "금산보리암 단풍",
+        "상주해변 가을"
+      ],
+      "winter": [
+        "금산보리암 해맞이",
+        "상주해변 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "상주해변 야경",
+        "coordinates": [
+          34.769,
+          127.814
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "미조항 야경",
+        "coordinates": [
+          34.738,
+          127.786
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "남해군은 남해안 최남단에 자리한 섬 군으로 상주해변과 미조항, 금산보리암, 독일마을 등의 관광 자원과 유서 깊은 해양 문화가 함께한다.",
   "data_sources": [
     {
