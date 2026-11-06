@@ -296,6 +296,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "만인산 봄 진달래",
+        "대청호 벚꽃"
+      ],
+      "summer": [
+        "대청호 여름",
+        "식장산 여름"
+      ],
+      "autumn": [
+        "만인산 단풍",
+        "식장산 억새"
+      ],
+      "winter": [
+        "대전역 겨울 조명",
+        "대청호 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "식장산 야경",
+        "coordinates": [
+          36.299711,
+          127.481111
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "대청호 야경",
+        "coordinates": [
+          36.418619,
+          127.497107
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "대전 동구는 대전역과 대전복합터미널이 자리한 대전 동부의 관문 구로 만인산과 식장산, 대청호 등 자연 명소가 함께한다.",
   "data_sources": [
     {
