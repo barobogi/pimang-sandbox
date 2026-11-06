@@ -328,6 +328,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -453,5 +458,48 @@
       129.090843,
       35.257953
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "금정구민체육관",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      129.103282,
+      35.296953
+    ],
+    "reservation_url": "https://www.geumjeong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "금정구 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      129.101982,
+      35.292453
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "금정구청 공영주차장 급속충전소",
+    "coordinates": [
+      129.098782,
+      35.292553
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "범어사 큰마당식당",
+    "coordinates": [
+      129.093158,
+      35.272962
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "밀면 (금정구 지정 모범음식점)"
   }
 }
