@@ -423,10 +423,11 @@
     "civil_service_center": {
       "location_name": "거제시청 민원실 앞",
       "coordinates": [
-        128.6987,
-        34.781772
+        128.62121,
+        34.880434
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "055-639-3000",
