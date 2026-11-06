@@ -213,6 +213,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "고흥초등학교 운동장",
+        "coordinates": [
+          34.415433,
+          127.610271
+        ],
+        "capacity": 4000,
+        "address": "전라남도 고흥군"
+      },
+      {
+        "name": "고흥실내체육관",
+        "coordinates": [
+          34.659495,
+          127.417312
+        ],
+        "capacity": 2500,
+        "address": "전라남도 고흥군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "나로우주센터",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "팔영산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소록도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고흥군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고흥시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "고흥군은 나로우주센터와 팔영산, 금산? 아니라 소록도가 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
