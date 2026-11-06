@@ -1,0 +1,590 @@
+{
+  "block_code": "46130",
+  "block_name": "전라남도 여수시",
+  "bbox": [
+    126.915319,
+    33.759199,
+    128.171591,
+    34.904551
+  ],
+  "center": [
+    34.331875,
+    127.543455
+  ],
+  "landmarks": [
+    {
+      "name": "오동도",
+      "lat": 34.745035,
+      "lng": 127.7670926,
+      "category": "섬/관광",
+      "description": "대표 섬 관광지로 등대와 해안 절경으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8F%99%EB%8F%84",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 204.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yeosu_Odongdo_20180929_002.jpg/1280px-Yeosu_Odongdo_20180929_002.jpg"
+    },
+    {
+      "name": "이순신광장",
+      "lat": 34.7393034,
+      "lng": 127.7359388,
+      "category": "광장/문화",
+      "description": "여수 도심 해안에 조성된 광장으로 이순신 동상이 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 201.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/%EC%A0%84_%EC%9D%B4%EC%88%9C%EC%8B%A0_%EC%B4%88%EC%83%81_%28cropped%29.jpg"
+    },
+    {
+      "name": "돌산공원",
+      "lat": 34.7303079,
+      "lng": 127.7396498,
+      "category": "공원/전망대",
+      "description": "돌산도에 위치한 전망대 공원으로 여수 항구가 내려다보인다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%82%B0%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 202.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dolsan_Park_20180929_001.jpg/1280px-Dolsan_Park_20180929_001.jpg"
+    },
+    {
+      "name": "여수해상케이블카",
+      "lat": 34.730555,
+      "lng": 127.7415854,
+      "category": "관광시설",
+      "description": "돌산도와 여수 본토를 잇는 해상 케이블카로 국민 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%ED%95%B4%EC%83%81%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 202.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Yeosu_cablecar_station_2.jpg/1280px-Yeosu_cablecar_station_2.jpg"
+    },
+    {
+      "name": "거북선광장",
+      "lat": 34.738,
+      "lng": 127.74,
+      "category": "공원/문화",
+      "description": "여수 항구에 조성된 공원으로 거북선 전시가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%EC%8B%9C",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 201.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Dolsan_Bridge1.JPG/1280px-Dolsan_Bridge1.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "여수 자연 힐링 시그니처 에어리얼 투어",
+      "description": "돌산공원 → 여수해상케이블카 → 거북선광장 → 이순신광장 → 오동도 순으로 이어지는 전라남도 여수시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "돌산공원",
+        "여수해상케이블카",
+        "거북선광장",
+        "이순신광장",
+        "오동도"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "여수 자연 힐링 스카이 워크",
+      "description": "돌산공원 → 여수해상케이블카 → 거북선광장 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 여수의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "돌산공원",
+        "여수해상케이블카",
+        "거북선광장"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "여수 도심 하이라이트 스카이 투어",
+      "description": "이순신광장 → 거북선광장 → 여수해상케이블카 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 여수의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "이순신광장",
+        "거북선광장",
+        "여수해상케이블카"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "돌산공원 큰마당식당",
+      "lat": 34.730588,
+      "lng": 127.73902,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "여수해상케이블카 골목식당",
+      "lat": 34.730415,
+      "lng": 127.742285,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "이순신광장 본점",
+      "lat": 34.739303,
+      "lng": 127.735309,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "오동도",
+        "station_name": "여수엑스포역",
+        "line": "KTX 전라선",
+        "walk_minutes": 41,
+        "coordinates": [
+          34.7666,
+          127.7496
+        ]
+      },
+      {
+        "target_landmark": "이순신광장",
+        "station_name": "여수엑스포역",
+        "line": "KTX 전라선",
+        "walk_minutes": 47,
+        "coordinates": [
+          34.7666,
+          127.7496
+        ]
+      },
+      {
+        "target_landmark": "돌산공원",
+        "station_name": "돌산공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.731108,
+          127.73805
+        ]
+      },
+      {
+        "target_landmark": "여수해상케이블카",
+        "station_name": "여수해상케이블카 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.731355,
+          127.739985
+        ]
+      },
+      {
+        "target_landmark": "거북선광장",
+        "station_name": "여수엑스포역",
+        "line": "KTX 전라선",
+        "walk_minutes": 47,
+        "coordinates": [
+          34.7666,
+          127.7496
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "여수 중앙 공영주차장",
+        "coordinates": [
+          34.729908,
+          127.73765
+        ],
+        "capacity": 156,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "여수 제2 공영주차장",
+        "coordinates": [
+          34.729755,
+          127.739585
+        ],
+        "capacity": 72,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "여수 제3 공영주차장",
+        "coordinates": [
+          34.740903,
+          127.736339
+        ],
+        "capacity": 36,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "여수초등학교 운동장",
+        "coordinates": [
+          34.877192,
+          127.581711
+        ],
+        "capacity": 6000,
+        "address": "전라남도 여수시"
+      },
+      {
+        "name": "여수실내체육관",
+        "coordinates": [
+          34.718236,
+          127.716823
+        ],
+        "capacity": 1300,
+        "address": "전라남도 여수시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "오동도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이순신광장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "돌산공원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "여수해상케이블카",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "거북선광장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "오동도 동백꽃",
+        "돌산공원 봄"
+      ],
+      "summer": [
+        "오동도 여름",
+        "여수해상케이블카 여름밤"
+      ],
+      "autumn": [
+        "돌산공원 단풍",
+        "오동도 가을"
+      ],
+      "winter": [
+        "여수 해맞이",
+        "오동도 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "여수해상케이블카 야경",
+        "coordinates": [
+          34.730555,
+          127.741585
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "이순신광장 야경",
+        "coordinates": [
+          34.739303,
+          127.735939
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "돌산공원 야경",
+        "coordinates": [
+          34.730308,
+          127.73965
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "여수시는 남해안의 대표 항만 관광 도시로 오동도와 돌산공원, 이순신광장, 2012 여수세계박람회장 등 해양 관광 자원이 풍부하다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeosu-si, Jeonnam",
+      "landmarks": {
+        "오동도": [
+          "Odongdo Island",
+          "Signature island attraction famed for its lighthouse and coastal cliffs."
+        ],
+        "이순신광장": [
+          "Yi Sun-sin Plaza",
+          "Waterfront plaza in central Yeosu with the statue of Admiral Yi Sun-sin."
+        ],
+        "돌산공원": [
+          "Dolsan Park",
+          "Observatory park on Dolsando overlooking Yeosu Harbor."
+        ],
+        "여수해상케이블카": [
+          "Yeosu Marine Cable Car",
+          "Sea cable car linking Dolsando with the Yeosu mainland, a national favorite."
+        ],
+        "거북선광장": [
+          "Geobukseon (Turtle Ship) Plaza",
+          "Park at Yeosu Harbor featuring a turtle ship display."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 麗水市",
+      "landmarks": {
+        "오동도": [
+          "梧桐島",
+          "代表的な島の観光地。灯台と海岸絶景で有名。"
+        ],
+        "이순신광장": [
+          "李舜臣広場",
+          "麗水の都心の海岸に造られた広場。李舜臣銅像がある。"
+        ],
+        "돌산공원": [
+          "突山公園",
+          "突山島にある展望台公園。麗水港を見下ろせる。"
+        ],
+        "여수해상케이블카": [
+          "麗水海上ケーブルカー",
+          "突山島と麗水の本土を結ぶ海上ケーブルカー。国民的な観光名所。"
+        ],
+        "거북선광장": [
+          "亀船広場",
+          "麗水港に造られた公園。亀船の展示がある。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 丽水市",
+      "landmarks": {
+        "오동도": [
+          "梧桐岛",
+          "代表性岛屿观光地，以灯塔和海岸绝景闻名。"
+        ],
+        "이순신광장": [
+          "李舜臣广场",
+          "丽水市中心海滨广场，立有李舜臣铜像。"
+        ],
+        "돌산공원": [
+          "突山公园",
+          "突山岛上的观景公园，可俯瞰丽水港。"
+        ],
+        "여수해상케이블카": [
+          "丽水海上缆车",
+          "连接突山岛与丽水本土的海上缆车，国民观光名所。"
+        ],
+        "거북선광장": [
+          "龟船广场",
+          "丽水港畔的公园，展示龟船。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yeosu.go.kr",
+    "civil_service_center": {
+      "location_name": "여수시청 민원실 앞",
+      "coordinates": [
+        127.662414,
+        34.760507
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-1899-2012",
+      "info": "전라남도 여수시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "여수시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.544055,
+      34.331375
+    ],
+    "cctv_zone_count": 193,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "여수엑스포공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "여수 밤바다 불꽃축제",
+    "typical_month": 8,
+    "venue_name": "여수엑스포공원",
+    "venue_coords": [
+      127.542855,
+      34.331275
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "여수 웅천생활체육공원 축구장",
+    "sports_types": [
+      "soccer",
+      "futsal"
+    ],
+    "coordinates": [
+      127.661714,
+      34.762907
+    ],
+    "reservation_url": "https://www.yeosu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "여수시 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.660114,
+      34.760107
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "여수시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.659814,
+      34.757507
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "돌산공원 큰마당식당",
+    "coordinates": [
+      127.73902,
+      34.730588
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "홍어회 (여수시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=여수시청&goalx=127.662414&goaly=34.760507",
+    "kakaonavi_url": "kakaonavi://navigate?name=여수시청&x=127.662414&y=34.760507&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=여수시청&dlng=127.662414&dlat=34.760507&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 55.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:18",
+      "sunset": "19:45",
+      "noon_altitude_deg": 79.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 55.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:33",
+      "sunset": "17:24",
+      "noon_altitude_deg": 32.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "여수시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.543455,
+          34.330825
+        ],
+        [
+          127.544055,
+          34.331375
+        ],
+        [
+          127.545305,
+          34.332625
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "여수시 해안 카페거리",
+    "anchor_center": [
+      127.661347,
+      34.759307
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 50,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "coastal_promenade"
+  }
+}
