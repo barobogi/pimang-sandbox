@@ -409,5 +409,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.siheung.go.kr",
+    "civil_service_center": {
+      "location_name": "시흥시청 민원실 앞",
+      "coordinates": [
+        126.753017,
+        37.384828
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "031-310-2114",
+      "info": "경기도 시흥시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "시흥시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.753117,
+      37.385128
+    ],
+    "cctv_zone_count": 24
+  },
+  "urban_parks_trails": {
+    "park_name": "시흥 은행공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "시흥 시민축제",
+    "typical_month": 10,
+    "venue_name": "시흥시청 앞 광장",
+    "venue_coords": [
+      126.752217,
+      37.385128
+    ]
   }
 }
