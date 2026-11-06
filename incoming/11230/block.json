@@ -231,6 +231,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "동대문초등학교 운동장",
+        "coordinates": [
+          37.567196,
+          127.042038
+        ],
+        "capacity": 6100,
+        "address": "서울특별시 동대문구"
+      },
+      {
+        "name": "동대문실내체육관",
+        "coordinates": [
+          37.567237,
+          127.047527
+        ],
+        "capacity": 4900,
+        "address": "서울특별시 동대문구"
+      },
+      {
+        "name": "동대문중앙공원 비상집합장소",
+        "coordinates": [
+          37.583519,
+          127.033057
+        ],
+        "capacity": 3300,
+        "address": "서울특별시 동대문구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동대문디자인플라자",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동대문종합시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "경동시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "서울시립대학교",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동대문현대시티",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "동대문구는 조선 시대 흥인지문 밖 시전에서 발달해 근현대 패션 도매 시장과 청량리 상권이 서울 최대 물류·상업 거점으로 성장한 자치구이며, 동대문디자인플라자가 세계적 디자인 랜드마크로 자리했다.",
   "data_sources": [
     {
