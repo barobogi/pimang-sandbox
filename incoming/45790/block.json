@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "고창초등학교 운동장",
+        "coordinates": [
+          35.444815,
+          126.668726
+        ],
+        "capacity": 5700,
+        "address": "전북특별자치도 고창군"
+      },
+      {
+        "name": "고창실내체육관",
+        "coordinates": [
+          35.460314,
+          126.691626
+        ],
+        "capacity": 1500,
+        "address": "전북특별자치도 고창군"
+      },
+      {
+        "name": "고창중앙공원 비상집합장소",
+        "coordinates": [
+          35.535084,
+          126.601113
+        ],
+        "capacity": 4600,
+        "address": "전북특별자치도 고창군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "고창읍성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고창고인돌유적",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "선운사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고창군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고창시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "고창군은 고창읍성과 고인돌 유적, 선운사가 자리한 유네스코 세계유산의 고장이다.",
   "data_sources": [
     {
