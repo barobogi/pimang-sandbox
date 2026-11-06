@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Bucheon-si, Gyeonggi",
+      "landmarks": {
+        "상동호수공원": [
+          "Sangdong Lake Park",
+          "Lakeside park in Sangdong, a family outing and strolling favorite."
+        ],
+        "부천만화정보박물관": [
+          "Bucheon International Comic Festival Museum",
+          "Korea's flagship comics and webtoon museum, symbol of the comics city Bucheon."
+        ],
+        "원미산": [
+          "Wonmisan Mountain",
+          "Low hill in Wonmi-dong with walking and hiking courses."
+        ],
+        "부천종합운동장": [
+          "Bucheon Stadium",
+          "Home ground of Bucheon FC 1995, a multipurpose sports complex."
+        ],
+        "소사벚꽃길": [
+          "Sosa Cherry Blossom Road",
+          "Cherry blossom spot across Sosa-dong that draws crowds each spring."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 富川市",
+      "landmarks": {
+        "상동호수공원": [
+          "上洞湖公園",
+          "上洞に造られた湖畔公園。家族行楽と散策の名所。"
+        ],
+        "부천만화정보박물관": [
+          "富川漫画情報博物館",
+          "韓国を代表する漫画・ウェブトゥーン専門博物館。漫画の町・富川の象徴。"
+        ],
+        "원미산": [
+          "遠美山",
+          "遠美洞一帯にある低い山。散策路と登山コースが整備されている。"
+        ],
+        "부천종합운동장": [
+          "富川総合運動場",
+          "プロサッカー・富川FC 1995のホームスタジアム。多目的競技場。"
+        ],
+        "소사벚꽃길": [
+          "素砂桜並木",
+          "素砂洞一帯の桜の名所。春の開花時期には観光客が集まる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 富川市",
+      "landmarks": {
+        "상동호수공원": [
+          "上洞湖公园",
+          "上洞建成的湖畔公园，亲子散步胜地。"
+        ],
+        "부천만화정보박물관": [
+          "富川漫画信息博物馆",
+          "韩国代表性的漫画网漫专业博物馆，漫画之城富川的象征。"
+        ],
+        "원미산": [
+          "远美山",
+          "远美洞一带的矮山，建有步道和登山道。"
+        ],
+        "부천종합운동장": [
+          "富川综合运动场",
+          "职业球队富川FC 1995的主场，多用途体育场。"
+        ],
+        "소사벚꽃길": [
+          "素砂樱花路",
+          "素砂洞一带的樱花名胜，春季游客纷至。"
+        ]
+      }
+    }
   }
 }
