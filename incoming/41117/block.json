@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영통초등학교 운동장",
+        "coordinates": [
+          37.290753,
+          127.063642
+        ],
+        "capacity": 4200,
+        "address": "경기도 수원시 영통구"
+      },
+      {
+        "name": "영통실내체육관",
+        "coordinates": [
+          37.256813,
+          127.04397
+        ],
+        "capacity": 6300,
+        "address": "경기도 수원시 영통구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "광교호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "매탄동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼성전자 수원기지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영통동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "광교중앙역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "수원 영통구는 광교신도시와 매탄동 상권이 자리한 수원 동부의 구이다.",
   "data_sources": [
     {
