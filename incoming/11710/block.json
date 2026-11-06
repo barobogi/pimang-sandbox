@@ -361,5 +361,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Songpa-gu, Seoul",
+      "landmarks": {
+        "롯데월드타워": [
+          "Lotte World Tower",
+          "Korea's tallest landmark at 555 m with observation deck."
+        ],
+        "석촌호수": [
+          "Seokchon Lake",
+          "Signature lakeside park in the heart of Jamsil."
+        ],
+        "몽촌토성": [
+          "Mongchon Toseong Fortress",
+          "Earthen ramparts of the Baekje Hanseong era, a Historic Site."
+        ],
+        "롯데월드 어드벤처": [
+          "Lotte World Adventure",
+          "Korea's flagship indoor theme park."
+        ],
+        "송리단길": [
+          "Songridan-gil",
+          "Cafe and food street at the heart of Sincheon-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 松坡区",
+      "landmarks": {
+        "롯데월드타워": [
+          "ロッテワールドタワー",
+          "標高555メートル、韓国最高層のランドマーク。"
+        ],
+        "석촌호수": [
+          "石村湖",
+          "蚕室の都心にある代表的な湖畔公園。"
+        ],
+        "몽촌토성": [
+          "夢村土城",
+          "百済漢城時代の土城遺跡で史跡に指定されている。"
+        ],
+        "롯데월드 어드벤처": [
+          "ロッテワールドアドベンチャー",
+          "屋内テーマパークの代表的存在。"
+        ],
+        "송리단길": [
+          "ソンリダンキル",
+          "新川洞を代表するカフェ・グルメストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 松坡区",
+      "landmarks": {
+        "롯데월드타워": [
+          "乐天世界塔",
+          "高达555米的韩国第一高楼地标。"
+        ],
+        "석촌호수": [
+          "石村湖",
+          "蚕室市中心的代表性湖畔公园。"
+        ],
+        "몽촌토성": [
+          "梦村土城",
+          "百济汉城时代的夯土城遗迹，为史迹。"
+        ],
+        "롯데월드 어드벤처": [
+          "乐天世界冒险乐园",
+          "韩国室内主题公园的代表。"
+        ],
+        "송리단길": [
+          "松理团路",
+          "新川洞的代表性咖啡与美食街。"
+        ]
+      }
+    }
   }
 }
