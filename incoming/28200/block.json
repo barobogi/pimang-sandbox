@@ -1,0 +1,627 @@
+{
+  "block_code": "28200",
+  "block_name": "인천광역시 남동구",
+  "bbox": [
+    126.667495,
+    37.3762,
+    126.779823,
+    37.479656
+  ],
+  "center": [
+    37.427928,
+    126.723659
+  ],
+  "landmarks": [
+    {
+      "name": "소래습지생태공원",
+      "lat": 37.4127508,
+      "lng": 126.7477937,
+      "category": "생태/습지",
+      "description": "소래도 일대의 갯벌과 논습지로 이루어진 국내 대표 내륙 습지 생태공원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 308.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EC%86%8C%EB%9E%98%EC%8A%B5%EC%A7%80%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90_%EA%B0%88%EB%8C%80%EB%B0%AD.jpg/1280px-%EC%86%8C%EB%9E%98%EC%8A%B5%EC%A7%80%EC%83%9D%ED%83%9C%EA%B3%B5%EC%9B%90_%EA%B0%88%EB%8C%80%EB%B0%AD.jpg"
+    },
+    {
+      "name": "소래포구",
+      "lat": 37.4002447,
+      "lng": 126.7393554,
+      "category": "어항/갯벌",
+      "description": "소래산 자락에 형성된 전통 포구로 맨손갯벌체험과 낚시로 유명한 관광지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%9E%98%ED%8F%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 335.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sorae_History_Museum_191124005.jpg/1280px-Sorae_History_Museum_191124005.jpg"
+    },
+    {
+      "name": "인더스파크",
+      "lat": 37.4022,
+      "lng": 126.7231,
+      "category": "복합문화/전시",
+      "description": "서창동 구 남동공단 공장을 리모델링한 복합문화공간으로 공연과 체험이 가능하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 1.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/%EB%82%A8%EB%8F%99%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8C%8C%ED%81%AC_%EA%B0%84%ED%8C%90_2024.jpg"
+    },
+    {
+      "name": "인천대공원",
+      "lat": 37.4485494,
+      "lng": 126.7528149,
+      "category": "도시공원",
+      "description": "장수동에 조성된 대형 도시공원으로 산악자전거 코스와 수목원이 함께 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 228.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90%EB%82%A8%EB%AC%B8_2023.jpg/1280px-%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90%EB%82%A8%EB%AC%B8_2023.jpg"
+    },
+    {
+      "name": "남동문화예술회관",
+      "lat": 37.432,
+      "lng": 126.705,
+      "category": "공연장/문화",
+      "description": "남동구 대표 공연·전시 시설로 구민 문화예술 활동의 거점이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%99%EA%B5%AC",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 105.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%EB%82%A8%EB%8F%99%EC%83%9D%ED%99%9C%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0.jpg/1280px-%EB%82%A8%EB%8F%99%EC%83%9D%ED%99%9C%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0.jpg"
+    },
+    {
+      "name": "소래포구 해오름광장",
+      "lat": 37.3762,
+      "lng": 126.7485,
+      "category": "항구/관광",
+      "description": "소래포구 어시장과 새우타워 전망대가 있는 수변광장으로 소래포구축제가 열린다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%9E%98%ED%8F%AC%EA%B5%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 339.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%EC%86%8C%EB%9E%98%ED%95%B4%EB%84%98%EC%9D%B4%EC%A0%84%EB%A7%9D%EB%8C%80.jpg/1280px-%EC%86%8C%EB%9E%98%ED%95%B4%EB%84%98%EC%9D%B4%EC%A0%84%EB%A7%9D%EB%8C%80.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "남동 해안 절경 시그니처 드론 플라이트",
+      "description": "남동문화예술회관 → 인천대공원 → 소래습지생태공원 → 인더스파크 → 소래포구 해오름광장 순으로 이어지는 인천광역시 남동구의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "남동문화예술회관",
+        "인천대공원",
+        "소래습지생태공원",
+        "인더스파크",
+        "소래포구 해오름광장"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "남동 푸른 해안선 에어리얼 크루즈",
+      "description": "소래포구 해오름광장 → 소래포구 → 인더스파크 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 남동의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "소래포구 해오름광장",
+        "소래포구",
+        "인더스파크"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "남동 그린 랜드스케이프 플라이트",
+      "description": "인천대공원 → 소래습지생태공원 → 소래포구 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 남동의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "인천대공원",
+        "소래습지생태공원",
+        "소래포구"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "남동문화예술회관 큰마당식당",
+      "lat": 37.4313,
+      "lng": 126.70521,
+      "specialty": "닭강정",
+      "category": "향토음식"
+    },
+    {
+      "name": "인더스파크 솥뚜껑가게",
+      "lat": 37.40227,
+      "lng": 126.72359,
+      "specialty": "짜장면",
+      "category": "향토음식"
+    },
+    {
+      "name": "소래습지생태공원 가마솥밥가",
+      "lat": 37.413101,
+      "lng": 126.747304,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "소래포구 솥뚜껑가게",
+      "lat": 37.399545,
+      "lng": 126.739705,
+      "specialty": "꼬막무침",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "소래습지생태공원",
+        "station_name": "인천대공원역",
+        "line": "인천 2호선",
+        "exit_no": 5,
+        "walk_minutes": 38,
+        "coordinates": [
+          37.4342,
+          126.7343
+        ]
+      },
+      {
+        "target_landmark": "소래포구",
+        "station_name": "소래포구 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.402645,
+          126.738155
+        ]
+      },
+      {
+        "target_landmark": "인더스파크",
+        "station_name": "남동인더스파크역",
+        "line": "인천 2호선",
+        "exit_no": 2,
+        "walk_minutes": 32,
+        "coordinates": [
+          37.4169,
+          126.7055
+        ]
+      },
+      {
+        "target_landmark": "인천대공원",
+        "station_name": "인천대공원역",
+        "line": "인천 2호선",
+        "exit_no": 5,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.4342,
+          126.7343
+        ]
+      },
+      {
+        "target_landmark": "남동문화예술회관",
+        "station_name": "남동인더스파크역",
+        "line": "인천 2호선",
+        "exit_no": 2,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.4169,
+          126.7055
+        ]
+      },
+      {
+        "target_landmark": "소래포구 해오름광장",
+        "station_name": "소래포구 해오름광장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.3786,
+          126.7473
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남동 중앙 공영주차장",
+        "coordinates": [
+          37.432,
+          126.7062
+        ],
+        "capacity": 71,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "남동 제2 공영주차장",
+        "coordinates": [
+          37.4042,
+          126.7239
+        ],
+        "capacity": 308,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남동초등학교 운동장",
+        "coordinates": [
+          37.425097,
+          126.741802
+        ],
+        "capacity": 3800,
+        "address": "인천광역시 남동구"
+      },
+      {
+        "name": "남동실내체육관",
+        "coordinates": [
+          37.403355,
+          126.729519
+        ],
+        "capacity": 4000,
+        "address": "인천광역시 남동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "소래습지생태공원",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "소래포구",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인더스파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인천대공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남동문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "소래포구 해오름광장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "인천대공원 벚꽃",
+        "소래습지생태공원 봄"
+      ],
+      "summer": [
+        "소래포구 여름",
+        "인천대공원 여름"
+      ],
+      "autumn": [
+        "인천대공원 단풍",
+        "소래습지생태공원 갈대"
+      ],
+      "winter": [
+        "소래포구 겨울",
+        "인천대공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "소래포구 야경",
+        "coordinates": [
+          37.400245,
+          126.739355
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "인천대공원 야경",
+        "coordinates": [
+          37.448549,
+          126.752815
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "남동구는 옛 남동공단이 국제시대 문화·산업 공간으로 재탄생한 인천의 자치구로 소래습지와 소래포구, 인천대공원 등 생태·녹지 명소가 자리한다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namdong-gu, Incheon",
+      "landmarks": {
+        "소래습지생태공원": [
+          "Sorae Wetland Ecological Park",
+          "Korea's signature inland wetland park of mudflats and rice paddies around Sorae-do."
+        ],
+        "소래포구": [
+          "Sorae Port",
+          "Traditional fishing port at the foot of Soraesan, famed for bare-handed mudflat experiences and fishing."
+        ],
+        "인더스파크": [
+          "Indus Park",
+          "Multiplex culture space remodeled from a former factory in Seochang-dong, hosting shows and experiences."
+        ],
+        "인천대공원": [
+          "Incheon Grand Park",
+          "Large urban park in Jangsu-dong with mountain-bike courses and an arboretum."
+        ],
+        "남동문화예술회관": [
+          "Namdong Arts Center",
+          "Namdong-gu's leading venue for performances and exhibitions."
+        ],
+        "소래포구 해오름광장": [
+          "Sorae Port Haeoreum Plaza",
+          "Waterfront plaza with the fish market and Shrimp Tower observatory, hosting the Sorae Port Festival."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 南洞区",
+      "landmarks": {
+        "소래습지생태공원": [
+          "蘇萊湿地生態公園",
+          "蘇萊島一帯の干潟と田湿地からなる国内を代表する内陸湿地生態公園。"
+        ],
+        "소래포구": [
+          "蘇萊浦口",
+          "蘇萊山のふもとに形成された伝統漁港。干潟体験と釣りで有名な観光地。"
+        ],
+        "인더스파크": [
+          "インダスパーク",
+          "西昌洞の旧工場を改装した複合文化空間。公演と体験が楽しめる。"
+        ],
+        "인천대공원": [
+          "仁川大公園",
+          "長寿洞に造られた大型都市公園。マウンテンバイクコースと樹木園を併設する。"
+        ],
+        "남동문화예술회관": [
+          "南洞文化芸術会館",
+          "南洞区を代表する公演・展示施設で、区民文化芸術活動の拠点。"
+        ],
+        "소래포구 해오름광장": [
+          "蘇萊浦口ハオルム広場",
+          "蘇萊浦口の魚市場とエビタワー展望台のある水辺広場。蘇萊浦口祭りが開かれる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 南洞区",
+      "landmarks": {
+        "소래습지생태공원": [
+          "苏莱湿地生态公园",
+          "苏莱岛一带滩涂与稻田湿地组成的韩国代表性湿地生态公园。"
+        ],
+        "소래포구": [
+          "苏莱浦口",
+          "苏莱山麓的传统渔港，以徒手滩涂体验和海钓闻名。"
+        ],
+        "인더스파크": [
+          "印都斯园区",
+          "西昌洞旧工厂改建的复合文化空间，可观赏演出与体验。"
+        ],
+        "인천대공원": [
+          "仁川大公园",
+          "长寿洞建成的大型城市公园，设有山地车道和树木园。"
+        ],
+        "남동문화예술회관": [
+          "南洞文化艺术会馆",
+          "南洞区代表性演出展览设施，区民文艺活动的据点。"
+        ],
+        "소래포구 해오름광장": [
+          "苏莱浦口日出广场",
+          "设有鱼市和虾塔观景台的滨水广场，举办苏莱浦口节。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.namdong.go.kr",
+    "civil_service_center": {
+      "location_name": "남동구청 민원실 앞",
+      "coordinates": [
+        126.731488,
+        37.447342
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "032-466-3811",
+      "info": "인천광역시 남동구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "남동구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.723859,
+      37.428228
+    ],
+    "cctv_zone_count": 303,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "구월근린공원",
+    "trail_length_km": 1.4,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "남동구민축제",
+    "typical_month": 10,
+    "venue_name": "남동구청 광장",
+    "venue_coords": [
+      126.723359,
+      37.428228
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "남동구민체육관",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.734488,
+      37.449342
+    ],
+    "reservation_url": "https://www.namdong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "남동구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      126.729188,
+      37.446442
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "남동구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.734288,
+      37.447742
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "남동문화예술회관 큰마당식당",
+    "coordinates": [
+      126.70521,
+      37.4313
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "닭강정 (남동구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=남동구청&goalx=126.731488&goaly=37.447342",
+    "kakaonavi_url": "kakaonavi://navigate?name=남동구청&x=126.731488&y=37.447342&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=남동구청&dlng=126.731488&dlat=37.447342&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:45",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:57",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:30",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "남동구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.723859,
+          37.429578
+        ],
+        [
+          126.723859,
+          37.428228
+        ],
+        [
+          126.722409,
+          37.429178
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "남동구 중심상업거리",
+    "anchor_center": [
+      126.732155,
+      37.448342
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 120,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
