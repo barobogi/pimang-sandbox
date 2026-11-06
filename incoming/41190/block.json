@@ -144,6 +144,85 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "상동호수공원",
+        "station_name": "상동호수공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          37.507545,
+          126.747135
+        ]
+      },
+      {
+        "target_landmark": "부천만화정보박물관",
+        "station_name": "부천만화정보박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.4923,
+          126.8411
+        ]
+      },
+      {
+        "target_landmark": "원미산",
+        "station_name": "부천역",
+        "line": "수도권 1호선",
+        "exit_no": 8,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.4799,
+          126.7839
+        ]
+      },
+      {
+        "target_landmark": "부천종합운동장",
+        "station_name": "중동역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 39,
+        "coordinates": [
+          37.4837,
+          126.779
+        ]
+      },
+      {
+        "target_landmark": "소사벚꽃길",
+        "station_name": "부천역",
+        "line": "수도권 1호선",
+        "exit_no": 8,
+        "walk_minutes": 36,
+        "coordinates": [
+          37.4799,
+          126.7839
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "부천 중앙 공영주차장",
+        "coordinates": [
+          37.502513,
+          126.799792
+        ],
+        "capacity": 381,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "부천 제2 공영주차장",
+        "coordinates": [
+          37.488958,
+          126.797478
+        ],
+        "capacity": 518,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "부천시는 근현대 섬유·기계·전자 공업 도시로 성장했고 부천만화박물관과 상동호수공원, 국제판타지축제 등 문화 도시로도 명성을 얻은 자치구 없는 시(구 없는 단일 도시)이다.",
   "data_sources": [
     {
