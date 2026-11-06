@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "진도대교",
+        "station_name": "진도대교 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.57088,
+          126.30227
+        ]
+      },
+      {
+        "target_landmark": "운림산방",
+        "station_name": "운림산방 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.465393,
+          126.305155
+        ]
+      },
+      {
+        "target_landmark": "진도개테마파크",
+        "station_name": "진도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 21,
+        "coordinates": [
+          34.481414,
+          126.263596
+        ]
+      },
+      {
+        "target_landmark": "진도군청",
+        "station_name": "진도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 9,
+        "coordinates": [
+          34.481414,
+          126.263596
+        ]
+      },
+      {
+        "target_landmark": "진도시장",
+        "station_name": "진도버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.481414,
+          126.263596
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "진도 중앙 공영주차장",
+        "coordinates": [
+          34.481414,
+          126.262796
+        ],
+        "capacity": 304,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "진도 제2 공영주차장",
+        "coordinates": [
+          34.489231,
+          126.263126
+        ],
+        "capacity": 178,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "진도 제3 공영주차장",
+        "coordinates": [
+          34.482002,
+          126.280721
+        ],
+        "capacity": 93,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "진도군은 진도대교와 운림산방, 진도개로 유명한 전남 서남단의 섬 군이다.",
   "data_sources": [
     {
