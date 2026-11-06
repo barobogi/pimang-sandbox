@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Masanhoewon-gu, Changwon",
+      "landmarks": {
+        "마산역 상권": [
+          "Masan Station District",
+          "Signature station district of Masanhoewon-gu, Changwon."
+        ],
+        "회원동 상권": [
+          "Hoeiwon-dong District",
+          "Signature district hub of Masanhoewon-gu, Changwon."
+        ],
+        "마산회원구청": [
+          "Masanhoewon-gu Office",
+          "Administrative center of Masanhoewon-gu, Changwon."
+        ],
+        "봉암갯벌": [
+          "Bongam Mudflats",
+          "Signature ecological attraction of Masanhoewon-gu, Changwon."
+        ],
+        "내서읍 상권": [
+          "Naeseo-eup District",
+          "Signature district hub of Masanhoewon-gu, Changwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌原市 馬山会原区",
+      "landmarks": {
+        "마산역 상권": [
+          "馬山駅商圏",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "회원동 상권": [
+          "会原洞商圏",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "마산회원구청": [
+          "馬山会原区庁",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "봉암갯벌": [
+          "鳳岩干潟",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ],
+        "내서읍 상권": [
+          "内西邑商圏",
+          "慶尚南道昌原市馬山会原区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌原市 马山会原区",
+      "landmarks": {
+        "마산역 상권": [
+          "马山站商圈",
+          "庆尚南道昌原市马山会原区的代表性商圈。"
+        ],
+        "회원동 상권": [
+          "会原洞商圈",
+          "庆尚南道昌原市马山会原区的代表性商圈。"
+        ],
+        "마산회원구청": [
+          "马山会原区厅",
+          "庆尚南道昌原市马山会原区的行政中心。"
+        ],
+        "봉암갯벌": [
+          "凤岩滩涂",
+          "庆尚南道昌原市马山会原区的代表性生态景观。"
+        ],
+        "내서읍 상권": [
+          "内西邑商圈",
+          "庆尚南道昌原市马山会原区的代表性商圈。"
+        ]
+      }
+    }
   }
 }
