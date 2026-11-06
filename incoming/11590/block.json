@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongjak-gu, Seoul",
+      "landmarks": {
+        "국립서울현충원": [
+          "Seoul National Cemetery",
+          "National sanctuary honoring patriotic martyrs, hosting the annual Memorial Day ceremony."
+        ],
+        "노량진수산시장": [
+          "Noryangjin Fisheries Market",
+          "Korea's largest seafood wholesale and retail market, famous for octopus and fresh fish."
+        ],
+        "중앙대학교": [
+          "Chung-Ang University",
+          "Private university founded in 1918, known for its Heukseok-dong campus and museum."
+        ],
+        "노들섬": [
+          "Nodeul Island",
+          "Han River islet turned cultural spot with arts spaces and ecological wetlands."
+        ],
+        "보라매공원": [
+          "Boramae Park",
+          "Large neighborhood park built on the former Air Force Boramae airfield."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 銅雀区",
+      "landmarks": {
+        "국립서울현충원": [
+          "国立ソウル顕忠院",
+          "殉国先烈と国家有功者を祀る国家の聖地。毎年顕忠日の行事が行われる。"
+        ],
+        "노량진수산시장": [
+          "鷺梁津水産市場",
+          "韓国最大級の水産物卸・小売市場。タコや鮮魚の料理で有名。"
+        ],
+        "중앙대학교": [
+          "中央大学校",
+          "1918年創立の私立総合大学。黒石洞キャンパスと博物館が有名。"
+        ],
+        "노들섬": [
+          "ノドゥル島",
+          "漢江の中州。文化空間と生態湿地が整備された新しい名所。"
+        ],
+        "보라매공원": [
+          "ボラメ公園",
+          "空軍ボラメ飛行場跡地に造成された大型近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 铜雀区",
+      "landmarks": {
+        "국립서울현충원": [
+          "国立首尔显忠院",
+          "安葬殉国先烈和国家有功者的国家圣地，每年举行显忠日纪念仪式。"
+        ],
+        "노량진수산시장": [
+          "鹭粱津水产市场",
+          "韩国规模最大的水产批发零售市场，以章鱼和海鲜美食闻名。"
+        ],
+        "중앙대학교": [
+          "中央大学",
+          "创办于1918年的私立综合大学，以黑石洞校区和博物馆闻名。"
+        ],
+        "노들섬": [
+          "鹭得岛",
+          "汉江中的江心岛，建有文化空间和生态湿地，是新晋名胜。"
+        ],
+        "보라매공원": [
+          "波拉美公园",
+          "建于原空军机场旧址上的大型近邻公园。"
+        ]
+      }
+    }
   }
 }
