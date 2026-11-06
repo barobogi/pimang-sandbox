@@ -216,6 +216,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "사천초등학교 운동장",
+        "coordinates": [
+          35.06981,
+          128.064935
+        ],
+        "capacity": 6900,
+        "address": "경상남도 사천시"
+      },
+      {
+        "name": "사천실내체육관",
+        "coordinates": [
+          34.98513,
+          128.080493
+        ],
+        "capacity": 3400,
+        "address": "경상남도 사천시"
+      },
+      {
+        "name": "사천중앙공원 비상집합장소",
+        "coordinates": [
+          34.982861,
+          128.063618
+        ],
+        "capacity": 6800,
+        "address": "경상남도 사천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "항공우주박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "와룡산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사천시청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "사천시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼천포항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "사천시는 항공우주박물관과 와룡산, 삼천포항이 자리한 경남 남해안의 도시이다.",
   "data_sources": [
     {
