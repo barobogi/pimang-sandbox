@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "침산공원 봄꽃",
+        "구암동고분군 봄 산책"
+      ],
+      "summer": [
+        "침산공원 여름",
+        "팔거산성 여름"
+      ],
+      "autumn": [
+        "칠곡향교 가을",
+        "침산공원 단풍"
+      ],
+      "winter": [
+        "구암서원 설경",
+        "침산공원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "침산공원 야경",
+        "coordinates": [
+          35.895228,
+          128.585716
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "팔거산성 야경",
+        "coordinates": [
+          35.925348,
+          128.568647
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "대구 북구는 침산공원과 구암동고분군, 팔거산성 등 역사와 자연이 함께한 대구 북부의 구이다.",
   "data_sources": [
     {
