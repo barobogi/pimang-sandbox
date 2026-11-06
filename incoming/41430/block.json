@@ -436,5 +436,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.uw21.net",
+    "civil_service_center": {
+      "location_name": "의왕시청 민원실 앞",
+      "coordinates": [
+        126.98764,
+        37.358393
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "031-345-2114",
+      "info": "경기도 의왕시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "의왕시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.98754,
+      37.357393
+    ],
+    "cctv_zone_count": 119
+  },
+  "urban_parks_trails": {
+    "park_name": "왕송호수공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "의왕 시민축제",
+    "typical_month": 10,
+    "venue_name": "왕송호수공원",
+    "venue_coords": [
+      126.98804,
+      37.358393
+    ]
   }
 }
