@@ -1,0 +1,584 @@
+{
+  "block_code": "11290",
+  "block_name": "서울특별시 성북구",
+  "bbox": [
+    126.974527,
+    37.577615,
+    127.071774,
+    37.636542
+  ],
+  "center": [
+    37.607079,
+    127.02315
+  ],
+  "landmarks": [
+    {
+      "name": "서울성곽길",
+      "lat": 37.592,
+      "lng": 126.99,
+      "category": "역사/산책",
+      "description": "한양도성 성곽이 이어지는 대표 산책로다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 60.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1%EB%82%99%EC%82%B0%EA%B5%AC%EA%B0%84.jpg/1280px-%ED%95%9C%EC%96%91%EB%8F%84%EC%84%B1%EB%82%99%EC%82%B0%EA%B5%AC%EA%B0%84.jpg"
+    },
+    {
+      "name": "고려대학교",
+      "lat": 37.5871179,
+      "lng": 127.0304669,
+      "category": "교육/캠퍼스",
+      "description": "성북구 안암동에 캠퍼스를 둔 대형 사립대학이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_University_Main_Hall.jpg/1280px-Korea_University_Main_Hall.jpg"
+    },
+    {
+      "name": "정릉",
+      "lat": 37.6078689,
+      "lng": 127.0013141,
+      "category": "역사/유적",
+      "description": "조선 시대 태조의 계비 신덕왕후 강씨의 능이 있는 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A6%89",
+      "camera_view": {
+        "altitude": 120,
+        "pitch": -28,
+        "heading": 92.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%EC%84%9C%EC%9A%B8_%EC%84%A0%EB%A6%89%EA%B3%BC_%EC%A0%95%EB%A6%89_%EC%A0%95%EB%A6%89_%EC%A0%95%EC%9E%90%EA%B0%81.jpg/1280px-%EC%84%9C%EC%9A%B8_%EC%84%A0%EB%A6%89%EA%B3%BC_%EC%A0%95%EB%A6%89_%EC%A0%95%EB%A6%89_%EC%A0%95%EC%9E%90%EA%B0%81.jpg"
+    },
+    {
+      "name": "성북동",
+      "lat": 37.59552,
+      "lng": 126.99215,
+      "category": "마을/카페",
+      "description": "고택 카페와 골목이 어우러진 정적 마을이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%B6%81%EB%8F%99",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 64.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%EC%84%B1%EB%9D%BD%EC%9B%90.jpg"
+    },
+    {
+      "name": "삼청동",
+      "lat": 37.5869115,
+      "lng": 126.9825929,
+      "category": "거리/문화",
+      "description": "전통과 현대 미술관이 어우러진 대표 골목 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%AD%EB%8F%99",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 57.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/P00250516_085446162_%EC%82%BC%EC%B2%AD%EB%8F%99%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0.JPG/1280px-P00250516_085446162_%EC%82%BC%EC%B2%AD%EB%8F%99%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "성북 도심 하이라이트 시그니처 스카이 투어",
+      "description": "정릉 → 성북동 → 서울성곽길 → 삼청동 → 고려대학교 순으로 이어지는 서울특별시 성북구의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "정릉",
+        "성북동",
+        "서울성곽길",
+        "삼청동",
+        "고려대학교"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "성북 도심 스카이라인 크루즈",
+      "description": "고려대학교 → 성북동 → 삼청동 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 성북의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "고려대학교",
+        "성북동",
+        "삼청동"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "성북 세월을 나는 문화유산 플라이트",
+      "description": "서울성곽길 → 성북동 → 정릉 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 성북의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "서울성곽길",
+        "성북동",
+        "정릉"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "고려대학교 본점",
+      "lat": 37.587048,
+      "lng": 127.030397,
+      "specialty": "설농탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "정릉 할매집",
+      "lat": 37.607729,
+      "lng": 127.002014,
+      "specialty": "순대국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "성북동 옛맛식당",
+      "lat": 37.59538,
+      "lng": 126.99194,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "서울성곽길 본점",
+      "lat": 37.59228,
+      "lng": 126.98972,
+      "specialty": "평양냉면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서울성곽길",
+        "station_name": "한성대입구역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 21,
+        "coordinates": [
+          37.5885,
+          127.0064
+        ]
+      },
+      {
+        "target_landmark": "고려대학교",
+        "station_name": "보문역",
+        "line": "서울 6호선",
+        "exit_no": 1,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.5894,
+          127.02
+        ]
+      },
+      {
+        "target_landmark": "정릉",
+        "station_name": "성신여대입구역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 31,
+        "coordinates": [
+          37.5926,
+          127.0165
+        ]
+      },
+      {
+        "target_landmark": "성북동",
+        "station_name": "한성대입구역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 21,
+        "coordinates": [
+          37.5885,
+          127.0064
+        ]
+      },
+      {
+        "target_landmark": "삼청동",
+        "station_name": "한성대입구역",
+        "line": "서울 4호선",
+        "exit_no": 7,
+        "walk_minutes": 30,
+        "coordinates": [
+          37.5885,
+          127.0064
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "성북 중앙 공영주차장",
+        "coordinates": [
+          37.588718,
+          127.029667
+        ],
+        "capacity": 98,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "성북 제2 공영주차장",
+        "coordinates": [
+          37.610269,
+          126.999314
+        ],
+        "capacity": 505,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "성북초등학교 운동장",
+        "coordinates": [
+          37.588781,
+          126.990237
+        ],
+        "capacity": 2400,
+        "address": "서울특별시 성북구"
+      },
+      {
+        "name": "성북실내체육관",
+        "coordinates": [
+          37.583227,
+          127.044574
+        ],
+        "capacity": 1400,
+        "address": "서울특별시 성북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "서울성곽길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고려대학교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정릉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성북동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "삼청동",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "정릉 벚꽃길",
+        "서울성곽길 봄 산책"
+      ],
+      "summer": [
+        "성북동 여름 골목",
+        "고려대학교 여름 캠퍼스"
+      ],
+      "autumn": [
+        "서울성곽길 단풍",
+        "정릉 가을 숲"
+      ],
+      "winter": [
+        "성북동 설경",
+        "서울성곽길 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "서울성곽길 야경",
+        "coordinates": [
+          37.592,
+          126.99
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "성북동 야경",
+        "coordinates": [
+          37.59552,
+          126.99215
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "성북구는 서촌과 성북동, 정릉이 함께한 유서 깊은 자치구로 한옥과 대학, 도서관 등의 정적 문화가 발달했다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongbuk-gu, Seoul",
+      "landmarks": {
+        "서울성곽길": [
+          "Seoul City Wall Trail",
+          "Scenic trail along the restored Hanyangdoseong fortress wall."
+        ],
+        "고려대학교": [
+          "Korea University",
+          "Major private university with its campus in Anam-dong."
+        ],
+        "정릉": [
+          "Jeongneung Royal Tomb",
+          "Site of the tomb of Queen Sindeok, consort of King Taejo of Joseon."
+        ],
+        "성북동": [
+          "Seongbuk-dong",
+          "Quiet village of old hanok cafes and winding lanes."
+        ],
+        "삼청동": [
+          "Samcheong-dong",
+          "Picturesque lane blending tradition with contemporary art galleries."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 城北区",
+      "landmarks": {
+        "서울성곽길": [
+          "ソウル城郭路",
+          "漢陽都城の城壁が続く代表的な散策路。"
+        ],
+        "고려대학교": [
+          "高麗大学校",
+          "安岩洞にキャンパスを構える韓国屈指の私立大学。"
+        ],
+        "정릉": [
+          "貞陵",
+          "朝鮮太祖の継妃・神徳王后康氏の陵がある史跡。"
+        ],
+        "성북동": [
+          "城北洞",
+          "古韓屋カフェと路地が調和する静かな町。"
+        ],
+        "삼청동": [
+          "三清洞",
+          "伝統と現代の美術館が調和する人気の街並み。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 城北区",
+      "landmarks": {
+        "서울성곽길": [
+          "首尔城郭路",
+          "沿着汉阳都城城墙延伸的经典散步道。"
+        ],
+        "고려대학교": [
+          "高丽大学",
+          "位于安岩洞的韩国顶尖私立大学。"
+        ],
+        "정릉": [
+          "贞陵",
+          "安葬朝鲜太祖继妃神德王后康氏的王陵遗迹。"
+        ],
+        "성북동": [
+          "城北洞",
+          "古宅咖啡屋与小巷交织的静谧村落。"
+        ],
+        "삼청동": [
+          "三清洞",
+          "传统建筑与现代美术馆相融的热门街巷。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seongbuk.go.kr",
+    "civil_service_center": {
+      "location_name": "성북구청 민원실 앞",
+      "coordinates": [
+        127.016828,
+        37.589468
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-2241-3114",
+      "info": "서울특별시 성북구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "성북구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.023351,
+      37.607179
+    ],
+    "cctv_zone_count": 178,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "길음근린공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "성북 문학의 밤",
+    "typical_month": 10,
+    "venue_name": "문학의 집(성북동) 일대",
+    "venue_coords": [
+      127.02295,
+      37.607079
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "성북구민체육관",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.019828,
+      37.590268
+    ],
+    "reservation_url": "https://www.seongbuk.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "성북구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      127.015228,
+      37.588068
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "성북구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.019728,
+      37.591468
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "서울성곽길 본점",
+    "coordinates": [
+      126.98972,
+      37.59228
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "평양냉면 (성북구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=성북구청&goalx=127.016828&goaly=37.589468",
+    "kakaonavi_url": "kakaonavi://navigate?name=성북구청&x=127.016828&y=37.589468&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=성북구청&dlng=127.016828&dlat=37.589468&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:10",
+      "sunset": "19:56",
+      "noon_altitude_deg": 75.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:44",
+      "sunset": "17:17",
+      "noon_altitude_deg": 29.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "성북구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.022801,
+          37.608579
+        ],
+        [
+          127.023351,
+          37.607179
+        ],
+        [
+          127.021901,
+          37.607779
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "성북구 중심상업거리",
+    "anchor_center": [
+      127.018295,
+      37.588135
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 130,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
