@@ -137,6 +137,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "동성로",
+        "station_name": "중앙로역",
+        "line": "대구 1호선",
+        "exit_no": 2,
+        "walk_minutes": 13,
+        "coordinates": [
+          35.8667,
+          128.6063
+        ]
+      },
+      {
+        "target_landmark": "약령시장",
+        "station_name": "중앙로역",
+        "line": "대구 1호선",
+        "exit_no": 2,
+        "walk_minutes": 9,
+        "coordinates": [
+          35.8667,
+          128.6063
+        ]
+      },
+      {
+        "target_landmark": "서문시장",
+        "station_name": "서문시장역",
+        "line": "대구 3호선",
+        "exit_no": 2,
+        "walk_minutes": 3,
+        "coordinates": [
+          35.8716,
+          128.581
+        ]
+      },
+      {
+        "target_landmark": "근대역사골목",
+        "station_name": "중앙로역",
+        "line": "대구 1호선",
+        "exit_no": 2,
+        "walk_minutes": 16,
+        "coordinates": [
+          35.8667,
+          128.6063
+        ]
+      },
+      {
+        "target_landmark": "북성로",
+        "station_name": "서문시장역",
+        "line": "대구 3호선",
+        "exit_no": 2,
+        "walk_minutes": 17,
+        "coordinates": [
+          35.8716,
+          128.581
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동인공영주차장",
+        "coordinates": [
+          35.8665,
+          128.6022
+        ],
+        "capacity": 200,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서문시장 공영주차장",
+        "coordinates": [
+          35.872,
+          128.5795
+        ],
+        "capacity": 170,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "대구 중구는 대구의 원도심으로 동성로와 약령시장, 서문시장, 근대역사골목이 자리한 대구 상업·문화 중심지다.",
   "data_sources": [
     {
