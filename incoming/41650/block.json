@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "포천초등학교 운동장",
+        "coordinates": [
+          38.010889,
+          127.298272
+        ],
+        "capacity": 1300,
+        "address": "경기도 포천시"
+      },
+      {
+        "name": "포천실내체육관",
+        "coordinates": [
+          38.128429,
+          127.228989
+        ],
+        "capacity": 2500,
+        "address": "경기도 포천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "산정호수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한탄강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "일동허브밸리",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "포천시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "운악산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "경기 포천시는 산정호수와 한탄강이 함께한 경기 북동부의 도시이다.",
   "data_sources": [
     {
