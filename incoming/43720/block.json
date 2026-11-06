@@ -147,6 +147,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "법주사",
+        "station_name": "법주사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.544222,
+          127.836166
+        ]
+      },
+      {
+        "target_landmark": "속리산",
+        "station_name": "속리산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.455764,
+          127.783228
+        ]
+      },
+      {
+        "target_landmark": "정이품송",
+        "station_name": "정이품송 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.51774,
+          127.816787
+        ]
+      },
+      {
+        "target_landmark": "보은군청",
+        "station_name": "보은버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 29,
+        "coordinates": [
+          36.49009,
+          127.708061
+        ]
+      },
+      {
+        "target_landmark": "보은시장",
+        "station_name": "보은버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.49009,
+          127.708061
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "보은 중앙 공영주차장",
+        "coordinates": [
+          36.49089,
+          127.711661
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "보은 제2 공영주차장",
+        "coordinates": [
+          36.491277,
+          127.730367
+        ],
+        "capacity": 97,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "보은 제3 공영주차장",
+        "coordinates": [
+          36.457364,
+          127.782028
+        ],
+        "capacity": 262,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "보은군은 속리산과 법주사, 정이품송이 자리한 충북 남부의 군이다.",
   "data_sources": [
     {
