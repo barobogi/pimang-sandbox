@@ -1,0 +1,573 @@
+{
+  "block_code": "47900",
+  "block_name": "경상북도 예천군",
+  "bbox": [
+    128.260789,
+    36.457326,
+    128.6116,
+    36.850152
+  ],
+  "center": [
+    36.653739,
+    128.436195
+  ],
+  "landmarks": [
+    {
+      "name": "회룡포",
+      "lat": 36.5756035,
+      "lng": 128.3213156,
+      "category": "경승지/자연",
+      "description": "회룡포은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%9A%8C%EB%A3%A1%ED%8F%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 49.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hoeryongpo.jpg/1280px-Hoeryongpo.jpg"
+    },
+    {
+      "name": "초간정",
+      "lat": 36.7013824,
+      "lng": 128.3817699,
+      "category": "누정/문화유산",
+      "description": "초간정은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B0%84%EC%A0%95",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 137.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%EC%B4%88%EA%B0%84%EC%A0%95.jpg/1280px-%EC%B4%88%EA%B0%84%EC%A0%95.jpg"
+    },
+    {
+      "name": "예천천문우주센터",
+      "lat": 36.7013187,
+      "lng": 128.504848,
+      "category": "과학/천문",
+      "description": "예천천문우주센터은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 229.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yecheon-gun_office.JPG/1280px-Yecheon-gun_office.JPG"
+    },
+    {
+      "name": "예천군청",
+      "lat": 36.6469504,
+      "lng": 128.4373911,
+      "category": "행정/랜드마크",
+      "description": "예천군청은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 352.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yecheon-gun_office.JPG/1280px-Yecheon-gun_office.JPG"
+    },
+    {
+      "name": "예천시장",
+      "lat": 36.6541236,
+      "lng": 128.450112,
+      "category": "시장/먹거리",
+      "description": "예천시장은(는) 경상북도 예천군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%B2%9C%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 268.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yecheon-gun_office.JPG/1280px-Yecheon-gun_office.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "예천 도심 하이라이트 시그니처 스카이 투어",
+      "description": "예천군청 → 예천시장 → 예천천문우주센터 → 초간정 → 회룡포 순으로 이어지는 경상북도 예천군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "예천군청",
+        "예천시장",
+        "예천천문우주센터",
+        "초간정",
+        "회룡포"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "예천 도심 스카이라인 크루즈",
+      "description": "예천천문우주센터 → 예천시장 → 예천군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 예천의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "예천천문우주센터",
+        "예천시장",
+        "예천군청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "예천 그린 랜드스케이프 플라이트",
+      "description": "회룡포 → 예천군청 → 초간정 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 예천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "회룡포",
+        "예천군청",
+        "초간정"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "예천 골목식당",
+      "lat": 36.654264,
+      "lng": 128.449832,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "예천 큰마당식당",
+      "lat": 36.653704,
+      "lng": 128.450252,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "예천 솥뚜껑가게",
+      "lat": 36.654614,
+      "lng": 128.449832,
+      "specialty": "편육무침",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "회룡포",
+        "station_name": "회룡포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.573603,
+          128.320116
+        ]
+      },
+      {
+        "target_landmark": "초간정",
+        "station_name": "초간정 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.699382,
+          128.38057
+        ]
+      },
+      {
+        "target_landmark": "예천천문우주센터",
+        "station_name": "예천천문우주센터 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.699319,
+          128.503648
+        ]
+      },
+      {
+        "target_landmark": "예천군청",
+        "station_name": "예천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.64575,
+          128.436591
+        ]
+      },
+      {
+        "target_landmark": "예천시장",
+        "station_name": "예천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 22,
+        "coordinates": [
+          36.64575,
+          128.436591
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "예천 중앙 공영주차장",
+        "coordinates": [
+          36.64855,
+          128.436591
+        ],
+        "capacity": 252,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "예천 제2 공영주차장",
+        "coordinates": [
+          36.656524,
+          128.452512
+        ],
+        "capacity": 207,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "예천초등학교 운동장",
+        "coordinates": [
+          36.609671,
+          128.360552
+        ],
+        "capacity": 1100,
+        "address": "경상북도 예천군"
+      },
+      {
+        "name": "예천실내체육관",
+        "coordinates": [
+          36.708765,
+          128.351198
+        ],
+        "capacity": 5200,
+        "address": "경상북도 예천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "회룡포",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "초간정",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "예천천문우주센터",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "예천군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "예천시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "회룡포 봄",
+        "초간정 봄"
+      ],
+      "summer": [
+        "초간정 여름 계곡",
+        "회룡포 여름 물길"
+      ],
+      "autumn": [
+        "회룡포 단풍",
+        "초간정 가을"
+      ],
+      "winter": [
+        "예천천문우주센터 겨울 별빛",
+        "회룡포 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "예천천문우주센터 야경",
+        "coordinates": [
+          36.701319,
+          128.504848
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "회룡포 야경",
+        "coordinates": [
+          36.575603,
+          128.321316
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "예천군은 회룡포와 초간정, 예천천문우주센터가 자리한 경북 중서부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yecheon-gun, Gyeongbuk",
+      "landmarks": {
+        "회룡포": [
+          "Hoeryongpo Bend",
+          "Signature scenic attraction of Yecheon-gun, Gyeongbuk."
+        ],
+        "초간정": [
+          "Choganjeong Pavilion",
+          "Signature pavilion heritage of Yecheon-gun, Gyeongbuk."
+        ],
+        "예천천문우주센터": [
+          "Yecheon Astro Space Center",
+          "Signature science attraction of Yecheon-gun, Gyeongbuk."
+        ],
+        "예천군청": [
+          "Yecheon County Office",
+          "Administrative center of Yecheon-gun, Gyeongbuk."
+        ],
+        "예천시장": [
+          "Yecheon Market",
+          "Signature market attraction of Yecheon-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 醴泉郡",
+      "landmarks": {
+        "회룡포": [
+          "回龍浦",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "초간정": [
+          "草澗亭",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "예천천문우주센터": [
+          "醴泉天文宇宙センター",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "예천군청": [
+          "醴泉郡庁",
+          "慶尚北道醴泉郡を代表する名所。"
+        ],
+        "예천시장": [
+          "醴泉市場",
+          "慶尚北道醴泉郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 醴泉郡",
+      "landmarks": {
+        "회룡포": [
+          "回龙浦",
+          "庆尚北道醴泉郡的代表性胜景。"
+        ],
+        "초간정": [
+          "草涧亭",
+          "庆尚北道醴泉郡的代表性楼亭。"
+        ],
+        "예천천문우주센터": [
+          "醴泉天文宇宙中心",
+          "庆尚北道醴泉郡的代表性科学设施。"
+        ],
+        "예천군청": [
+          "醴泉郡厅",
+          "庆尚北道醴泉郡的行政中心。"
+        ],
+        "예천시장": [
+          "醴泉市场",
+          "庆尚北道醴泉郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.ycg.kr",
+    "civil_service_center": {
+      "location_name": "예천군청 민원실 앞",
+      "coordinates": [
+        128.437391,
+        36.64695
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-654-3801",
+      "info": "경상북도 예천군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "예천군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.436495,
+      36.654139
+    ],
+    "cctv_zone_count": 325,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "예천군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "군민 민속놀이 대회",
+    "typical_month": 1,
+    "venue_name": "예천군민운동장",
+    "venue_coords": [
+      128.436595,
+      36.653639
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "예천군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.435191,
+      36.64975
+    ],
+    "reservation_url": "https://www.ycg.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "예천군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.437491,
+      36.64475
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "예천군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.438691,
+      36.64795
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 7
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "예천 큰마당식당",
+    "coordinates": [
+      128.450252,
+      36.653704
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (예천군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=예천군청&goalx=128.437391&goaly=36.646950",
+    "kakaonavi_url": "kakaonavi://navigate?name=예천군청&x=128.437391&y=36.646950&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=예천군청&dlng=128.437391&dlat=36.646950&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:38",
+      "noon_altitude_deg": 53.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:08",
+      "sunset": "19:48",
+      "noon_altitude_deg": 76.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:23",
+      "noon_altitude_deg": 53.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:35",
+      "sunset": "17:14",
+      "noon_altitude_deg": 29.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "예천군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.435645,
+          36.655439
+        ],
+        [
+          128.436495,
+          36.654139
+        ],
+        [
+          128.436295,
+          36.654589
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "예천군 전통시장 만남의거리",
+    "anchor_center": [
+      128.437924,
+      36.648617
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 20,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
