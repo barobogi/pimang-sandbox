@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gimhae-si, Gyeongnam",
+      "landmarks": {
+        "봉황공원": [
+          "Bonghwang Park",
+          "Park centered on Bonghwangdae, preserving Gaya's symbolic earthen ramparts."
+        ],
+        "국립김해박물관": [
+          "Gimhae National Museum",
+          "National museum of Gaya history, exhibiting Gaya heritage."
+        ],
+        "가야테마파크": [
+          "Gaya Theme Park",
+          "History experience park recreating an Iron Age Gaya village."
+        ],
+        "수어촌": [
+          "Sueo Village",
+          "History experience space recreating Gaya-era barracks and defenses."
+        ],
+        "장유폭포": [
+          "Jangyu Falls",
+          "Waterfall and valley in Jangyu-dong, Gimhae's signature natural spot."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 金海市",
+      "landmarks": {
+        "봉황공원": [
+          "鳳凰公園",
+          "鳳凰台を中心に造られた公園。伽倻の象徴的な土城が残る。"
+        ],
+        "국립김해박물관": [
+          "国立金海博物館",
+          "伽倻史専門の国立博物館。伽倻の文化遺産を展示する。"
+        ],
+        "가야테마파크": [
+          "伽倻テーマパーク",
+          "鉄器時代の伽倻の村を再現した歴史体験テーマパーク。"
+        ],
+        "수어촌": [
+          "守禦村",
+          "伽倻時代の兵営と守禦施設を再現した歴史体験空間。"
+        ],
+        "장유폭포": [
+          "長有瀑布",
+          "長有洞にある瀑布と渓谷。金海を代表する自然の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 金海市",
+      "landmarks": {
+        "봉황공원": [
+          "凤凰公园",
+          "以凤凰台为中心的公园，留有伽倻象征的土城。"
+        ],
+        "국립김해박물관": [
+          "国立金海博物馆",
+          "伽倻历史专业国立博物馆，展示伽倻文化遗产。"
+        ],
+        "가야테마파크": [
+          "伽倻主题公园",
+          "再现铁器时代伽倻村落的历史体验主题公园。"
+        ],
+        "수어촌": [
+          "守御村",
+          "再现伽倻时代兵营和防御设施的历史体验空间。"
+        ],
+        "장유폭포": [
+          "长有瀑布",
+          "位于长友洞的瀑布溪谷，金海的代表性自然名胜。"
+        ]
+      }
+    }
   }
 }
