@@ -147,6 +147,92 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "장생포고래박물관",
+        "station_name": "장생포고래박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          35.500461,
+          129.37775
+        ]
+      },
+      {
+        "target_landmark": "장생포고래문화마을",
+        "station_name": "울산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 18,
+        "coordinates": [
+          35.5472,
+          129.3384
+        ]
+      },
+      {
+        "target_landmark": "무룡공원",
+        "station_name": "태화강역",
+        "line": "동해선 광역전철",
+        "walk_minutes": 48,
+        "coordinates": [
+          35.5482,
+          129.3355
+        ]
+      },
+      {
+        "target_landmark": "울산대공원",
+        "station_name": "울산대공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          35.526271,
+          129.286278
+        ]
+      },
+      {
+        "target_landmark": "용연동굴",
+        "station_name": "용연동굴 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          35.5072,
+          129.2672
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남구 중앙 공영주차장",
+        "coordinates": [
+          35.527871,
+          129.290678
+        ],
+        "capacity": 264,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남구 제2 공영주차장",
+        "coordinates": [
+          35.5385,
+          129.332
+        ],
+        "capacity": 153,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남구 제3 공영주차장",
+        "coordinates": [
+          35.5424,
+          129.2996
+        ],
+        "capacity": 469,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "남구는 울산의 상업·주거 중심지로 장생포 고래박물관과 무룡공원, 용연동굴 등이 함께한 울산 남부의 구이다.",
   "data_sources": [
     {
