@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Buk-gu, Pohang",
+      "landmarks": {
+        "영일대해수욕장": [
+          "Yeongil Bay Beach",
+          "Pohang's signature beach on the blue waters of Yeongil Bay."
+        ],
+        "호미곶": [
+          "Homigot Cape",
+          "Landmark at the eastern tip of Korea, famed for its lighthouse."
+        ],
+        "한동대학교": [
+          "Handong Global University",
+          "Christian private university in Buk-gu, Pohang."
+        ],
+        "신포수변공원": [
+          "Sinpo Waterfront Park",
+          "Park on the Yeongil Bay waterfront with great bay views."
+        ],
+        "오어해변": [
+          "Oeo Beach",
+          "Quiet beach in Oeo-ri, Gampo-eup, loved for fishing and family outings."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 浦項市 北区",
+      "landmarks": {
+        "영일대해수욕장": [
+          "迎日台海水浴場",
+          "迎日湾の青い海とともにある浦項を代表するビーチ。"
+        ],
+        "호미곶": [
+          "虎尾岬",
+          "大韓民国最東端の海岸を代表する名所。虎尾岬灯台が有名。"
+        ],
+        "한동대학교": [
+          "韓東大学校",
+          "浦項北区に位置するキリスト教精神の私立総合大学。"
+        ],
+        "신포수변공원": [
+          "新浦水辺公園",
+          "迎日湾の水辺に造られた公園。迎日湾の眺めがよい。"
+        ],
+        "오어해변": [
+          "烏語ビーチ",
+          "甘浦烏語里にある静かなビーチ。釣りと家族行楽の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 浦项市 北区",
+      "landmarks": {
+        "영일대해수욕장": [
+          "迎日台海水浴场",
+          "伴着迎日湾碧海的浦项代表性海滨。"
+        ],
+        "호미곶": [
+          "虎尾岬",
+          "韩国最东端海岸的代表性名胜，虎尾岬灯塔闻名。"
+        ],
+        "한동대학교": [
+          "韩东大学",
+          "位于浦项北区的基督教私立综合大学。"
+        ],
+        "신포수변공원": [
+          "新浦滨水公园",
+          "迎日湾畔的公园，可眺望湾景。"
+        ],
+        "오어해변": [
+          "吾鱼海滩",
+          "甘浦吾鱼里安静的海滩，垂钓亲子两相宜。"
+        ]
+      }
+    }
   }
 }
