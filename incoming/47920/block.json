@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청량산",
+        "station_name": "봉화버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.808464,
+          128.930498
+        ]
+      },
+      {
+        "target_landmark": "닭실마을",
+        "station_name": "닭실마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.903751,
+          128.746852
+        ]
+      },
+      {
+        "target_landmark": "봉화군청",
+        "station_name": "봉화군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.893128,
+          128.735292
+        ]
+      },
+      {
+        "target_landmark": "봉화시장",
+        "station_name": "봉화시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.890414,
+          128.738679
+        ]
+      },
+      {
+        "target_landmark": "봉화은어축제장",
+        "station_name": "봉화은어축제장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.890321,
+          128.740711
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "봉화 중앙 공영주차장",
+        "coordinates": [
+          36.811264,
+          128.930498
+        ],
+        "capacity": 209,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "봉화 제2 공영주차장",
+        "coordinates": [
+          36.903351,
+          128.744452
+        ],
+        "capacity": 302,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "봉화군은 청량산과 봉화은어축제, 닭실마을이 자리한 경북 북부의 군이다.",
   "data_sources": [
     {
