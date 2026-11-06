@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "보성초등학교 운동장",
+        "coordinates": [
+          34.737661,
+          127.120728
+        ],
+        "capacity": 6800,
+        "address": "전라남도 보성군"
+      },
+      {
+        "name": "보성실내체육관",
+        "coordinates": [
+          34.683678,
+          127.06122
+        ],
+        "capacity": 6200,
+        "address": "전라남도 보성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대한다원",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "한국차박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "율포해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "태백산맥문학관",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "득량역",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "보성군은 녹차의 수도로 불리는 전남 남부의 군으로 대한다원 녹차밭과 율포해수욕장, 태백산맥문학관 등의 명소가 함께한다.",
   "data_sources": [
     {
