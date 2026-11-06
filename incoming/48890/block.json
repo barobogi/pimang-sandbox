@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hapcheon-gun, Gyeongnam",
+      "landmarks": {
+        "해인사": [
+          "Haeinsa Temple",
+          "UNESCO-listed temple heritage of Hapcheon-gun, Gyeongnam."
+        ],
+        "합천호": [
+          "Hapcheonho Lake",
+          "Signature lake attraction of Hapcheon-gun, Gyeongnam."
+        ],
+        "황매산": [
+          "Hwangmaesan Mountain",
+          "Signature mountain attraction of Hapcheon-gun, Gyeongnam."
+        ],
+        "합천군청": [
+          "Hapcheon County Office",
+          "Administrative center of Hapcheon-gun, Gyeongnam."
+        ],
+        "합천시장": [
+          "Hapcheon Market",
+          "Signature market attraction of Hapcheon-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 陜川郡",
+      "landmarks": {
+        "해인사": [
+          "海印寺",
+          "ユネスコ登録の寺。慶尚南道陜川郡を代表する名所。"
+        ],
+        "합천호": [
+          "陜川湖",
+          "慶尚南道陜川郡を代表する名所。"
+        ],
+        "황매산": [
+          "黄梅山",
+          "慶尚南道陜川郡を代表する名所。"
+        ],
+        "합천군청": [
+          "陜川郡庁",
+          "慶尚南道陜川郡を代表する名所。"
+        ],
+        "합천시장": [
+          "陜川市場",
+          "慶尚南道陜川郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 陕川郡",
+      "landmarks": {
+        "해인사": [
+          "海印寺",
+          "列入世界遗产的古刹，庆尚南道陕川郡的代表性名胜。"
+        ],
+        "합천호": [
+          "陕川湖",
+          "庆尚南道陕川郡的代表性湖泊。"
+        ],
+        "황매산": [
+          "黄梅山",
+          "庆尚南道陕川郡的代表性名山。"
+        ],
+        "합천군청": [
+          "陕川郡厅",
+          "庆尚南道陕川郡的行政中心。"
+        ],
+        "합천시장": [
+          "陕川市场",
+          "庆尚南道陕川郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
