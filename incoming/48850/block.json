@@ -215,6 +215,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "하동초등학교 운동장",
+        "coordinates": [
+          34.921598,
+          127.889206
+        ],
+        "capacity": 5700,
+        "address": "경상남도 하동군"
+      },
+      {
+        "name": "하동실내체육관",
+        "coordinates": [
+          35.163594,
+          127.631401
+        ],
+        "capacity": 5500,
+        "address": "경상남도 하동군"
+      },
+      {
+        "name": "하동중앙공원 비상집합장소",
+        "coordinates": [
+          35.291024,
+          127.70066
+        ],
+        "capacity": 2000,
+        "address": "경상남도 하동군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "섬진강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화개장터",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쌍계사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "하동군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "하동시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "하동군은 섬진강과 화개장터, 쌍계사가 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
