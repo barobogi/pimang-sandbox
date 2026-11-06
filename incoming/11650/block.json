@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seocho-gu, Seoul",
+      "landmarks": {
+        "반포한강공원": [
+          "Banpo Hangang Park",
+          "Riverside park famous for the Banpo Bridge Moonlight Rainbow Fountain."
+        ],
+        "서래마을": [
+          "Seorae Village",
+          "Internationally flavored cafe village known as the French quarter."
+        ],
+        "양재동 상권": [
+          "Yangjae-dong District",
+          "Major commercial hub centered on Yangjae Station."
+        ],
+        "우면산": [
+          "Umyeonsan Mountain",
+          "Mountain on Seocho's southern edge with well-built hiking trails."
+        ],
+        "법조타운": [
+          "Legal Town",
+          "Center of Korea's judiciary, dense with the Supreme Court, courts, and prosecutors' offices."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 瑞草区",
+      "landmarks": {
+        "반포한강공원": [
+          "盤浦漢江公園",
+          "盤浦大橋の月光虹噴水で有名な代表的な漢江公園。"
+        ],
+        "서래마을": [
+          "西来村",
+          "国際的な雰囲気のカフェ村。"
+        ],
+        "양재동 상권": [
+          "良才洞商圏",
+          "良才駅を中心とする代表的な商業地域。"
+        ],
+        "우면산": [
+          "牛眠山",
+          "瑞草区の南に位置し、登山道が整備された山。"
+        ],
+        "법조타운": [
+          "法曹タウン",
+          "大法院や裁判所・検察が集積する韓国法曹の中心地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 瑞草区",
+      "landmarks": {
+        "반포한강공원": [
+          "盘浦汉江公园",
+          "以盘浦大桥月光彩虹喷泉闻名的代表性汉江公园。"
+        ],
+        "서래마을": [
+          "盘浦法国村",
+          "富有国际风情的咖啡馆村落。"
+        ],
+        "양재동 상권": [
+          "良才洞商圈",
+          "以良才站为中心的代表性商业区。"
+        ],
+        "우면산": [
+          "牛眠山",
+          "位于瑞草区南侧，建有完善的登山步道。"
+        ],
+        "법조타운": [
+          "法律城",
+          "最高法院及法院、检察院云集的韩国司法中心。"
+        ]
+      }
+    }
   }
 }
