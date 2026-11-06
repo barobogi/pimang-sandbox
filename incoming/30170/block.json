@@ -1,0 +1,579 @@
+{
+  "block_code": "30170",
+  "block_name": "대전광역시 서구",
+  "bbox": [
+    127.279723,
+    36.183368,
+    127.40386,
+    36.373009
+  ],
+  "center": [
+    36.278188,
+    127.341792
+  ],
+  "landmarks": [
+    {
+      "name": "대전예술의전당",
+      "lat": 36.365063,
+      "lng": 127.3845703,
+      "category": "공연장/문화",
+      "description": "대전 대표 공연·전시 종합 문화 시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EC%98%88%EC%88%A0%EC%9D%98%EC%A0%84%EB%8B%B9",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 201.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/59254-Daejon.jpg/1280px-59254-Daejon.jpg"
+    },
+    {
+      "name": "한밭수목원",
+      "lat": 36.3692223,
+      "lng": 127.3884273,
+      "category": "수목원/공원",
+      "description": "전국 최대의 도심 인공 수목원이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 202.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/ko/b/ba/%ED%95%9C%EB%B0%AD%EC%88%98%EB%AA%A9%EC%9B%90%28%EB%8F%99%ED%8E%B8%29.jpg"
+    },
+    {
+      "name": "둔산동 상권",
+      "lat": 36.352,
+      "lng": 127.379,
+      "category": "상권",
+      "description": "대전 서부 최대 상업 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 202.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/20250816_%EB%91%94%EC%82%B0%EB%8F%99_%EC%9C%A0%EC%A0%81_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC.jpg/1280px-20250816_%EB%91%94%EC%82%B0%EB%8F%99_%EC%9C%A0%EC%A0%81_%EC%B6%9C%ED%86%A0_%EC%9C%A0%EB%AC%BC.jpg"
+    },
+    {
+      "name": "장태산",
+      "lat": 36.2188641,
+      "lng": 127.3402937,
+      "category": "산/자연",
+      "description": "서구 남쪽의 산으로 장태산 자연휴양림이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC_%28%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 1.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png/1280px-%EC%9E%A5%ED%83%9C%EC%82%B0_%EB%A9%94%ED%83%80%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4%EA%B8%B8.png"
+    },
+    {
+      "name": "갑천",
+      "lat": 36.3545464,
+      "lng": 127.3545556,
+      "category": "하천/자연",
+      "description": "대전을 관통하는 대표 지천이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B0%91%EC%B2%9C",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 187.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%84%9C%EA%B5%AC_%EA%B0%91%EC%B2%9C_2025%EB%85%84_%EA%B2%A8%EC%9A%B8_%ED%92%8D%EA%B2%BD_02.jpg/1280px-%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C_%EC%84%9C%EA%B5%AC_%EA%B0%91%EC%B2%9C_2025%EB%85%84_%EA%B2%A8%EC%9A%B8_%ED%92%8D%EA%B2%BD_02.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "서구 자연 힐링 시그니처 에어리얼 투어",
+      "description": "장태산 → 갑천 → 둔산동 상권 → 대전예술의전당 → 한밭수목원 순으로 이어지는 대전광역시 서구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "장태산",
+        "갑천",
+        "둔산동 상권",
+        "대전예술의전당",
+        "한밭수목원"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "서구 산하 절경 에어리얼 투어",
+      "description": "한밭수목원 → 둔산동 상권 → 장태산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 서구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "한밭수목원",
+        "둔산동 상권",
+        "장태산"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "장태산 솥뚜껑가게",
+      "lat": 36.218654,
+      "lng": 127.340294,
+      "specialty": "빈대떡",
+      "category": "전통디저트"
+    },
+    {
+      "name": "갑천 할매집",
+      "lat": 36.355176,
+      "lng": 127.354276,
+      "specialty": "칼국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "둔산동 상권 할매집",
+      "lat": 36.3513,
+      "lng": 127.37963,
+      "specialty": "곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "대전예술의전당 할매집",
+      "lat": 36.364503,
+      "lng": 127.38492,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대전예술의전당",
+        "station_name": "대전예술의전당 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.367063,
+          127.38417
+        ]
+      },
+      {
+        "target_landmark": "한밭수목원",
+        "station_name": "한밭수목원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.371222,
+          127.388027
+        ]
+      },
+      {
+        "target_landmark": "둔산동 상권",
+        "station_name": "서대전역",
+        "line": "경부선",
+        "walk_minutes": 41,
+        "coordinates": [
+          36.3272,
+          127.387
+        ]
+      },
+      {
+        "target_landmark": "장태산",
+        "station_name": "장태산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.220864,
+          127.339894
+        ]
+      },
+      {
+        "target_landmark": "갑천",
+        "station_name": "갑천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.356546,
+          127.354156
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          36.216464,
+          127.341894
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          36.356546,
+          127.354556
+        ],
+        "capacity": 574,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제3 공영주차장",
+        "coordinates": [
+          36.3544,
+          127.381
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          36.342793,
+          127.37391
+        ],
+        "capacity": 2400,
+        "address": "대전광역시 서구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          36.369216,
+          127.401377
+        ],
+        "capacity": 4600,
+        "address": "대전광역시 서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "대전예술의전당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한밭수목원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "둔산동 상권",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "장태산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "갑천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "한밭수목원 봄꽃",
+        "갑천 벚꽃"
+      ],
+      "summer": [
+        "한밭수목원 여름",
+        "갑천 물놀이장"
+      ],
+      "autumn": [
+        "장태산 단풍",
+        "한밭수목원 가을"
+      ],
+      "winter": [
+        "대전예술의전당 겨울 조명",
+        "장태산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "한밭수목원 야경",
+        "coordinates": [
+          36.369222,
+          127.388427
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "갑천 야경",
+        "coordinates": [
+          36.354546,
+          127.354556
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "대전 서구는 둔산신도시와 대전예술의전당, 한밭수목원이 자리한 대전 서부의 대표 주거 문화 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seo-gu, Daejeon",
+      "landmarks": {
+        "대전예술의전당": [
+          "Daejeon Arts Center",
+          "Daejeon's flagship complex for performances and exhibitions."
+        ],
+        "한밭수목원": [
+          "Hanbat Arboretum",
+          "Korea's largest urban artificial arboretum."
+        ],
+        "둔산동 상권": [
+          "Dunsan-dong District",
+          "Largest commercial hub of western Daejeon."
+        ],
+        "장태산": [
+          "Jangtaesan Mountain",
+          "Mountain on Seo-gu's south, famed for its natural recreation forest."
+        ],
+        "갑천": [
+          "Gapcheon Stream",
+          "Representative stream flowing through Daejeon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大田広域市 西区",
+      "landmarks": {
+        "대전예술의전당": [
+          "大田芸術の殿堂",
+          "大田を代表する公演・展示の総合文化施設。"
+        ],
+        "한밭수목원": [
+          "ハンバッ樹木園",
+          "全国最大の都市型人工樹木園。"
+        ],
+        "둔산동 상권": [
+          "屯山洞商圏",
+          "大田西部最大の商業地域。"
+        ],
+        "장태산": [
+          "長泰山",
+          "西区の南にある山。長泰山自然休養林で有名。"
+        ],
+        "갑천": [
+          "甲川",
+          "大田を貫く代表的な支流。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大田广域市 西区",
+      "landmarks": {
+        "대전예술의전당": [
+          "大田艺术殿堂",
+          "大田代表性的演出展览综合文化设施。"
+        ],
+        "한밭수목원": [
+          "韩巴树木园",
+          "全国规模最大的城市人工树木园。"
+        ],
+        "둔산동 상권": [
+          "屯山洞商圈",
+          "大田西部最大的商业区。"
+        ],
+        "장태산": [
+          "长泰山",
+          "西区南部的山，以自然休养林闻名。"
+        ],
+        "갑천": [
+          "甲川",
+          "纵贯大田的代表性河流。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.seogu.go.kr",
+    "civil_service_center": {
+      "location_name": "서구청 민원실 앞",
+      "coordinates": [
+        127.383363,
+        36.355056
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "042-611-6114",
+      "info": "대전광역시 서구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.341191,
+      36.277988
+    ],
+    "cctv_zone_count": 406,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "둔산근린공원",
+    "trail_length_km": 1.6,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "대전 서구 구민축제",
+    "typical_month": 10,
+    "venue_name": "서구청 광장",
+    "venue_coords": [
+      127.342191,
+      36.277888
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "서구민체육관",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.383163,
+      36.353156
+    ],
+    "reservation_url": "https://www.seogu.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "서구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.383763,
+      36.356056
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "서구청 공영주차장 급속충전소",
+    "coordinates": [
+      127.382563,
+      36.356456
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "대전예술의전당 할매집",
+    "coordinates": [
+      127.38492,
+      36.364503
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (서구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=서구청&goalx=127.383363&goaly=36.355056",
+    "kakaonavi_url": "kakaonavi://navigate?name=서구청&x=127.383363&y=36.355056&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=서구청&dlng=127.383363&dlat=36.355056&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:42",
+      "noon_altitude_deg": 53.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:51",
+      "noon_altitude_deg": 77.2
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:27",
+      "noon_altitude_deg": 53.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:20",
+      "noon_altitude_deg": 30.3
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "서구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.341691,
+          36.277488
+        ],
+        [
+          127.341191,
+          36.277988
+        ],
+        [
+          127.342691,
+          36.278038
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "서구 중심상업거리",
+    "anchor_center": [
+      127.384496,
+      36.355856
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 290,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
