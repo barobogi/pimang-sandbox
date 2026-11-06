@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ongjin-gun, Incheon",
+      "landmarks": {
+        "백령도": [
+          "Baengnyeongdo Island",
+          "Korea's westernmost island, famed for coastal cliffs like Dumujin."
+        ],
+        "연평도": [
+          "Yeonpyeongdo Island",
+          "Central island of the West Sea fishing grounds, a representative fishing community."
+        ],
+        "대청도": [
+          "Daeseongdo Island",
+          "Large westernmost island with beautiful coastal scenery."
+        ],
+        "덕적도": [
+          "Deokjeokdo Island",
+          "Island of coastal cliffs and a storied old lighthouse."
+        ],
+        "자월도": [
+          "Jawoldo Island",
+          "Island famed for its beautiful beaches."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 甕津郡",
+      "landmarks": {
+        "백령도": [
+          "白翎島",
+          "韓国最西端の島。頭武鎮などの海岸絶景が有名。"
+        ],
+        "연평도": [
+          "延坪島",
+          "西海漁場の中心の島。代表的な漁村。"
+        ],
+        "대청도": [
+          "大青島",
+          "海岸絶景が美しい最西端の大型島。"
+        ],
+        "덕적도": [
+          "徳積島",
+          "海岸絶景と由緒ある灯台がある島。"
+        ],
+        "자월도": [
+          "紫月島",
+          "美しいビーチで有名な島。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 甕津郡",
+      "landmarks": {
+        "백령도": [
+          "白翎岛",
+          "韩国最西端的岛屿，以头武镇等海岸绝景闻名。"
+        ],
+        "연평도": [
+          "延坪岛",
+          "西海渔场中心的岛屿，代表性渔村。"
+        ],
+        "대청도": [
+          "大青岛",
+          "海岸风光秀丽的西端大岛。"
+        ],
+        "덕적도": [
+          "德积岛",
+          "拥有海岸绝景和历史灯塔的岛屿。"
+        ],
+        "자월도": [
+          "紫月岛",
+          "以美丽沙滩闻名的岛屿。"
+        ]
+      }
+    }
   }
 }
