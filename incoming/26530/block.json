@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sasang-gu, Busan",
+      "landmarks": {
+        "삼락생태공원": [
+          "Samnak Ecological Park",
+          "Large ecological park on the Nakdong riverside."
+        ],
+        "사상역 상권": [
+          "Sasang Station District",
+          "Commercial hub centered on Sasang Station."
+        ],
+        "하단에코랜드": [
+          "Hadan Eco Land",
+          "Ecological space on the Nakdong estuary."
+        ],
+        "괴정동 상권": [
+          "Goejeong-dong District",
+          "Everyday commercial hub of Goejeong-dong."
+        ],
+        "모라동 상권": [
+          "Mora-dong District",
+          "Everyday commercial hub of Mora-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 沙上区",
+      "landmarks": {
+        "삼락생태공원": [
+          "三楽生態公園",
+          "洛東江のほとりに造られた大型生態公園。"
+        ],
+        "사상역 상권": [
+          "沙上駅商圏",
+          "沙上駅を中心とする代表的な商業地域。"
+        ],
+        "하단에코랜드": [
+          "下端エコランド",
+          "洛東江河の口の生態空間。"
+        ],
+        "괴정동 상권": [
+          "槐亭洞商圏",
+          "槐亭洞に形成された代表的な生活商圏。"
+        ],
+        "모라동 상권": [
+          "毛羅洞商圏",
+          "毛羅洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 沙上区",
+      "landmarks": {
+        "삼락생태공원": [
+          "三乐生态公园",
+          "洛东江畔的大型生态公园。"
+        ],
+        "사상역 상권": [
+          "沙上站商圈",
+          "以沙上站为中心的代表性商业区。"
+        ],
+        "하단에코랜드": [
+          "下端生态园",
+          "洛东江口的生态空间。"
+        ],
+        "괴정동 상권": [
+          "槐亭洞商圈",
+          "槐亭洞形成的代表性生活商圈。"
+        ],
+        "모라동 상권": [
+          "毛罗洞商圈",
+          "毛罗洞形成的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
