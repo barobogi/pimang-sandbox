@@ -224,6 +224,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "임실초등학교 운동장",
+        "coordinates": [
+          35.628094,
+          127.11027
+        ],
+        "capacity": 2000,
+        "address": "전북특별자치도 임실군"
+      },
+      {
+        "name": "임실실내체육관",
+        "coordinates": [
+          35.586163,
+          127.299885
+        ],
+        "capacity": 7200,
+        "address": "전북특별자치도 임실군"
+      },
+      {
+        "name": "임실중앙공원 비상집합장소",
+        "coordinates": [
+          35.532741,
+          127.143741
+        ],
+        "capacity": 5100,
+        "address": "전북특별자치도 임실군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "옥정호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "임실치즈테마파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성수산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "임실군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "임실시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "임실군은 임실치즈로 유명하며 옥정호와 성수산, 임실치즈테마파크가 자리한 전북 남부의 군이다.",
   "data_sources": [
     {
