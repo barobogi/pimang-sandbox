@@ -221,6 +221,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "광진초등학교 운동장",
+        "coordinates": [
+          37.543238,
+          127.069447
+        ],
+        "capacity": 900,
+        "address": "서울특별시 광진구"
+      },
+      {
+        "name": "광진실내체육관",
+        "coordinates": [
+          37.537817,
+          127.061305
+        ],
+        "capacity": 5200,
+        "address": "서울특별시 광진구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "어린이대공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "건대입구",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "아차산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "자양한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광나루한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "광진구는 어린이대공원과 건대입구 상권, 아차산과 한강이 함께한 서울 동남부 자치구이다.",
   "data_sources": [
     {
