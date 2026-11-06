@@ -231,6 +231,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "평택초등학교 운동장",
+        "coordinates": [
+          36.981607,
+          126.856578
+        ],
+        "capacity": 6400,
+        "address": "경기도 평택시"
+      },
+      {
+        "name": "평택실내체육관",
+        "coordinates": [
+          36.969539,
+          127.084068
+        ],
+        "capacity": 6100,
+        "address": "경기도 평택시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "평택항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "평택호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동삭해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "캠프험프리스",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "평택문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "평택시는 평택항과 캠프험프리스가 함께한 경기 남부의 관문 도시이며 평택항 컨테이너 항만이 성장했다.",
   "data_sources": [
     {
