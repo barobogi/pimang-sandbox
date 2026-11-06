@@ -334,5 +334,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nam-gu, Daegu",
+      "landmarks": {
+        "앞산": [
+          "Apsan Mountain",
+          "Signature downtown mountain south of Daegu with excellent trails."
+        ],
+        "대덕산성": [
+          "Daedeoksanseong Fortress",
+          "Remains of a Three Kingdoms era fortress on the Apsan ridge."
+        ],
+        "안지랑곱창골목": [
+          "Anjirang Gopchang Alley",
+          "Daegu's largest grilled tripe street, a signature food destination."
+        ],
+        "물베기거리": [
+          "Mulbaegi Street",
+          "Distinctive street themed on Daegu's mulbaegi soup culture."
+        ],
+        "앞산공원": [
+          "Apsan Park",
+          "Large urban park at the foot of Apsan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 南区",
+      "landmarks": {
+        "앞산": [
+          "アプサン（前山）",
+          "大邱都心の南に位置する代表的な都心の山。登山道がよく整備されている。"
+        ],
+        "대덕산성": [
+          "大徳山城",
+          "アプサン（前山）の尾根に残る三国時代の山城遺跡。"
+        ],
+        "안지랑곱창골목": [
+          "アンジランコプチャン横丁",
+          "大邱最大のガッ腸グルメストリート。代表的な食の名所。"
+        ],
+        "물베기거리": [
+          "ムルベキストリート",
+          "大邱のムルベキ文化をテーマに造られた特色ある街並み。"
+        ],
+        "앞산공원": [
+          "アプサン公園",
+          "アプサン（前山）のふもとに造成された大型都心公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 南区",
+      "landmarks": {
+        "앞산": [
+          "前山",
+          "大邱市区南部的代表性山丘，步道设施完善。"
+        ],
+        "대덕산성": [
+          "大德山城",
+          "前山山脊上留存的三国时代山城遗迹。"
+        ],
+        "안지랑곱창골목": [
+          "安智郎烤牛肠巷",
+          "大邱最大的烤牛肠美食街，代表性美食胜地。"
+        ],
+        "물베기거리": [
+          "牛骨汤文化街",
+          "以大邱牛骨汤饮食文化打造的特色街区。"
+        ],
+        "앞산공원": [
+          "前山公园",
+          "前山山麓建成的大型城市公园。"
+        ]
+      }
+    }
   }
 }
