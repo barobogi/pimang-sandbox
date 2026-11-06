@@ -1,0 +1,573 @@
+{
+  "block_code": "27140",
+  "block_name": "대구광역시 동구",
+  "bbox": [
+    128.603783,
+    35.851193,
+    128.762398,
+    36.016493
+  ],
+  "center": [
+    35.933843,
+    128.683091
+  ],
+  "landmarks": [
+    {
+      "name": "팔공산",
+      "lat": 35.9720217,
+      "lng": 128.7264214,
+      "category": "산/자연",
+      "description": "대구의 북쪽을 병풍처럼 둘러싼 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%8C%94%EA%B3%B5%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 222.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg/1280px-%ED%8C%94%EA%B3%B5%EC%82%B0_%EA%B4%80%EB%B4%89_%EA%B2%BD%EC%B9%98%28%EA%B2%BD%EC%82%B0%EC%8B%9C_%EB%B0%A9%ED%96%A5%29.jpg"
+    },
+    {
+      "name": "동화사",
+      "lat": 35.9927132,
+      "lng": 128.7047054,
+      "category": "사찰/문화유산",
+      "description": "신라 시대 창건된 팔공산 대표 사찰로 비로암과 관봉이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%99%94%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 196.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%EB%8F%99%ED%99%94%EC%82%AC_%EC%A0%84%EA%B2%BD%28%EB%B4%89%EC%84%9C%EB%A3%A8_%EB%A7%88%EB%8B%B9%29.jpg/1280px-%EB%8F%99%ED%99%94%EC%82%AC_%EC%A0%84%EA%B2%BD%28%EB%B4%89%EC%84%9C%EB%A3%A8_%EB%A7%88%EB%8B%B9%29.jpg"
+    },
+    {
+      "name": "동촌유원지",
+      "lat": 35.888,
+      "lng": 128.725,
+      "category": "유원지/공원",
+      "description": "금호강 변의 대표 유원지로 여름철 가족 나들이 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%B4%8C%EC%9C%A0%EC%9B%90%EC%A7%80",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 323.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/%EB%8F%99%EC%B4%8C%EC%9C%A0%EC%9B%90%EC%A7%80.jpg/1280px-%EB%8F%99%EC%B4%8C%EC%9C%A0%EC%9B%90%EC%A7%80.jpg"
+    },
+    {
+      "name": "대구오페라하우스",
+      "lat": 35.89,
+      "lng": 128.755,
+      "category": "공연장/문화",
+      "description": "신서동에 조성된 대형 오페라 전문 공연장이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 307.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Christian_Broadcasting_System%2C_Daegu.jpeg"
+    },
+    {
+      "name": "아양교",
+      "lat": 35.8887326,
+      "lng": 128.6416223,
+      "category": "교통/문화",
+      "description": "동구 도심의 대표 교차로로 상권의 중심이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AC_%28%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%29",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 36.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ayanggyo_bridge_20161012_092034.jpg/1280px-Ayanggyo_bridge_20161012_092034.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "동구 역사·문화 시그니처 스카이 트레일",
+      "description": "팔공산 → 동화사 → 동촌유원지 → 대구오페라하우스 → 아양교 순으로 이어지는 대구광역시 동구의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "팔공산",
+        "동화사",
+        "동촌유원지",
+        "대구오페라하우스",
+        "아양교"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "동구 역사문화 스카이 트레일",
+      "description": "동화사 → 팔공산 → 아양교 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 동구의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "동화사",
+        "팔공산",
+        "아양교"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "동구 자연 힐링 스카이 워크",
+      "description": "동촌유원지 → 팔공산 → 동화사 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 동구의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "동촌유원지",
+        "팔공산",
+        "동화사"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "팔공산 할매집",
+      "lat": 35.972512,
+      "lng": 128.726071,
+      "specialty": "가이국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "아양교 솥뚜껑가게",
+      "lat": 35.888103,
+      "lng": 128.641342,
+      "specialty": "막창구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "동촌유원지 큰마당식당",
+      "lat": 35.88863,
+      "lng": 128.72493,
+      "specialty": "납작만두",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "팔공산",
+        "station_name": "팔공산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.971622,
+          128.725221
+        ]
+      },
+      {
+        "target_landmark": "동화사",
+        "station_name": "동화사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.992313,
+          128.703505
+        ]
+      },
+      {
+        "target_landmark": "동촌유원지",
+        "station_name": "동촌유원지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.8876,
+          128.7238
+        ]
+      },
+      {
+        "target_landmark": "대구오페라하우스",
+        "station_name": "대구오페라하우스 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.8896,
+          128.7538
+        ]
+      },
+      {
+        "target_landmark": "아양교",
+        "station_name": "아양교역",
+        "line": "대구 1호선",
+        "exit_no": 8,
+        "walk_minutes": 19,
+        "coordinates": [
+          35.8766,
+          128.6411
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "동구 중앙 공영주차장",
+        "coordinates": [
+          35.970022,
+          128.728421
+        ],
+        "capacity": 364,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "동구 제2 공영주차장",
+        "coordinates": [
+          35.890733,
+          128.640822
+        ],
+        "capacity": 33,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.967731,
+          128.74008
+        ],
+        "capacity": 6200,
+        "address": "대구광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.987998,
+          128.700768
+        ],
+        "capacity": 2200,
+        "address": "대구광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "팔공산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동화사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동촌유원지",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대구오페라하우스",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "아양교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "동촌유원지 벚꽃",
+        "팔공산 봄 진달래"
+      ],
+      "summer": [
+        "동촌유원지 여름",
+        "아양교 여름밤"
+      ],
+      "autumn": [
+        "팔공산 단풍길",
+        "동화사 가을"
+      ],
+      "winter": [
+        "동화사 설경",
+        "팔공산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "아양교 야경",
+        "coordinates": [
+          35.888733,
+          128.641622
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "동촌유원지 야경",
+        "coordinates": [
+          35.888,
+          128.725
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "대구 동구는 팔공산과 동화사, 동촌유원지, 대구오페라하우스가 자리한 대구 동부의 구이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Daegu",
+      "landmarks": {
+        "팔공산": [
+          "Palgongsan Mountain",
+          "Signature peak rising like a screen across Daegu's north."
+        ],
+        "동화사": [
+          "Donghwasa Temple",
+          "Silla-era temple on Palgongsan, famed for the Biroam Hermitage and Gatbawi."
+        ],
+        "동촌유원지": [
+          "Dongchon Resort",
+          "Riverside resort on the Geumho River, a summer family destination."
+        ],
+        "대구오페라하우스": [
+          "Daegu Opera House",
+          "Large opera house built in Sinseo-dong."
+        ],
+        "아양교": [
+          "Ayanggyo Area",
+          "Signature crossroads of Dong-gu and center of local commerce."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 東区",
+      "landmarks": {
+        "팔공산": [
+          "八公山",
+          "大邱の北を屏風のように囲む代表的な名山。"
+        ],
+        "동화사": [
+          "桐華寺",
+          "新羅時代に創建された八公山の代表的な寺。毘盧庵と関峰が有名。"
+        ],
+        "동촌유원지": [
+          "東村遊園地",
+          "琴湖江のほとりの代表的な遊園地。夏の家族行楽の名所。"
+        ],
+        "대구오페라하우스": [
+          "大邱オペラハウス",
+          "新西瓜洞に造られた大型オペラ専用劇場。"
+        ],
+        "아양교": [
+          "阿養橋",
+          "東区都心の代表的な交差点で、商圏の中心。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 东区",
+      "landmarks": {
+        "팔공산": [
+          "八公山",
+          "如屏风般环抱大邱北部的代表名山。"
+        ],
+        "동화사": [
+          "桐华寺",
+          "新罗时代创建的八公山名刹，以毗卢庵和笠岩闻名。"
+        ],
+        "동촌유원지": [
+          "东村游园地",
+          "琴湖江畔的代表性游乐园，夏日亲子胜地。"
+        ],
+        "대구오페라하우스": [
+          "大邱歌剧院",
+          "位于新西洞的大型歌剧专用演出场馆。"
+        ],
+        "아양교": [
+          "阿养桥",
+          "东区市中心的代表性路口和商圈中心。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.dong.daegu.kr",
+    "civil_service_center": {
+      "location_name": "동구청 민원실 앞",
+      "coordinates": [
+        128.62987,
+        35.885608
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "053-662-2000",
+      "info": "대구광역시 동구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "동구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.68319,
+      35.933643
+    ],
+    "cctv_zone_count": 283,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "아양근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "대구 동구 구민축제",
+    "typical_month": 10,
+    "venue_name": "동구청 광장",
+    "venue_coords": [
+      128.68279,
+      35.933343
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "동구민체육관",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.62757,
+      35.884208
+    ],
+    "reservation_url": "https://www.dong.daegu.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "동구 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.63217,
+      35.884108
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "동구청 공영주차장 급속충전소",
+    "coordinates": [
+      128.63167,
+      35.888608
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "팔공산 할매집",
+    "coordinates": [
+      128.726071,
+      35.972512
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "가이국밥 (동구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=동구청&goalx=128.629870&goaly=35.885608",
+    "kakaonavi_url": "kakaonavi://navigate?name=동구청&x=128.629870&y=35.885608&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=동구청&dlng=128.629870&dlat=35.885608&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:37",
+      "noon_altitude_deg": 54.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:09",
+      "sunset": "19:45",
+      "noon_altitude_deg": 77.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:22",
+      "noon_altitude_deg": 54.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:32",
+      "sunset": "17:15",
+      "noon_altitude_deg": 30.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "동구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.68204,
+          35.934743
+        ],
+        [
+          128.68319,
+          35.933643
+        ],
+        [
+          128.68354,
+          35.935143
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "동구 중심상업거리",
+    "anchor_center": [
+      128.628203,
+      35.885808
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 140,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
