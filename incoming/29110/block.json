@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dong-gu, Gwangju",
+      "landmarks": {
+        "무등산": [
+          "Mudeungsan Mountain",
+          "Honam's highest peak at 1,187 m and main summit of Mudeungsan National Park."
+        ],
+        "국립아시아문화전당": [
+          "Asia Culture Center",
+          "Asia culture hub built on the old Gwangju Provincial Office site."
+        ],
+        "증심사": [
+          "Jeungsimsa Temple",
+          "Historic temple on Mudeungsan's western slope and trailhead of the hiking route."
+        ],
+        "동명동": [
+          "Dongmyeong-dong",
+          "Gwangju's signature cafe street at the heart of the old downtown."
+        ],
+        "충장로": [
+          "Chungjang-ro",
+          "Bustling downtown street of Gwangju, hosting the Chungjang Festival."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "光州広域市 東区",
+      "landmarks": {
+        "무등산": [
+          "無等山",
+          "標高1187メートルの湖南最高峰。無等山国立公園の主峰。"
+        ],
+        "국립아시아문화전당": [
+          "国立アジア文化堂",
+          "旧光州道庁跡地に造成されたアジア文化交流ハブの複合文化施設。"
+        ],
+        "증심사": [
+          "証心寺",
+          "無等山の西のふもとにある由緒ある寺。無等山登山道の起点。"
+        ],
+        "동명동": [
+          "東明洞",
+          "光州を代表するカフェストリートで、新旧都心商圏の中心。"
+        ],
+        "충장로": [
+          "忠壮路",
+          "光州都心を代表する繁華街。忠壮祭りが開かれる。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "光州广域市 东区",
+      "landmarks": {
+        "무등산": [
+          "无等山",
+          "海拔1187米的湖南最高峰，无等山国立公园主峰。"
+        ],
+        "국립아시아문화전당": [
+          "国立亚洲文化殿堂",
+          "建于原光州道厅旧址的亚洲文化交流枢纽。"
+        ],
+        "증심사": [
+          "证心寺",
+          "无等山西麓的古刹，是登山的起点。"
+        ],
+        "동명동": [
+          "东明洞",
+          "光州代表性咖啡街，新旧城商圈的中心。"
+        ],
+        "충장로": [
+          "忠壮路",
+          "光州市中心的代表性繁华街，举办忠壮节。"
+        ]
+      }
+    }
   }
 }
