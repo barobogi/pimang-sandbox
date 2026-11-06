@@ -285,6 +285,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "범일동 벚꽃길",
+        "초량이바구길 봄 산책"
+      ],
+      "summer": [
+        "부산항 북항 여름밤",
+        "부산역 여름"
+      ],
+      "autumn": [
+        "초량이바구길 단풍",
+        "범일동 가을"
+      ],
+      "winter": [
+        "부산역 겨울 조명",
+        "초량이바구길 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "부산항 북항 야경",
+        "coordinates": [
+          35.11,
+          129.043
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "초량이바구길 야경",
+        "coordinates": [
+          35.117,
+          129.036
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "부산 동구는 부산역이 자리한 부산의 관문 구로 초량동 등이 있으며 개항기 이후 근대 역사가 함께한다.",
   "data_sources": [
     {
