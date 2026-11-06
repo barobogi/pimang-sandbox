@@ -341,5 +341,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seobuk-gu, Cheonan",
+      "landmarks": {
+        "두정동 상권": [
+          "Dujeong-dong District",
+          "Signature district hub of Seobuk-gu, Cheonan."
+        ],
+        "성거산": [
+          "Seongeosan Mountain",
+          "Signature mountain attraction of Seobuk-gu, Cheonan."
+        ],
+        "천안종합운동장": [
+          "Cheonan Sports Complex",
+          "Signature sports venue of Seobuk-gu, Cheonan."
+        ],
+        "서북구청": [
+          "Seobuk-gu Office",
+          "Administrative center of Seobuk-gu, Cheonan."
+        ],
+        "천안시립미술관": [
+          "Cheonan Museum of Art",
+          "Signature art museum of Seobuk-gu, Cheonan."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 天安市 西北区",
+      "landmarks": {
+        "두정동 상권": [
+          "豆正洞商圏",
+          "忠清南道天安市西北区を代表する名所。"
+        ],
+        "성거산": [
+          "聖居山",
+          "忠清南道天安市西北区を代表する名所。"
+        ],
+        "천안종합운동장": [
+          "天安総合運動場",
+          "忠清南道天安市西北区を代表する名所。"
+        ],
+        "서북구청": [
+          "西北区庁",
+          "忠清南道天安市西北区を代表する名所。"
+        ],
+        "천안시립미술관": [
+          "天安市立美術館",
+          "忠清南道天安市西北区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 天安市 西北区",
+      "landmarks": {
+        "두정동 상권": [
+          "豆正洞商圈",
+          "忠清南道天安市西北区的代表性商圈。"
+        ],
+        "성거산": [
+          "圣居山",
+          "忠清南道天安市西北区的代表性山峦。"
+        ],
+        "천안종합운동장": [
+          "天安综合运动场",
+          "忠清南道天安市西北区的代表性体育场馆。"
+        ],
+        "서북구청": [
+          "西北区厅",
+          "忠清南道天安市西北区的行政中心。"
+        ],
+        "천안시립미술관": [
+          "天安市立美术馆",
+          "忠清南道天安市西北区的代表性美术馆。"
+        ]
+      }
+    }
   }
 }
