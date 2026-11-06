@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uiryeong-gun, Gyeongnam",
+      "landmarks": {
+        "충익사": [
+          "Chungiksa Shrine",
+          "Signature shrine heritage of Uiryeong-gun, Gyeongnam."
+        ],
+        "정암나루": [
+          "Jeongam Ferry",
+          "Signature ferry crossing scenic site of Uiryeong-gun, Gyeongnam."
+        ],
+        "한우산": [
+          "Hanusan Mountain",
+          "Signature mountain attraction of Uiryeong-gun, Gyeongnam."
+        ],
+        "의령군청": [
+          "Uiryeong County Office",
+          "Administrative center of Uiryeong-gun, Gyeongnam."
+        ],
+        "의령시장": [
+          "Uiryeong Market",
+          "Signature market attraction of Uiryeong-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 宜寧郡",
+      "landmarks": {
+        "충익사": [
+          "忠翼祠",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "정암나루": [
+          "正巌渡し場",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "한우산": [
+          "韓牛山",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "의령군청": [
+          "宜寧郡庁",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "의령시장": [
+          "宜寧市場",
+          "慶尚南道宜寧郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 宜宁郡",
+      "landmarks": {
+        "충익사": [
+          "忠翼祠",
+          "庆尚南道宜宁郡的代表性祠堂。"
+        ],
+        "정암나루": [
+          "正岩渡口",
+          "庆尚南道宜宁郡的代表性渡口胜景。"
+        ],
+        "한우산": [
+          "韩牛山",
+          "庆尚南道宜宁郡的代表性名山。"
+        ],
+        "의령군청": [
+          "宜宁郡厅",
+          "庆尚南道宜宁郡的行政中心。"
+        ],
+        "의령시장": [
+          "宜宁市场",
+          "庆尚南道宜宁郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
