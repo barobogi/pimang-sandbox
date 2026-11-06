@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금오산",
+        "station_name": "금오산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.088936,
+          128.298198
+        ]
+      },
+      {
+        "target_landmark": "경천대",
+        "station_name": "경천대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.0972,
+          128.1204
+        ]
+      },
+      {
+        "target_landmark": "사인암",
+        "station_name": "사인암 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.1112,
+          128.139
+        ]
+      },
+      {
+        "target_landmark": "구미공단",
+        "station_name": "구미역",
+        "line": "경부선",
+        "walk_minutes": 15,
+        "coordinates": [
+          36.1136,
+          128.3748
+        ]
+      },
+      {
+        "target_landmark": "구미문화예술회관",
+        "station_name": "구미역",
+        "line": "경부선",
+        "walk_minutes": 34,
+        "coordinates": [
+          36.1136,
+          128.3748
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "구미 중앙 공영주차장",
+        "coordinates": [
+          36.117313,
+          128.351128
+        ],
+        "capacity": 260,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "구미 제2 공영주차장",
+        "coordinates": [
+          36.108368,
+          128.38279
+        ],
+        "capacity": 453,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "구미 제3 공영주차장",
+        "coordinates": [
+          36.092536,
+          128.301398
+        ],
+        "capacity": 144,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "구미시는 근현대 전자·섬유 산업 도시로 성장한 경북 서부의 도시로 금오산과 사인암 등의 자연 명소와 산업 유산이 함께한다.",
   "data_sources": [
     {
