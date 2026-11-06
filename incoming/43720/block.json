@@ -1,0 +1,590 @@
+{
+  "block_code": "43720",
+  "block_name": "충청북도 보은군",
+  "bbox": [
+    127.512464,
+    36.368807,
+    127.906059,
+    36.613774
+  ],
+  "center": [
+    36.49129,
+    127.709261
+  ],
+  "landmarks": [
+    {
+      "name": "법주사",
+      "lat": 36.5438225,
+      "lng": 127.8349663,
+      "category": "사찰/문화유산",
+      "description": "법주사은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%A3%BC%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 242.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Beopjusa_Temple_Stay_South_Korea.jpg/1280px-Beopjusa_Temple_Stay_South_Korea.jpg"
+    },
+    {
+      "name": "속리산",
+      "lat": 36.4553642,
+      "lng": 127.7820278,
+      "category": "산/국립공원",
+      "description": "속리산은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EB%A6%AC%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 301.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg/1280px-Songnisan_as_seen_from_Cheonwangbong_%28cropped%29.jpg"
+    },
+    {
+      "name": "정이품송",
+      "lat": 36.51734,
+      "lng": 127.8155871,
+      "category": "천연기념물/자연",
+      "description": "정이품송은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 253.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg/1280px-%EC%A0%95%EC%9D%B4%ED%92%88%EC%86%A1.jpg"
+    },
+    {
+      "name": "보은군청",
+      "lat": 36.4892774,
+      "lng": 127.7303669,
+      "category": "행정/랜드마크",
+      "description": "보은군청은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 276.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Beopjusapagoda.jpg/1280px-Beopjusapagoda.jpg"
+    },
+    {
+      "name": "보은시장",
+      "lat": 36.49129035,
+      "lng": 127.70926125,
+      "category": "시장/먹거리",
+      "description": "보은시장은(는) 충청북도 보은군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%80%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 209.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Beopjusapagoda.jpg/1280px-Beopjusapagoda.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "보은 역사·문화 시그니처 스카이 트레일",
+      "description": "보은시장 → 보은군청 → 속리산 → 정이품송 → 법주사 순으로 이어지는 충청북도 보은군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "보은시장",
+        "보은군청",
+        "속리산",
+        "정이품송",
+        "법주사"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "보은 세월을 나는 문화유산 플라이트",
+      "description": "법주사 → 정이품송 → 속리산 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 보은의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "법주사",
+        "정이품송",
+        "속리산"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "보은 도심 스카이라인 크루즈",
+      "description": "보은시장 → 보은군청 → 속리산 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 보은의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "보은시장",
+        "보은군청",
+        "속리산"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "보은 옛맛식당",
+      "lat": 36.49129,
+      "lng": 127.709611,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "보은 할매집",
+      "lat": 36.49129,
+      "lng": 127.709681,
+      "specialty": "사골곰탕",
+      "category": "향토음식"
+    },
+    {
+      "name": "보은 동네밥집",
+      "lat": 36.49094,
+      "lng": 127.708771,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "보은 솥뚜껑가게",
+      "lat": 36.49066,
+      "lng": 127.709961,
+      "specialty": "호박엿",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "법주사",
+        "station_name": "법주사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.544222,
+          127.836166
+        ]
+      },
+      {
+        "target_landmark": "속리산",
+        "station_name": "속리산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.455764,
+          127.783228
+        ]
+      },
+      {
+        "target_landmark": "정이품송",
+        "station_name": "정이품송 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.51774,
+          127.816787
+        ]
+      },
+      {
+        "target_landmark": "보은군청",
+        "station_name": "보은버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 29,
+        "coordinates": [
+          36.49009,
+          127.708061
+        ]
+      },
+      {
+        "target_landmark": "보은시장",
+        "station_name": "보은버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.49009,
+          127.708061
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "보은 중앙 공영주차장",
+        "coordinates": [
+          36.49089,
+          127.711661
+        ],
+        "capacity": 301,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "보은 제2 공영주차장",
+        "coordinates": [
+          36.491277,
+          127.730367
+        ],
+        "capacity": 97,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "보은 제3 공영주차장",
+        "coordinates": [
+          36.457364,
+          127.782028
+        ],
+        "capacity": 262,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "보은초등학교 운동장",
+        "coordinates": [
+          36.573316,
+          127.788183
+        ],
+        "capacity": 6100,
+        "address": "충청북도 보은군"
+      },
+      {
+        "name": "보은실내체육관",
+        "coordinates": [
+          36.457322,
+          127.730891
+        ],
+        "capacity": 6300,
+        "address": "충청북도 보은군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "법주사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "속리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "정이품송",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보은군청",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보은시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "속리산 봄 진달래",
+        "법주사 봄"
+      ],
+      "summer": [
+        "속리산 계곡 여름",
+        "법주사 여름"
+      ],
+      "autumn": [
+        "속리산 단풍길",
+        "정이품송 가을"
+      ],
+      "winter": [
+        "법주사 설경",
+        "속리산 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "속리산 야경",
+        "coordinates": [
+          36.455364,
+          127.782028
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "법주사 야경",
+        "coordinates": [
+          36.543822,
+          127.834966
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "보은군은 속리산과 법주사, 정이품송이 자리한 충북 남부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Boeun-gun, Chungbuk",
+      "landmarks": {
+        "법주사": [
+          "Beopjusa Temple",
+          "Signature temple heritage of Boeun-gun, Chungbuk."
+        ],
+        "속리산": [
+          "Songnisan Mountain",
+          "Signature national park mountain of Boeun-gun, Chungbuk."
+        ],
+        "정이품송": [
+          "Jeongipum Pine",
+          "Signature natural monument pine of Boeun-gun, Chungbuk."
+        ],
+        "보은군청": [
+          "Boeun County Office",
+          "Administrative center of Boeun-gun, Chungbuk."
+        ],
+        "보은시장": [
+          "Boeun Market",
+          "Signature market attraction of Boeun-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 報恩郡",
+      "landmarks": {
+        "법주사": [
+          "法住寺",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "속리산": [
+          "俗離山",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "정이품송": [
+          "正二品松",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "보은군청": [
+          "報恩郡庁",
+          "忠清北道報恩郡を代表する名所。"
+        ],
+        "보은시장": [
+          "報恩市場",
+          "忠清北道報恩郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 报恩郡",
+      "landmarks": {
+        "법주사": [
+          "法住寺",
+          "忠清北道报恩郡的代表性古刹。"
+        ],
+        "속리산": [
+          "俗离山",
+          "忠清北道报恩郡的代表性国立公园名山。"
+        ],
+        "정이품송": [
+          "正二品松",
+          "忠清北道报恩郡的代表性天然纪念物古松。"
+        ],
+        "보은군청": [
+          "报恩郡厅",
+          "忠清北道报恩郡的行政中心。"
+        ],
+        "보은시장": [
+          "报恩市场",
+          "忠清北道报恩郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.boeun.go.kr",
+    "civil_service_center": {
+      "location_name": "보은군청 민원실 앞",
+      "coordinates": [
+        127.723298,
+        36.481512
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "043-540-3000",
+      "info": "충청북도 보은군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "보은군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.709462,
+      36.491391
+    ],
+    "cctv_zone_count": 37,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "보은군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "보은 동학제",
+    "typical_month": 9,
+    "venue_name": "보은군민공원",
+    "venue_coords": [
+      127.708661,
+      36.49089
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "보은군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      127.726298,
+      36.480312
+    ],
+    "reservation_url": "https://www.boeun.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "보은군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.725998,
+      36.479012
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "보은군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.725898,
+      36.483812
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "보은 동네밥집",
+    "coordinates": [
+      127.708771,
+      36.49094
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "도토리묵 (보은군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=보은군청&goalx=127.723298&goaly=36.481512",
+    "kakaonavi_url": "kakaonavi://navigate?name=보은군청&x=127.723298&y=36.481512&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=보은군청&dlng=127.723298&dlat=36.481512&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:33",
+      "sunset": "18:41",
+      "noon_altitude_deg": 53.5
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:50",
+      "noon_altitude_deg": 76.9
+    },
+    "autumn_equinox": {
+      "sunrise": "06:18",
+      "sunset": "18:26",
+      "noon_altitude_deg": 53.5
+    },
+    "winter_solstice": {
+      "sunrise": "07:38",
+      "sunset": "17:18",
+      "noon_altitude_deg": 30.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "보은군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.709612,
+          36.490491
+        ],
+        [
+          127.709462,
+          36.491391
+        ],
+        [
+          127.710362,
+          36.491641
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "보은군 전통시장 만남의거리",
+    "anchor_center": [
+      127.724031,
+      36.480179
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 160,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
