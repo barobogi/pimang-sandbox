@@ -146,6 +146,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "정남진전망대",
+        "station_name": "정남진전망대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.514604,
+          126.975125
+        ]
+      },
+      {
+        "target_landmark": "천관산",
+        "station_name": "천관산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.534527,
+          126.92006
+        ]
+      },
+      {
+        "target_landmark": "장흥토요시장",
+        "station_name": "장흥버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          34.676895,
+          126.904348
+        ]
+      },
+      {
+        "target_landmark": "장흥군청",
+        "station_name": "장흥버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 8,
+        "coordinates": [
+          34.676895,
+          126.904348
+        ]
+      },
+      {
+        "target_landmark": "장흥댐",
+        "station_name": "장흥댐 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          34.785368,
+          126.882632
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "장흥 중앙 공영주차장",
+        "coordinates": [
+          34.678495,
+          126.902748
+        ],
+        "capacity": 287,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "장흥 제2 공영주차장",
+        "coordinates": [
+          34.679645,
+          126.905898
+        ],
+        "capacity": 268,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "장흥군은 정남진 전망대와 천관산, 토요시장이 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
