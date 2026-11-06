@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "판교테크노밸리",
+        "station_name": "서현역",
+        "line": "수인분당선",
+        "walk_minutes": 39,
+        "coordinates": [
+          37.3846,
+          127.1264
+        ]
+      },
+      {
+        "target_landmark": "정자동 상권",
+        "station_name": "서현역",
+        "line": "수인분당선",
+        "walk_minutes": 41,
+        "coordinates": [
+          37.3846,
+          127.1264
+        ]
+      },
+      {
+        "target_landmark": "야탑역 상권",
+        "station_name": "서현역",
+        "line": "수인분당선",
+        "walk_minutes": 39,
+        "coordinates": [
+          37.3846,
+          127.1264
+        ]
+      },
+      {
+        "target_landmark": "분당중앙공원",
+        "station_name": "서현역",
+        "line": "수인분당선",
+        "walk_minutes": 18,
+        "coordinates": [
+          37.3846,
+          127.1264
+        ]
+      },
+      {
+        "target_landmark": "수내공원",
+        "station_name": "분당역",
+        "line": "수인분당선",
+        "walk_minutes": 26,
+        "coordinates": [
+          37.3811,
+          127.1423
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "분당 중앙 공영주차장",
+        "coordinates": [
+          37.3634,
+          127.1072
+        ],
+        "capacity": 497,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "분당 제2 공영주차장",
+        "coordinates": [
+          37.374426,
+          127.122335
+        ],
+        "capacity": 242,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "성남 분당구는 분당신도시와 판교테크노밸리, 정자동 상권이 함께한 성남 동부의 구이다.",
   "data_sources": [
     {
