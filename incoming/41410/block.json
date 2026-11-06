@@ -238,6 +238,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "군포초등학교 운동장",
+        "coordinates": [
+          37.35376,
+          126.919121
+        ],
+        "capacity": 5200,
+        "address": "경기도 군포시"
+      },
+      {
+        "name": "군포실내체육관",
+        "coordinates": [
+          37.358567,
+          126.918897
+        ],
+        "capacity": 6300,
+        "address": "경기도 군포시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "군포문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "금산동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "당정동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "군포공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "군포시는 수리산 공원이 자리한 경기 남부의 주거 도시이며 서울 남부 관문이다.",
   "data_sources": [
     {
