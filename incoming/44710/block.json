@@ -293,6 +293,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "금산인삼시장 봄",
+        "적벽강 봄"
+      ],
+      "summer": [
+        "적벽강 여름",
+        "진악산 여름"
+      ],
+      "autumn": [
+        "진악산 단풍",
+        "적벽강 가을"
+      ],
+      "winter": [
+        "진악산 설경",
+        "금산인삼시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "적벽강 야경",
+        "coordinates": [
+          36.04825,
+          127.591518
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "금산인삼시장 야시장",
+        "coordinates": [
+          36.101546,
+          127.498661
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "금산군은 인삼의 고장으로 유명하며 금산인삼시장과 적벽강, 진악산이 자리한 충남 남부의 군이다.",
   "data_sources": [
     {
