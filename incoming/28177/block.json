@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "미추홀초등학교 운동장",
+        "coordinates": [
+          37.431063,
+          126.648136
+        ],
+        "capacity": 1200,
+        "address": "인천광역시 미추홀구"
+      },
+      {
+        "name": "미추홀실내체육관",
+        "coordinates": [
+          37.431063,
+          126.709708
+        ],
+        "capacity": 2800,
+        "address": "인천광역시 미추홀구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "문학산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인천SSG랜더스필드",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "인하대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "주안역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "주안 로데오거리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "미추홀구는 2018년 남구에서 개편된 인천의 자치구로 옛 백제 미추홀 도성 유래 이름을 쓰며 주안과 숭의·용현 상권, 문학산과 인천 문학경기장이 자리한다.",
   "data_sources": [
     {
