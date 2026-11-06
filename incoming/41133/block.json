@@ -291,6 +291,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "탄천 벚꽃길",
+        "여수정공원 봄꽃"
+      ],
+      "summer": [
+        "탄천 여름 물놀이",
+        "성남아트센터 여름 공연"
+      ],
+      "autumn": [
+        "탄천 억새",
+        "여수정공원 가을"
+      ],
+      "winter": [
+        "성남아트센터 겨울 조명",
+        "탄천 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "성남아트센터 야경",
+        "coordinates": [
+          37.413,
+          127.128
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "탄천 야경",
+        "coordinates": [
+          37.41862,
+          127.118367
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "성남 중원구는 성남아트센터와 탄천이 자리한 성남 중부의 구이다.",
   "data_sources": [
     {
