@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "비슬산",
+        "station_name": "달성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.712205,
+          128.499158
+        ]
+      },
+      {
+        "target_landmark": "도동서원",
+        "station_name": "도동서원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.702499,
+          128.372395
+        ]
+      },
+      {
+        "target_landmark": "국립대구과학관",
+        "station_name": "국립대구과학관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.688243,
+          128.465466
+        ]
+      },
+      {
+        "target_landmark": "사문진주막촌",
+        "station_name": "사문진주막촌 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.8436,
+          128.4614
+        ]
+      },
+      {
+        "target_landmark": "옥포벚꽃길",
+        "station_name": "옥포벚꽃길 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.8336,
+          128.4834
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "달성 중앙 공영주차장",
+        "coordinates": [
+          35.713405,
+          128.497958
+        ],
+        "capacity": 322,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "달성 제2 공영주차장",
+        "coordinates": [
+          35.8316,
+          128.4822
+        ],
+        "capacity": 247,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "달성 제3 공영주차장",
+        "coordinates": [
+          35.8412,
+          128.4618
+        ],
+        "capacity": 87,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "대구 달성군은 대구 외곽을 둘러싼 광역 군으로 비슷산과 도동서원, 사문진주막촌 등의 명소와 다사 신도시가 함께한다.",
   "data_sources": [
     {
