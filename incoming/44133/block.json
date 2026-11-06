@@ -224,6 +224,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "서북초등학교 운동장",
+        "coordinates": [
+          36.831166,
+          127.143392
+        ],
+        "capacity": 6700,
+        "address": "충청남도 천안시 서북구"
+      },
+      {
+        "name": "서북실내체육관",
+        "coordinates": [
+          36.869024,
+          127.245083
+        ],
+        "capacity": 2300,
+        "address": "충청남도 천안시 서북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "두정동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "성거산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천안종합운동장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서북구청",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "천안시립미술관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "천안 서북구는 천안 서부의 구로 성환? 아니라 성거산과 두정동 상권, 안서? 아니라 천안종합운동장이 자리한 지역이다.",
   "data_sources": [
     {
