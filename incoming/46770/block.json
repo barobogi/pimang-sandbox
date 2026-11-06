@@ -137,6 +137,82 @@
       "category": "수산물"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "나로우주센터",
+        "station_name": "나로우주센터 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.438504,
+          127.52557
+        ]
+      },
+      {
+        "target_landmark": "팔영산",
+        "station_name": "팔영산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.617553,
+          127.436444
+        ]
+      },
+      {
+        "target_landmark": "소록도",
+        "station_name": "소록도 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.513431,
+          127.109416
+        ]
+      },
+      {
+        "target_landmark": "고흥군청",
+        "station_name": "고흥군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          34.604919,
+          127.275519
+        ]
+      },
+      {
+        "target_landmark": "고흥시장",
+        "station_name": "고흥버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.563504,
+          127.341216
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "고흥 중앙 공영주차장",
+        "coordinates": [
+          34.561104,
+          127.342416
+        ],
+        "capacity": 268,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "고흥 제2 공영주차장",
+        "coordinates": [
+          34.604119,
+          127.275519
+        ],
+        "capacity": 227,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "고흥군은 나로우주센터와 팔영산, 금산? 아니라 소록도가 자리한 전남 남해안의 군이다.",
   "data_sources": [
     {
