@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongju-si, Gyeongbuk",
+      "landmarks": {
+        "부석사": [
+          "Buseoksa Temple",
+          "Signature temple heritage of Yeongju-si, Gyeongbuk."
+        ],
+        "소수서원": [
+          "Sosu Seowon",
+          "Signature Confucian academy heritage of Yeongju-si, Gyeongbuk."
+        ],
+        "무섬마을": [
+          "Museom Village",
+          "Signature traditional village of Yeongju-si, Gyeongbuk."
+        ],
+        "영주시청": [
+          "Yeongju City Hall",
+          "Administrative center of Yeongju-si, Gyeongbuk."
+        ],
+        "영주시장": [
+          "Yeongju Market",
+          "Signature market attraction of Yeongju-si, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 榮州市",
+      "landmarks": {
+        "부석사": [
+          "浮石寺",
+          "慶尚北道栄州市を代表する名所。"
+        ],
+        "소수서원": [
+          "紹修書院",
+          "慶尚北道栄州市を代表する名所。"
+        ],
+        "무섬마을": [
+          "無知村",
+          "慶尚北道栄州市を代表する名所。"
+        ],
+        "영주시청": [
+          "栄州市庁",
+          "慶尚北道栄州市を代表する名所。"
+        ],
+        "영주시장": [
+          "栄州市場",
+          "慶尚北道栄州市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 荣州市",
+      "landmarks": {
+        "부석사": [
+          "浮石寺",
+          "庆尚北道荣州市的代表性古刹。"
+        ],
+        "소수서원": [
+          "绍修书院",
+          "庆尚北道荣州市的代表性书院。"
+        ],
+        "무섬마을": [
+          "慕思么村",
+          "庆尚北道荣州市的代表性传统村落。"
+        ],
+        "영주시청": [
+          "荣州市厅",
+          "庆尚北道荣州市的行政中心。"
+        ],
+        "영주시장": [
+          "荣州市场",
+          "庆尚北道荣州市的代表性市场。"
+        ]
+      }
+    }
   }
 }
