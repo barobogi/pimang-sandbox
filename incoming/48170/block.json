@@ -356,5 +356,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jinju-si, Gyeongnam",
+      "landmarks": {
+        "진주성": [
+          "Jinjuseong Fortress",
+          "Historic stone fortress on the Nam River, site of the Jinju victory in the Imjin War."
+        ],
+        "촉석루": [
+          "Chokseoknu Pavilion",
+          "Pavilion inside the fortress facing the Nam River, famed for its night view."
+        ],
+        "경상국립대학교": [
+          "Gyeongsang National University",
+          "Gyeongnam's flagship national university with its main campus in Jinju."
+        ],
+        "진주혁신도시": [
+          "Jinju Innovation City",
+          "Innovation city hosting the relocated Gyeongnam provincial office, built in western Jinju."
+        ],
+        "남강": [
+          "Nam River",
+          "Stream through Jinju, famed for its lantern festival and Ramsar wetland."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 晋州市",
+      "landmarks": {
+        "진주성": [
+          "晋州城",
+          "壬辰倭乱の晋州大捷が起きた歴史的な石城。南江河岸に位置する。"
+        ],
+        "촉석루": [
+          "矗石楼",
+          "晋州城内で南江に面した楼閣。矗石楼の夜景が有名。"
+        ],
+        "경상국립대학교": [
+          "慶尚国立大学校",
+          "慶南を代表する国立総合大学。晋州に本部キャンパスがある。"
+        ],
+        "진주혁신도시": [
+          "晋州革新都市",
+          "慶南道庁が移転した革新都市。晋州西部に造成された。"
+        ],
+        "남강": [
+          "南江",
+          "晋州を貫く支流。灯籠祭りと南江ラムサール湿地で有名。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 晋州市",
+      "landmarks": {
+        "진주성": [
+          "晋州城",
+          "壬辰倭乱晋州大捷的历史石城，坐落于南江边。"
+        ],
+        "촉석루": [
+          "矗石楼",
+          "晋州城内面江南的楼阁，以夜景闻名。"
+        ],
+        "경상국립대학교": [
+          "庆尚国立大学",
+          "庆南代表性国立综合大学，主校区位于晋州。"
+        ],
+        "진주혁신도시": [
+          "晋州创新城市",
+          "庆南道厅迁入的创新城市，建于晋州西部。"
+        ],
+        "남강": [
+          "南江",
+          "纵贯晋州的河流，以流灯节和南江拉姆萨尔湿地闻名。"
+        ]
+      }
+    }
   }
 }
