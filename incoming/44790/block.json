@@ -353,6 +353,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -478,5 +483,48 @@
       126.853567,
       36.444161
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "청양군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.800289,
+      36.444957
+    ],
+    "reservation_url": "https://www.cheongyang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "청양군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.795889,
+      36.446157
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "청양군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.798589,
+      36.444557
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "청양 동네밥집",
+    "coordinates": [
+      126.801568,
+      36.449762
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "수탉백숙 (청양군 지정 모범음식점)"
   }
 }
