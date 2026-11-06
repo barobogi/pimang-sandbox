@@ -144,6 +144,94 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "망우리공원",
+        "station_name": "상봉역",
+        "line": "경의·중앙선",
+        "walk_minutes": 33,
+        "coordinates": [
+          37.5964,
+          127.0856
+        ]
+      },
+      {
+        "target_landmark": "봉화산",
+        "station_name": "상봉역",
+        "line": "경의·중앙선",
+        "walk_minutes": 20,
+        "coordinates": [
+          37.5964,
+          127.0856
+        ]
+      },
+      {
+        "target_landmark": "용마랜드",
+        "station_name": "면목역",
+        "line": "서울 7호선",
+        "exit_no": 1,
+        "walk_minutes": 24,
+        "coordinates": [
+          37.5879,
+          127.0883
+        ]
+      },
+      {
+        "target_landmark": "중랑천",
+        "station_name": "상봉역",
+        "line": "경의·중앙선",
+        "walk_minutes": 21,
+        "coordinates": [
+          37.5964,
+          127.0856
+        ]
+      },
+      {
+        "target_landmark": "면목동 먹자골목",
+        "station_name": "면목역",
+        "line": "서울 7호선",
+        "exit_no": 1,
+        "walk_minutes": 7,
+        "coordinates": [
+          37.5879,
+          127.0883
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "중랑 중앙 공영주차장",
+        "coordinates": [
+          37.594723,
+          127.107576
+        ],
+        "capacity": 371,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "중랑 제2 공영주차장",
+        "coordinates": [
+          37.585,
+          127.0864
+        ],
+        "capacity": 242,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "중랑 제3 공영주차장",
+        "coordinates": [
+          37.609248,
+          127.089202
+        ],
+        "capacity": 229,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "중랑구는 중랑천을 따라 형성된 농촌 마을들이 1970년대 이후 주택지로 급성장한 자치구로, 면목동과 상봉동 상권, 용마산과 봉화산의 자연과 함께 도시 근교 특성을 지닌다.",
   "data_sources": [
     {
