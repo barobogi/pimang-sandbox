@@ -216,6 +216,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "이천초등학교 운동장",
+        "coordinates": [
+          37.321155,
+          127.415102
+        ],
+        "capacity": 3000,
+        "address": "경기도 이천시"
+      },
+      {
+        "name": "이천실내체육관",
+        "coordinates": [
+          37.262909,
+          127.519476
+        ],
+        "capacity": 1200,
+        "address": "경기도 이천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "설봉공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이천도자기마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "복하천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이천역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이천시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "이천시는 이천쌀과 도자기로 유명한 경기 동부의 도시이며 설봉산이 대표 명소다.",
   "data_sources": [
     {
