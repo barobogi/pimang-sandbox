@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "모악산 봄 진달래",
+        "대둔산 봄"
+      ],
+      "summer": [
+        "대둔산 계곡 여름",
+        "위봉사 여름"
+      ],
+      "autumn": [
+        "대둔산 단풍길",
+        "모악산 가을"
+      ],
+      "winter": [
+        "대둔산 설경",
+        "위봉사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "대둔산 야경",
+        "coordinates": [
+          36.124594,
+          127.320477
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "모악산 야경",
+        "coordinates": [
+          35.728587,
+          127.085174
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "완주군은 대둔산과 위봉사, 모악산이 자리한 전북 중부의 군으로 전주를 둘러싼 지역이다.",
   "data_sources": [
     {
