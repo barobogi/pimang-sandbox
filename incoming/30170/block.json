@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대전예술의전당",
+        "station_name": "대전예술의전당 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.367063,
+          127.38417
+        ]
+      },
+      {
+        "target_landmark": "한밭수목원",
+        "station_name": "한밭수목원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.371222,
+          127.388027
+        ]
+      },
+      {
+        "target_landmark": "둔산동 상권",
+        "station_name": "서대전역",
+        "line": "경부선",
+        "walk_minutes": 41,
+        "coordinates": [
+          36.3272,
+          127.387
+        ]
+      },
+      {
+        "target_landmark": "장태산",
+        "station_name": "장태산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.220864,
+          127.339894
+        ]
+      },
+      {
+        "target_landmark": "갑천",
+        "station_name": "갑천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.356546,
+          127.354156
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서구 중앙 공영주차장",
+        "coordinates": [
+          36.216464,
+          127.341894
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제2 공영주차장",
+        "coordinates": [
+          36.356546,
+          127.354556
+        ],
+        "capacity": 574,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서구 제3 공영주차장",
+        "coordinates": [
+          36.3544,
+          127.381
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "대전 서구는 둔산신도시와 대전예술의전당, 한밭수목원이 자리한 대전 서부의 대표 주거 문화 구이다.",
   "data_sources": [
     {
