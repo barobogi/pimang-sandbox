@@ -283,6 +283,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수지공원 봄꽃",
+        "죽전동 카페거리 봄"
+      ],
+      "summer": [
+        "수지공원 여름",
+        "죽전동 카페거리 여름밤"
+      ],
+      "autumn": [
+        "수지공원 단풍",
+        "죽전역 상권 가을"
+      ],
+      "winter": [
+        "죽전역 상권 겨울 조명",
+        "수지공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "죽전동 카페거리 야경",
+        "coordinates": [
+          37.325,
+          127.124
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      },
+      {
+        "name": "수지공원 야경",
+        "coordinates": [
+          37.318,
+          127.115
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "용인 수지구는 죽전동 상권과 대형 주거 지역이 함께한 용인 동부의 구이다.",
   "data_sources": [
     {
