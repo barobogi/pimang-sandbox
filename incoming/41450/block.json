@@ -231,6 +231,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "하남초등학교 운동장",
+        "coordinates": [
+          37.536866,
+          127.22058
+        ],
+        "capacity": 4500,
+        "address": "경기도 하남시"
+      },
+      {
+        "name": "하남실내체육관",
+        "coordinates": [
+          37.527646,
+          127.240054
+        ],
+        "capacity": 6800,
+        "address": "경기도 하남시"
+      },
+      {
+        "name": "하남중앙공원 비상집합장소",
+        "coordinates": [
+          37.483354,
+          127.200913
+        ],
+        "capacity": 6200,
+        "address": "경기도 하남시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "스타필드 하남",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "검단산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "망월사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "미사한강공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕풍공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "하남시는 조선 시대 광주부 관내 지역으로 경강선 개통과 함께 서울 동남부의 위성도시로 성장했고 스타필드 하남과 미사일대, 검단산과 망월사 등 도시 명소가 자리한다.",
   "data_sources": [
     {
