@@ -232,6 +232,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "제천초등학교 운동장",
+        "coordinates": [
+          37.218505,
+          128.149656
+        ],
+        "capacity": 3000,
+        "address": "충청북도 제천시"
+      },
+      {
+        "name": "제천실내체육관",
+        "coordinates": [
+          37.003406,
+          127.97729
+        ],
+        "capacity": 5300,
+        "address": "충청북도 제천시"
+      },
+      {
+        "name": "제천중앙공원 비상집합장소",
+        "coordinates": [
+          37.100181,
+          128.222086
+        ],
+        "capacity": 7300,
+        "address": "충청북도 제천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "의림지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청풍호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "제천시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "제천역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "박달재",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "제천시는 의림지와 청풍호반, 박달재가 자리한 충북 북부의 관광 도시이다.",
   "data_sources": [
     {
