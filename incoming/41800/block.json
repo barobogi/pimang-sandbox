@@ -242,6 +242,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "연천초등학교 운동장",
+        "coordinates": [
+          38.119388,
+          127.095284
+        ],
+        "capacity": 4900,
+        "address": "경기도 연천군"
+      },
+      {
+        "name": "연천실내체육관",
+        "coordinates": [
+          38.090814,
+          127.106383
+        ],
+        "capacity": 6500,
+        "address": "경기도 연천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "초성리 중원식생태공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "당포성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "아미산전적지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한탄강국가지질공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고적대전망대",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "연천군은 북한과 국경을 접하는 경기 최북단의 군으로 임진강과 한탄강, DMZ 관광 자원과 함께 한탄강 국가지질공원 등의 자연 생태 명소가 자리한다.",
   "data_sources": [
     {
