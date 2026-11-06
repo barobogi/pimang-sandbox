@@ -130,6 +130,82 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "을숙도생태공원",
+        "station_name": "을숙도생태공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.0904,
+          128.882
+        ]
+      },
+      {
+        "target_landmark": "벚꽃공원",
+        "station_name": "벚꽃공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.1504,
+          128.952
+        ]
+      },
+      {
+        "target_landmark": "가덕도",
+        "station_name": "가덕도 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.002762,
+          128.836688
+        ]
+      },
+      {
+        "target_landmark": "지사문화마을",
+        "station_name": "지사문화마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.1404,
+          128.962
+        ]
+      },
+      {
+        "target_landmark": "낙동강하구에코센터",
+        "station_name": "낙동강하구에코센터 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.0954,
+          128.887
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "강서 중앙 공영주차장",
+        "coordinates": [
+          35.001562,
+          128.835488
+        ],
+        "capacity": 333,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "강서 제2 공영주차장",
+        "coordinates": [
+          35.09,
+          128.88
+        ],
+        "capacity": 187,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "강서구는 낙동강 하구의 을숙도와 벚꽃공원, 지사문화마을, 가덕도가 자리한 부산 서부의 구로 국제신도시가 개발 중이다.",
   "data_sources": [
     {
