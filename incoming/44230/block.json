@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Nonsan-si, Chungnam",
+      "landmarks": {
+        "관촉사": [
+          "Gwanchoksa Temple",
+          "Signature temple heritage of Nonsan-si, Chungnam."
+        ],
+        "강경젓갈시장": [
+          "Ganggyeong Salted Seafood Market",
+          "Signature market attraction of Nonsan-si, Chungnam."
+        ],
+        "논산시청": [
+          "Nonsan City Hall",
+          "Administrative center of Nonsan-si, Chungnam."
+        ],
+        "탑정호": [
+          "Tapjeongho Lake",
+          "Signature lakeside attraction of Nonsan-si, Chungnam."
+        ],
+        "대둔산": [
+          "Daedunsan Mountain",
+          "Signature mountain attraction of Nonsan-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 論山市",
+      "landmarks": {
+        "관촉사": [
+          "冠仏寺…ではなく灌燭寺",
+          "忠清南道論山市を代表する名所。"
+        ],
+        "강경젓갈시장": [
+          "強景塩辛市場",
+          "忠清南道論山市を代表する名所。"
+        ],
+        "논산시청": [
+          "論山市庁",
+          "忠清南道論山市を代表する名所。"
+        ],
+        "탑정호": [
+          "塔亭湖",
+          "忠清南道論山市を代表する名所。"
+        ],
+        "대둔산": [
+          "大屯山",
+          "忠清南道論山市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 论山市",
+      "landmarks": {
+        "관촉사": [
+          "灌烛寺",
+          "忠清南道论山市的代表性古刹。"
+        ],
+        "강경젓갈시장": [
+          "강경酱蟹市场",
+          "忠清南道论山市的代表性市场。"
+        ],
+        "논산시청": [
+          "论山市厅",
+          "忠清南道论山市的行政中心。"
+        ],
+        "탑정호": [
+          "塔亭湖",
+          "忠清南道论山市的代表性湖泊。"
+        ],
+        "대둔산": [
+          "大屯山",
+          "忠清南道论山市的代表性名山。"
+        ]
+      }
+    }
   }
 }
