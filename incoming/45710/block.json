@@ -417,5 +417,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.wanju.go.kr",
+    "civil_service_center": {
+      "location_name": "완주군청 민원실 앞",
+      "coordinates": [
+        127.187613,
+        35.873726
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "063-290-2114",
+      "info": "전북특별자치도 완주군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "완주군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.187513,
+      35.874726
+    ],
+    "cctv_zone_count": 128
+  },
+  "urban_parks_trails": {
+    "park_name": "고산근린공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "완주군민축제",
+    "typical_month": 10,
+    "venue_name": "완주군청 앞 광장",
+    "venue_coords": [
+      127.187113,
+      35.873826
+    ]
   }
 }
