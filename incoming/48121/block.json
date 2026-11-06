@@ -341,5 +341,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uichang-gu, Changwon",
+      "landmarks": {
+        "주남저수지": [
+          "Junam Reservoir",
+          "Famous winter haven for crane flocks, with ecology trails."
+        ],
+        "남산공원": [
+          "Namsan Park",
+          "Neighborhood park in Seosang-dong with a barefoot trail and paths."
+        ],
+        "사화공원": [
+          "Sahwa Park",
+          "Neighborhood park in Sahwa-dong, a retreat for Uichang residents."
+        ],
+        "덕정공원": [
+          "Deokjeong Park",
+          "Neighborhood park in Daewon-dong serving the Daewon district."
+        ],
+        "소계체육공원": [
+          "Sogye Sports Park",
+          "Sports park in Sogye-dong with barefoot trail and exercise facilities."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 昌原市 義昌区",
+      "landmarks": {
+        "주남저수지": [
+          "主南貯水池",
+          "冬にツルの群れが訪れる国内有名な渡り鳥の飛来地。生態探訪路が整備されている。"
+        ],
+        "남산공원": [
+          "南山公園",
+          "義昌区西上洞に造られた近隣公園。ベアフット路と散歩道がある。"
+        ],
+        "사화공원": [
+          "士和公園",
+          "士和洞に造られた近隣公園。義昌区住民の憩いの場。"
+        ],
+        "덕정공원": [
+          "徳正公園",
+          "大元洞に造られた近隣公園。大元地区の生活圏公園。"
+        ],
+        "소계체육공원": [
+          "蘇溪体育公園",
+          "蘇溪洞に造られた体育公園。ベアフット路と運動施設を備える。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 昌原市 义昌区",
+      "landmarks": {
+        "주남저수지": [
+          "主南水库",
+          "冬季鹤群栖息的著名候鸟栖息地，建有生态探访路。"
+        ],
+        "남산공원": [
+          "南山公园",
+          "义昌区西上洞的近邻公园，设有赤足路和步道。"
+        ],
+        "사화공원": [
+          "士和公园",
+          "士和洞的近邻公园，义昌区居民的休憩地。"
+        ],
+        "덕정공원": [
+          "德正公园",
+          "大元洞的近邻公园，大元地区生活圈公园。"
+        ],
+        "소계체육공원": [
+          "苏溪体育公园",
+          "苏溪洞的体育公园，配有赤足路和运动设施。"
+        ]
+      }
+    }
   }
 }
