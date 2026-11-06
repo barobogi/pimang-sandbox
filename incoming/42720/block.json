@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "홍천강",
+        "station_name": "홍천버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.768143,
+          127.971294
+        ]
+      },
+      {
+        "target_landmark": "팔봉산",
+        "station_name": "팔봉산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.696283,
+          127.699519
+        ]
+      },
+      {
+        "target_landmark": "용추계곡",
+        "station_name": "용추계곡 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6604,
+          127.9324
+        ]
+      },
+      {
+        "target_landmark": "내면숲휴양림",
+        "station_name": "내면숲휴양림 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6004,
+          128.0524
+        ]
+      },
+      {
+        "target_landmark": "홍천문화예술의전당",
+        "station_name": "홍천문화예술의전당 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.6974,
+          127.8904
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "홍천 중앙 공영주차장",
+        "coordinates": [
+          37.765743,
+          127.973294
+        ],
+        "capacity": 107,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "홍천 제2 공영주차장",
+        "coordinates": [
+          37.602,
+          128.0488
+        ],
+        "capacity": 30,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "홍천 제3 공영주차장",
+        "coordinates": [
+          37.66,
+          127.9276
+        ],
+        "capacity": 282,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "홍천군은 홍천강이 흐르는 강원 내륙의 군으로 팔봉산 복사꽃 관광과 메밀·고추 등 농특산물 산지로서 내면숲휴양림 등 산림 자원이 풍부하다.",
   "data_sources": [
     {
