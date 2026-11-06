@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Boseong-gun, Jeonnam",
+      "landmarks": {
+        "대한다원": [
+          "Daehan Dawon Tea Plantation",
+          "Korea's largest and first tea plantation, nationally famed for its green tea terraces."
+        ],
+        "한국차박물관": [
+          "Korean Tea Museum",
+          "Signature museum of Korean tea culture."
+        ],
+        "율포해수욕장": [
+          "Yulpo Beach",
+          "Pine-backed beach famed for its green tea sea baths."
+        ],
+        "태백산맥문학관": [
+          "Taebaek Mountains Literature Museum",
+          "Korea's largest single-author museum honoring Cho Jung-rae's epic novel."
+        ],
+        "득량역": [
+          "Deukryang Station",
+          "Old railway station opened in 1930, restored with a nostalgia street."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 宝城郡",
+      "landmarks": {
+        "대한다원": [
+          "大韓茶園",
+          "国内最大・最初の茶園。緑茶畑の絶景で全国的に有名。"
+        ],
+        "한국차박물관": [
+          "韓国茶博物館",
+          "韓国の茶文化を展示する代表的な茶専門博物館。"
+        ],
+        "율포해수욕장": [
+          "栗浦海水浴場",
+          "海緑茶湯で有名な松林のビーチを代表する海水浴場。"
+        ],
+        "태백산맥문학관": [
+          "太白山脈文学館",
+          "趙廷来作家の大河小説『太白山脈』を記念する国内最大の単一文学館。"
+        ],
+        "득량역": [
+          "得粮駅",
+          "1930年開通の古い駅舎。思い出の街とともに復元された。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 宝城郡",
+      "landmarks": {
+        "대한다원": [
+          "大韩茶园",
+          "国内最大最早的茶园，绿茶田绝景闻名全国。"
+        ],
+        "한국차박물관": [
+          "韩国茶博物馆",
+          "展示韩国茶文化的代表性专业博物馆。"
+        ],
+        "율포해수욕장": [
+          "栗浦海水浴场",
+          "以绿茶海汤闻名的松林海滩。"
+        ],
+        "태백산맥문학관": [
+          "太白山脉文学馆",
+          "纪念赵廷来长篇小说《太白山脉》的国内最大单一文学馆。"
+        ],
+        "득량역": [
+          "得粮站",
+          "1930年启用的老车站，与怀旧街区一同复原。"
+        ]
+      }
+    }
   }
 }
