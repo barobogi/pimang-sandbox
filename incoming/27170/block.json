@@ -227,6 +227,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.869573,
+          128.542402
+        ],
+        "capacity": 3500,
+        "address": "대구광역시 서구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.883021,
+          128.532239
+        ],
+        "capacity": 4400,
+        "address": "대구광역시 서구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "이현공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서대구역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "와룡산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만물백화점",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "초록꽃마당",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "대구 서구는 이현공원과 서대구역, 와룡산 둘레길이 자리한 대구 서부의 주거 상업 구이다.",
   "data_sources": [
     {
