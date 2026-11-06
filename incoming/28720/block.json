@@ -328,6 +328,11 @@
       "name": "OpenStreetMap Contributors",
       "license": "ODbL 1.0",
       "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -452,5 +457,48 @@
       125.464295,
       37.453098
     ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "옹진군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      125.464995,
+      37.451698
+    ],
+    "reservation_url": "https://www.ongjin.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "옹진군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      125.466395,
+      37.451698
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "옹진군청 공영주차장 급속충전소",
+    "coordinates": [
+      125.464895,
+      37.452498
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "덕적도 골목식당",
+    "coordinates": [
+      126.116293,
+      37.241879
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "닭강정 (옹진군 지정 모범음식점)"
   }
 }
