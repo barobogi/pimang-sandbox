@@ -130,6 +130,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "항공우주박물관",
+        "station_name": "항공우주박물관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.070083,
+          128.061593
+        ]
+      },
+      {
+        "target_landmark": "와룡산",
+        "station_name": "와룡산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.979253,
+          128.097444
+        ]
+      },
+      {
+        "target_landmark": "사천시청",
+        "station_name": "사천역",
+        "line": "경전선",
+        "walk_minutes": 35,
+        "coordinates": [
+          35.0256,
+          128.0648
+        ]
+      },
+      {
+        "target_landmark": "사천시장",
+        "station_name": "사천시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.082598,
+          128.086947
+        ]
+      },
+      {
+        "target_landmark": "삼천포항",
+        "station_name": "삼천포항 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          34.924842,
+          128.068385
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "사천 중앙 공영주차장",
+        "coordinates": [
+          35.004833,
+          128.065733
+        ],
+        "capacity": 284,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "사천 제2 공영주차장",
+        "coordinates": [
+          35.072883,
+          128.061593
+        ],
+        "capacity": 53,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "사천 제3 공영주차장",
+        "coordinates": [
+          34.983253,
+          128.097044
+        ],
+        "capacity": 559,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "사천시는 항공우주박물관과 와룡산, 삼천포항이 자리한 경남 남해안의 도시이다.",
   "data_sources": [
     {
