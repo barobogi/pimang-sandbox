@@ -184,16 +184,21 @@ def inspect_spatial_package(target_path):
     else:
         report["details"].append({"code": "U-05", "name": "모바일 60fps 렌더링 루프", "score": 0, "status": "FAIL", "reason": "렌더링 루프 미감지"})
 
-    total_score = g_score + m_score + d_score + u_score
-    report["scores"]["geometry"] = g_score
-    report["scores"]["materials"] = m_score
-    report["scores"]["spatial_dive"] = d_score
-    report["scores"]["mobile_ux"] = u_score
-    report["total_score"] = total_score
+    passed_count = sum(1 for d in report["details"] if d["status"] == "PASS")
+    total_checks = len(report["details"])
+    report["passed_count"] = passed_count
+    report["total_checks"] = total_checks
+    report["score_ratio"] = f"{passed_count} / {total_checks}"
 
-    if total_score >= 90:
+    # 영역별 통과 카운트
+    for area_code, area_key in [("G", "geometry"), ("M", "materials"), ("D", "spatial_dive"), ("U", "mobile_ux")]:
+        area_passed = sum(1 for d in report["details"] if d["code"].startswith(area_code) and d["status"] == "PASS")
+        area_total = sum(1 for d in report["details"] if d["code"].startswith(area_code))
+        report["scores"][area_key] = f"{area_passed} / {area_total}"
+
+    if passed_count >= 18:
         report["verdict"] = "PASS"
-    elif total_score >= 80:
+    elif passed_count >= 15:
         report["verdict"] = "CONDITIONAL_PASS"
     else:
         report["verdict"] = "FAIL"
@@ -212,9 +217,13 @@ def main():
 
     print("=== [3AI Spatial Quality Inspector Result] ===")
     print(f"Target: {report['target_path']}")
-    print(f"Scores: Geometry: {report['scores']['geometry']}/25 | Materials: {report['scores']['materials']}/25 | Dive: {report['scores']['spatial_dive']}/25 | Mobile UX: {report['scores']['mobile_ux']}/25")
-    print(f"Total: {report['total_score']} / 100")
-    print(f"Verdict: {report['verdict']}")
+    print(f"Scores (통과 항목 / 세부 체크항목):")
+    print(f"  - 지오메트리 & 조형: {report['scores']['geometry']}")
+    print(f"  - PBR 재질 & 현장감: {report['scores']['materials']}")
+    print(f"  - 1인칭 공간 다이빙: {report['scores']['spatial_dive']}")
+    print(f"  - 모바일 네이티브 UX: {report['scores']['mobile_ux']}")
+    print(f"총 점수: {report['score_ratio']} (통과율: {report['passed_count'] / report['total_checks'] * 100:.1f}%)")
+    print(f"판정: {report['verdict']}")
     print(f"Report saved to: {args.output}")
 
     if report["verdict"] == "FAIL":
