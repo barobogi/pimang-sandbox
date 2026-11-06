@@ -422,10 +422,11 @@
     "civil_service_center": {
       "location_name": "수지구청 민원실 앞",
       "coordinates": [
-        127.079588,
-        37.332162
+        127.097819,
+        37.322238
       ],
-      "operating_hours": "09:00 - 18:00"
+      "operating_hours": "09:00 - 18:00",
+      "verified": "OpenStreetMap Nominatim géocode of the district office street address"
     },
     "representative_contact": {
       "phone": "031-1577-1122",
