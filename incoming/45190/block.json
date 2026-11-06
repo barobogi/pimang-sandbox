@@ -1,0 +1,579 @@
+{
+  "block_code": "45190",
+  "block_name": "전북특별자치도 남원시",
+  "bbox": [
+    127.184002,
+    35.303277,
+    127.673237,
+    35.559043
+  ],
+  "center": [
+    35.43116,
+    127.428619
+  ],
+  "landmarks": [
+    {
+      "name": "광한루",
+      "lat": 35.4039641,
+      "lng": 127.3797612,
+      "category": "누정/문화유산",
+      "description": "춘향전의 배경이 되는 유명한 누정으로 광한루원이 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%95%9C%EB%A3%A8",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 55.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Korea-Nawon-Kwanghanlu2.jpg/1280px-Korea-Nawon-Kwanghanlu2.jpg"
+    },
+    {
+      "name": "만인의총",
+      "lat": 35.4194839,
+      "lng": 127.3777197,
+      "category": "기념물/역사",
+      "description": "정유재란 때 순절한 남원 지역 군민을 기리는 대표 기념물이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%A7%8C%EC%9D%B8%EC%9D%98%EC%B4%9D",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 74.3
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amlou2518_%EB%82%A8%EC%9B%90_%EB%A7%8C%EC%9D%B8%EC%9D%98%EC%B4%9D.jpg"
+    },
+    {
+      "name": "용담댐",
+      "lat": 35.363,
+      "lng": 127.453,
+      "category": "댐/인프라",
+      "description": "섬진강에 건설된 대형 다목적 댐으로 용담호를 만들었다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4%EB%8C%90",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 343.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg/1280px-%EC%9A%A9%EB%8B%B4%ED%98%B8.jpg"
+    },
+    {
+      "name": "천왕봉",
+      "lat": 35.4599526,
+      "lng": 127.6061848,
+      "category": "산/국립공원",
+      "description": "지리산의 주봉으로 남원·하동·함양 삼계에 걸쳐 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%99%95%EB%B4%89",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 258.8
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%EC%A7%80%EB%A6%AC%EC%82%B0_%EC%B2%9C%EC%99%95%EB%B4%89.jpg"
+    },
+    {
+      "name": "이몽룡문화의거리",
+      "lat": 35.412,
+      "lng": 127.389,
+      "category": "문화/거리",
+      "description": "춘향전 이야기를 테마로 조성된 남원 도심 문화 거리다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%9B%90%EC%8B%9C",
+      "camera_view": {
+        "altitude": 130,
+        "pitch": -28,
+        "heading": 59.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Namwon_City_Hall.JPG/1280px-Namwon_City_Hall.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "남원 역사·문화 시그니처 스카이 트레일",
+      "description": "이몽룡문화의거리 → 광한루 → 만인의총 → 용담댐 → 천왕봉 순으로 이어지는 전북특별자치도 남원시의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "이몽룡문화의거리",
+        "광한루",
+        "만인의총",
+        "용담댐",
+        "천왕봉"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "남원 세월을 나는 문화유산 플라이트",
+      "description": "만인의총 → 이몽룡문화의거리 → 광한루 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 남원의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "만인의총",
+        "이몽룡문화의거리",
+        "광한루"
+      ],
+      "duration_hours": 1.5
+    },
+    {
+      "tour_name": "남원 그린 랜드스케이프 플라이트",
+      "description": "광한루 → 이몽룡문화의거리 → 천왕봉 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 남원의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "광한루",
+        "이몽룡문화의거리",
+        "천왕봉"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "이몽룡문화의거리 할매집",
+      "lat": 35.41172,
+      "lng": 127.38928,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "만인의총 할매집",
+      "lat": 35.419204,
+      "lng": 127.37814,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "광한루 큰마당식당",
+      "lat": 35.403964,
+      "lng": 127.379131,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "용담댐 옛맛식당",
+      "lat": 35.36328,
+      "lng": 127.45244,
+      "specialty": "부추파전",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "광한루",
+        "station_name": "남원역",
+        "line": "KTX 호남선",
+        "walk_minutes": 15,
+        "coordinates": [
+          35.4124,
+          127.3848
+        ]
+      },
+      {
+        "target_landmark": "만인의총",
+        "station_name": "남원역",
+        "line": "KTX 호남선",
+        "walk_minutes": 15,
+        "coordinates": [
+          35.4124,
+          127.3848
+        ]
+      },
+      {
+        "target_landmark": "용담댐",
+        "station_name": "용담댐 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.3634,
+          127.4502
+        ]
+      },
+      {
+        "target_landmark": "천왕봉",
+        "station_name": "천왕봉 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.460353,
+          127.603385
+        ]
+      },
+      {
+        "target_landmark": "이몽룡문화의거리",
+        "station_name": "남원역",
+        "line": "KTX 호남선",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.4124,
+          127.3848
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "남원 중앙 공영주차장",
+        "coordinates": [
+          35.414,
+          127.389
+        ],
+        "capacity": 105,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "남원 제2 공영주차장",
+        "coordinates": [
+          35.420684,
+          127.37972
+        ],
+        "capacity": 128,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "남원초등학교 운동장",
+        "coordinates": [
+          35.426266,
+          127.451649
+        ],
+        "capacity": 6900,
+        "address": "전북특별자치도 남원시"
+      },
+      {
+        "name": "남원실내체육관",
+        "coordinates": [
+          35.392764,
+          127.322304
+        ],
+        "capacity": 2900,
+        "address": "전북특별자치도 남원시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "광한루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "만인의총",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용담댐",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "천왕봉",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "이몽룡문화의거리",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "광한루 봄",
+        "이몽룡문화의거리 봄"
+      ],
+      "summer": [
+        "광한루 여름",
+        "용담댐 여름"
+      ],
+      "autumn": [
+        "광한루 단풍",
+        "만인의총 가을"
+      ],
+      "winter": [
+        "광한루 겨울 설경",
+        "남원 겨울 조명"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "광한루 야경",
+        "coordinates": [
+          35.403964,
+          127.379761
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "이몽룡문화의거리 야경",
+        "coordinates": [
+          35.412,
+          127.389
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "남원시는 춘향전의 배경이 된 유서 깊은 도시로 광한루와 만인의총, 지리산 천왕봉 등의 명소와 용담댐이 함께한 전북 동부의 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Namwon-si, Jeonbuk",
+      "landmarks": {
+        "광한루": [
+          "Gwanghallu Pavilion",
+          "Famous pavilion set as the backdrop of the Chunhyang story, with Gwanghalluwon Garden."
+        ],
+        "만인의총": [
+          "Maninui Chol Monument",
+          "Monument honoring the soldiers and townspeople who fell defending Namwon during the Imjin War."
+        ],
+        "용담댐": [
+          "Yongdam Dam",
+          "Large multipurpose dam on the Seomjin River creating Yongdamho Lake."
+        ],
+        "천왕봉": [
+          "Cheonwangbong Peak",
+          "Main summit of Jirisan spanning Namwon, Hadong, and Hamyang."
+        ],
+        "이몽룡문화의거리": [
+          "Yi Mong-ryong Culture Street",
+          "Downtown cultural street themed on the Chunhyang tale."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 南原市",
+      "landmarks": {
+        "광한루": [
+          "広寒楼",
+          "春香伝の舞台となった有名な楼閣。広寒楼園がともにある。"
+        ],
+        "만인의총": [
+          "万人の塚",
+          "壬辰倭乱で殉国した南原の軍民を顕彰する代表的な記念物。"
+        ],
+        "용담댐": [
+          "龍潭ダム",
+          "蟾津江に建設された大型多目的ダム。龍潭湖を生んだ。"
+        ],
+        "천왕봉": [
+          "天王峰",
+          "智異山の主峰。南原・河東・咸陽の三境にまたがる。"
+        ],
+        "이몽룡문화의거리": [
+          "李夢龍文化の通り",
+          "春香伝の物語をテーマに造られた南原都心の文化ストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 南原市",
+      "landmarks": {
+        "광한루": [
+          "广寒楼",
+          "《春香传》故事背景中的名楼，配有广寒楼园。"
+        ],
+        "만인의총": [
+          "万人冢",
+          "纪念壬辰倭乱中殉难的南原军民的代表性纪念碑。"
+        ],
+        "용담댐": [
+          "龙潭大坝",
+          "建于蟾津江的大型多用途水坝，造就龙潭湖。"
+        ],
+        "천왕봉": [
+          "天王峰",
+          "智异山主峰，横跨南原、河东、咸阳三地。"
+        ],
+        "이몽룡문화의거리": [
+          "李梦龙文化街",
+          "以《春香传》故事打造的原市中心文化街。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.namwon.go.kr",
+    "civil_service_center": {
+      "location_name": "남원시청 민원실 앞",
+      "coordinates": [
+        127.390461,
+        35.416418
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-620-6114",
+      "info": "전북특별자치도 남원시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "남원시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.42832,
+      35.43136
+    ],
+    "cctv_zone_count": 382,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "만인의 공원",
+    "trail_length_km": 1.8,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "남원 춘향제",
+    "typical_month": 5,
+    "venue_name": "광한루원 일대",
+    "venue_coords": [
+      127.428519,
+      35.43146
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "남원시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      127.388461,
+      35.415218
+    ],
+    "reservation_url": "https://www.namwon.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "남원시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      127.390161,
+      35.417718
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "남원시청 공영주차장 급속충전소",
+    "coordinates": [
+      127.389161,
+      35.414318
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "용담댐 옛맛식당",
+    "coordinates": [
+      127.45244,
+      35.36328
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "부추파전 (남원시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=남원시청&goalx=127.390461&goaly=35.416418",
+    "kakaonavi_url": "kakaonavi://navigate?name=남원시청&x=127.390461&y=35.416418&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=남원시청&dlng=127.390461&dlat=35.416418&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:42",
+      "noon_altitude_deg": 54.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:15",
+      "sunset": "19:48",
+      "noon_altitude_deg": 78.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:27",
+      "noon_altitude_deg": 54.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:36",
+      "sunset": "17:22",
+      "noon_altitude_deg": 31.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "남원시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.42792,
+          35.43026
+        ],
+        [
+          127.42832,
+          35.43136
+        ],
+        [
+          127.42682,
+          35.43096
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "남원시 중심상업거리",
+    "anchor_center": [
+      127.390394,
+      35.416618
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 190,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
