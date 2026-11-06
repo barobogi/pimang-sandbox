@@ -1,0 +1,562 @@
+{
+  "block_code": "42820",
+  "block_name": "강원특별자치도 고성군",
+  "bbox": [
+    128.22615,
+    38.187331,
+    128.824452,
+    38.61772
+  ],
+  "center": [
+    38.402526,
+    128.525301
+  ],
+  "landmarks": [
+    {
+      "name": "금강산전망대",
+      "lat": 38.5987739,
+      "lng": 128.351642,
+      "category": "DMZ/전망대",
+      "description": "북측 금강산을 가장 가까이에서 볼 수 있는 고성 대표 전망시설이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 145.2
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lake_samilpo_at_Kumgangsan_20020720.jpg"
+    },
+    {
+      "name": "화진포",
+      "lat": 38.4498364,
+      "lng": 128.4407877,
+      "category": "해변/관광",
+      "description": "동해 최북단의 모래사장으로 화진포전망대와 자작나무 숲이 함께한다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%A7%84%ED%8F%AC",
+      "camera_view": {
+        "altitude": 200,
+        "pitch": -30,
+        "heading": 125.5
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg/1280px-%ED%99%94%EC%A7%84%ED%8F%AC%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.jpg"
+    },
+    {
+      "name": "선인장온천",
+      "lat": 38.21,
+      "lng": 128.4,
+      "category": "온천/관광",
+      "description": "토성면 일대의 온천 관광지로 선인장 볼 수 있는 온천 시설이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 27.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Misiryeong_SA.jpg/1280px-Misiryeong_SA.jpg"
+    },
+    {
+      "name": "고성수복기념관",
+      "lat": 38.26,
+      "lng": 128.38,
+      "category": "역사/기념관",
+      "description": "6·25 전쟁 수복의 역사를 전시한 기념관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 38.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Misiryeong_SA.jpg/1280px-Misiryeong_SA.jpg"
+    },
+    {
+      "name": "간성성당",
+      "lat": 38.3787624,
+      "lng": 128.4661594,
+      "category": "종교/문화유산",
+      "description": "간성읍에 자리한 한국 천주교 성당으로 동해 지역 초기 전교의 중심지였다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%84%B1%EA%B5%B0_%28%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%29",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 62.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Misiryeong_SA.jpg/1280px-Misiryeong_SA.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "고성 도심 하이라이트 시그니처 스카이 투어",
+      "description": "간성성당 → 화진포 → 금강산전망대 → 고성수복기념관 → 선인장온천 순으로 이어지는 강원특별자치도 고성군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "간성성당",
+        "화진포",
+        "금강산전망대",
+        "고성수복기념관",
+        "선인장온천"
+      ],
+      "duration_hours": 4.5
+    },
+    {
+      "tour_name": "고성 도심 하이라이트 스카이 투어",
+      "description": "금강산전망대 → 화진포 → 선인장온천 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 고성의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "금강산전망대",
+        "화진포",
+        "선인장온천"
+      ],
+      "duration_hours": 3.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "간성성당 옛맛식당",
+      "lat": 38.378062,
+      "lng": 128.466509,
+      "specialty": "감자전",
+      "category": "향토음식"
+    },
+    {
+      "name": "화진포 가마솥밥가",
+      "lat": 38.449556,
+      "lng": 128.441488,
+      "specialty": "황태구이",
+      "category": "향토음식"
+    },
+    {
+      "name": "고성수복기념관 큰마당식당",
+      "lat": 38.25986,
+      "lng": 128.38021,
+      "specialty": "막국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "금강산전망대",
+        "station_name": "금강산전망대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.599974,
+          128.350042
+        ]
+      },
+      {
+        "target_landmark": "화진포",
+        "station_name": "화진포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.451036,
+          128.439188
+        ]
+      },
+      {
+        "target_landmark": "선인장온천",
+        "station_name": "선인장온천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.2112,
+          128.3984
+        ]
+      },
+      {
+        "target_landmark": "고성수복기념관",
+        "station_name": "고성수복기념관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          38.2612,
+          128.3784
+        ]
+      },
+      {
+        "target_landmark": "간성성당",
+        "station_name": "고성버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          38.376762,
+          128.467759
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "고성 중앙 공영주차장",
+        "coordinates": [
+          38.380762,
+          128.466959
+        ],
+        "capacity": 125,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "고성 제2 공영주차장",
+        "coordinates": [
+          38.449836,
+          128.439988
+        ],
+        "capacity": 248,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "고성초등학교 운동장",
+        "coordinates": [
+          38.557184,
+          128.288728
+        ],
+        "capacity": 6700,
+        "address": "강원특별자치도 고성군"
+      },
+      {
+        "name": "고성실내체육관",
+        "coordinates": [
+          38.505458,
+          128.377826
+        ],
+        "capacity": 3600,
+        "address": "강원특별자치도 고성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "금강산전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "화진포",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "선인장온천",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "고성수복기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "간성성당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "화진포 봄 바다",
+        "간성성당 봄"
+      ],
+      "summer": [
+        "화진포 여름",
+        "선인장온천 여름"
+      ],
+      "autumn": [
+        "화진포 가을",
+        "금강산전망대 가을"
+      ],
+      "winter": [
+        "화진포 겨울 철새",
+        "금강산전망대 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "화진포 야경",
+        "coordinates": [
+          38.449836,
+          128.440788
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "금강산전망대 야경",
+        "coordinates": [
+          38.598774,
+          128.351642
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "19:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "고성군은 간성이 옛 이름인 강원 동북부의 군으로 금강산전망대와 화진포 등 DMZ·동해 관광 자원과 함께 옛 금강산 관광의 관문이었다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Goseong-gun, Gangwon",
+      "landmarks": {
+        "금강산전망대": [
+          "Geumgangsan Observatory",
+          "Goseong's signature observatory with the closest view of North Korea's Geumgangsan."
+        ],
+        "화진포": [
+          "Hwajinpo Beach",
+          "Sandy shore at the northern end of the East Sea, with the Hwajinpo observatory and birch woods."
+        ],
+        "선인장온천": [
+          "Seoninjang Hot Springs",
+          "Hot spring resort in Toseong-myeon, famed for its cactus-viewing spa facilities."
+        ],
+        "고성수복기념관": [
+          "Goseong Reunification Memorial Hall",
+          "Memorial museum exhibiting the history of recapture during the Korean War."
+        ],
+        "간성성당": [
+          "Ganseong Catholic Church",
+          "Catholic church in Ganseong-eup, once a center of early mission work on the East Sea coast."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 高城郡",
+      "landmarks": {
+        "금강산전망대": [
+          "金剛山展望台",
+          "北側の金剛山を最も近くに望める高城を代表する展望施設。"
+        ],
+        "화진포": [
+          "花津浦",
+          "東海最北端の砂浜。花津浦展望台と白樺の森がともにある。"
+        ],
+        "선인장온천": [
+          "仙人掌温泉",
+          "土城面一帯の温泉観光地。サボテンが見られる温泉施設で有名。"
+        ],
+        "고성수복기념관": [
+          "高城収復記念館",
+          "6・25戦争の収復の歴史を展示する記念館。"
+        ],
+        "간성성당": [
+          "干城聖堂",
+          "干城邑にある韓国カトリック聖堂。東海地方初期伝教の中心地だった。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 高城郡",
+      "landmarks": {
+        "금강산전망대": [
+          "金刚山展望台",
+          "可最近眺望朝鲜金刚山的高城代表性展望台。"
+        ],
+        "화진포": [
+          "花津浦",
+          "东海岸最北端的沙滩，配有花津浦展望台和白桦林。"
+        ],
+        "선인장온천": [
+          "仙人掌温泉",
+          "土城面一带的温泉观光地，以可赏仙人掌的温泉设施闻名。"
+        ],
+        "고성수복기념관": [
+          "高城收复纪念馆",
+          "展示朝鲜战争收复历史的纪念馆。"
+        ],
+        "간성성당": [
+          "杆城圣堂",
+          "杆城邑的天主教堂，曾是东海岸早期传教中心。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gwgs.go.kr",
+    "civil_service_center": {
+      "location_name": "고성군청 민원실 앞",
+      "coordinates": [
+        128.467846,
+        38.380032
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "033-680-3114",
+      "info": "강원특별자치도 고성군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "고성군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.525701,
+      38.402825
+    ],
+    "cctv_zone_count": 18,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "고성(강원) 중앙공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "고성 왕골축제",
+    "typical_month": 7,
+    "venue_name": "왕골문화관 일대",
+    "venue_coords": [
+      128.525601,
+      38.402525
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "고성군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "futsal",
+      "tennis"
+    ],
+    "coordinates": [
+      128.467446,
+      38.381032
+    ],
+    "reservation_url": "https://www.gwgs.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "고성군 복지관 스마트도서관",
+    "kiosk_type": "smart_library",
+    "coordinates": [
+      128.470646,
+      38.381032
+    ],
+    "operating_hours": "09:00 - 21:00"
+  },
+  "ev_charging_hubs": {
+    "station_name": "고성군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.464846,
+      38.383032
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "간성성당 옛맛식당",
+    "coordinates": [
+      128.466509,
+      38.378062
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "감자전 (고성군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=고성군청&goalx=128.467846&goaly=38.380032",
+    "kakaonavi_url": "kakaonavi://navigate?name=고성군청&x=128.467846&y=38.380032&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=고성군청&dlng=128.467846&dlat=38.380032&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:29",
+      "sunset": "18:38",
+      "noon_altitude_deg": 51.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:02",
+      "sunset": "19:53",
+      "noon_altitude_deg": 75.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:14",
+      "sunset": "18:23",
+      "noon_altitude_deg": 51.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:09",
+      "noon_altitude_deg": 28.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "고성군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.524751,
+          38.404075
+        ],
+        [
+          128.525701,
+          38.402825
+        ],
+        [
+          128.525351,
+          38.404125
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "고성군 전통시장 만남의거리",
+    "anchor_center": [
+      128.468846,
+      38.379899
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 340,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
