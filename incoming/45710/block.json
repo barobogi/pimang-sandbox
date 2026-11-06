@@ -147,6 +147,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대둔산",
+        "station_name": "대둔산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.122194,
+          127.318877
+        ]
+      },
+      {
+        "target_landmark": "위봉사",
+        "station_name": "위봉사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.908089,
+          127.255267
+        ]
+      },
+      {
+        "target_landmark": "모악산",
+        "station_name": "모악산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.726187,
+          127.083574
+        ]
+      },
+      {
+        "target_landmark": "완주군청",
+        "station_name": "완주군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.902164,
+          127.159931
+        ]
+      },
+      {
+        "target_landmark": "완주시장",
+        "station_name": "완주버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.873926,
+          127.188013
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "완주 중앙 공영주차장",
+        "coordinates": [
+          35.873926,
+          127.185213
+        ],
+        "capacity": 208,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "완주 제2 공영주차장",
+        "coordinates": [
+          35.904964,
+          127.163131
+        ],
+        "capacity": 157,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "완주군은 대둔산과 위봉사, 모악산이 자리한 전북 중부의 군으로 전주를 둘러싼 지역이다.",
   "data_sources": [
     {
