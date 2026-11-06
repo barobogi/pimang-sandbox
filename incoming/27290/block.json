@@ -276,6 +276,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "성당공원 봄꽃",
+        "달서공원 봄"
+      ],
+      "summer": [
+        "상인락공원 여름",
+        "감삼공원 여름"
+      ],
+      "autumn": [
+        "이약산 단풍",
+        "달서공원 가을"
+      ],
+      "winter": [
+        "성당공원 겨울 조명",
+        "이약산 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "이약산 야경",
+        "coordinates": [
+          35.81,
+          128.52
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "성당공원 야경",
+        "coordinates": [
+          35.827,
+          128.54
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "달서구는 대구 서부에 위치한 대규모 주거 도시로 성당공원과 이약산 등의 도심 자연과 함께 발달했다.",
   "data_sources": [
     {
