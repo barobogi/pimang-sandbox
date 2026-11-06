@@ -355,5 +355,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Dongan-gu, Anyang",
+      "landmarks": {
+        "평촌 상권": [
+          "Pyeongchon District",
+          "Largest commercial hub of Dongan-gu."
+        ],
+        "관양동 상권": [
+          "Gwanyang-dong District",
+          "Commercial hub formed in Gwanyang-dong."
+        ],
+        "호계동 상권": [
+          "Hogye-dong District",
+          "Everyday commercial hub in Hogye-dong."
+        ],
+        "평촌중앙공원": [
+          "Pyeongchon Central Park",
+          "Park at the heart of Pyeongchon New Town."
+        ],
+        "비산공원": [
+          "Bisan Park",
+          "Signature neighborhood park of Dongan-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安養市 東安区",
+      "landmarks": {
+        "평촌 상권": [
+          "坪村商圏",
+          "東安区を代表する商業地域。"
+        ],
+        "관양동 상권": [
+          "冠陽洞商圏",
+          "冠陽洞に形成された代表的な商圏。"
+        ],
+        "호계동 상권": [
+          "湖渓洞商圏",
+          "湖渓洞に形成された代表的な生活商圏。"
+        ],
+        "평촌중앙공원": [
+          "坪村中央公園",
+          "坪村新都市の中央にある代表的な公園。"
+        ],
+        "비산공원": [
+          "飛山公園",
+          "東安区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安养市 东安区",
+      "landmarks": {
+        "평촌 상권": [
+          "坪村商圈",
+          "东安区最大的商业区。"
+        ],
+        "관양동 상권": [
+          "冠阳洞商圈",
+          "冠阳洞形成的代表性商圈。"
+        ],
+        "호계동 상권": [
+          "虎溪洞商圈",
+          "虎溪洞形成的代表性生活商圈。"
+        ],
+        "평촌중앙공원": [
+          "坪村中央公园",
+          "坪村新城中央的代表性公园。"
+        ],
+        "비산공원": [
+          "飞山公园",
+          "东安区的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
