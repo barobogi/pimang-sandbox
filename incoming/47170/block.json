@@ -130,6 +130,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "하회마을",
+        "station_name": "하회마을 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.539027,
+          128.519295
+        ]
+      },
+      {
+        "target_landmark": "도산서원",
+        "station_name": "도산서원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.72722,
+          128.844731
+        ]
+      },
+      {
+        "target_landmark": "봉정사",
+        "station_name": "봉정사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.653266,
+          128.663925
+        ]
+      },
+      {
+        "target_landmark": "병산서원",
+        "station_name": "병산서원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.542104,
+          128.557972
+        ]
+      },
+      {
+        "target_landmark": "월영교",
+        "station_name": "월영교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.576633,
+          128.762088
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "안동 중앙 공영주차장",
+        "coordinates": [
+          36.576233,
+          128.763288
+        ],
+        "capacity": 428,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "안동 제2 공영주차장",
+        "coordinates": [
+          36.651666,
+          128.661125
+        ],
+        "capacity": 391,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "안동 제3 공영주차장",
+        "coordinates": [
+          36.542904,
+          128.557172
+        ],
+        "capacity": 257,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "안동시는 조선 시대 성리학의 본산이었던 유서 깊은 도시로 하회마을과 도산서원, 병산서원, 봉정사 등 유네스코 세계유산을 품은 경북 북부의 대표 문화 도시다.",
   "data_sources": [
     {
