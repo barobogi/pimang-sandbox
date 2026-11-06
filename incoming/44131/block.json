@@ -340,6 +340,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -508,5 +513,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "수탉백숙 (동남구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=동남구청&goalx=127.150234&goaly=36.803995",
+    "kakaonavi_url": "kakaonavi://navigate?name=동남구청&x=127.150234&y=36.803995&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=동남구청&dlng=127.150234&dlat=36.803995&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:34",
+      "sunset": "18:43",
+      "noon_altitude_deg": 53.2
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:53",
+      "noon_altitude_deg": 76.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:19",
+      "sunset": "18:28",
+      "noon_altitude_deg": 53.2
+    },
+    "winter_solstice": {
+      "sunrise": "07:40",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "동남구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.215588,
+          36.755466
+        ],
+        [
+          127.214888,
+          36.755516
+        ],
+        [
+          127.214088,
+          36.756616
+        ]
+      ],
+      "cctv_linked_count": 9,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "동남구 중심상업거리",
+    "anchor_center": [
+      127.148701,
+      36.805728
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 247,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
   }
 }
