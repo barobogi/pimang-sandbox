@@ -215,6 +215,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "순창초등학교 운동장",
+        "coordinates": [
+          35.415767,
+          127.069644
+        ],
+        "capacity": 5100,
+        "address": "전북특별자치도 순창군"
+      },
+      {
+        "name": "순창실내체육관",
+        "coordinates": [
+          35.33955,
+          127.091054
+        ],
+        "capacity": 1000,
+        "address": "전북특별자치도 순창군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "강천산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "순창고추장민속마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "순창군청",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "순창시장",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "회문산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "순창군은 고추장의 고장으로 유명하며 강천산과 순창고추장민속마을이 자리한 전북 남부의 군이다.",
   "data_sources": [
     {
