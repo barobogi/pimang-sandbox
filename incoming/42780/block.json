@@ -347,5 +347,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheorwon-gun, Gangwon",
+      "landmarks": {
+        "노동당사": [
+          "Labor Party Headquarters Ruins",
+          "Historic ruins attraction of Cheorwon-gun, Gangwon."
+        ],
+        "한탄강": [
+          "Hantan River",
+          "Signature river attraction of Cheorwon-gun, Gangwon."
+        ],
+        "철원평야": [
+          "Cheorwon Plain",
+          "Signature plain attraction of Cheorwon-gun, Gangwon."
+        ],
+        "철원군청": [
+          "Cheorwon County Office",
+          "Administrative center of Cheorwon-gun, Gangwon."
+        ],
+        "고석정": [
+          "Goseokjeong Pavilion",
+          "Signature scenic attraction of Cheorwon-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 鉄原郡",
+      "landmarks": {
+        "노동당사": [
+          "労働党舎",
+          "江原特別自治道鉄原郡を代表する名所。"
+        ],
+        "한탄강": [
+          "漢灘江",
+          "江原特別自治道鉄原郡を代表する名所。"
+        ],
+        "철원평야": [
+          "鉄原平野",
+          "江原特別自治道鉄原郡を代表する名所。"
+        ],
+        "철원군청": [
+          "鉄原郡庁",
+          "江原特別自治道鉄原郡を代表する名所。"
+        ],
+        "고석정": [
+          "孤石亭",
+          "江原特別自治道鉄原郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 铁原郡",
+      "landmarks": {
+        "노동당사": [
+          "劳动党舍",
+          "江原特别自治道铁原郡的代表性历史遗迹。"
+        ],
+        "한탄강": [
+          "汉滩江",
+          "江原特别自治道铁原郡的代表性河流。"
+        ],
+        "철원평야": [
+          "铁原平原",
+          "江原特别自治道铁原郡的代表性平原。"
+        ],
+        "철원군청": [
+          "铁原郡厅",
+          "江原特别自治道铁原郡的行政中心。"
+        ],
+        "고석정": [
+          "孤石亭",
+          "江原特别自治道铁原郡的代表性胜景。"
+        ]
+      }
+    }
   }
 }
