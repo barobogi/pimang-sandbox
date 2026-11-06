@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hwasun-gun, Jeonnam",
+      "landmarks": {
+        "운주사": [
+          "Unjusa Temple",
+          "Signature temple heritage of Hwasun-gun, Jeonnam."
+        ],
+        "화순고인돌유적": [
+          "Hwasun Dolmen Site",
+          "UNESCO-listed dolmen heritage of Hwasun-gun, Jeonnam."
+        ],
+        "화순적벽": [
+          "Hwasun Red Cliff",
+          "Signature scenic cliff attraction of Hwasun-gun, Jeonnam."
+        ],
+        "화순군청": [
+          "Hwasun County Office",
+          "Administrative center of Hwasun-gun, Jeonnam."
+        ],
+        "화순시장": [
+          "Hwasun Market",
+          "Signature market attraction of Hwasun-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 和順郡",
+      "landmarks": {
+        "운주사": [
+          "雲住寺",
+          "全羅南道和順郡を代表する名所。"
+        ],
+        "화순고인돌유적": [
+          "和順支石墓遺跡",
+          "ユネスコ登録の遺跡。全羅南道和順郡を代表する名所。"
+        ],
+        "화순적벽": [
+          "和順赤壁",
+          "全羅南道和順郡を代表する名所。"
+        ],
+        "화순군청": [
+          "和順郡庁",
+          "全羅南道和順郡を代表する名所。"
+        ],
+        "화순시장": [
+          "和順市場",
+          "全羅南道和順郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 和顺郡",
+      "landmarks": {
+        "운주사": [
+          "云住寺",
+          "全罗南道和顺郡的代表性古刹。"
+        ],
+        "화순고인돌유적": [
+          "和顺支石墓遗迹",
+          "列入世界遗产的遗迹，全罗南道和顺郡的代表性名胜。"
+        ],
+        "화순적벽": [
+          "和顺赤壁",
+          "全罗南道和顺郡的代表性胜景。"
+        ],
+        "화순군청": [
+          "和顺郡厅",
+          "全罗南道和顺郡的行政中心。"
+        ],
+        "화순시장": [
+          "和顺市场",
+          "全罗南道和顺郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
