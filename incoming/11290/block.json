@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongbuk-gu, Seoul",
+      "landmarks": {
+        "서울성곽길": [
+          "Seoul City Wall Trail",
+          "Scenic trail along the restored Hanyangdoseong fortress wall."
+        ],
+        "고려대학교": [
+          "Korea University",
+          "Major private university with its campus in Anam-dong."
+        ],
+        "정릉": [
+          "Jeongneung Royal Tomb",
+          "Site of the tomb of Queen Sindeok, consort of King Taejo of Joseon."
+        ],
+        "성북동": [
+          "Seongbuk-dong",
+          "Quiet village of old hanok cafes and winding lanes."
+        ],
+        "삼청동": [
+          "Samcheong-dong",
+          "Picturesque lane blending tradition with contemporary art galleries."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 城北区",
+      "landmarks": {
+        "서울성곽길": [
+          "ソウル城郭路",
+          "漢陽都城の城壁が続く代表的な散策路。"
+        ],
+        "고려대학교": [
+          "高麗大学校",
+          "安岩洞にキャンパスを構える韓国屈指の私立大学。"
+        ],
+        "정릉": [
+          "貞陵",
+          "朝鮮太祖の継妃・神徳王后康氏の陵がある史跡。"
+        ],
+        "성북동": [
+          "城北洞",
+          "古韓屋カフェと路地が調和する静かな町。"
+        ],
+        "삼청동": [
+          "三清洞",
+          "伝統と現代の美術館が調和する人気の街並み。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 城北区",
+      "landmarks": {
+        "서울성곽길": [
+          "首尔城郭路",
+          "沿着汉阳都城城墙延伸的经典散步道。"
+        ],
+        "고려대학교": [
+          "高丽大学",
+          "位于安岩洞的韩国顶尖私立大学。"
+        ],
+        "정릉": [
+          "贞陵",
+          "安葬朝鲜太祖继妃神德王后康氏的王陵遗迹。"
+        ],
+        "성북동": [
+          "城北洞",
+          "古宅咖啡屋与小巷交织的静谧村落。"
+        ],
+        "삼청동": [
+          "三清洞",
+          "传统建筑与现代美术馆相融的热门街巷。"
+        ]
+      }
+    }
   }
 }
