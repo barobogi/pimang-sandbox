@@ -227,6 +227,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "노원초등학교 운동장",
+        "coordinates": [
+          37.679157,
+          127.05628
+        ],
+        "capacity": 3500,
+        "address": "서울특별시 노원구"
+      },
+      {
+        "name": "노원실내체육관",
+        "coordinates": [
+          37.643283,
+          127.072056
+        ],
+        "capacity": 1400,
+        "address": "서울특별시 노원구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수락산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "북서울미술관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "광운대학교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "노원문화예술회관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "중계본동 시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "노원구는 1988년 도봉구에서 분리된 자치구로 대규모 아파트 신도시가 개발되었으며 수락산 자락의 자연과 북서울미술관 등 문화시설이 함께하는 북부 서울의 주거 중심지이다.",
   "data_sources": [
     {
