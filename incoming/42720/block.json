@@ -223,6 +223,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "홍천초등학교 운동장",
+        "coordinates": [
+          37.77568,
+          128.10174
+        ],
+        "capacity": 6200,
+        "address": "강원특별자치도 홍천군"
+      },
+      {
+        "name": "홍천실내체육관",
+        "coordinates": [
+          37.661737,
+          127.707179
+        ],
+        "capacity": 2600,
+        "address": "강원특별자치도 홍천군"
+      },
+      {
+        "name": "홍천중앙공원 비상집합장소",
+        "coordinates": [
+          37.718041,
+          127.876607
+        ],
+        "capacity": 3400,
+        "address": "강원특별자치도 홍천군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "홍천강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "팔봉산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "용추계곡",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내면숲휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "홍천문화예술의전당",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "홍천군은 홍천강이 흐르는 강원 내륙의 군으로 팔봉산 복사꽃 관광과 메밀·고추 등 농특산물 산지로서 내면숲휴양림 등 산림 자원이 풍부하다.",
   "data_sources": [
     {
