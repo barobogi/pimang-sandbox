@@ -339,5 +339,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seogwipo-si, Jeju",
+      "landmarks": {
+        "성산일출봉": [
+          "Seongsan Ilchulbong",
+          "Volcanic crater hill rising from the sea, a UNESCO World Natural Heritage site."
+        ],
+        "천지연폭포": [
+          "Cheonjiyeon Falls",
+          "Rated Korea's finest waterfall and Seogwipo's signature natural spot."
+        ],
+        "정방폭포": [
+          "Jeongbang Falls",
+          "Korea's only coastal waterfall plunging straight into the sea."
+        ],
+        "주상절리 대포지짐지형": [
+          "Daepo Jusangjeolli Cliffs",
+          "Large columnar jointed cliffs formed by cooling lava, a signature geological site."
+        ],
+        "외돌개": [
+          "Oedolgae Rock",
+          "Rock standing off the coastal cliffs, Seogwipo's signature attraction."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "済州特別自治道 西帰浦市",
+      "landmarks": {
+        "성산일출봉": [
+          "城山日出峰",
+          "海の中にそびえる火砕丘。ユネスコ世界自然遺産。"
+        ],
+        "천지연폭포": [
+          "天地淵瀑布",
+          "国内最高の滝とされる西帰浦を代表する自然の名所。"
+        ],
+        "정방폭포": [
+          "正房瀑布",
+          "海に直接落ちる国内唯一の海岸瀑布。"
+        ],
+        "주상절리 대포지짐지형": [
+          "柱状節理大浦海岸地形",
+          "溶岩が冷えて固まってできた大型の柱状節理。代表的な地質の名所。"
+        ],
+        "외돌개": [
+          "独立岩",
+          "海岸断崖に立つ岩の名所。西帰浦を代表する観光地。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "济州特别自治道 西归浦市",
+      "landmarks": {
+        "성산일출봉": [
+          "城山日出峰",
+          "从海中拔起的火山口丘，联合国教科文组织世界自然遗产。"
+        ],
+        "천지연폭포": [
+          "天地渊瀑布",
+          "被誉为国内最佳的瀑布，西归浦代表性自然名胜。"
+        ],
+        "정방폭포": [
+          "正房瀑布",
+          "直落入海的国内唯一海岸瀑布。"
+        ],
+        "주상절리 대포지짐지형": [
+          "柱状节理大浦海岸地形",
+          "熔岩冷却形成的大型柱状节理，代表性地质名胜。"
+        ],
+        "외돌개": [
+          "独立岩",
+          "立于海岸峭壁旁的奇岩名胜，西归浦代表性观光地。"
+        ]
+      }
+    }
   }
 }
