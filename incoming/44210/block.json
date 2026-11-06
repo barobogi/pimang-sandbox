@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seosan-si, Chungnam",
+      "landmarks": {
+        "서산마애삼존불": [
+          "Seosan Rock-carved Triad Buddha",
+          "Signature national treasure heritage of Seosan-si, Chungnam."
+        ],
+        "해미읍성": [
+          "Haemi Eupseong Fortress",
+          "Signature walled-town heritage of Seosan-si, Chungnam."
+        ],
+        "서산시청": [
+          "Seosan City Hall",
+          "Administrative center of Seosan-si, Chungnam."
+        ],
+        "서산시장": [
+          "Seosan Market",
+          "Signature market attraction of Seosan-si, Chungnam."
+        ],
+        "천수만": [
+          "Cheonsu Bay",
+          "Signature coastal attraction of Seosan-si, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 瑞山市",
+      "landmarks": {
+        "서산마애삼존불": [
+          "瑞山磨崖三尊仏",
+          "忠清南道瑞山市を代表する名所。"
+        ],
+        "해미읍성": [
+          "海美邑城",
+          "忠清南道瑞山市を代表する名所。"
+        ],
+        "서산시청": [
+          "瑞山市庁",
+          "忠清南道瑞山市を代表する名所。"
+        ],
+        "서산시장": [
+          "瑞山市場",
+          "忠清南道瑞山市を代表する名所。"
+        ],
+        "천수만": [
+          "天水湾",
+          "忠清南道瑞山市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 瑞山市",
+      "landmarks": {
+        "서산마애삼존불": [
+          "瑞山摩崖三尊佛",
+          "忠清南道瑞山市的代表性国宝遗迹。"
+        ],
+        "해미읍성": [
+          "海美邑城",
+          "忠清南道瑞山市的代表性邑城遗迹。"
+        ],
+        "서산시청": [
+          "瑞山市厅",
+          "忠清南道瑞山市的行政中心。"
+        ],
+        "서산시장": [
+          "瑞山市场",
+          "忠清南道瑞山市的代表性市场。"
+        ],
+        "천수만": [
+          "天水湾",
+          "忠清南道瑞山市的代表性海湾。"
+        ]
+      }
+    }
   }
 }
