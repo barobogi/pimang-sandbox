@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "청도초등학교 운동장",
+        "coordinates": [
+          35.675432,
+          129.03333
+        ],
+        "capacity": 3800,
+        "address": "경상북도 청도군"
+      },
+      {
+        "name": "청도실내체육관",
+        "coordinates": [
+          35.669487,
+          128.802332
+        ],
+        "capacity": 5200,
+        "address": "경상북도 청도군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "운문사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청도소싸움경기장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청도천",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "청도군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "청도시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "청도군은 소싸움경기장과 운문사, 청도천이 자리한 경북 남부의 군이다.",
   "data_sources": [
     {
