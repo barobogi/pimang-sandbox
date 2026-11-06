@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeongdo-gu, Busan",
+      "landmarks": {
+        "흰여울문화마을": [
+          "Huinyeoul Culture Village",
+          "Culture village where white rapids and murals meet on a cliffside."
+        ],
+        "태종대": [
+          "Taejongdae",
+          "Spectacular coastal cliffs at Yeongdo's southern tip, a premier attraction."
+        ],
+        "봉래산": [
+          "Bongnaesan Mountain",
+          "Yeongdo's main peak and a downtown hiking favorite alongside Taejongdae."
+        ],
+        "현대미포조선소": [
+          "Hyundai Mipo Dockyard",
+          "Shipyard at Mipo, Yeongdo, the stronghold of Busan's shipbuilding industry."
+        ],
+        "영도대교": [
+          "Yeongdo Bridge",
+          "Historic bascule bridge linking Yeongdo with the mainland."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 影島区",
+      "landmarks": {
+        "흰여울문화마을": [
+          "白浅灘文化村",
+          "白い瀬と壁画が調和する代表的な文化壁画村。"
+        ],
+        "태종대": [
+          "太宗台",
+          "影島最南端の海岸絶景で知られる代表的な観光地。"
+        ],
+        "봉래산": [
+          "蓬萊山",
+          "影島の鎮守の山。太宗台とともに都心の登山名所。"
+        ],
+        "현대미포조선소": [
+          "現代尾浦造船所",
+          "影島尾浦に構える代表的な造船所で、釜山造船業の拠点。"
+        ],
+        "영도대교": [
+          "影島大橋",
+          "影島と本土を結ぶ旧跳開式橋。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 影岛区",
+      "landmarks": {
+        "흰여울문화마을": [
+          "白浅滩文化村",
+          "白色激流与壁画相映的代表性文化壁画村。"
+        ],
+        "태종대": [
+          "太宗台",
+          "影岛最南端的海岸绝景，釜山代表性观光胜地。"
+        ],
+        "봉래산": [
+          "蓬莱山",
+          "影岛主山，与太宗台相邻的城区登山胜地。"
+        ],
+        "현대미포조선소": [
+          "现代尾浦造船厂",
+          "位于影岛尾浦的代表性造船厂，釜山造船业的重镇。"
+        ],
+        "영도대교": [
+          "影岛大桥",
+          "连接影岛与本土的老式开合桥。"
+        ]
+      }
+    }
   }
 }
