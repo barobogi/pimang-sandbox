@@ -358,5 +358,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Cheongyang-gun, Chungnam",
+      "landmarks": {
+        "칠갑산": [
+          "Chilgapsan Mountain",
+          "Signature mountain attraction of Cheongyang-gun, Chungnam."
+        ],
+        "장승공원": [
+          "Jangseung Park",
+          "Signature park attraction of Cheongyang-gun, Chungnam."
+        ],
+        "청양군청": [
+          "Cheongyang County Office",
+          "Administrative center of Cheongyang-gun, Chungnam."
+        ],
+        "청양시장": [
+          "Cheongyang Market",
+          "Signature market attraction of Cheongyang-gun, Chungnam."
+        ],
+        "칠갑산자연휴양림": [
+          "Chilgapsan Natural Recreation Forest",
+          "Signature forest attraction of Cheongyang-gun, Chungnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 青陽郡",
+      "landmarks": {
+        "칠갑산": [
+          "七甲山",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "장승공원": [
+          "長丞公園",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "청양군청": [
+          "青陽郡庁",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "청양시장": [
+          "青陽市場",
+          "忠清南道青陽郡を代表する名所。"
+        ],
+        "칠갑산자연휴양림": [
+          "七甲山自然休養林",
+          "忠清南道青陽郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 青阳郡",
+      "landmarks": {
+        "칠갑산": [
+          "七甲山",
+          "忠清南道青阳郡的代表性名山。"
+        ],
+        "장승공원": [
+          "长丞公园",
+          "忠清南道青阳郡的代表性公园。"
+        ],
+        "청양군청": [
+          "青阳郡厅",
+          "忠清南道青阳郡的行政中心。"
+        ],
+        "청양시장": [
+          "青阳市场",
+          "忠清南道青阳郡的代表性市场。"
+        ],
+        "칠갑산자연휴양림": [
+          "七甲山自然休养林",
+          "忠清南道青阳郡的代表性森林休养地。"
+        ]
+      }
+    }
   }
 }
