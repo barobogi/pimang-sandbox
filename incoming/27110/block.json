@@ -344,5 +344,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jung-gu, Daegu",
+      "landmarks": {
+        "동성로": [
+          "Dongseong-ro",
+          "Daegu's largest shopping street, dense with boutiques and cafes."
+        ],
+        "약령시장": [
+          "Yangnyeong Market",
+          "Korea's largest herbal medicine market, famed for its medicine alley."
+        ],
+        "서문시장": [
+          "Seomun Market",
+          "Daegu's signature traditional market, famed for its night-market food."
+        ],
+        "근대역사골목": [
+          "Modern History Alley",
+          "Culture alley showcasing Daegu's history since the port opening."
+        ],
+        "북성로": [
+          "Bukseong-ro",
+          "Historic culture street along the old Daegu fortress wall."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "大邱広域市 中区",
+      "landmarks": {
+        "동성로": [
+          "東城路",
+          "大邱最大の繁華街で、ファッションとカフェが集まる代表的な商業ストリート。"
+        ],
+        "약령시장": [
+          "薬令市場",
+          "国内最大の韓薬材市場。薬令横丁が有名。"
+        ],
+        "서문시장": [
+          "西門市場",
+          "大邱を代表する伝統市場。夜市のグルメで有名。"
+        ],
+        "근대역사골목": [
+          "近代歴史の路地",
+          "開港以降の大邱近代史を伝える文化の路地。"
+        ],
+        "북성로": [
+          "北城路",
+          "大邱邑城の旧跡に沿って造られた歴史文化ストリート。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "大邱广域市 中区",
+      "landmarks": {
+        "동성로": [
+          "东城路",
+          "大邱最大的繁华街区，时尚与咖啡馆云集。"
+        ],
+        "약령시장": [
+          "药令市场",
+          "韩国最大的韩药材市场，药令巷闻名遐迩。"
+        ],
+        "서문시장": [
+          "西门市场",
+          "大邱代表性传统市场，以夜市美食闻名。"
+        ],
+        "근대역사골목": [
+          "近代历史巷",
+          "展现开港后大邱近代历史的文化街巷。"
+        ],
+        "북성로": [
+          "北城路",
+          "沿大邱邑城旧址修建的历史文化街。"
+        ]
+      }
+    }
   }
 }
