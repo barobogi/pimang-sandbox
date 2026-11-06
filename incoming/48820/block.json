@@ -284,6 +284,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "상족암 봄 바다",
+        "당항포 봄"
+      ],
+      "summer": [
+        "당항포 여름",
+        "고성 해변 여름"
+      ],
+      "autumn": [
+        "상족암 가을",
+        "당항포 가을"
+      ],
+      "winter": [
+        "상족암 해맞이",
+        "당항포 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "당항포 야경",
+        "coordinates": [
+          35.054364,
+          128.397334
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "상족암 야경",
+        "coordinates": [
+          34.904498,
+          128.151436
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "고성군은 상족암과 공룡박물관, 당항포가 자리한 경남 남해안의 군이다.",
   "data_sources": [
     {
