@@ -333,5 +333,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Heungdeok-gu, Cheongju",
+      "landmarks": {
+        "충북대학교": [
+          "Chungbuk National University",
+          "Signature university attraction of Heungdeok-gu, Cheongju."
+        ],
+        "사직공원": [
+          "Sajik Park",
+          "Signature urban park of Heungdeok-gu, Cheongju."
+        ],
+        "흥덕구청": [
+          "Heungdeok-gu Office",
+          "Administrative center of Heungdeok-gu, Cheongju."
+        ],
+        "공원": [
+          "Gongwon Park",
+          "Signature scenic attraction of Heungdeok-gu, Cheongju."
+        ],
+        "무심천": [
+          "Musimcheon Stream",
+          "Signature stream attraction of Heungdeok-gu, Cheongju."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 清州市 興徳区",
+      "landmarks": {
+        "충북대학교": [
+          "忠北大学校",
+          "忠清北道清州市興徳区を代表する名所。"
+        ],
+        "사직공원": [
+          "社稷公園",
+          "忠清北道清州市興徳区を代表する名所。"
+        ],
+        "흥덕구청": [
+          "興徳区庁",
+          "忠清北道清州市興徳区を代表する名所。"
+        ],
+        "공원": [
+          "公園",
+          "忠清北道清州市興徳区にある代表的な観光名所。"
+        ],
+        "무심천": [
+          "無心川",
+          "忠清北道清州市興徳区を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 清州市 兴德区",
+      "landmarks": {
+        "충북대학교": [
+          "忠北大学",
+          "忠清北道清州市兴德区的代表性高校。"
+        ],
+        "사직공원": [
+          "社稷公园",
+          "忠清北道清州市兴德区的代表性城市公园。"
+        ],
+        "흥덕구청": [
+          "兴德区厅",
+          "忠清北道清州市兴德区的行政中心。"
+        ],
+        "공원": [
+          "公园",
+          "忠清北道清州市兴德区的代表性观光名胜。"
+        ],
+        "무심천": [
+          "无心川",
+          "忠清北道清州市兴德区的代表性河流。"
+        ]
+      }
+    }
   }
 }
