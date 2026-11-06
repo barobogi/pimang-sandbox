@@ -137,6 +137,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서울대학교",
+        "station_name": "봉천역",
+        "line": "서울 2호선",
+        "exit_no": 3,
+        "walk_minutes": 33,
+        "coordinates": [
+          37.4781,
+          126.9587
+        ]
+      },
+      {
+        "target_landmark": "낙성대공원",
+        "station_name": "봉천역",
+        "line": "서울 2호선",
+        "exit_no": 3,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.4781,
+          126.9587
+        ]
+      },
+      {
+        "target_landmark": "관악산",
+        "station_name": "서울대입구역",
+        "line": "서울 2호선",
+        "exit_no": 5,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.4812,
+          126.9527
+        ]
+      },
+      {
+        "target_landmark": "신림종합시장",
+        "station_name": "신림역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 2,
+        "coordinates": [
+          37.4842,
+          126.9293
+        ]
+      },
+      {
+        "target_landmark": "관악구민체육공원",
+        "station_name": "신림역",
+        "line": "서울 2호선",
+        "exit_no": 6,
+        "walk_minutes": 12,
+        "coordinates": [
+          37.4842,
+          126.9293
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "관악 중앙 공영주차장",
+        "coordinates": [
+          37.471219,
+          126.944908
+        ],
+        "capacity": 85,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "관악 제2 공영주차장",
+        "coordinates": [
+          37.456915,
+          126.949761
+        ],
+        "capacity": 102,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "관악구는 서울대학교가 봉천동으로 이전한 이후 학문과 청년 문화가 발달한 자치구로 신림동 상권과 관악산, 낙성대 등 자연·유적이 함께 자리한다.",
   "data_sources": [
     {
