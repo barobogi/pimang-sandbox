@@ -267,6 +267,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "양림동 역사문화마을 봄",
+        "전남대 캠퍼스 봄"
+      ],
+      "summer": [
+        "양림동 여름 골목",
+        "광주비엔날레 여름"
+      ],
+      "autumn": [
+        "전남대 캠퍼스 단풍",
+        "양림동 가을"
+      ],
+      "winter": [
+        "광주비엔날레 겨울 조명",
+        "양림동 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "양림동 역사문화마을 야경",
+        "coordinates": [
+          35.145,
+          126.905
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "광주비엔날레 야경",
+        "coordinates": [
+          35.182975,
+          126.889446
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "광주 북구는 전남대학교와 양림동 역사문화마을이 자리한 광주 북부의 구이다.",
   "data_sources": [
     {
