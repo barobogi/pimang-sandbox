@@ -286,6 +286,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "삽교호 봄",
+        "왜목마을 봄 바다"
+      ],
+      "summer": [
+        "삽교호 여름",
+        "왜목마을 여름"
+      ],
+      "autumn": [
+        "삽교호 갈대",
+        "왜목마을 가을"
+      ],
+      "winter": [
+        "왜목마을 해맞이",
+        "삽교호 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "삽교호 야경",
+        "coordinates": [
+          36.862057,
+          126.836186
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "왜목마을 야경",
+        "coordinates": [
+          36.921979,
+          126.6065
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "당진시는 삽교호와 왜목마을, 도비도? 아니라 현대제철이 자리한 충남 서해안 산업·관광 도시이다.",
   "data_sources": [
     {
