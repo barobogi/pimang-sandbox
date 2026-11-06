@@ -293,6 +293,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "농다리 봄",
+        "백곡저수지 벚꽃"
+      ],
+      "summer": [
+        "백곡저수지 여름",
+        "생거진천거북이마을 여름"
+      ],
+      "autumn": [
+        "농다리 단풍",
+        "백곡저수지 가을"
+      ],
+      "winter": [
+        "농다리 설경",
+        "진천시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "농다리 야경",
+        "coordinates": [
+          36.825833,
+          127.493333
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "백곡저수지 야경",
+        "coordinates": [
+          36.869998,
+          127.405099
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "진천군은 농다리와 생거진천 거북이 마을, 백곡저수지가 자리한 충북 중서부의 군이다.",
   "data_sources": [
     {
