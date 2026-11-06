@@ -230,6 +230,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "진주초등학교 운동장",
+        "coordinates": [
+          35.192348,
+          128.004586
+        ],
+        "capacity": 1900,
+        "address": "경상남도 진주시"
+      },
+      {
+        "name": "진주실내체육관",
+        "coordinates": [
+          35.194863,
+          128.029607
+        ],
+        "capacity": 2800,
+        "address": "경상남도 진주시"
+      },
+      {
+        "name": "진주중앙공원 비상집합장소",
+        "coordinates": [
+          35.164435,
+          128.045843
+        ],
+        "capacity": 3100,
+        "address": "경상남도 진주시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "진주성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "촉석루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "경상국립대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "진주혁신도시",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "남강",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "진주시는 경상남도 서부의 관문 도시로 조선 시대 진주목이 있던 유서 깊은 도시이며 진주성과 촉석루, 남강 유등축제, 경상국립대학교가 상징이다.",
   "data_sources": [
     {
