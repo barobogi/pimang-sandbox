@@ -323,5 +323,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jangan-gu, Suwon",
+      "landmarks": {
+        "수원 화성": [
+          "Suwon Hwaseong Fortress",
+          "Fortress built under King Jeonggo of Joseon, a UNESCO World Heritage Site."
+        ],
+        "파장동 상권": [
+          "Pajang-dong District",
+          "Commercial hub of Jangan-gu in Pajang-dong."
+        ],
+        "율천동 상권": [
+          "Yulcheon-dong District",
+          "Everyday commercial hub of the Yulcheon area."
+        ],
+        "화서역 상권": [
+          "Hwaseo Station District",
+          "Commercial hub centered on Hwaseo Station."
+        ],
+        "장안공원": [
+          "Jangan Park",
+          "Signature neighborhood park of Jangan-gu."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 水原市 長安区",
+      "landmarks": {
+        "수원 화성": [
+          "水原華城",
+          "朝鮮正祖の時に築かれた城郭で、ユネスコ世界文化遺産。"
+        ],
+        "파장동 상권": [
+          "波長洞商圏",
+          "波長洞に形成された長安区を代表する商圏。"
+        ],
+        "율천동 상권": [
+          "栗泉洞商圏",
+          "栗泉洞一帯の代表的な生活商圏。"
+        ],
+        "화서역 상권": [
+          "華西駅商圏",
+          "華西駅を中心とする代表的な商圏。"
+        ],
+        "장안공원": [
+          "長安公園",
+          "長安区を代表する近隣公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 水原市 长安区",
+      "landmarks": {
+        "수원 화성": [
+          "水原华城",
+          "朝鲜正祖时期修建的城墙，联合国教科文组织世界文化遗产。"
+        ],
+        "파장동 상권": [
+          "波场洞商圈",
+          "波场洞形成的长安区代表性商圈。"
+        ],
+        "율천동 상권": [
+          "栗泉洞商圈",
+          "栗泉洞一带的代表性生活商圈。"
+        ],
+        "화서역 상권": [
+          "华西站商圈",
+          "以华西站为中心的代表性商圈。"
+        ],
+        "장안공원": [
+          "长安公园",
+          "长安区的代表性近邻公园。"
+        ]
+      }
+    }
   }
 }
