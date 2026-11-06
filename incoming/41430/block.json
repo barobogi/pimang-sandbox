@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "백운호수 벚꽃",
+        "백운산 봄 진달래"
+      ],
+      "summer": [
+        "백운호수 여름",
+        "백운산 여름"
+      ],
+      "autumn": [
+        "백운산 단풍",
+        "백운호수 가을"
+      ],
+      "winter": [
+        "백운호수 설경",
+        "의왕박물관 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "백운호수 야경",
+        "coordinates": [
+          37.380776,
+          127.000413
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "백운산 야경",
+        "coordinates": [
+          37.353555,
+          127.017006
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "의왕시는 백운호수와 오전동 상권이 함께한 경기 남부의 도시이다.",
   "data_sources": [
     {
