@@ -130,6 +130,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "영일대해수욕장",
+        "station_name": "영일대해수욕장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.053414,
+          129.374133
+        ]
+      },
+      {
+        "target_landmark": "호미곶",
+        "station_name": "호미곶 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.026318,
+          129.37015
+        ]
+      },
+      {
+        "target_landmark": "한동대학교",
+        "station_name": "북구버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.103927,
+          129.388611
+        ]
+      },
+      {
+        "target_landmark": "신포수변공원",
+        "station_name": "신포수변공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.0538,
+          129.3826
+        ]
+      },
+      {
+        "target_landmark": "오어해변",
+        "station_name": "오어해변 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.0298,
+          129.5036
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "북구 중앙 공영주차장",
+        "coordinates": [
+          36.101127,
+          129.387811
+        ],
+        "capacity": 103,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "북구 제2 공영주차장",
+        "coordinates": [
+          36.057014,
+          129.376533
+        ],
+        "capacity": 182,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "포항시 북구는 영일만과 영일대해수욕장, 호미곶 등 해양 관광 자원이 풍부한 포항 북부의 구로 한동대학교 등이 자리한다.",
   "data_sources": [
     {
