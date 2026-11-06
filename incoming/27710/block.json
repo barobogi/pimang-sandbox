@@ -226,6 +226,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "달성초등학교 운동장",
+        "coordinates": [
+          35.686489,
+          128.456663
+        ],
+        "capacity": 4100,
+        "address": "대구광역시 달성군"
+      },
+      {
+        "name": "달성실내체육관",
+        "coordinates": [
+          35.678432,
+          128.358093
+        ],
+        "capacity": 5700,
+        "address": "대구광역시 달성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "비슬산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도동서원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "국립대구과학관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "사문진주막촌",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "옥포벚꽃길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "대구 달성군은 대구 외곽을 둘러싼 광역 군으로 비슷산과 도동서원, 사문진주막촌 등의 명소와 다사 신도시가 함께한다.",
   "data_sources": [
     {
