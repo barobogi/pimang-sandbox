@@ -358,5 +358,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jecheon-si, Chungbuk",
+      "landmarks": {
+        "의림지": [
+          "Uirimji Reservoir",
+          "Signature reservoir heritage of Jecheon-si, Chungbuk."
+        ],
+        "청풍호": [
+          "Cheongpungho Lake",
+          "Signature lake attraction of Jecheon-si, Chungbuk."
+        ],
+        "제천시청": [
+          "Jecheon City Hall",
+          "Administrative center of Jecheon-si, Chungbuk."
+        ],
+        "제천역 상권": [
+          "Jecheon Station District",
+          "Signature station district of Jecheon-si, Chungbuk."
+        ],
+        "박달재": [
+          "Bakdaljae Pass",
+          "Signature pass attraction of Jecheon-si, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 堤川市",
+      "landmarks": {
+        "의림지": [
+          "義林池",
+          "忠清北道堤川市を代表する名所。"
+        ],
+        "청풍호": [
+          "清風湖",
+          "忠清北道堤川市を代表する名所。"
+        ],
+        "제천시청": [
+          "堤川市庁",
+          "忠清北道堤川市を代表する名所。"
+        ],
+        "제천역 상권": [
+          "堤川駅商圏",
+          "忠清北道堤川市を代表する名所。"
+        ],
+        "박달재": [
+          "樺嶺",
+          "忠清北道堤川市を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 堤川市",
+      "landmarks": {
+        "의림지": [
+          "义林池",
+          "忠清北道堤川市的代表性古迹水库。"
+        ],
+        "청풍호": [
+          "清风湖",
+          "忠清北道堤川市的代表性湖泊。"
+        ],
+        "제천시청": [
+          "堤川市厅",
+          "忠清北道堤川市的行政中心。"
+        ],
+        "제천역 상권": [
+          "堤川站商圈",
+          "忠清北道堤川市的代表性站点商圈。"
+        ],
+        "박달재": [
+          "桦串岭",
+          "忠清北道堤川市的代表性山岭。"
+        ]
+      }
+    }
   }
 }
