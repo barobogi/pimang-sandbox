@@ -344,5 +344,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gangbuk-gu, Seoul",
+      "landmarks": {
+        "수유리 먹거리 골목": [
+          "Suyu-ri Food Alley",
+          "Nationally famous food alley near Suyu Station known for silkworm pupae and garlic chicken feet."
+        ],
+        "북한산우이절리공원": [
+          "Bukhansan Ui Valley Park",
+          "Valley park at the source of the Uicheon Stream on the foot of Bukhansan."
+        ],
+        "삼각산": [
+          "Samgaksan Mountain",
+          "653 m peak whose three summits form a triangle, on the Gangbuk-Seongbuk boundary."
+        ],
+        "미아리고개": [
+          "Miari Hill",
+          "Crossroads of Miari-gil and Samyang-ro, symbol of the Mia commercial hub in northern Seoul."
+        ],
+        "우이천": [
+          "Uicheon Stream",
+          "Stream originating from Bukhansan and flowing through Gangbuk-gu with walking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 江北区",
+      "landmarks": {
+        "수유리 먹거리 골목": [
+          "水逾里フード横丁",
+          "蚕蛹やニンニク味鶏足など名物料理で全国的に有名な市場街。"
+        ],
+        "북한산우이절리공원": [
+          "北漢山牛耳丘里公園",
+          "北漢山のふもと、牛耳川の源流に造られた渓谷型公園。"
+        ],
+        "삼각산": [
+          "三角山",
+          "三つの峰が三角形をなす標高653メートルの山。"
+        ],
+        "미아리고개": [
+          "弥阿里峠",
+          "弥阿里路と三陽路が交わる峠で、北部ソウルの商業拠点の象徴。"
+        ],
+        "우이천": [
+          "牛耳川",
+          "北漢山に源を発し中浪川へ合流するソウルの支流。散歩道が整備されている。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 江北区",
+      "landmarks": {
+        "수유리 먹거리 골목": [
+          "水逾里美食巷",
+          "以蚕蛹、蒜香鸡爪等小吃闻名全国的车站前美食街。"
+        ],
+        "북한산우이절리공원": [
+          "北汉山牛耳溪谷公园",
+          "北汉山麓牛耳川源头的溪谷型公园，是闹市中的溪谷绿洲。"
+        ],
+        "삼각산": [
+          "三角山",
+          "三峰呈三角状排列，海拔653米。"
+        ],
+        "미아리고개": [
+          "弥阿里岭",
+          "弥阿里路与三阳路交汇的高地，是首尔北部弥阿商圈的象征。"
+        ],
+        "우이천": [
+          "牛耳川",
+          "发源于北汉山、纵贯江北区的首尔支流，沿岸建有步道。"
+        ]
+      }
+    }
   }
 }
