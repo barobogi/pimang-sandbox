@@ -206,6 +206,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          36.097578,
+          129.31493
+        ],
+        "capacity": 4300,
+        "address": "경상북도 포항시 북구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          36.020455,
+          129.449253
+        ],
+        "capacity": 3200,
+        "address": "경상북도 포항시 북구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "영일대해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "호미곶",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "한동대학교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "신포수변공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "오어해변",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "포항시 북구는 영일만과 영일대해수욕장, 호미곶 등 해양 관광 자원이 풍부한 포항 북부의 구로 한동대학교 등이 자리한다.",
   "data_sources": [
     {
