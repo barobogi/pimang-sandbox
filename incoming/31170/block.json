@@ -233,6 +233,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          35.555098,
+          129.410208
+        ],
+        "capacity": 2500,
+        "address": "울산광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          35.567087,
+          129.446482
+        ],
+        "capacity": 1200,
+        "address": "울산광역시 동구"
+      },
+      {
+        "name": "중앙중앙공원 비상집합장소",
+        "coordinates": [
+          35.558966,
+          129.425346
+        ],
+        "capacity": 3600,
+        "address": "울산광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "미포해변",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정자해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "현대자동차 울산공장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "강동공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화암공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "울산 동구는 동해 해안과 현대자동차 울산공장이 자리한 울산 동부의 산업·해양 구이다.",
   "data_sources": [
     {
