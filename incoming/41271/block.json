@@ -361,5 +361,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sangnok-gu, Ansan",
+      "landmarks": {
+        "팔리산": [
+          "Pallisan Mountain",
+          "321 m peak in Sangnok-gu with well-built trails, a residents' favorite."
+        ],
+        "행인산": [
+          "Haenginsan Mountain",
+          "Low hill across Haengin-dong, a downtown hiking spot."
+        ],
+        "보개산자연휴양림": [
+          "Bogegaesan Natural Recreation Forest",
+          "Recreation forest in Sangnok-gu offering forest experiences and study facilities."
+        ],
+        "수암산": [
+          "Suamsan Mountain",
+          "Mountain across I-dong in Sangnok-gu with trails like Rainbow Plaza."
+        ],
+        "군곡공원": [
+          "Gungok Park",
+          "Neighborhood park in Gungok-dong for northwestern Ansan residents."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安山市 常緑区",
+      "landmarks": {
+        "팔리산": [
+          "八里山",
+          "常緑区にある標高321メートルの山。登山道と散歩道がよく整備された住民の名山。"
+        ],
+        "행인산": [
+          "行仁山",
+          "行仁洞一帯の低い山。都心の中の登山名所。"
+        ],
+        "보개산자연휴양림": [
+          "宝蓋山自然休養林",
+          "常緑区にある自然休養林。森の体験と林間学校が整備されている。"
+        ],
+        "수암산": [
+          "水庵山",
+          "常緑区移動一帯の山。虹広場などの登山コースがある。"
+        ],
+        "군곡공원": [
+          "宮谷公園",
+          "宮谷洞に造られた近隣公園。安山市北西部の住民の憩いの場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安山市 常绿区",
+      "landmarks": {
+        "팔리산": [
+          "八里山",
+          "常绿区海拔321米的山，步道完善，深受居民喜爱。"
+        ],
+        "행인산": [
+          "行仁山",
+          "行仁洞一带的矮山，城中登山胜地。"
+        ],
+        "보개산자연휴양림": [
+          "抱盖山自然休养林",
+          "常绿区的自然休养林，可体验森林课堂。"
+        ],
+        "수암산": [
+          "水庵山",
+          "常绿区梨洞一带的山，有彩虹广场等登山道。"
+        ],
+        "군곡공원": [
+          "宫谷公园",
+          "宫谷洞的近邻公园，安山西北部居民的休憩地。"
+        ]
+      }
+    }
   }
 }
