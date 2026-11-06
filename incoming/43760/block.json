@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jincheon-gun, Chungbuk",
+      "landmarks": {
+        "농다리": [
+          "Nongdari Bridge",
+          "Signature stone bridge heritage of Jincheon-gun, Chungbuk."
+        ],
+        "백곡저수지": [
+          "Baegok Reservoir",
+          "Signature reservoir attraction of Jincheon-gun, Chungbuk."
+        ],
+        "진천군청": [
+          "Jincheon County Office",
+          "Administrative center of Jincheon-gun, Chungbuk."
+        ],
+        "생거진천거북이마을": [
+          "Saenggeo Jincheon Turtle Village",
+          "Signature village attraction of Jincheon-gun, Chungbuk."
+        ],
+        "진천시장": [
+          "Jincheon Market",
+          "Signature market attraction of Jincheon-gun, Chungbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清北道 鎮川郡",
+      "landmarks": {
+        "농다리": [
+          "農橋",
+          "忠清北道鎮川郡を代表する名所。"
+        ],
+        "백곡저수지": [
+          "白谷貯水池",
+          "忠清北道鎮川郡を代表する名所。"
+        ],
+        "진천군청": [
+          "鎮川郡庁",
+          "忠清北道鎮川郡を代表する名所。"
+        ],
+        "생거진천거북이마을": [
+          "生巨鎮川亀の村",
+          "忠清北道鎮川郡を代表する名所。"
+        ],
+        "진천시장": [
+          "鎮川市場",
+          "忠清北道鎮川郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清北道 镇川郡",
+      "landmarks": {
+        "농다리": [
+          "农桥",
+          "忠清北道镇川郡的代表性古石桥。"
+        ],
+        "백곡저수지": [
+          "白谷水库",
+          "忠清北道镇川郡的代表性水库。"
+        ],
+        "진천군청": [
+          "镇川郡厅",
+          "忠清北道镇川郡的行政中心。"
+        ],
+        "생거진천거북이마을": [
+          "生巨镇川乌龟村",
+          "忠清北道镇川郡的代表性村落观光地。"
+        ],
+        "진천시장": [
+          "镇川市场",
+          "忠清北道镇川郡的代表性市场。"
+        ]
+      }
+    }
   }
 }
