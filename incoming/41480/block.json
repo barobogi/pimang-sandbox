@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Paju-si, Gyeonggi",
+      "landmarks": {
+        "임진각평화누리": [
+          "Imjingak Peace Nuri",
+          "Lookout where the Imjin and Hantan rivers meet, showing the reality of Korea's division."
+        ],
+        "도라전망대": [
+          "Dora Observatory",
+          "DMZ observatory offering the closest view of Gaeseong and Dorasan in the North."
+        ],
+        "헤이리문화마을": [
+          "Heyri Art Village",
+          "Culture village reborn from an old military site, offering architecture and art experiences."
+        ],
+        "운정호수공원": [
+          "Unjeong Lake Park",
+          "Lakeside park at the heart of Unjeong New Town, Paju's signature family destination."
+        ],
+        "감악산": [
+          "Gamaksan Mountain",
+          "Paju's highest peak at 688 m, a signature hiking mountain of Gyesan-eup."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 坡州市",
+      "landmarks": {
+        "임진각평화누리": [
+          "臨津閣平和ヌリ",
+          "臨津江と漢灘江が出会う地点の展望施設。南北分断の現実を示す代表的な名所。"
+        ],
+        "도라전망대": [
+          "都羅山展望台",
+          "北側の開城市と都羅山を最も近くに望めるDMZを代表する展望施設。"
+        ],
+        "헤이리문화마을": [
+          "ヘイリ文化村",
+          "旧軍用地を芸術村として再生。建築と芸術を体験できる文化の名所。"
+        ],
+        "운정호수공원": [
+          "雲井湖公園",
+          "雲井新都市の中央に造られた湖畔公園。坡州を代表する家族行楽の名所。"
+        ],
+        "감악산": [
+          "紺岳山",
+          "標高688メートルの坡州最高峰。坡州の代表的な登山名山。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 坡州市",
+      "landmarks": {
+        "임진각평화누리": [
+          "临津阁和平园",
+          "临津江与汉滩江交汇处的观景设施，展现南北分断现实的代表名胜。"
+        ],
+        "도라전망대": [
+          "都罗山展望台",
+          "可最近眺望朝鲜开城市和都罗山的DMZ代表性展望台。"
+        ],
+        "헤이리문화마을": [
+          "海里文化艺术村",
+          "由旧军营改造的艺术村，可体验建筑与艺术。"
+        ],
+        "운정호수공원": [
+          "云井湖公园",
+          "云井新城中央的湖畔公园，坡州代表性亲子胜地。"
+        ],
+        "감악산": [
+          "绀岳山",
+          "海拔688米的坡州最高峰，代表性登山名山。"
+        ]
+      }
+    }
   }
 }
