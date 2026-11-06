@@ -130,6 +130,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불국사",
+        "station_name": "불국사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.786595,
+          129.33169
+        ]
+      },
+      {
+        "target_landmark": "석굴암",
+        "station_name": "석굴암 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.792403,
+          129.349995
+        ]
+      },
+      {
+        "target_landmark": "첨성대",
+        "station_name": "첨성대 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.832304,
+          129.219785
+        ]
+      },
+      {
+        "target_landmark": "동궁과 월지",
+        "station_name": "동궁과 월지 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.8323,
+          129.227238
+        ]
+      },
+      {
+        "target_landmark": "대릉원",
+        "station_name": "대릉원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.836548,
+          129.212732
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "경주 중앙 공영주차장",
+        "coordinates": [
+          35.8367,
+          129.228037
+        ],
+        "capacity": 34,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "경주 제2 공영주차장",
+        "coordinates": [
+          35.836304,
+          129.219785
+        ],
+        "capacity": 216,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "경주 제3 공영주차장",
+        "coordinates": [
+          35.837748,
+          129.211132
+        ],
+        "capacity": 91,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "경주시는 신라 천년 고도로 불국사와 석굴암, 첨성대, 대릉원 등 유네스코 세계유산을 포함한 국내 최대 문화유산 도시다.",
   "data_sources": [
     {
