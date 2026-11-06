@@ -310,6 +310,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "남한강 벚꽃길",
+        "사릉역 봄"
+      ],
+      "summer": [
+        "남한강 여름 물놀이",
+        "다산신도시 여름"
+      ],
+      "autumn": [
+        "남한강 억새",
+        "사릉역 가을"
+      ],
+      "winter": [
+        "별내신도시 겨울 조명",
+        "남한강 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "남한강 야경",
+        "coordinates": [
+          37.551221,
+          127.316286
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "다산신도시 야경",
+        "coordinates": [
+          37.615002,
+          127.164401
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "남양주시는 남한강과 북한강이 흐르는 경기 동부 최대의 도시로 다산·별내 신도시와 경춘선이 함께한다.",
   "data_sources": [
     {
