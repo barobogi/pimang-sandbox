@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "곡성초등학교 운동장",
+        "coordinates": [
+          35.306275,
+          127.266554
+        ],
+        "capacity": 3000,
+        "address": "전라남도 곡성군"
+      },
+      {
+        "name": "곡성실내체육관",
+        "coordinates": [
+          35.138623,
+          127.355226
+        ],
+        "capacity": 1100,
+        "address": "전라남도 곡성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "섬진강기차마을",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "태안사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "곡성군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "곡성시장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동악산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "곡성군은 섬진강 기차마을과 태안사, 곡성세계장미축제로 유명한 전남 동부의 군이다.",
   "data_sources": [
     {
