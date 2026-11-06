@@ -137,6 +137,93 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "두정동 상권",
+        "station_name": "두정동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.834109,
+          127.133694
+        ]
+      },
+      {
+        "target_landmark": "성거산",
+        "station_name": "성거산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.852636,
+          127.224832
+        ]
+      },
+      {
+        "target_landmark": "천안종합운동장",
+        "station_name": "천안종합운동장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.818861,
+          127.110782
+        ]
+      },
+      {
+        "target_landmark": "서북구청",
+        "station_name": "직산역",
+        "line": "수도권 1호선",
+        "exit_no": 7,
+        "walk_minutes": 18,
+        "coordinates": [
+          36.8727,
+          127.1425
+        ]
+      },
+      {
+        "target_landmark": "천안시립미술관",
+        "station_name": "천안시립미술관 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 46,
+        "coordinates": [
+          36.78522,
+          127.224217
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서북 중앙 공영주차장",
+        "coordinates": [
+          36.878448,
+          127.153073
+        ],
+        "capacity": 486,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "서북 제2 공영주차장",
+        "coordinates": [
+          36.851836,
+          127.227232
+        ],
+        "capacity": 182,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서북 제3 공영주차장",
+        "coordinates": [
+          36.834109,
+          127.135294
+        ],
+        "capacity": 562,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "천안 서북구는 천안 서부의 구로 성환? 아니라 성거산과 두정동 상권, 안서? 아니라 천안종합운동장이 자리한 지역이다.",
   "data_sources": [
     {
