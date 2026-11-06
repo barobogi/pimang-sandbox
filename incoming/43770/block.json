@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "음성초등학교 운동장",
+        "coordinates": [
+          36.964302,
+          127.661487
+        ],
+        "capacity": 5800,
+        "address": "충청북도 음성군"
+      },
+      {
+        "name": "음성실내체육관",
+        "coordinates": [
+          37.098236,
+          127.637735
+        ],
+        "capacity": 3800,
+        "address": "충청북도 음성군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "감곡매괴성모순례지성당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "철박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수안봉온천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "설성공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "미타사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "음성군은 충북 서북부의 군으로 감곡매괴성모순례지성당과 철박물관, 수안봉온천 등의 명소와 함께 근현대 농산물·의약 산업 도시로 성장한 지역이다.",
   "data_sources": [
     {
