@@ -226,6 +226,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "김해초등학교 운동장",
+        "coordinates": [
+          35.203594,
+          128.897703
+        ],
+        "capacity": 7300,
+        "address": "경상남도 김해시"
+      },
+      {
+        "name": "김해실내체육관",
+        "coordinates": [
+          35.225295,
+          128.828933
+        ],
+        "capacity": 1100,
+        "address": "경상남도 김해시"
+      },
+      {
+        "name": "김해중앙공원 비상집합장소",
+        "coordinates": [
+          35.249059,
+          128.930638
+        ],
+        "capacity": 1300,
+        "address": "경상남도 김해시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "봉황공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "국립김해박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "가야테마파크",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수어촌",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "장유폭포",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "김해시는 가야의 수도 금관가야였던 유서 깊은 도시로 봉황대와 국립김해박물관, 가야테마파크 등 가야 문화유산과 근현대 산업 도시가 함께한다.",
   "data_sources": [
     {
