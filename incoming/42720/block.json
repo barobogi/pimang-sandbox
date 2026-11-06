@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Hongcheon-gun, Gangwon",
+      "landmarks": {
+        "홍천강": [
+          "Hongcheon River",
+          "Bukhan River tributary crossing Hongcheon-gun with riverside trails and bike paths."
+        ],
+        "팔봉산": [
+          "Palbongsan Mountain",
+          "Hongcheon's home mountain, famed for its spring peach blossom colonies."
+        ],
+        "용추계곡": [
+          "Yongchu Valley",
+          "Hongcheon's signature valley with a waterfall linked to a dragon legend."
+        ],
+        "내면숲휴양림": [
+          "Naemyeon Forest Recreation Area",
+          "National forest recreation area using the Naemyeon woods, a forest experience space."
+        ],
+        "홍천문화예술의전당": [
+          "Hongcheon Culture and Arts Center",
+          "Hongcheon-gun's leading performance and exhibition venue."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 洪川郡",
+      "landmarks": {
+        "홍천강": [
+          "洪川江",
+          "北漢江の支流で洪川郡を貫く。川辺の散歩道と自転車道が整備されている。"
+        ],
+        "팔봉산": [
+          "八峰山",
+          "洪川郡の鎮山。春の八峰山桃の花群落地として有名。"
+        ],
+        "용추계곡": [
+          "龍滝渓谷",
+          "洪川を代表する渓谷。龍が昇り降りしたという伝説を持つ滝の名所。"
+        ],
+        "내면숲휴양림": [
+          "内面森林休養林",
+          "内面一帯の森を活用した国有林休養林。森の体験空間。"
+        ],
+        "홍천문화예술의전당": [
+          "洪川文化芸術の殿堂",
+          "洪川郡を代表する公演・展示の文化施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 洪川郡",
+      "landmarks": {
+        "홍천강": [
+          "洪川江",
+          "北汉江支流，纵贯洪川郡，江边建有步道和自行车道。"
+        ],
+        "팔봉산": [
+          "八峰山",
+          "洪川郡主山，以春日桃花花海闻名。"
+        ],
+        "용추계곡": [
+          "龙湫溪谷",
+          "洪川代表性溪谷，瀑布留有神龙出入的传说。"
+        ],
+        "내면숲휴양림": [
+          "内面森林休养林",
+          "利用内面一带森林的国有林休养林，森林体验空间。"
+        ],
+        "홍천문화예술의전당": [
+          "洪川文化艺术殿堂",
+          "洪川郡代表性的演出展览文化设施。"
+        ]
+      }
+    }
   }
 }
