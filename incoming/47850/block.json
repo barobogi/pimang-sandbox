@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "가실성당",
+        "station_name": "칠곡버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.007786,
+          128.462473
+        ]
+      },
+      {
+        "target_landmark": "유학산",
+        "station_name": "유학산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.06785,
+          128.501311
+        ]
+      },
+      {
+        "target_landmark": "칠곡군청",
+        "station_name": "칠곡군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.997583,
+          128.398963
+        ]
+      },
+      {
+        "target_landmark": "칠곡시장",
+        "station_name": "칠곡시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.94517,
+          128.547849
+        ]
+      },
+      {
+        "target_landmark": "낙동강",
+        "station_name": "낙동강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.000046,
+          128.389935
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "칠곡 중앙 공영주차장",
+        "coordinates": [
+          36.004186,
+          128.460873
+        ],
+        "capacity": 99,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "칠곡 제2 공영주차장",
+        "coordinates": [
+          35.995983,
+          128.400563
+        ],
+        "capacity": 292,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "칠곡 제3 공영주차장",
+        "coordinates": [
+          35.998046,
+          128.393135
+        ],
+        "capacity": 325,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "칠곡군은 가실성당과 유학산, 낙동강이 자리한 경북 중부의 군이다.",
   "data_sources": [
     {
