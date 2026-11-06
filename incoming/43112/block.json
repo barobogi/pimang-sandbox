@@ -409,5 +409,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.cheongju.go.kr/seowon",
+    "civil_service_center": {
+      "location_name": "서원구청 민원실 앞",
+      "coordinates": [
+        127.435045,
+        36.548737
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "043-201-0001",
+      "info": "충청북도 청주시 서원구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "서원구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.435845,
+      36.547737
+    ],
+    "cctv_zone_count": 287
+  },
+  "urban_parks_trails": {
+    "park_name": "사직공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "서원 구민축제",
+    "typical_month": 10,
+    "venue_name": "사직공원",
+    "venue_coords": [
+      127.436145,
+      36.547837
+    ]
   }
 }
