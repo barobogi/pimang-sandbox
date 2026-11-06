@@ -223,6 +223,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "순천초등학교 운동장",
+        "coordinates": [
+          34.901826,
+          127.493294
+        ],
+        "capacity": 4000,
+        "address": "전라남도 순천시"
+      },
+      {
+        "name": "순천실내체육관",
+        "coordinates": [
+          34.878418,
+          127.491499
+        ],
+        "capacity": 2600,
+        "address": "전라남도 순천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "순천만습지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "순천만국가정원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "낙안읍성",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "선암사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "송광사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "순천시는 순천만습지와 순천만국가정원, 낙안읍성, 선암사, 송광사 등 남해안 대표 자연·문화 관광 자원이 풍부한 전남 동부의 도시다.",
   "data_sources": [
     {
