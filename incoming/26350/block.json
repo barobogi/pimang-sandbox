@@ -238,6 +238,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "해운대초등학교 운동장",
+        "coordinates": [
+          35.151538,
+          129.173885
+        ],
+        "capacity": 5200,
+        "address": "부산광역시 해운대구"
+      },
+      {
+        "name": "해운대실내체육관",
+        "coordinates": [
+          35.166809,
+          129.121015
+        ],
+        "capacity": 2300,
+        "address": "부산광역시 해운대구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "해운대해수욕장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "센텀시티",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동백섬",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "달맞이길",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "해운대시장",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "부산 해운대구는 해운대해수욕장과 센텀시티가 자리한 부산 대표 국제 관광·비즈니스 중심지다.",
   "data_sources": [
     {
