@@ -303,6 +303,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "아차산 봄 진달래",
+        "갈매공원 봄꽃"
+      ],
+      "summer": [
+        "아차산 여름",
+        "갈매시장 여름 야시장"
+      ],
+      "autumn": [
+        "아차산 단풍길",
+        "사패산 억새"
+      ],
+      "winter": [
+        "아차산 설경",
+        "갈매시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "아차산 야경",
+        "coordinates": [
+          37.571123,
+          127.10435
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "갈매공원 야경",
+        "coordinates": [
+          37.61,
+          127.128
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "구리시는 아차산과 수도권 전철이 함께한 서울 동북부 관문의 도시이다.",
   "data_sources": [
     {
