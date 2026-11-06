@@ -1,0 +1,570 @@
+{
+  "block_code": "44800",
+  "block_name": "충청남도 예산군",
+  "bbox": [
+    126.585328,
+    36.526588,
+    126.969601,
+    36.803921
+  ],
+  "center": [
+    36.665254,
+    126.777465
+  ],
+  "landmarks": [
+    {
+      "name": "수덕사",
+      "lat": 36.6618145,
+      "lng": 126.6221048,
+      "category": "사찰/문화유산",
+      "description": "백제 시대 천년 고찰로 국보 수덕사 대웅전의 배흘림기둥이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%88%98%EB%8D%95%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 88.4
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Sudeoksa_Daeungjeon_20231224_01.jpg/1280px-Sudeoksa_Daeungjeon_20231224_01.jpg"
+    },
+    {
+      "name": "추사고택",
+      "lat": 36.7105,
+      "lng": 126.8585,
+      "category": "고택/문화유산",
+      "description": "조선 후기 대서가인 추사 김정희가 태어나고 살던 전통 고택이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%82%B0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 235.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Panoramic_view_of_Yesan-eup.jpg/1280px-Panoramic_view_of_Yesan-eup.jpg"
+    },
+    {
+      "name": "윤봉길의사기념관",
+      "lat": 36.6864496,
+      "lng": 126.6514179,
+      "category": "기념관/역사",
+      "description": "매헌 윤봉길 의사의 생가와 기념관이 덕산온천지구에 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EB%B4%89%EA%B8%B8%EC%9D%98%EC%82%AC%EA%B8%B0%EB%85%90%EA%B4%80",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 101.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Maeheon_Yun_Bong-gil_Memorial_Hall.jpg/1280px-Maeheon_Yun_Bong-gil_Memorial_Hall.jpg"
+    },
+    {
+      "name": "예당호출렁다리",
+      "lat": 36.65,
+      "lng": 126.83,
+      "category": "관광/호수",
+      "description": "예당호 위에 놓인 국내 최장급 출렁다리로 음악분수 야경으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%82%B0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 250,
+        "pitch": -30,
+        "heading": 289.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Panoramic_view_of_Yesan-eup.jpg/1280px-Panoramic_view_of_Yesan-eup.jpg"
+    },
+    {
+      "name": "덕산메타세쿼이아길",
+      "lat": 36.762,
+      "lng": 126.935,
+      "category": "숲길/관광",
+      "description": "덕산온천 부근에 조성된 메타세쿼이아 숲길로 사계절 산책 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%88%EC%82%B0%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 232.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Panoramic_view_of_Yesan-eup.jpg/1280px-Panoramic_view_of_Yesan-eup.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "예산 역사·문화 시그니처 스카이 트레일",
+      "description": "예당호출렁다리 → 추사고택 → 덕산메타세쿼이아길 → 윤봉길의사기념관 → 수덕사 순으로 이어지는 충청남도 예산군의 대표 드론 플라이트 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "예당호출렁다리",
+        "추사고택",
+        "덕산메타세쿼이아길",
+        "윤봉길의사기념관",
+        "수덕사"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "예산 세월을 나는 문화유산 플라이트",
+      "description": "수덕사 → 윤봉길의사기념관 → 추사고택 순의 역사·문화 집중 비행 코스. 천 년 세월이 층층이 쌓인 문화유산의 지붕선을 따라 날며, 예산의 역사·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "수덕사",
+        "윤봉길의사기념관",
+        "추사고택"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "예당호출렁다리 큰마당식당",
+      "lat": 36.65056,
+      "lng": 126.82937,
+      "specialty": "아구찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "추사고택 옛맛식당",
+      "lat": 36.7112,
+      "lng": 126.85801,
+      "specialty": "수탉백숙",
+      "category": "향토음식"
+    },
+    {
+      "name": "윤봉길의사기념관 솥뚜껑가게",
+      "lat": 36.68708,
+      "lng": 126.650858,
+      "specialty": "도토리묵",
+      "category": "향토음식"
+    },
+    {
+      "name": "수덕사 골목식당",
+      "lat": 36.661744,
+      "lng": 126.622105,
+      "specialty": "들깨칼국수",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수덕사",
+        "station_name": "수덕사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.663815,
+          126.621705
+        ]
+      },
+      {
+        "target_landmark": "추사고택",
+        "station_name": "추사고택 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.7125,
+          126.8581
+        ]
+      },
+      {
+        "target_landmark": "윤봉길의사기념관",
+        "station_name": "윤봉길의사기념관 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.68845,
+          126.651018
+        ]
+      },
+      {
+        "target_landmark": "예당호출렁다리",
+        "station_name": "예산버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.6504,
+          126.8308
+        ]
+      },
+      {
+        "target_landmark": "덕산메타세쿼이아길",
+        "station_name": "덕산메타세쿼이아길 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.764,
+          126.9346
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "예산 중앙 공영주차장",
+        "coordinates": [
+          36.6488,
+          126.8284
+        ],
+        "capacity": 87,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "예산 제2 공영주차장",
+        "coordinates": [
+          36.7081,
+          126.8605
+        ],
+        "capacity": 214,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "예산초등학교 운동장",
+        "coordinates": [
+          36.673668,
+          126.61454
+        ],
+        "capacity": 1000,
+        "address": "충청남도 예산군"
+      },
+      {
+        "name": "예산실내체육관",
+        "coordinates": [
+          36.733621,
+          126.90716
+        ],
+        "capacity": 6400,
+        "address": "충청남도 예산군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수덕사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "추사고택",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "윤봉길의사기념관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "예당호출렁다리",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕산메타세쿼이아길",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수덕사 봄",
+        "덕산메타세쿼이아길 봄"
+      ],
+      "summer": [
+        "예당호출렁다리 여름",
+        "수덕사 여름"
+      ],
+      "autumn": [
+        "덕산메타세쿼이아길 가을",
+        "수덕사 단풍"
+      ],
+      "winter": [
+        "예당호출렁다리 겨울 빛축제",
+        "수덕사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "예당호출렁다리 야경",
+        "coordinates": [
+          36.65,
+          126.83
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "수덕사 야경",
+        "coordinates": [
+          36.661814,
+          126.622105
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "예산군은 충남 서부 내륙의 군으로 슬로시티 대흥과 예당호, 수덕사 대웅전, 추사고택, 매헌 윤봉길 의사 유적 등 역사·문화 명소가 풍부한 지역이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yesan-gun, Chungnam",
+      "landmarks": {
+        "수덕사": [
+          "Sudeoksa Temple",
+          "Thousand-year Baekje temple whose National Treasure main hall is famed for its entasis columns."
+        ],
+        "추사고택": [
+          "Chusa Old House",
+          "Traditional home where the great calligrapher Chusa Kim Jeong-hui was born and lived."
+        ],
+        "윤봉길의사기념관": [
+          "Yun Bong-gil Memorial Hall",
+          "Memorial for patriot Yun Bong-gil in the Deoksan hot spring district."
+        ],
+        "예당호출렁다리": [
+          "Yedangho Suspension Bridge",
+          "One of Korea's longest suspension bridges over Yedangho Lake, famed for musical fountain night views."
+        ],
+        "덕산메타세쿼이아길": [
+          "Deoksan Metasequoia Lane",
+          "Metasequoia forest path near Deoksan hot springs, a four-season walking favorite."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 礼山郡",
+      "landmarks": {
+        "수덕사": [
+          "修徳寺",
+          "百済時代の千年古刹。国宝・修徳寺大雄殿の木反り柱が有名。"
+        ],
+        "추사고택": [
+          "秋史古宅",
+          "朝鮮後期の大書家・秋史金正喜が生まれ育った伝統古宅。"
+        ],
+        "윤봉길의사기념관": [
+          "尹奉吉義士記念館",
+          "梅軒尹奉吉義士の生家と記念館が徳山温泉地区に造られている。"
+        ],
+        "예당호출렁다리": [
+          "礼唐湖出る橋",
+          "礼唐湖に架かる国内最長級のつり橋。音楽噴水の夜景で有名。"
+        ],
+        "덕산메타세쿼이아길": [
+          "徳山メタセコイア並木",
+          "徳山温泉近くに造られたメタセコイアの並木道。四季の散策名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 礼山郡",
+      "landmarks": {
+        "수덕사": [
+          "修德寺",
+          "百济时代千年古刹，国宝修德寺大雄殿的梭柱闻名。"
+        ],
+        "추사고택": [
+          "秋史古宅",
+          "朝鲜后期大书法家秋史金正喜出生成长的传统古宅。"
+        ],
+        "윤봉길의사기념관": [
+          "尹奉吉义士纪念馆",
+          "位于德山温泉区的义士尹奉吉故居和纪念馆。"
+        ],
+        "예당호출렁다리": [
+          "礼唐湖吊桥",
+          "横跨礼唐湖的国内最长级吊桥，以音乐喷泉夜景闻名。"
+        ],
+        "덕산메타세쿼이아길": [
+          "德山水杉大道",
+          "德山温泉附近的水杉林荫道，四季散步胜地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yesan.go.kr",
+    "civil_service_center": {
+      "location_name": "예산군청 민원실 앞",
+      "coordinates": [
+        126.84825,
+        36.681097
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "041-339-7114",
+      "info": "충청남도 예산군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "예산군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.777965,
+      36.664655
+    ],
+    "cctv_zone_count": 299,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "예산군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "예산 사과 축제",
+    "typical_month": 10,
+    "venue_name": "예산군민운동장",
+    "venue_coords": [
+      126.778065,
+      36.665855
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "예산군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      126.84705,
+      36.683297
+    ],
+    "reservation_url": "https://www.yesan.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "예산군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      126.84685,
+      36.682897
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "예산군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.85075,
+      36.679397
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 3
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "예당호출렁다리 큰마당식당",
+    "coordinates": [
+      126.82937,
+      36.65056
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "아구찜 (예산군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=예산군청&goalx=126.848250&goaly=36.681097",
+    "kakaonavi_url": "kakaonavi://navigate?name=예산군청&x=126.848250&y=36.681097&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=예산군청&dlng=126.848250&dlat=36.681097&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:45",
+      "noon_altitude_deg": 53.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:14",
+      "sunset": "19:55",
+      "noon_altitude_deg": 76.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:30",
+      "noon_altitude_deg": 53.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:42",
+      "sunset": "17:21",
+      "noon_altitude_deg": 29.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "예산군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.777165,
+          36.664555
+        ],
+        [
+          126.777965,
+          36.664655
+        ],
+        [
+          126.777315,
+          36.664355
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "예산군 전통시장 만남의거리",
+    "anchor_center": [
+      126.846583,
+      36.68023
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 160,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
