@@ -277,6 +277,55 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "불국사 봄",
+        "대릉원 봄꽃"
+      ],
+      "summer": [
+        "동궁과 월지 여름밤",
+        "불국사 여름"
+      ],
+      "autumn": [
+        "불국사 단풍",
+        "첨성대 가을"
+      ],
+      "winter": [
+        "동궁과 월지 겨울 빛",
+        "석굴암 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "동궁과 월지 야경",
+        "coordinates": [
+          35.8347,
+          129.226438
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "첨성대 야경",
+        "coordinates": [
+          35.834704,
+          129.218985
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "대릉원 야경",
+        "coordinates": [
+          35.838948,
+          129.211932
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "경주시는 신라 천년 고도로 불국사와 석굴암, 첨성대, 대릉원 등 유네스코 세계유산을 포함한 국내 최대 문화유산 도시다.",
   "data_sources": [
     {
