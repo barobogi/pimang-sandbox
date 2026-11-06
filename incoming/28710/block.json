@@ -349,5 +349,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Ganghwa-gun, Incheon",
+      "landmarks": {
+        "전등사": [
+          "Jeondeungsa Temple",
+          "Goryeo-era temple at the foot of Manisan, built on the site of the Goryeo royal palace."
+        ],
+        "마니산": [
+          "Manisan Mountain",
+          "Sacred peak of Ganghwa Island, 468 m, known for its lighthouse-keeper legend and national tourist site."
+        ],
+        "강화부두리고인돌": [
+          "Ganghwa Buduri Dolmens",
+          "Representative dolmen cluster inscribed on the UNESCO World Heritage list."
+        ],
+        "강화평화전망대": [
+          "Ganghwa Peace Observatory",
+          "Lookout facing North Korea's Ganghwa-gun and the Geum River estuary, a peace tourism landmark."
+        ],
+        "강화산성": [
+          "Ganghwa Sanseong Fortress",
+          "Capital-era fortress wall encircling Ganghwa-eup, built when Ganghwa served as Goryeo's capital."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "仁川広域市 江華郡",
+      "landmarks": {
+        "전등사": [
+          "伝燈寺",
+          "マニ山のふもとにある高麗時代の寺。高麗離宮跡に建てられた江華を代表する寺。"
+        ],
+        "마니산": [
+          "マニ山",
+          "江華島の鎮山。灯守伝説とマニ山国民観光地を持つ標高468メートルの山。"
+        ],
+        "강화부두리고인돌": [
+          "江華ブドゥル石支墓",
+          "ユネスコ世界遺産に登録された代表的な支石墓群。"
+        ],
+        "강화평화전망대": [
+          "江華平和展望台",
+          "北朝鮮の江華郡と錦江の河口を望む展望施設で、平和観光の代表的名所。"
+        ],
+        "강화산성": [
+          "江華山城",
+          "高麗が江都だった時期に造られた城壁。江華邑を取り囲む。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "仁川广域市 江华郡",
+      "landmarks": {
+        "전등사": [
+          "传灯寺",
+          "江华岛马尼山麓的高丽古刹，建于高丽离宫旧址之上。"
+        ],
+        "마니산": [
+          "马尼山",
+          "江华岛主山，海拔468米，流传守灯人传说，建有国民观光地。"
+        ],
+        "강화부두리고인돌": [
+          "江华支石墓群",
+          "列入联合国教科文组织世界遗产的代表性支石墓群。"
+        ],
+        "강화평화전망대": [
+          "江华和平展望台",
+          "眺望朝鲜江华郡和锦江口的观景设施，和平旅游代表名胜。"
+        ],
+        "강화산성": [
+          "江华山城",
+          "高丽迁都江华时期修建的环城城墙，环抱江华邑。"
+        ]
+      }
+    }
   }
 }
