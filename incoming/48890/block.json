@@ -277,6 +277,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "황매산 봄 철쭉",
+        "해인사 봄"
+      ],
+      "summer": [
+        "합천호 여름",
+        "황매산 여름"
+      ],
+      "autumn": [
+        "황매산 억새",
+        "해인사 단풍"
+      ],
+      "winter": [
+        "해인사 설경",
+        "합천호 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "합천호 야경",
+        "coordinates": [
+          35.578897,
+          128.019114
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "해인사 야경",
+        "coordinates": [
+          35.801042,
+          128.098038
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "합천군은 해인사 장경판전과 합천호, 황매산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
