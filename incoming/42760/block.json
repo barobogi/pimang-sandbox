@@ -147,6 +147,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "대관령",
+        "station_name": "대관령 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.687528,
+          128.755296
+        ]
+      },
+      {
+        "target_landmark": "월정사",
+        "station_name": "월정사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.729937,
+          128.593995
+        ]
+      },
+      {
+        "target_landmark": "오대산",
+        "station_name": "진부역",
+        "line": "KTX 강릉선",
+        "walk_minutes": 18,
+        "coordinates": [
+          37.647,
+          128.562
+        ]
+      },
+      {
+        "target_landmark": "평창올림픽플라자",
+        "station_name": "평창올림픽플라자 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.54201,
+          128.50632
+        ]
+      },
+      {
+        "target_landmark": "평창군청",
+        "station_name": "평창군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.368769,
+          128.392203
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "평창 중앙 공영주차장",
+        "coordinates": [
+          37.54201,
+          128.50392
+        ],
+        "capacity": 372,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "평창 제2 공영주차장",
+        "coordinates": [
+          37.642569,
+          128.574822
+        ],
+        "capacity": 455,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "평창 제3 공영주차장",
+        "coordinates": [
+          37.729937,
+          128.594395
+        ],
+        "capacity": 416,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "평창군은 대관령과 2018 동계올림픽 개최지, 월정사와 오대산이 자리한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
