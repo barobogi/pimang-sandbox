@@ -335,5 +335,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwanak-gu, Seoul",
+      "landmarks": {
+        "서울대학교": [
+          "Seoul National University",
+          "Korea's top national university, its Gwanak campus at the foot of Gwanaksan."
+        ],
+        "낙성대공원": [
+          "Nakseongdae Park",
+          "Historic park named after a general's honorific, blending green space with youthful energy."
+        ],
+        "관악산": [
+          "Gwanaksan Mountain",
+          "Seoul's highest peak at 829 m, spanning Gwanak, Geumcheon, and Anyang, a beloved hiking destination."
+        ],
+        "신림종합시장": [
+          "Sillim Market",
+          "Central traditional market of Sillim-dong, famed for its food alleys."
+        ],
+        "관악구민체육공원": [
+          "Gwanak Citizens' Sports Park",
+          "District sports park combining exercise facilities with walking trails."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 冠岳区",
+      "landmarks": {
+        "서울대학교": [
+          "ソウル大学校",
+          "韓国最高の国立大学。冠岳キャンパスは冠岳山のふもとに広がる。"
+        ],
+        "낙성대공원": [
+          "落星垈公園",
+          "将軍の雅号に由来する地名の公園。緑地と若者文化が共存する。"
+        ],
+        "관악산": [
+          "冠岳山",
+          "標高829メートルのソウル最高峰。冠岳区・金川区・安養市にまたがる登山の名所。"
+        ],
+        "신림종합시장": [
+          "新林総合市場",
+          "新林洞商圏の中心となる伝統市場。食の路地で有名。"
+        ],
+        "관악구민체육공원": [
+          "冠岳区民体育公園",
+          "運動施設と散歩道を備えた区民の体育公園。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 冠岳区",
+      "landmarks": {
+        "서울대학교": [
+          "首尔大学",
+          "韩国最高学府，冠岳校区坐落于冠岳山麓。"
+        ],
+        "낙성대공원": [
+          "落星垈公园",
+          "得名于将军雅号的历史公园，绿地与青春文化交融。"
+        ],
+        "관악산": [
+          "冠岳山",
+          "海拔829米的首尔最高峰，横跨衿川区与安养市，是热门登山名山。"
+        ],
+        "신림종합시장": [
+          "新林综合市场",
+          "新林洞商圈的核心传统市场，以美食小巷闻名。"
+        ],
+        "관악구민체육공원": [
+          "冠岳区民体育公园",
+          "配有运动设施和步道的区民体育公园。"
+        ]
+      }
+    }
   }
 }
