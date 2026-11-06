@@ -294,6 +294,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "간절곶 봄 바다",
+        "대곡천암각화 봄"
+      ],
+      "summer": [
+        "간절곶 여름",
+        "온산항 여름"
+      ],
+      "autumn": [
+        "천전리각사 가을",
+        "간절곶 억새"
+      ],
+      "winter": [
+        "간절곶 해맞이",
+        "언양 자수정 동굴나라 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "간절곶 야경",
+        "coordinates": [
+          35.5,
+          129.233
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "온산항 야경",
+        "coordinates": [
+          35.43,
+          129.31
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "울주군은 울산 서부의 광역 군으로 대곡천 반구대 암각화 등 유네스코 세계유산과 간절감, 언양 자수정 동굴나라 등 해양·내륙 명소가 함께한다.",
   "data_sources": [
     {
