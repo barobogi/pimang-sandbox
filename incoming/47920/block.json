@@ -1,0 +1,563 @@
+{
+  "block_code": "47920",
+  "block_name": "경상북도 봉화군",
+  "bbox": [
+    128.638551,
+    36.747103,
+    129.185409,
+    37.100415
+  ],
+  "center": [
+    36.923759,
+    128.91198
+  ],
+  "landmarks": [
+    {
+      "name": "청량산",
+      "lat": 36.8088641,
+      "lng": 128.9308978,
+      "category": "산/자연",
+      "description": "청량산은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EB%9F%89%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 352.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Korea-Bonghwa_County-Mount_Cheongnyangsan-01.jpg"
+    },
+    {
+      "name": "닭실마을",
+      "lat": 36.9037515,
+      "lng": 128.7440523,
+      "category": "마을/전통",
+      "description": "닭실마을은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 81.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
+    },
+    {
+      "name": "봉화군청",
+      "lat": 36.8931284,
+      "lng": 128.732492,
+      "category": "행정/랜드마크",
+      "description": "봉화군청은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 77.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
+    },
+    {
+      "name": "봉화시장",
+      "lat": 36.8904136,
+      "lng": 128.7358787,
+      "category": "시장/먹거리",
+      "description": "봉화시장은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 76.6
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
+    },
+    {
+      "name": "봉화은어축제장",
+      "lat": 36.8903211,
+      "lng": 128.7379105,
+      "category": "축제/관광",
+      "description": "봉화은어축제장은(는) 경상북도 봉화군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B4%89%ED%99%94%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 76.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Korea-Bonghwa_County-Mount_Cheongnyangsan_in_Namnyeonri-01.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "봉화 도심 하이라이트 시그니처 스카이 투어",
+      "description": "청량산 → 봉화은어축제장 → 봉화시장 → 봉화군청 → 닭실마을 순으로 이어지는 경상북도 봉화군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "청량산",
+        "봉화은어축제장",
+        "봉화시장",
+        "봉화군청",
+        "닭실마을"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "봉화 도심 스카이라인 크루즈",
+      "description": "봉화군청 → 봉화시장 → 봉화은어축제장 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 봉화의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "봉화군청",
+        "봉화시장",
+        "봉화은어축제장"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "봉화 본점",
+      "lat": 36.889854,
+      "lng": 128.736019,
+      "specialty": "헛제사밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "봉화 솥뚜껑가게",
+      "lat": 36.890064,
+      "lng": 128.735529,
+      "specialty": "소머리국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "봉화 골목식당",
+      "lat": 36.889784,
+      "lng": 128.735739,
+      "specialty": "간고등어구이",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "청량산",
+        "station_name": "봉화버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.808464,
+          128.930498
+        ]
+      },
+      {
+        "target_landmark": "닭실마을",
+        "station_name": "닭실마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.903751,
+          128.746852
+        ]
+      },
+      {
+        "target_landmark": "봉화군청",
+        "station_name": "봉화군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.893128,
+          128.735292
+        ]
+      },
+      {
+        "target_landmark": "봉화시장",
+        "station_name": "봉화시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.890414,
+          128.738679
+        ]
+      },
+      {
+        "target_landmark": "봉화은어축제장",
+        "station_name": "봉화은어축제장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          36.890321,
+          128.740711
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "봉화 중앙 공영주차장",
+        "coordinates": [
+          36.811264,
+          128.930498
+        ],
+        "capacity": 209,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "봉화 제2 공영주차장",
+        "coordinates": [
+          36.903351,
+          128.744452
+        ],
+        "capacity": 302,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "봉화초등학교 운동장",
+        "coordinates": [
+          36.777039,
+          128.998749
+        ],
+        "capacity": 6900,
+        "address": "경상북도 봉화군"
+      },
+      {
+        "name": "봉화실내체육관",
+        "coordinates": [
+          36.951008,
+          128.728583
+        ],
+        "capacity": 4400,
+        "address": "경상북도 봉화군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "청량산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "닭실마을",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봉화군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "봉화시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "봉화은어축제장",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": false,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "청량산 봄",
+        "닭실마을 봄"
+      ],
+      "summer": [
+        "청량산 계곡 여름",
+        "봉화은어축제장 여름"
+      ],
+      "autumn": [
+        "청량산 단풍길",
+        "닭실마을 가을"
+      ],
+      "winter": [
+        "청량산 설경",
+        "봉화시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "청량산 야경",
+        "coordinates": [
+          36.808864,
+          128.930898
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "봉화시장 야시장",
+        "coordinates": [
+          36.890414,
+          128.735879
+        ],
+        "best_time": "19:00 - 21:30",
+        "lighting_hours": "17:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "봉화군은 청량산과 봉화은어축제, 닭실마을이 자리한 경북 북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Bonghwa-gun, Gyeongbuk",
+      "landmarks": {
+        "청량산": [
+          "Cheongnyangsan Mountain",
+          "Signature mountain attraction of Bonghwa-gun, Gyeongbuk."
+        ],
+        "닭실마을": [
+          "Dalgsil Village",
+          "Signature traditional village attraction of Bonghwa-gun, Gyeongbuk."
+        ],
+        "봉화군청": [
+          "Bonghwa County Office",
+          "Administrative center of Bonghwa-gun, Gyeongbuk."
+        ],
+        "봉화시장": [
+          "Bonghwa Market",
+          "Signature market attraction of Bonghwa-gun, Gyeongbuk."
+        ],
+        "봉화은어축제장": [
+          "Bonghwa Sweetfish Festival Grounds",
+          "Signature festival attraction of Bonghwa-gun, Gyeongbuk."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚北道 奉化郡",
+      "landmarks": {
+        "청량산": [
+          "清涼山",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "닭실마을": [
+          "タルシル村",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "봉화군청": [
+          "奉化郡庁",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "봉화시장": [
+          "奉化市場",
+          "慶尚北道奉化郡を代表する名所。"
+        ],
+        "봉화은어축제장": [
+          "奉化アユ祭り会場",
+          "慶尚北道奉化郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚北道 奉化郡",
+      "landmarks": {
+        "청량산": [
+          "清凉山",
+          "庆尚北道奉化郡的代表性名山。"
+        ],
+        "닭실마을": [
+          "答实村",
+          "庆尚北道奉化郡的代表性传统村落。"
+        ],
+        "봉화군청": [
+          "奉化郡厅",
+          "庆尚北道奉化郡的行政中心。"
+        ],
+        "봉화시장": [
+          "奉化市场",
+          "庆尚北道奉化郡的代表性市场。"
+        ],
+        "봉화은어축제장": [
+          "奉化香鱼庆典会场",
+          "庆尚北道奉化郡的代表性庆典地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.bonghwa.go.kr",
+    "civil_service_center": {
+      "location_name": "봉화군청 민원실 앞",
+      "coordinates": [
+        128.66735,
+        36.844496
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "054-679-6114",
+      "info": "경상북도 봉화군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "봉화군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.91138,
+      36.924259
+    ],
+    "cctv_zone_count": 507,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "봉화군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "봉화 은어축제",
+    "typical_month": 8,
+    "venue_name": "봉화군민운동장",
+    "venue_coords": [
+      128.91248,
+      36.923259
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "봉화군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "futsal",
+      "tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.66765,
+      36.844096
+    ],
+    "reservation_url": "https://www.bonghwa.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "봉화군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      128.66755,
+      36.847296
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "봉화군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.66585,
+      36.846496
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "봉화 솥뚜껑가게",
+    "coordinates": [
+      128.735529,
+      36.890064
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "소머리국밥 (봉화군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=봉화군청&goalx=128.667350&goaly=36.844496",
+    "kakaonavi_url": "kakaonavi://navigate?name=봉화군청&x=128.667350&y=36.844496&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=봉화군청&dlng=128.667350&dlat=36.844496&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:28",
+      "sunset": "18:36",
+      "noon_altitude_deg": 53.1
+    },
+    "summer_solstice": {
+      "sunrise": "05:05",
+      "sunset": "19:47",
+      "noon_altitude_deg": 76.5
+    },
+    "autumn_equinox": {
+      "sunrise": "06:13",
+      "sunset": "18:21",
+      "noon_altitude_deg": 53.1
+    },
+    "winter_solstice": {
+      "sunrise": "07:34",
+      "sunset": "17:12",
+      "noon_altitude_deg": 29.6
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "봉화군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.91203,
+          36.923559
+        ],
+        [
+          128.91138,
+          36.924259
+        ],
+        [
+          128.91028,
+          36.923809
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "봉화군 전통시장 만남의거리",
+    "anchor_center": [
+      128.667083,
+      36.843229
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 40,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
