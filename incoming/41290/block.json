@@ -1,0 +1,593 @@
+{
+  "block_code": "41290",
+  "block_name": "경기도 과천시",
+  "bbox": [
+    126.960925,
+    37.400602,
+    127.047533,
+    37.46769
+  ],
+  "center": [
+    37.434146,
+    127.004229
+  ],
+  "landmarks": [
+    {
+      "name": "국립과천과학관",
+      "lat": 37.4385264,
+      "lng": 127.0062002,
+      "category": "과학/전시",
+      "description": "국내 대표 과학 전시관이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B3%BC%EC%B2%9C%EA%B3%BC%ED%95%99%EA%B4%80",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 199.7
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/K-EMU_and_DL2101.jpg/1280px-K-EMU_and_DL2101.jpg"
+    },
+    {
+      "name": "서울대공원",
+      "lat": 37.4339353,
+      "lng": 127.0113836,
+      "category": "테마공원/동물원",
+      "description": "대형 동물원과 놀이공원이 함께한 대표 유원지다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 272.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg/1280px-20150203%EC%84%9C%EC%9A%B8%EB%8C%80%EA%B3%B5%EC%9B%90183.jpg"
+    },
+    {
+      "name": "정부과천청사",
+      "lat": 37.4264709,
+      "lng": 126.9897504,
+      "category": "행정/랜드마크",
+      "description": "옛 중앙정부기관 청사이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B6%80%EA%B3%BC%EC%B2%9C%EC%B2%AD%EC%82%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 56.3
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Government_Complex_Gwacheon.jpg/1280px-Government_Complex_Gwacheon.jpg"
+    },
+    {
+      "name": "관악산",
+      "lat": 37.4451398,
+      "lng": 126.9642379,
+      "category": "산/자연",
+      "description": "과천 북쪽의 대표 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B4%80%EC%95%85%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 109.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gwanaksan_Seoul_KR.jpg/1280px-Gwanaksan_Seoul_KR.jpg"
+    },
+    {
+      "name": "문원동 상권",
+      "lat": 37.426,
+      "lng": 127.034,
+      "category": "상권",
+      "description": "문원동 일대의 대표 생활 상권이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B3%BC%EC%B2%9C%EC%8B%9C",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 289.0
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Gwacheon_City_Hall.JPG/1280px-Gwacheon_City_Hall.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "과천 자연 힐링 시그니처 에어리얼 투어",
+      "description": "국립과천과학관 → 서울대공원 → 정부과천청사 → 관악산 → 문원동 상권 순으로 이어지는 경기도 과천시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "국립과천과학관",
+        "서울대공원",
+        "정부과천청사",
+        "관악산",
+        "문원동 상권"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "과천 그린 랜드스케이프 플라이트",
+      "description": "서울대공원 → 국립과천과학관 → 관악산 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 과천의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "서울대공원",
+        "국립과천과학관",
+        "관악산"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "과천 도심 스카이라인 크루즈",
+      "description": "정부과천청사 → 국립과천과학관 → 서울대공원 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 과천의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "정부과천청사",
+        "국립과천과학관",
+        "서울대공원"
+      ],
+      "duration_hours": 1.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "국립과천과학관 가마솥밥가",
+      "lat": 37.438666,
+      "lng": 127.00641,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "서울대공원 할매집",
+      "lat": 37.434495,
+      "lng": 127.011104,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "정부과천청사 본점",
+      "lat": 37.426261,
+      "lng": 126.98926,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "문원동 상권 골목식당",
+      "lat": 37.42607,
+      "lng": 127.03449,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "국립과천과학관",
+        "station_name": "과천역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 17,
+        "coordinates": [
+          37.4346,
+          126.9937
+        ]
+      },
+      {
+        "target_landmark": "서울대공원",
+        "station_name": "과천역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 22,
+        "coordinates": [
+          37.4346,
+          126.9937
+        ]
+      },
+      {
+        "target_landmark": "정부과천청사",
+        "station_name": "과천역",
+        "line": "서울 4호선",
+        "exit_no": 5,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.4346,
+          126.9937
+        ]
+      },
+      {
+        "target_landmark": "관악산",
+        "station_name": "인덕원역",
+        "line": "서울 4호선",
+        "exit_no": 8,
+        "walk_minutes": 23,
+        "coordinates": [
+          37.4321,
+          126.9727
+        ]
+      },
+      {
+        "target_landmark": "문원동 상권",
+        "station_name": "문원동 상권 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.4248,
+          127.0356
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "과천 중앙 공영주차장",
+        "coordinates": [
+          37.438126,
+          127.005
+        ],
+        "capacity": 298,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "과천 제2 공영주차장",
+        "coordinates": [
+          37.435935,
+          127.010984
+        ],
+        "capacity": 350,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "과천 제3 공영주차장",
+        "coordinates": [
+          37.424071,
+          126.99175
+        ],
+        "capacity": 431,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "과천초등학교 운동장",
+        "coordinates": [
+          37.438767,
+          127.015547
+        ],
+        "capacity": 4200,
+        "address": "경기도 과천시"
+      },
+      {
+        "name": "과천실내체육관",
+        "coordinates": [
+          37.430995,
+          127.010901
+        ],
+        "capacity": 4900,
+        "address": "경기도 과천시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "국립과천과학관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "서울대공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정부과천청사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "관악산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "문원동 상권",
+        "elevator": false,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "서울대공원 벚꽃",
+        "관악산 봄 진달래"
+      ],
+      "summer": [
+        "서울대공원 여름",
+        "관악산 계곡 여름"
+      ],
+      "autumn": [
+        "관악산 단풍길",
+        "서울대공원 가을"
+      ],
+      "winter": [
+        "국립과천과학관 겨울 조명",
+        "서울대공원 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "서울대공원 야경",
+        "coordinates": [
+          37.433935,
+          127.011384
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "관악산 야경",
+        "coordinates": [
+          37.44514,
+          126.964238
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "과천시는 국립과천과학관과 서울대공원이 자리한 계획 도시이자 수도권 남부의 문화 과학 도시이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Gwacheon-si, Gyeonggi",
+      "landmarks": {
+        "국립과천과학관": [
+          "Gwacheon National Science Museum",
+          "Korea's flagship science museum."
+        ],
+        "서울대공원": [
+          "Seoul Grand Park",
+          "Signature leisure park combining a large zoo and amusement park."
+        ],
+        "정부과천청사": [
+          "Gwacheon Government Complex",
+          "Former central government office complex."
+        ],
+        "관악산": [
+          "Gwanaksan Mountain",
+          "Signature peak on Gwacheon's northern edge."
+        ],
+        "문원동 상권": [
+          "Munwon-dong District",
+          "Everyday commercial hub across Munwon-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 果川市",
+      "landmarks": {
+        "국립과천과학관": [
+          "国立果川科学館",
+          "国内を代表する科学展示館。"
+        ],
+        "서울대공원": [
+          "ソウル大公園",
+          "大型動物園と遊園地を備えた代表的なレジャー地。"
+        ],
+        "정부과천청사": [
+          "政府果川庁舎",
+          "かつての中央政府機関の庁舎。"
+        ],
+        "관악산": [
+          "冠岳山",
+          "果川の北にある代表的な名山。"
+        ],
+        "문원동 상권": [
+          "門原洞商圏",
+          "門原洞一帯の代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 果川市",
+      "landmarks": {
+        "국립과천과학관": [
+          "国立果川科学馆",
+          "韩国代表性的科学展馆。"
+        ],
+        "서울대공원": [
+          "首尔大公园",
+          "集大型动物园和游乐园于一体的代表性园区。"
+        ],
+        "정부과천청사": [
+          "政府果川办公大楼",
+          "昔日中央政府机关的办公大楼。"
+        ],
+        "관악산": [
+          "冠岳山",
+          "果川北部的代表名山。"
+        ],
+        "문원동 상권": [
+          "门原洞商圈",
+          "门原洞一带的代表性生活商圈。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.gccity.go.kr",
+    "civil_service_center": {
+      "location_name": "과천시청 민원실 앞",
+      "coordinates": [
+        126.987594,
+        37.429221
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "02-502-5001",
+      "info": "경기도 과천시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "과천시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.003829,
+      37.434446
+    ],
+    "cctv_zone_count": 290,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "갈현근린공원",
+    "trail_length_km": 1.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "과천 한마당 축제",
+    "typical_month": 9,
+    "venue_name": "과천시청 광장",
+    "venue_coords": [
+      127.004629,
+      37.433546
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "과천시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.984794,
+      37.430221
+    ],
+    "reservation_url": "https://www.gccity.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "과천시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.988894,
+      37.429621
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "과천시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.988094,
+      37.426821
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 2
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "문원동 상권 골목식당",
+    "coordinates": [
+      127.03449,
+      37.42607
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "쫄면 (과천시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=과천시청&goalx=126.987594&goaly=37.429221",
+    "kakaonavi_url": "kakaonavi://navigate?name=과천시청&x=126.987594&y=37.429221&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=과천시청&dlng=126.987594&dlat=37.429221&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:35",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:11",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.0
+    },
+    "autumn_equinox": {
+      "sunrise": "06:20",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:18",
+      "noon_altitude_deg": 29.1
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "과천시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.003179,
+          37.433746
+        ],
+        [
+          127.003829,
+          37.434446
+        ],
+        [
+          127.003879,
+          37.434196
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "과천시 중심상업거리",
+    "anchor_center": [
+      126.985994,
+      37.428821
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 250,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
