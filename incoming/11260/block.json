@@ -232,6 +232,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중랑초등학교 운동장",
+        "coordinates": [
+          37.596438,
+          127.109494
+        ],
+        "capacity": 5600,
+        "address": "서울특별시 중랑구"
+      },
+      {
+        "name": "중랑실내체육관",
+        "coordinates": [
+          37.604937,
+          127.086771
+        ],
+        "capacity": 2800,
+        "address": "서울특별시 중랑구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "망우리공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "봉화산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용마랜드",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "중랑천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "면목동 먹자골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "중랑구는 중랑천을 따라 형성된 농촌 마을들이 1970년대 이후 주택지로 급성장한 자치구로, 면목동과 상봉동 상권, 용마산과 봉화산의 자연과 함께 도시 근교 특성을 지닌다.",
   "data_sources": [
     {
