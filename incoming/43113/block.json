@@ -140,6 +140,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "충북대학교",
+        "station_name": "충북대학교 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.626969,
+          127.45464
+        ]
+      },
+      {
+        "target_landmark": "사직공원",
+        "station_name": "흥덕버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          36.643177,
+          127.379191
+        ]
+      },
+      {
+        "target_landmark": "흥덕구청",
+        "station_name": "흥덕버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 23,
+        "coordinates": [
+          36.643177,
+          127.379191
+        ]
+      },
+      {
+        "target_landmark": "공원",
+        "station_name": "공원 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.622412,
+          127.442847
+        ]
+      },
+      {
+        "target_landmark": "무심천",
+        "station_name": "무심천 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.667975,
+          127.462112
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "흥덕 중앙 공영주차장",
+        "coordinates": [
+          36.643577,
+          127.380391
+        ],
+        "capacity": 113,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "흥덕 제2 공영주차장",
+        "coordinates": [
+          36.627397,
+          127.377471
+        ],
+        "capacity": 317,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "청주 흥덕구는 청주 서부의 구로 충북대학교와 사직공원, 백화점 상권이 함께한 대표 주거 상업 지역이다.",
   "data_sources": [
     {
