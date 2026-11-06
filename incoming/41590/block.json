@@ -230,6 +230,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "화성초등학교 운동장",
+        "coordinates": [
+          37.172672,
+          127.01797
+        ],
+        "capacity": 2500,
+        "address": "경기도 화성시"
+      },
+      {
+        "name": "화성실내체육관",
+        "coordinates": [
+          37.206843,
+          127.004444
+        ],
+        "capacity": 5700,
+        "address": "경기도 화성시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "동탄호수공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "롯데월드 어드벤처 동탄",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "응봉산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "궁평항",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "제부도",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "화성시는 조선 정조 때 화성 행궁과 관련된 역사와 함께 근현대 동탄신도시가 성장한 경기 남부의 산업·주거 도시로 동탄호수공원과 롯데월드 어드벤처 등의 명소가 자리한다.",
   "data_sources": [
     {
