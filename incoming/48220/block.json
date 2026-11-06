@@ -342,6 +342,11 @@
       "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
       "license": "공공누리 제1유형",
       "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
     }
   ],
   "contributor": {
@@ -510,5 +515,67 @@
     ],
     "grade": "MODEL_RESTAURANT",
     "specialty_menu": "해물뚝배기 (통영시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=통영시청&goalx=128.423366&goaly=34.842851",
+    "kakaonavi_url": "kakaonavi://navigate?name=통영시청&x=128.423366&y=34.842851&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=통영시청&dlng=128.423366&dlat=34.842851&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:38",
+      "noon_altitude_deg": 55.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:42",
+      "noon_altitude_deg": 78.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:23",
+      "noon_altitude_deg": 55.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:30",
+      "sunset": "17:20",
+      "noon_altitude_deg": 32.0
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "통영시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.449724,
+          34.593344
+        ],
+        [
+          128.448774,
+          34.592844
+        ],
+        [
+          128.448874,
+          34.593944
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "통영시 해안 카페거리",
+    "anchor_center": [
+      128.422099,
+      34.843784
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 340,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "coastal_promenade"
   }
 }
