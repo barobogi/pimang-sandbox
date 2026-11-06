@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "익산초등학교 운동장",
+        "coordinates": [
+          35.978146,
+          127.007024
+        ],
+        "capacity": 1800,
+        "address": "전북특별자치도 익산시"
+      },
+      {
+        "name": "익산실내체육관",
+        "coordinates": [
+          36.001954,
+          127.032968
+        ],
+        "capacity": 3000,
+        "address": "전북특별자치도 익산시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "미륵사지",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "왕궁리유적",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "선제고",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "탄정천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "원광대학교",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "익산시는 백제 시대 익산 왕궁이 있었던 유서 깊은 도시로 미륵사지와 왕궁리유적 등 백제 문화유산과 근현대 산업 도시가 함께한다.",
   "data_sources": [
     {
