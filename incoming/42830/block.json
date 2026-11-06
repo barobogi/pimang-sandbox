@@ -274,6 +274,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "낙산사 봄 바다",
+        "남대천 벚꽃"
+      ],
+      "summer": [
+        "낙산해수욕장 여름",
+        "죽도해수욕장 여름"
+      ],
+      "autumn": [
+        "낙산사 단풍",
+        "남대천 가을"
+      ],
+      "winter": [
+        "낙산사 해맞이",
+        "낙산해수욕장 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "낙산해수욕장 야경",
+        "coordinates": [
+          38.115635,
+          128.636006
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "낙산사 야경",
+        "coordinates": [
+          38.124506,
+          128.629136
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
   "history_summary": "양양군은 낙산해수욕장과 서핑 해변, 낙산사가 자리한 강원 동해안 북부의 군이다.",
   "data_sources": [
     {
