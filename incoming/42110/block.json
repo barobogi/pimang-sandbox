@@ -154,6 +154,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "남이섬",
+        "station_name": "남이섬 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.791328,
+          127.523544
+        ]
+      },
+      {
+        "target_landmark": "의암호",
+        "station_name": "남춘천역",
+        "line": "경춘선",
+        "walk_minutes": 23,
+        "coordinates": [
+          37.8695,
+          127.7145
+        ]
+      },
+      {
+        "target_landmark": "삼악산",
+        "station_name": "삼악산 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.839322,
+          127.658771
+        ]
+      },
+      {
+        "target_landmark": "춘천 명동",
+        "station_name": "춘천역",
+        "line": "경춘선",
+        "walk_minutes": 10,
+        "coordinates": [
+          37.8825,
+          127.7196
+        ]
+      },
+      {
+        "target_landmark": "춘천인형극장",
+        "station_name": "춘천인형극장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          37.921186,
+          127.718575
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "춘천 중앙 공영주차장",
+        "coordinates": [
+          37.87838,
+          127.723336
+        ],
+        "capacity": 283,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "춘천 제2 공영주차장",
+        "coordinates": [
+          37.921586,
+          127.720975
+        ],
+        "capacity": 368,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "춘천 제3 공영주차장",
+        "coordinates": [
+          37.879607,
+          127.702052
+        ],
+        "capacity": 349,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "춘천시는 의암호와 삼악산, 춘천호가 어우러진 호수 도시로 국토 남이섬과 마임축제, 닭갈비 먹거리 문화로 전국에 알려진 강원 도청 소재지이다.",
   "data_sources": [
     {
