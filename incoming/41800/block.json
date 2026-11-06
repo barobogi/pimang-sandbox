@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeoncheon-gun, Gyeonggi",
+      "landmarks": {
+        "초성리 중원식생태공원": [
+          "Choseong-ri Wetland Ecological Park",
+          "Riverine ecological park in Choseong-ri, Jeongok-eup, offering wetland ecology experiences."
+        ],
+        "당포성": [
+          "Dangposeong Fortress",
+          "Ancient fortress facing the Imjin River, a strategic point between Baekje and Goguryeo."
+        ],
+        "아미산전적지": [
+          "Amisan Battle Site",
+          "Battle site and observatory on Amisan, a fierce Korean War battleground."
+        ],
+        "한탄강국가지질공원": [
+          "Hantan River National Geopark",
+          "National Geopark of basalt gorges and cliff walls, with its Yeoncheon section here."
+        ],
+        "고적대전망대": [
+          "Goseokjeong Observatory",
+          "Yeoncheon's signature DMZ observatory with the closest view of the North."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 漣川郡",
+      "landmarks": {
+        "초성리 중원식생태공원": [
+          "草城里湿地生態公園",
+          "全谷邑草城里一帯に造られた河川生態公園。湿地の生態体験ができる。"
+        ],
+        "당포성": [
+          "唐浦城",
+          "臨津江を前にした古代の山城。百済と高句麗の要衝として有名。"
+        ],
+        "아미산전적지": [
+          "峨眉山戦跡地",
+          "6・25戦争の激戦地だった峨眉山一帯の戦跡地と展望施設。"
+        ],
+        "한탄강국가지질공원": [
+          "漢灘江国立地質公園",
+          "玄武岩の渓谷や断崖などの地質名所が集まる国立地質公園。漣川区間が広がる。"
+        ],
+        "고적대전망대": [
+          "孤石亭展望台",
+          "北側を最も近くに見られる漣川を代表するDMZ展望施設。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 涟川郡",
+      "landmarks": {
+        "초성리 중원식생태공원": [
+          "草城里湿地生态公园",
+          "全谷邑草城里一带的河流生态公园，可体验湿地生态。"
+        ],
+        "당포성": [
+          "唐浦城",
+          "临津江畔的古城，百济与高句丽的战略要地。"
+        ],
+        "아미산전적지": [
+          "峨眉山战迹地",
+          "朝鲜战争激战地峨眉山一带的战迹地与展望设施。"
+        ],
+        "한탄강국가지질공원": [
+          "汉滩江国家地质公园",
+          "汇集玄武岩峡谷和峭壁等地质名胜的国家地质公园，涟川段坐落于此。"
+        ],
+        "고적대전망대": [
+          "孤石亭展望台",
+          "可最近眺望朝鲜的涟川代表性DMZ展望台。"
+        ]
+      }
+    }
   }
 }
