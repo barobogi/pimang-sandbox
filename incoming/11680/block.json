@@ -299,6 +299,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "가로수길 봄꽃",
+        "도산공원 봄"
+      ],
+      "summer": [
+        "가로수길 여름밤",
+        "청담동 여름 거리"
+      ],
+      "autumn": [
+        "도산공원 단풍",
+        "가로수길 가을"
+      ],
+      "winter": [
+        "가로수길 겨울 빛축제",
+        "청담동 겨울 조명"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "강남역 야경",
+        "coordinates": [
+          37.497671,
+          127.029288
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "가로수길 야경",
+        "coordinates": [
+          37.520911,
+          127.022894
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
   "history_summary": "강남구는 대한민국 최고 상업·유행 중심지로 강남역과 가로수길, 청담동 패션 거리가 유명하다.",
   "data_sources": [
     {
