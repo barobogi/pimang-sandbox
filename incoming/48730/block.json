@@ -359,5 +359,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Haman-gun, Gyeongnam",
+      "landmarks": {
+        "말이산고분군": [
+          "Malisan Ancient Tombs",
+          "Signature tomb cluster heritage of Haman-gun, Gyeongnam."
+        ],
+        "함안박물관": [
+          "Haman Museum",
+          "Signature museum attraction of Haman-gun, Gyeongnam."
+        ],
+        "함안군청": [
+          "Haman County Office",
+          "Administrative center of Haman-gun, Gyeongnam."
+        ],
+        "함안시장": [
+          "Haman Market",
+          "Signature market attraction of Haman-gun, Gyeongnam."
+        ],
+        "낙동강": [
+          "Nakdong River",
+          "Signature river attraction of Haman-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 咸安郡",
+      "landmarks": {
+        "말이산고분군": [
+          "末伊山古墳群",
+          "慶尚南道咸安郡を代表する名所。"
+        ],
+        "함안박물관": [
+          "咸安博物館",
+          "慶尚南道咸安郡を代表する名所。"
+        ],
+        "함안군청": [
+          "咸安郡庁",
+          "慶尚南道咸安郡を代表する名所。"
+        ],
+        "함안시장": [
+          "咸安市場",
+          "慶尚南道咸安郡を代表する名所。"
+        ],
+        "낙동강": [
+          "洛東江",
+          "慶尚南道咸安郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 咸安郡",
+      "landmarks": {
+        "말이산고분군": [
+          "末伊山古坟群",
+          "庆尚南道咸安郡的代表性古坟群。"
+        ],
+        "함안박물관": [
+          "咸安博物馆",
+          "庆尚南道咸安郡的代表性博物馆。"
+        ],
+        "함안군청": [
+          "咸安郡厅",
+          "庆尚南道咸安郡的行政中心。"
+        ],
+        "함안시장": [
+          "咸安市场",
+          "庆尚南道咸安郡的代表性市场。"
+        ],
+        "낙동강": [
+          "洛东江",
+          "庆尚南道咸安郡的代表性河流。"
+        ]
+      }
+    }
   }
 }
