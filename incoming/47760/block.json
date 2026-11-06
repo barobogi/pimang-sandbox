@@ -146,6 +146,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "일월산",
+        "station_name": "일월산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.804479,
+          129.101708
+        ]
+      },
+      {
+        "target_landmark": "영양반딧불이생태공원",
+        "station_name": "영양반딧불이생태공원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.831896,
+          129.26897
+        ]
+      },
+      {
+        "target_landmark": "두들마을",
+        "station_name": "두들마을 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          36.560011,
+          129.127483
+        ]
+      },
+      {
+        "target_landmark": "영양군청",
+        "station_name": "영양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.664166,
+          129.115366
+        ]
+      },
+      {
+        "target_landmark": "영양시장",
+        "station_name": "영양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.664166,
+          129.115366
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영양 중앙 공영주차장",
+        "coordinates": [
+          36.661766,
+          129.112966
+        ],
+        "capacity": 146,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영양 제2 공영주차장",
+        "coordinates": [
+          36.668344,
+          129.112828
+        ],
+        "capacity": 269,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "영양군은 일월산과 영양반딧불이생태공원, 두들마을이 자리한 경북 북동부의 군이다.",
   "data_sources": [
     {
