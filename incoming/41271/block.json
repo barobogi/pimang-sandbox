@@ -1,0 +1,600 @@
+{
+  "block_code": "41271",
+  "block_name": "경기도 안산시 상록구",
+  "bbox": [
+    126.812151,
+    37.265422,
+    126.939548,
+    37.376885
+  ],
+  "center": [
+    37.321153,
+    126.875849
+  ],
+  "landmarks": [
+    {
+      "name": "팔리산",
+      "lat": 37.308,
+      "lng": 126.853,
+      "category": "산/자연",
+      "description": "상록구에 자리한 해발 321m의 산으로 등산로와 산책로가 잘 조성된 주민 명산이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 54.1
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vitale_Falier_%28series_by_Domenico_Tintoretto_-_Doge%E2%80%99s_Palace%29.jpg"
+    },
+    {
+      "name": "행인산",
+      "lat": 37.3,
+      "lng": 126.87,
+      "category": "산/자연",
+      "description": "행인동 일대의 낮은 산으로 도심 속 등산 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 12.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
+    },
+    {
+      "name": "보개산자연휴양림",
+      "lat": 37.308,
+      "lng": 126.9,
+      "category": "자연휴양림",
+      "description": "상록구에 위치한 자연휴양림으로 숲 체험과 숲속 공부장이 조성되어 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 304.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
+    },
+    {
+      "name": "수암산",
+      "lat": 37.292,
+      "lng": 126.86,
+      "category": "산/자연",
+      "description": "상록구 이동 일대의 산으로 무지개광장 등의 등산 코스가 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 23.4
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
+    },
+    {
+      "name": "군곡공원",
+      "lat": 37.298,
+      "lng": 126.84,
+      "category": "근린공원",
+      "description": "군곡동에 조성된 근린공원으로 안산시 서북부 주민 휴식 공간이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%83%81%EB%A1%9D%EA%B5%AC",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 50.9
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sangnok-gu_Ansan.PNG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "상록 자연 힐링 시그니처 에어리얼 투어",
+      "description": "행인산 → 수암산 → 팔리산 → 군곡공원 → 보개산자연휴양림 순으로 이어지는 경기도 안산시 상록구의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "행인산",
+        "수암산",
+        "팔리산",
+        "군곡공원",
+        "보개산자연휴양림"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "상록 산하 절경 에어리얼 투어",
+      "description": "팔리산 → 행인산 → 보개산자연휴양림 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 상록의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "팔리산",
+        "행인산",
+        "보개산자연휴양림"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "행인산 솥뚜껑가게",
+      "lat": 37.29944,
+      "lng": 126.8693,
+      "specialty": "수원갈비",
+      "category": "향토음식"
+    },
+    {
+      "name": "팔리산 골목식당",
+      "lat": 37.30744,
+      "lng": 126.85244,
+      "specialty": "한우불고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "보개산자연휴양림 옛맛식당",
+      "lat": 37.30793,
+      "lng": 126.89944,
+      "specialty": "막국수",
+      "category": "향토음식"
+    },
+    {
+      "name": "수암산 본점",
+      "lat": 37.2913,
+      "lng": 126.85979,
+      "specialty": "쫄면",
+      "category": "향토음식"
+    },
+    {
+      "name": "군곡공원 큰마당식당",
+      "lat": 37.29779,
+      "lng": 126.83944,
+      "specialty": "유과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "팔리산",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 20,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      },
+      {
+        "target_landmark": "행인산",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 14,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      },
+      {
+        "target_landmark": "보개산자연휴양림",
+        "station_name": "중앙역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 35,
+        "coordinates": [
+          37.3196,
+          126.8764
+        ]
+      },
+      {
+        "target_landmark": "수암산",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 28,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      },
+      {
+        "target_landmark": "군곡공원",
+        "station_name": "상록수역",
+        "line": "서울 4호선",
+        "exit_no": 9,
+        "walk_minutes": 40,
+        "coordinates": [
+          37.3085,
+          126.8688
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "상록 중앙 공영주차장",
+        "coordinates": [
+          37.3004,
+          126.8704
+        ],
+        "capacity": 433,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "상록 제2 공영주차장",
+        "coordinates": [
+          37.3084,
+          126.8554
+        ],
+        "capacity": 446,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "상록 제3 공영주차장",
+        "coordinates": [
+          37.3092,
+          126.9024
+        ],
+        "capacity": 214,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "상록초등학교 운동장",
+        "coordinates": [
+          37.306909,
+          126.870918
+        ],
+        "capacity": 6400,
+        "address": "경기도 안산시 상록구"
+      },
+      {
+        "name": "상록실내체육관",
+        "coordinates": [
+          37.314575,
+          126.872058
+        ],
+        "capacity": 6000,
+        "address": "경기도 안산시 상록구"
+      },
+      {
+        "name": "상록중앙공원 비상집합장소",
+        "coordinates": [
+          37.312772,
+          126.90421
+        ],
+        "capacity": 1900,
+        "address": "경기도 안산시 상록구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "팔리산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "행인산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보개산자연휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "수암산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "군곡공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수암산 봄 진달래",
+        "군곡공원 봄꽃"
+      ],
+      "summer": [
+        "보개산자연휴양림 여름",
+        "팔리산 여름"
+      ],
+      "autumn": [
+        "팔리산 단풍",
+        "행인산 억새"
+      ],
+      "winter": [
+        "수암산 설경",
+        "군곡공원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "팔리산 야경",
+        "coordinates": [
+          37.308,
+          126.853
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "수암산 야경",
+        "coordinates": [
+          37.292,
+          126.86
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "상록구는 안산시 북부에 위치한 구로 반월공단과 함께 이주노동 문화가 발달했고 팔리산·행인산·보개산 등의 산악 자연과 다문화 마을이 어우러져 있다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Sangnok-gu, Ansan",
+      "landmarks": {
+        "팔리산": [
+          "Pallisan Mountain",
+          "321 m peak in Sangnok-gu with well-built trails, a residents' favorite."
+        ],
+        "행인산": [
+          "Haenginsan Mountain",
+          "Low hill across Haengin-dong, a downtown hiking spot."
+        ],
+        "보개산자연휴양림": [
+          "Bogegaesan Natural Recreation Forest",
+          "Recreation forest in Sangnok-gu offering forest experiences and study facilities."
+        ],
+        "수암산": [
+          "Suamsan Mountain",
+          "Mountain across I-dong in Sangnok-gu with trails like Rainbow Plaza."
+        ],
+        "군곡공원": [
+          "Gungok Park",
+          "Neighborhood park in Gungok-dong for northwestern Ansan residents."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 安山市 常緑区",
+      "landmarks": {
+        "팔리산": [
+          "八里山",
+          "常緑区にある標高321メートルの山。登山道と散歩道がよく整備された住民の名山。"
+        ],
+        "행인산": [
+          "行仁山",
+          "行仁洞一帯の低い山。都心の中の登山名所。"
+        ],
+        "보개산자연휴양림": [
+          "宝蓋山自然休養林",
+          "常緑区にある自然休養林。森の体験と林間学校が整備されている。"
+        ],
+        "수암산": [
+          "水庵山",
+          "常緑区移動一帯の山。虹広場などの登山コースがある。"
+        ],
+        "군곡공원": [
+          "宮谷公園",
+          "宮谷洞に造られた近隣公園。安山市北西部の住民の憩いの場。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 安山市 常绿区",
+      "landmarks": {
+        "팔리산": [
+          "八里山",
+          "常绿区海拔321米的山，步道完善，深受居民喜爱。"
+        ],
+        "행인산": [
+          "行仁山",
+          "行仁洞一带的矮山，城中登山胜地。"
+        ],
+        "보개산자연휴양림": [
+          "抱盖山自然休养林",
+          "常绿区的自然休养林，可体验森林课堂。"
+        ],
+        "수암산": [
+          "水庵山",
+          "常绿区梨洞一带的山，有彩虹广场等登山道。"
+        ],
+        "군곡공원": [
+          "宫谷公园",
+          "宫谷洞的近邻公园，安山西北部居民的休憩地。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.sangnok-gu.iansan.net",
+    "civil_service_center": {
+      "location_name": "상록구청 민원실 앞",
+      "coordinates": [
+        126.850826,
+        37.29693
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "031-1666-1234",
+      "info": "경기도 안산시 상록구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "상록구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.87605,
+      37.321053
+    ],
+    "cctv_zone_count": 282,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "상록수공원",
+    "trail_length_km": 1.5,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "상록 구민축제",
+    "typical_month": 10,
+    "venue_name": "상록수공원",
+    "venue_coords": [
+      126.87625,
+      37.321053
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "상록구민체육관",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.848526,
+      37.29733
+    ],
+    "reservation_url": "https://www.sangnok-gu.iansan.net"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "상록구 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.848426,
+      37.29843
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "상록구청 공영주차장 급속충전소",
+    "coordinates": [
+      126.847826,
+      37.29713
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "보개산자연휴양림 옛맛식당",
+    "coordinates": [
+      126.89944,
+      37.30793
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "막국수 (상록구 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=상록구청&goalx=126.850826&goaly=37.296930",
+    "kakaonavi_url": "kakaonavi://navigate?name=상록구청&x=126.850826&y=37.296930&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=상록구청&dlng=126.850826&dlat=37.296930&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 52.7
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:56",
+      "noon_altitude_deg": 76.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 52.7
+    },
+    "winter_solstice": {
+      "sunrise": "07:43",
+      "sunset": "17:19",
+      "noon_altitude_deg": 29.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "상록구 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.8765,
+          37.322303
+        ],
+        [
+          126.87605,
+          37.321053
+        ],
+        [
+          126.87705,
+          37.322053
+        ]
+      ],
+      "cctv_linked_count": 9,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "상록구 중심상업거리",
+    "anchor_center": [
+      126.851893,
+      37.295797
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 267,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "commercial_street"
+  }
+}
