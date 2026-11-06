@@ -233,6 +233,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "처인초등학교 운동장",
+        "coordinates": [
+          37.309106,
+          127.155304
+        ],
+        "capacity": 3800,
+        "address": "경기도 용인시 처인구"
+      },
+      {
+        "name": "처인실내체육관",
+        "coordinates": [
+          37.251973,
+          127.196675
+        ],
+        "capacity": 1900,
+        "address": "경기도 용인시 처인구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "에버랜드",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "캐리비안베이",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "윤봉길 의사 유적",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "보개산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "용인 자연휴양림",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "용인 처인구는 에버랜드와 윤봉길 의사 유적이 함께한 용인 남부의 구이다.",
   "data_sources": [
     {
