@@ -137,6 +137,82 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불영사",
+        "station_name": "울진버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          36.939614,
+          129.274993
+        ]
+      },
+      {
+        "target_landmark": "왕피천",
+        "station_name": "왕피천 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.967647,
+          129.397482
+        ]
+      },
+      {
+        "target_landmark": "망양정",
+        "station_name": "망양정 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.97096,
+          129.415188
+        ]
+      },
+      {
+        "target_landmark": "울진군청",
+        "station_name": "울진군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.995877,
+          129.403034
+        ]
+      },
+      {
+        "target_landmark": "울진시장",
+        "station_name": "울진시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          36.994645,
+          129.404724
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "울진 중앙 공영주차장",
+        "coordinates": [
+          36.937614,
+          129.270993
+        ],
+        "capacity": 239,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "울진 제2 공영주차장",
+        "coordinates": [
+          36.967247,
+          129.397082
+        ],
+        "capacity": 117,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "울진군은 왕피천과 불영사, 망양정이 자리한 경북 동해안 최북단의 군이다.",
   "data_sources": [
     {
