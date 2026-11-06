@@ -343,5 +343,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Suyeong-gu, Busan",
+      "landmarks": {
+        "광안리해수욕장": [
+          "Gwangalli Beach",
+          "Busan's signature beach, famous for the Gwangan Bridge night view and the Busan Fireworks Festival."
+        ],
+        "수영사적공원": [
+          "Suyeong Historic Park",
+          "Historic park on the site of the Joseon-era Suyeong garrison."
+        ],
+        "민락수변공원": [
+          "Minrak Waterfront Park",
+          "Waterfront park on the Minrak coast, loved for beachside strolls."
+        ],
+        "황령산": [
+          "Hwangnyeongsan Mountain",
+          "Mountain on the Suyeong-Suseong boundary and a downtown hiking favorite."
+        ],
+        "광안대교": [
+          "Gwangan Bridge",
+          "Sea bridge spanning Gwangalli, famed for its night illumination."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "釜山広域市 水営区",
+      "landmarks": {
+        "광안리해수욕장": [
+          "広安里海水浴場",
+          "広安大橋の夜景と釜山花火祭りで有名な釜山を代表するビーチ。"
+        ],
+        "수영사적공원": [
+          "水営史跡公園",
+          "朝鮮時代の水営陣跡に造られた史跡公園。"
+        ],
+        "민락수변공원": [
+          "民楽水辺公園",
+          "民楽洞の海岸に造られた水辺公園。ビーチ散策の名所。"
+        ],
+        "황령산": [
+          "荒嶺山",
+          "水営区と寿城区の境界に立つ山で、釜山都心の登山名所。"
+        ],
+        "광안대교": [
+          "広安大橋",
+          "広安里の海上を渡る橋で、夜景の名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "釜山广域市 水营区",
+      "landmarks": {
+        "광안리해수욕장": [
+          "广安里海水浴场",
+          "以广安大桥夜景和釜山烟花节闻名的釜山代表性海滨。"
+        ],
+        "수영사적공원": [
+          "水营史迹公园",
+          "建于朝鲜时代水营军营旧址上的史迹公园。"
+        ],
+        "민락수변공원": [
+          "民乐滨水公园",
+          "民乐洞海岸的滨水公园，海滨散步胜地。"
+        ],
+        "황령산": [
+          "荒岭山",
+          "水营区与寿城区交界处的山，是釜山城区登山胜地。"
+        ],
+        "광안대교": [
+          "广安大桥",
+          "横跨广安里海面的大桥，夜景名胜。"
+        ]
+      }
+    }
   }
 }
