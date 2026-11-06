@@ -237,6 +237,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "중앙초등학교 운동장",
+        "coordinates": [
+          37.48135,
+          126.619541
+        ],
+        "capacity": 6000,
+        "address": "인천광역시 동구"
+      },
+      {
+        "name": "중앙실내체육관",
+        "coordinates": [
+          37.472488,
+          126.606737
+        ],
+        "capacity": 4000,
+        "address": "인천광역시 동구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "만석공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "송월동 골목",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "동인천역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "화수진공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영종대교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
   "history_summary": "인천 동구는 만석공원과 동인천역 상권, 영종대교가 자리한 인천 항만 중심의 구이다.",
   "data_sources": [
     {
