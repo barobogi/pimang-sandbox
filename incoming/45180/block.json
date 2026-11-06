@@ -1,0 +1,579 @@
+{
+  "block_code": "45180",
+  "block_name": "전북특별자치도 정읍시",
+  "bbox": [
+    126.715523,
+    35.461085,
+    127.116937,
+    35.758991
+  ],
+  "center": [
+    35.610038,
+    126.91623
+  ],
+  "landmarks": [
+    {
+      "name": "내장산",
+      "lat": 35.5474155,
+      "lng": 126.8816035,
+      "category": "산/국민관광지",
+      "description": "전북 대표 명산으로 가을 단풍으로 전국적으로 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%9E%A5%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 24.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg/1280px-%EB%82%B4%EC%9E%A5%EC%82%B0_%EB%82%A8%EC%B0%BD%EA%B3%84%EA%B3%A1.jpg"
+    },
+    {
+      "name": "내장사",
+      "lat": 35.4897388,
+      "lng": 126.9019835,
+      "category": "사찰/문화유산",
+      "description": "내장산 자락의 유서 깊은 사찰로 극락전이 유명하다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 5.5
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%EB%82%B4%EC%9E%A5%EC%82%AC_%EC%A1%B0%EC%84%A0%EB%8F%99%EC%A2%85.jpg"
+    },
+    {
+      "name": "초정약수",
+      "lat": 35.578,
+      "lng": 126.932,
+      "category": "약수/관광",
+      "description": "전국 유수의 약수터로 음용수 관광 명소다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 338.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%EC%B4%88%EC%A0%95%ED%83%84%EC%82%B0%EC%88%98_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg/1280px-%EC%B4%88%EC%A0%95%ED%83%84%EC%82%B0%EC%88%98_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg"
+    },
+    {
+      "name": "정읍객사",
+      "lat": 35.601,
+      "lng": 126.998,
+      "category": "객사/문화유산",
+      "description": "조선 시대 정읍부의 객사로 옛 관아 건축이 남아 있다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 277.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Street_in_central_Jeongeup_-_2009-02-04.JPG/1280px-Street_in_central_Jeongeup_-_2009-02-04.JPG"
+    },
+    {
+      "name": "고부모충사",
+      "lat": 35.559,
+      "lng": 126.926,
+      "category": "사당/문화유산",
+      "description": "고부 지역의 유서 깊은 사당으로 전봉준과 연관된 유적이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%8D%EC%8B%9C",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 351.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Street_in_central_Jeongeup_-_2009-02-04.JPG/1280px-Street_in_central_Jeongeup_-_2009-02-04.JPG"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "정읍 자연 힐링 시그니처 에어리얼 투어",
+      "description": "초정약수 → 고부모충사 → 내장산 → 내장사 → 정읍객사 순으로 이어지는 전북특별자치도 정읍시의 대표 드론 플라이트 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "초정약수",
+        "고부모충사",
+        "내장산",
+        "내장사",
+        "정읍객사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "정읍 그린 랜드스케이프 플라이트",
+      "description": "내장산 → 고부모충사 → 정읍객사 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 정읍의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "내장산",
+        "고부모충사",
+        "정읍객사"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "초정약수 큰마당식당",
+      "lat": 35.578,
+      "lng": 126.93207,
+      "specialty": "콩나물국밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "고부모충사 동네밥집",
+      "lat": 35.55837,
+      "lng": 126.92565,
+      "specialty": "전주비빔밥",
+      "category": "향토음식"
+    },
+    {
+      "name": "내장산 가마솥밥가",
+      "lat": 35.547205,
+      "lng": 126.882024,
+      "specialty": "북어찜",
+      "category": "향토음식"
+    },
+    {
+      "name": "정읍객사 옛맛식당",
+      "lat": 35.60079,
+      "lng": 126.99849,
+      "specialty": "부추파전",
+      "category": "향토음식"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "내장산",
+        "station_name": "정읍역",
+        "line": "KTX 호남선",
+        "walk_minutes": 36,
+        "coordinates": [
+          35.5597,
+          126.905
+        ]
+      },
+      {
+        "target_landmark": "내장사",
+        "station_name": "내장사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.490139,
+          126.899184
+        ]
+      },
+      {
+        "target_landmark": "초정약수",
+        "station_name": "정읍역",
+        "line": "KTX 호남선",
+        "walk_minutes": 45,
+        "coordinates": [
+          35.5597,
+          126.905
+        ]
+      },
+      {
+        "target_landmark": "정읍객사",
+        "station_name": "정읍객사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.6014,
+          126.9952
+        ]
+      },
+      {
+        "target_landmark": "고부모충사",
+        "station_name": "정읍역",
+        "line": "KTX 호남선",
+        "walk_minutes": 27,
+        "coordinates": [
+          35.5597,
+          126.905
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "정읍 중앙 공영주차장",
+        "coordinates": [
+          35.5788,
+          126.9344
+        ],
+        "capacity": 229,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "정읍 제2 공영주차장",
+        "coordinates": [
+          35.5574,
+          126.9244
+        ],
+        "capacity": 309,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "정읍 제3 공영주차장",
+        "coordinates": [
+          35.549416,
+          126.879604
+        ],
+        "capacity": 190,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "정읍초등학교 운동장",
+        "coordinates": [
+          35.533329,
+          126.835637
+        ],
+        "capacity": 5800,
+        "address": "전북특별자치도 정읍시"
+      },
+      {
+        "name": "정읍실내체육관",
+        "coordinates": [
+          35.491597,
+          126.924646
+        ],
+        "capacity": 5400,
+        "address": "전북특별자치도 정읍시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "내장산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "내장사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "초정약수",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "정읍객사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "고부모충사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "내장산 봄",
+        "정읍객사 봄"
+      ],
+      "summer": [
+        "내장산 계곡 여름",
+        "초정약수 여름"
+      ],
+      "autumn": [
+        "내장산 단풍길",
+        "내장사 가을"
+      ],
+      "winter": [
+        "내장산 설경",
+        "정읍객사 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "내장산 야경",
+        "coordinates": [
+          35.547415,
+          126.881603
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "정읍객사 야경",
+        "coordinates": [
+          35.601,
+          126.998
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "정읍시는 백제 시대 옛 고부 지역으로 내장산과 내장사, 초정약수 등의 명소가 함께한 전북 서부의 도시다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Jeongeup-si, Jeonbuk",
+      "landmarks": {
+        "내장산": [
+          "Naejangsan Mountain",
+          "Jeonbuk's signature peak, nationally famous for its autumn foliage."
+        ],
+        "내장사": [
+          "Naejangsa Temple",
+          "Historic temple at the foot of Naejangsan, famed for its Geukrakjeon Hall."
+        ],
+        "초정약수": [
+          "Chojeong Mineral Spring",
+          "One of the nation's premier spring-water sites, a famed drinking water attraction."
+        ],
+        "정읍객사": [
+          "Jeongeup Gaeksa",
+          "Joseon-era guesthouse of Jeongeup-bu preserving old government architecture."
+        ],
+        "고부모충사": [
+          "Gobu Mosansa Shrine",
+          "Historic shrine of the Gobu region associated with Jeon Bong-jun."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全北特別自治道 井邑市",
+      "landmarks": {
+        "내장산": [
+          "内蔵山",
+          "全北を代表する名山。秋の紅葉で全国的に有名。"
+        ],
+        "내장사": [
+          "内蔵寺",
+          "内蔵山のふもとの由緒ある寺。極楽殿が有名。"
+        ],
+        "초정약수": [
+          "草亭薬水",
+          "全国屈指の薬水場。飲用泉の観光名所。"
+        ],
+        "정읍객사": [
+          "井邑客舎",
+          "朝鮮時代の井邑府の客舎。昔の官衙建築が残る。"
+        ],
+        "고부모충사": [
+          "古阜母忠祠",
+          "古阜地方の由緒ある祠。全琫準にゆかりのある遺跡。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全北特别自治道 井邑市",
+      "landmarks": {
+        "내장산": [
+          "内藏山",
+          "全北代表名山，秋日红叶闻名全国。"
+        ],
+        "내장사": [
+          "内藏寺",
+          "内藏山麓的古刹，以极乐殿闻名。"
+        ],
+        "초정약수": [
+          "草亭矿泉水",
+          "全国一流的涌泉地，饮水观光名胜。"
+        ],
+        "정읍객사": [
+          "井邑客舍",
+          "朝鲜时代井邑府的客舍，留有旧官衙建筑。"
+        ],
+        "고부모충사": [
+          "古阜母忠祠",
+          "古阜地区的古祠，与全琫准相关的遗迹。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.jeongeup.go.kr",
+    "civil_service_center": {
+      "location_name": "정읍시청 민원실 앞",
+      "coordinates": [
+        126.850084,
+        35.571963
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "063-539-7114",
+      "info": "전북특별자치도 정읍시 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "정읍시 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.91683,
+      35.609738
+    ],
+    "cctv_zone_count": 140,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "정읍 시민공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "정읍 시민축제",
+    "typical_month": 10,
+    "venue_name": "정읍 시민운동장",
+    "venue_coords": [
+      126.91613,
+      35.610238
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "정읍시 국민체육센터",
+    "sports_types": [
+      "futsal",
+      "badminton",
+      "fitness"
+    ],
+    "coordinates": [
+      126.850484,
+      35.571563
+    ],
+    "reservation_url": "https://www.jeongeup.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "정읍시 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.852284,
+      35.572163
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "정읍시청 공영주차장 급속충전소",
+    "coordinates": [
+      126.850184,
+      35.573963
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 6
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "고부모충사 동네밥집",
+    "coordinates": [
+      126.92565,
+      35.55837
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "전주비빔밥 (정읍시 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=정읍시청&goalx=126.850084&goaly=35.571963",
+    "kakaonavi_url": "kakaonavi://navigate?name=정읍시청&x=126.850084&y=35.571963&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=정읍시청&dlng=126.850084&dlat=35.571963&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:36",
+      "sunset": "18:44",
+      "noon_altitude_deg": 54.4
+    },
+    "summer_solstice": {
+      "sunrise": "05:17",
+      "sunset": "19:51",
+      "noon_altitude_deg": 77.8
+    },
+    "autumn_equinox": {
+      "sunrise": "06:21",
+      "sunset": "18:29",
+      "noon_altitude_deg": 54.4
+    },
+    "winter_solstice": {
+      "sunrise": "07:39",
+      "sunset": "17:23",
+      "noon_altitude_deg": 30.9
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "정읍시 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.91608,
+          35.609288
+        ],
+        [
+          126.91683,
+          35.609738
+        ],
+        [
+          126.91748,
+          35.609038
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "정읍시 전통시장 만남의거리",
+    "anchor_center": [
+      126.849417,
+      35.571296
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 180,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
