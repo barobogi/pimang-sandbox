@@ -137,6 +137,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "서산마애삼존불",
+        "station_name": "서산마애삼존불 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.776689,
+          126.608078
+        ]
+      },
+      {
+        "target_landmark": "해미읍성",
+        "station_name": "해미읍성 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.715974,
+          126.551893
+        ]
+      },
+      {
+        "target_landmark": "서산시청",
+        "station_name": "서산시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.78771,
+          126.453164
+        ]
+      },
+      {
+        "target_landmark": "서산시장",
+        "station_name": "서산시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.785196,
+          126.45856
+        ]
+      },
+      {
+        "target_landmark": "천수만",
+        "station_name": "천수만 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 6,
+        "coordinates": [
+          36.622163,
+          126.394202
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "서산 중앙 공영주차장",
+        "coordinates": [
+          36.783996,
+          126.45696
+        ],
+        "capacity": 493,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "서산 제2 공영주차장",
+        "coordinates": [
+          36.78571,
+          126.450764
+        ],
+        "capacity": 479,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "서산 제3 공영주차장",
+        "coordinates": [
+          36.710774,
+          126.549493
+        ],
+        "capacity": 100,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "서산시는 서산마애삼존불과 해미읍성, 간척지 농업이 어우러진 충남 서북부의 도시이다.",
   "data_sources": [
     {
