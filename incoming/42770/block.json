@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "화암동굴",
+        "station_name": "화암동굴 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.347462,
+          128.791449
+        ]
+      },
+      {
+        "target_landmark": "정암사",
+        "station_name": "정암사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.181443,
+          128.88989
+        ]
+      },
+      {
+        "target_landmark": "동강",
+        "station_name": "동강 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.285913,
+          128.5557
+        ]
+      },
+      {
+        "target_landmark": "정선시장",
+        "station_name": "정선시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.368397,
+          128.745018
+        ]
+      },
+      {
+        "target_landmark": "정선군청",
+        "station_name": "정선군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          37.379011,
+          128.658056
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "정선 중앙 공영주차장",
+        "coordinates": [
+          37.368397,
+          128.748218
+        ],
+        "capacity": 347,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "정선 제2 공영주차장",
+        "coordinates": [
+          37.347062,
+          128.793849
+        ],
+        "capacity": 149,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "정선 제3 공영주차장",
+        "coordinates": [
+          37.382211,
+          128.661256
+        ],
+        "capacity": 568,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "정선군은 아리랑의 고장이자 정암사와 화암동굴, 동강 래프팅이 유명한 강원 영서 남부의 군이다.",
   "data_sources": [
     {
