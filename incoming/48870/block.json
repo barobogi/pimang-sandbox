@@ -140,6 +140,92 @@
       "category": "전통디저트"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "상림공원",
+        "station_name": "함양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 31,
+        "coordinates": [
+          35.544513,
+          127.729951
+        ]
+      },
+      {
+        "target_landmark": "용추계곡",
+        "station_name": "용추계곡 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.669822,
+          127.78553
+        ]
+      },
+      {
+        "target_landmark": "지리산",
+        "station_name": "지리산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.331955,
+          127.65102
+        ]
+      },
+      {
+        "target_landmark": "함양군청",
+        "station_name": "함양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 39,
+        "coordinates": [
+          35.544513,
+          127.729951
+        ]
+      },
+      {
+        "target_landmark": "함양시장",
+        "station_name": "함양버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 2,
+        "coordinates": [
+          35.544513,
+          127.729951
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "함양 중앙 공영주차장",
+        "coordinates": [
+          35.542113,
+          127.730351
+        ],
+        "capacity": 291,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "함양 제2 공영주차장",
+        "coordinates": [
+          35.528105,
+          127.718728
+        ],
+        "capacity": 77,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "함양 제3 공영주차장",
+        "coordinates": [
+          35.518942,
+          127.725184
+        ],
+        "capacity": 323,
+        "fee_type": "무료",
+        "ev_charging": false
+      }
+    ]
+  },
   "history_summary": "함양군은 상림공원과 용추계곡, 지리산이 자리한 경남 서부의 군이다.",
   "data_sources": [
     {
