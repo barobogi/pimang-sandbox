@@ -232,6 +232,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "만안초등학교 운동장",
+        "coordinates": [
+          37.429629,
+          126.918146
+        ],
+        "capacity": 6000,
+        "address": "경기도 안양시 만안구"
+      },
+      {
+        "name": "만안실내체육관",
+        "coordinates": [
+          37.390523,
+          126.95378
+        ],
+        "capacity": 4600,
+        "address": "경기도 안양시 만안구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "안양예술공원",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안양역 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "안양천",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "삼막사",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "석수동 상권",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "안양 만안구는 안양역 상권과 안양예술공원이 함께한 안양 서부의 구이다.",
   "data_sources": [
     {
