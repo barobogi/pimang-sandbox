@@ -340,5 +340,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yanggu-gun, Gangwon",
+      "landmarks": {
+        "두타연": [
+          "Dutayeon Falls",
+          "Signature valley attraction of Yanggu-gun, Gangwon."
+        ],
+        "DMZ자생식물원": [
+          "DMZ Native Botanical Garden",
+          "Signature botanical attraction of Yanggu-gun, Gangwon."
+        ],
+        "양구군청": [
+          "Yanggu County Office",
+          "Administrative center of Yanggu-gun, Gangwon."
+        ],
+        "양구시장": [
+          "Yanggu Market",
+          "Signature market attraction of Yanggu-gun, Gangwon."
+        ],
+        "해안분지": [
+          "Punchbowl Basin",
+          "Signature terrain attraction of Yanggu-gun, Gangwon."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "江原特別自治道 楊口郡",
+      "landmarks": {
+        "두타연": [
+          "頭陀淵",
+          "江原特別自治道楊口郡を代表する名所。"
+        ],
+        "DMZ자생식물원": [
+          "DMZ自生植物園",
+          "江原特別自治道楊口郡を代表する名所。"
+        ],
+        "양구군청": [
+          "楊口郡庁",
+          "江原特別自治道楊口郡を代表する名所。"
+        ],
+        "양구시장": [
+          "楊口市場",
+          "江原特別自治道楊口郡を代表する名所。"
+        ],
+        "해안분지": [
+          "亥安盆地（パンチボウル）",
+          "江原特別自治道楊口郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "江原特别自治道 杨口郡",
+      "landmarks": {
+        "두타연": [
+          "头陀渊",
+          "江原特别自治道杨口郡的代表性溪谷景观。"
+        ],
+        "DMZ자생식물원": [
+          "DMZ自生植物园",
+          "江原特别自治道杨口郡的代表性植物园。"
+        ],
+        "양구군청": [
+          "杨口郡厅",
+          "江原特别自治道杨口郡的行政中心。"
+        ],
+        "양구시장": [
+          "杨口市场",
+          "江原特别自治道杨口郡的代表性市场。"
+        ],
+        "해안분지": [
+          "亥安盆地",
+          "江原特别自治道杨口郡的代表性盆地地形。"
+        ]
+      }
+    }
   }
 }
