@@ -140,6 +140,92 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "세종대왕 영릉",
+        "station_name": "세종대왕 영릉 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2924,
+          127.3244
+        ]
+      },
+      {
+        "target_landmark": "남한강",
+        "station_name": "남한강 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.346411,
+          127.599421
+        ]
+      },
+      {
+        "target_landmark": "신륵사",
+        "station_name": "신륵사 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.30163,
+          127.656717
+        ]
+      },
+      {
+        "target_landmark": "여주시청",
+        "station_name": "여주시청 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.298629,
+          127.639541
+        ]
+      },
+      {
+        "target_landmark": "여주시장",
+        "station_name": "여주시장 인근 버스정류장",
+        "line": "시내버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          37.2904,
+          127.6424
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "여주 중앙 공영주차장",
+        "coordinates": [
+          37.346011,
+          127.595821
+        ],
+        "capacity": 113,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      },
+      {
+        "name": "여주 제2 공영주차장",
+        "coordinates": [
+          37.299429,
+          127.637141
+        ],
+        "capacity": 161,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "여주 제3 공영주차장",
+        "coordinates": [
+          37.2924,
+          127.6424
+        ],
+        "capacity": 285,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "경기 여주시는 세종대왕 영릉이 자리한 역사의 고장이자 남한강의 대표 도시이다.",
   "data_sources": [
     {
