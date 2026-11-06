@@ -225,6 +225,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "도봉초등학교 운동장",
+        "coordinates": [
+          37.680968,
+          127.044871
+        ],
+        "capacity": 6900,
+        "address": "서울특별시 도봉구"
+      },
+      {
+        "name": "도봉실내체육관",
+        "coordinates": [
+          37.671119,
+          127.024323
+        ],
+        "capacity": 6500,
+        "address": "서울특별시 도봉구"
+      },
+      {
+        "name": "도봉중앙공원 비상집합장소",
+        "coordinates": [
+          37.650052,
+          127.042283
+        ],
+        "capacity": 4900,
+        "address": "서울특별시 도봉구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "도봉산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "도봉산도립공원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "창동신도시",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "사패산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "쌍문동 상권",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "도봉구는 도봉산 자락의 북부 자치구로 도봉산 국민관광지와 창동 신도시가 발달했다.",
   "data_sources": [
     {
