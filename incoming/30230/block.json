@@ -225,6 +225,67 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "대덕초등학교 운동장",
+        "coordinates": [
+          36.340555,
+          127.475879
+        ],
+        "capacity": 6800,
+        "address": "대전광역시 대덕구"
+      },
+      {
+        "name": "대덕실내체육관",
+        "coordinates": [
+          36.37972,
+          127.457082
+        ],
+        "capacity": 1600,
+        "address": "대전광역시 대덕구"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "계족산황토길",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "동춘당",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "대청호",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "신탄진역",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "회덕향교",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "대전 대덕구는 계족산과 대청호가 자리한 대전 북부의 구로 동춘당과 계족산황토길 등 역사·자연 명소가 함께한다.",
   "data_sources": [
     {
