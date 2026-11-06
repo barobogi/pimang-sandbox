@@ -352,5 +352,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yangju-si, Gyeonggi",
+      "landmarks": {
+        "옥정지구": [
+          "Okjeong District",
+          "Signature residential new town of Yangju."
+        ],
+        "양주역 상권": [
+          "Yangju Station District",
+          "Commercial hub centered on Yangju Station."
+        ],
+        "천보산": [
+          "Cheonbosan Mountain",
+          "Signature hiking mountain of Yangju."
+        ],
+        "양주공원": [
+          "Yangju Park",
+          "Signature neighborhood park of Yangju."
+        ],
+        "광사동 상권": [
+          "Gwangsa-dong District",
+          "Everyday commercial hub in Gwangsa-dong."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "京畿道 楊州市",
+      "landmarks": {
+        "옥정지구": [
+          "玉井地区",
+          "楊州を代表する住宅新都市。"
+        ],
+        "양주역 상권": [
+          "楊州駅商圏",
+          "楊州駅を中心とする代表的な商圏。"
+        ],
+        "천보산": [
+          "天宝山",
+          "楊州を代表する登山の名山。"
+        ],
+        "양주공원": [
+          "楊州公園",
+          "楊州を代表する近隣公園。"
+        ],
+        "광사동 상권": [
+          "光沙洞商圏",
+          "光沙洞に形成された代表的な生活商圏。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "京畿道 杨州市",
+      "landmarks": {
+        "옥정지구": [
+          "玉井地区",
+          "杨州的代表性居住新城。"
+        ],
+        "양주역 상권": [
+          "杨州站商圈",
+          "以杨州站为中心的代表性商圈。"
+        ],
+        "천보산": [
+          "天宝山",
+          "杨州的代表性登山名山。"
+        ],
+        "양주공원": [
+          "杨州公园",
+          "杨州的代表性近邻公园。"
+        ],
+        "광사동 상권": [
+          "光沙洞商圈",
+          "光沙洞形成的代表性生活商圈。"
+        ]
+      }
+    }
   }
 }
