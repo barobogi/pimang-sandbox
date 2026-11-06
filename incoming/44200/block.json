@@ -335,5 +335,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Asan-si, Chungnam",
+      "landmarks": {
+        "외암민속마을": [
+          "Oeam Folk Village",
+          "Traditional village with well-preserved stone walls and pagodas, designated Important Folk Material."
+        ],
+        "온양온천": [
+          "Onyang Hot Springs",
+          "Asan's signature hot spring district, called the nation's oldest royal hot spring."
+        ],
+        "신정호": [
+          "Sinjeongho Lake",
+          "Lake formed by a dam on the Gokgyocheon, famed for its waterfront trail."
+        ],
+        "곡교천은행나무길": [
+          "Gokgyocheon Ginkgo Tree Road",
+          "Asan's signature autumn spot, famed for its ginkgo tunnel."
+        ],
+        "온양민속박물관": [
+          "Onyang Folk Museum",
+          "Folk museum in the Onyang hot spring district."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "忠清南道 牙山市",
+      "landmarks": {
+        "외암민속마을": [
+          "外岩民俗村",
+          "石垣と石塔がよく保存された伝統村。重要民俗資料に指定されている。"
+        ],
+        "온양온천": [
+          "温陽温泉",
+          "国内初の御料温泉と呼ばれる牙山を代表する温泉地区。"
+        ],
+        "신정호": [
+          "新貞湖",
+          "鵲橋川に建設されたダムでできた湖。水辺の散歩道が有名。"
+        ],
+        "곡교천은행나무길": [
+          "鵲橋川イチョウ並木",
+          "秋のイチョウのトンネルで有名な牙山を代表する秋の名所。"
+        ],
+        "온양민속박물관": [
+          "温陽民俗博物館",
+          "温陽温泉地区にある民俗専門博物館。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "忠清南道 牙山市",
+      "landmarks": {
+        "외암민속마을": [
+          "外岩民俗村",
+          "石墙石塔保存完好的传统村落，被指定为重要民俗资料。"
+        ],
+        "온양온천": [
+          "温阳温泉",
+          "号称国内最早的御泉，牙山代表性温泉区。"
+        ],
+        "신정호": [
+          "新贞湖",
+          "鹤桥川筑坝形成的湖泊，滨水步道闻名。"
+        ],
+        "곡교천은행나무길": [
+          "鹤桥川银杏大道",
+          "以银杏隧道闻名的牙山代表性秋景。"
+        ],
+        "온양민속박물관": [
+          "温阳民俗博物馆",
+          "位于温阳温泉区的民俗专业博物馆。"
+        ]
+      }
+    }
   }
 }
