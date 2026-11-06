@@ -154,6 +154,87 @@
       "category": "향토음식"
     }
   ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "롯데월드타워",
+        "station_name": "잠실역",
+        "line": "서울 2·8호선",
+        "exit_no": 9,
+        "walk_minutes": 8,
+        "coordinates": [
+          37.5172,
+          127.1041
+        ]
+      },
+      {
+        "target_landmark": "석촌호수",
+        "station_name": "석촌역",
+        "line": "서울 8호선",
+        "exit_no": 5,
+        "walk_minutes": 6,
+        "coordinates": [
+          37.5061,
+          127.103
+        ]
+      },
+      {
+        "target_landmark": "몽촌토성",
+        "station_name": "잠실역",
+        "line": "서울 2·8호선",
+        "exit_no": 9,
+        "walk_minutes": 11,
+        "coordinates": [
+          37.5172,
+          127.1041
+        ]
+      },
+      {
+        "target_landmark": "롯데월드 어드벤처",
+        "station_name": "석촌역",
+        "line": "서울 8호선",
+        "exit_no": 5,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.5061,
+          127.103
+        ]
+      },
+      {
+        "target_landmark": "송리단길",
+        "station_name": "석촌역",
+        "line": "서울 8호선",
+        "exit_no": 5,
+        "walk_minutes": 10,
+        "coordinates": [
+          37.5061,
+          127.103
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "송파 중앙 공영주차장",
+        "coordinates": [
+          37.50963,
+          127.109528
+        ],
+        "capacity": 270,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "송파 제2 공영주차장",
+        "coordinates": [
+          37.510488,
+          127.104478
+        ],
+        "capacity": 533,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": true
+      }
+    ]
+  },
   "history_summary": "송파구는 롯데월드타워와 석촌호수, 몽촌토성이 함께한 서울 남동부 대표 자치구이다.",
   "data_sources": [
     {
