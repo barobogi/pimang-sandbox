@@ -215,6 +215,76 @@
       }
     ]
   },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "태백초등학교 운동장",
+        "coordinates": [
+          37.112724,
+          128.90951
+        ],
+        "capacity": 1300,
+        "address": "강원특별자치도 태백시"
+      },
+      {
+        "name": "태백실내체육관",
+        "coordinates": [
+          37.167529,
+          129.002717
+        ],
+        "capacity": 6100,
+        "address": "강원특별자치도 태백시"
+      },
+      {
+        "name": "태백중앙공원 비상집합장소",
+        "coordinates": [
+          37.158914,
+          128.916284
+        ],
+        "capacity": 3000,
+        "address": "강원특별자치도 태백시"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "태백산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "황지연못",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "태백석탄박물관",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "태백시청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "매봉산",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": false,
+        "braille_guide": true
+      }
+    ]
+  },
   "history_summary": "태백시는 해발 700m 고원에 자리한 강원 영동 내륙의 도시로 태백산과 황지연못, 석탄박물관이 대표 명소이다.",
   "data_sources": [
     {
