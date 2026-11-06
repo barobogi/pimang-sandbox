@@ -1,0 +1,596 @@
+{
+  "block_code": "46870",
+  "block_name": "전라남도 영광군",
+  "bbox": [
+    125.674258,
+    35.158232,
+    126.644799,
+    35.54755
+  ],
+  "center": [
+    35.352891,
+    126.159528
+  ],
+  "landmarks": [
+    {
+      "name": "불갑사",
+      "lat": 35.2010964,
+      "lng": 126.5493743,
+      "category": "사찰/문화유산",
+      "description": "불갑사은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B6%88%EA%B0%91%EC%82%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 295.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Replace_this_image_male-ko.svg/1280px-Replace_this_image_male-ko.svg.png"
+    },
+    {
+      "name": "법성포",
+      "lat": 35.3613503,
+      "lng": 126.4398866,
+      "category": "항구/특산물",
+      "description": "법성포은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%B2%95%EC%84%B1%ED%8F%AC",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 268.0
+      },
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%EB%B2%95%EC%84%B1%ED%8F%AC%EB%8B%A8%EC%98%A4%EC%A0%9C.jpg"
+    },
+    {
+      "name": "백수해안 전망대",
+      "lat": 35.323923,
+      "lng": 126.3787146,
+      "category": "해안/드라이브",
+      "description": "백수해안도로은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 300,
+        "pitch": -35,
+        "heading": 279.3
+      }
+    },
+    {
+      "name": "영광군청",
+      "lat": 35.2772832,
+      "lng": 126.5120449,
+      "category": "행정/랜드마크",
+      "description": "영광군청은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 284.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD.jpg/1280px-%EC%98%81%EA%B4%91%EA%B5%B0%EC%B2%AD.jpg"
+    },
+    {
+      "name": "영광시장",
+      "lat": 35.2757725,
+      "lng": 126.5030095,
+      "category": "시장/먹거리",
+      "description": "영광시장은(는) 전라남도 영광군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B4%91%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 285.5
+      }
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "영광 해안 절경 시그니처 드론 플라이트",
+      "description": "백수해안 전망대 → 법성포 → 영광시장 → 영광군청 → 불갑사 순으로 이어지는 전라남도 영광군의 대표 드론 플라이트 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "백수해안 전망대",
+        "법성포",
+        "영광시장",
+        "영광군청",
+        "불갑사"
+      ],
+      "duration_hours": 3.5
+    },
+    {
+      "tour_name": "영광 바다빛 스카이 세일",
+      "description": "백수해안 전망대 → 법성포 → 영광시장 순의 해안 집중 비행 코스. 파도 소리와 함께 해안선의 절경을 낮게 스치듯 비행하며, 영광의 해안 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "백수해안 전망대",
+        "법성포",
+        "영광시장"
+      ],
+      "duration_hours": 2.5
+    },
+    {
+      "tour_name": "영광 도심 활력 에어리얼 코스",
+      "description": "영광시장 → 영광군청 → 불갑사 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 영광의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "영광시장",
+        "영광군청",
+        "불갑사"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "영광 옛맛식당",
+      "lat": 35.275562,
+      "lng": 126.5028,
+      "specialty": "홍어회",
+      "category": "수산물"
+    },
+    {
+      "name": "영광 동네밥집",
+      "lat": 35.275213,
+      "lng": 126.50322,
+      "specialty": "갈치조림",
+      "category": "수산물"
+    },
+    {
+      "name": "영광 본점",
+      "lat": 35.276473,
+      "lng": 126.503079,
+      "specialty": "돔베고기",
+      "category": "향토음식"
+    },
+    {
+      "name": "영광 할매집",
+      "lat": 35.276403,
+      "lng": 126.50252,
+      "specialty": "꼬막비빔밥",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "불갑사",
+        "station_name": "불갑사 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.203496,
+          126.551774
+        ]
+      },
+      {
+        "target_landmark": "법성포",
+        "station_name": "법성포 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.36375,
+          126.442287
+        ]
+      },
+      {
+        "target_landmark": "백수해안 전망대",
+        "station_name": "영광버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.323923,
+          126.377915
+        ]
+      },
+      {
+        "target_landmark": "영광군청",
+        "station_name": "영광군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.279683,
+          126.514445
+        ]
+      },
+      {
+        "target_landmark": "영광시장",
+        "station_name": "영광시장 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 5,
+        "coordinates": [
+          35.278173,
+          126.505409
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "영광 중앙 공영주차장",
+        "coordinates": [
+          35.323923,
+          126.377515
+        ],
+        "capacity": 132,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "영광 제2 공영주차장",
+        "coordinates": [
+          35.36335,
+          126.441887
+        ],
+        "capacity": 75,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "영광 제3 공영주차장",
+        "coordinates": [
+          35.274973,
+          126.50141
+        ],
+        "capacity": 322,
+        "fee_type": "무료",
+        "ev_charging": true
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "영광초등학교 운동장",
+        "coordinates": [
+          35.166018,
+          126.544945
+        ],
+        "capacity": 7200,
+        "address": "전라남도 영광군"
+      },
+      {
+        "name": "영광실내체육관",
+        "coordinates": [
+          35.41063,
+          126.346602
+        ],
+        "capacity": 3600,
+        "address": "전라남도 영광군"
+      },
+      {
+        "name": "영광중앙공원 비상집합장소",
+        "coordinates": [
+          35.376623,
+          126.460441
+        ],
+        "capacity": 4300,
+        "address": "전라남도 영광군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "불갑사",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "법성포",
+        "elevator": false,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "백수해안 전망대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "영광군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      },
+      {
+        "landmark_name": "영광시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "불갑사 봄",
+        "백수해안 전망대 봄"
+      ],
+      "summer": [
+        "법성포 여름",
+        "백수해안 전망대 여름"
+      ],
+      "autumn": [
+        "불갑사 단풍",
+        "백수해안 전망대 가을"
+      ],
+      "winter": [
+        "법성포 겨울",
+        "불갑사 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "백수해안 전망대 야경",
+        "coordinates": [
+          35.323923,
+          126.378715
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      },
+      {
+        "name": "법성포 야경",
+        "coordinates": [
+          35.36135,
+          126.439887
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      }
+    ]
+  },
+  "history_summary": "영광군은 법성포 굴비와 불갑사, 백수해안도로가 자리한 전남 서부 해안의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Yeonggwang-gun, Jeonnam",
+      "landmarks": {
+        "불갑사": [
+          "Bulgapsa Temple",
+          "Signature temple heritage of Yeonggwang-gun, Jeonnam."
+        ],
+        "법성포": [
+          "Beopseongpo Port",
+          "Signature specialty harbor attraction of Yeonggwang-gun, Jeonnam."
+        ],
+        "백수해안 전망대": [
+          "Baeksu Coast Observatory",
+          "Signature coastal drive attraction of Yeonggwang-gun, Jeonnam."
+        ],
+        "영광군청": [
+          "Yeonggwang County Office",
+          "Administrative center of Yeonggwang-gun, Jeonnam."
+        ],
+        "영광시장": [
+          "Yeonggwang Market",
+          "Signature market attraction of Yeonggwang-gun, Jeonnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "全羅南道 靈光郡",
+      "landmarks": {
+        "불갑사": [
+          "仏甲寺",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "법성포": [
+          "法聖浦",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "백수해안 전망대": [
+          "白水海岸展望台",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "영광군청": [
+          "霊光郡庁",
+          "全羅南道霊光郡を代表する名所。"
+        ],
+        "영광시장": [
+          "霊光市場",
+          "全羅南道霊光郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "全罗南道 灵光郡",
+      "landmarks": {
+        "불갑사": [
+          "佛甲寺",
+          "全罗南道灵光郡的代表性古刹。"
+        ],
+        "법성포": [
+          "法圣浦",
+          "全罗南道灵光郡的代表性特产渔港。"
+        ],
+        "백수해안 전망대": [
+          "白水海岸展望台",
+          "全罗南道灵光郡的代表性海岸兜风胜地。"
+        ],
+        "영광군청": [
+          "灵光郡厅",
+          "全罗南道灵光郡的行政中心。"
+        ],
+        "영광시장": [
+          "灵光市场",
+          "全罗南道灵光郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.yeonggwang.go.kr",
+    "civil_service_center": {
+      "location_name": "영광군청 민원실 앞",
+      "coordinates": [
+        126.513162,
+        35.28141
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "061-350-5114",
+      "info": "전라남도 영광군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "영광군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      126.159228,
+      35.352391
+    ],
+    "cctv_zone_count": 331,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "영광군민공원",
+    "trail_length_km": 1.2,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "법성포 단오제",
+    "typical_month": 6,
+    "venue_name": "영광군민운동장",
+    "venue_coords": [
+      126.159028,
+      35.352591
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "영광군 국민체육센터",
+    "sports_types": [
+      "tennis",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      126.510962,
+      35.28301
+    ],
+    "reservation_url": "https://www.yeonggwang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "영광군 안심무인택배보관함 1호점",
+    "kiosk_type": "safe_parcel_locker",
+    "coordinates": [
+      126.513162,
+      35.28131
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "영광군청 공영주차장 급속충전소",
+    "coordinates": [
+      126.510162,
+      35.28181
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 4
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "영광 옛맛식당",
+    "coordinates": [
+      126.5028,
+      35.275562
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "홍어회 (영광군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=영광군청&goalx=126.513162&goaly=35.281410",
+    "kakaonavi_url": "kakaonavi://navigate?name=영광군청&x=126.513162&y=35.281410&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=영광군청&dlng=126.513162&dlat=35.281410&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:39",
+      "sunset": "18:47",
+      "noon_altitude_deg": 54.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:21",
+      "sunset": "19:53",
+      "noon_altitude_deg": 78.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:24",
+      "sunset": "18:32",
+      "noon_altitude_deg": 54.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:41",
+      "sunset": "17:27",
+      "noon_altitude_deg": 31.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "영광군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          126.159678,
+          35.353391
+        ],
+        [
+          126.159228,
+          35.352391
+        ],
+        [
+          126.160028,
+          35.351241
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "영광군 전통시장 만남의거리",
+    "anchor_center": [
+      126.511162,
+      35.282743
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 70,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
