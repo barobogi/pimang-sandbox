@@ -345,5 +345,82 @@
   "contributor": {
     "github_username": "barobogi",
     "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Seongdong-gu, Seoul",
+      "landmarks": {
+        "서울숲": [
+          "Seoul Forest",
+          "Large urban forest in Seongsu-dong with tree groves, ecological wetlands, and dog playgrounds."
+        ],
+        "뚝섬한강공원": [
+          "Ttukseom Hangang Park",
+          "Riverside park on the Han River with swimming pools, sports facilities, and an open-air stage."
+        ],
+        "성수대교": [
+          "Seongsu Bridge",
+          "Han River bridge rebuilt after the 1994 collapse, now a symbol of the Seoul riverfront."
+        ],
+        "왕십리골목시장": [
+          "Wangsimni Alley Market",
+          "Traditional food alley near Wangsimni Station famous for songpyeon rice cakes and spicy stir-fry."
+        ],
+        "성수동 카페거리": [
+          "Seongsu-dong Cafe Street",
+          "Youth culture hotspot of converted shoe factories turned cafes and shops."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "ソウル特別市 城東区",
+      "landmarks": {
+        "서울숲": [
+          "ソウルの森",
+          "聖水洞に造られた都市の森。生態湿地や犬の遊び場などを備えた市民の憩いの場。"
+        ],
+        "뚝섬한강공원": [
+          "纛島漢江公園",
+          "プールや野外舞台を備えた漢江河岸の公園。"
+        ],
+        "성수대교": [
+          "聖水大橋",
+          "1994年の崩落事故後に再建された漢江の橋で、漢江の風景の象徴。"
+        ],
+        "왕십리골목시장": [
+          "王十里路地市場",
+          "松餅やチョッポッキなど食の名物で知られる伝統市場。"
+        ],
+        "성수동 카페거리": [
+          "聖水洞カフェ街",
+          "古い靴工場を改装したカフェやショップが集う若者の文化スポット。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "首尔特别市 城东区",
+      "landmarks": {
+        "서울숲": [
+          "首尔林",
+          "位于圣水洞的大型城市森林，设有生态湿地与宠物乐园，是市民的休憩空间。"
+        ],
+        "뚝섬한강공원": [
+          "纛岛汉江公园",
+          "汉江畔公园，设有泳池、体育设施和露天舞台。"
+        ],
+        "성수대교": [
+          "圣水大桥",
+          "1994年坍塌事故后重建的汉江大桥，已成为汉江风光的象征。"
+        ],
+        "왕십리골목시장": [
+          "往十里巷弄市场",
+          "往十里站附近的传统美食小巷，以松饼和辣炒年糕闻名。"
+        ],
+        "성수동 카페거리": [
+          "圣水洞咖啡街",
+          "旧制鞋厂房改建的咖啡店与店铺聚集的新潮文化街区。"
+        ]
+      }
+    }
   }
 }
