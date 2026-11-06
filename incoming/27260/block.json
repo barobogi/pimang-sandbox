@@ -430,5 +430,46 @@
         ]
       }
     }
+  },
+  "official_administration": {
+    "portal_url": "https://www.suseong.kr",
+    "civil_service_center": {
+      "location_name": "수성구청 민원실 앞",
+      "coordinates": [
+        128.659575,
+        35.833708
+      ],
+      "operating_hours": "09:00 - 18:00"
+    },
+    "representative_contact": {
+      "phone": "053-666-2000",
+      "info": "대구광역시 수성구 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "수성구 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.658475,
+      35.834208
+    ],
+    "cctv_zone_count": 115
+  },
+  "urban_parks_trails": {
+    "park_name": "수성못 공원",
+    "trail_length_km": 2.0,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "수성못 벚꽃축제",
+    "typical_month": 4,
+    "venue_name": "수성못 일대",
+    "venue_coords": [
+      128.658375,
+      35.833608
+    ]
   }
 }
