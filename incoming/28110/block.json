@@ -287,6 +287,46 @@
       }
     ]
   },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "월미도 봄 바다",
+        "차이나타운 봄 거리"
+      ],
+      "summer": [
+        "월미도 여름",
+        "인천 개항장 여름밤"
+      ],
+      "autumn": [
+        "월미도 단풍",
+        "인천 개항장 가을"
+      ],
+      "winter": [
+        "차이나타운 겨울 빛축제",
+        "월미도 설경"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "월미도 야경",
+        "coordinates": [
+          37.47297,
+          126.602828
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "인천 개항장 야경",
+        "coordinates": [
+          37.476,
+          126.622
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:30 - 23:00"
+      }
+    ]
+  },
   "history_summary": "인천 중구는 인천항 개항장과 차이나타운, 월미도가 자리한 인천의 원도심 관광 중심 구이다.",
   "data_sources": [
     {
