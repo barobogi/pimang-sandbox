@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03072_034",
+  "block_id": "03072_HERO_p34_의정부지_발굴유구_터",
+  "name": "의정부지 발굴유구 터",
+  "name_en": "Uijeongbu Site Historic Plaza & Excavated Ruins",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03072",
+  "heritage": {
+    "designation": "국가 사적 제558호",
+    "name": "서울 의정부지 (조선 최고 통치 행정기구 터)"
+  },
+  "coordinates": [
+    126.977824,
+    37.575612
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 광화문-육조거리 의정부 정당 남향 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 의정부지 역사유적광장 지상 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10504,
+      "bytes": 580227
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 360,
+      "bytes": 19936
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "uijeongbu_plaza_ground",
+      "desc": "56m x 48m 역사광장 잔디마당(y=0.0m 스냅) 및 화강암 둘레 보행로"
+    },
+    {
+      "id": "uijeongbu_excavated_ruins_masonry",
+      "desc": "정본당 3단 장대석 기단(24x16m) 및 주초석 24기, 석회당 주초석 16기, 제협당 주초석 12기"
+    },
+    {
+      "id": "uijeongbu_well_and_stone_drain",
+      "desc": "조선 600년 우물터(직경 2.4m 원형 우물틀) 및 42m 석조 배수로 음각 유구"
+    },
+    {
+      "id": "uijeongbu_elevated_viewing_deck",
+      "desc": "유구 상공 0.6m 부유 목재 관람 데크(폭 2.6m, 연장 84m), 강화유리 난간 및 기둥 32기"
+    },
+    {
+      "id": "uijeongbu_landscape_trees_and_kiosks",
+      "desc": "조선 전통 소나무 12본, 쉼터 벤치 6기, 청동 안내 키오스크 4기"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_uijeongbu_deck_jungbondang_view",
+    "anchors": [
+      {
+        "name": "hotspot_uijeongbu_deck_jungbondang_view",
+        "pos": [
+          -3.0,
+          1.2,
+          -2.0
+        ]
+      },
+      {
+        "name": "hotspot_uijeongbu_seokhoedang_view",
+        "pos": [
+          10.0,
+          1.2,
+          2.0
+        ]
+      },
+      {
+        "name": "hotspot_uijeongbu_ancient_well_view",
+        "pos": [
+          -16.0,
+          1.0,
+          12.0
+        ]
+      },
+      {
+        "name": "hotspot_uijeongbu_gwanghwamun_view",
+        "pos": [
+          -3.0,
+          1.2,
+          -16.0
+        ]
+      }
+    ]
+  }
+}
