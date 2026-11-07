@@ -1,0 +1,598 @@
+{
+  "block_code": "48880",
+  "block_name": "경상남도 거창군",
+  "bbox": [
+    127.679079,
+    35.514449,
+    128.095067,
+    35.909944
+  ],
+  "center": [
+    35.712196,
+    127.887073
+  ],
+  "landmarks": [
+    {
+      "name": "수승대",
+      "lat": 35.7597812,
+      "lng": 127.8344671,
+      "category": "경승지/관광",
+      "description": "수승대은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 138.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Suseungdae2.jpg/1280px-Suseungdae2.jpg"
+    },
+    {
+      "name": "덕유산",
+      "lat": 35.8717337,
+      "lng": 127.7701239,
+      "category": "산/국립공원",
+      "description": "덕유산은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0",
+      "camera_view": {
+        "altitude": 420,
+        "pitch": -35,
+        "heading": 149.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Deogyusan_from_Hyangjeok_Peak.jpg/1280px-Deogyusan_from_Hyangjeok_Peak.jpg"
+    },
+    {
+      "name": "거창창포원",
+      "lat": 35.6535267,
+      "lng": 127.9414049,
+      "category": "공원/자연",
+      "description": "거창창포원은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 220,
+        "pitch": -30,
+        "heading": 323.1
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Panoramic_view_of_Geochang-eup.jpg/1280px-Panoramic_view_of_Geochang-eup.jpg"
+    },
+    {
+      "name": "거창군청",
+      "lat": 35.6860981,
+      "lng": 127.9096955,
+      "category": "행정/랜드마크",
+      "description": "거창군청은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 324.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg/1280px-%EA%B3%A0%EC%B0%BD%EA%B0%AF%EB%B2%8C.jpg"
+    },
+    {
+      "name": "거창시장",
+      "lat": 35.712196399999996,
+      "lng": 127.88707295,
+      "category": "시장/먹거리",
+      "description": "거창시장은(는) 경상남도 거창군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EA%B1%B0%EC%B0%BD%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 174.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Panoramic_view_of_Geochang-eup.jpg/1280px-Panoramic_view_of_Geochang-eup.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "거창 도심 하이라이트 시그니처 스카이 투어",
+      "description": "거창시장 → 거창군청 → 거창창포원 → 수승대 → 덕유산 순으로 이어지는 경상남도 거창군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "거창시장",
+        "거창군청",
+        "거창창포원",
+        "수승대",
+        "덕유산"
+      ],
+      "duration_hours": 4.0
+    },
+    {
+      "tour_name": "거창 도심 활력 에어리얼 코스",
+      "description": "수승대 → 거창시장 → 거창군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 거창의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "수승대",
+        "거창시장",
+        "거창군청"
+      ],
+      "duration_hours": 2.0
+    },
+    {
+      "tour_name": "거창 산하 절경 에어리얼 투어",
+      "description": "덕유산 → 수승대 → 거창창포원 순의 자연 집중 비행 코스. 사계절의 빛깔이 얹힌 자연 지형을 완만한 고도로 가르며, 거창의 자연 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "덕유산",
+        "수승대",
+        "거창창포원"
+      ],
+      "duration_hours": 2.5
+    }
+  ],
+  "dining": [
+    {
+      "name": "거창 동네밥집",
+      "lat": 35.711846,
+      "lng": 127.887563,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "거창 큰마당식당",
+      "lat": 35.712756,
+      "lng": 127.887423,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "거창 할매집",
+      "lat": 35.712546,
+      "lng": 127.887423,
+      "specialty": "한과",
+      "category": "전통디저트"
+    },
+    {
+      "name": "거창 솥뚜껑가게",
+      "lat": 35.711776,
+      "lng": 127.886933,
+      "specialty": "멸치볶음",
+      "category": "수산물"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "수승대",
+        "station_name": "수승대 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.760981,
+          127.831667
+        ]
+      },
+      {
+        "target_landmark": "덕유산",
+        "station_name": "덕유산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.872934,
+          127.767324
+        ]
+      },
+      {
+        "target_landmark": "거창창포원",
+        "station_name": "거창창포원 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.654727,
+          127.938605
+        ]
+      },
+      {
+        "target_landmark": "거창군청",
+        "station_name": "거창군청 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.687298,
+          127.906896
+        ]
+      },
+      {
+        "target_landmark": "거창시장",
+        "station_name": "거창버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.713796,
+          127.887873
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "거창 중앙 공영주차장",
+        "coordinates": [
+          35.712196,
+          127.887873
+        ],
+        "capacity": 247,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "거창 제2 공영주차장",
+        "coordinates": [
+          35.685698,
+          127.908895
+        ],
+        "capacity": 127,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      },
+      {
+        "name": "거창 제3 공영주차장",
+        "coordinates": [
+          35.758981,
+          127.834867
+        ],
+        "capacity": 47,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "거창초등학교 운동장",
+        "coordinates": [
+          35.78346,
+          127.806247
+        ],
+        "capacity": 4800,
+        "address": "경상남도 거창군"
+      },
+      {
+        "name": "거창실내체육관",
+        "coordinates": [
+          35.897284,
+          127.797966
+        ],
+        "capacity": 5800,
+        "address": "경상남도 거창군"
+      },
+      {
+        "name": "거창중앙공원 비상집합장소",
+        "coordinates": [
+          35.621292,
+          128.003553
+        ],
+        "capacity": 5500,
+        "address": "경상남도 거창군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "수승대",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "덕유산",
+        "elevator": true,
+        "wheelchair_ramp": false,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거창창포원",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거창군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "거창시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "수승대 봄",
+        "거창창포원 봄"
+      ],
+      "summer": [
+        "수승대 여름 물놀이",
+        "덕유산 계곡 여름"
+      ],
+      "autumn": [
+        "덕유산 단풍",
+        "거창창포원 가을"
+      ],
+      "winter": [
+        "수승대 설경",
+        "거창창포원 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "수승대 야경",
+        "coordinates": [
+          35.759781,
+          127.834467
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      },
+      {
+        "name": "거창창포원 야경",
+        "coordinates": [
+          35.653527,
+          127.941405
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "거창군은 덕유산과 수승대, 거창창포원이 자리한 경남 서북부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Geochang-gun, Gyeongnam",
+      "landmarks": {
+        "수승대": [
+          "Suseungdae",
+          "Signature scenic attraction of Geochang-gun, Gyeongnam."
+        ],
+        "덕유산": [
+          "Deogyusan Mountain",
+          "Signature national park mountain of Geochang-gun, Gyeongnam."
+        ],
+        "거창창포원": [
+          "Geochang Iris Garden",
+          "Signature garden attraction of Geochang-gun, Gyeongnam."
+        ],
+        "거창군청": [
+          "Geochang County Office",
+          "Administrative center of Geochang-gun, Gyeongnam."
+        ],
+        "거창시장": [
+          "Geochang Market",
+          "Signature market attraction of Geochang-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 居昌郡",
+      "landmarks": {
+        "수승대": [
+          "水勝台",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "덕유산": [
+          "徳裕山",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "거창창포원": [
+          "居昌菖蒲園",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "거창군청": [
+          "居昌郡庁",
+          "慶尚南道居昌郡を代表する名所。"
+        ],
+        "거창시장": [
+          "居昌市場",
+          "慶尚南道居昌郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 居昌郡",
+      "landmarks": {
+        "수승대": [
+          "水胜台",
+          "庆尚南道居昌郡的代表性胜景。"
+        ],
+        "덕유산": [
+          "德裕山",
+          "庆尚南道居昌郡的代表性国立公园名山。"
+        ],
+        "거창창포원": [
+          "居昌菖蒲园",
+          "庆尚南道居昌郡的代表性花园。"
+        ],
+        "거창군청": [
+          "居昌郡厅",
+          "庆尚南道居昌郡的行政中心。"
+        ],
+        "거창시장": [
+          "居昌市场",
+          "庆尚南道居昌郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.geochang.go.kr",
+    "civil_service_center": {
+      "location_name": "거창군청 민원실 앞",
+      "coordinates": [
+        127.909706,
+        35.686598
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "055-940-3114",
+      "info": "경상남도 거창군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "거창군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      127.886873,
+      35.712297
+    ],
+    "cctv_zone_count": 304,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "거창군민공원",
+    "trail_length_km": 1.3,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "거창국제연극제",
+    "typical_month": 8,
+    "venue_name": "거창 문화예술회관 일대",
+    "venue_coords": [
+      127.886673,
+      35.712797
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "거창군 국민체육센터",
+    "sports_types": [
+      "soccer",
+      "badminton",
+      "table_tennis"
+    ],
+    "coordinates": [
+      127.912106,
+      35.689598
+    ],
+    "reservation_url": "https://www.geochang.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "거창군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      127.910406,
+      35.683898
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "거창군청 공영주차장 급속충전소",
+    "coordinates": [
+      127.912706,
+      35.688898
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 5
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "거창 큰마당식당",
+    "coordinates": [
+      127.887423,
+      35.712756
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "참게탕 (거창군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=거창군청&goalx=127.909706&goaly=35.686598",
+    "kakaonavi_url": "kakaonavi://navigate?name=거창군청&x=127.909706&y=35.686598&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=거창군청&dlng=127.909706&dlat=35.686598&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:32",
+      "sunset": "18:40",
+      "noon_altitude_deg": 54.3
+    },
+    "summer_solstice": {
+      "sunrise": "05:13",
+      "sunset": "19:47",
+      "noon_altitude_deg": 77.7
+    },
+    "autumn_equinox": {
+      "sunrise": "06:17",
+      "sunset": "18:25",
+      "noon_altitude_deg": 54.3
+    },
+    "winter_solstice": {
+      "sunrise": "07:35",
+      "sunset": "17:19",
+      "noon_altitude_deg": 30.8
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "거창군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          127.886023,
+          35.712697
+        ],
+        [
+          127.886873,
+          35.712297
+        ],
+        [
+          127.886973,
+          35.712097
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "거창군 전통시장 만남의거리",
+    "anchor_center": [
+      127.909239,
+      35.686931
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 280,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
