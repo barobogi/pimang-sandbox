@@ -1,0 +1,471 @@
+{
+ "schema_version": "3.0_jongno_taskb_117spec",
+ "spec_ref": "117_블록_장착_규약_v1_만복_20261107 + TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md §3 수정#2",
+ "composite_id": "11110_03_03188_021",
+ "block_id": "03188_WATER_p21_청계천_단면음각_수로",
+ "name": "청계천 단면음각 수로",
+ "name_en": "Cheonggyecheon Sunken Stream Channel",
+ "category": "CAT03_NATURE_WATER",
+ "postal_code": "03188",
+ "coordinates": [
+  126.9939493,
+  37.5684358
+ ],
+ "coordinates_note": "모델 원점 = 클립된 OSM 중심선의 호길이 중점(지면 중심, y=0). 117호 규약 '모델 원점: 지면 중심' 준수",
+ "orientation_deg": 270.02,
+ "orientation_note": "정북 기준 시계방향. 모델 +X=동, -Z=북(진북 정합). 청계천 본 구간 흐름 방향은 정동(수평 약 2°) → 흐름축 방위 270.02°",
+ "heading": 270.02,
+ "heading_note": "orientation_deg의 레거시 별칭(동일값)",
+ "axis_alignment": {
+  "reference": "OSM Way 368276771 중심선 호길이 중점의 접선 방향",
+  "axis": "+X = 동(흐름 방향), -Z = 북(진북)",
+  "bbox_4corners_wgs84_approx": {
+   "W": [
+    126.9621417,
+    37.5684358
+   ],
+   "E": [
+    127.0198816,
+    37.5684358
+   ]
+  }
+ },
+ "ground": {
+  "mode": "snap_to_terrain",
+  "origin_y_m": 0.0,
+  "note": "모델 원점은 도심 지반 기준면(y=0.0). 수로 전체가 지반 기준면 아래 음각(-2.5m)으로 파이며, 지형 고도는 뷰어 로더가 1회만 합산한다. 블록 파일에 절대 해발고도 없음(117호 규약)."
+ },
+ "depth_negative_elevation": -2.5,
+ "section_profile": {
+  "type": "sunken_5layer_trench",
+  "city_ground_level_y": 0.0,
+  "retaining_wall_top_y": 0.0,
+  "retaining_wall_bottom_y": -2.5,
+  "promenade_y": -1.4,
+  "water_surface_y": -1.9,
+  "stream_bed_y": -2.5,
+  "water_drop_below_wall_top_m": 0.6,
+  "channel_half_width_m": 8.7,
+  "promenade_width_m": 2.6,
+  "water_surface_width_m": 11.9,
+  "note": "-2.5m/‑1.4m/‑1.9m는 117호 발주서 §3 [수정 #2]의 목표 연출값(서울시 공식 공간정보 출처 미확인). 실측 제원 확정 전까지는 발주서 규격값을 연출 기준으로 사용."
+ },
+ "geo_features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      126.9785975,
+      37.5691438
+     ],
+     [
+      126.979219,
+      37.5691184
+     ],
+     [
+      126.9798405,
+      37.5690884
+     ],
+     [
+      126.9804611,
+      37.5690502
+     ],
+     [
+      126.9810806,
+      37.5690017
+     ],
+     [
+      126.9817002,
+      37.5689533
+     ],
+     [
+      126.9823198,
+      37.5689048
+     ],
+     [
+      126.982939,
+      37.5688534
+     ],
+     [
+      126.9835553,
+      37.5687887
+     ],
+     [
+      126.9841595,
+      37.5686693
+     ],
+     [
+      126.9847637,
+      37.5685498
+     ],
+     [
+      126.9853659,
+      37.5684245
+     ],
+     [
+      126.9859617,
+      37.5682807
+     ],
+     [
+      126.9865574,
+      37.5681369
+     ],
+     [
+      126.987175,
+      37.5681039
+     ],
+     [
+      126.9877975,
+      37.568096
+     ],
+     [
+      126.98842,
+      37.5680906
+     ],
+     [
+      126.9890418,
+      37.5680991
+     ],
+     [
+      126.9896633,
+      37.5681284
+     ],
+     [
+      126.9902844,
+      37.5681606
+     ],
+     [
+      126.9909042,
+      37.5682074
+     ],
+     [
+      126.991524,
+      37.5682541
+     ],
+     [
+      126.9921438,
+      37.5683008
+     ],
+     [
+      126.9927636,
+      37.5683473
+     ],
+     [
+      126.9933835,
+      37.5683936
+     ],
+     [
+      126.9940033,
+      37.5684398
+     ],
+     [
+      126.9946232,
+      37.5684861
+     ],
+     [
+      126.9952427,
+      37.568535
+     ],
+     [
+      126.9958611,
+      37.5685918
+     ],
+     [
+      126.9964785,
+      37.5686555
+     ],
+     [
+      126.9970953,
+      37.5687225
+     ],
+     [
+      126.9977116,
+      37.5687929
+     ],
+     [
+      126.9983193,
+      37.5688992
+     ],
+     [
+      126.9989233,
+      37.5690192
+     ],
+     [
+      126.9995274,
+      37.5691392
+     ],
+     [
+      127.0001316,
+      37.5692586
+     ],
+     [
+      127.0007369,
+      37.5693743
+     ],
+     [
+      127.0013423,
+      37.5694901
+     ],
+     [
+      127.0019519,
+      37.5695811
+     ],
+     [
+      127.0025742,
+      37.5695922
+     ],
+     [
+      127.0031968,
+      37.5695971
+     ],
+     [
+      127.0038193,
+      37.5695995
+     ],
+     [
+      127.0044419,
+      37.5696019
+     ],
+     [
+      127.0050642,
+      37.5696155
+     ],
+     [
+      127.0056865,
+      37.5696293
+     ],
+     [
+      127.0063088,
+      37.5696431
+     ],
+     [
+      127.0069304,
+      37.5696701
+     ],
+     [
+      127.0075516,
+      37.5697026
+     ],
+     [
+      127.0081728,
+      37.569735
+     ],
+     [
+      127.0087941,
+      37.5697675
+     ],
+     [
+      127.0093071,
+      37.5697923
+     ]
+    ]
+   },
+   "properties": {
+    "name": "청계천 중심선 (종로구 구간 클립)",
+    "role": "centerline_source_of_truth",
+    "osm_way_id": 368276771,
+    "vertex_count_source": 33,
+    "clipped_length_m": 2740.4,
+    "clip_rule": "종로구 남측 행정경계 바운딩박스(서 126.9621417° ~ 동 127.0198816°) 내로 동서 클립",
+    "source": "OpenStreetMap waterway (ODbL 1.0)",
+    "mesh_binding": "3D 메쉬의 모든 스트립 정점은 이 중심선의 호길이 매개 프레임(점 + 미터 법선)에서 생성 — 임의 직선 박스 아님"
+   }
+  }
+ ],
+ "sources": [
+  {
+   "title": "OpenStreetMap waterway",
+   "id": "way/368276771",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap Nominatim",
+   "id": "relation/2419946 (종로구 행정경계, 클립 기준)",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap ODbL",
+   "id": "bridge way/620634305 (무교로=모전교 교량 구간)",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap ODbL",
+   "id": "bridge way/656122968 (광통교 보행교량 구간)",
+   "verified_at": "2026-11-07"
+  }
+ ],
+ "lod_switch_distance": 250,
+ "water_shader_parameters": {
+  "type": "pbr_planar_reflection",
+  "base_roughness": 0.08,
+  "metallic": 0.0,
+  "normal_scale": 0.35,
+  "uv_scroll_speed": [
+   0.02,
+   0.05
+  ],
+  "reflection_intensity": 0.85,
+  "fresnel_power": 3.0,
+  "tint_rgb": [
+   0.32,
+   0.55,
+   0.62
+  ],
+  "surface_node": "water_surface_ribbon_pbr",
+  "alpha": 0.78
+ },
+ "bridges": [
+  {
+   "name": "모전교",
+   "name_en": "Mojeongyo",
+   "type": "arch_stone",
+   "osm_ref": "way/620634305",
+   "center_wgs84": [
+    126.97929515,
+    37.56914245
+   ],
+   "centerline_offset_m": -3.07,
+   "centerline_dist_m": 3.07,
+   "offset_along_flow_m": -1308.66,
+   "deck_width_m": 12.0,
+   "span_m": 22.5,
+   "anchor": "anchor_bridge_mojeongyo",
+   "note": "무교로 교량(OSM bridge=yes) 중심점 실측 스냅. 아치 석교 모델이 glTF 노드 anchor_bridge_mojeongyo와 1:1 결합"
+  },
+  {
+   "name": "광통교",
+   "name_en": "Gwangtonggyo",
+   "type": "arch_stone",
+   "osm_ref": "way/656122968",
+   "center_wgs84": [
+    126.98103665,
+    37.5690064
+   ],
+   "centerline_offset_m": -0.13,
+   "centerline_dist_m": 0.13,
+   "offset_along_flow_m": -1154.12,
+   "deck_width_m": 12.6,
+   "span_m": 22.5,
+   "anchor": "anchor_bridge_gwangtonggyo",
+   "note": "광통교 역사복원 능석 아치교(신덕왕후 강씨). OSM 보행교량 중심점 실측 스냅 + anchor_bridge_gwangtonggyo 1:1"
+  }
+ ],
+ "hierarchical_components": [
+  {
+   "id": "city_ground_ribbon",
+   "desc": "도심 지반 리본(양안 포장) — OSM 33정점 곡선 중심선 호길이 프레임 기반"
+  },
+  {
+   "id": "retaining_wall_5layer_neg2_5m",
+   "desc": "5중 음각 옹벽 석축(0 → -2.5m) + 슬라브 측면"
+  },
+  {
+   "id": "water_surface_ribbon_pbr",
+   "desc": "PBR 수면 리본(y=-1.9, 반투명 알파 0.78)"
+  },
+  {
+   "id": "stream_bed_gravel_ribbon",
+   "desc": "수로 바닥 자갈 리본(y=-2.5)"
+  },
+  {
+   "id": "coping_stone_rims",
+   "desc": "호안 상단 코핑석 테두리(0 ~ +0.14m)"
+  },
+  {
+   "id": "jingyeomdari_stepping_stones",
+   "desc": "징검다리 2열 9기"
+  },
+  {
+   "id": "stone_arch_bridges_mojeongyo_gwangtonggyo",
+   "desc": "모전교·광통교 아치 석교(아치면+아치링+소피트+상판+난간+교대)"
+  },
+  {
+   "id": "channel_end_cut_sections",
+   "desc": "수로 양 끝 절단면 마감(클립 단면 표시)"
+  }
+ ],
+ "interaction_hotspots": [
+  {
+   "id": "hotspot_jingyeomdari",
+   "label": "징검다리 건너기"
+  },
+  {
+   "id": "hotspot_anchor_bridge_mojeongyo",
+   "label": "모전교 아치 석교"
+  },
+  {
+   "id": "hotspot_anchor_bridge_gwangtonggyo",
+   "label": "광통교 역사복원 아치교"
+  }
+ ],
+ "night_lighting_anchors": [
+  {
+   "id": "night_light_promenade_south_3000K",
+   "note": "남측 수변 산책로 3000K 투광 슬롯"
+  },
+  {
+   "id": "night_light_promenade_north_3000K",
+   "note": "북측 수변 산책로 3000K 투광 슬롯"
+  }
+ ],
+ "key_expansion_rule": "프랙탈 하위 분해: 11110_03_03188_021_01(모전교 교각), _02(광통교 능석 아치), _03(징검다리 세트), _04(벽천 분수대) …",
+ "texture": {
+  "file": "texture_atlas.webp",
+  "size_px": [
+   1024,
+   1024
+  ],
+  "format": "webp_lossy_q88",
+  "quadrants": {
+   "paving_promenade": [
+    0.0,
+    0.0
+   ],
+   "masonry_retaining_wall": [
+    0.5,
+    0.0
+   ],
+   "water_surface": [
+    0.0,
+    0.5
+   ],
+   "gravel_stream_bed": [
+    0.5,
+    0.5
+   ]
+  },
+  "v_axis_contract": "glTF 규약: v=0 = 이미지 최상단 행. 로더가 image_y=512*(1-v) 반전을 적용해도 동일 재질이 나오도록 사분면별 상하 대칭(V-flip 가드) 제작",
+  "vflip_guard_max_row_delta_rgb": {
+   "paving": 9.37,
+   "masonry": 14.23,
+   "water": 12.44,
+   "gravel": 12.81
+  }
+ },
+ "files": {
+  "model_lod3.gltf": {
+   "triangles": 7318,
+   "bytes": 410711
+  },
+  "model_lod2.gltf": {
+   "triangles": 800,
+   "bytes": 52126
+  },
+  "texture_atlas.webp": {
+   "bytes": 194740
+  }
+ },
+ "package_total_bytes": 657577,
+ "references": [
+  "OpenStreetMap Way 368276771 (청계천 waterway=river, ODbL 1.0) — 33정점 WGS84 중심선",
+  "ref/20261107_jongno_current_quality/cheonggyecheon_osm_centerline.geojson",
+  "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md §3 [수정 #2]"
+ ],
+ "generation": {
+  "generator": "Pimang 117-spec Cheonggyecheon sunken channel builder v2.0",
+  "date": "2026-11-07",
+  "author": "barobogi / Pimang"
+ }
+}
