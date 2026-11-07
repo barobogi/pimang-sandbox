@@ -1,0 +1,62 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "composite_id": "11110_03_03188_002",
+  "block_id": "03188_WATER_p23_청계천_수면반사_셰이더",
+  "name": "청계천 수면반사 셰이더",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03188",
+  "coordinates": [
+    126.9782,
+    37.5694
+  ],
+  "orientation_deg": 95.4,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "lowest_geometry_y": -1.8
+  },
+  "water_shader_parameters": {
+    "roughness": 0.06,
+    "reflection": 0.9,
+    "fresnel": 3.2,
+    "alpha": 0.85
+  },
+  "lod_switch_distance": 250,
+  "bbox_local_m": {
+    "min": [
+      -5.5,
+      -1.7999999523162842,
+      -20.200000762939453
+    ],
+    "max": [
+      5.5,
+      2.5,
+      20.0
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_03_03188_002_01",
+      "name": "water_plane",
+      "name_kr": "청계천 PBR 수면 플레인 (-0.8m)"
+    },
+    {
+      "id": "11110_03_03188_002_02",
+      "name": "cascade_waterfall",
+      "name_kr": "청계광장 2단 벽천폭포"
+    },
+    {
+      "id": "11110_03_03188_002_03",
+      "name": "stepping_stones",
+      "name_kr": "수로 횡단 징검다리 석열"
+    }
+  ],
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 62948
+}
