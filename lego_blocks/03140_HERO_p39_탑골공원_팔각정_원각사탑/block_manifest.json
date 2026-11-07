@@ -1,0 +1,130 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03140_039",
+  "block_id": "03140_HERO_p39_탑골공원_팔각정_원각사탑",
+  "name": "탑골공원 팔각정 & 원각사지 십층석탑",
+  "name_en": "Tapgol Park Palgakjeong & Wongaksa Pagoda",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03140",
+  "heritage": {
+    "designation": "사적 제354호 (공원) / 국보 제2호 (석탑) / 서울시 유형문화재 제73호 (팔각정)",
+    "name": "탑골공원 및 원각사지 십층석탑"
+  },
+  "coordinates": [
+    126.988215,
+    37.571412
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 종로-삼일문-팔각정 남북 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 삼일문 진입로 및 팔각정 마당 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 240.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10180,
+      "bytes": 582700
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 2766,
+      "bytes": 113881
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "tapgol_park_ground_and_plinth",
+      "desc": "탑골공원 대지 기단(52x48m, y=0.0m 스냅), 독립선언서 비석, 손병희 선생 동상"
+    },
+    {
+      "id": "palgakjeong_base_and_stairs",
+      "desc": "서울시 유형문화재 제73호 팔각정 2단 화강암 기단 및 4면 돌계단"
+    },
+    {
+      "id": "palgakjeong_dancheong_timber",
+      "desc": "팔각정 배흘림 원목 열주 8기, 계자난간, 다포계 공포대"
+    },
+    {
+      "id": "palgakjeong_octagonal_roof",
+      "desc": "팔각 모임지붕, 3D 둥근 서까래 64기, 상륜부 절병통"
+    },
+    {
+      "id": "wongaksatap_10story_marble_pagoda",
+      "desc": "국보 제2호 원각사지 십층석탑: 3단 아자형 대리석 기단, 10층 탑신 및 옥개석"
+    },
+    {
+      "id": "wongaksatap_glass_protective_pavilion",
+      "desc": "원각사탑 15m 강철 트러스 및 투명 강화유리 보호각"
+    },
+    {
+      "id": "tapgol_samilmun_gate",
+      "desc": "탑골공원 정문 삼일문 3칸 맞배지붕 문루, 열주 8기, 목제 판자문 3조"
+    },
+    {
+      "id": "tapgol_samil_independence_monument_wall",
+      "desc": "3·1운동 10대 독립선언 청동 부조 기념벽(길이 28m)"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_palgakjeong_declaration_view",
+    "anchors": [
+      {
+        "name": "hotspot_palgakjeong_declaration_view",
+        "pos": [
+          -10.0,
+          2.4,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_wongaksatap_marble_relief_view",
+        "pos": [
+          10.0,
+          3.2,
+          -2.8
+        ]
+      },
+      {
+        "name": "hotspot_tapgol_samilmun_entrance",
+        "pos": [
+          0.0,
+          1.2,
+          -22.0
+        ]
+      },
+      {
+        "name": "hotspot_samil_monument_wall_view",
+        "pos": [
+          0.0,
+          1.8,
+          15.0
+        ]
+      }
+    ]
+  }
+}
