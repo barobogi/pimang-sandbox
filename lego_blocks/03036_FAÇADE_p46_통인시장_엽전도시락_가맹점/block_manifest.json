@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03036_046",
+  "block_id": "03036_FAÇADE_p46_통인시장_엽전도시락_가맹점",
+  "name": "통인시장 엽전도시락 가맹점",
+  "name_en": "Tongin Market Brass Coin Lunchbox Alley & Merchant Façades",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03036",
+  "heritage": {
+    "designation": "서촌 전통문화 상권 랜드마크",
+    "name": "통인시장 (1941년 개설 서촌 명물, 전국 유일 엽전 도시락 상설시장)"
+  },
+  "coordinates": [
+    126.970514,
+    37.580841
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 서촌 자하문로-통인시장 골목 남북 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 통인시장 중앙 골목 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 12900,
+      "bytes": 683708
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 360,
+      "bytes": 19120
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "tongin_market_alley_floor",
+      "desc": "통인시장 중앙 골목길(48x24m, y=0.0m 스냅), 배수 트렌치 및 바닥 슬래브 48개소"
+    },
+    {
+      "id": "tongin_brass_coins_and_cauldrons",
+      "desc": "3D 상평통보 엽전 엠블럼 32기, 원조 기름떡볶이 무쇠 솥뚜껑 지짐판 8기 및 손잡이"
+    },
+    {
+      "id": "tongin_merchant_counters",
+      "desc": "가맹점 조리 매대 16개소(스테인리스 상판, 반찬 트레이 32개소)"
+    },
+    {
+      "id": "tongin_lunchbox_cafe_and_facades",
+      "desc": "2층 통도시락 카페(엽전 교환 카운터, 목재 테이블 6기), 가맹점 천막 차양 16개소"
+    },
+    {
+      "id": "tongin_arcade_truss_and_gates",
+      "desc": "상부 아케이드 트러스 지붕(높이 7.2m, 철골 립 16조, 채광 루프), 남북 전통 게이트 문루 2개소"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_tongin_oil_tteokbokki_stall_view",
+    "anchors": [
+      {
+        "name": "hotspot_tongin_oil_tteokbokki_stall_view",
+        "pos": [
+          -2.2,
+          1.1,
+          -15.0
+        ]
+      },
+      {
+        "name": "hotspot_tongin_lunchbox_cafe_view",
+        "pos": [
+          4.5,
+          4.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_tongin_market_alley_crossroad_view",
+        "pos": [
+          0.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_tongin_south_gate_view",
+        "pos": [
+          0.0,
+          1.2,
+          22.0
+        ]
+      }
+    ]
+  }
+}
