@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03072_033",
+  "block_id": "03072_HERO_p33_광화문_월대_해태상",
+  "name": "광화문 월대 & 해태상",
+  "name_en": "Gwanghwamun Woldae Platform & Haetae Statues",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03072",
+  "heritage": {
+    "designation": "국가사적 제117호 경복궁 정문 의전 공간",
+    "name": "광화문 월대 및 해태 석상 한 쌍 (2023년 역사 복원)"
+  },
+  "coordinates": [
+    126.976815,
+    37.575812
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 광화문-경복궁 근정전-광화문광장 남북 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 광화문 월대 앞 광화문광장 북단 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 280.0,
+    "lod2_distance": 900.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10396,
+      "bytes": 563613
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 384,
+      "bytes": 22231
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "woldae_plaza_ground",
+      "desc": "광화문 앞 56m x 36m 광장 대지(y=0.0m 스냅) 및 화강암 박석 슬래브 64개소"
+    },
+    {
+      "id": "woldae_granite_platform_and_stairs",
+      "desc": "3단 화강암 월대 본체(29.7x42m, 높이 0.75m), 외벽 장대석 96개소, 3단 어도계단 및 동서계단"
+    },
+    {
+      "id": "woldae_royal_eodo_path",
+      "desc": "중앙 폭 7.0m 왕의 길 어도(御道, Y=+0.82m) 및 박석 테셀레이션 64개소"
+    },
+    {
+      "id": "woldae_haetae_sculptures_pair",
+      "desc": "남단 좌우 원형 복원 해태 석상 한 쌍(3단 화강암 좌대 및 서수 조각상 높이 2.4m)"
+    },
+    {
+      "id": "woldae_granite_balustrades",
+      "desc": "월대 둘레 32기 화강석 난간석(난간동자, 난간대, 하엽, 엄지기둥 4기)"
+    },
+    {
+      "id": "woldae_trees_and_guideposts",
+      "desc": "광화문광장 북단 조경 소나무 8본, 청동 안내 키오스크 4기"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_woldae_eodo_gwanghwamun_view",
+    "anchors": [
+      {
+        "name": "hotspot_woldae_eodo_gwanghwamun_view",
+        "pos": [
+          0.0,
+          1.5,
+          18.0
+        ]
+      },
+      {
+        "name": "hotspot_haetae_statue_closeup_view",
+        "pos": [
+          -6.5,
+          1.8,
+          23.0
+        ]
+      },
+      {
+        "name": "hotspot_woldae_center_looking_gate_view",
+        "pos": [
+          0.0,
+          1.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_sajikro_crosswalk_view",
+        "pos": [
+          0.0,
+          0.8,
+          24.0
+        ]
+      }
+    ]
+  }
+}
