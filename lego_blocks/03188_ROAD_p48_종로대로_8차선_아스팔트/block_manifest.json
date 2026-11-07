@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03188_048",
+  "block_id": "03188_ROAD_p48_종로대로_8차선_아스팔트",
+  "name": "종로대로 8차선 아스팔트 & 중앙버스전용차로",
+  "name_en": "Jongno-daero 8-Lane Boulevard & BRT Station",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "조선 600년 한양 동서 주간선 도로망",
+    "name": "종로대로 8차선 및 중앙버스전용차로 (광화문-동대문 관통 도심 간선 동맥)"
+  },
+  "coordinates": [
+    126.992521,
+    37.570189
+  ],
+  "orientation_deg": 84.5,
+  "heading": 84.5,
+  "heading_note": "정북 기준 시계방향 84.5° = 종로대로 동서 주행 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 종로대로 아스팔트 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.12,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10452,
+      "bytes": 553423
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 396,
+      "bytes": 20559
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "jongno_asphalt_road",
+      "desc": "왕복 8차선 아스팔트 차도(48x26m, y=0.0m 스냅), 황색 복선 중앙선, 파란 BRT 차선, 점선, 대형 횡단보도 24블록"
+    },
+    {
+      "id": "jongno_sidewalks",
+      "desc": "남북 양측 보도(각 48x5.0m, 높이 0.22m), 화강석 연석 64개소 테셀레이션, 점자 유도선 46m 2열"
+    },
+    {
+      "id": "jongno_brt_bus_shelters",
+      "desc": "중앙버스정류소 아일랜드(32x3.2m), 스마트 쉘터 2개소(철골 기둥 12기, 캔틸레버 루프, 방풍벽, 온열 벤치 4기, BIT)"
+    },
+    {
+      "id": "jongno_street_furniture",
+      "desc": "종로 상징 은행나무 가로수 8본(수목보호대 8개소), 클래식 가로등 6기, 안전 볼라드 16기, 따릉이 거치대 10기"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_jongno_brt_bus_shelter_view",
+    "anchors": [
+      {
+        "name": "hotspot_jongno_brt_bus_shelter_view",
+        "pos": [
+          -12.0,
+          1.4,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_jongno_crosswalk_center_view",
+        "pos": [
+          16.0,
+          1.4,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_jongno_sidewalk_ginkgo_view",
+        "pos": [
+          0.0,
+          1.4,
+          -15.5
+        ]
+      },
+      {
+        "name": "hotspot_jongno_daero_axis_view",
+        "pos": [
+          -20.0,
+          1.4,
+          6.0
+        ]
+      }
+    ]
+  }
+}
