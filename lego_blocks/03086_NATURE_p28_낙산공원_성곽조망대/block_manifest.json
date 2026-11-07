@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03086_028",
+  "block_id": "03086_NATURE_p28_낙산공원_성곽조망대",
+  "name": "낙산공원 성곽조망대",
+  "name_en": "Naksan Park Seoul City Wall Observatory",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03086",
+  "heritage": {
+    "designation": "사적 제10호",
+    "name": "서울 한양도성 낙산 구간"
+  },
+  "coordinates": [
+    127.007812,
+    37.580415
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 낙산 능선-한양도성 성곽 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 낙산 성곽길 남측 시점 노면 기준(y=0.0, 북측 능선 y=+2.8m 완경사). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11314,
+      "bytes": 595888
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 1380,
+      "bytes": 58084
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "naksan_ridge_trail_and_ground",
+      "desc": "낙산 능선 탐방로(폭 6m, 길이 64m), 화강암 박석 32개소, 목재 안전 난간"
+    },
+    {
+      "id": "naksan_city_wall_masonry",
+      "desc": "한양도성 성벽(길이 64m, 높이 3.6m): 태조·세종·숙종 3대 축성 시기별 성돌 고증 및 업라이트 조명 16개소"
+    },
+    {
+      "id": "naksan_parapet_yeojang",
+      "desc": "상부 여장(女墻) 16개소(두께 0.75m), 옥개석, 근총안·원총안 총구 32개소"
+    },
+    {
+      "id": "naksan_observatory_deck_plaza",
+      "desc": "낙산 정상 전망 데크(10m x 12m), 전망 정자, 휴식 벤치 4기"
+    },
+    {
+      "id": "naksan_pavilion_roof",
+      "desc": "전망 정자 모임지붕 및 절병통"
+    },
+    {
+      "id": "naksan_ridge_pine_trees",
+      "desc": "낙산 능선 적송 소나무 12본"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_naksan_citywall_nightview",
+    "anchors": [
+      {
+        "name": "hotspot_naksan_citywall_nightview",
+        "pos": [
+          0.6,
+          5.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_naksan_observatory_deck_view",
+        "pos": [
+          -8.0,
+          3.3,
+          16.0
+        ]
+      },
+      {
+        "name": "hotspot_citywall_trail_perspective",
+        "pos": [
+          -4.0,
+          0.8,
+          -26.0
+        ]
+      },
+      {
+        "name": "hotspot_naksan_ridge_pine_walk",
+        "pos": [
+          -5.0,
+          2.8,
+          20.0
+        ]
+      }
+    ]
+  }
+}
