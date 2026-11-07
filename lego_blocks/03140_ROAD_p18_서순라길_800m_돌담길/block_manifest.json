@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_02_03140_018",
+  "block_id": "03140_ROAD_p18_서순라길_800m_돌담길",
+  "name": "서순라길 800m 돌담길",
+  "name_en": "Seosunra-gil Historic Stone Wall Walkway",
+  "category": "CAT02_TRADITIONAL_ALLEY",
+  "postal_code": "03140",
+  "heritage": {
+    "designation": "서울시 역사문화특화거리",
+    "name": "종묘 서순라길 돌담길"
+  },
+  "coordinates": [
+    126.993415,
+    37.574218
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-종묘 서벽 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 서순라길 보행로 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 200,
+  "lod_thresholds_m": {
+    "lod3_distance": 220.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10044,
+      "bytes": 490719
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 1392,
+      "bytes": 58656
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "seosunra_granite_roadway",
+      "desc": "4.4m 폭 화강암 박석 보행로, 빗물 배수 측구, 디딤돌 32개소, 전통 볼라드 및 목재 벤치"
+    },
+    {
+      "id": "jongmyo_west_sagwaseok_wall",
+      "desc": "종묘 서벽 사고석 돌담(길이 64m, 높이 3.2m), 하부 장대석 기단 및 종묘 소나무림 8본"
+    },
+    {
+      "id": "jongmyo_west_wall_giwa_roof",
+      "desc": "돌담 상부 한식 기와 갓, 64기 3D 서까래 및 용마루"
+    },
+    {
+      "id": "seosunra_hanok_shops_facade",
+      "desc": "서측 한옥 개조 공방·카페 4채 파사드(통유리 쇼윈도, 원목 기둥 20기, 황동 간판)"
+    },
+    {
+      "id": "seosunra_shops_giwa_roof",
+      "desc": "한옥 상가 팔작지붕 4개동 및 처마 밑 서까래 80기"
+    },
+    {
+      "id": "seosunra_sunragun_heritage_post",
+      "desc": "순라군 역사 쉼터: 조선시대 순라군 깃대, 깃발 및 역사안내판"
+    },
+    {
+      "id": "seosunra_cafe_interior_and_bench",
+      "desc": "1인칭 다이빙: 한옥 카페 창가 바 테이블 돌담 조망 뷰 & 노천 벤치 뷰"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_seosunra_cafe_window_view",
+    "anchors": [
+      {
+        "name": "hotspot_seosunra_cafe_window_view",
+        "pos": [
+          -3.4,
+          1.2,
+          8.0
+        ]
+      },
+      {
+        "name": "hotspot_stonewall_bench_rest_view",
+        "pos": [
+          1.6,
+          0.8,
+          8.0
+        ]
+      },
+      {
+        "name": "hotspot_seosunra_walkway_perspective",
+        "pos": [
+          0.0,
+          1.2,
+          -28.0
+        ]
+      },
+      {
+        "name": "hotspot_craft_workshop_entrance",
+        "pos": [
+          -2.6,
+          1.2,
+          -8.0
+        ]
+      }
+    ]
+  }
+}
