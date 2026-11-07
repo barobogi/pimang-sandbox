@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03188_021",
+  "block_id": "03188_WATER_p21_삼청동천_복개구간_유로",
+  "name": "삼청동천 복개구간 유로",
+  "name_en": "Samcheongdongcheon Stream Culvert & Old Watercourse",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "조선 한양 역사지천 유구 및 삼청동 문화예술거리",
+    "name": "삼청동천 복개 암거, 지하 1.2m 석조 호안 옹벽 유구, 지표 강화유리 관람창"
+  },
+  "coordinates": [
+    126.982145,
+    37.584512
+  ],
+  "orientation_deg": 12.0,
+  "heading": 12.0,
+  "heading_note": "정북 기준 시계방향 12.0° = 삼청로 도로 및 북악산 발원 삼청동천 물길 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 삼청로 도로면 기저 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10792,
+      "bytes": 589336
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 384,
+      "bytes": 20014
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "samcheong_street_and_culvert",
+      "desc": "지표 도로면(48x26m), 지하 Y=-1.8m 조선 석조 호안 옹벽 유구(길이 48m), 장대석 5단 테셀레이션 240개소, 보도블록 128개소"
+    },
+    {
+      "id": "samcheong_hanok_facade",
+      "desc": "삼청동 한옥 갤러리 & 카페 파사드 4채(10.5x5.5x4.2m), 팔작 기와지붕, 처마 밑 3D 서까래 96기, 통유리 쇼윈도"
+    },
+    {
+      "id": "samcheong_glass_and_stream",
+      "desc": "지하 Y=-1.7m 삼청동천 맑은 수류(길이 48m), 지표면 강화유리 관람창 2개소(3.2x2.4m), 스틸 서포트 프레임"
+    },
+    {
+      "id": "samcheong_brass_inlay",
+      "desc": "황동 물길 유로 인레이 띠 48m, 은행나무 가로수 6본, 수목보호대, 가로등 4기, 볼라드 12기, 카페 테라스 8개소"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_samcheong_glass_window_view",
+    "anchors": [
+      {
+        "name": "hotspot_samcheong_glass_window_view",
+        "pos": [
+          -12.0,
+          1.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_samcheong_underground_culvert_view",
+        "pos": [
+          0.0,
+          -1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_samcheong_gallery_terrace_view",
+        "pos": [
+          -16.0,
+          1.5,
+          5.5
+        ]
+      },
+      {
+        "name": "hotspot_samcheong_upstream_street_view",
+        "pos": [
+          22.0,
+          1.5,
+          -6.0
+        ]
+      }
+    ]
+  }
+}
