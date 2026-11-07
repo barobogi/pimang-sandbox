@@ -1,0 +1,56 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "composite_id": "11110_03_03188_003",
+  "block_id": "03188_HERO_p22_청계천_22개교각_다리",
+  "name": "청계천 22개교각 다리",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03188",
+  "coordinates": [
+    126.9805,
+    37.5691
+  ],
+  "orientation_deg": 95.4,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "lowest_geometry_y": -1.8
+  },
+  "lod_switch_distance": 250,
+  "bbox_local_m": {
+    "min": [
+      -5.199999809265137,
+      -1.899999976158142,
+      -16.100000381469727
+    ],
+    "max": [
+      5.199999809265137,
+      1.4500000476837158,
+      16.100000381469727
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_03_03188_003_01",
+      "name": "gwangtong_bridge",
+      "name_kr": "광통교 2경간 홍예 아치석교 및 신장석"
+    },
+    {
+      "id": "11110_03_03188_003_02",
+      "name": "mojeon_bridge",
+      "name_kr": "모전교 현대식 보행석교"
+    },
+    {
+      "id": "11110_03_03188_003_03",
+      "name": "jangtong_bridge",
+      "name_kr": "장통교 목조·석조 혼합형 교각"
+    }
+  ],
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 64032
+}
