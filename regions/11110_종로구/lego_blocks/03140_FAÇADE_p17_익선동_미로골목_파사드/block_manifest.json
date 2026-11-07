@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_02_03140_017",
+  "block_id": "03140_FAÇADE_p17_익선동_미로골목_파사드",
+  "name": "익선동 미로골목 파사드",
+  "name_en": "Ikseon-dong Hanok Maze Alley Facades",
+  "category": "CAT02_TRADITIONAL_ALLEY",
+  "postal_code": "03140",
+  "heritage": {
+    "designation": "서울시 근대 도시형 한옥 보존구역",
+    "name": "익선동 한옥마을"
+  },
+  "coordinates": [
+    126.989712,
+    37.574421
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-한양도성 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 익선동 미로골목 바닥 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.12,
+  "lod_switch_distance": 180,
+  "lod_thresholds_m": {
+    "lod3_distance": 200.0,
+    "lod2_distance": 700.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11572,
+      "bytes": 520190
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 4092,
+      "bytes": 164323
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "ikseon_maze_alley_pavement",
+      "desc": "폭 2.2m T자형 적벽돌 미로 골목, 벽돌 블록 48개소, 에디슨 전구 스트링 라이트 6개소"
+    },
+    {
+      "id": "ikseon_urban_hanok_structures",
+      "desc": "1920년대 근대 도시형 한옥 6채 목구조, 통유리 개방형 쇼윈도 및 원목 기둥 18기"
+    },
+    {
+      "id": "ikseon_brick_walls_and_courtyards",
+      "desc": "도시형 한옥 적벽돌 기단(두께 0.25m, 높이 1.1m) 및 중정 담장"
+    },
+    {
+      "id": "ikseon_hanok_giwa_roofs",
+      "desc": "도시형 한옥 팔작·ㅁ자 중정 기와지붕 6개동 및 처마 밑 서까래 144기"
+    },
+    {
+      "id": "ikseon_cafe_courtyard_interior",
+      "desc": "1인칭 다이빙: H2 한옥 베이커리 카페 실내 중정 디딤돌 6개소 및 원목 테이블·체어"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_ikseondong_courtyard_cafe_view",
+    "anchors": [
+      {
+        "name": "hotspot_ikseondong_courtyard_cafe_view",
+        "pos": [
+          -11.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_ikseondong_maze_junction_view",
+        "pos": [
+          0.0,
+          1.2,
+          2.0
+        ]
+      },
+      {
+        "name": "hotspot_ikseondong_north_alley_entrance",
+        "pos": [
+          0.0,
+          1.2,
+          -22.0
+        ]
+      },
+      {
+        "name": "hotspot_ikseondong_bakery_showwindow",
+        "pos": [
+          -1.6,
+          1.2,
+          0.0
+        ]
+      }
+    ]
+  }
+}
