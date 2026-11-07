@@ -1,0 +1,159 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_02_03053_003",
+  "block_id": "03053_TRAD_p13_북촌_백인제가옥",
+  "name": "북촌 백인제가옥 (민속문화재)",
+  "category": "CAT02_TRAD_ESTATE",
+  "postal_code": "03053",
+  "coordinates": {
+    "lat": 37.5818,
+    "lng": 126.984
+  },
+  "heading": 172.5,
+  "base_plinth_height_m": 1.8,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "base_y": 0.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -18.5,
+      0.0,
+      -18.5
+    ],
+    "max": [
+      18.5,
+      9.2,
+      18.5
+    ]
+  },
+  "lod_switch_distance": {
+    "lod3_to_lod2_m": 45.0,
+    "lod2_to_lod1_m": 120.0
+  },
+  "hierarchical_components": [
+    {
+      "id": "baekinje_ground_and_courtyards",
+      "level": 1,
+      "triangles": 480,
+      "description": "대지 베이스, 안채/사랑채 안마당 및 후원 언덕 테라스와 화강암 돌계단 3개소, 연못 석조"
+    },
+    {
+      "id": "baekinje_sarangchae_plinths",
+      "level": 2,
+      "triangles": 420,
+      "description": "사랑채 높은 장대석 기단 및 2층 누마루 하부 화강암 석주 12기"
+    },
+    {
+      "id": "baekinje_sarangchae_timbers",
+      "level": 2,
+      "triangles": 1960,
+      "description": "사랑채 목조 기둥 24열주, 대청마루, 유리 장지문 및 2층 누마루 아자살 난간"
+    },
+    {
+      "id": "baekinje_sarangchae_rafters",
+      "level": 3,
+      "triangles": 3840,
+      "description": "사랑채 처마 밑 3D 둥근 서까래 80기 입체 배열"
+    },
+    {
+      "id": "baekinje_sarangchae_roof",
+      "level": 3,
+      "triangles": 4640,
+      "description": "사랑채 대형 팔작지붕 및 2층 누마루 상부 팔작지붕 앙서 곡선 처마"
+    },
+    {
+      "id": "baekinje_anchae_plinths",
+      "level": 2,
+      "triangles": 320,
+      "description": "안채 및 날개채 장대석 기단"
+    },
+    {
+      "id": "baekinje_anchae_timbers",
+      "level": 2,
+      "triangles": 1680,
+      "description": "안채 안방/대청, 서측 날개채 및 사랑채 연결 복도"
+    },
+    {
+      "id": "baekinje_anchae_rafters",
+      "level": 3,
+      "triangles": 3360,
+      "description": "안채 및 날개채 처마 밑 3D 둥근 서까래 70기"
+    },
+    {
+      "id": "baekinje_anchae_roof",
+      "level": 3,
+      "triangles": 3820,
+      "description": "안채 본동 대형 팔작지붕 및 날개채 맞배지붕"
+    },
+    {
+      "id": "baekinje_byeoldang_pavilion",
+      "level": 2,
+      "triangles": 740,
+      "description": "후원 언덕 상부 프라이빗 별당채 누각"
+    },
+    {
+      "id": "baekinje_byeoldang_rafters",
+      "level": 3,
+      "triangles": 1536,
+      "description": "별당채 처마 밑 서까래 32기"
+    },
+    {
+      "id": "baekinje_byeoldang_roof",
+      "level": 3,
+      "triangles": 1420,
+      "description": "별당채 날렵한 팔작지붕"
+    },
+    {
+      "id": "baekinje_traditional_garden_walls",
+      "level": 1,
+      "triangles": 540,
+      "description": "외곽 사고석 담장 및 정원 수석/괴석 연못 석조 및 석등 4기"
+    },
+    {
+      "id": "baekinje_garden_lanterns_and_gate",
+      "level": 4,
+      "triangles": 480,
+      "description": "솟을대문 정문 및 홍청 비단 청사초롱 2쌍"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_sarangchae_numaru",
+      "label": "사랑채 2층 누마루 조망"
+    },
+    {
+      "id": "hotspot_anchae_courtyard",
+      "label": "안채 안마당"
+    },
+    {
+      "id": "hotspot_byeoldang_garden",
+      "label": "후원 별당채 정원"
+    },
+    {
+      "id": "hotspot_traditional_pond",
+      "label": "전통 정원 연못"
+    },
+    {
+      "id": "anchor_baekinje_main_gate",
+      "label": "백인제가옥 솟을대문 정문"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_02_03053_003_01(사랑채 누마루), _02(안채 안마당), _03(후원 별당채) 등",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 10582
+    },
+    "model_lod2.gltf": {
+      "triangles": 1080
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "서울특별시 민속문화재 제22호 북촌 백인제 가옥 정밀 실측조사 보고서",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md 종로 12종 발주서 #7"
+  ]
+}
