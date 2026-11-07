@@ -1,0 +1,101 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_03_03188_021",
+  "block_id": "03188_WATER_p21_청계천_단면음각_수로",
+  "name": "청계천 단면음각 수로",
+  "category": "CAT03_NATURE_WATER",
+  "postal_code": "03188",
+  "coordinates": [
+    126.97793,
+    37.5692
+  ],
+  "heading": 262.0,
+  "elevation_asl": 18.0,
+  "depth_negative_elevation": -2.5,
+  "section": "청계광장 ~ 모전교 ~ 광통교",
+  "lod_switch_distance": 250,
+  "water_shader_parameters": {
+    "type": "pbr_planar_reflection",
+    "base_roughness": 0.08,
+    "metallic": 0.0,
+    "normal_scale": 0.35,
+    "uv_scroll_speed": [
+      0.02,
+      0.05
+    ],
+    "reflection_intensity": 0.85,
+    "fresnel_power": 3.0,
+    "tint_rgb": [
+      0.32,
+      0.55,
+      0.62
+    ]
+  },
+  "bridges": [
+    {
+      "name": "모전교",
+      "offset_along_flow_m": 0.0,
+      "type": "arch_stone",
+      "anchor": "anchor_bridge_mojeongyo"
+    },
+    {
+      "name": "광통교",
+      "offset_along_flow_m": -90.0,
+      "type": "arch_stone",
+      "anchor": "anchor_bridge_gwangtonggyo"
+    }
+  ],
+  "hierarchical_components": [
+    {
+      "id": "retaining_wall_stone_chute_neg2_5m",
+      "desc": "-2.5m ㄷ자형 음각 단면 + 양측 옹벽 석축"
+    },
+    {
+      "id": "channel_bed_du_shape",
+      "desc": "수로 바닥 석축 바닥판"
+    },
+    {
+      "id": "streamside_promenade_walkway",
+      "desc": "수변 산책로(양측, 수면 위 1.4m)"
+    },
+    {
+      "id": "stone_arch_bridges_mojeongyo_gwangtonggyo",
+      "desc": "모전교·광통교 아치 석교 + 수중 교각 기단"
+    },
+    {
+      "id": "jingyeomdari_stepping_stones",
+      "desc": "징검다리 2열 20기"
+    },
+    {
+      "id": "water_surface_plane",
+      "desc": "PBR 수면 반사 플레인"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_jingyeomdari",
+      "label": "징검다리 건너기"
+    },
+    {
+      "id": "hotspot_baekcheon_fountain_wall",
+      "label": "벽천 폭포 분수대"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_03_03188_021_01(모전교 교각), _02(광통교 아치) 등 무한 분해",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 528
+    },
+    "model_lod2.gltf": {
+      "triangles": 144
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "서울시 청계천 복원(2005) 구간 자료 - 청계광장~광통교",
+    "TASK_REQUEST_20261107_JONGNO_LEGO_PRIORITY12.md 1차 최우선 12대 #7"
+  ]
+}

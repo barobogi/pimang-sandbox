@@ -1,0 +1,418 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_ref": "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117 §3 [수정 #1]",
+  "composite_id": "11110_01_03045_001",
+  "block_id": "03045_HERO_p01_경복궁_근정전",
+  "name": "경복궁 근정전",
+  "name_en": "Geunjeongjeon Hall, Gyeongbokgung Palace",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03045",
+  "heritage": {
+    "designation": "국보",
+    "number": 223,
+    "name": "경복궁 근정전"
+  },
+  "coordinates": [
+    126.977017,
+    37.57861
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "heading은 orientation_deg의 레거시 별칭(동일값). 정북 기준 시계방향 174.2° = 한양도성·경복궁 중심축",
+  "axis_alignment": {
+    "reference": "한양도성 축선(경복궁 중심축, 광화문-근정문-근정전-사정전)",
+    "orientation_deg": 174.2,
+    "bbox_4corners_wgs84_approx": {
+      "NW": [
+        126.97515,
+        37.57995
+      ],
+      "NE": [
+        126.97899,
+        37.57995
+      ],
+      "SW": [
+        126.97515,
+        37.57727
+      ],
+      "SE": [
+        126.97899,
+        37.57727
+      ]
+    }
+  },
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "note": "모델 원점은 월대 하단 기단 밑바닥(y=0.0). 지형 고도는 뷰어 로더가 1회만 합산하며 블록 파일에는 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 3.5,
+  "lod_switch_distance": 250,
+  "spec_dimensions_m": {
+    "woldae_lower": {
+      "width": 60.0,
+      "depth": 40.0
+    },
+    "woldae_upper": {
+      "width": 50.0,
+      "depth": 32.0
+    },
+    "woldae_total_height": 3.5,
+    "woldae_tier_heights": [
+      1.75,
+      1.75
+    ],
+    "hall_body": {
+      "width": 30.0,
+      "depth": 21.0,
+      "column_bays": "7칸 x 4열(28기)"
+    },
+    "total_height_to_ridge_m": 22.5,
+    "roof_tiers": 2,
+    "proportion_note": "근정문(문루 포함 10~12m) 대비 1.9~2.25배 — 문이 정전보다 커 보이던 주객전도 해소"
+  },
+  "bbox_local_m": {
+    "min": [
+      -30.0,
+      0.0,
+      -20.0
+    ],
+    "max": [
+      30.0,
+      22.5,
+      32.9
+    ],
+    "size": [
+      60.0,
+      22.5,
+      52.9
+    ],
+    "core_min": [
+      -30.0,
+      0.0,
+      -20.0
+    ],
+    "core_max": [
+      30.0,
+      22.5,
+      20.0
+    ],
+    "note": "X폭 60m·높이 22.5m는 국보 제원 그대로. Z는 월대 40m + 남측 조정(품계석·드므·행각) 12.85m."
+  },
+  "roof_structure": {
+    "tiers": 2,
+    "lower_band_roof": {
+      "node": "lower_roof_band_surface",
+      "eave_extent_m": [
+        41.2,
+        29.8
+      ],
+      "eave_y_m": 13.35,
+      "inner_extent_m": [
+        24.9,
+        15.9
+      ],
+      "inner_y_m": 16.9,
+      "profile": "h(t)=0.30t+0.70t^2.7",
+      "corner_lift_m": 2.0
+    },
+    "gongpo_band": {
+      "node": "upper_story_pobyeok_wall",
+      "y_m": [
+        16.9,
+        18.4
+      ],
+      "height_m": 1.5,
+      "note": "하층 지붕과 상층 지붕 사이 포벽+공포 기둥+공포 세트 층. 하층 처마(y13.35)와 상층 처마(y18.4) 사이 5.05m 간격으로 원거리에서도 2단 실루엣이 분리되어 보인다."
+    },
+    "upper_paljak_roof": {
+      "node": "upper_roof_paljak_surface",
+      "eave_extent_m": [
+        29.6,
+        21.2
+      ],
+      "eave_y_m": 18.4,
+      "ridge_len_m": 10.0,
+      "ridge_y_m": 21.4,
+      "profile": "h(t)=0.30t+0.70t^2.7",
+      "corner_lift_m": 1.75
+    },
+    "eave_curve_formula": "h(t) = 0.30t + 0.70t^2.7",
+    "corner_sweep": "코너까지 최대 2.0m(하층)/1.75m(상층) 상승, 가장자리 중앙은 0 — 네 귀퉁이 날렵한 앙곡",
+    "normal_policy": "지붕면(lower_roof_band_surface, upper_roof_paljak_surface) 법선 100% 상향(y>0). 지붕 단면(서까래/부연)은 별도 노드로 분리."
+  },
+  "texture": {
+    "file": "texture_atlas.webp",
+    "size_px": 1024,
+    "format": "webp_lossy_q88",
+    "uv_origin": "glTF 규약상 v=0은 이미지 최상단 행. WebGL 업로드 시 flipY=false(또는 등가)로 로드해야 한다.",
+    "quadrants_px": {
+      "roof_tile_giwa": {
+        "x": [
+          0,
+          512
+        ],
+        "y": [
+          0,
+          512
+        ],
+        "uv_origin": [
+          0.0,
+          0.0
+        ]
+      },
+      "gold_bronze": {
+        "x": [
+          512,
+          1024
+        ],
+        "y": [
+          0,
+          512
+        ],
+        "uv_origin": [
+          0.5,
+          0.0
+        ]
+      },
+      "granite": {
+        "x": [
+          0,
+          512
+        ],
+        "y": [
+          512,
+          1024
+        ],
+        "uv_origin": [
+          0.0,
+          0.5
+        ]
+      },
+      "dancheong": {
+        "x": [
+          512,
+          1024
+        ],
+        "y": [
+          512,
+          1024
+        ],
+        "uv_origin": [
+          0.5,
+          0.5
+        ]
+      }
+    },
+    "sampling_window_uv": [
+      0.04,
+      0.48
+    ],
+    "pattern_period_px": 225,
+    "pattern_period_note": "UV 사용창 225px를 정확히 나누는 주기(25/45/15px)로 그려 타일 이음새 없음",
+    "v_axis_verification": {
+      "method": "빌드 후 WebP를 디코드해 각 사분면 사용창(UV 0.04~0.48)과 그 V반전 거울창의 평균 RGB를 실측·대조",
+      "result": "PASS — 상단 흑회색 기와 / 하단 화강암 정합 (verify_block.py atlas 4종 검사)",
+      "v_flip_guard": "사분면을 수평 중심선 기준 상하 대칭으로 제작하여 image_y = 512*(1-v) 반전 로더와 glTF 정방향 로더 어느 쪽에서도 같은 재질이 샘플링된다(4사분면 x 2해석 = 8검사 PASS)."
+    }
+  },
+  "detail_counts": {
+    "woldae_stone_balustrade_posts": 146,
+    "woldae_stone_balustrade_rails_per_tier": 2,
+    "sasinmu_sibijisin_stone_beasts": 12,
+    "hall_columns": 28,
+    "bracket_sets_1f_2f": "1층 44세트 + 2층 공포대 52세트",
+    "pumgyeseok_rank_stones": 28,
+    "deumu_bronze_cauldrons": 2,
+    "ilwolobongdo_screen_panels": 5,
+    "japsang_figurines": 20,
+    "chimi_ridge_ornaments": 2,
+    "eave_rafters_1f_2f": "하층 114본 + 상층 86본"
+  },
+  "hierarchical_components": [
+    {
+      "id": "woldae_2tier_granite",
+      "desc": "2단 월대 60x40 / 50x32, 총 3.5m + 남측 계단"
+    },
+    {
+      "id": "woldae_balustrade_posts_rails",
+      "desc": "2단 월대 돌난간 — 기둥 154기 + 상·중 난간대"
+    },
+    {
+      "id": "sasinsu_sibijisin_stone_statues",
+      "desc": "사신수·십이지신 석수 12기(받침+테이퍼 원주+두부)"
+    },
+    {
+      "id": "geunjeongjeon_hall_floor_and_column_bases",
+      "desc": "정전 마루판 + 기둥 초석 28기"
+    },
+    {
+      "id": "geunjeongjeon_hall_columns_walls",
+      "desc": "7칸x4열 기둥 28기 + 판자문 6칸 + 창방/평방"
+    },
+    {
+      "id": "gongpo_bracket_bands_1f_2f",
+      "desc": "1층 공포 46세트 + 상층 공포대 52세트 + 도리"
+    },
+    {
+      "id": "lower_roof_band_surface",
+      "desc": "하층 띠지붕 — 오공간 곡률 h(t)=0.3t+0.7t^2.7 + 코너 리프트 2.0m"
+    },
+    {
+      "id": "lower_roof_eave_rafters",
+      "desc": "하층 처마 단면 — 서까래 114본 + 부연 띠"
+    },
+    {
+      "id": "upper_story_pobyeok_wall",
+      "desc": "상층 포벽 24x15 (공포대 층) — 포벽 기둥 28기(모서리 중복 포함)"
+    },
+    {
+      "id": "upper_roof_paljak_surface",
+      "desc": "상층 팔작지붕 — 용마루 21.4m, 코너 리프트 1.75m"
+    },
+    {
+      "id": "upper_roof_eave_rafters",
+      "desc": "상층 처마 단면 — 서까래 86본 + 부연 띠"
+    },
+    {
+      "id": "roof_ridge_cap",
+      "desc": "용마루(취두 대좌 포함)"
+    },
+    {
+      "id": "roof_chimi_japsang_gold",
+      "desc": "치미 2기 + 잡상 20기(4 내림마루)"
+    },
+    {
+      "id": "throne_dais_granite",
+      "desc": "어좌 대석(화강암)"
+    },
+    {
+      "id": "throne_seat_gold",
+      "desc": "어좌 좌판·등받이 + 천장 칠조룡 앵커 기둥"
+    },
+    {
+      "id": "ilwolobongdo_five_panel_screen",
+      "desc": "일월오봉도 5폭 병풍"
+    },
+    {
+      "id": "pumgyeseok_rank_stones_courtyard",
+      "desc": "품계석 박석 2열 28기"
+    },
+    {
+      "id": "deumu_bronze_water_cauldrons",
+      "desc": "청동 드므 2기"
+    },
+    {
+      "id": "haenggak_corridor_boundary",
+      "desc": "남측 조정 행각 경계"
+    },
+    {
+      "id": "haenggak_tiled_roof",
+      "desc": "행각 기와 지붕"
+    }
+  ],
+  "night_lighting_anchors": {
+    "color_temp_k": 3000,
+    "phase_link": "Phase 7/18 야간 개장 투광 연동",
+    "spots": [
+      {
+        "id": "NE",
+        "node": "night_light_spotlight_NE_3000K",
+        "offset_m": [
+          28.0,
+          0.8,
+          -22.0
+        ]
+      },
+      {
+        "id": "NW",
+        "node": "night_light_spotlight_NW_3000K",
+        "offset_m": [
+          -28.0,
+          0.8,
+          -22.0
+        ]
+      },
+      {
+        "id": "SE",
+        "node": "night_light_spotlight_SE_3000K",
+        "offset_m": [
+          28.0,
+          0.8,
+          22.0
+        ]
+      },
+      {
+        "id": "SW",
+        "node": "night_light_spotlight_SW_3000K",
+        "offset_m": [
+          -28.0,
+          0.8,
+          22.0
+        ]
+      }
+    ]
+  },
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_ilwolobongdo",
+      "label": "일월오봉도 병풍"
+    },
+    {
+      "id": "hotspot_deumu_SE",
+      "label": "드므(화재방지 청동솥) 남동"
+    },
+    {
+      "id": "hotspot_deumu_SW",
+      "label": "드므 남서"
+    },
+    {
+      "id": "hotspot_sasinsu_statues",
+      "label": "사신수/십이지신 석수"
+    },
+    {
+      "id": "hotspot_pumgyeseok_row",
+      "label": "품계석 박석"
+    },
+    {
+      "id": "hotspot_gongpo_band",
+      "label": "중층 공포대"
+    },
+    {
+      "id": "hotspot_roof_ridge_chimi",
+      "label": "용마루·치미"
+    }
+  ],
+  "anchor_nodes": [
+    "anchor_ceiling_dragon_chiljo"
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: composite_id 뒤 _01, _02 … (예: 11110_01_03045_001_01 어좌 초정밀 세트)",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 16718,
+      "vertices": 16310,
+      "bytes": 983472
+    },
+    "model_lod2.gltf": {
+      "triangles": 836,
+      "vertices": 575,
+      "bytes": 47743
+    },
+    "texture_atlas.webp": {
+      "bytes": 91610,
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "package_total_bytes": 1122825,
+  "references": [
+    "국보 제223호 경복궁 근정전 — 국가유산청 국가유산포털",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117 §3 [수정 #1]",
+    "117호 블록 장착 규약 v1 (만복, 2026-11-07)"
+  ],
+  "generation": {
+    "generator": "Pimang 117-spec generator v2.0",
+    "date": "2026-11-07",
+    "execution_code_in_package": false
+  }
+}

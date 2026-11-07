@@ -1,3 +1,6 @@
+> [!WARNING]
+> **SUPERSEDED (폐기됨): 본 지시서는 117호 블록 장착 규약 제정에 따라 폐기되었습니다. 오직 `TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md` 만 유효합니다.**
+
 # [피망 외주 공식 발주서] 종로구 시그니처 3D 퀄리티 극대화: 1차 최우선 12대 레고 블록 제작 (Task B)
 
 - **수신**: 피망 (Pimang - Claude Code 데이터/3D 파이프라인 전담)
