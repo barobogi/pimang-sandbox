@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03031_027",
+  "block_id": "03031_NATURE_p27_북악산_백악마루_부아암",
+  "name": "북악산 백악마루 & 부아암",
+  "name_en": "Bukaksan Baekakmaru Peak & Buaam Rock",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03031",
+  "heritage": {
+    "designation": "사적 제10호 한양도성 주산 최고봉 및 1·21사태 안보역사유산",
+    "name": "북악산(백악산 342m) 백악마루 표석, 부아암 기암, 1·21사태 총탄소나무"
+  },
+  "coordinates": [
+    126.981845,
+    37.595812
+  ],
+  "orientation_deg": 352.0,
+  "heading": 352.0,
+  "heading_note": "정북 기준 시계방향 352.0° = 북악산 주산 및 한양도성 백악 능선 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 북악산 정상 기저 암반 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10068,
+      "bytes": 515253
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 324,
+      "bytes": 17344
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "bukaksan_baekakmaru_and_buaam",
+      "desc": "백악마루 정상 암반 돔(20x22x8.5m), 백악산 342m 화강석 표석, 부아암 2련 기암(높이 9.2m), 자연 암석 24개소"
+    },
+    {
+      "id": "bukaksan_city_wall",
+      "desc": "사적 제10호 한양도성 북악산 성벽 36m, 성돌 7단 테셀레이션 336개소, 여장 20개소, 총안 40개소"
+    },
+    {
+      "id": "bukaksan_bullet_pine_tree",
+      "desc": "1·21사태 총탄소나무(수고 8.5m 적송, 15발 탄흔 마킹 블록), 기념 표석, 주변 적송 소나무 8본"
+    },
+    {
+      "id": "bukaksan_observatory_deck",
+      "desc": "백악마루 목재 전망 데크(12x8m, 높이 5.2m), 안전 핸드레일 40m, 쉼터 벤치 4기, 탐방 계단 24단"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_bukaksan_baekakmaru_peak_view",
+    "anchors": [
+      {
+        "name": "hotspot_bukaksan_baekakmaru_peak_view",
+        "pos": [
+          -6.0,
+          10.5,
+          1.8
+        ]
+      },
+      {
+        "name": "hotspot_bukaksan_bullet_pine_tree_view",
+        "pos": [
+          11.5,
+          1.8,
+          8.5
+        ]
+      },
+      {
+        "name": "hotspot_bukaksan_buaam_rock_view",
+        "pos": [
+          14.0,
+          5.5,
+          -5.0
+        ]
+      },
+      {
+        "name": "hotspot_bukaksan_city_wall_deck_view",
+        "pos": [
+          -14.0,
+          5.5,
+          4.0
+        ]
+      }
+    ]
+  }
+}
