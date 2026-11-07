@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03045_004",
+  "block_id": "03045_HERO_p04_경복궁_향원정",
+  "name": "경복궁 향원정 및 취향교",
+  "name_en": "Gyeongbokgung Hyangwonjeong Pavilion & Chwihyanggyo Bridge",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03045",
+  "heritage": {
+    "designation": "보물 제1761호",
+    "name": "경복궁 향원정"
+  },
+  "coordinates": [
+    126.977232,
+    37.582845
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-경복궁 중심축 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 향원지 호안 및 수면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.4,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 850.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 14984,
+      "bytes": 815146
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 406,
+      "bytes": 28822
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "hyangwonji_lotus_pond_and_shore",
+      "desc": "64x64m 향원지 연못 수면, 장대석 사각 호안 석축 및 북서측 열상진원 석조 샘"
+    },
+    {
+      "id": "hyangwonjeong_island_plinth",
+      "desc": "직경 22m 원형 인공섬 및 향원정 6각 화강암 기단, 북측 4단 의전 돌계단"
+    },
+    {
+      "id": "hyangwonjeong_hex_timber_frame",
+      "desc": "육각 2층 목구조: 6개 육모초석/기둥, 1층 온돌방 벽체, 2층 계자난간(난간동자 36기)"
+    },
+    {
+      "id": "hyangwonjeong_hex_roofs_and_finial",
+      "desc": "중층 육모지붕: 1층/2층 육모 처마, 3D 서까래 90기, 백자 절병통 상륜부"
+    },
+    {
+      "id": "chwihyanggyo_wooden_arch_bridge",
+      "desc": "취향교: 길이 32m 곡선 목조 아치교, 화강암 아치 교각 2기, 화이트 목재 난간"
+    },
+    {
+      "id": "hyangwonjeong_interior_and_view",
+      "desc": "1인칭 다이빙: 1층 온돌방 장판 바닥, 2층 누각 전망 테이블 및 북악산 조망 팔각 창호"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_hyangwonjeong_2f_mountain_view",
+    "anchors": [
+      {
+        "name": "hotspot_hyangwonjeong_2f_mountain_view",
+        "pos": [
+          0.0,
+          5.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_hyangwonjeong_1f_ondol_room",
+        "pos": [
+          0.0,
+          1.8,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_chwihyanggyo_arch_center",
+        "pos": [
+          0.0,
+          2.0,
+          -19.0
+        ]
+      },
+      {
+        "name": "hotspot_island_cherry_tree_path",
+        "pos": [
+          6.0,
+          0.9,
+          0.0
+        ]
+      }
+    ]
+  }
+}
