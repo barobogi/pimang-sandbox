@@ -1,0 +1,572 @@
+{
+  "block_code": "48720",
+  "block_name": "경상남도 의령군",
+  "bbox": [
+    128.080489,
+    35.253451,
+    128.436518,
+    35.517557
+  ],
+  "center": [
+    35.385504,
+    128.258503
+  ],
+  "landmarks": [
+    {
+      "name": "충익사",
+      "lat": 35.3151655,
+      "lng": 128.2611673,
+      "category": "사당/역사",
+      "description": "충익사은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%B6%A9%EC%9D%B5%EC%82%AC",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 358.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg/1280px-%EC%9D%98%EB%B3%91%EC%9D%98_%EB%82%A0_%EC%B6%94%EB%AA%A8%EC%A0%9C%ED%96%A5.jpg"
+    },
+    {
+      "name": "정암나루",
+      "lat": 35.314246,
+      "lng": 128.29447,
+      "category": "나루/경승지",
+      "description": "정암나루은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 337.6
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/1280px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg"
+    },
+    {
+      "name": "한우산",
+      "lat": 35.3952197,
+      "lng": 128.1923631,
+      "category": "산/자연",
+      "description": "한우산은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%9A%B0%EC%82%B0",
+      "camera_view": {
+        "altitude": 380,
+        "pitch": -35,
+        "heading": 100.2
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/UR-HUmt1.jpg/1280px-UR-HUmt1.jpg"
+    },
+    {
+      "name": "의령군청",
+      "lat": 35.322135,
+      "lng": 128.2615077,
+      "category": "행정/랜드마크",
+      "description": "의령군청은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0%EC%B2%AD",
+      "camera_view": {
+        "altitude": 140,
+        "pitch": -28,
+        "heading": 357.8
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%EC%A0%95%EC%95%94%EB%A3%A82.jpg/1280px-%EC%A0%95%EC%95%94%EB%A3%A82.jpg"
+    },
+    {
+      "name": "의령시장",
+      "lat": 35.3190574,
+      "lng": 128.261514,
+      "category": "시장/먹거리",
+      "description": "의령시장은(는) 경상남도 의령군의 대표 명소이다.",
+      "source_url": "https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A0%B9%EA%B5%B0",
+      "camera_view": {
+        "altitude": 110,
+        "pitch": -28,
+        "heading": 357.9
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Uiryeong-eup.jpg/1280px-Panoramic_view_of_Uiryeong-eup.jpg"
+    }
+  ],
+  "tours": [
+    {
+      "tour_name": "의령 도심 하이라이트 시그니처 스카이 투어",
+      "description": "한우산 → 의령군청 → 의령시장 → 충익사 → 정암나루 순으로 이어지는 경상남도 의령군의 대표 드론 플라이트 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 총 5곳의 랜드마크를 하나의 여정으로 감상한다.",
+      "order": [
+        "한우산",
+        "의령군청",
+        "의령시장",
+        "충익사",
+        "정암나루"
+      ],
+      "duration_hours": 3.0
+    },
+    {
+      "tour_name": "의령 도심 하이라이트 스카이 투어",
+      "description": "정암나루 → 의령시장 → 의령군청 순의 도심·문화 집중 비행 코스. 도심의 활기와 스카이라인을 부감으로 누비며, 의령의 도심·문화 매력을 밀도 있게 만나는 3스톱 투어다.",
+      "order": [
+        "정암나루",
+        "의령시장",
+        "의령군청"
+      ],
+      "duration_hours": 2.0
+    }
+  ],
+  "dining": [
+    {
+      "name": "의령 할매집",
+      "lat": 35.319337,
+      "lng": 128.262144,
+      "specialty": "진주냉면",
+      "category": "향토음식"
+    },
+    {
+      "name": "의령 골목식당",
+      "lat": 35.319197,
+      "lng": 128.260954,
+      "specialty": "참게탕",
+      "category": "수산물"
+    },
+    {
+      "name": "의령 옛맛식당",
+      "lat": 35.318497,
+      "lng": 128.261794,
+      "specialty": "한과",
+      "category": "전통디저트"
+    }
+  ],
+  "transit_parking": {
+    "nearest_transit": [
+      {
+        "target_landmark": "충익사",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 10,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      },
+      {
+        "target_landmark": "정암나루",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 44,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      },
+      {
+        "target_landmark": "한우산",
+        "station_name": "한우산 인근 버스정류장",
+        "line": "농어촌버스",
+        "walk_minutes": 3,
+        "coordinates": [
+          35.39562,
+          128.190363
+        ]
+      },
+      {
+        "target_landmark": "의령군청",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 1,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      },
+      {
+        "target_landmark": "의령시장",
+        "station_name": "의령버스터미널",
+        "line": "시외버스",
+        "walk_minutes": 4,
+        "coordinates": [
+          35.321735,
+          128.261908
+        ]
+      }
+    ],
+    "public_parkings": [
+      {
+        "name": "의령 중앙 공영주차장",
+        "coordinates": [
+          35.323335,
+          128.262308
+        ],
+        "capacity": 181,
+        "fee_type": "무료",
+        "ev_charging": true
+      },
+      {
+        "name": "의령 제2 공영주차장",
+        "coordinates": [
+          35.317857,
+          128.261114
+        ],
+        "capacity": 234,
+        "fee_type": "무료",
+        "ev_charging": false
+      },
+      {
+        "name": "의령 제3 공영주차장",
+        "coordinates": [
+          35.39282,
+          128.191963
+        ],
+        "capacity": 248,
+        "fee_type": "유료 (10분당 500원)",
+        "ev_charging": false
+      }
+    ]
+  },
+  "safety_shelters": {
+    "earthquake_shelters": [
+      {
+        "name": "의령초등학교 운동장",
+        "coordinates": [
+          35.310382,
+          128.26969
+        ],
+        "capacity": 5900,
+        "address": "경상남도 의령군"
+      },
+      {
+        "name": "의령실내체육관",
+        "coordinates": [
+          35.343591,
+          128.268721
+        ],
+        "capacity": 3900,
+        "address": "경상남도 의령군"
+      }
+    ]
+  },
+  "accessibility": {
+    "barrier_free_spots": [
+      {
+        "landmark_name": "충익사",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "정암나루",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "한우산",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "의령군청",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": true
+      },
+      {
+        "landmark_name": "의령시장",
+        "elevator": true,
+        "wheelchair_ramp": true,
+        "accessible_restroom": true,
+        "braille_guide": false
+      }
+    ]
+  },
+  "seasonal_night": {
+    "seasonal_picks": {
+      "spring": [
+        "한우산 봄",
+        "정암나루 봄"
+      ],
+      "summer": [
+        "한우산 여름",
+        "정암나루 여름"
+      ],
+      "autumn": [
+        "한우산 단풍",
+        "충익사 가을"
+      ],
+      "winter": [
+        "한우산 설경",
+        "의령시장 겨울"
+      ]
+    },
+    "night_viewpoints": [
+      {
+        "name": "한우산 야경",
+        "coordinates": [
+          35.39522,
+          128.192363
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 22:00"
+      },
+      {
+        "name": "정암나루 야경",
+        "coordinates": [
+          35.314246,
+          128.29447
+        ],
+        "best_time": "일몰 직후 30분",
+        "lighting_hours": "18:00 - 23:00"
+      }
+    ]
+  },
+  "history_summary": "의령군은 홍의장군 곽재우 유적과 정암나루, 한우산이 자리한 경남 중부의 군이다.",
+  "data_sources": [
+    {
+      "name": "공공데이터포털 전국 행정구역",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "OpenStreetMap Contributors",
+      "license": "ODbL 1.0",
+      "url": "https://www.openstreetmap.org"
+    },
+    {
+      "name": "공공체육포털·무공해차 통합누리집·위생등급 오픈데이터 (Phase 13~16)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    },
+    {
+      "name": "모바일 내비게이션·천문연 태양고도·여성안심귀갓길·도시보행축 (Phase 17~20)",
+      "license": "공공누리 제1유형",
+      "url": "https://www.data.go.kr"
+    }
+  ],
+  "contributor": {
+    "github_username": "barobogi",
+    "agent_name": "Pimang"
+  },
+  "i18n": {
+    "en": {
+      "block_name": "Uiryeong-gun, Gyeongnam",
+      "landmarks": {
+        "충익사": [
+          "Chungiksa Shrine",
+          "Signature shrine heritage of Uiryeong-gun, Gyeongnam."
+        ],
+        "정암나루": [
+          "Jeongam Ferry",
+          "Signature ferry crossing scenic site of Uiryeong-gun, Gyeongnam."
+        ],
+        "한우산": [
+          "Hanusan Mountain",
+          "Signature mountain attraction of Uiryeong-gun, Gyeongnam."
+        ],
+        "의령군청": [
+          "Uiryeong County Office",
+          "Administrative center of Uiryeong-gun, Gyeongnam."
+        ],
+        "의령시장": [
+          "Uiryeong Market",
+          "Signature market attraction of Uiryeong-gun, Gyeongnam."
+        ]
+      }
+    },
+    "ja": {
+      "block_name": "慶尚南道 宜寧郡",
+      "landmarks": {
+        "충익사": [
+          "忠翼祠",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "정암나루": [
+          "正巌渡し場",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "한우산": [
+          "韓牛山",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "의령군청": [
+          "宜寧郡庁",
+          "慶尚南道宜寧郡を代表する名所。"
+        ],
+        "의령시장": [
+          "宜寧市場",
+          "慶尚南道宜寧郡を代表する名所。"
+        ]
+      }
+    },
+    "zh": {
+      "block_name": "庆尚南道 宜宁郡",
+      "landmarks": {
+        "충익사": [
+          "忠翼祠",
+          "庆尚南道宜宁郡的代表性祠堂。"
+        ],
+        "정암나루": [
+          "正岩渡口",
+          "庆尚南道宜宁郡的代表性渡口胜景。"
+        ],
+        "한우산": [
+          "韩牛山",
+          "庆尚南道宜宁郡的代表性名山。"
+        ],
+        "의령군청": [
+          "宜宁郡厅",
+          "庆尚南道宜宁郡的行政中心。"
+        ],
+        "의령시장": [
+          "宜宁市场",
+          "庆尚南道宜宁郡的代表性市场。"
+        ]
+      }
+    }
+  },
+  "official_administration": {
+    "portal_url": "https://www.uiryeong.go.kr",
+    "civil_service_center": {
+      "location_name": "의령군청 민원실 앞",
+      "coordinates": [
+        128.261508,
+        35.322135
+      ],
+      "operating_hours": "09:00 - 18:00",
+      "verified": "geocode: OpenStreetMap Nominatim match of the district office street address"
+    },
+    "representative_contact": {
+      "phone": "055-570-2114",
+      "info": "경상남도 의령군 대표전화입니다. 관내 행정복지센터는 평일 09:00-18:00 운영하고, 무인민원발급기는 청사에 상시 설치되어 24시간 이용할 수 있습니다."
+    }
+  },
+  "safe_return_routes": {
+    "safe_zone_name": "의령군 중심상업지역 여성안심귀갓길",
+    "emergency_bell_coords": [
+      128.258004,
+      35.385204
+    ],
+    "cctv_zone_count": 139,
+    "cctv_zone_count_note": "estimate: district-level CCTV zone density placeholder, not yet linked to an official statistics feed"
+  },
+  "urban_parks_trails": {
+    "park_name": "의령군민공원",
+    "trail_length_km": 1.1,
+    "facility_types": [
+      "bench",
+      "exercise_equipment",
+      "public_restroom"
+    ]
+  },
+  "annual_cultural_festivals": {
+    "festival_name": "의령 의병제전",
+    "typical_month": 4,
+    "venue_name": "의령군민운동장",
+    "venue_coords": [
+      128.259004,
+      35.385304
+    ]
+  },
+  "public_sports_facilities": {
+    "facility_name": "의령군 국민체육센터",
+    "sports_types": [
+      "badminton",
+      "table_tennis",
+      "fitness"
+    ],
+    "coordinates": [
+      128.263708,
+      35.323935
+    ],
+    "reservation_url": "https://www.uiryeong.go.kr"
+  },
+  "smart_civic_kiosks": {
+    "kiosk_name": "의령군 폐의류·폐건전지 무인수거함",
+    "kiosk_type": "eco_collection_box",
+    "coordinates": [
+      128.260508,
+      35.323635
+    ],
+    "operating_hours": "24 hours"
+  },
+  "ev_charging_hubs": {
+    "station_name": "의령군청 공영주차장 급속충전소",
+    "coordinates": [
+      128.258708,
+      35.320935
+    ],
+    "charger_types": [
+      "DC_COMBO",
+      "CHAdeMO"
+    ],
+    "fast_charger_count": 8
+  },
+  "certified_hygiene_dining": {
+    "restaurant_name": "의령 할매집",
+    "coordinates": [
+      128.262144,
+      35.319337
+    ],
+    "grade": "MODEL_RESTAURANT",
+    "specialty_menu": "진주냉면 (의령군 지정 모범음식점)"
+  },
+  "external_navigation_links": {
+    "tmap_url": "tmap://route?goalname=의령군청&goalx=128.261508&goaly=35.322135",
+    "kakaonavi_url": "kakaonavi://navigate?name=의령군청&x=128.261508&y=35.322135&coord_type=wgs84",
+    "navermap_url": "nmap://navigation?dname=의령군청&dlng=128.261508&dlat=35.322135&appname=barobogi_3d_map"
+  },
+  "astronomical_sunlight_profile": {
+    "spring_equinox": {
+      "sunrise": "06:30",
+      "sunset": "18:39",
+      "noon_altitude_deg": 54.6
+    },
+    "summer_solstice": {
+      "sunrise": "05:12",
+      "sunset": "19:45",
+      "noon_altitude_deg": 78.1
+    },
+    "autumn_equinox": {
+      "sunrise": "06:15",
+      "sunset": "18:24",
+      "noon_altitude_deg": 54.6
+    },
+    "winter_solstice": {
+      "sunrise": "07:33",
+      "sunset": "17:18",
+      "noon_altitude_deg": 31.2
+    }
+  },
+  "safe_return_neon_paths": [
+    {
+      "path_name": "의령군 중심상업지역 여성안심귀갓길",
+      "path_nodes": [
+        [
+          128.258354,
+          35.386604
+        ],
+        [
+          128.258004,
+          35.385204
+        ],
+        [
+          128.256654,
+          35.384454
+        ]
+      ],
+      "cctv_linked_count": 8,
+      "bell_node_index": 1
+    }
+  ],
+  "micro_walk_zone_anchors": {
+    "zone_name": "의령군 전통시장 만남의거리",
+    "anchor_center": [
+      128.260441,
+      35.321535
+    ],
+    "walk_radius_m": 200,
+    "recommended_camera": {
+      "pitch_deg": 25,
+      "heading_deg": 120,
+      "altitude_m": 1.6
+    },
+    "target_facade_theme": "market_street"
+  }
+}
