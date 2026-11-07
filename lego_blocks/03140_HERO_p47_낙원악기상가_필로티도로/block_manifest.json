@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03140_047",
+  "block_id": "03140_HERO_p47_낙원악기상가_필로티도로",
+  "name": "낙원악기상가 하부 필로티 도로",
+  "name_en": "Nakwon Musical Instrument Arcade & Samil-daero Underpass",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03140",
+  "heritage": {
+    "designation": "도심 입체 주상복합 랜드마크",
+    "name": "낙원악기상가 (1968년 건립 대한민국 및 동아시아 최대 악기 전문 상가)"
+  },
+  "coordinates": [
+    126.988214,
+    37.572841
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 삼일대로-안국동-종로2가 남북 도로 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 삼일대로 4차선 아스팔트 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10048,
+      "bytes": 585004
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 312,
+      "bytes": 16988
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "nakwon_samil_daero_roadway",
+      "desc": "삼일대로 왕복 4차선 아스팔트 차도(48x36m, y=0.0m 스냅), 보도 2열 및 방호 볼라드 16기"
+    },
+    {
+      "id": "nakwon_mega_piloti_and_ceiling",
+      "desc": "하부 통과 필로티 콘크리트 메가 기둥 16기(높이 5.2m), 거더 8조, 터널 천장 매립등 24기"
+    },
+    {
+      "id": "nakwon_musical_instrument_shops",
+      "desc": "2~3층 악기상가 매스, 통유리 쇼윈도 24개소, 기타 24기, 그랜드피아노 4기, 드럼 세트 4기"
+    },
+    {
+      "id": "nakwon_hollywood_cinema_facade",
+      "desc": "4층 허리우드극장(실버영화관) 레트로 파사드, 네온 전광판, 영화 포스터 6개소, 옥상 파라펫 및 계단탑"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_nakwon_underpass_road_view",
+    "anchors": [
+      {
+        "name": "hotspot_nakwon_underpass_road_view",
+        "pos": [
+          0.0,
+          1.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_nakwon_instrument_hall_view",
+        "pos": [
+          0.0,
+          7.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_nakwon_hollywood_cinema_view",
+        "pos": [
+          0.0,
+          16.5,
+          15.0
+        ]
+      },
+      {
+        "name": "hotspot_nakwon_street_entrance_view",
+        "pos": [
+          0.0,
+          1.2,
+          -16.0
+        ]
+      }
+    ]
+  }
+}
