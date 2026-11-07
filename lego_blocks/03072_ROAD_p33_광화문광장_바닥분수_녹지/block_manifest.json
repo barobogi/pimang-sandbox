@@ -1,0 +1,56 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "composite_id": "11110_04_03072_002",
+  "block_id": "03072_ROAD_p33_광화문광장_바닥분수_녹지",
+  "name": "광화문광장 바닥분수 녹지",
+  "category": "CAT04_CIVIC_CULTURE",
+  "postal_code": "03072",
+  "coordinates": [
+    126.977,
+    37.5721
+  ],
+  "orientation_deg": 174.2,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "lowest_geometry_y": 0.0
+  },
+  "lod_switch_distance": 250,
+  "bbox_local_m": {
+    "min": [
+      -12.0,
+      0.0,
+      -16.0
+    ],
+    "max": [
+      12.0,
+      1.7999999523162842,
+      16.0
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_04_03072_002_01",
+      "name": "myeongnyang_fountain",
+      "name_kr": "77판 명량분수 바닥 노즐 및 워터제트"
+    },
+    {
+      "id": "11110_04_03072_002_02",
+      "name": "four_seasons_garden",
+      "name_kr": "사계정원 2단 전통 화계 녹지대"
+    },
+    {
+      "id": "11110_04_03072_002_03",
+      "name": "plaza_amenities",
+      "name_kr": "광화문광장 원목 벤치 및 야간 조명 앵커"
+    }
+  ],
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 287908
+}
