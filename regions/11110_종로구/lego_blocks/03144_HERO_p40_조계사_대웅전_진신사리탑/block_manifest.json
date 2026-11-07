@@ -1,0 +1,134 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03144_040",
+  "block_id": "03144_HERO_p40_조계사_대웅전_진신사리탑",
+  "name": "조계사 대웅전 & 진신사리탑",
+  "name_en": "Jogyesa Main Buddha Hall & Relic Pagoda",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03144",
+  "heritage": {
+    "designation": "서울시 유형문화재 제127호 (대웅전) / 천연기념물 제9호 (백송)",
+    "name": "대한불교조계종 총본산 조계사"
+  },
+  "coordinates": [
+    126.982412,
+    37.574615
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 조계사 일주문-대웅전 남북 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 조계사 일주문 및 대웅전 앞마당 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 24332,
+      "bytes": 1138813
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 2754,
+      "bytes": 113462
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "jogyesa_temple_ground",
+      "desc": "조계사 대지 기단(56x52m, y=0.0m 스냅) 및 범종루 대범종"
+    },
+    {
+      "id": "daeungjeon_granite_podium",
+      "desc": "서울시 유형문화재 제127호 대웅전 2단 화강석 기단 및 3개소 진입 돌계단"
+    },
+    {
+      "id": "daeungjeon_dancheong_timber",
+      "desc": "정면 7칸 배흘림 원목 열주 22기, 꽃살문 24짝, 다포계 공포대"
+    },
+    {
+      "id": "daeungjeon_triad_buddha_altar",
+      "desc": "대웅전 실내 수미단 제단 및 삼존불(석가모니·아미타·약사여래) 황금 좌상 3기"
+    },
+    {
+      "id": "daeungjeon_paljak_roof",
+      "desc": "거대 팔작지붕, 처마 밑 3D 둥근 서까래 144기(장연 72기+부연 72기)"
+    },
+    {
+      "id": "jogyesa_10story_relic_pagoda",
+      "desc": "8각 10층 부처님 진신사리탑(높이 15m), 3단 기단, 10층 옥개석"
+    },
+    {
+      "id": "jogyesa_lotus_lanterns_canopy",
+      "desc": "대웅전 앞마당 상공 오색 연등 캐노피 64개소"
+    },
+    {
+      "id": "jogyesa_natural_monument_white_pine",
+      "desc": "천연기념물 제9호 조계사 백송(높이 14m)"
+    },
+    {
+      "id": "jogyesa_iljumun_gate",
+      "desc": "조계사 일주문 4열주 및 다포 팔작지붕"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_jogyesa_buddha_altar_view",
+    "anchors": [
+      {
+        "name": "hotspot_jogyesa_buddha_altar_view",
+        "pos": [
+          0.0,
+          2.4,
+          8.0
+        ]
+      },
+      {
+        "name": "hotspot_jogyesa_lantern_canopy_view",
+        "pos": [
+          0.0,
+          1.8,
+          -6.0
+        ]
+      },
+      {
+        "name": "hotspot_jogyesa_pagoda_pine_view",
+        "pos": [
+          14.0,
+          2.0,
+          -12.0
+        ]
+      },
+      {
+        "name": "hotspot_jogyesa_iljumun_entrance",
+        "pos": [
+          0.0,
+          1.2,
+          -24.0
+        ]
+      }
+    ]
+  }
+}
