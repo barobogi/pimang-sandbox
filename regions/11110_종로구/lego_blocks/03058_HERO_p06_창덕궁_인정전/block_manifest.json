@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03058_006",
+  "block_id": "03058_HERO_p06_창덕궁_인정전",
+  "name": "창덕궁 인정전",
+  "name_en": "Injeongjeon Hall, Changdeokgung Palace",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03058",
+  "heritage": {
+    "designation": "국보",
+    "number": 225,
+    "name": "창덕궁 인정전",
+    "unesco": "유네스코 세계문화유산 창덕궁 정전"
+  },
+  "coordinates": [
+    126.991008,
+    37.579617
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 한양도성 중심축",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 월대 하단 기단 밑바닥(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 2.4,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 280.0,
+    "lod2_distance": 850.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 28456,
+      "bytes": 1630733
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 2788,
+      "bytes": 114813
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "woldae_2tier_granite",
+      "desc": "2단 화강암 월대 (하층 46x34m, 상층 38x26m, 누적 높이 2.4m)"
+    },
+    {
+      "id": "woldae_balustrade_and_stone_statues",
+      "desc": "2단 월대 돌난간 기둥 72기, 상하 난간대 및 서수/십이지신 석수 12기"
+    },
+    {
+      "id": "central_stairs_with_dabdo_phoenix",
+      "desc": "정면 2단 돌계단 12단 및 봉황 양각 답도(沓道) 2개소"
+    },
+    {
+      "id": "hall_columns_and_lattice_doors",
+      "desc": "5칸 x 4칸 기둥 24기(초석+배흘림 원주+주두) 및 4면 창호살 분합문"
+    },
+    {
+      "id": "gongpo_bracket_assemblies",
+      "desc": "다포계 공포대 1층 32세트 + 2층 24세트 (살미, 첨차, 소로 3출목)"
+    },
+    {
+      "id": "lower_tier_roof_and_rafters",
+      "desc": "하층 띠지붕 반전 앙곡 처마 및 3D 둥근 서까래 120기"
+    },
+    {
+      "id": "upper_paljak_roof_and_rafters",
+      "desc": "상층 팔작지붕 곡선 앙곡(1.3m) 및 3D 둥근 서까래/부연 96기"
+    },
+    {
+      "id": "roof_ridge_chimi_and_japsang",
+      "desc": "용마루 취두 2기, 추녀마루 용두 및 입체 잡상(어처구니) 36기"
+    },
+    {
+      "id": "courtyard_pumgyeseok_and_pavement",
+      "desc": "조정 마당 120개소 화강암 박석 슬래브 및 문관·무관 품계석 18기"
+    },
+    {
+      "id": "surrounding_haenggak_corridors",
+      "desc": "삼면 회랑(동행각, 서행각, 북행각) 및 정면 인정문 게이트"
+    },
+    {
+      "id": "interior_imperial_throne_and_bogae",
+      "desc": "실내 3단 당가 기단, 황금 용상 어좌, 일월오봉도 5폭 병풍, 보개천장 황금 봉황 쌍"
+    },
+    {
+      "id": "interior_royal_western_chandeliers_1908",
+      "desc": "1908년 순종 황제 설치 근대 황실 서양식 샹들리에 4기 고증"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_throne_dais",
+    "anchors": [
+      {
+        "name": "hotspot_throne_dais",
+        "pos": [
+          0.0,
+          4.0,
+          -5.4
+        ]
+      },
+      {
+        "name": "hotspot_ilwolobongdo_screen",
+        "pos": [
+          0.0,
+          5.4,
+          -7.2
+        ]
+      },
+      {
+        "name": "hotspot_royal_chandelier_SE",
+        "pos": [
+          5.5,
+          8.0,
+          2.5
+        ]
+      },
+      {
+        "name": "hotspot_royal_chandelier_SW",
+        "pos": [
+          -5.5,
+          8.0,
+          2.5
+        ]
+      },
+      {
+        "name": "hotspot_pumgyeseok_civil_east",
+        "pos": [
+          4.5,
+          0.7,
+          24.0
+        ]
+      },
+      {
+        "name": "hotspot_pumgyeseok_military_west",
+        "pos": [
+          -4.5,
+          0.7,
+          24.0
+        ]
+      },
+      {
+        "name": "hotspot_dabdo_phoenix_stairs",
+        "pos": [
+          0.0,
+          1.5,
+          16.0
+        ]
+      },
+      {
+        "name": "hotspot_injeongmun_gate",
+        "pos": [
+          0.0,
+          3.5,
+          51.0
+        ]
+      }
+    ]
+  }
+}
