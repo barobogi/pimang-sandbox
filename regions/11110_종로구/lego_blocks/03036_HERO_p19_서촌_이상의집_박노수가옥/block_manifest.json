@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_02_03036_019",
+  "block_id": "03036_HERO_p19_서촌_이상의집_박노수가옥",
+  "name": "서촌 이상의 집 & 박노수 가옥",
+  "name_en": "Seochon House of Lee Sang & Park No-soo Art House",
+  "category": "CAT02_TRADITIONAL_ALLEY",
+  "postal_code": "03036",
+  "heritage": {
+    "designation": "서울시 등록문화재 및 문화재자료 제1호",
+    "name": "서촌 이상의 집터 및 종로구립 박노수미술관"
+  },
+  "coordinates": [
+    126.969842,
+    37.580215
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 인왕산-서촌 골목 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 서촌 골목길 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10018,
+      "bytes": 523676
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 2748,
+      "bytes": 111745
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "seochon_heritage_ground",
+      "desc": "통인-옥인 연결 화강석 골목길(3.2m 폭, 디딤돌 26개소) 및 대지 기단"
+    },
+    {
+      "id": "leesang_hanok_exterior",
+      "desc": "이상의 집 전면 도시형 한옥 아카이브 파사드(원목 기둥 5기, 황동 현판)"
+    },
+    {
+      "id": "leesang_black_iron_cube",
+      "desc": "이상의 집 상징 무쇠 철제 큐브 공간(폭 6.5m, 회전문, 천장 빛 슬릿, 흉상)"
+    },
+    {
+      "id": "leesang_giwa_roof",
+      "desc": "이상의 집 한옥 맞배지붕 및 24기 3D 서까래"
+    },
+    {
+      "id": "park_nosoo_brick_mansion",
+      "desc": "박노수 가옥(문화재자료 1호): 1937년 박길룡 설계 2층 한옥+양옥 절충식 벽돌 저택, 장식 굴뚝 2기"
+    },
+    {
+      "id": "park_nosoo_french_roof",
+      "desc": "박노수 가옥 프랑스풍 급경사 박공지붕"
+    },
+    {
+      "id": "park_nosoo_sculpture_garden",
+      "desc": "박노수 후원 정원: 3단 석축, 자연 괴석 4기, 3층 석탑 1기, 백년 향나무 3본"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_lee_sang_iron_cube_interior",
+    "anchors": [
+      {
+        "name": "hotspot_lee_sang_iron_cube_interior",
+        "pos": [
+          -13.5,
+          1.2,
+          5.0
+        ]
+      },
+      {
+        "name": "hotspot_park_no_soo_atelier_view",
+        "pos": [
+          13.5,
+          5.2,
+          -5.0
+        ]
+      },
+      {
+        "name": "hotspot_seochon_alley_junction",
+        "pos": [
+          0.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_park_nosoo_rock_garden_view",
+        "pos": [
+          13.5,
+          2.2,
+          11.0
+        ]
+      }
+    ]
+  }
+}
