@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03072_032",
+  "block_id": "03072_HERO_p32_세종문화회관_열주파사드",
+  "name": "세종문화회관 대극장 열주파사드",
+  "name_en": "Sejong Center Grand Colonnade Facade",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03072",
+  "heritage": {
+    "designation": "광화문 문화예술 랜드마크",
+    "name": "세종문화회관 대극장 (엄덕문 건축가 설계)"
+  },
+  "coordinates": [
+    126.975412,
+    37.572815
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 광화문광장-세종문화회관 남북 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 광화문광장 서측 보행로 및 세종 대계단 시점 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 280.0,
+    "lod2_distance": 900.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11600,
+      "bytes": 676027
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 1392,
+      "bytes": 58679
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "sejong_grand_stairs_and_plaza",
+      "desc": "광화문광장 서측 보행로(y=0.0m 스냅) 및 폭 24m 28단 중앙 대계단"
+    },
+    {
+      "id": "sejong_giant_colonnade_facade",
+      "desc": "높이 18m 거대 화강암 열주 12기, 엔타블러처 대들보, 비천도(飛天圖) 대형 양각 부조(16x6m)"
+    },
+    {
+      "id": "sejong_glass_foyer_curtainwall",
+      "desc": "대극장 1~3층 전면 통유리 포이어 커튼월 및 미디어파사드 프로젝션 면"
+    },
+    {
+      "id": "sejong_grand_theater_roof_shell",
+      "desc": "대극장 본관 메인 매스 및 한옥 처마 앙곡 콘크리트 쉘, 서까래 96기(장연 48기+부연 48기)"
+    },
+    {
+      "id": "sejong_arts_garden_trees",
+      "desc": "세종 예술의정원 조경 소나무 8본"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_sejong_grand_stairs_view",
+    "anchors": [
+      {
+        "name": "hotspot_sejong_grand_stairs_view",
+        "pos": [
+          0.0,
+          4.2,
+          -15.0
+        ]
+      },
+      {
+        "name": "hotspot_sejong_colonnade_walkway_view",
+        "pos": [
+          0.0,
+          4.2,
+          -12.0
+        ]
+      },
+      {
+        "name": "hotspot_sejong_bicheondo_relief_view",
+        "pos": [
+          0.0,
+          5.5,
+          -9.0
+        ]
+      },
+      {
+        "name": "hotspot_gwanghwamun_looking_sejong_view",
+        "pos": [
+          0.0,
+          1.2,
+          -28.0
+        ]
+      }
+    ]
+  }
+}
