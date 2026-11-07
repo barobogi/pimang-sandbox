@@ -1,0 +1,134 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03058_007",
+  "block_id": "03058_HERO_p07_창덕궁_후원_부용정",
+  "name": "창덕궁 후원 부용정 및 주합루",
+  "name_en": "Changdeokgung Rear Garden Buyongjeong Pavilion & Juhapru",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03058",
+  "heritage": {
+    "designation": "보물 제1763호(부용정) / 보물 제1769호(주합루)",
+    "name": "창덕궁 부용정과 주합루"
+  },
+  "coordinates": [
+    126.992812,
+    37.580451
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-창덕궁 중심축 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 부용지 호안 및 수면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 260.0,
+    "lod2_distance": 900.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 13464,
+      "bytes": 661970
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 2822,
+      "bytes": 116914
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "buyongji_pond_and_island",
+      "desc": "36x36m 부용지 연못 수면, 4면 장대석 호안 석축 및 직경 9m 중앙 원형 인공섬(소나무 정원)"
+    },
+    {
+      "id": "buyongjeong_cross_pavilion",
+      "desc": "부용정(보물 제1763호): 亞자형 십자 평면, 연못 물속 2기 화강암 석주 수상 누마루 및 기단"
+    },
+    {
+      "id": "buyongjeong_cross_roofs",
+      "desc": "부용정 십자형 복합 팔작지붕 및 처마 밑 3D 서까래 64기"
+    },
+    {
+      "id": "eosumun_three_arch_gate",
+      "desc": "어수문: 어도 중앙 대문 및 좌우 협문 3문 구조 전통 문루, 황금 현판"
+    },
+    {
+      "id": "juhapru_two_story_pavilion",
+      "desc": "주합루(보물 제1769호): 3단 화강암 석축 언덕, 16단 어도 돌계단, 1층 규장각 및 2층 주합루 열주"
+    },
+    {
+      "id": "juhapru_paljak_roof",
+      "desc": "주합루 2층 대형 팔작지붕, 3D 서까래 72기, 용마루 취두 및 황금 현판 2기"
+    },
+    {
+      "id": "buyongjeong_interior_and_library",
+      "desc": "1인칭 다이빙: 부용정 수상 누마루 수면 뷰, 1층 규장각 왕실 서고 서가 4조, 2층 정조 열람 책상"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_buyongjeong_water_deck_view",
+    "anchors": [
+      {
+        "name": "hotspot_buyongjeong_water_deck_view",
+        "pos": [
+          0.0,
+          1.8,
+          15.2
+        ]
+      },
+      {
+        "name": "hotspot_juhapru_2f_panorama_view",
+        "pos": [
+          0.0,
+          7.2,
+          -28.0
+        ]
+      },
+      {
+        "name": "hotspot_gyujanggak_1f_royal_library",
+        "pos": [
+          0.0,
+          4.5,
+          -31.0
+        ]
+      },
+      {
+        "name": "hotspot_eosumun_stone_staircase",
+        "pos": [
+          0.0,
+          1.5,
+          -21.0
+        ]
+      },
+      {
+        "name": "hotspot_buyongji_pine_island",
+        "pos": [
+          0.0,
+          1.2,
+          0.0
+        ]
+      }
+    ]
+  }
+}
