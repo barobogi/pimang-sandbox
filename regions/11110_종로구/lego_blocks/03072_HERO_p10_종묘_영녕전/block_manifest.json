@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03072_010",
+  "block_id": "03072_HERO_p10_종묘_영녕전",
+  "name": "종묘 영녕전",
+  "name_en": "Jongmyo Yeongnyeongjeon (Annex Shrine)",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03072",
+  "heritage": {
+    "designation": "보물 제821호 / 유네스코 세계문화유산",
+    "name": "종묘 영녕전"
+  },
+  "coordinates": [
+    126.994215,
+    37.575841
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-종묘 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 영녕전 지반 및 하월대 바닥 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.1,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 280.0,
+    "lod2_distance": 950.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10954,
+      "bytes": 667189
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 364,
+      "bytes": 25728
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "yeongnyeongjeon_woldae_and_plaza",
+      "desc": "2단 월대(상월대 94x26m, 하월대 94x32m), 신계 3개소, 테두리 장대석 80개소"
+    },
+    {
+      "id": "yeongnyeongjeon_16bays_shrine",
+      "desc": "영녕전 16칸 신실 본채(길이 84m), 전면 배흘림 열주 19기, 16개 감실 주칠 판자문 및 문고리"
+    },
+    {
+      "id": "yeongnyeongjeon_stepped_matbae_roof",
+      "desc": "3단 단차 맞배지붕: 중앙 4칸 돌출 높은 지붕 + 좌우 익실 6칸씩 단차 맞배지붕, 서까래 140기"
+    },
+    {
+      "id": "yeongnyeongjeon_south_gate",
+      "desc": "남신문 3칸 맞배지붕 정문 및 대문 3개소"
+    },
+    {
+      "id": "yeongnyeongjeon_gate_roof",
+      "desc": "남신문 맞배지붕"
+    },
+    {
+      "id": "yeongnyeongjeon_spirit_interior",
+      "desc": "1인칭 다이빙: 태조 4대조 목조 신실 제단 및 상월대 16칸 단차 지붕 파노라마 뷰"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_stepped_matbae_roof_panorama",
+    "anchors": [
+      {
+        "name": "hotspot_stepped_matbae_roof_panorama",
+        "pos": [
+          0.0,
+          2.2,
+          14.0
+        ]
+      },
+      {
+        "name": "hotspot_mokjo_ancestral_altar",
+        "pos": [
+          -8.25,
+          2.2,
+          -4.5
+        ]
+      },
+      {
+        "name": "hotspot_south_spirit_gate_entrance",
+        "pos": [
+          0.0,
+          0.8,
+          52.0
+        ]
+      },
+      {
+        "name": "hotspot_west_wing_spirit_chambers",
+        "pos": [
+          -28.0,
+          2.0,
+          -4.0
+        ]
+      }
+    ]
+  }
+}
