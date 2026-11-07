@@ -1,0 +1,177 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "spec_ref": "117_블록_장착_규약_v1_만복_20261107 + TASK_REQUEST_20261107_JONGNO_LEGO_50BLOCKS.md §3 [영역 1] #03045_HERO_p02",
+  "composite_id": "11110_01_03045_004",
+  "composite_key_rule": {
+    "segments": [
+      "11110 종로구",
+      "01 왕실·궁궐 CAT01",
+      "03045 경복궁 국가기초구역",
+      "004 광화문 왕실 정문 패키지"
+    ],
+    "fractal_children": [
+      "11110_01_03045_004_01 육축 기단 및 3홍예문(홍예석 쐐기돌 아치)·성곽여장",
+      "11110_01_03045_004_02 2층 중층 문루 및 우진각지붕·공포대·잡상·광화문현판",
+      "11110_01_03045_004_03 광화문 좌우 해태 석상 및 화강암 좌대"
+    ],
+    "note": "광화문 육축 기단, 2층 문루, 좌우 해태상을 포함하는 왕실 정문 단일 완결 패키지"
+  },
+  "block_id": "03045_HERO_p02_경복궁_광화문",
+  "name": "경복궁 광화문",
+  "name_en": "Gwanghwamun Gate, Gyeongbokgung Palace",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03045",
+  "heritage": {
+    "designation": "사적",
+    "number": 117,
+    "name": "경복궁 (광화문)",
+    "historic_site": "경복궁 정문 광화문 및 월대",
+    "quantity": "1동"
+  },
+  "coordinates": [
+    126.97689,
+    37.57599
+  ],
+  "coordinates_note": "모델 원점 = 중앙 홍예문(어도) 바닥면의 지면 중심(y=0.0). OSM way/24227092 광화문 중심 좌표(126.97689, 37.57599)",
+  "orientation_deg": 174.2,
+  "orientation_note": "정북 기준 시계방향 174.2° = 경복궁·한양도성 중심축선. 모델 +Z = 광화문 정면(남남동), +X = 동남동, -Z = 궁궐 내부(북북서).",
+  "heading": 174.2,
+  "heading_note": "orientation_deg의 레거시 별칭(동일값)",
+  "axis_alignment": {
+    "reference": "한양도성 축선(경복궁 중심축) 174.2° + 광화문 월대 정면 정합",
+    "local_x_bearing_deg": 84.2,
+    "local_z_bearing_deg": 174.2,
+    "shape_rotation_note": "광화문 장축과 세종대로 축선이 직교 정합되도록 축선 174.2° 내장"
+  },
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "contact_plane_meaning": "화강암 육축 기단 바닥면 및 해태 좌대 바닥면 = 지형 접촉면(y=0.0). 로더가 지형 고도를 1회만 합산한다.",
+    "lowest_geometry_y": 0.0,
+    "lowest_geometry_meaning": "공중부양 및 지하 파고듦 없는 완벽한 지면 밀착 모델(y=0.00).",
+    "note": "블록 파일에 절대 해발고도는 기재하지 않는다. 기단은 모델 내부에 포함하며 y 오프셋으로 띄우지 않는다."
+  },
+  "base_plinth_height_m": 6.8,
+  "lod_switch_distance": 250,
+  "spec_dimensions_m": {
+    "yukchuk_width_m": 38.0,
+    "yukchuk_depth_m": 15.6,
+    "yukchuk_height_m": 6.8,
+    "center_arch_width_m": 4.5,
+    "center_arch_height_m": 5.2,
+    "side_arch_width_m": 3.6,
+    "side_arch_height_m": 4.3,
+    "pavilion_floor1_width_m": 18.0,
+    "pavilion_floor1_depth_m": 10.0,
+    "roof_width_m": 21.0,
+    "roof_depth_m": 12.4,
+    "roof_ridge_height_m": 19.45,
+    "total_height_m": 19.9,
+    "haetae_offset_x_m": 14.0,
+    "haetae_offset_z_m": 12.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -23.0,
+      0.0,
+      -7.949999809265137
+    ],
+    "max": [
+      23.0,
+      19.899999618530273,
+      13.399999618530273
+    ]
+  },
+  "roof_structure": {
+    "roof_type": "ujingak",
+    "description": "2층 중층 우진각 지붕, 3D 수키와/암키와 기와골 플루팅, 사방 추녀마루, 용마루 취두 및 4대 내림마루 28기 잡상",
+    "eave_lift_m": 1.6,
+    "curvature_formula": "h(t) = 0.30t + 0.70t^2.3",
+    "japsang_count_total": 28
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_01_03045_004_01",
+      "name": "yukchuk_base_and_3arches",
+      "name_kr": "육축 기단 및 3홍예문(홍예석 쐐기돌 아치)·성곽여장",
+      "node_name": "component_11110_01_03045_004_01_yukchuk"
+    },
+    {
+      "id": "11110_01_03045_004_02",
+      "name": "pavilion_2story_and_roof",
+      "name_kr": "2층 중층 문루 및 우진각지붕·공포대·잡상·광화문현판",
+      "node_name": "component_11110_01_03045_004_02_pavilion"
+    },
+    {
+      "id": "11110_01_03045_004_03",
+      "name": "haetae_pair_statues",
+      "name_kr": "좌우 해태상 및 화강암 좌대",
+      "node_name": "component_11110_01_03045_004_03_haetae"
+    }
+  ],
+  "anchor_nodes": [
+    "anchor_gate_central_eodo",
+    "anchor_gate_left_hyeopmun",
+    "anchor_gate_right_hyeopmun",
+    "anchor_haetae_east",
+    "anchor_haetae_west"
+  ],
+  "night_lighting_anchors": {
+    "floodlight_front_south_1": [
+      0.0,
+      0.5,
+      16.0
+    ],
+    "floodlight_front_south_2": [
+      -12.0,
+      0.5,
+      14.0
+    ],
+    "floodlight_front_south_3": [
+      12.0,
+      0.5,
+      14.0
+    ],
+    "floodlight_pavilion_ceiling": [
+      0.0,
+      10.6,
+      0.0
+    ]
+  },
+  "texture": {
+    "atlas_file": "texture_atlas.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "image/webp",
+    "quality": 88,
+    "channels": 4,
+    "quadrant_layout": {
+      "top_left": "giwa_roof_tile (기와)",
+      "top_right": "wood_dancheong (목재 단청)",
+      "bottom_left": "granite_yukchuk (화강암 육축)",
+      "bottom_right": "gate_metal_stone (홍예문 판문·철물·해태석)"
+    },
+    "v_flip_guard": "대칭 사분면 패턴 적용으로 WebGL V-flip 시 시각 일관성 보장"
+  },
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 898660,
+  "references": [
+    "국가유산청 사적 제117호 경복궁 광화문 실측조사보고서",
+    "서울역사박물관 광화문 월대 및 육축 복원 정밀 실측도",
+    "OSM way/24227092 Gwanghwamun Footprint",
+    "117호 블록 장착 규약 v1 (만복)"
+  ],
+  "generation": {
+    "tool": "Pickle Autonomous 3D Block Pipeline",
+    "mode": "Procedural mathematical geometry builder (zero chat token explosion)",
+    "created_at": "2026-11-07T18:04:00+09:00"
+  }
+}
