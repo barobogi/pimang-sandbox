@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03086_036",
+  "block_id": "03086_FAÇADE_p36_대학로_150개소극장_부스",
+  "name": "대학로 150개 소극장 거리 & 티켓부스",
+  "name_en": "Daehangno 150 Theaters Alley & Ticketbox Booths",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03086",
+  "heritage": {
+    "designation": "문화지구 랜드마크",
+    "name": "대학로 연극거리 (세계 최다 소극장 밀집 문화지구)"
+  },
+  "coordinates": [
+    127.002814,
+    37.582415
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 대학로 연극거리 남북 가로 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 대학로 보행자 전용 연극 거리 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10328,
+      "bytes": 590521
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 324,
+      "bytes": 21096
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "daehangno_pedestrian_street_ground",
+      "desc": "대학로 보행자 전용 연극거리 대지(48x32m, y=0.0m 스냅) 및 화강암 보도블록"
+    },
+    {
+      "id": "daehangno_theater_facades_cluster",
+      "desc": "4개 대표 소극장 파사드(붉은벽돌 학전, 노출콘크리트 예술극장, 코르텐강 아트원 등)"
+    },
+    {
+      "id": "daehangno_ticketbox_booths_and_panels",
+      "desc": "야외 통합 티켓박스 부스 3개소(창구, 차양, LED 전광판) 및 쇼케이스 프레임"
+    },
+    {
+      "id": "daehangno_theater_posters_and_neon",
+      "desc": "36개 연극 포스터 입체 쇼케이스 및 극장 대형 네온사인 세로 간판 4개소"
+    },
+    {
+      "id": "daehangno_underground_theater_stairs",
+      "desc": "지하 Y=-2.8m 소극장 진입 계단 2개소(14단 화강석 계단 및 난간벽)"
+    },
+    {
+      "id": "daehangno_streetlights_and_banners",
+      "desc": "대학로 가로등 6기, 홍보 깃발 배너 12기, 에디슨 스트링 라이트, 벤치 6기"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_daehangno_ticketbox_view",
+    "anchors": [
+      {
+        "name": "hotspot_daehangno_ticketbox_view",
+        "pos": [
+          -2.8,
+          1.2,
+          -0.8
+        ]
+      },
+      {
+        "name": "hotspot_underground_theater_entrance_view",
+        "pos": [
+          -6.5,
+          0.8,
+          -6.5
+        ]
+      },
+      {
+        "name": "hotspot_daehangno_theater_alley_view",
+        "pos": [
+          0.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_theater_cafe_terrace_view",
+        "pos": [
+          -13.0,
+          5.2,
+          2.5
+        ]
+      }
+    ]
+  }
+}
