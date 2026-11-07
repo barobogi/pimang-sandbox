@@ -1,0 +1,56 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "composite_id": "11110_04_03072_001",
+  "block_id": "03072_HERO_p31_세종대왕_이순신_3D동상",
+  "name": "세종대왕 이순신 3D동상",
+  "category": "CAT04_CIVIC_CULTURE",
+  "postal_code": "03072",
+  "coordinates": [
+    126.9769,
+    37.5732
+  ],
+  "orientation_deg": 174.2,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "lowest_geometry_y": 0.0
+  },
+  "lod_switch_distance": 250,
+  "bbox_local_m": {
+    "min": [
+      -4.599999904632568,
+      0.0,
+      -36.29999923706055
+    ],
+    "max": [
+      4.599999904632568,
+      17.0,
+      33.599998474121094
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_04_03072_001_01",
+      "name": "sejong_statue",
+      "name_kr": "세종대왕 황금빛 좌상 및 훈민정음 어제"
+    },
+    {
+      "id": "11110_04_03072_001_02",
+      "name": "sunshin_statue",
+      "name_kr": "충무공 이순신 장군 입상 및 10.5m 탑형 좌대"
+    },
+    {
+      "id": "11110_04_03072_001_03",
+      "name": "geobukseon_sculpture",
+      "name_kr": "선단 거북선 용두 조각 및 돌기 철갑"
+    }
+  ],
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 44098
+}
