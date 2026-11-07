@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03188_049",
+  "block_id": "03188_LIGHT_p49_종로가로등_9500개_조명맵",
+  "name": "종로 가로등 9,500개 야간 조명맵 & IoT 스마트 가로등 관제탑",
+  "name_en": "Jongno 9,500 Streetlights Night Lighting Map & Smart Pole IoT Center",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "종로구 전역 5대 권역 통합 스마트 도시 야간 조명 인프라 완결작",
+    "name": "종로 가로등 9,500개 야간 21:00 조명맵, 스마트폴, 북촌 청사초롱, IoT 관제탑"
+  },
+  "coordinates": [
+    126.981452,
+    37.571248
+  ],
+  "orientation_deg": 0.0,
+  "heading": 0.0,
+  "heading_note": "정북 기준 시계방향 0.0° = 종로구 전역 5대 권역 통합 조명망 정북 정합 축선",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 통합 조명 관제 광장 기저 지반 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11078,
+      "bytes": 647568
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 456,
+      "bytes": 23246
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "lighting_tower_and_plaza",
+      "desc": "IoT 스마트 가로등 통합 관제탑(12x10x14m), 필로티 기둥 4기, 옥상 안테나 4.5m, 디오라마 기단(24x16x0.8m)"
+    },
+    {
+      "id": "lighting_glass_and_display",
+      "desc": "3층 360도 전면 유리 관제실(11.2x9.2x3.2m), 알루미늄 멀리언 16개소, 대형 미디어월 LED 스크린(8.5x4.8m)"
+    },
+    {
+      "id": "lighting_poles_and_lanterns",
+      "desc": "종로대로 10m 스마트폴 4기, 북촌 청사초롱 8기, 문화예술 클래식 3구 가로등 8기, 성곽·수변 지중등 16기"
+    },
+    {
+      "id": "lighting_glowing_map",
+      "desc": "종로 9,500개 가로등 야간 21:00 발광 조명맵 디오라마 핀 96개소, 스마트폴 발광체 4개소, 서치라이트 렌즈"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_jongno_light_control_room_view",
+    "anchors": [
+      {
+        "name": "hotspot_jongno_light_control_room_view",
+        "pos": [
+          -14.0,
+          12.0,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_jongno_smart_pole_street_view",
+        "pos": [
+          4.5,
+          1.8,
+          10.0
+        ]
+      },
+      {
+        "name": "hotspot_jongno_cheongsachorong_alley_view",
+        "pos": [
+          4.5,
+          1.6,
+          -10.0
+        ]
+      },
+      {
+        "name": "hotspot_jongno_lighting_diorama_view",
+        "pos": [
+          8.0,
+          2.2,
+          -7.0
+        ]
+      }
+    ]
+  }
+}
