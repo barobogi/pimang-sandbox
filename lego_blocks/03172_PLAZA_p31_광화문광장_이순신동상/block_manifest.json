@@ -1,0 +1,105 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_04_03072_001",
+  "block_id": "03172_PLAZA_p31_광화문광장_이순신동상",
+  "name": "광화문광장 충무공 이순신 동상",
+  "category": "CAT04_PLAZA_STATUE",
+  "postal_code": "03172",
+  "coordinates": {
+    "lat": 37.5714,
+    "lng": 126.9768
+  },
+  "heading": 174.2,
+  "base_plinth_height_m": 0.0,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "base_y": 0.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -20.0,
+      0.0,
+      -20.0
+    ],
+    "max": [
+      20.0,
+      18.5,
+      20.0
+    ]
+  },
+  "lod_switch_distance": {
+    "lod3_to_lod2_m": 45.0,
+    "lod2_to_lod1_m": 120.0
+  },
+  "hierarchical_components": [
+    {
+      "id": "leesunshin_plaza_ground",
+      "level": 1,
+      "triangles": 380,
+      "description": "광화문광장 화강암 판석 바닥(40m x 40m, Y=0.0m) 및 보행 가로 라인"
+    },
+    {
+      "id": "leesunshin_granite_pedestal",
+      "level": 1,
+      "triangles": 2480,
+      "description": "10.5m 다층 화강암 테라스 좌대 기단 및 명량대첩 전승 부조 2개소"
+    },
+    {
+      "id": "leesunshin_bronze_statue",
+      "level": 2,
+      "triangles": 4640,
+      "description": "6.5m 청동 충무공 이순신 장군 입상(두정갑, 투구, 긴 장검)"
+    },
+    {
+      "id": "leesunshin_geobukseon_and_drums",
+      "level": 3,
+      "triangles": 3120,
+      "description": "선두 거북선(용두, 철갑 가시 18기) 및 좌우 승전고 북 2기"
+    },
+    {
+      "id": "leesunshin_myeongnyang_fountain",
+      "level": 3,
+      "triangles": 3260,
+      "description": "명량분수 바닥 트렌치, 228개 노즐 및 36개 입체 물줄기 기둥"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_statue_front_view",
+      "label": "이순신 장군 동상 정면 조망"
+    },
+    {
+      "id": "hotspot_geobukseon_close",
+      "label": "거북선 조각 정밀 감상"
+    },
+    {
+      "id": "hotspot_fountain_water_play",
+      "label": "명량분수 물놀이 체험"
+    },
+    {
+      "id": "anchor_statue_heroic_head",
+      "label": "충무공 투구 상단 영웅 앵커"
+    },
+    {
+      "id": "anchor_sejongdaero_axis_view",
+      "label": "세종대로 남북 축선 뷰"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_04_03072_001_01(이순신동상), _02(거북선), _03(명량분수) 등",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 10088
+    },
+    "model_lod2.gltf": {
+      "triangles": 442
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "광화문광장 충무공 이순신 동상 실측 조사자료 — 서울특별시 역사문화재과",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md 종로 12종 발주서 #10"
+  ]
+}
