@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03031_026",
+  "block_id": "03031_NATURE_p26_인왕산_치마바위_범바위",
+  "name": "인왕산 치마바위 & 범바위",
+  "name_en": "Inwangsan Chima-bawi & Beom-bawi Rock Ridge",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03031",
+  "heritage": {
+    "designation": "사적 제10호 한양도성 인왕산 능선 및 단경왕후 전설 자연문화유산",
+    "name": "인왕산 치마바위(판상 암릉) & 범바위(호랑이 암봉)"
+  },
+  "coordinates": [
+    126.960812,
+    37.581524
+  ],
+  "orientation_deg": 348.5,
+  "heading": 348.5,
+  "heading_note": "정북 기준 시계방향 348.5° = 인왕산 주능선 및 한양도성 성곽 남북 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 인왕산 능선 암반 기저면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10440,
+      "bytes": 547655
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 300,
+      "bytes": 16293
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "inwangsan_granite_ridge",
+      "desc": "인왕산 화강암 주능선(48x36m, y=0.0m 스냅), 범바위 4단 암봉(높이 11.5m), 치마바위 슬래브 12단(높이 6.5m)"
+    },
+    {
+      "id": "inwangsan_city_wall",
+      "desc": "사적 제10호 한양도성 인왕산 성벽 36m, 성돌 3단 테셀레이션 72개소, 여장 20개소, 옥개석 및 총안 40개소"
+    },
+    {
+      "id": "inwangsan_trail_deck",
+      "desc": "성곽 탐방로 목재 데크 계단 36단, 안전 핸드레일 36m 2열, 난간 지주 36기"
+    },
+    {
+      "id": "inwangsan_pines_and_flora",
+      "desc": "인왕산 암반 틈새 굽은 적송 소나무 12본(수간 2단 및 솔잎 수관 3단) 및 능선 관목"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_inwangsan_beombawi_peak_view",
+    "anchors": [
+      {
+        "name": "hotspot_inwangsan_beombawi_peak_view",
+        "pos": [
+          -16.5,
+          12.8,
+          -5.5
+        ]
+      },
+      {
+        "name": "hotspot_inwangsan_chimabawi_legend_view",
+        "pos": [
+          11.0,
+          4.8,
+          3.0
+        ]
+      },
+      {
+        "name": "hotspot_inwangsan_city_wall_trail_view",
+        "pos": [
+          1.2,
+          4.5,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_inwangsan_ridge_trail_view",
+        "pos": [
+          -2.0,
+          6.2,
+          10.0
+        ]
+      }
+    ]
+  }
+}
