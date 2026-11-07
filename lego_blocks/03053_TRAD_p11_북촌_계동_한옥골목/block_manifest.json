@@ -1,0 +1,123 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_02_03053_001",
+  "block_id": "03053_TRAD_p11_북촌_계동_한옥골목",
+  "name": "북촌 계동 한옥 밀집골목",
+  "category": "CAT02_TRAD_ALLEY",
+  "postal_code": "03053",
+  "coordinates": {
+    "lat": 37.5812,
+    "lng": 126.9868
+  },
+  "heading": 172.5,
+  "base_plinth_height_m": 2.4,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "base_y": 0.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -19.0,
+      0.0,
+      -21.0
+    ],
+    "max": [
+      19.0,
+      7.8,
+      21.0
+    ]
+  },
+  "lod_switch_distance": {
+    "lod3_to_lod2_m": 45.0,
+    "lod2_to_lod1_m": 120.0
+  },
+  "hierarchical_components": [
+    {
+      "id": "gyedong_alley_paved_slope",
+      "level": 1,
+      "triangles": 380,
+      "description": "계동 4m 화강암 박석 골목길 및 2개소 실측 돌계단"
+    },
+    {
+      "id": "sagoseok_masonry_walls_and_gates",
+      "level": 1,
+      "triangles": 480,
+      "description": "골목길 양측 사고석 돌담 및 솟을대문 기와 갓"
+    },
+    {
+      "id": "hanok_granite_plinths",
+      "level": 2,
+      "triangles": 360,
+      "description": "한옥 6채 경사지 맞춤 화강암 장대석 기단"
+    },
+    {
+      "id": "hanok_wood_columns_and_windows",
+      "level": 2,
+      "triangles": 1840,
+      "description": "전통 목조 기둥 48열주 및 세살창/아자창 창호살 파사드"
+    },
+    {
+      "id": "hanok_eave_rafters_3d",
+      "level": 3,
+      "triangles": 5760,
+      "description": "처마선 둘레 3D 둥근 서까래 120기 입체 배열"
+    },
+    {
+      "id": "hanok_paljak_and_gable_roofs",
+      "level": 3,
+      "triangles": 4680,
+      "description": "오공간 상승 처마 곡률 적용 팔작지붕 및 맞배지붕 한와 패키지"
+    },
+    {
+      "id": "hanok_bronze_and_lanterns",
+      "level": 4,
+      "triangles": 720,
+      "description": "솟을대문 처마 밑 홍청 비단 청사초롱 4쌍 및 황동 문고리"
+    },
+    {
+      "id": "hanok_chimneys_and_heritage_details",
+      "level": 4,
+      "triangles": 240,
+      "description": "전통 와편 굴뚝 4기 및 연가 지붕 갓"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_gyedong_alley_steps",
+      "label": "계동 골목길 돌계단"
+    },
+    {
+      "id": "hotspot_soseuldaemun_east",
+      "label": "동측 솟을대문 저택"
+    },
+    {
+      "id": "hotspot_soseuldaemun_west",
+      "label": "서측 솟을대문 명가"
+    },
+    {
+      "id": "hotspot_hanok_eave_rafters",
+      "label": "한옥 처마선 및 서까래"
+    },
+    {
+      "id": "hotspot_cheongsachorong_lanterns",
+      "label": "솟을대문 청사초롱"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_02_03053_001_01(돌계단), _02(솟을대문), _03(서까래 세트) 등 무한 분해",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 12620
+    },
+    "model_lod2.gltf": {
+      "triangles": 968
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "북촌 계동길 도시한옥 밀집지구 실측 기록 — 서울역사아카이브",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md 종로 12종 발주서 #5"
+  ]
+}
