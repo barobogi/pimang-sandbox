@@ -1,0 +1,182 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "spec_ref": "117_블록_장착_규약_v1_만복_20261107 + TASK_REQUEST_20261107_JONGNO_LEGO_PRIORITY12.md §3 [그룹 2] #03052_ROOF_p11/p12/p13/p14",
+  "composite_id": "11110_02_03052_001",
+  "composite_key_rule": {
+    "segments": [
+      "11110 종로구",
+      "02 전통 한옥 & 근대 골목길 CAT02",
+      "03052 북촌·가회동 국가기초구역",
+      "001 북촌 전통 한옥골목 시그니처 복합 패키지"
+    ],
+    "fractal_children": [
+      "11110_02_03052_001_01 동측 한옥 파사드군 (맞배·팔작 가옥 4채, 솟을대문, 사고석 담장, 서까래)",
+      "11110_02_03052_001_02 서측 한옥 파사드군 (팔작·맞배 가옥 4채, 솟을대문, 사고석 담장, 서까래)",
+      "11110_02_03052_001_03 4m 스냅 화강암 박석 골목길 노면, 완만한 경사 구배, 조망 돌계단 단차"
+    ],
+    "note": "가회동 31번지 북촌 5경·6경 조망 골목을 온전히 구성하는 한옥 파사드·돌담·박석 골목길 완결 패키지"
+  },
+  "block_id": "03052_HERO_p11_북촌_한옥골목_모듈러",
+  "name": "북촌 가회동 한옥골목 모듈러",
+  "name_en": "Bukchon Hanok Village Alley Modular, Gahoe-dong",
+  "category": "CAT02_HERITAGE_VILLAGE",
+  "postal_code": "03052",
+  "heritage": {
+    "designation": "서울미래유산",
+    "number": 2014,
+    "name": "북촌 한옥마을 (가회동 31번지 골목길)",
+    "historic_site": "가회동 한옥 밀집지구 및 북촌 5경·6경 조망로",
+    "quantity": "한옥 가옥 8채 및 32m 골목길"
+  },
+  "coordinates": [
+    126.98362,
+    37.58284
+  ],
+  "coordinates_note": "모델 원점 = 가회동 31번지 골목길 남단(y=0.0m). 위경도 (126.98362, 37.58284)",
+  "orientation_deg": 172.5,
+  "orientation_note": "북촌 골목길 축선 방위각 172.5°. +Z = 남남서(남산서울타워 조망 방향), -Z = 북북동(북악산 방향).",
+  "heading": 172.5,
+  "heading_note": "orientation_deg의 레거시 별칭(동일값)",
+  "axis_alignment": {
+    "reference": "가회동 31번지 북촌로11길 중심선 172.5° 정합",
+    "local_x_bearing_deg": 82.5,
+    "local_z_bearing_deg": 172.5,
+    "shape_rotation_note": "골목길 시선이 남산타워를 향하도록 172.5° 축선 내장"
+  },
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "contact_plane_meaning": "골목길 남단 노면 및 한옥 기단 최저면 = 지형 접촉면(y=0.0). 로더가 지형 고도를 1회만 합산한다.",
+    "lowest_geometry_y": 0.0,
+    "lowest_geometry_meaning": "공중부양 및 지하 파고듦 없는 완벽한 지면 밀착 모델(y=0.00).",
+    "note": "절대 해발고도는 기재하지 않는다. 경사 지형(0.0m ~ 1.6m)을 지오메트리 내부에 수용하여 지면과 일체화된다."
+  },
+  "base_plinth_height_m": 0.5,
+  "lod_switch_distance": 250,
+  "spec_dimensions_m": {
+    "alley_length_m": 32.0,
+    "alley_width_m": 4.0,
+    "alley_slope_height_m": 1.6,
+    "package_total_width_m": 17.0,
+    "hanok_units_count": 8,
+    "max_height_m": 5.4
+  },
+  "bbox_local_m": {
+    "min": [
+      -8.899999618530273,
+      0.0,
+      -16.200000762939453
+    ],
+    "max": [
+      8.899999618530273,
+      6.5,
+      16.200000762939453
+    ]
+  },
+  "roof_structure": {
+    "roof_types": [
+      "matbae",
+      "paljak"
+    ],
+    "description": "맞배지붕 4채 및 팔작지붕 4채 교차 배치, 암수키와 텍스처 맵핑, 처마 서까래 입체 돌출",
+    "eave_lift_m": 0.45,
+    "cheongsachorong_count": 4
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_02_03052_001_01",
+      "name": "hanok_facades_east",
+      "name_kr": "동측 한옥 파사드군 (맞배·팔작 가옥 4채, 솟을대문, 사고석 담장)",
+      "node_name": "component_11110_02_03052_001_01_hanok_facades_east"
+    },
+    {
+      "id": "11110_02_03052_001_02",
+      "name": "hanok_facades_west",
+      "name_kr": "서측 한옥 파사드군 (팔작·맞배 가옥 4채, 솟을대문, 사고석 담장)",
+      "node_name": "component_11110_02_03052_001_02_hanok_facades_west"
+    },
+    {
+      "id": "11110_02_03052_001_03",
+      "name": "alley_pavement_steps",
+      "name_kr": "4m 스냅 화강암 박석 골목길 노면, 완만한 경사 구배, 조망 돌계단 단차",
+      "node_name": "component_11110_02_03052_001_03_alley_pavement_steps"
+    }
+  ],
+  "anchor_nodes": [
+    "hotspot_bukchon_viewpoint_gahoe31",
+    "anchor_cheongsachorong_01",
+    "anchor_cheongsachorong_02",
+    "anchor_cheongsachorong_03",
+    "anchor_cheongsachorong_04",
+    "night_light_street_01",
+    "night_light_street_02"
+  ],
+  "night_lighting_anchors": {
+    "cheongsachorong_01": [
+      1.85,
+      3.2,
+      -10.0
+    ],
+    "cheongsachorong_02": [
+      -1.85,
+      3.0,
+      -2.0
+    ],
+    "cheongsachorong_03": [
+      1.85,
+      2.7,
+      6.0
+    ],
+    "cheongsachorong_04": [
+      -1.85,
+      2.5,
+      14.0
+    ],
+    "street_lamp_north": [
+      0.0,
+      3.5,
+      -8.0
+    ],
+    "street_lamp_south": [
+      0.0,
+      3.2,
+      8.0
+    ]
+  },
+  "texture": {
+    "atlas_file": "texture_atlas.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "image/webp",
+    "quality": 88,
+    "channels": 4,
+    "quadrant_layout": {
+      "top_left": "hanok_giwa_roof (한옥 기와)",
+      "top_right": "wood_hanji_facade (목재 기둥·창호·한지)",
+      "bottom_left": "granite_pavement_wall (사고석 돌담·화강암 박석)",
+      "bottom_right": "cheongsachorong_silk (청사초롱 비단·대문 철물)"
+    },
+    "v_flip_guard": "대칭 사분면 패턴 적용으로 WebGL V-flip 시 시각 일관성 보장"
+  },
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 482924,
+  "references": [
+    "종로구청 북촌한옥마을 가회동 31번지 보존관리계획 실측도",
+    "서울역사아카이브 북촌 한옥 골목길 건축실측조사서",
+    "OSM way/44621019 Bukchon-ro 11-gil",
+    "117호 블록 장착 규약 v1 (만복)"
+  ],
+  "generation": {
+    "tool": "Pickle Autonomous 3D Block Pipeline",
+    "mode": "Procedural mathematical geometry builder (zero chat token explosion)",
+    "created_at": "2026-11-07T18:25:00+09:00"
+  }
+}
