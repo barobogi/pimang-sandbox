@@ -1,0 +1,134 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03058_008",
+  "block_id": "03058_HERO_p08_창덕궁_낙선재",
+  "name": "창덕궁 낙선재",
+  "name_en": "Changdeokgung Nakseonjae Complex",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03058",
+  "heritage": {
+    "designation": "보물 제1764호",
+    "name": "창덕궁 낙선재"
+  },
+  "coordinates": [
+    126.992258,
+    37.578652
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-창덕궁 중심축 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 낙선재 앞마당 지반 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.1,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 260.0,
+    "lod2_distance": 900.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 12760,
+      "bytes": 694120
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 4116,
+      "bytes": 166275
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "nakseonjae_plinth_and_courtyards",
+      "desc": "사고석 화강암 기단(68x22m), 앞마당 및 3개 진입 돌계단"
+    },
+    {
+      "id": "nakseonjae_baekgol_main_hall",
+      "desc": "낙선재 본채(보물 제1764호): 단청 없는 백골 원목 목구조, 돌출 누마루 및 아자살 난간, 14기 열주"
+    },
+    {
+      "id": "nakseonjae_paljak_roof",
+      "desc": "낙선재 팔작지붕, 64기 3D 서까래, 용마루"
+    },
+    {
+      "id": "seokbokheon_and_sugangjae_halls",
+      "desc": "석복헌(경빈 김씨 처소) 및 수강재(순원왕후 처소) 2개동 백골 목구조"
+    },
+    {
+      "id": "seokbokheon_sugangjae_roofs",
+      "desc": "석복헌 및 수강재 팔작지붕 2개동"
+    },
+    {
+      "id": "nakseonjae_flower_terraces_and_walls",
+      "desc": "후원 4단 장대석 화계, 전돌 문양 꽃담, 원형 석조 만월문(滿月門)"
+    },
+    {
+      "id": "sangryangjeong_hex_pavilion",
+      "desc": "후원 언덕 상량정 육각정자 몸체, 원목 기둥 6기, 난간"
+    },
+    {
+      "id": "sangryangjeong_hex_roof",
+      "desc": "상량정 육모지붕, 3D 서까래 36기, 상륜부 절병통"
+    },
+    {
+      "id": "nakseonjae_interior_and_view",
+      "desc": "1인칭 다이빙: 낙선재 누마루 대청 서탁, 상량정 전망대 티 테이블"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_nakseonjae_numaru_garden_view",
+    "anchors": [
+      {
+        "name": "hotspot_nakseonjae_numaru_garden_view",
+        "pos": [
+          -26.0,
+          2.4,
+          4.0
+        ]
+      },
+      {
+        "name": "hotspot_sangryangjeong_palace_panorama",
+        "pos": [
+          -16.0,
+          5.8,
+          -18.0
+        ]
+      },
+      {
+        "name": "hotspot_flower_terraces_walkway",
+        "pos": [
+          0.0,
+          2.5,
+          -8.0
+        ]
+      },
+      {
+        "name": "hotspot_seokbokheon_courtyard",
+        "pos": [
+          2.0,
+          1.2,
+          10.0
+        ]
+      }
+    ]
+  }
+}
