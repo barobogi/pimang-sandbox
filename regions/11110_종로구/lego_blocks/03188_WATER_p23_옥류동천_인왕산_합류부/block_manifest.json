@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03188_023",
+  "block_id": "03188_WATER_p23_옥류동천_인왕산_합류부",
+  "name": "옥류동천 인왕산 합류부",
+  "name_en": "Ongnyudongcheon Stream Inwangsan Confluence",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "조선 후기 여항문학(송석원시사) 산실 및 서촌 수계 역사자연유산",
+    "name": "추사 김정희 친필 '松石園' 바위 각자, 전통 홍예 석교, Y자형 합류 암거"
+  },
+  "coordinates": [
+    126.968214,
+    37.581245
+  ],
+  "orientation_deg": 140.0,
+  "heading": 140.0,
+  "heading_note": "정북 기준 시계방향 140.0° = 인왕산 수성동-옥류동천 남동향 수계 및 골목 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 서촌 골목길 도로면 기저 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10184,
+      "bytes": 518240
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 300,
+      "bytes": 16291
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "ongnyudong_granite_and_bridge",
+      "desc": "옥류동 암반 32단(16x18x4.8m), 추사 김정희 '松石園' 각자 바위 블록, 전통 홍예 석교(5.2x2.8m), 지하 호안 장대석 8단 384개소"
+    },
+    {
+      "id": "ongnyudong_clear_stream",
+      "desc": "상류 암반 계류 수면(16x3.2m), 석교 하부 수류, 지하 Y=-1.5m Y자형 합류 암거 수류(길이 48m), 지표 강화유리 관람창 2개소"
+    },
+    {
+      "id": "songseokwon_pines",
+      "desc": "송석원 상징 거목 노송 2본(수고 9.5m), 주변 인왕산 적송 6본, 수변 수풀 32개소"
+    },
+    {
+      "id": "ongnyudong_street",
+      "desc": "서촌 골목길 보도블록 128개소 테셀레이션, 황동 물길 유로 띠 48m, 휴게 벤치 6기, 송석원 비석, 가로등 4기, 볼라드 16기"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_ongnyudong_songseokwon_rock_view",
+    "anchors": [
+      {
+        "name": "hotspot_ongnyudong_songseokwon_rock_view",
+        "pos": [
+          -14.0,
+          5.0,
+          -2.5
+        ]
+      },
+      {
+        "name": "hotspot_ongnyudong_arch_bridge_view",
+        "pos": [
+          -8.0,
+          2.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_ongnyudong_confluence_culvert_view",
+        "pos": [
+          0.0,
+          -1.0,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_ongnyudong_seochon_alley_view",
+        "pos": [
+          4.0,
+          1.2,
+          6.5
+        ]
+      }
+    ]
+  }
+}
