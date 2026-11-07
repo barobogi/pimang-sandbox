@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03086_030",
+  "block_id": "03086_NATURE_p30_흥인지문공원_성곽잔디언덕",
+  "name": "흥인지문공원 성곽 잔디언덕",
+  "name_en": "Heunginjimun Park City Wall Grass Slope",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03086",
+  "heritage": {
+    "designation": "사적 제10호 한양도성 동대문 기점 성곽 및 도심 생태공원 랜드마크",
+    "name": "한양도성 성곽 곡선 48m, 은빛 억새밭 군락, 완경사 잔디 구릉"
+  },
+  "coordinates": [
+    127.009845,
+    37.572412
+  ],
+  "orientation_deg": 35.0,
+  "heading": 35.0,
+  "heading_note": "정북 기준 시계방향 35.0° = 한양도성 동대문-낙산 능선 성곽 곡선 상승 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 흥인지문 교차로 도로면 기저 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10092,
+      "bytes": 505401
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 384,
+      "bytes": 20046
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "heunginjimun_park_lawn",
+      "desc": "완경사 잔디 구릉 24단 테셀레이션(y=0.8~5.4m), 기저 슬래브(48x36m), 화강암 디딤돌 32개소"
+    },
+    {
+      "id": "heunginjimun_city_wall",
+      "desc": "사적 제10호 한양도성 곡선 성벽 48m(16개 세그먼트), 성돌 7단 테셀레이션 448개소, 여장 26개소, 총안 52개소"
+    },
+    {
+      "id": "heunginjimun_silver_grass",
+      "desc": "가을 은빛 억새밭 군락 플랜터 32개소(황금빛/은빛 억새 이삭 및 수풀 메쉬)"
+    },
+    {
+      "id": "heunginjimun_promenade_deck",
+      "desc": "성곽 둘레길 목재 데크 로드 48m, 목재 벤치 6기, 탐방 계단 36단, 조선 소나무 8본"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_heunginjimun_park_summit_night_view",
+    "anchors": [
+      {
+        "name": "hotspot_heunginjimun_park_summit_night_view",
+        "pos": [
+          6.0,
+          5.0,
+          12.0
+        ]
+      },
+      {
+        "name": "hotspot_heunginjimun_silver_grass_trail_view",
+        "pos": [
+          -6.0,
+          2.8,
+          -4.0
+        ]
+      },
+      {
+        "name": "hotspot_heunginjimun_city_wall_curve_view",
+        "pos": [
+          11.0,
+          3.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_heunginjimun_park_entrance_view",
+        "pos": [
+          -20.0,
+          1.0,
+          -14.0
+        ]
+      }
+    ]
+  }
+}
