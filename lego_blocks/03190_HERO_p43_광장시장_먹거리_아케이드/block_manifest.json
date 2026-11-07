@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03190_043",
+  "block_id": "03190_HERO_p43_광장시장_먹거리_아케이드",
+  "name": "광장시장 먹거리 아케이드",
+  "name_en": "Gwangjang Market Food Alley Arcade",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03190",
+  "heritage": {
+    "designation": "대한민국 제1호 상설 전통시장",
+    "name": "광장시장 (1905년 개설 유서 깊은 전통 먹거리 상권)"
+  },
+  "coordinates": [
+    127.000312,
+    37.570114
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 종로5가-청계천 광장시장 골목 남북 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 광장시장 골목 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 13052,
+      "bytes": 718663
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 456,
+      "bytes": 28163
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "gwangjang_market_alley_floor",
+      "desc": "시장 골목 대지(48x32m, y=0.0m 스냅) 및 배수 트렌치, 바닥 슬래브 64개소"
+    },
+    {
+      "id": "gwangjang_arcade_truss_roof",
+      "desc": "폭 16m 반원형 철골 돔 채광 아케이드 지붕(트러스 립 16조, 철골 기둥 16기, 채광 쉘)"
+    },
+    {
+      "id": "gwangjang_food_stalls_and_griddles",
+      "desc": "빈대떡·마약김밥·육회 노점 조리 매대 16개소, 무쇠 지짐판 16기, 녹두 맷돌 4기, 평상 32기"
+    },
+    {
+      "id": "gwangjang_shop_facades_and_signage",
+      "desc": "좌우 상가 2층 파사드, 1층 포목점·식당 쇼윈도 12개소, 경사 차양 천막 및 돌출 간판"
+    },
+    {
+      "id": "gwangjang_lanterns_and_gate",
+      "desc": "남북 출입 게이트 문루 2개소, 아케이드 상공 만국기·청사초롱 32개소"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_gwangjang_bindaetteok_stall_view",
+    "anchors": [
+      {
+        "name": "hotspot_gwangjang_bindaetteok_stall_view",
+        "pos": [
+          -1.2,
+          1.1,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_gwangjang_yukhoe_crossroad_view",
+        "pos": [
+          0.0,
+          1.2,
+          -5.0
+        ]
+      },
+      {
+        "name": "hotspot_gwangjang_arcade_skylight_view",
+        "pos": [
+          0.0,
+          1.4,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_gwangjang_entrance_gate_view",
+        "pos": [
+          0.0,
+          1.2,
+          14.5
+        ]
+      }
+    ]
+  }
+}
