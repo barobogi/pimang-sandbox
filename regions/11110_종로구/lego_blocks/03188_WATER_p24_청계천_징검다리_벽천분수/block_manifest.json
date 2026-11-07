@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03188_024",
+  "block_id": "03188_WATER_p24_청계천_징검다리_벽천분수",
+  "name": "청계천 징검다리 & 벽천분수",
+  "name_en": "Cheonggyecheon Stepping Stones & Cascade Fountain",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "서울 도심 생태하천 복원 및 청계광장 시점 랜드마크",
+    "name": "청계천 2단 벽천분수 폭포, 화강석 징검다리 2개소, 양안 수변산책로"
+  },
+  "coordinates": [
+    126.977821,
+    37.569145
+  ],
+  "orientation_deg": 90.0,
+  "heading": 90.0,
+  "heading_note": "정북 기준 시계방향 90.0° = 청계천 동서 하천 유로 흐름 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 청계천 하천 기저 바닥 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11364,
+      "bytes": 579450
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 300,
+      "bytes": 16135
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "cheonggye_granite_embankment",
+      "desc": "양안 석축 옹벽(길이 48m, 높이 3.6m), 장대석 6단 테셀레이션 288개소, 화강석 징검다리 2개소(24개소 디딤돌), 2단 벽천 석조 구조체"
+    },
+    {
+      "id": "cheonggye_water_stream",
+      "desc": "청계천 맑은 수면(46x12m, 수심 0.4m), 징검다리 잔물결 테셀레이션 24개소, 벽천분수 2단 낙하 폭포 수류 시트 및 노즐 32개소"
+    },
+    {
+      "id": "cheonggye_promenade",
+      "desc": "양안 수변 보행 산책로 96m(투수블록 64개소 테셀레이션), 안전 볼라드 16기, 청계광장 하부 진입 계단 2개소(36단)"
+    },
+    {
+      "id": "cheonggye_riparian_flora",
+      "desc": "수변 갈대·꽃창포·물억새 생태 식생 플랜터 32개소(북안 16개소, 남안 16개소)"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_cheonggye_stepping_stones_view",
+    "anchors": [
+      {
+        "name": "hotspot_cheonggye_stepping_stones_view",
+        "pos": [
+          -10.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_cheonggye_cascade_fountain_view",
+        "pos": [
+          -18.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_cheonggye_north_walkway_view",
+        "pos": [
+          0.0,
+          1.2,
+          9.5
+        ]
+      },
+      {
+        "name": "hotspot_cheonggye_upstream_bridge_view",
+        "pos": [
+          -23.0,
+          3.6,
+          0.0
+        ]
+      }
+    ]
+  }
+}
