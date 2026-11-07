@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_02_03140_020",
+  "block_id": "03140_ROAD_p20_피맛골_옛골목_흔적오버레이",
+  "name": "피맛골 옛골목 흔적 오버레이",
+  "name_en": "Pimatgol Historic Alleyway & Archaeological Overlay",
+  "category": "CAT02_TRADITIONAL_ALLEY",
+  "postal_code": "03140",
+  "heritage": {
+    "designation": "서울시 역사문화유적 및 청진지구 발굴유구터",
+    "name": "피맛골 골목길 유구터"
+  },
+  "coordinates": [
+    126.982145,
+    37.571025
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 종로대로-피맛골 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 피맛골 골목 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 180,
+  "lod_thresholds_m": {
+    "lod3_distance": 200.0,
+    "lod2_distance": 700.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10558,
+      "bytes": 516101
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 2724,
+      "bytes": 110670
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "pimatgol_alley_roadway",
+      "desc": "피맛골 옛 골목길 노면(폭 2.4m, 길이 48m), 디딤 박석 32개소, 주막 평상 2개소, 연탄 화덕 2기"
+    },
+    {
+      "id": "pimatgol_archaeological_relics",
+      "desc": "조선시대 청진 발굴 유구 3D 오버레이: 바닥 관람창 2개소, 온돌 구들장 유구, 황동 안내 동판"
+    },
+    {
+      "id": "pimatgol_tavern_facades",
+      "desc": "피맛골 전통 선술집·생선구이·해장국 주막 4채 파사드(목재 판자문, 원목 기둥 16기, 상호 간판)"
+    },
+    {
+      "id": "pimatgol_tavern_giwa_roofs",
+      "desc": "서민 주막 팔작·맞배지붕 4개동 및 처마 밑 서까래 64기"
+    },
+    {
+      "id": "pimatgol_tavern_interior_table",
+      "desc": "1인칭 다이빙: 피맛골 평상 위 주안상(탁주 호리병, 사발 2기, 전 바구니)"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_pimatgol_tavern_interior_view",
+    "anchors": [
+      {
+        "name": "hotspot_pimatgol_tavern_interior_view",
+        "pos": [
+          -2.4,
+          1.2,
+          10.0
+        ]
+      },
+      {
+        "name": "hotspot_pimatgol_excavation_overlay_view",
+        "pos": [
+          0.0,
+          1.2,
+          -2.0
+        ]
+      },
+      {
+        "name": "hotspot_pimatgol_alley_perspective",
+        "pos": [
+          0.0,
+          1.2,
+          -22.0
+        ]
+      },
+      {
+        "name": "hotspot_fish_grill_storefront",
+        "pos": [
+          -1.8,
+          1.2,
+          -12.0
+        ]
+      }
+    ]
+  }
+}
