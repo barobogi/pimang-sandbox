@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03140_038",
+  "block_id": "03140_HERO_p38_인사동_쌈지길_나선램프",
+  "name": "인사동 쌈지길 나선램프",
+  "name_en": "Insadong Ssamziegil Spiral Ramp",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03140",
+  "heritage": {
+    "designation": "인사동 문화지구 대표 랜드마크",
+    "name": "인사동 쌈지길"
+  },
+  "coordinates": [
+    126.985612,
+    37.574182
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 인사동길-쌈지길 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 쌈지길 1층 중정 마당 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 200,
+  "lod_thresholds_m": {
+    "lod3_distance": 220.0,
+    "lod2_distance": 750.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 19530,
+      "bytes": 1121411
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 420,
+      "bytes": 23452
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "ssamzie_courtyard_ground",
+      "desc": "1층 중정 마당(y=0.0m 지반 스냅), 원형 분수 좌대, 쌈지길 상징 'ㅅㅅ' 노란색 조형물"
+    },
+    {
+      "id": "ssamzie_craft_workshops_facade",
+      "desc": "4층 건물 매스(38x38m) 및 1~4층 중정 개방형 공예 공방 쇼윈도 24개소"
+    },
+    {
+      "id": "ssamzie_spiral_walkway_ramp",
+      "desc": "1~4층 500m 무계단 나선형 입체 보행 램프 세그먼트 64개소 및 철골 한글 자모 난간"
+    },
+    {
+      "id": "ssamzie_rooftop_sky_garden",
+      "desc": "4층 옥상 하늘마당 목재 데크, 사랑의 담장 소원판 펜스 16개소, 루프탑 갤러리/카페"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_ssamziegil_spiral_ramp_view",
+    "anchors": [
+      {
+        "name": "hotspot_ssamziegil_spiral_ramp_view",
+        "pos": [
+          0.0,
+          7.5,
+          -9.6
+        ]
+      },
+      {
+        "name": "hotspot_ssamziegil_rooftop_sky_view",
+        "pos": [
+          0.0,
+          15.8,
+          -16.0
+        ]
+      },
+      {
+        "name": "hotspot_ssamziegil_courtyard_looking_up",
+        "pos": [
+          0.0,
+          1.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_ssamziegil_entrance_gate",
+        "pos": [
+          -14.0,
+          1.2,
+          -18.0
+        ]
+      }
+    ]
+  }
+}
