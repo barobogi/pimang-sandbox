@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_03_03188_003",
+  "block_id": "03188_WATER_p23_청계천_광통교_역사복원",
+  "name": "청계천 광통교 역사복원 석교",
+  "category": "CAT03_HISTORIC_BRIDGE",
+  "postal_code": "03188",
+  "coordinates": {
+    "lat": 37.5691,
+    "lng": 126.9822
+  },
+  "heading": 89.2,
+  "base_plinth_height_m": 0.0,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "base_y": 0.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -20.0,
+      -5.2,
+      -20.0
+    ],
+    "max": [
+      20.0,
+      2.2,
+      20.0
+    ]
+  },
+  "lod_switch_distance": {
+    "lod3_to_lod2_m": 45.0,
+    "lod2_to_lod1_m": 120.0
+  },
+  "hierarchical_components": [
+    {
+      "id": "gwangtonggyo_street_connections",
+      "level": 1,
+      "triangles": 480,
+      "description": "상부 청계천로 도로면(Y=0.0m) 접속부 및 안전 방호 난간"
+    },
+    {
+      "id": "gwangtonggyo_piers_and_cutwaters",
+      "level": 2,
+      "triangles": 960,
+      "description": "원두형 중앙 교각 및 상·하류 마름모꼴 유선형 분수침"
+    },
+    {
+      "id": "gwangtonggyo_segmental_arches",
+      "level": 2,
+      "triangles": 3840,
+      "description": "실측 2경간 홍예 아치 쐐기돌(Voussoirs 36블록) 및 스팬드럴 석벽"
+    },
+    {
+      "id": "gwangtonggyo_shinjinseok_reliefs",
+      "level": 3,
+      "triangles": 1680,
+      "description": "교대 석벽에 거꾸로 뒤집혀 새겨진 신덕왕후 능석 신장석 부조 4기"
+    },
+    {
+      "id": "gwangtonggyo_deck_and_balustrades",
+      "level": 2,
+      "triangles": 2480,
+      "description": "다리 상판 화강석 판석, 엄지기둥 4기, 동자석 24기 및 하엽 난간대"
+    },
+    {
+      "id": "gwangtonggyo_mythical_beasts",
+      "level": 3,
+      "triangles": 880,
+      "description": "다리 네 귀퉁이 엄지기둥 상단 서수(해태) 석상 4기"
+    },
+    {
+      "id": "gwangtonggyo_riverbed_and_water",
+      "level": 1,
+      "triangles": 360,
+      "description": "청계천 맑은 수면 플레인, 하상 자갈 및 교각 하부 수변 산책로"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_gwangtonggyo_deck",
+      "label": "광통교 상판 역사 보행"
+    },
+    {
+      "id": "hotspot_shinjinseok_relief_east",
+      "label": "동측 신덕왕후 능석 신장석 부조"
+    },
+    {
+      "id": "hotspot_shinjinseok_relief_west",
+      "label": "서측 신덕왕후 능석 신장석 부조"
+    },
+    {
+      "id": "hotspot_arch_underpass",
+      "label": "홍예 아치 하부 수변 통로"
+    },
+    {
+      "id": "anchor_mythical_beast_ne",
+      "label": "광통교 동북측 서수 조각상"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_03_03188_003_01(신장석 부조), _02(홍예 아치), _03(서수 조각상) 등",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 15648
+    },
+    "model_lod2.gltf": {
+      "triangles": 336
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "청계천 광통교 복원 실측조사 보고서 — 서울역사박물관",
+    "조선왕조실록 태종 10년 광통교 축조 및 정릉 능석 활용 기록",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md 종로 12종 발주서 #9"
+  ]
+}
