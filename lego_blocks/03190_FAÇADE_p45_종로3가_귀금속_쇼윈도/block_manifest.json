@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03190_045",
+  "block_id": "03190_FAÇADE_p45_종로3가_귀금속_쇼윈도",
+  "name": "종로3가 귀금속 쇼윈도",
+  "name_en": "Jongno 3-ga Jewelry District & Showroom Façades",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03190",
+  "heritage": {
+    "designation": "대한민국 귀금속 보석 메카",
+    "name": "종로3가 귀금속거리 (대한민국 유통량 80% 점유 3,000개 주얼리 전문 상권)"
+  },
+  "coordinates": [
+    126.991814,
+    37.571441
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 종로3가 대로-돈화문로 귀금속거리 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 종로3가 귀금속거리 보행로 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10534,
+      "bytes": 615890
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 354,
+      "bytes": 19428
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "jewelry_street_floor",
+      "desc": "귀금속거리 화강석 보행로(48x24m, y=0.0m 스냅) 및 바닥 타일 64개소"
+    },
+    {
+      "id": "jewelry_gold_silver_showcases",
+      "desc": "1층 럭셔리 쇼룸 쇼케이스 24개소, 순금/백금 다이아 반지 32기, 목걸이 마네킹 16기"
+    },
+    {
+      "id": "jewelry_building_facades",
+      "desc": "상가 파사드, 1층 쇼윈도 12개소, 2~3층 골드 메탈릭 루버 핀 48기"
+    },
+    {
+      "id": "jewelry_led_signage_and_neon",
+      "desc": "대형 LED 보석 전광판 12개소, 3층 돌출 다이아몬드 네온사인"
+    },
+    {
+      "id": "jewelry_ring_monument_and_lights",
+      "desc": "귀금속 특화지구 상징 직경 2.2m 황금 반지 & 다이아몬드 조형물(높이 3.5m) 및 좌대"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_jewelry_showcase_gold_view",
+    "anchors": [
+      {
+        "name": "hotspot_jewelry_showcase_gold_view",
+        "pos": [
+          -10.0,
+          1.4,
+          3.2
+        ]
+      },
+      {
+        "name": "hotspot_jewelry_street_center_view",
+        "pos": [
+          0.0,
+          1.2,
+          8.0
+        ]
+      },
+      {
+        "name": "hotspot_jewelry_facade_led_view",
+        "pos": [
+          0.0,
+          1.6,
+          6.0
+        ]
+      },
+      {
+        "name": "hotspot_jewelry_entrance_station_view",
+        "pos": [
+          18.0,
+          1.2,
+          10.0
+        ]
+      }
+    ]
+  }
+}
