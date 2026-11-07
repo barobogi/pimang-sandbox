@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03188_022",
+  "block_id": "03188_WATER_p22_백운동천_자하문로_상류",
+  "name": "백운동천 자하문로 상류",
+  "name_en": "Baegundongcheon Stream Jahamun-ro Upper Reaches",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "청계천 제1본류 발원지 및 겸재 정선 백운동도 배경 역사자연유산",
+    "name": "계천대(溪淸臺) 바위 각자, 백운동 천연 화강암 계류, 지하 복개 암거"
+  },
+  "coordinates": [
+    126.969845,
+    37.586212
+  ],
+  "orientation_deg": 165.0,
+  "heading": 165.0,
+  "heading_note": "정북 기준 시계방향 165.0° = 자하문로 도로 및 북악-인왕 사이 백운동천 남하 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 자하문로 도로면 기저 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10360,
+      "bytes": 529138
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 312,
+      "bytes": 16821
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "baegundong_granite_and_inscription",
+      "desc": "백운동 천연 화강암 암반 24단(16x18x4.5m), 계천대(溪淸臺) 각자 바위 블록, 지하 Y=-1.6m 호안 석축 6단 테셀레이션 288개소"
+    },
+    {
+      "id": "baegundong_clear_stream",
+      "desc": "상류 자연 계류 수면(16x3.5m), 지하 Y=-1.5m 백운동천 복개 수류(길이 48m), 지표면 강화유리 관람창 2개소(3.2x2.4m)"
+    },
+    {
+      "id": "baegundong_pine_trees",
+      "desc": "인왕산 적송 소나무 8본(솔잎 수관 3단 메쉬), 계곡 수변 수풀 24개소"
+    },
+    {
+      "id": "baegundong_promenade_deck",
+      "desc": "자하문로 목재 보행 데크 36m, 안전 난간 36m, 황동 물길 유로 띠 48m, 휴게 벤치 6기, 백운동천 발원지 비석, 가로등 4기"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_baegundong_gyecheondae_rock_view",
+    "anchors": [
+      {
+        "name": "hotspot_baegundong_gyecheondae_rock_view",
+        "pos": [
+          -14.0,
+          4.5,
+          -2.5
+        ]
+      },
+      {
+        "name": "hotspot_baegundong_valley_granite_view",
+        "pos": [
+          -14.0,
+          2.5,
+          -8.0
+        ]
+      },
+      {
+        "name": "hotspot_baegundong_underground_culvert_view",
+        "pos": [
+          0.0,
+          -1.0,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_baegundong_jahamunro_deck_view",
+        "pos": [
+          2.0,
+          1.5,
+          7.5
+        ]
+      }
+    ]
+  }
+}
