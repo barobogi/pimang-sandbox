@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_05_03139_001",
+  "block_id": "03139_TRANS_p41_종로3가역_입체환승",
+  "name": "종로3가역 1·3·5호선 입체환승 단면 (지하 20m 튜브)",
+  "category": "CAT05_MOBILITY_TRANSIT",
+  "postal_code": "03139",
+  "coordinates": {
+    "lat": 37.5716,
+    "lng": 126.9918
+  },
+  "heading": 89.4,
+  "base_plinth_height_m": 0.0,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "base_y": 0.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -20.0,
+      -31.5,
+      -20.0
+    ],
+    "max": [
+      20.0,
+      5.0,
+      20.0
+    ]
+  },
+  "lod_switch_distance": {
+    "lod3_to_lod2_m": 45.0,
+    "lod2_to_lod1_m": 120.0
+  },
+  "hierarchical_components": [
+    {
+      "id": "transit_surface_and_entrances",
+      "level": 1,
+      "triangles": 1280,
+      "description": "지상 종로대로 도로면(Y=0.0m) 및 출입구 캐노피 4개소(폴사인, 진입계단)"
+    },
+    {
+      "id": "transit_concourse_and_transfer_hall",
+      "level": 2,
+      "triangles": 2420,
+      "description": "B1 통합 대합실(개찰구 8기) 및 B2 환승 메인 홀(무빙워크 2열)"
+    },
+    {
+      "id": "transit_line1_subway_tube",
+      "level": 3,
+      "triangles": 3840,
+      "description": "B3 1호선 튜브 터널(-16m), 승강장, 스크린도어 16기, 전동차 1편성"
+    },
+    {
+      "id": "transit_line3_subway_tube",
+      "level": 3,
+      "triangles": 3960,
+      "description": "B4 3호선 튜브 터널(-22m), 섬식 승강장, 스크린도어 16기, 전동차 1편성"
+    },
+    {
+      "id": "transit_line5_subway_tube",
+      "level": 3,
+      "triangles": 4120,
+      "description": "B5 5호선 대심도 튜브(-28m), 직통 대심도 에스컬레이터 2기, 전동차 1편성"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_surface_entrance_no1",
+      "label": "종로3가역 1번 출입구 지상 조망"
+    },
+    {
+      "id": "hotspot_concourse_b1",
+      "label": "지하 1층 통합 대합실 및 개찰구"
+    },
+    {
+      "id": "hotspot_transfer_hall_b2",
+      "label": "지하 2층 1·3·5호선 환승 메인 코어"
+    },
+    {
+      "id": "hotspot_line1_platform_b3",
+      "label": "지하 3층 1호선 승강장 및 튜브 터널"
+    },
+    {
+      "id": "hotspot_line3_platform_b4",
+      "label": "지하 4층 3호선 섬식 승강장"
+    },
+    {
+      "id": "hotspot_line5_deep_platform_b5",
+      "label": "지하 5층 5호선 대심도 승강장"
+    },
+    {
+      "id": "anchor_underground_xray_core",
+      "label": "종로 언더그라운드 3D X-Ray 입체 조망 앵커"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_05_03139_001_01(1호선튜브), _02(3호선튜브), _03(5호선튜브), _04(환승코어) 등",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 10192
+    },
+    "model_lod2.gltf": {
+      "triangles": 156
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "서울교통공사 종로3가역 1·3·5호선 입체 역사 도면 및 종단면도",
+    "서울시 도시기반시설본부 지하철 지하안전정보도 및 심도 지반 프로파일",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md 종로 12종 발주서 #12"
+  ]
+}
