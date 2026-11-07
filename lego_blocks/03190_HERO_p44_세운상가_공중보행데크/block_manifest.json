@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03190_044",
+  "block_id": "03190_HERO_p44_세운상가_공중보행데크",
+  "name": "세운상가 공중보행데크",
+  "name_en": "Sewoon Plaza Elevated Pedestrian Deck",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03190",
+  "heritage": {
+    "designation": "근대건축 랜드마크",
+    "name": "세운상가 (1968년 김수근 설계 대한민국 1호 주상복합 건축)"
+  },
+  "coordinates": [
+    126.995812,
+    37.568415
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 세운상가 종로-청계천-을지로 남북 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 세운상가 1층 세운광장 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11328,
+      "bytes": 602410
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 312,
+      "bytes": 19350
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "sewoon_plaza_ground",
+      "desc": "1층 세운광장 대지(48x36m, y=0.0m 스냅) 및 보행 타일 슬래브 64개소"
+    },
+    {
+      "id": "sewoon_brutalist_building_mass",
+      "desc": "세운상가 메인 매스(26x24x22m), 브루탈리즘 콘크리트 수직 핀 24개소, 1층 필로티 기둥 8기"
+    },
+    {
+      "id": "sewoon_elevated_skywalk_deck",
+      "desc": "3층 상공(Y=+8.5m) 폭 6.0m 공중보행데크(연장 36m), Y자형 교각 4기, 강화유리 난간 32개소"
+    },
+    {
+      "id": "sewoon_makers_cubes_workshops",
+      "desc": "메이커스 큐브 장인 공방 12개소(통유리 쇼윈도, 3D 프린터 및 전자 작업대 전시)"
+    },
+    {
+      "id": "sewoon_access_ramp_and_stairs",
+      "desc": "1층에서 3층 공중데크로 오르는 폭 3.2m 경사 보행 램프 및 난간"
+    },
+    {
+      "id": "sewoon_seoul_rooftop_deck",
+      "desc": "옥상 서울옥상(Y=+22.0m) 목재 전망 테라스, 도심 조망 벤치 8기, 파라펫 난간벽"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_sewoon_deck_cheonggyecheon_view",
+    "anchors": [
+      {
+        "name": "hotspot_sewoon_deck_cheonggyecheon_view",
+        "pos": [
+          14.5,
+          9.8,
+          16.0
+        ]
+      },
+      {
+        "name": "hotspot_sewoon_makers_cube_view",
+        "pos": [
+          14.5,
+          9.8,
+          -2.0
+        ]
+      },
+      {
+        "name": "hotspot_sewoon_seoul_rooftop_view",
+        "pos": [
+          0.0,
+          23.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_sewoon_plaza_entrance_view",
+        "pos": [
+          0.0,
+          1.2,
+          12.0
+        ]
+      }
+    ]
+  }
+}
