@@ -1,0 +1,56 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "composite_id": "11110_04_03188_001",
+  "block_id": "03188_ROAD_p48_종로대로_세종대로_8차선",
+  "name": "종로대로 세종대로 8차선",
+  "category": "CAT04_CIVIC_CULTURE",
+  "postal_code": "03188",
+  "coordinates": [
+    126.9771,
+    37.5709
+  ],
+  "orientation_deg": 174.2,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "lowest_geometry_y": 0.0
+  },
+  "lod_switch_distance": 250,
+  "bbox_local_m": {
+    "min": [
+      -14.5,
+      0.0,
+      -18.0
+    ],
+    "max": [
+      14.5,
+      2.5999999046325684,
+      18.0
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_04_03188_001_01",
+      "name": "asphalt_lanes",
+      "name_kr": "8차선 아스팔트 차선 및 화강암 경계석"
+    },
+    {
+      "id": "11110_04_03188_001_02",
+      "name": "brt_bus_lanes",
+      "name_kr": "중앙버스전용차로 청색도색 및 쉘터 정류장"
+    },
+    {
+      "id": "11110_04_03188_001_03",
+      "name": "crosswalk_curbs",
+      "name_kr": "광폭 횡단보도 지브라 도색 및 정지선"
+    }
+  ],
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 35715
+}
