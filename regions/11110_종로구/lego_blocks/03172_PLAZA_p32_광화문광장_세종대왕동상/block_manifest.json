@@ -1,0 +1,110 @@
+{
+  "schema_version": "2.0_jongno_taskb",
+  "composite_id": "11110_04_03072_002",
+  "block_id": "03172_PLAZA_p32_광화문광장_세종대왕동상",
+  "name": "광화문광장 세종대왕 동상",
+  "category": "CAT04_PLAZA_STATUE",
+  "postal_code": "03172",
+  "coordinates": {
+    "lat": 37.5728,
+    "lng": 126.9768
+  },
+  "heading": 174.2,
+  "base_plinth_height_m": 0.0,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "base_y": 0.0
+  },
+  "bbox_local_m": {
+    "min": [
+      -20.0,
+      0.0,
+      -20.0
+    ],
+    "max": [
+      20.0,
+      9.8,
+      20.0
+    ]
+  },
+  "lod_switch_distance": {
+    "lod3_to_lod2_m": 45.0,
+    "lod2_to_lod1_m": 120.0
+  },
+  "hierarchical_components": [
+    {
+      "id": "sejong_plaza_ground",
+      "level": 1,
+      "triangles": 1240,
+      "description": "광화문광장 화강암 판석 바닥(100개 포장석) 및 한글 창제 28자 기념 띠"
+    },
+    {
+      "id": "sejong_granite_pedestal",
+      "level": 1,
+      "triangles": 1860,
+      "description": "다층 화강암 좌대 기단 및 훈민정음 서문 음각 금판 부조"
+    },
+    {
+      "id": "sejong_royal_throne",
+      "level": 2,
+      "triangles": 2180,
+      "description": "용머리 등받이 및 팔걸이가 조각된 어좌(용상)"
+    },
+    {
+      "id": "sejong_golden_statue",
+      "level": 3,
+      "triangles": 4520,
+      "description": "6.2m 황금 곤룡포 세종대왕 좌상, 5조룡 보, 익선관 및 훈민정음 책판"
+    },
+    {
+      "id": "sejong_scientific_inventions",
+      "level": 3,
+      "triangles": 2860,
+      "description": "전면 3대 과학발명품: 혼천의(관측링), 측우기(3단 원통), 앙부일구(해시계 침)"
+    }
+  ],
+  "interaction_hotspots": [
+    {
+      "id": "hotspot_sejong_front_view",
+      "label": "세종대왕 동상 정면 조망"
+    },
+    {
+      "id": "hotspot_hunminjeongeum_plate",
+      "label": "훈민정음 해례본 책판 감상"
+    },
+    {
+      "id": "hotspot_honcheonui_close",
+      "label": "혼천의 관측기구 정밀 탐구"
+    },
+    {
+      "id": "hotspot_cheugugi_close",
+      "label": "세계 최초 측우기 학습"
+    },
+    {
+      "id": "hotspot_angbuilgu_close",
+      "label": "앙부일구 해시계 원리 체험"
+    },
+    {
+      "id": "anchor_sejong_golden_crown",
+      "label": "세종대왕 익선관 상단 앵커"
+    }
+  ],
+  "key_expansion_rule": "프랙탈 하위 분해: 11110_04_03072_002_01(세종대왕좌상), _02(훈민정음책판), _03(3대과학발명품) 등",
+  "files": {
+    "model_lod3.gltf": {
+      "triangles": 10016
+    },
+    "model_lod2.gltf": {
+      "triangles": 180
+    },
+    "texture_atlas.webp": {
+      "size_px": 1024,
+      "format": "webp_lossy_q88"
+    }
+  },
+  "references": [
+    "광화문광장 세종대왕 동상 건립 백서 — 서울특별시 문화관광디자인본부",
+    "세종실록 지리지 및 세종 대 과학발명품 실측 도면 — 국립고궁박물관",
+    "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md 종로 12종 발주서 #11"
+  ]
+}
