@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03086_029",
+  "block_id": "03086_NATURE_p29_낙산_동망봉_자주동샘",
+  "name": "낙산 동망봉 & 자주동샘",
+  "name_en": "Naksan Dongmangbong Peak & Jajudongsaem Spring",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03086",
+  "heritage": {
+    "designation": "사적 제10호 한양도성 낙산 능선 및 단종 비 정순왕후 애사 설화 역사문화유산",
+    "name": "낙산 동망봉(영조 친필 바위 각자), 동망정 전망 정자, 자주동샘(자주정 천연 석조 샘터)"
+  },
+  "coordinates": [
+    127.012541,
+    37.578912
+  ],
+  "orientation_deg": 18.5,
+  "heading": 18.5,
+  "heading_note": "정북 기준 시계방향 18.5° = 낙산 동벽 성곽 및 영월 방면 동향 조망 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 낙산 동망봉 능선 기저 암반 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 11618,
+      "bytes": 625998
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 348,
+      "bytes": 18417
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "dongmangbong_granite_ridge",
+      "desc": "동망봉 바위 암반 돔 16단(18x20x6.8m), 영조 친필 '東望峯' 바위 각자, 자주동샘 석조 우물틀(3.2m), 자연 암괴 32개소"
+    },
+    {
+      "id": "dongmangjeong_pavilion",
+      "desc": "동망정 전통 사모정(5.4x5.4m, 배흘림 열주 4기, 난간 살대 32기, 3D 서까래 48기, 사모지붕, 상륜부 백자 절병통)"
+    },
+    {
+      "id": "jajudong_purple_fabrics",
+      "desc": "자주동 자주색 염색 천 건조대 3열(지주 6기, 빨랫줄 16m), 자주색/보라색 염색 천 8필, 목재 탐방 계단 36단"
+    },
+    {
+      "id": "dongmangbong_wall_and_pines",
+      "desc": "사적 제10호 한양도성 동벽 성곽 36m, 성돌 7단 테셀레이션 336개소, 여장 20개소, 총안 40개소, 적송 소나무 10본"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_dongmangjeon_east_view",
+    "anchors": [
+      {
+        "name": "hotspot_dongmangjeon_east_view",
+        "pos": [
+          -8.0,
+          7.8,
+          -2.0
+        ]
+      },
+      {
+        "name": "hotspot_jajudongsaem_spring_view",
+        "pos": [
+          12.0,
+          1.6,
+          6.5
+        ]
+      },
+      {
+        "name": "hotspot_dongmangbong_rock_inscription_view",
+        "pos": [
+          -8.0,
+          7.5,
+          7.0
+        ]
+      },
+      {
+        "name": "hotspot_naksan_east_wall_trail_view",
+        "pos": [
+          -19.0,
+          4.5,
+          0.0
+        ]
+      }
+    ]
+  }
+}
