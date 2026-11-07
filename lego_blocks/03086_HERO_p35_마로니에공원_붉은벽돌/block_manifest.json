@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_04_03086_035",
+  "block_id": "03086_HERO_p35_마로니에공원_붉은벽돌",
+  "name": "대학로 마로니에공원 & 아르코예술극장",
+  "name_en": "Daehangno Maronnier Park & Arko Arts Theater",
+  "category": "CAT04_PLAZA_ART",
+  "postal_code": "03086",
+  "heritage": {
+    "designation": "대학로 공연예술 복합 문화지구 랜드마크",
+    "name": "마로니에공원 및 아르코예술극장 (김수근 건축가 대표작)"
+  },
+  "coordinates": [
+    127.002815,
+    37.580812
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 대학로 보행축-마로니에공원 주축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 마로니에공원 야외광장 및 아르코 극장 진입로 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 240.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10240,
+      "bytes": 499204
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 360,
+      "bytes": 23069
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "maronnier_park_ground_plinth",
+      "desc": "마로니에공원 대지 기단(56x52m, y=0.0m 스냅) 및 좋은공연안내센터"
+    },
+    {
+      "id": "arko_arts_theater_red_brick",
+      "desc": "김수근 건축가 설계 아르코예술극장 붉은 벽돌 파사드(32x24m) 및 조적 돌출 밴드 8개소"
+    },
+    {
+      "id": "arko_piloti_and_glass_lobby",
+      "desc": "아르코예술극장 1층 필로티 기둥 6기 및 전면 유리 로비"
+    },
+    {
+      "id": "arko_theater_roof_and_flytower",
+      "desc": "극장 상부 플라이타워(무대 기계실 볼륨, 총고 18m)"
+    },
+    {
+      "id": "maronnier_outdoor_amphitheater",
+      "desc": "야외 원형 스탠드 무대(직경 22m, 3단 좌석, 조명 지주 4기)"
+    },
+    {
+      "id": "maronnier_historic_trees",
+      "desc": "1928년 식재 100년 마로니에(칠엽수) 거목(수고 14m, 수관 12m) 및 공원 수목 6본"
+    },
+    {
+      "id": "arko_art_center_wing",
+      "desc": "아르코미술관 붉은 벽돌 연결 윙"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_maronnier_amphitheater_view",
+    "anchors": [
+      {
+        "name": "hotspot_maronnier_amphitheater_view",
+        "pos": [
+          -12.0,
+          1.8,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_arko_theater_plaza_view",
+        "pos": [
+          -2.0,
+          1.8,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_maronnier_tree_shelter_view",
+        "pos": [
+          -4.0,
+          1.2,
+          9.5
+        ]
+      },
+      {
+        "name": "hotspot_daehangno_arts_street_view",
+        "pos": [
+          -20.0,
+          1.2,
+          -18.0
+        ]
+      }
+    ]
+  }
+}
