@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_03_03031_025",
+  "block_id": "03031_NATURE_p25_인왕산_수성동계곡_기린교",
+  "name": "인왕산 수성동계곡 & 기린교",
+  "name_en": "Inwangsan Suseongdong Valley & Girin-gyo Bridge",
+  "category": "CAT03_WATER_NATURE",
+  "postal_code": "03031",
+  "heritage": {
+    "designation": "서울시 기념물 제31호",
+    "name": "인왕산 수성동계곡 및 기린교"
+  },
+  "coordinates": [
+    126.963428,
+    37.581512
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 인왕산 능선-수성동계곡 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 수성동계곡 상부 테라스 지반 기준(y=0.0, 계곡 하상 y=-2.4m 음각 스냅). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10218,
+      "bytes": 563221
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 1404,
+      "bytes": 60056
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "suseong_granite_bedrock_ravine",
+      "desc": "인왕산 화강암 암반 협곡(폭 16m x 길이 56m, y=-2.4m), 단애 암벽 48개소, 협곡 거력 16개소"
+    },
+    {
+      "id": "suseong_mountain_stream_water",
+      "desc": "청정 계류 수면(폭 8m, y=-1.55m) 및 기린교 하부 폭포 소(Pond)"
+    },
+    {
+      "id": "giringyo_ancient_stone_bridge",
+      "desc": "기린교(서울시 기념물 31호): 통자연석 2련 판석교(길이 3.7m x 너비 0.75m), 천연 바위 받침 교대"
+    },
+    {
+      "id": "suseong_pavilion_and_boardwalk",
+      "desc": "수성동 전통 사각 정자 쉼터(배흘림 원목 열주 4기, 사모지붕, 서까래 32기) 및 목재 데크 로드(28m)"
+    },
+    {
+      "id": "suseong_pine_grove_forest",
+      "desc": "인왕산 수령 100년 적송 소나무 12본 및 계곡 식생대"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_girin_gyo_inwangsan_view",
+    "anchors": [
+      {
+        "name": "hotspot_girin_gyo_inwangsan_view",
+        "pos": [
+          0.0,
+          0.2,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_suseongdong_stream_pavilion_view",
+        "pos": [
+          18.0,
+          1.2,
+          6.0
+        ]
+      },
+      {
+        "name": "hotspot_giringyo_creek_perspective",
+        "pos": [
+          0.0,
+          -1.0,
+          -16.0
+        ]
+      },
+      {
+        "name": "hotspot_valley_boardwalk_stroll",
+        "pos": [
+          11.0,
+          0.8,
+          4.0
+        ]
+      }
+    ]
+  }
+}
