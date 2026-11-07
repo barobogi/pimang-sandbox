@@ -1,0 +1,154 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03045_005",
+  "block_id": "03045_HERO_p05_청와대_본관_영빈관",
+  "name": "청와대 본관 및 영빈관",
+  "name_en": "Cheongwadae Main Office & State Guest House",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03045",
+  "heritage": {
+    "designation": "국가사적/상징",
+    "name": "대한민국 역사상징 청와대 본관 및 영빈관"
+  },
+  "coordinates": [
+    126.974954,
+    37.586608
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-경복궁 중심축 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 본관 및 대정원 지면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.6,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 280.0,
+    "lod2_distance": 950.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 13536,
+      "bytes": 702305
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 5458,
+      "bytes": 220554
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "cheongwadae_grand_lawn_and_plaza",
+      "desc": "전면 120x80m 잔디마당, 중앙 의전 포장로, 국기/봉황기 게양대 2기"
+    },
+    {
+      "id": "main_hall_granite_plinth_and_stairs",
+      "desc": "본관 화강암 기단(54x28m), 정면 의전 돌계단 8단 및 테두리 돌난간"
+    },
+    {
+      "id": "cheongwadae_main_center_hall",
+      "desc": "2층 전각 본체, 정면 열주 10기, 2층 대통령 발코니 및 현관 황금 봉황 엠블럼"
+    },
+    {
+      "id": "cheongwadae_main_blue_roof",
+      "desc": "15만 장 코발트 블루 청기와 중층 팔작지붕, 3D 서까래 144기, 용마루 취두 및 잡상 24기"
+    },
+    {
+      "id": "cheongwadae_wings_sejong_chungmu",
+      "desc": "좌우 별채(세종실·충무실) 연결 회랑 및 1층 팔작 본체"
+    },
+    {
+      "id": "cheongwadae_wings_blue_roofs",
+      "desc": "좌우 별채 청기와 팔작지붕 2개동 및 용마루"
+    },
+    {
+      "id": "yeongbingwan_colonnade_and_pediment",
+      "desc": "영빈관 화강암 원형 열주 18기(높이 11.5m), 클래식 엔타블러처, 삼각형 페디먼트 황금 봉황 문장"
+    },
+    {
+      "id": "cheongwadae_interior_presidential_suite",
+      "desc": "1인칭 다이빙: 1층 백두대간 대리석 계단 홀, 2층 대통령 집무실 데스크 & 황금 봉황 휘장"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_presidential_office_2f",
+    "anchors": [
+      {
+        "name": "hotspot_presidential_office_2f",
+        "pos": [
+          0.0,
+          7.5,
+          -4.5
+        ]
+      },
+      {
+        "name": "hotspot_grand_marble_staircase_1f",
+        "pos": [
+          0.0,
+          3.2,
+          1.5
+        ]
+      },
+      {
+        "name": "hotspot_main_balcony_presidential_view",
+        "pos": [
+          0.0,
+          6.8,
+          10.5
+        ]
+      },
+      {
+        "name": "hotspot_yeongbingwan_colonnade_facade",
+        "pos": [
+          -75.0,
+          6.0,
+          20.0
+        ]
+      },
+      {
+        "name": "hotspot_grand_lawn_garden_walkway",
+        "pos": [
+          0.0,
+          0.5,
+          35.0
+        ]
+      },
+      {
+        "name": "hotspot_sejongsil_wing",
+        "pos": [
+          -42.0,
+          4.0,
+          0.0
+        ]
+      },
+      {
+        "name": "hotspot_chungmusil_wing",
+        "pos": [
+          42.0,
+          4.0,
+          0.0
+        ]
+      }
+    ]
+  }
+}
