@@ -1,0 +1,507 @@
+{
+ "schema_version": "3.0_jongno_taskb_117spec",
+ "spec_ref": "117_블록_장착_규약_v1_만복_20261107 + TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md §2 #3 (신규 제작)",
+ "composite_id": "11110_01_03045_002",
+ "composite_key_rule": {
+  "segments": [
+   "11110 종로구",
+   "01 왕실·궁궐 CAT01",
+   "03045 경복궁 국가기초구역",
+   "002 경회루 수변 복합 패키지"
+  ],
+  "fractal_children": [
+   "11110_01_03045_002_01 누각 본체",
+   "11110_01_03045_002_02 경회지 연못·인공 섬",
+   "11110_01_03045_002_03 진입 3개 석교"
+  ],
+  "note": "한 패키지로 수변 풍경을 완결하되, 엔진에서 필요 시 하위 키 단위로 독립 토글·대체 가능"
+ },
+ "block_id": "03045_HERO_p02_경복궁_경회루",
+ "name": "경복궁 경회루",
+ "name_en": "Gyeonghoeru Pavilion, Gyeongbokgung Palace",
+ "category": "CAT01_PALACE_ROYAL",
+ "postal_code": "03045",
+ "heritage": {
+  "designation": "국보",
+  "number": 224,
+  "name": "경복궁 경회루",
+  "designated": "1985-01-08",
+  "quantity": "1동"
+ },
+ "coordinates": [
+  126.9759667,
+  37.57975
+ ],
+ "coordinates_note": "모델 원점 = 경회루 누각 중심의 섬 지면(y=0). OSM way/170199469 경회루 footprint 중심(126.9759667, 37.57975)",
+ "orientation_deg": 174.2,
+ "orientation_note": "정북 기준 시계방향. 모델 +Z = 누각 정면(정면 7칸 장축의 남향) 방위이며 한양도성·경복궁 중심축 174.2°와 일치. 모델 +X = 장축 방위 84.2°(동남동), -Z = 배면(북북서).",
+ "heading": 174.2,
+ "heading_note": "orientation_deg의 레거시 별칭(동일값)",
+ "axis_alignment": {
+  "reference": "한양도성 축선(경복궁 중심축) 174.2° + OSM 경회루 footprint 장축",
+  "local_x_bearing_deg": 84.2,
+  "local_z_bearing_deg": 174.2,
+  "shape_rotation_note": "연못·섬·누각의 장축이 중심축과 직교하도록 축선 정합(정북 대비 5.8° 회전을 로컬 프레임에 내장)",
+  "bbox_4corners_wgs84_approx": {
+   "NE": [
+    126.97646,
+    37.58004
+   ],
+   "NW": [
+    126.97547,
+    37.58004
+   ],
+   "SE": [
+    126.97646,
+    37.57946
+   ],
+   "SW": [
+    126.97547,
+    37.57946
+   ]
+  }
+ },
+ "ground": {
+  "mode": "snap_to_terrain",
+  "origin_y_m": 0.0,
+  "contact_plane_y": 0.0,
+  "contact_plane_meaning": "섬 상면과 연못 외곽 지반 띠의 상면 = 지형 접촉면(y=0.0). 로더가 지형 고도를 1회만 합산한다.",
+  "lowest_geometry_y": -1.5,
+  "lowest_geometry_meaning": "경회지 연못 바닥(y=-1.5). 발주서 §2 #3의 연못 수면·바닥 음각 레이어로, 지면 아래로 파인 수면이므로 모델 최저점이 지면 기준면보다 낮다.",
+  "note": "블록 파일에 절대 해발고도는 기재하지 않는다. 기단은 모델 내부에 포함하며 y 오프셋으로 띄우지 않는다."
+ },
+ "base_plinth_height_m": 1.2,
+ "lod_switch_distance": 250,
+ "spec_dimensions_m": {
+  "pavilion": {
+   "width": 34.4,
+   "depth": 28.5,
+   "bays": "정면 7칸 × 측면 5칸",
+   "uniform_plan_area_m2": 954.0,
+   "stone_columns": 48,
+   "stone_columns_outer_square": 24,
+   "stone_columns_inner_round": 24,
+   "stone_column_height": 4.7,
+   "stone_column_grid": "8열 × 6행",
+   "total_height_to_chimi_top": 21.5,
+   "ridge_y": 19.7,
+   "upper_eave_y": 11.2,
+   "maru_tiers_y": [
+    5.9,
+    6.15,
+    6.25
+   ]
+  },
+  "plinth": {
+   "width": 37.0,
+   "depth": 31.2,
+   "height": 1.2,
+   "lower_step_width": 38.4,
+   "lower_step_depth": 32.6
+  },
+  "island": {
+   "width": 38.98,
+   "depth": 50.42,
+   "top_y": 0.0,
+   "center_offset_z": 4.0
+  },
+  "pond": {
+   "width": 128.0,
+   "depth": 113.0,
+   "water_y": -0.8,
+   "bed_y": -1.5,
+   "island_east_edge_to_pond_east_edge": 9.36,
+   "island_offset": "동쪽으로 치우친 방형 섬"
+  },
+  "roof": {
+   "type": "단층 팔작지붕 + 겹처마(서까래·부연 2중 처마선)",
+   "eave_extent": [
+    39.0,
+    33.1
+   ],
+   "ridge_length": 17.0,
+   "profile": "h(t)=0.30t+0.70t^2.7",
+   "corner_lift_m": 2.0,
+   "roof_tiers": 1,
+   "chimi": 2,
+   "japsang": 20
+  },
+  "bridges": {
+   "count": 3,
+   "span": 9.36,
+   "south_width": 6.2,
+   "middle_width": 3.6,
+   "north_width": 3.6
+  }
+ },
+ "bbox_local_m": {
+  "min": [
+   -103.15,
+   -1.5,
+   -56.5
+  ],
+  "max": [
+   32.85,
+   21.42,
+   64.5
+  ],
+  "size": [
+   136.0,
+   22.92,
+   121.0
+  ],
+  "core_note": "코어(누각+섬)는 x ±19.49, z -21.21~29.21, y 0~21.5. 연못 128×113 + 4m 지반 띠가 전체 bbox를 만든다."
+ },
+ "measured_from_geometry": {
+  "island_x_span": 38.98,
+  "island_z_span": 50.42,
+  "pond_x_span": 128.0,
+  "pond_z_span": 113.0,
+  "island_to_pond_east_gap": 9.36,
+  "plinth_upper_x_span": 37.0,
+  "plinth_upper_z_span": 31.2,
+  "plinth_lower_x_span": 38.4,
+  "plinth_top_y": 1.2,
+  "column_center_x_span": 34.4,
+  "column_center_z_span": 28.5,
+  "stone_column_clusters": 48,
+  "stone_column_base_y": 1.2,
+  "stone_column_top_y": 5.9,
+  "upper_roof_eave_y": 11.2,
+  "upper_roof_top_y": 19.7,
+  "overall_min_y": -1.5,
+  "overall_max_y": 21.425
+ },
+ "section_profile": {
+  "type": "island_in_pond",
+  "terrain_contact_y": 0.0,
+  "island_top_y": 0.0,
+  "water_surface_y": -0.8,
+  "pond_bed_y": -1.5,
+  "plinth_top_y": 1.2,
+  "first_floor_stone_column_top_y": 5.9,
+  "second_floor_maru_y": 5.9,
+  "deck_ceiling_band_y": 5.78,
+  "upper_roof_eave_y": 11.2,
+  "ridge_y": 19.7,
+  "chimi_top_y": 21.5,
+  "note": "연못 수면·바닥은 발주서 §2 #3의 연출값이며, 호안·섬·기단은 실측 제원(38.98×50.42 / 9.36m 이격)을 따른다."
+ },
+ "depth_negative_elevation": -1.5,
+ "water_shader_parameters": {
+  "type": "pbr_planar_reflection",
+  "base_roughness": 0.08,
+  "metallic": 0.0,
+  "reflection_intensity": 0.85,
+  "fresnel_power": 3.0,
+  "uv_scroll_speed": [
+   0.01,
+   0.02
+  ],
+  "normal_scale": 0.3,
+  "tint_rgb": [
+   0.3,
+   0.52,
+   0.58
+  ],
+  "alpha": 0.82,
+  "surface_node": "pond_water_surface_pbr"
+ },
+ "bridges": [
+  {
+   "name": "1호 석교(남측·자시문·어도)",
+   "name_en": "Bridge 1 (south, Jasimun gate, royal lane)",
+   "osm_ref": "way/381956890",
+   "z_m": 23.2,
+   "width_m": 6.2,
+   "span_m": 9.36,
+   "deck_y_m": 0.0,
+   "camber_m": 0.34,
+   "royal_lane": true,
+   "gate": "자시문",
+   "anchor": "anchor_bridge_gyeonghoeru_1_eodogyo",
+   "note": "폭을 넓혀 어도(御道)를 두었다는 사료 기술에 따라 중앙 3분할 어도 레인을 추가"
+  },
+  {
+   "name": "2호 석교(중앙·함홍문)",
+   "name_en": "Bridge 2 (middle, Hamhongmun gate)",
+   "osm_ref": "way/381956910",
+   "z_m": 3.9,
+   "width_m": 3.6,
+   "span_m": 9.36,
+   "deck_y_m": 0.0,
+   "camber_m": 0.34,
+   "royal_lane": false,
+   "gate": "함홍문",
+   "anchor": "anchor_bridge_gyeonghoeru_2"
+  },
+  {
+   "name": "3호 석교(북측·이견문)",
+   "name_en": "Bridge 3 (north, Igyeonmun gate)",
+   "osm_ref": "way/381956911",
+   "z_m": -15.4,
+   "width_m": 3.6,
+   "span_m": 9.36,
+   "deck_y_m": 0.0,
+   "camber_m": 0.34,
+   "royal_lane": false,
+   "gate": "이견문",
+   "anchor": "anchor_bridge_gyeonghoeru_3"
+  }
+ ],
+ "bridge_naming_note": "3개 석교의 실명은 문헌에 따라 문 이름(자시문·함홍문·이견문)으로 불리며 '어도교'는 고유 명칭으로 확인되지 않는다. 앵커 ID는 발주서 지정명을 그대로 사용했다.",
+ "pond_islets": [
+  {
+   "name": "서쪽 소섬 1 (당주)",
+   "center_m": [
+    -58.0,
+    -16.0
+   ],
+   "size_m": [
+    16.0,
+    26.0
+   ]
+  },
+  {
+   "name": "서쪽 소섬 2 (만세산)",
+   "center_m": [
+    -58.0,
+    24.0
+   ],
+   "size_m": [
+    16.0,
+    26.0
+   ]
+  }
+ ],
+ "hierarchical_components": [
+  {
+   "id": "component_11110_01_03045_002_01_pavilion",
+   "key": "11110_01_03045_002_01",
+   "desc": "경회루 누각 본체 — 기단 1.2m, 48 석주(외곽 방형 24·내곽 원형 24) 4.7m, 2층 마루 3단, 계자난간, 창호, 공포대, 하층 띠지붕+상층 팔작지붕",
+   "sub_nodes": [
+    "pavilion_plinth_granite",
+    "pavilion_south_entry_steps",
+    "pavilion_stone_columns_48",
+    "pavilion_first_floor_bangjeon",
+    "pavilion_second_floor_maru_3tier",
+    "pavilion_gyeja_railing",
+    "pavilion_wood_columns_2f",
+    "pavilion_ceiling_umul",
+    "pavilion_changho_panels_hanji",
+    "pavilion_changho_walls",
+    "pavilion_gongpo_band",
+    "pavilion_deck_ceiling_band",
+    "pavilion_deck_band_rafters",
+    "pavilion_upper_roof_paljak",
+    "pavilion_upper_eave_detail",
+    "pavilion_ridge_chimi",
+    "pavilion_chimi_japsang"
+   ]
+  },
+  {
+   "id": "component_11110_01_03045_002_02_pond_island",
+   "key": "11110_01_03045_002_02",
+   "desc": "경회지 연못(128×113) + 인공 섬(38.98×50.42) 석축 호안·돌난간·선착장 계단·서쪽 소섬 2기·PBR 수면(-0.8)·연못 바닥(-1.5)",
+   "sub_nodes": [
+    "pond_revetment_apron",
+    "pond_water_surface_pbr",
+    "pond_bed",
+    "island_revetment_masonry",
+    "island_stone_balustrade",
+    "island_boat_landing_steps",
+    "pond_west_islets_2",
+    "pond_west_islet_pines"
+   ]
+  },
+  {
+   "id": "component_11110_01_03045_002_03_bridges",
+   "key": "11110_01_03045_002_03",
+   "desc": "동쪽 호안에서 섬으로 진입하는 3개 석교(9.36m) — 아치 측벽·상판·난간·서수 12기·남측 어도 레인",
+   "sub_nodes": [
+    "bridge_01_south_jasimum",
+    "bridge_01_south_jasimum_arch_spandrel",
+    "bridge_01_south_jasimum_beasts",
+    "bridge_02_middle_hamhongmun",
+    "bridge_02_middle_hamhongmun_arch_spandrel",
+    "bridge_02_middle_hamhongmun_beasts",
+    "bridge_03_north_igyeonmun",
+    "bridge_03_north_igyeonmun_arch_spandrel",
+    "bridge_03_north_igyeonmun_beasts"
+   ]
+  }
+ ],
+ "night_lighting_anchors": {
+  "color_temp_k": 3000,
+  "phase_link": "Phase 7/18 경복궁 야간개장 연동",
+  "spots": [
+   {
+    "id": "NE",
+    "node": "night_light_spotlight_NE_3000K",
+    "offset_m": [
+     17.6,
+     0.8,
+     -17.5
+    ]
+   },
+   {
+    "id": "NW",
+    "node": "night_light_spotlight_NW_3000K",
+    "offset_m": [
+     -17.6,
+     0.8,
+     -17.5
+    ]
+   },
+   {
+    "id": "SE",
+    "node": "night_light_spotlight_SE_3000K",
+    "offset_m": [
+     17.6,
+     0.8,
+     25.5
+    ]
+   },
+   {
+    "id": "SW",
+    "node": "night_light_spotlight_SW_3000K",
+    "offset_m": [
+     -17.6,
+     0.8,
+     25.5
+    ]
+   }
+  ]
+ },
+ "interaction_hotspots": [
+  {
+   "id": "hotspot_island_hayeop_balustrade",
+   "label": "하엽동자·회란석 돌난간"
+  },
+  {
+   "id": "hotspot_gyeonghoeru_jeongdang_maru",
+   "label": "정당 3칸 마루(왕의 자리)"
+  },
+  {
+   "id": "hotspot_manseansan_west_islets",
+   "label": "서쪽 소섬(당주·만세산)"
+  },
+  {
+   "id": "hotspot_gyeongji_water",
+   "label": "경회지 수면"
+  },
+  {
+   "id": "hotspot_bridge_eodo_lane",
+   "label": "1호 석교 어도"
+  }
+ ],
+ "anchor_nodes": [
+  "anchor_bridge_gyeonghoeru_1_eodogyo",
+  "anchor_bridge_gyeonghoeru_2",
+  "anchor_bridge_gyeonghoeru_3"
+ ],
+ "detail_counts": {
+  "stone_columns": 48,
+  "stone_columns_outer_square": 24,
+  "stone_columns_inner_round": 24,
+  "stone_column_height_m": 4.7,
+  "chimi": 2,
+  "japsang": 20,
+  "bridges": 3,
+  "bridge_beasts": 12,
+  "west_islets": 2,
+  "pines": 8,
+  "note": "석주 수는 LOD3 지오메트리의 y=5.9 상단 링 클러스터 실측값"
+ },
+ "key_expansion_rule": "프랙탈 하위 분해: 11110_01_03045_002_01 누각 / _02 연못·섬 / _03 석교 … 이후 _01_01(2층 난간 초정밀), _03_01(1호 석교) 식으로 무한 세분 가능",
+ "texture": {
+  "file": "texture_atlas.webp",
+  "size_px": [
+   1024,
+   1024
+  ],
+  "format": "webp_lossy_q88",
+  "quadrants": {
+   "granite": [
+    0.0,
+    0.0
+   ],
+   "dancheong_wood": [
+    0.5,
+    0.0
+   ],
+   "giwa_roof": [
+    0.0,
+    0.5
+   ],
+   "water_pond": [
+    0.5,
+    0.5
+   ]
+  },
+  "v_axis_contract": "glTF 규약상 v=0은 이미지 최상단 행. 각 사분면을 자기 중심선 기준 상하 대칭으로 그려 flipY 적용 여부와 무관하게 동일 재질이 재현된다(V축 반전 가드)."
+ },
+ "files": {
+  "model_lod3.gltf": {
+   "triangles": 21372,
+   "vertices": 18238,
+   "bytes": 1150400
+  },
+  "model_lod2.gltf": {
+   "triangles": 1074,
+   "vertices": 720,
+   "bytes": 54562
+  },
+  "texture_atlas.webp": {
+   "bytes": 66428,
+   "size_px": [
+    1024,
+    1024
+   ],
+   "format": "webp_lossy_q88"
+  }
+ },
+ "package_total_bytes": 1271390,
+ "references": [
+  "국보 제224호 경복궁 경회루 — 국가유산청 국가유산포털 (digital.khs.go.kr/heri/heriDetail.do?ctptNo=1111102240000)",
+  "서울시 '내 손안에 서울' — 경회루 연못 동서 128m·남북 113m, 48 석주 4.7m, 3개 석교 (mediahub.seoul.go.kr/archives/2004650)",
+  "서울시 '내 손안에 서울' — 석주 24기 방형·24기 원형, 2층 마루 3단, 연못 4300평 (mediahub.seoul.go.kr/archives/1290512)",
+  "더리포트 — 정면 7칸 34.4m·측면 5칸 28.5m, 48 석주, 섬 둘레 석조 난간 (thereport.co.kr/news/articleView.html?idxno=25811)",
+  "오마이뉴스 — 섬 38.98m × 50.42m, 동쪽 호안에서 9.36m, 연못 113m × 128m (ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000223325)",
+  "국가유산청_경복궁 경회루 실측모델링 — 공공데이터포털 (data.go.kr/data/15115251/fileData.do)",
+  "TASK_REQUEST_20261107_PIMANG_12BLOCKS_SPEC_117.md §2 #3"
+ ],
+ "sources": [
+  {
+   "title": "OpenStreetMap 경회루 footprint",
+   "id": "way/170199469",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap 경회루 1호 석교",
+   "id": "way/381956890",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap 경회루 2호 석교",
+   "id": "way/381956910",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap 경회루 3호 석교",
+   "id": "way/381956911",
+   "verified_at": "2026-11-07"
+  },
+  {
+   "title": "OpenStreetMap ODbL 1.0",
+   "id": "copyright",
+   "verified_at": "2026-11-07"
+  }
+ ],
+ "generation": {
+  "generator": "Pimang 117-spec Gyeonghoeru builder v1.0",
+  "date": "2026-11-07",
+  "author": "barobogi / Pimang",
+  "execution_code_in_package": false
+ }
+}
