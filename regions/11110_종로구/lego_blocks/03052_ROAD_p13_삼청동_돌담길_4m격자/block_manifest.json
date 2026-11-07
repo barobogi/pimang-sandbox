@@ -1,0 +1,57 @@
+{
+  "schema_version": "3.0_jongno_taskb_117spec",
+  "composite_id": "11110_02_03052_002",
+  "block_id": "03052_ROAD_p13_삼청동_돌담길_4m격자",
+  "name": "삼청동 돌담길 4m격자",
+  "category": "CAT02_HERITAGE_VILLAGE",
+  "postal_code": "03052",
+  "coordinates": [
+    126.9815,
+    37.5842
+  ],
+  "orientation_deg": 18.5,
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "contact_plane_y": 0.0,
+    "lowest_geometry_y": 0.0
+  },
+  "base_plinth_height_m": 0.25,
+  "lod_switch_distance": 250,
+  "bbox_local_m": {
+    "min": [
+      -6.0,
+      0.0,
+      -16.100000381469727
+    ],
+    "max": [
+      2.75,
+      4.199999809265137,
+      16.100000381469727
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "11110_02_03052_002_01",
+      "name": "granite_road",
+      "name_kr": "4m 스냅 화강암 박석 도로"
+    },
+    {
+      "id": "11110_02_03052_002_02",
+      "name": "sagoseok_walls",
+      "name_kr": "사고석 돌담 및 기와 갓"
+    },
+    {
+      "id": "11110_02_03052_002_03",
+      "name": "cafe_facades",
+      "name_kr": "삼청동 카페거리 파사드 및 캐노피"
+    }
+  ],
+  "files": {
+    "manifest": "block_manifest.json",
+    "model_lod3": "model_lod3.gltf",
+    "model_lod2": "model_lod2.gltf",
+    "texture_atlas": "texture_atlas.webp"
+  },
+  "package_total_bytes": 63092
+}
