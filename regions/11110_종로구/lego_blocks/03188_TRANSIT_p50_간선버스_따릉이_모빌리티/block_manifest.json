@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03188_050",
+  "block_id": "03188_TRANSIT_p50_간선버스_따릉이_모빌리티",
+  "name": "간선버스 & 따릉이 모빌리티 허브",
+  "name_en": "Seoul Blue Trunk Bus & Ttareungi Mobility Hub",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03188",
+  "heritage": {
+    "designation": "서울 대중교통 친환경 스마트 모빌리티 랜드마크",
+    "name": "서울 간선버스 & 공공자전거 따릉이 환승 모빌리티 스테이션"
+  },
+  "coordinates": [
+    126.993108,
+    37.570412
+  ],
+  "orientation_deg": 84.5,
+  "heading": 84.5,
+  "heading_note": "정북 기준 시계방향 84.5° = 종로대로 버스 정차 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 버스 정차대 아스팔트 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.1,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 10586,
+      "bytes": 473774
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 348,
+      "bytes": 18298
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "transit_plaza_and_bay",
+      "desc": "버스 정차대 아스팔트(48x8.0m, y=0.0m 스냅), 환승 보행광장(48x16.0m), 화강석 연석 32개소, 점자 유도선 40m, 볼라드 16기"
+    },
+    {
+      "id": "transit_blue_trunk_bus",
+      "desc": "서울 코발트블루 초저상 간선버스(11.0x2.5x3.3m), 휠 4기, 전/후면/측면 창문, 승강문 2개소, LED 행선판, 루프 공조기"
+    },
+    {
+      "id": "transit_ttareungi_station",
+      "desc": "따릉이 공공자전거 20기(초록/화이트 투톤 바디, 바퀴 40기, 바구니, 핸들, 안장), 스테이션 거치대 20개소, 무인 키오스크 타워"
+    },
+    {
+      "id": "transit_shelter_and_furniture",
+      "desc": "환승 대기 쉘터(14.0x2.8x3.4m, 철골 기둥, 루프, 방풍벽), 스마트 온열 벤치 4기, BIT 전광판, 가로수 은행나무 4본"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_transit_bus_interior_view",
+    "anchors": [
+      {
+        "name": "hotspot_transit_bus_interior_view",
+        "pos": [
+          -4.0,
+          1.8,
+          8.0
+        ]
+      },
+      {
+        "name": "hotspot_transit_ttareungi_station_view",
+        "pos": [
+          0.0,
+          1.4,
+          -7.0
+        ]
+      },
+      {
+        "name": "hotspot_transit_bus_door_platform_view",
+        "pos": [
+          -0.5,
+          1.4,
+          3.5
+        ]
+      },
+      {
+        "name": "hotspot_transit_hub_panoramic_view",
+        "pos": [
+          0.0,
+          1.4,
+          -10.0
+        ]
+      }
+    ]
+  }
+}
