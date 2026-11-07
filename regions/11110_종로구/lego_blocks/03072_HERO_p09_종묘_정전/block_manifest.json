@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_01_03072_009",
+  "block_id": "03072_HERO_p09_종묘_정전",
+  "name": "종묘 정전",
+  "name_en": "Jongmyo Jeongjeon (Royal Ancestral Shrine)",
+  "category": "CAT01_PALACE_ROYAL",
+  "postal_code": "03072",
+  "heritage": {
+    "designation": "국보 제227호 / 유네스코 세계문화유산",
+    "name": "종묘 정전"
+  },
+  "coordinates": [
+    126.994781,
+    37.575028
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 북악산-종묘 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 종묘 지반 및 하월대 바닥 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 1.2,
+  "lod_switch_distance": 250,
+  "lod_thresholds_m": {
+    "lod3_distance": 300.0,
+    "lod2_distance": 1000.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 13998,
+      "bytes": 837304
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 328,
+      "bytes": 24135
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "jongmyo_two_tier_woldae_and_samdo",
+      "desc": "2단 거대 월대(상월대 109x32m, 하월대 109x42m), 신계 3개소, 남측 삼도(신로·어도·세자로)"
+    },
+    {
+      "id": "jongmyo_jeongjeon_19bays_hall",
+      "desc": "정전 본채 19칸 신실(길이 101.4m), 배흘림 원목 열주 20기, 19개 감실 붉은 판문, 동/서월랑 5칸"
+    },
+    {
+      "id": "jongmyo_jeongjeon_matbae_roof",
+      "desc": "109m 맞배지붕 수평선, 3D 서까래 160기, 용마루 취두 2기"
+    },
+    {
+      "id": "gongsindang_merit_subjects_shrine",
+      "desc": "하월대 동남측 공신당 16칸 사당 몸체(길이 32m)"
+    },
+    {
+      "id": "gongsindang_matbae_roof",
+      "desc": "공신당 맞배지붕"
+    },
+    {
+      "id": "jongmyo_taejo_spirit_chamber_interior",
+      "desc": "1인칭 다이빙: 태조 고황제 제1신실 제단, 신주 감실 장, 제례 황금 향로 및 101m 파노라마 조망"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_woldae_horizontal_panorama",
+    "anchors": [
+      {
+        "name": "hotspot_woldae_horizontal_panorama",
+        "pos": [
+          0.0,
+          2.2,
+          16.0
+        ]
+      },
+      {
+        "name": "hotspot_taejo_spirit_chamber_1f",
+        "pos": [
+          -48.0,
+          2.5,
+          -10.5
+        ]
+      },
+      {
+        "name": "hotspot_samdo_royal_walkway",
+        "pos": [
+          0.0,
+          0.5,
+          60.0
+        ]
+      },
+      {
+        "name": "hotspot_gongsindang_shrine_front",
+        "pos": [
+          42.0,
+          1.5,
+          30.0
+        ]
+      }
+    ]
+  }
+}
