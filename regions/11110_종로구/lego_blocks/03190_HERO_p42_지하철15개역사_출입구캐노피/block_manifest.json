@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.1_jongno_spec117",
+  "spec_compliance": "RULE_117_ABSOLUTE_COMPLIANCE",
+  "composite_id": "11110_05_03190_042",
+  "block_id": "03190_HERO_p42_지하철15개역사_출입구캐노피",
+  "name": "지하철 15개 역사 출입구 캐노피",
+  "name_en": "Subway Station Entrance Canopies & Pole Signs",
+  "category": "CAT05_MOBILITY_INFRA",
+  "postal_code": "03190",
+  "heritage": {
+    "designation": "수도권 대중교통 인프라 랜드마크",
+    "name": "종로구 관내 15개 지하철역 표준 출입구 캐노피 (1·3·4·5호선 환승 네트워크)"
+  },
+  "coordinates": [
+    126.991814,
+    37.571441
+  ],
+  "orientation_deg": 174.2,
+  "heading": 174.2,
+  "heading_note": "정북 기준 시계방향 174.2° = 종로대로-보도 남북 축선 정합",
+  "ground": {
+    "mode": "snap_to_terrain",
+    "origin_y_m": 0.0,
+    "y_snap_m": 0.0,
+    "note": "모델 원점은 종로 보도 노면 기준(y=0.0). 절대 해발고도를 기재하지 않는다."
+  },
+  "base_plinth_height_m": 0.15,
+  "lod_switch_distance": 220,
+  "lod_thresholds_m": {
+    "lod3_distance": 250.0,
+    "lod2_distance": 800.0
+  },
+  "geometry": {
+    "lod3": {
+      "file": "model_lod3.gltf",
+      "triangles": 16532,
+      "bytes": 788579
+    },
+    "lod2": {
+      "file": "model_lod2.gltf",
+      "triangles": 372,
+      "bytes": 19640
+    }
+  },
+  "materials": {
+    "texture_atlas": "texture_atlas.webp",
+    "atlas_resolution": [
+      1024,
+      1024
+    ],
+    "v_flip_safe": true,
+    "pbr_channels": [
+      "albedo",
+      "normal",
+      "roughness",
+      "metallic"
+    ]
+  },
+  "hierarchical_components": [
+    {
+      "id": "subway_sidewalk_pavement",
+      "desc": "종로 보도 대지(48x24m, y=0.0m 스냅), 노란 점자블록 유도선 46m 2열 및 바닥 슬래브"
+    },
+    {
+      "id": "subway_entrance_canopies",
+      "desc": "곡면 강화유리 및 스틸 프레임 캐노피 4개소(아치 립 24조, 높이 3.6m), 역명 간판"
+    },
+    {
+      "id": "subway_stairs_and_escalator",
+      "desc": "지하 Y=-4.5m 하강 계단 64단, 에스컬레이터 발판 64단, 핸드레일 8열"
+    },
+    {
+      "id": "subway_pole_signs",
+      "desc": "1·3·4·5호선 노선별 4대 컬러 띠 표준 폴사인(높이 4.5m) 및 LED 역명판"
+    },
+    {
+      "id": "subway_elevator_tower",
+      "desc": "교통약자용 엘리베이터 투명 유리 큐브 타워(2.4x2.4x5.2m) 및 강철 프레임"
+    }
+  ],
+  "spatial_dive_anchors": {
+    "default_entry": "hotspot_subway_canopy_escalator_down_view",
+    "anchors": [
+      {
+        "name": "hotspot_subway_canopy_escalator_down_view",
+        "pos": [
+          -16.0,
+          1.4,
+          2.0
+        ]
+      },
+      {
+        "name": "hotspot_subway_pole_sign_street_view",
+        "pos": [
+          -5.5,
+          1.4,
+          6.5
+        ]
+      },
+      {
+        "name": "hotspot_subway_elevator_platform_view",
+        "pos": [
+          0.0,
+          1.4,
+          6.0
+        ]
+      },
+      {
+        "name": "hotspot_subway_concourse_upper_view",
+        "pos": [
+          5.5,
+          1.4,
+          -6.0
+        ]
+      }
+    ]
+  }
+}
